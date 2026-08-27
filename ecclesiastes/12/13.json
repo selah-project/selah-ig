@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ọjịị nke okwu ahụ dum ka a nụrụla: Yahwe na-atụ egwu—ọ bu n'uche, jiri obe-nsọ jide Ya—ọ bụghị, sọọ Ya nsọ ma na-edebe iwu Ya, n'ihi na nke a bụ ⟨ihe⟩ nzuzu nke mmadụ.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "ọjịị"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu ahụ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "dum"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ka a nụrụla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sọọ nsọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iwu Ya"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "iwu Ya"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "na-edebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe nzuzu nke"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:18:16.699242033Z",
+  "model": "glm-5.3"
+}

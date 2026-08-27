@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma ọ bụghị maka onye ikwu ya, onye kacha nso ya: maka nne ya, maka nna ya, maka nwa ya nwoke, maka nwa ya nwaanyị, na maka nwanne ya nwoke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "maka onye ikwu ya"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "onye kacha nso"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "maka nne ya"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "maka nna ya"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "maka nwa ya nwoke"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "maka nwa ya nwaanyị"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "na maka nwanne ya nwoke"
+    }
+  ],
+  "timestamp": "2026-08-27T07:01:37.117674867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Ka ogige ha bụrụ nke tọgbọrọ chakoo, ekwela ka onye bi n'ụlọikwuu ha.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ka ọ bụ"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ogige ha"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "tọgbọrọ chakoo"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "n'ụlọikwuu ha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ka ọ dị"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "onye bi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:35.704644617Z",
+  "model": "glm-5.3"
+}

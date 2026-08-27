@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 34:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Nụtụrụ nso, unu mba ndị ahụ, ka ḿ nụ; unu ndị agbụrụ, tinye ntị: ka ⟨the⟩ ụwa nụ, yana ihe jupụtara ya; ụwa nile, na ihe niile na-apụta ya.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "nụtụrụ nso"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "unu mba ndị ahụ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ka ḿ nụ"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "unu ndị agbụrụ"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "tinye ntị"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ka ⟨the⟩ nụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ ụwa"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "yana ihe jupụtara ya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ụwa nile"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ihe niile"
+    },
+    {
+      "surface": "צאצאיה",
+      "gloss": "na-apụta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:52:51.737273960Z",
+  "model": "glm-5.3"
+}

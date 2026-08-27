@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Otu nke m, m ka m mere gị, ma gịnị ka m mebisịrị gị? Za m.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Otu nke m"
+    },
+    {
+      "surface": "מה",
+      "gloss": "m ka"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "m mere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ma gịnị"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "ka m mebisịrị gị"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Za"
+    },
+    {
+      "surface": "בי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T12:57:29.125847417Z",
+  "model": "glm-5.3"
+}

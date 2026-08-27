@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Dịka onyinye nke mbụ-ọnụnọ, unu nwere ike iwebata ⟨את⟩ ha nye Yahwe, mana ha gaghị elu n'elu ebe-ịchụ-aja maka ụtọ na-atọ ụtọ.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "dịka onyinye"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "nke mbụ-ọnụnọ"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "unu nwere ike iwebata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mana n'elu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe-ịchụ-aja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ha ga-elu"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "maka ụtọ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "na-atọ ụtọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:23.113062456Z",
+  "model": "glm-5.3"
+}

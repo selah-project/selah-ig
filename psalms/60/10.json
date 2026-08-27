@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Moab ⟨bụ⟩ ite ọsa m; n'elu Edom ka m na-atụ uzo m; n'ihi m, Peleshet, ti mkpu.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "ite"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "ọsa m"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "m na-atụ"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "uzo m"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'ihi m"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "ti mkpu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:14.982366976Z",
+  "model": "glm-5.3"
+}

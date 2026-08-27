@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "na ⟨את⟩ mmanụ ite mmanụ, na ⟨את⟩ ụgbọ nke ihe na-esi isi ụtọ maka ebe nsọ; dịka ihe niile m nyere gị n iwu, ka ha ga-eme.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mmanụ ite mmanụ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "nke a na-etere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụgbọ nke ihe na-esi isi ụtọ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ụgbọ nke ihe na-esi isi ụtọ"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "nke ihe na-esi isi ụtọ"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "maka ebe nsọ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dịka ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "m nyere gị n'iwu"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ka ha ga-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T06:32:39.338935144Z",
+  "model": "glm-5.3"
+}

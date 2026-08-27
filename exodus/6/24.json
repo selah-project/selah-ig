@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 6:24",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ndị nwa Korach: Asir, Elkanah, na Aviasaf; ndị a bụ ezinụlọ ndị Korachi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndị nwa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Asir"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "na Elkanah"
+    },
+    {
+      "surface": "ואביאסף",
+      "gloss": "na Aviasaf"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ezinụlọ ndị"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "Korachi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:35.010457486Z",
+  "model": "glm-5.3"
+}

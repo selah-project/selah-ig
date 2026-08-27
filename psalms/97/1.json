@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 97,
+  "translation": "Yahwe na-achị; ka ⟨the⟩ ụwa nwee obi ụtọ, ka agwaetiti ndị dị ọtụtụ nwee Ọṅụ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "na-achị"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ka o nwee obi ụtọ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ka ha nwee Ọṅụ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "agwaetiti"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọtụtụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:00.248446157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Leba anya site n'ebe obibi nsọ gị, site n'eluigwe, gọzie ndị gị, ⟨את⟩ Israel, na ⟨את⟩ ala ahụ nke ị nyere anyị, dịka i ṅụrụ iyi nye ndị nna anyị, ala na-asọ mmiri ara na mmanụ aṅụ.",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "Leba anya"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "site n'ebe obibi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "nsọ gị"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "gọzie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị gị"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndị gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala ahụ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ị nyere"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "i ṅụrụ iyi"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "ndị nna anyị"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "na-asọ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mmiri ara"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na mmanụ aṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:11:21.405183195Z",
+  "model": "glm-5.3"
+}

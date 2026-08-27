@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ọ jikọtara ⟨את⟩ ịnyịnya-ụgbọ ya, ma were ⟨את⟩ ndị ya kpamkpam ya.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "ọ jikọtara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ịnyịnya-ụgbọ ya"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ịnyịnya-ụgbọ ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:17:13.852861326Z",
+  "model": "glm-5.3"
+}

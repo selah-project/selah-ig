@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Moshe gọọrọ ⟨את⟩ aka ya n'eluigwe, ma bụrụ ọchịchịrị nzuzo n'ala Mitzrayim niile, ụbọchị atọ.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "gọọrọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka ya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ma bụrụ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ọchịchịrị"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "nzuzo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:58.051141668Z",
+  "model": "glm-5.3"
+}

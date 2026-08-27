@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ma mmiri enweghị maka nzukọ ahụ, ha gbakọtakwara onwe ha megide Moshe na megide Aharon.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma ... enweghị"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nọ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "maka nzukọ ahụ"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "ha gbakọtakwara onwe ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na megide"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-27T07:31:53.148866738Z",
+  "model": "glm-5.3"
+}

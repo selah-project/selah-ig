@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "'N'ihi na Yahwe enweghị ike ibute ⟨את⟩ ndị a n'ala Ọ ṅụrụ iyi nye ha, n'ihi ya ka Ọ gburu ha n'ọzara.'",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "enweghị ike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ibute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ọ"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ṅụrụ iyi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nye ha"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "ka Ọ gburu ha"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    }
+  ],
+  "timestamp": "2026-08-27T07:25:17.415374610Z",
+  "model": "glm-5.3"
+}

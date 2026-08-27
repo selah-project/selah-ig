@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ma o wee sị, \"Ka anyị na-aga njem, anyị gaa; m ga-aga n'ihu gị.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ma o wee sị"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "ka anyị na-aga njem"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "anyị gaa"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "m ga-aga"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "n'ihu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:50:02.575376953Z",
+  "model": "glm-5.3"
+}

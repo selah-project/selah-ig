@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Ma Ị, Ịchụpụla ma jụọla; iwe were Gị na Mashiach Gị.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma Ị"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "Ịchụpụla"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "ma jụọla"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "iwe were Gị"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiach Gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:34.429041065Z",
+  "model": "glm-5.3"
+}

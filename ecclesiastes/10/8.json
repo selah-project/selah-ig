@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Onye na-egwu olulu ga-adaba n'ime ya, na onye na-emebi mgbidi, agwọ ga-ata ya.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Onye na-egwu"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "olulu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ga-adaba"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "na onye na-emebi"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "mgbidi"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ga-ata ya"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "agwọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:16:17.003306968Z",
+  "model": "glm-5.3"
+}

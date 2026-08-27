@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ndị a bụ oge-ezumezu Yahwe, mgbakọ nsọ, nke unu ga-akpọ ⟨את⟩ ha n'oge ha.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ndị a"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "oge-ezumezu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "mgbakọ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "unu ga-akpọ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "n'oge ha"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "n'oge ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:03:27.655339496Z",
+  "model": "glm-5.3"
+}

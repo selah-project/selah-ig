@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 24:23",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "David ṅụrụ iyi nye Shaul, Shaul wee gaa n'ụlọ ya, ma David na ndị ikè ya rịgoro n'elu ebe mgbidi.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "ṅụrụ iyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "nye Shaul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wee gaa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga-"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "n'ụlọ ya"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ma David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "na ndị ikè ya"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "rịgoro"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המצודה",
+      "gloss": "ebe mgbidi"
+    }
+  ],
+  "timestamp": "2026-08-27T09:17:35.501663853Z",
+  "model": "glm-5.3"
+}

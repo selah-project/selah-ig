@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 135,
+  "translation": "Maka Yahwe ga-ekpe ndị ya ikpe, ma maka ndị ohu ya ọ ga-akasi mmeụọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ga-ekpe ikpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ma maka"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "ọ ga-akasi mmeụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:44.928068511Z",
+  "model": "glm-5.3"
+}

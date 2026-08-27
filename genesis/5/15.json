@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Mahalalel wee dịrị ndụ afọ ise na iri isii, ọ wee mụọ ⟨את⟩ Yered.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wee dịrị ndụ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ise"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "na iri isii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ọ wee mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yered"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:06.558999681Z",
+  "model": "glm-5.3"
+}

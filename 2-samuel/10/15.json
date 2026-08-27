@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Aram hụrụ na a kụrụ ha n'ihu Yisrael, ha wee gbakọta ọnụ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "a kụrụ ha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ha wee gbakọta"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:35:38.129168652Z",
+  "model": "glm-5.3"
+}

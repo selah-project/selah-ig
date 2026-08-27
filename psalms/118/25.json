@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "Biko, Yahwe, zọpụta ugbu a; biko, Yahwe, mee ka ọga nke ọma ugbu a.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "zọpụta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "mee ka ọga nke ọma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ugbu a"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:00.433821745Z",
+  "model": "glm-5.3"
+}

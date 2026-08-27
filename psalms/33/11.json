@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Atụmatụ nke Yahwe ga-adịgide ruo mgbe ebighị ebi, echeche nke obi Ya ruo ọgbọ na ọgbọ.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "atụmatụ nke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ga-adịgide (guzo)"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "echeche nke"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "obi Ya"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ruo ọgbọ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na ọgbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:37.891549586Z",
+  "model": "glm-5.3"
+}

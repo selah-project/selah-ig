@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Mgbe ha nwere okwu, ọ na-abịakwu m, m wee kpee ikpe n'etiti nwoke na onye ya na ya dịkọrọ, ma mee ha mata ⟨את⟩ iwu Elohim na ⟨את⟩ iwu ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "na-abịa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n'ebe m nọ"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "m kpee ikpe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "onye ya na ya dịkọrọ"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "m mee ha mata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iwu ya"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "iwu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:21:40.042506738Z",
+  "model": "glm-5.3"
+}

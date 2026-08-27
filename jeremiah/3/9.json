@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "O si na mmfe nke ikwa-ike ya rute, o ruru ⟨את⟩ ala aka, ma na-akwa ike na ⟨את⟩ nkume na ⟨את⟩ osisi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "O si na"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "mmfe"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "ikwa-ike ya"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "o ruru aka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "ma na-akwa ike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkume"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "osisi"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "osisi"
+    }
+  ],
+  "timestamp": "2026-08-27T11:13:00.589021010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "O nyere ⟨את⟩ olu ya n'ịkwa ákwá, otu Mitzrayim nụrụ, yana ụlọ Paroh nụrụ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "O nyere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olu ya"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "olu ya"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "n'ịkwa ákwá"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-27T06:02:30.223425586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Bee akwa dịka nwa agbọghọ na-amaghị nwoke na-ejide akwa uwe ọjọọ n'ihi di nke ntorobịa ya.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "bee akwa"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "dịka nwa agbọghọ na-amaghị nwoke"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "na-ejide"
+    },
+    {
+      "surface": "שק",
+      "gloss": "akwa uwe ọjọọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "di"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "ntorobịa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:42:55.584353118Z",
+  "model": "glm-5.3"
+}

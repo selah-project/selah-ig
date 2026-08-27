@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 54,
+  "translation": "Maka ị ga-ekewa n'aka nri na n'aka ekpe, ma mkpụrụ gị ga-eketa ⟨את⟩ mba ndị ọzọ, ma ha ga-eme ka ⟨את⟩ obodo ndị a gbahapụrụ nwe mmadụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "aka nri"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "na aka ekpe"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "ị ga-ekewa"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ma mkpụrụ gị"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị ọzọ"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ga-eketa"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ma obodo"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "ndị a gbahapụrụ"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "ha ga-eme ka nwe mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:05:44.921670283Z",
+  "model": "glm-5.3"
+}

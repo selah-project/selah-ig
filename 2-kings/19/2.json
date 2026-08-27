@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "O ziputara ⟨את⟩ Elyakim onye nọ n'elu ụlọ ahụ, na Shevna ode-akwụkwọ, na ⟨את⟩ ndị okenye ndị nchụàjà, na ha na-ekpu ákwà mkpọ, gaa nye Yeshayahu onye amụma, nwa Amots.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ọ ziputara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ ahụ"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "na Shevna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ode-akwụkwọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị okenye ndị nchụàjà"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchụàjà"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "na-ekpu"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "ákwà mkpọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa nye"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "onye amụma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-08-27T10:26:25.530748136Z",
+  "model": "glm-5.3"
+}

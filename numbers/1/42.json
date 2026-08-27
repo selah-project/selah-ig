@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ndị Naphtali, site na ọmụmụ ha, site n'ezinụlọ ha, site n'ụlọ nna nna ha, dịka ọnụọgụ aha, site na afọ iri abụọ na elu, onye ọ bụla na-apụ ọgụ:",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naphtali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "site na ọmụmụ ha"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "site n'ezinụlọ ha"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "site n'ụlọ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nna nna ha"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "dịka ọnụọgụ"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "aha"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "na elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "na-apụ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ọgụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:07:58.771131073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ụzọ Yahwe niile bụ chesed na eziokwu, maka ndị na-echebara ọgbụgba-ndụ ya nche na ihe ndekọ ya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na eziokwu"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "maka ndị na-echebara nche"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ọgbụgba-ndụ ya"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "na ihe ndekọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:10.085953923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "A rụrụ gị n'ịbata gị, na a rụrụ gị n'ịpụ gị.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "a rụrụ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "n'ịbata gị"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "na a rụrụ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "n'ịpụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:15:05.116949035Z",
+  "model": "glm-5.3"
+}

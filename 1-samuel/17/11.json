@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Mgbe Shaool na Yisrael niile nụrụ ⟨את⟩ okwu Pelishtia ndị a, ha tara mmiri ma na-atụkwa nnukwu egwu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mgbe ... nụrụ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaool"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "nke Pelishtia"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "ha tara mmiri"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "na-atụkwa egwu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nnukwu"
+    }
+  ],
+  "timestamp": "2026-08-27T09:13:14.209403699Z",
+  "model": "glm-5.3"
+}

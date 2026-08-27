@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 19:4",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ma Yehoshafat bi na Yerushalayim; ọ laghachikwara ma pụọ n'etiti ndị ahụ, site na Beer-Sheba ruo ugwu Efrayim, ma mee ka ha laghachi n'aka Yahwe, Elohim nke nna nna ha.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "laghachikwara"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ma pụọ"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "n'etiti ndị ahụ"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "site na Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישיבם",
+      "gloss": "ma mee ka ha laghachi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "nke nna nna ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:14:01.310648992Z",
+  "model": "glm-5.3"
+}

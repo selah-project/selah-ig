@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Umụ ụmụ nwa eze ndị ahụ n'etiti ndị a hụrụ n'anya nke gị; eze nwanyị guzoro n'aka nri gị, na ọlaedo Ophir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "umụ ụmụ nwa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "eze ndị"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "ndị a hụrụ n'anya nke gị"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "guzoro"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "eze nwanyị"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "n'aka nri gị"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "na ọlaedo (dị ọcha)"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ophir"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:37.209068178Z",
+  "model": "glm-5.3"
+}

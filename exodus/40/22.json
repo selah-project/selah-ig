@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "O wee tinye ⟨את⟩ tebule ahụ n'ụlọ nzukọ ahụ, n'akụkụ ugwu nke ụlọikwu ahụ, n'èzí mkpuchi ahụ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "o wee tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tebule ahụ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tebule ahụ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "akụkụ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ụlọikwu ahụ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ndị ugwu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "n'èzí"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "mkpuchi ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:08.397475870Z",
+  "model": "glm-5.3"
+}

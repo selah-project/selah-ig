@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Ncheta nke ezigbo ọmma ⟨gị⟩ ukwu ha ga-ṅụkọta ọnụ, na ikpe ziri ezi ⟨gị⟩ ha ga-abụ abụ.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ncheta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "nke ezigbo ọmma ⟨gị⟩"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "ha ga-ṅụkọta ọnụ"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "na ikpe ziri ezi ⟨gị⟩"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ha ga-abụ abụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:08.736035430Z",
+  "model": "glm-5.3"
+}

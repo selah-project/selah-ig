@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Gbajie aka onye ọjọọ, nke ajọ onye; nyochaa ajọ omume ya — ị gaghị ahụ ihe ọ bụla.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "gbajie"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "aka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ọjọọ"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "nke ajọ onye"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "nyochaa"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "ajọ omume ya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:37.735440897Z",
+  "model": "glm-5.3"
+}

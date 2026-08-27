@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "David rịgooro site n'ebe ahụ, wee nọrọ n'ụlọ ndị siri ike nke En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "rịgooro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "site n'ebe ahụ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wee nọrọ"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "n'ụlọ ndị siri ike"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-27T09:19:33.067553533Z",
+  "model": "glm-5.3"
+}

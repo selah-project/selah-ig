@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Le, ⟨ọ⟩ na-amụ nsogbu n'afọ; ⟨ọ〉 ime mwụna anwansi, ma mụọ asịrị ụgha.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "na-amụ n'afọ"
+    },
+    {
+      "surface": "און",
+      "gloss": "nsogbu"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "ma ime"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mwụna anwansi"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "ma mụọ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "asịrị ụgha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:06.028739084Z",
+  "model": "glm-5.3"
+}

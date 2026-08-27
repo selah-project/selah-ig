@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Dịka a na-ewepụ ya n'ehi nke àjà udo; nchu-aja ga-ere ha n'elu èbè nke àjà ọkụ.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "a na-ewepụ ya"
+    },
+    {
+      "surface": "משור",
+      "gloss": "site n'ehi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "àjà"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "nke udo"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "ga-ere ha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "nchu-aja"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "èbè"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "àjà ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:46:25.309680435Z",
+  "model": "glm-5.3"
+}

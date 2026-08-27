@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma ⟨את⟩ eze ndị a niile na ⟨את⟩ ala ha ka Yehoshua jidere n'otu oge, n'ihi na Yahwe, Elohim nke Yisrael, na-alụ ọgụ maka Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eze ndị a niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "eze ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala ha"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ala ha"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "jidere"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "oge"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "na-alụ ọgụ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "maka Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T08:28:33.301923706Z",
+  "model": "glm-5.3"
+}

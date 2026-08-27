@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 11:13",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "N'ihi na ọnụ ọgụgụ obodo gị ka chi gị dị, Yehuda; ma dịka ọnụ ọgụgụ okporo ụzọ Yerushalayim ka unu tinyere altari ihere, altari iṅụ ọkụ maka Baal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ọnụ ọgụgụ"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "obodo gị"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ka … dị"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "chi gị"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "ma ọnụ ọgụgụ"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "okporo ụzọ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "unu tinyere"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "altari"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ihere"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "altari"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "iṅụ ọkụ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "maka Baal"
+    }
+  ],
+  "timestamp": "2026-08-27T11:21:51.833803942Z",
+  "model": "glm-5.3"
+}

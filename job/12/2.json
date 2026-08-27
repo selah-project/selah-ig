@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "N'ezie, ndị unu bu ⟨ndị⟩ omume, ma ọgụgụ isi ga-anwụkwa ọnụ unu.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "N'ezie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(na)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨ndị⟩ omume"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "ọnụ unu"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ga-anwụ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ọgụgụ isi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:42:15.102242133Z",
+  "model": "glm-5.3"
+}

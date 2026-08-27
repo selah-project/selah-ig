@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'ụbọchị ahụ, Adonai ga-ewepụ ⟨את⟩ mma nke mkpọkpọ ụkwụ ndị ahụ, na eriri isi, na ihe oyibo ọnwa;",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "N'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ga-ewepụ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mma"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "mma"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "nke mkpọkpọ ụkwụ"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "na eriri isi"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "na ihe oyibo ọnwa"
+    }
+  ],
+  "timestamp": "2026-08-27T10:34:26.868110991Z",
+  "model": "glm-5.3"
+}

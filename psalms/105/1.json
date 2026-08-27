@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Kesie ndi nye Yahwe, kpọọ aha ya, me ka ọ na-amata n'etiti ndị mmadụ ihe o mere.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Kesie ndi nye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kpọọ"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "me ka ọ na-amata"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "n'etiti ndị mmadụ"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ihe o mere"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:43.372349996Z",
+  "model": "glm-5.3"
+}

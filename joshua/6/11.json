@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "O mere ka arkw Yahwe gbagharie ⟨את⟩ obodo ahụ otu ugboro gburugburu, ha bịakwara n'ogige ahụ, ha nọkwa n'ogige ahụ ruo abalị.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "O mere ka ọ gbagharie"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ahụ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "ugboro"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha bịakwara"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "n'ogige ahụ"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ha nọkwa ruo abalị"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "n'ogige ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:21:15.525178233Z",
+  "model": "glm-5.3"
+}

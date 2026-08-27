@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Anyị wee sị ya, anyị ⟨bụ⟩ ndị ezi omume; anyị abụghị ndị nledo.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "anyị wee sị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ndị ezi omume"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abụghị"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "anyị bụ"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ndị nledo"
+    }
+  ],
+  "timestamp": "2026-08-27T05:59:09.956314394Z",
+  "model": "glm-5.3"
+}

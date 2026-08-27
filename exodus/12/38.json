@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma ọbịbịa mgbagwoju anya dịkwa ukwuu rịgooro ⟨את⟩ ha, na atụrụ na ehi, anụ ụlọ dị arọ ukwuu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ma… dịkwa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mgbagwoju anya"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dị ukwuu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "rịgooro"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "na atụrụ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "na ehi"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "anụ ụlọ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "dị arọ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:16:51.604053078Z",
+  "model": "glm-5.3"
+}

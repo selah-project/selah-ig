@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "Ha ga-atụ gị egwu tinyere anyanwụ, ma n'ihu ọnwa, ọgbọ na ọgbọ ndị.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "ha ga-atụ gị egwu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tinyere"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "anyanwụ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ma n'ihu"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ọnwa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ọgbọ ndị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:59.557645618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 2:13",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "N'ihi na ihe ọjọọ abụọ ndị mmadụ m mere: ha hapụrụ ⟨את⟩ m, isi iyi nke mmiri dị ndụ, iji gwuo ha olulu mmiri — olulu ndị mgbawa mgbawa, ndị nwere ike ịnọgide na-adịghị mmiri ahụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị mmadụ m"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m (ha hapụrụ m)"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ha hapụrụ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "isi iyi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dị ndụ"
+    },
+    {
+      "surface": "לחצב",
+      "gloss": "iji gwuo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בארות",
+      "gloss": "olulu mmiri"
+    },
+    {
+      "surface": "בארת",
+      "gloss": "olulu"
+    },
+    {
+      "surface": "נשברים",
+      "gloss": "ndị mgbawa mgbawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-adịghị"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nwere ike ịnọgide"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:12:24.048171128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Mgbe onye ajọ omume na-abịa, ọṅụ ọjọọ na-abịakwa; na mmehie na-esote mkparị ọnụ.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "mgbe ... na-abịa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ajọ omume"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ọ na-abịa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwaa"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ọṅụ ọjọọ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na ya na"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "mkparị ọnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:25:03.056193913Z",
+  "model": "glm-5.3"
+}

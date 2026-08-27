@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Mgbe unu na-ewe ⟨את⟩ owuwe nke ala unu, ị gaghị ewe akụkụ ubi gị kpamkpam iji we ruo ngwụcha, ma mkpụrụ fọdụrụ n'owuwe gị, ị gaghị atụ.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "mgbe unu na-ewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "owuwe"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "owuwe"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ala unu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ị gaghị"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "ewe kpamkpam"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "akụkụ"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ubi gị"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "iji we"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "mkpụrụ fọdụrụ"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "n'owuwe gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ị gaghị"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "atụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:59:03.141226524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Otua ka nna nna unu mere, mgbe m zipụrụ ha na Kadesh-Barnea ka ha gaa lelee ⟨את⟩ ala ahụ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "otua ka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ha mere"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "nna nna unu"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "mgbe m zipụrụ ha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Kadesh-Barnea"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ka ha lelee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ahụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:42:36.186968109Z",
+  "model": "glm-5.3"
+}

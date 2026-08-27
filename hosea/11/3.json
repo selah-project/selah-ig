@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "M nwekwara mụziri Efrayim ije, na-ejikọta ha n'ubu ha; ma ha amaghị na m gwọrọ ha ahụ.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "m nwekwara"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "mụziri m ije"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "na-ejikọta ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "ubu ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ha amaghị"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "m gwọrọ ha ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:41:23.437977924Z",
+  "model": "glm-5.3"
+}

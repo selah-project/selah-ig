@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Yahwe weere napụta ⟨את⟩ Yisrael n'ụbọchị ahụ; agha ahụ weere gafee ⟨את⟩ Bet-Aven.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "weere napụta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "agha ahụ weere"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "gafee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Aven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "און",
+      "gloss": "-Aven"
+    }
+  ],
+  "timestamp": "2026-08-27T09:11:30.032481378Z",
+  "model": "glm-5.3"
+}

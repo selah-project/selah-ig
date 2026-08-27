@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Ugwu ⟨nke⟩ Elohim bụ ugwu Bashan; ugwu nwere ọnụ ọnụ bụ ugwu Bashan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "nwere ọnụ ọnụ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:55.728189289Z",
+  "model": "glm-5.3"
+}

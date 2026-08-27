@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 110,
+  "translation": "Site n'osimiri nta n'ụzọ ọ ga-aṅụ; ya mere ọ ga-eweli isi elu.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "site n'osimiri nta"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "י שתה",
+      "gloss": "ọ ga-aṅụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nke ahụ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ọ ga-eweli elu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:20.843549969Z",
+  "model": "glm-5.3"
+}

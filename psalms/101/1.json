@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 101,
+  "translation": "⟨nke⟩ David, abụ egwu. Chesed na ikpe ziri ezi ka m ga-abụ abụ; nye Gị, Yahwe, ka m ga-agụ ṅụọ.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "⟨nke⟩ David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ egwu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na ikpe ziri ezi"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ka m ga-abụ abụ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nye Gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ka m ga-agụ ṅụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:32.786252169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ma ndị Beerot gbagara Gitayim, ha nọ ebe ahụ dịka ndị ọbịa ruo ụbọchị a.",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "gbagara"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "ndị Beerot"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "Gitayim"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ha nọ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "dịka ndị ọbịa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T09:30:43.658313230Z",
+  "model": "glm-5.3"
+}

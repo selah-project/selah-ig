@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 20:5",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "David wee sị Yehonatan: Le, ọnwa ọhụrụ ga-abụ echi, mụ onwe m ga-anọdụ ala rie nri ⟨ihe oriri⟩ tinye eze; zụta m ka m na-ezo n'ọhịa ruo mgbede nke ụbọchị nke atọ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ọnwa ọhụrụ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "echi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mụ onwe m"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ga-anọdụ ala"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "anọdụ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tinye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "rie nri ⟨ihe oriri⟩"
+    },
+    {
+      "surface": "ושלחתני",
+      "gloss": "zụta m"
+    },
+    {
+      "surface": "ונסתרתי",
+      "gloss": "ka m na-ezo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "n'ọhịa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mgbede"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "nke ụbọchị nke atɔ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:17:22.051516362Z",
+  "model": "glm-5.3"
+}

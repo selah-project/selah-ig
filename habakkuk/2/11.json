@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "N'ihi na nkume ga-etiku mkpu site n'olulu mgbidi, ma osisi rọba ga-aza ya site n'osisi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "site n'olulu mgbidi"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "ga-etiku mkpu"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "ma osisi rọba"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "site n'osisi"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "ga-aza ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:56:48.579984361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "David wee sị ⟨nwa-okoro⟩ ahụ na-akọ ya akụkọ, sị: Olee otu i si mata na Shaul anwụọla, na Yehonatan nwa ⟨ya⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sị"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "⟨nwa-okoro⟩ ahụ"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "na-akọ akụkọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Olee otu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "i si mata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מת",
+      "gloss": "anwụọla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "na Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:27:47.253483488Z",
+  "model": "glm-5.3"
+}

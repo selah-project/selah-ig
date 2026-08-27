@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "N'ihi na mbibi ka obi ha na-atụle, na mkpagbu ka mkpụrụ ọnụ ha na-ekwu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שד",
+      "gloss": "mbibi"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "na-atụle"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "obi ha"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "na mkpagbu"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "mkpụrụ ọnụ ha"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "na-ekwu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:29:40.641644945Z",
+  "model": "glm-5.3"
+}

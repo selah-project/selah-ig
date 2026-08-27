@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 34:7",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ehi ọhịa ga-edada ha, na ehi ntorobịa na ndị siri ike; ala ha ga-aṅụọ ruo ju n'ọbara, uzuzú ha ga-aba arọ site na abụba.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ga-edada"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "ehi ọhịa"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ופרים",
+      "gloss": "na ehi ntorobịa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "ndị siri ike"
+    },
+    {
+      "surface": "ורותה",
+      "gloss": "ga-aṅụọ ruo ju"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ala ha"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "n'ọbara"
+    },
+    {
+      "surface": "ועפרם",
+      "gloss": "uzuzú ha"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "site na abụba"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "ga-aba arọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:54:41.953414957Z",
+  "model": "glm-5.3"
+}

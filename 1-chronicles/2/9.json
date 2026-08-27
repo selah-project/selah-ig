@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ụmụ Chetsron ndị a mụrụ ya: ⟨את⟩ Yerachmeel, na ⟨את⟩ Ram, na ⟨את⟩ Kelubai.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "a mụrụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerachmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerachmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kelubai"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubai"
+    }
+  ],
+  "timestamp": "2026-08-27T15:50:57.124658929Z",
+  "model": "glm-5.3"
+}

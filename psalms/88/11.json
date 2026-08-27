@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 88,
+  "translation": "Maka ndị nwụrụ anwụ ka ị na-eme ihe dị ịtụnanya? Ọ bụ Rofaim ga-ebilite were too na-eto gị? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "maka ndị nwụrụ anwụ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ị na-eme"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ihe dị ịtụnanya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Rofaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ga-ebilite"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ga-eto gị"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:26.618681137Z",
+  "model": "glm-5.3"
+}

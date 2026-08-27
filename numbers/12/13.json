@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Moshe rịọrọ Yahwe arịrịọ, sị: El, biko, gwọọ ya, biko.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "rịọrọ arịrịọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "gwọọ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:22:40.457126700Z",
+  "model": "glm-5.3"
+}

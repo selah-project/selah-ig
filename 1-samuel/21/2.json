@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "David batakwara Nob, ruo Akimelek onye nchụàjà; Akimelek na-atụ ọjị izute David, wee sị ya: Gịnị mere ka ị nọ naanị gị, enweghịkwa onye ọ bụla ⟨את⟩ dị ná nso gị?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "batakwara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "Nob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akimelek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "na-atụ ọjị"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akimelek"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "izute"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "gịnị mere"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "naanị gị"
+    },
+    {
+      "surface": "ו איש",
+      "gloss": "enweghịkwakwa onye ọ bụla"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dị ná nso gị",
+      "marks": "dị ná nso gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:18:10.060501144Z",
+  "model": "glm-5.3"
+}

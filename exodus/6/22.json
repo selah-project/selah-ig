@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ndị nwa Uzziel: Misha.el, Eltzafan, na Sitri.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndị nwa"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uzziel"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Misha.el"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "na Eltzafan"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "na Sitri"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:35.010138763Z",
+  "model": "glm-5.3"
+}

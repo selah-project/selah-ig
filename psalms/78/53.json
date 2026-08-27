@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Duru ha n'udo n'enweghị ihe ize, ha amaghị egwu; ma oké osimiri kpuchiri ⟨את⟩ ndị iro ha.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "duru ha"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "n'udo n'enweghị ihe ize"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "amarụ egwu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị iro ha"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ndị iro ha"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "kpuchiri"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:16.348482905Z",
+  "model": "glm-5.3"
+}

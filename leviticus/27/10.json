@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ọ gaghị agbanwe ya, ọ gaghị agbanwe ⟨את⟩ ya — nke ọma maka ọjọọ ma ọ bụ ọjọọ maka nke ọma; ma ọ bụrụ na ọ na-agbanwe n'ezie anụ ụlọ maka anụ ụlọ, mgbe ahụ ⟨yá⟩ na nke a gbanwere ya ga-abụ ⟨ihe⟩ nsọ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ ga-aghị"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "agbanwe ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ ga-aghịkwa"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "agbanwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nke ọma"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "maka ọjọọ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "maka nke ọma"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "המר",
+      "gloss": "ọ na-agbanwe n'ezie"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "ọ gbanwere"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "anụ ụlọ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "maka anụ ụlọ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mgbe ahụ ọ ga-abụ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yá onwe ya"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "na nke a gbanwere ya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:11:53.083143569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 3:8",
+  "book": "jonah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Mmadụ na anụmanụ ka ha kekiri shakkim, ka ha kpọọ Elohim oku n'ike; onye ọ bụla laghachie site n'ụzọ ọjọọ ya na site n'ikeike dị n'aka ha.",
+  "tokens": [
+    {
+      "surface": "ויתכסו",
+      "gloss": "ka ha kekiri"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "shakkim"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "ויבהמה",
+      "gloss": "na anụmanụ"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ka ha kpọọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "n'ike"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ka ha laghachi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "site n'ụzọ ya"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na site na"
+    },
+    {
+      "surface": "החמס",
+      "gloss": "ikeike ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "dị n'aka ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:54:16.500377512Z",
+  "model": "glm-5.3"
+}

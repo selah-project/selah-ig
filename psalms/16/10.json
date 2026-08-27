@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Maka ị gaghị ahapụ nefesh m na Sheol; ị gaghị enye onye-ofuma gị ịhụ ọdịda",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ahapụ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh m"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "na Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "enye"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "onye-ofuma gị"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ịhụ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ọdịda"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:40.469930841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "habakkuk 1:16",
+  "book": "habakkuk",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "N'ihi nke a ọ na-echu àjà maka azụ mkpọsa ya, ma na-ere nsí maka azụ ukwu ya, n'ihi na n'ime ya anụ òké ya buru ibu ma nri ya bara ụba.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "יזבח",
+      "gloss": "ọ na-echu àjà"
+    },
+    {
+      "surface": "לחרמו",
+      "gloss": "maka azụ mkpọsa ya"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ma na-ere nsí"
+    },
+    {
+      "surface": "למכמרתו",
+      "gloss": "maka azụ ukwu ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "buru ibu"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "òké ya"
+    },
+    {
+      "surface": "ומאכלו",
+      "gloss": "ma nri ya"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "bara ụba"
+    }
+  ],
+  "timestamp": "2026-08-27T12:57:19.517418488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ọ tụrụ ime, wee mụọ nwa nwoke, wee sị: Elohim ewèla ⟨את⟩ mkparị m.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ọ tụrụ ime"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wee mụọ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ewèla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkparị m"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "mkparị m"
+    }
+  ],
+  "timestamp": "2026-08-27T05:44:16.242958764Z",
+  "model": "glm-5.3"
+}

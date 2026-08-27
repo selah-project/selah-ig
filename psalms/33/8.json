@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ka ụwa niile tụọ Yahwe egwu; ka ndị niile na-ebi n'ụwa nile chọọ ya egwu n'ihi ya.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "ka ha tụọ egwu"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ka ha na-atụ ụjọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị na-ebi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "n'ụwa nile"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:57.187337190Z",
+  "model": "glm-5.3"
+}

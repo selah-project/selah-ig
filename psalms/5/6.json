@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ndị isi ike agaghị edozi onwe ha n'ihu anya gị; ị kpọrọ ndị niile na-eme ajọ omume asị.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "edozi onwe ha"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "ndị isi ike"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "anya gị"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ị kpọrọ asị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "און",
+      "gloss": "ajọ omume"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:12.527143922Z",
+  "model": "glm-5.3"
+}

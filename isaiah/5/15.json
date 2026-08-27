@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Mmadụ a na-atụgbasa, nwoke a na-akpasu ike, ma anya ndị eluunu na-agbadata ala.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "a na-atụgbasa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "a na-akpasu ike"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ma anya"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "ndị eluunu"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "na-agbadata ala"
+    }
+  ],
+  "timestamp": "2026-08-27T10:35:30.504700570Z",
+  "model": "glm-5.3"
+}

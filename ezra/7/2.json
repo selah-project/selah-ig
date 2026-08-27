@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "nwa Shallum, nwa Tsadok, nwa Achituv",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achituv"
+    }
+  ],
+  "timestamp": "2026-08-27T15:37:10.710386217Z",
+  "model": "glm-5.3"
+}

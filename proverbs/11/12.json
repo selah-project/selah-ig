@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Onye na-ele onye ya na ya dịkọrọ anya n'ụzọ mkparị, ọ na-enweghị obi; ma onye nwere nghọta na-edebe ịmụmị ọnụ.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "na-ele anya n'ụzọ mkparị"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "onye ya na ya dịkọrọ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "na-enweghị"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ma onye"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "nwere nghọta"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "na-edebe ịmụmị ọnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:20:37.267351472Z",
+  "model": "glm-5.3"
+}

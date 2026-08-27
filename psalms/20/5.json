@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ka o nyere gị dịka obi gị si chọọ, ma mejupụta atumatu gị niile.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ka o nyere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "dịka obi gị si chọọ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma ... niile"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "atumatu gị"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "mejupụta"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:37.204495941Z",
+  "model": "glm-5.3"
+}

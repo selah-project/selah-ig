@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ka ha ṅụọ n'ahụ n'ihi ụgwọ ihere ha, ndị na-asị m, Heh, heh.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Ka ha ṅụọ n'ahụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ụgwọ"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ihere ha"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ndị na-asị"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heh"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heh"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:14.576317319Z",
+  "model": "glm-5.3"
+}

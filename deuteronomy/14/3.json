@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "I gaghi eri ihe ọjọọ ọ bụla.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "gaghị"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "eri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe ọ bụla"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ihe ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:59:25.219700432Z",
+  "model": "glm-5.3"
+}

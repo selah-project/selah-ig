@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ha hapụrụ ⟨את⟩ ụlọ Yahwe, Elohim nke nna nna ha, ha wee jere ozi ⟨את⟩ ndị Ashera na ⟨את⟩ arụsị; iwe dakwasịrị Yehuda na Yerushalayim n'ihi mmehie ha a.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "hapụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "nna nna ha"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "jere ozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ndị Ashera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arụsị"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "arụsị"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nwere"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dakwasịrị"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "n'ihi mmehie ha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T16:16:35.395232943Z",
+  "model": "glm-5.3"
+}

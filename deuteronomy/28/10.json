@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Mba niile nke ⟨ala⟩ ahụ ga-ahụ na aha Yahwe ka a na-akpọ n'elu gị, ha ga-atụkwa gị egwu.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "ha ga-ahụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ụwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "a na-akpọ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "n'elu gị"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ha ga-atụ egwu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:12:40.370264056Z",
+  "model": "glm-5.3"
+}

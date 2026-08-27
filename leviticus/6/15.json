@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma onye nchụàjà a etere mmanụ, onye guzoro n'ọnọdụ ya n'etiti ụmụ ya, ga-eme ⟨את⟩ ya — iwu ruo mgbe ebighị ebi nye Yahwe; a ga-agbanye ya niile n'ọkụ.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Ma onye nchụàjà"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "a etere mmanụ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "n'ọnọdụ ya"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "n'etiti ụmụ ya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (onye-ọnyụ ahụ)"
+    },
+    {
+      "surface": "חק",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "a ga-agbanye n'ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:45:16.115303262Z",
+  "model": "glm-5.3"
+}

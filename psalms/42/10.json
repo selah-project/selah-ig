@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "M ga-asị nye El, nkume m: Gịnị mere Ị chefuola m? Gịnị mere m na-eyi uche ojii, n'oké mmegbu nke onye iro?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "m ga-asị"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "nye El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "nkume m"
+    },
+    {
+      "surface": "למה",
+      "gloss": "gịnị mere"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "chefuola m"
+    },
+    {
+      "surface": "למה",
+      "gloss": "gịnị mere"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "na-eyi uche ojii"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "m na-aga"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "n'oké mmegbu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nke onye iro"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:14.668352583Z",
+  "model": "glm-5.3"
+}

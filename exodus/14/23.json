@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 14:23",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ndị Ijipt jidoro ha ụkwọ, wee banye n'azụ ha — ụmụ nnụnụ-agha niile nke Paraọ, ịnyịnya-inya ya na ndị aghaịnyịnya ya — ruo n'etiti oké osimiri ahụ.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "jidoro ụkwọ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ijipt"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "banye"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "n'azụ ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ịnyịnya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraọ"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ịnyịnya-inya ya"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "ndị aghaịnyịnya ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:15:22.018579117Z",
+  "model": "glm-5.3"
+}

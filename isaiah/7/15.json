@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ọ ga-eri mmiri ara mgbanwe na mmanụ aṅụ, ruo mgbe ọ maara ịjụ ihe ọjọọ ma họrọ ihe ọma.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "mmiri ara mgbanwe"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na mmanụ aṅụ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ọ ga-eri"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "ruo mgbe ọ maara"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "ịjụ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "ma họrọ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ihe ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T10:35:44.074739518Z",
+  "model": "glm-5.3"
+}

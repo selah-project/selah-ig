@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Nna ha wee gwa ha: Ole ụzọ ka ọ gara? Ụmụ ya wee hụ ⟨את⟩ ụzọ nke nwoke Elohim gara, onye si Yehuda bịa.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "o wee gwa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "nna ha"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ole"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ụzọ a"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ọ gara"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ha wee hụ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụzọ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ọ gara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ọ si bịa"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "site na Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-27T10:00:21.661635197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ndị Pelishtim dakọtara ⟨את⟩ ogige ndị agha ha maka agha, wee dakọta na Sokoh nke dị na Yehuda, ma mee ogige n'etiti Sokoh na Azekah, na Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "dakọtara"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogige ndị agha ha"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ogige ndị agha ha"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "maka agha"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "wee dakọta"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke dị na"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ma mee ogige"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "na Efes-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-08-27T09:09:51.471512939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Ha chefuoro El, onye nzọpụta ha, onye na-eme ihe ukwuu na Mitzrayim,",
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "chefuoro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "onye nzọpụta ha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ihe ukwuu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:01.698683972Z",
+  "model": "glm-5.3"
+}

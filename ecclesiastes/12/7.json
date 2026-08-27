@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma ajị ala ga-alọghachi na ala dịka ọ dị na mbụ, ma mmụọ ga-alọghachi nye Elohim bụ onye nyere ya.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ga-alọghachi"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ajị ala"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "dịka ọ dị na mbụ"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "ma mmụọ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ga-alọghachi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "nyere ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:19:15.557016974Z",
+  "model": "glm-5.3"
+}

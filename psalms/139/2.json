@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 139,
+  "translation": "Ị mara ohere m nọrọ na mmụte m; ị ghọtara echiche m site n'ebe dị anya.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mara"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ohere m nọrọ"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "na mmụte m"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ị ghọtara"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "echiche m"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "site n'ebe dị anya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:54.724566236Z",
+  "model": "glm-5.3"
+}

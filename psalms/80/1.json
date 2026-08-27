@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Maka onye-ndú egwu, dịka \"Shoshannim-Eduth\" — ndekọ akaebe nke Asaf — abụ. (Rọọ asa: ahịrị a bụ ihe odide dị n'isi abụ ahụ.)",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye-ndú egwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth-akaebe"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "nke Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:29.162953005Z",
+  "model": "glm-5.3"
+}

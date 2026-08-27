@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Yahwe ga-achụpụ ⟨את⟩ mmadụ anya, na ihe a gbahapụrụ ga-adị ukwuu n'etiti ala ahụ.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "ga-achụpụ anya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmadụ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ga-adị ukwuu"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "ihe a gbahapụrụ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    }
+  ],
+  "timestamp": "2026-08-27T10:36:32.097975512Z",
+  "model": "glm-5.3"
+}

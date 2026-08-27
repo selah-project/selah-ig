@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ma ị ga-ewetuo ⟨את⟩ ebe obibi ahụ dị elu dịka iwu ya si dị, nke a gosiri gị n'ugwu ahụ.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "ị ga-ewetuo dị elu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe obibi ahụ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ebe obibi ahụ"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "dịka iwu ya si dị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "a gosiri gị"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'ugwu ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:27:51.768970345Z",
+  "model": "glm-5.3"
+}

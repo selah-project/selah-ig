@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 11:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Mmadụ wolf ga-anọ ⟨את⟩ nnwa atụrụ, na mmadụ leopard ga-anọdụ ⟨את⟩ nnwa ewu; ma mmadụ calf na mmadụ young lion na mmadụ fatling ga-anọkọ ọnụ, ma nwa ntakịrị ga-eduzi ha.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "ga-anọ"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "wolf"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "nnwa atụrụ"
+    },
+    {
+      "surface": "ונמר",
+      "gloss": "na leopard"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "nnwa ewu"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "ga-anọdụ"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "ma calf"
+    },
+    {
+      "surface": "וכפיר",
+      "gloss": "na young lion"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "na fatling"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ma nwa"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ntakịrị"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ga-eduzi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:38:31.545065151Z",
+  "model": "glm-5.3"
+}

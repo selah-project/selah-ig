@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma ndị dibia afa ahụ mekwara otu ihe ahụ site n'omimi ha, ma ha welitere ⟨את⟩ awọ ndị ahụ n'elu ala Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ma ... mekwara"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu ihe ahụ"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "ndị dibia afa ahụ"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "site n'omimi ha"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ma ha welitere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awọ ndị ahụ"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "awọ ndị ahụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:11:54.611048877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Onye nchụàjà ga-ede ⟨את⟩ Ọṅụ Ọjọọ ndị a n'akwụkwọ, ma kpochapụ ha na mmiri ilu ahụ.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "ga-ede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ọṅụ Ọjọọ ndị a"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "Ọṅụ Ọjọọ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "n'akwụkwọ"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "ma kpochapụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "ilu ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:15:45.152220886Z",
+  "model": "glm-5.3"
+}

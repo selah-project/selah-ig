@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 49:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "O tinyere ọnụ m ka mma ahụ dị nkọ; n'okpuru nchekwaa aka Ya ka O zoro m; O mere m ka ọdụ mmịrị ahọpụtara; n'akpa mma Ya ka O zoo m.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "O tinyere"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "ka mma ahụ"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "dị nkọ"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "n'okpuru nchekwaa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka Ya"
+    },
+    {
+      "surface": "החביאני",
+      "gloss": "O zoro m"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "O mere m"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ka ọdụ mmịrị"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "ahọpụtara \/ dị nkọ ọcha"
+    },
+    {
+      "surface": "באשפתו",
+      "gloss": "n'akpa mma Ya"
+    },
+    {
+      "surface": "הסתירני",
+      "gloss": "O zoo m"
+    }
+  ],
+  "timestamp": "2026-08-27T11:03:17.249011348Z",
+  "model": "glm-5.3"
+}

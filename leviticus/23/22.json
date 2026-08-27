@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Mgbe unu na-ewe ⟨את⟩ owuwe ala unu, ị ghara ịme ka ọ gwụcha n'akụkụ ubi gị n'oge owuwe gị, mkpụkọta owuwe gịkwa ị ghara ịnakọta; maka onye ogbenye na onye ọbịa ga-ahapụ ⟨אתם⟩ ha; m bụ Yahwe, Elohim unu.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "mgbe unu na-ewe owuwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "owuwe ala unu"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "owuwe"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ala unu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "ị ga-eme ka ọ gwụcha"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "akụkụ"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ubi gị"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "n'oge owuwe gị"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "mkpụkọta"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "owuwe gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "ị ga-anakọta"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "maka onye ogbenye"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "na onye ọbịa"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ga-ahapụ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ha (onye ogbenye na onye ọbịa)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:06:01.499472097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Onye iro agaghị enye ya ụgwọ; onye ajọ omume agaghị emegbu ya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "enye ụgwọ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "onye iro"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "onye"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ajọ omume"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "emegbu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:49:08.025095063Z",
+  "model": "glm-5.3"
+}

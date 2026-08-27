@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 95,
+  "translation": "N'ihi na oké osimiri bụ nke Yahwe, ma ọ bụ ⟨ọ⟩ mere ya, aka ya wee kpụọ ala kpọrọ nkụ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bụ nke ya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "⟨ọ⟩ mere ya"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "ala kpọrọ nkụ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "wee kpụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:09.160290117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 54,
+  "translation": "N'oge ntụpọ nke obere oge ka m gbarahapụrụ gị, ma na mmetụta uche dị ukwuu ka m ga-ezukọta gị ọzọ.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "n'oge ntụpọ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "nke obere"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "ka m gbarahapụrụ gị"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "ma na mmetụta uche"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dị ukwuu"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "ka m ga-ezukọta gị ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:04:57.473158028Z",
+  "model": "glm-5.3"
+}

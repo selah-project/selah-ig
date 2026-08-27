@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "N'ihi na a na-emebi ntọala; onye ezi omume ga-eme gịnị?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "ntọala"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "a na-emebi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ezi omume"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ga-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:55.602259246Z",
+  "model": "glm-5.3"
+}

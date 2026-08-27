@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ma Dawid na-aga ma na-alọta site n'aka Shaul, na-azụ ⟨את⟩ anụ ụlọ nna ya na Beith-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Ma Dawid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ma na-alọta"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "site n'aka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "na-azụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ụlọ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "anụ ụlọ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beith-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-27T09:12:33.741931497Z",
+  "model": "glm-5.3"
+}

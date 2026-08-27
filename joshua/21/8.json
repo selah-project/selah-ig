@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma ụmụ Israel nyere ndị Levai ⟨את⟩ obodo ndị a na ⟨את⟩ ala olulu ha, dịka Yahwe nyere iwu site n'aka Moshe, site na gọrọl.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ma ... nyere"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ndị Levai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ndị a"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala olulu ha"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ala olulu ha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "site n'aka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "site na gọrọl"
+    }
+  ],
+  "timestamp": "2026-08-27T08:36:13.189184386Z",
+  "model": "glm-5.3"
+}

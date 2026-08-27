@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 140,
+  "translation": "M kwuru nye Yahwe: Inwe Elohim m; kwe ntị, Yahwe, olu arịrịọ m.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "M kwuru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Inwe"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "kwe ntị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "arịrịọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:48.757624379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "Elohim m, zọpụta m n'aka onye ajọ omume, n'aka onye na-emebi ihe na onye ime ike ike.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "zọpụta m"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ajọ omume"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "onye na-emebi ihe"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "na onye ime ike ike"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:01.628581694Z",
+  "model": "glm-5.3"
+}

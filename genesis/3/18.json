@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ogwu na nchapaa ka ọ ga-amị gị; gịkwa ga-eri ⟨את⟩ ahịhịa nke ubi.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "ogwu"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "na nchapaa"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "ga-amị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahịhịa nke ubi"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ahịhịa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "nke ubi"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:23.188048937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Adam du ndu afọ otu narị na iri atọ, ma mụọ nwa n'onyinyo ya, dịka ihe oyiyi ya, ma kpọọ aha ya Shet.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ma dị̀ ndụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "iri atọ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na otu narị"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ma mụọ"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "n'onyinyo ya"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "dịka ihe oyiyi ya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ma kpọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:30.756396301Z",
+  "model": "glm-5.3"
+}

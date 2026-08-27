@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 110,
+  "translation": "Adonai, n'aka nri gị, ga-akụkọọ ndị eze n'ụbọchị iwe ya.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "aka nri gị"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ga-akụkọọ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iwe ya"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ndị eze"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:20.843139686Z",
+  "model": "glm-5.3"
+}

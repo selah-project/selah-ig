@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Chere m ebere, Yahwe, n'ihi na nsogu dị m; anya m, nefesh m na afọ m adaala mbà n'iwe.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "chere m ebere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "צר",
+      "gloss": "nsogu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dị m"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "adaala mbà"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "n'iwe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh m"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "afọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:10.746599717Z",
+  "model": "glm-5.3"
+}

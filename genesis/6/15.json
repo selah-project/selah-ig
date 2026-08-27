@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Nke a bụ otu ị ga-esi eme ⟨את⟩ ya: ogologo ⟨nke⟩ ụgbọ mmiri ahụ ga-abụ ama atọ nke otu narị, obosara ya ama iri ise, elu ọ dị ama iri atọ.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Nke a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "otu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ga-esi eme"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ogologo"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ụgbọ mmiri ahụ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "iri ise"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "obosara"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "iri atọ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "elu ọ dị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:18.681360668Z",
+  "model": "glm-5.3"
+}

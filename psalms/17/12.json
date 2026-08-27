@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ọ dị ka ọdịm ya: dịka lịọn na-agụ agụ ịja anụ, dịkwa ka ogbodo lịọn nọkwasị n'ebe ezozò.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "ọdịm ya"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "dịka lịọn"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "na-agụ agụ"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "ịja anụ"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "dịkwa ka ogbodo lịọn"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nọkwasị"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "n'ebe ezozò"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:39.507013981Z",
+  "model": "glm-5.3"
+}

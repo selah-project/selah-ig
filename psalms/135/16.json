@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 135,
+  "translation": "Ọnụ ha nwere, ma ha anaghị ekwu okwu; anya ha nwere, ma ha anaghị ahụ.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Ọnụ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha nwere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ha anaghị"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ekwu okwu"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "anya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha nwere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ha anaghị"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:44.928342567Z",
+  "model": "glm-5.3"
+}

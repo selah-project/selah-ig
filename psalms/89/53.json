@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Onye a gọziri agọzi bụ Yahwe ruo mgbe ebighị ebi. Amin, na Amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Onye a gọziri agọzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "na Amin"
+    }
+  ],
+  "timestamp": "2026-08-27T13:49:31.791651237Z",
+  "model": "glm-5.3"
+}

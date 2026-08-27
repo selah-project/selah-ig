@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 92,
+  "translation": "Ikwupụta chesed gị n'ụtụtụ, na okwukwe gị n'abalị ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ikwupụta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed gị"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "na okwukwe gị"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "n'abalị ndị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:04.632650078Z",
+  "model": "glm-5.3"
+}

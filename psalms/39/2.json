@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Nkwuru m: M ga-elekọta ụzọm, ka m ghara imehie n'olu m; m ga-ejide ọnụ m ihe mgbochi, ka ọjọọ ka dị n'ihu m.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "nkwuru m"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "m ga-elekọta"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ụzọm"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "ka m ghara imehie"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "n'olu m"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "m ga-ejide"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ọnụ m"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "ihe mgbochi"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "dị n'ihu m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:56.565430687Z",
+  "model": "glm-5.3"
+}

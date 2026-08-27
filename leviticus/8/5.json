@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma Moshe we si na mgbakọ ahụ, Nke a bụ okwu Yahwe nyere iwu ka emee.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "we si"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "mgbakọ ⟨ahụ⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Nke a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu ⟨a⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ka emee"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:57.582667926Z",
+  "model": "glm-5.3"
+}

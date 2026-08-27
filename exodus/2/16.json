@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Onye nchụàjà Midian nwere ụmụ nwaanyị asaa; ha bịara, ha dọrọ mmiri, ha mejupụta ⟨את⟩ ite mmiri ndị ahụ iji nyefée ìgwè atụrụ nna ha mmiri.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ụmụ nwaanyị"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "ha bịara"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "ha dọrọ mmiri"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "ha mejupụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ite mmiri ndị ahụ"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "ite mmiri ndị ahụ"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "iji nyefée mmiri"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ìgwè atụrụ"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "nna ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:39.371256656Z",
+  "model": "glm-5.3"
+}

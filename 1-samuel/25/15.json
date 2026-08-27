@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 25:15",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ma ndị ikom ahụ dị mma anyị nke ukwuu, anyị ejughị anya, anyị erughịkwa ihe ọ bụla furu, n'ụbọchị niile anyị na ⟨את⟩ ha na-agagharị, n'ọnọdụ anyị nọ n'ubi.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "ma ndị ikom ahụ"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "anyị ejughị"
+    },
+    {
+      "surface": "הכלמנו",
+      "gloss": "anya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "anyị erughịkwa"
+    },
+    {
+      "surface": "פקדנו",
+      "gloss": "ihe furu"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ihe ọ bụla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "anyị na-agagharị"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "בהיותנו",
+      "gloss": "n'ọnọdụ anyị nọ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "n'ubi"
+    }
+  ],
+  "timestamp": "2026-08-27T16:34:10.139611700Z",
+  "model": "glm-5.3"
+}

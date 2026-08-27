@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Ugwu na-arịgo, ndị-agbatakọ-obi na-adaba, gaa n'ebe Ị guzosiri maka ha.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "na-arịgo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "na-adaba"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "ndị-agbatakọ-obi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "maka"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "Ị guzosiri"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:23.920033298Z",
+  "model": "glm-5.3"
+}

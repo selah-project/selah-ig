@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ị na-echeta, na-echetakwa nke ọma, mkpụrụ obi m na-atụ ala n'ime m.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ị na-echeta"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "na-echetakwa nke ọma"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "na-atụ ala\/na-ada"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'ime m"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    }
+  ],
+  "timestamp": "2026-08-27T15:07:23.912294493Z",
+  "model": "glm-5.3"
+}

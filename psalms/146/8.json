@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 146,
+  "translation": "Yahwe na-eme ka anya ndị kpuru ìhè mepee; Yahwe na-eweli ndị e gbọrọ agbọ; Yahwe hụrụ ndị ezi omume n'anya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "na-eme ka anya mepee"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ndị kpuru ìhè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "na-eweli"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "ndị e gbọrọ agbọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hụrụ n'anya"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ndị ezi omume"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:26.256939675Z",
+  "model": "glm-5.3"
+}

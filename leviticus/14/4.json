@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Onye nchụàjà ga-enyere iwu, ka e were maka onye a ga-ocha ụgbọ abụọ dị ndụ, dị ọcha, na osisi cedar na waya uhie scarlet na hyssop.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ga-enyere iwu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Onye nchụàjà"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ka e were"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "maka onye a ga-ocha"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ụgbọ abụọ"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ụgbọ"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "dị ndụ"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "na osisi"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "cedar"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na waya uhie"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "scarlet"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "na hyssop"
+    }
+  ],
+  "timestamp": "2026-08-27T06:52:23.782928496Z",
+  "model": "glm-5.3"
+}

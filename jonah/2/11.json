@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Yahwe wee soro ⟨ה⟩ azụ okwu, o wee mịọ ⟨את⟩ Yona kpụọ n'ala kpọrọ nkụ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee soro okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "na azụ"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "o wee mịọ kpụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ala kpọrọ nkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:51:09.524451542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ya mere, Yahwe weghachiri nye m dịka nzubeọma m, dịka ịdị ọcha m n'ihu anya ya.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ya mere, weghachiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nye m"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "dịka nzubeọma m"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "dịka ịdị ọcha m"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "anya ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:48:14.866410862Z",
+  "model": "glm-5.3"
+}

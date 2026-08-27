@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Onye ezigbo a dọrọ pụọ n'ọgbaghara; onye ọjọọ bịara n'ọnọdụ ya.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "onye ezigbo"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "n'ọgbaghara"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "a dọrọ pụọ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ọjọọ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "n'ọnọdụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:20:27.063827531Z",
+  "model": "glm-5.3"
+}

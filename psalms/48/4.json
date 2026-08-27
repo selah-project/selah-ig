@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Elohim, n'ime ụlọ-ọbịa ya, ⟨aka⟩ pụtara ìhè dị ka ebe mgbaba.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "n'ime ụlọ-ọbịa ya"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "⟨aka⟩ pụtara ìhè"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "dị ka ebe mgbaba"
+    }
+  ],
+  "timestamp": "2026-08-27T13:32:12.173630566Z",
+  "model": "glm-5.3"
+}

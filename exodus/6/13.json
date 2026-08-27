@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 6:13",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Yahwe gwara Moshe na Aharon, wee nye ha iwu nye ụmụ Yisrael na nye Paroh, eze Mitsraim, ka ha wepụ ⟨את⟩ ụmụ Yisrael n'ala Mitsraim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na nye"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "wee nye ha iwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na nye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ka ha wepụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:10:20.315227774Z",
+  "model": "glm-5.3"
+}

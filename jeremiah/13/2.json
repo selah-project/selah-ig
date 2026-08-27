@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "M wee zụta ⟨את⟩ eriri ukwu ahụ, dịka okwu Yahwe siri dị, m wee tinye ya n'ukwu m.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "M wee zụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eriri ukwu ahụ"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "eriri ukwu ahụ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dịka okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "M wee tinye ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ukwu m"
+    }
+  ],
+  "timestamp": "2026-08-27T11:24:26.015788314Z",
+  "model": "glm-5.3"
+}

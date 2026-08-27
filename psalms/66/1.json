@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 66,
+  "translation": "Maka onye-eduzi egwu. Abụ, mizmor. Tinye mkpu maka Elohim, ⟨n'ụzọ zuru ezu⟩ ụwa niile.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye-eduzi egwu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "tinye mkpu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "maka Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:53.579206329Z",
+  "model": "glm-5.3"
+}

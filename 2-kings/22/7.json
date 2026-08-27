@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Otú ọ dị, a na-emeghị ⟨את⟩ ndekọ ego maka ha, maka na ha na-eme ⟨ọrụ⟩ n'ezi omume.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "otú ọ dị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "a na-edeghị ndekọ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ego"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "e nyere"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "aka ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "n'ezi omume"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "na-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T10:28:18.683423525Z",
+  "model": "glm-5.3"
+}

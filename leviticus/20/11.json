@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ya mere nwoke nke na-eso ⟨את⟩ nwunye nna ya rọọ, ùgwù ọtọ nna ya ka ọ kpughere — ha abụọ ga-anwụ anwụ, ọbara ha dị n'elu ha.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ya mere nwoke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "na-eso ... rọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwunye nna ya"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ùgwù ọtọ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ọ kpughere"
+    },
+    {
+      "surface": "מות",
+      "gloss": "anwụ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ha ga-anwụ anwụ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ha abụọ"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ọbara ha"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dị n'elu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:05.591962568Z",
+  "model": "glm-5.3"
+}

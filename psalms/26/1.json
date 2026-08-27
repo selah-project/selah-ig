@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Nke David. Kpee m ikpe, Yahwe, maka na m na-eje ije n'ịkpọkọ m; na Yahwe ka m dabere; agaghị m agbaji.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nke David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Kpee m ikpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "n'ịkpọkọ m"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "na-eje ije"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "na na Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ka m dabere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "agbaji"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:30.827092794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 66,
+  "translation": "N'ihi na site n'ọkụ ka Yahwe ga-ekpe ikpe, ma site n'mma agha ya ⟨את⟩ anụ niile; ndị e gburu n'aka Yahwe ga-abụ ọtụtụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "באש",
+      "gloss": "site n'ọkụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ga-ekpe ikpe"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "ma site n'mma agha ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anụ niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "anụ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ga-abụ ọtụtụ"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ndị e gburu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n'aka Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:13:28.247547796Z",
+  "model": "glm-5.3"
+}

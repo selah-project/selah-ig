@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Nụ, obere m, ka m na-ekwu; Yisraël, ka mgba aka n'aka gị: Elohim, Elohim gị, abụm.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Nụ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "obere m"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ka m na-ekwu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ka mgba aka n'aka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "abụm"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:55.903750562Z",
+  "model": "glm-5.3"
+}

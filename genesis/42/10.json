@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Ma ha sị ya: \"Mba, Adonai anyị; ohere gị bịara ịzụta nri.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha sị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mba"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai anyị"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "ohere gị"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ịzụta"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nri"
+    }
+  ],
+  "timestamp": "2026-08-27T05:57:08.850762463Z",
+  "model": "glm-5.3"
+}

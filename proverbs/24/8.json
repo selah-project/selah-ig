@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Onye na-atụ atụ ime ihe ọjọọ — ha ga-akpọ ya nke-onye-nwe-atụmatụ-ọjọọ.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "na-atụ atụ"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ime ihe ọjọọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "onye-nwe"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "atụmatụ (ọjọọ)"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ha ga-akpọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:50:11.735496596Z",
+  "model": "glm-5.3"
+}

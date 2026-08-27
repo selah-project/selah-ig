@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Ma o le anya ná ihe mgbu ha, mgbe ọ nụrụ ⟨את⟩ mkpu ha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "o le anya"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ná ihe mgbu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "mgbe ọ nụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpu ha"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "mkpu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:27.879248878Z",
+  "model": "glm-5.3"
+}

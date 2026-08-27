@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 136,
+  "translation": "Onye duuru ndị ya banye n'ọzara, maka ruo mgbe ebighị ebi bụ ịhụnanya-ọgbụgba-ndụ ya.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Onye duuru ... banye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ịhụnanya-ọgbụgba-ndụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:42.663515167Z",
+  "model": "glm-5.3"
+}

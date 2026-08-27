@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 148,
+  "translation": "Ugwu, na ⟨the⟩ ugwu ntakịrị niile; osisi mkpụrụ, na ⟨the⟩ osisi cedar niile,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ugwu ntakịrị"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "osisi cedar"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:03.767384798Z",
+  "model": "glm-5.3"
+}

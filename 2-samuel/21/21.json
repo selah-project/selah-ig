@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "O wie iwe kwutọrọ ⟨את⟩ Israel, Jehonatan nwa Shimea, nwanne Dawid, gbuo ya.",
+  "tokens": [
+    {
+      "surface": "ויכהו",
+      "gloss": ""
+    },
+    {
+      "surface": "ויחרף",
+      "gloss": "⟨את⟩ o wie iwe kwutọrọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "gbuo ya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nwanne"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-27T09:42:17.756954357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Adonai Yahwe enyewo m ire nke ndị a kụziiri, iji mata otu esi akwado okwu nye onye ike gwụrụ; ọ na-akụzi m ntị ụtụtụ nke ụtụtụ, ọ na-eme ka ntị m tetuo ka m gee ntị dịka ndị a kụziiri.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "enyewo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ire"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "nke ndị a kụziiri"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "iji mata"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "esi akwado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye ike gwụrụ"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "onye ike gwụrụ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "ọ na-akụzi ntị"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ụtụtụ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nke ụtụtụ"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "ọ na-eme ka ntị tetuo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ntị"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ka m gee ntị"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "dịka ndị a kụziiri"
+    }
+  ],
+  "timestamp": "2026-08-27T11:05:56.807516521Z",
+  "model": "glm-5.3"
+}

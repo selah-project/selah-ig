@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Mgbe a ga-enwe esemokwu n'etiti ndị ikom, ha ga-eru ⟨את⟩ ikpe, ha ga-ekpe ha ikpe, ha ga-ekwupụta ⟨את⟩ onye ziri ezi dịka onye ziri ezi, ha ga-ekwupụta ⟨את⟩ onye ọjọọ dịka onye ọjọọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a ga-enwe"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "esemokwu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "ha ga-eru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "⟨the⟩ ikpe"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "ha ga-ekpe ha ikpe"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "ha ga-ekwupụta na ọ ziri ezi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye ziri ezi"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "onye ziri ezi"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ha ga-ekwupụta na ọ bụ onye ọjọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye ọjọọ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "onye ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:08:31.733415925Z",
+  "model": "glm-5.3"
+}

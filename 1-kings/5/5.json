@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Yehuda na Yisrael nọdụrụ n'enweghị nsogbu, onye ọ bụla n'okpuru osisi vaịn ya na n'okpuru osisi fịg ya, site na Dan ruo Beer-Sheva, ụbọchị niile nke Shelomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nọdụrụ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yisrael"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "n'enweghị nsogbu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "osisi vaịn ya"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na n'okpuru"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "osisi fịg ya"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "site na Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "nke Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-27T09:54:00.204156134Z",
+  "model": "glm-5.3"
+}

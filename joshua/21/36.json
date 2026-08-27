@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma site na ebo Reuven: ⟨את⟩ Betser na ⟨את⟩ mpaghara ya, ⟨את⟩ Yahatsah na ⟨את⟩ mpaghara ya.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ma site na ebo"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaghara ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mpaghara ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yahatsah"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahatsah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaghara ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mpaghara ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:18.524637547Z",
+  "model": "glm-5.3"
+}

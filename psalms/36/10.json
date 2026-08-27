@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Maka na gị ka isi mmiri nke ndụ dị; n'ìhè gị ka anyị na-ahụ ⟨the⟩ ìhè.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na gị"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "isi mmiri"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nke ndụ"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "n'ìhè gị"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "anyị na-ahụ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìhè"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:20.410718529Z",
+  "model": "glm-5.3"
+}

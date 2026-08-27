@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "Ọ mere ụzọ Ya ka a maara Moshe, ọrụ Ya nye ụmụ Yaakov — Israel, ụmụ Israel.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Ọ mere ka a maara"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ụzọ Ya"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ọrụ Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:01.528639091Z",
+  "model": "glm-5.3"
+}

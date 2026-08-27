@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Kenan biri ndụ afọ iri asaa, ma mụọ ⟨את⟩ Mahalalel.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "biri ndụ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "iri asaa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ma mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:14.860176350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "Ọ dịghị emere anyị dabere na mmehie anyị, ọ dịghịkwa akwụnyere anyị dabere na nkwarọ anyị.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "dabere na mmehie anyị"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "emere"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ dịghịkwa"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "dabere na nkwarọ anyị"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "akwụnyere"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:13.303491939Z",
+  "model": "glm-5.3"
+}

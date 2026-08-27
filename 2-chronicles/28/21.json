@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "N'ihi na Achaz kewapụrụ ⟨את⟩ ụlọ Yahwe na ⟨את⟩ ụlọ ⟨the⟩ eze na ndị isi, ma nye eze Ashur; mana ọ bụghị ike ọ dịghị enyemaka nye ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "kewapụrụ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụlọ eze"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "na ndị isi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ma nye"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana ọ bụghị"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "enyemaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:17:32.431760941Z",
+  "model": "glm-5.3"
+}

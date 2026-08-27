@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Onye na-echebere iwu agaghị ama ⟨ihe⟩ ọjọọ ọ bụla; ma obi nke onye māra amara ma ⟨ihe⟩ oge na ikpe ziri ezi.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "onye na-echebere"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ama"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ma oge"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na ikpe ziri ezi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "onye māra amara"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:19.698501238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 53,
+  "translation": "Site na mgbu nke ndụ ya, ọ ga-ahụ, ma gboo ezumike; site na ihe ọ ma, ohu m, onye ziri ezi, ga-eme ka ọtụtụ ndị bụrụ ndị ziri ezi; ma njọ ha bụ ya ga-ebu.",
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "site na mgbu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nke ndụ ya"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ọ ga-ahụ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ga-eju afọ"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "site na ihe ọ ma"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "ga-eme ka ... bụrụ ndị ziri ezi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ziri ezi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu m"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "maka ọtụtụ"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "ma njọ ha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "ga-ebu"
+    }
+  ],
+  "timestamp": "2026-08-27T11:06:02.703224677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 15:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ọ bụrụ na a na-ere gị nwanne gị, onye Ivri, ma ọ bụ nwanyị Ivri, ọ ga-eje ozi gị afọ isii; ma n'afọ nke asaa, ị ga-ahapụ ya ka ọ bụ onye nweere onwe ya, si n'aka gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "a na-ere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "onye Ivri"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "העבריה",
+      "gloss": "nwanyị Ivri"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "ga-eje ozi gị"
+    },
+    {
+      "surface": "שש",
+      "gloss": "isii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "ma n'afọ"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "nke asaa"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "ga-ahapụ ya"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "nweere onwe ya"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "si n'aka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:02:09.240005073Z",
+  "model": "glm-5.3"
+}

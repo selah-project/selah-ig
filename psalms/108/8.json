@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 108,
+  "translation": "Elohim kwuwo okwu n'ọdị nsọ ya: m ga-agba ọṅụ, m ga-ekewa Shekhem, na ndagwurugwu Sukkot m ga-atụ ya.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwuwo okwu"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "n'ọdị nsọ ya"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "m ga-agba ọṅụ"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "m ga-ekewa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "na ndagwurugwu"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "m ga-atụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:04.657196307Z",
+  "model": "glm-5.3"
+}

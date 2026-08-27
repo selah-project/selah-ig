@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "Nke David. Nnefesh m, too Yahwe, na ihe niile dị n'ime m, too ⟨את⟩ aha nsọ ya.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nke David"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "too"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefesh m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ihe niile dị n'ime"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "ime m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha nsọ ya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nsọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:33.031428840Z",
+  "model": "glm-5.3"
+}

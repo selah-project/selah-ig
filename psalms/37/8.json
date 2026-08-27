@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Kwụsị iwe, hapụ mwute iwe; ekwela ka ọ na-ewe gị ihe—naanị ime ihe ọjọọ ka ọ na-eduga.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "kwụsị"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "hapụ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "mwute iwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ka ọ na-ewe gị ihe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ime ihe ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:37.378561878Z",
+  "model": "glm-5.3"
+}

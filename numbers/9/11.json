@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "N'ọnwa nke abụọ, n'ụbọchị iri na anọ, n'etiti anyasị, ha ga-eme ⟨את⟩ ya; na achịcha na-enweghị ntụ na akwụkwọ ntabi ha ga-eri ya.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "n'ọnwa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "n'ụbọchị iri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na anọ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "anyasị"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ha ga-eme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (Pesaach)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "achịcha na-enweghị ntụ"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "na akwụkwọ ntabi"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ha ga-eri ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:27:16.962871428Z",
+  "model": "glm-5.3"
+}

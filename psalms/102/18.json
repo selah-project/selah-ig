@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Ọ leghaara anya ná ekpere nke onye ihe mberede, ma ọ chụghị nke ahụ n'iyi — ⟨את⟩ ekpere ha.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ọ leghaara anya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ná"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "ekpere"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "nke onye ihe mberede"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ chụghị"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "n'iyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekpere ha"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ekpere ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:46.467205226Z",
+  "model": "glm-5.3"
+}

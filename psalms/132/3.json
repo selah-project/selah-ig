@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 132,
+  "translation": "Ọ bụrụ na m abanye n'ụlọikwu nke ụlọ m, ọ bụrụ na m eliri n'elu akwa ụra m —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "m abanye"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "n'ụlọikwu"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nke ụlọ m"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "m eliri"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "akwa ụra"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "nke a tọrọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:15.421688577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Maka mee, tinye ihe akaebe n'ime Ọlà Ahụ bụ nke m ga-enyere gị.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "maka mee tinye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Ọlà Ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe akaebe"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ihe akaebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "m ga-enyere"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:28:22.000252356Z",
+  "model": "glm-5.3"
+}

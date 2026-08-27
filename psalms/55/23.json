@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 55:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Tuo ihe dị arọ gị nye Yahwe, ya ga-elekọta gị; ọ gaghị ekwe ka onye ziri eze na-ama mma ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "השלך",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nyee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהבך",
+      "gloss": "ihe dị arọ gị"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יכלכלך",
+      "gloss": "ga-elekọta gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga-ekweghị"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ekwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "ịma mma (ịgbajie)"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "onye ziri eze"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:28.440825295Z",
+  "model": "glm-5.3"
+}

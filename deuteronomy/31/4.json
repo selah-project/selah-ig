@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Yahwe ga-emekwa ha ihe dịka o mere Sihọn na Og, ndị eze ndị Amọrịa, na ala ha — bụ́ ndị O mebiri ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ga-emekwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihọn"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "na Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ndị Amọrịa"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "na ala ha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ́"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "O mebiri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:17:53.550592671Z",
+  "model": "glm-5.3"
+}

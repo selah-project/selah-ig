@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Yahwe wee sịrị Moshe okwu: Gaa, daa ala, maka na ndị gị e mebiela, bụ ndị i bulitere elu n'ala Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sịrị okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sị"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "רד",
+      "gloss": "daa ala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "e mebiela"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndị gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "i bulitere elu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:36:46.338450330Z",
+  "model": "glm-5.3"
+}

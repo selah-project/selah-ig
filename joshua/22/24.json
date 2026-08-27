@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 22:24",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ma ọ bụrụ na ọ bụghị site n'echiche-egwu banyere okwu a ka anyị mere ⟨את⟩ nke a, ka anyị wee sị: Echi, ụmụ unu ga-agwa ụmụ anyị, ka ha wee sị: Gịnị ka unu nwere na Yahwe, Elohim nke Yisrael?",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "מדאגה",
+      "gloss": "site n'echiche-egwu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "banyere okwu a"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "ka anyị mere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nke a"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka anyị wee sị"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "echi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ha ga-agwa"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ụmụ unu"
+    },
+    {
+      "surface": "לבנינו",
+      "gloss": "ụmụ anyị"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ha wee sị"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ka unu nwere"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T16:32:29.179956344Z",
+  "model": "glm-5.3"
+}

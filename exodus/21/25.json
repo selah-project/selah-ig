@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "ọnya ọkụ maka ọnya ọkụ, mmerụ ahụ maka mmerụ ahụ, ahụ gbara agbọ maka ahụ gbara agbọ.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "ọnya ọkụ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "maka"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "ọnya ọkụ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "mmerụ ahụ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "maka"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "mmerụ ahụ"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ahụ gbara agbọ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "maka"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ahụ gbara agbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:31.754683587Z",
+  "model": "glm-5.3"
+}

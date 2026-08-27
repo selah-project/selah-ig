@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 57,
+  "translation": "Udo ga-abịa; ha ga-ezu ike n'akwa ụra ha; onye na-aga n'ụzọ ziri ezi.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "ga-abịa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "ha ga-ezu ike"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "akwa ụra ha"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "onye na-aga"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "n'ụzọ ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T11:07:02.036099353Z",
+  "model": "glm-5.3"
+}

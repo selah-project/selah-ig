@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Nakwa onunọrụ ọ bụla a gwakọtara na mmanụ, na nke kpọrọ nkụ, ọ ga-abụ nke ụmụ Aharon niile, nwoke ọ bụla dịka nwanne ya.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "nakwa ihe niile"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "onunọrụ"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "a gwakọtara"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mmanụ"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "na nke kpọrọ nkụ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nke niile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke ọ bụla"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "dịka nwanne ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:45:03.063022075Z",
+  "model": "glm-5.3"
+}

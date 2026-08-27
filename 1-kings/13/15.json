@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "O wee sị ya, sị: Soro ⟨את⟩ m gaa n'ụlọ, were rie nri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ m",
+      "marks": "m"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "rie"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    }
+  ],
+  "timestamp": "2026-08-27T10:01:12.012335510Z",
+  "model": "glm-5.3"
+}

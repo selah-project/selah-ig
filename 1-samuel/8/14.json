@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "⟨את⟩ ubi unu na ⟨את⟩ ulo-mkpụrụ vaịn unu na osisi oliv unu ndị kacha mma ka ọ ga-ewere, wee nye ndị ohu ya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ubi unu"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "ubi unu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ulo-mkpụrụ vaịn unu"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "ulo-mkpụrụ vaịn unu"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "osisi oliv unu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ndị kacha mma"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ọ ga-ewere"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "wee nye"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "ndị ohu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:01:16.334379243Z",
+  "model": "glm-5.3"
+}

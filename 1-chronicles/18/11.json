@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ndị a kwa, eze David raara ⟨את⟩ ha nye Yahwe, ya na ọlaọcha na ọlaedo o si n'aka mba niile were — si Edom, si Moab, si ụmụ Ammon, si Filistia, na si Amalek.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "raara nye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ọlaọcha"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "si... were"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nke niile"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "si Edom"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "si Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "si ụmụ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "Filistia"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-08-27T16:01:59.959389035Z",
+  "model": "glm-5.3"
+}

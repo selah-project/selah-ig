@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "N'ikuku ọwụwa anyanwụ Ị na-emebi ụgbọ mmiri Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "n'ikuku"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ọwụwa anyanwụ"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "Ị na-emebi"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ụgbọ mmiri"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:59.056060239Z",
+  "model": "glm-5.3"
+}

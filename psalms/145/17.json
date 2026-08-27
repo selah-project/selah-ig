@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Yahwe ⟨is⟩ ziri ezi n'ụzọ ndị ya niile, ma ḅụ onye nwere chesed n'ọrụ ndị ya niile.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ziri ezi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'…niile"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ụzọ ndị ya"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "ma ḅụ onye nwere chesed"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'…niile"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ọrụ ndị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:45.586356592Z",
+  "model": "glm-5.3"
+}

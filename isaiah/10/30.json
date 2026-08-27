@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Welie olu gị, nwa nwanyị Gallim; gee ntị, Laishah; Anathoth nke dara ogbenye.",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "welie"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "olu gị"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "Gallim"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "gee ntị"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Laishah"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "nke dara ogbenye"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoth"
+    }
+  ],
+  "timestamp": "2026-08-27T10:38:35.736933360Z",
+  "model": "glm-5.3"
+}

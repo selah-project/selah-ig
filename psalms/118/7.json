@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "Yahwe dị m n'aka n'etiti ndị na-enyere m aka; m ga-ele ndị kpọrọ m asị anya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dị m n'aka"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "n'etiti ndị na-enyere m aka"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "m"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ga-ele anya"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "ndị kpọrọ m asị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:30.678814797Z",
+  "model": "glm-5.3"
+}

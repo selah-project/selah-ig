@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "O nyere Moshe iwu nye ⟨את⟩ ndị Levi, ndị na-ebu igbe nke ọgbụgba-ndụ nke Yahwe, si:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "o nyere iwu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ndị Levi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ndị na-ebu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "nke ọgbụgba-ndụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "si"
+    }
+  ],
+  "timestamp": "2026-08-27T08:18:12.535281222Z",
+  "model": "glm-5.3"
+}

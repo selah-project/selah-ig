@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 67,
+  "translation": "Mba ndị ga-eto gị, Elohim; mba ndị niile ga-eto gị.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ga-eto gị"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ga-eto gị"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "niile"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:47.161494921Z",
+  "model": "glm-5.3"
+}

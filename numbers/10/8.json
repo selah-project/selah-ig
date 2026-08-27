@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 10:8",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma ụmụ Aharon, ndị nchuaja, ga-eti mpi ọla; ma ⟨ọ⟩ ga-abụrụ gịnị iwu-adịgide ruo ọgbọ gịnị niile.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ma ụmụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchuaja"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "ga-eti mpi"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "mpi ọla"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ma ga-abụrụ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "iwu-adịgide"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ruo ọgbọ"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ọgbọ gịnị niile"
+    }
+  ],
+  "timestamp": "2026-08-27T07:18:44.897762507Z",
+  "model": "glm-5.3"
+}

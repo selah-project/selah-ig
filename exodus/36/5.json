@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ha gwara Moshe, na-asị: Ndị ahụ na-ebufe karịa ihe zuru maka ọrụ nke ọrụ ahụ, nke Yahwe nyere iwu ka e mee ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha kwuru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "na-ebufe ihe karịa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ibufe"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "karịa ihe zuru"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ọrụ ọrụ"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "maka ọrụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ime"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (ọrụ ahụ)"
+    }
+  ],
+  "timestamp": "2026-08-27T06:41:00.330846600Z",
+  "model": "glm-5.3"
+}

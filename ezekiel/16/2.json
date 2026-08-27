@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Nwa mmadụ, me ka ⟨את⟩ Yerushalayim mara ⟨את⟩ ihe jọrọ njọ ya,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Nwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "me ka mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe jọrọ njọ ya"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "ihe jọrọ njọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:06:10.105881550Z",
+  "model": "glm-5.3"
+}

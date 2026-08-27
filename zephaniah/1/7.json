@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 1:7",
+  "book": "zephaniah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Jiri nwayọọ n'ihi Adonai Yahwe, n'ihi na ụbọchị Yahwe dị nso, n'ihi na Yahwe akwadebere ⟨את⟩ ọbara mmiri, dọwara ndị ọ kpọrọ òkù nsọ.",
+  "tokens": [
+    {
+      "surface": "הס",
+      "gloss": "Jiri nwayọọ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dị nso"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "akwadebere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọbara mmiri"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ọbara mmimi"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "dọwara nsọ"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "ndị ọ kpọrọ òkù"
+    }
+  ],
+  "timestamp": "2026-08-27T16:46:36.411082492Z",
+  "model": "glm-5.3"
+}

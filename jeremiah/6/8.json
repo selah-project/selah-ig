@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 6:8",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ka a kụziere gị nzuzo ọma, O Yerushalayim, ka neyafesh m ghara ịpụ n'aka gị; ka m ghara ime gị ọzara, ala a na-adịghị ebikarị.",
+  "tokens": [
+    {
+      "surface": "הוסרי",
+      "gloss": "Ka a kụziere gị nzuzo ọma"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "O Yerushalayim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka ... ghara"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "na-aghapụ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neyafesh m"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "n'aka gị"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka ... ghara"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "ime gị"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ọzara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "na-adịghị"
+    },
+    {
+      "surface": "נושבה",
+      "gloss": "ebikarị"
+    }
+  ],
+  "timestamp": "2026-08-27T11:15:54.379360679Z",
+  "model": "glm-5.3"
+}

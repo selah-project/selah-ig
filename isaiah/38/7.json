@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Nke a ga-abụrị gị akara site n'aka ⟨את⟩ Yahwe, na Yahwe ga-eme ⟨את⟩ okwu a ọ sịrị:",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Nke a"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "האות",
+      "gloss": "akara"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "site n'aka ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ sịrị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:54:19.585158752Z",
+  "model": "glm-5.3"
+}

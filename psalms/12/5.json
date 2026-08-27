@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ndị kwuru, sị: Site n'asụsụ anyị ka anyị ga-emeri; mbọ anyị dị ⟨את⟩ anyị; onye ka bụ́ adọn nye anyị?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "kwuru, sị"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "asụsụ anyị"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "ga-emeri"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "mbọ anyị"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ anyị",
+      "marks": "anyị"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "adọn"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nye anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:20.491381500Z",
+  "model": "glm-5.3"
+}

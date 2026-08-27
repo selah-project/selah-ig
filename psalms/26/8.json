@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Yahwe, ahụrụ m ebe obibi ụlọ gị n'anya, na ebe ebe obibi ukwu nke otuto gị.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ahụrụ m n'anya"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ebe obibi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ụlọ gị"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "na ebe"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ebe obibi ukwu"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "otuto gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:39.318427441Z",
+  "model": "glm-5.3"
+}

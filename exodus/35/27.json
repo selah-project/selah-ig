@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ma ndị isi wetara ⟨את⟩ nkume shoham na ⟨את⟩ nkume ndị a na-etinye maka efood na maka chestpiece.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "wetara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkume shoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkume ndị a na-etinye"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ndị a na-etinye"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "maka efood"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "na maka chestpiece"
+    }
+  ],
+  "timestamp": "2026-08-27T06:35:18.645612687Z",
+  "model": "glm-5.3"
+}

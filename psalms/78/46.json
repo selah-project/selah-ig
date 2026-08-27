@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 78:46",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "O nyekwara ụkwala ihe ọkụkụ ha, na ọrụ aka ha nye mmemme.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "O nyekwara"
+    },
+    {
+      "surface": "לחסיל",
+      "gloss": "nya ụkwala"
+    },
+    {
+      "surface": "יבולם",
+      "gloss": "ihe ọkụkụ ha"
+    },
+    {
+      "surface": "ויגיעם",
+      "gloss": "na ọrụ aka ha"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "nya mmemme"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:14.159848175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "M ⟨na-agwa gị⟩: jide ⟨את⟩ okwu ọnụ eze, nakwa n'ihi ṅụnya iyi nke Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "M"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "jide okwu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwa n'ihi"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ṅụnya iyi"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:52:27.237049604Z",
+  "model": "glm-5.3"
+}

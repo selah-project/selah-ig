@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 32:36",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Maka Yahwe ga-ekpe ikpe ⟨את⟩ ndị ya, maka ndị ohu ya ọ ga-akasi obi; mgbe ọ hụrụ na aka na-ala azụ, na onye a mkpọchi na onye a hapụla adịghịkwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ga-ekpe ikpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "maka"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "ọ ga-akasi obi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ọ hụrụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אזלת",
+      "gloss": "na-ala azụ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "na onye ... adịghịkwa"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "a mkpọchi"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "a hapụla"
+    }
+  ],
+  "timestamp": "2026-08-27T16:31:12.362092671Z",
+  "model": "glm-5.3"
+}

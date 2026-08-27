@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ọ we wetaghachi ⟨את⟩ akụ na ụba niile, ma wetaghachikwa ⟨את⟩ Lot nwanne ya na akụ na ụba ya, yana ⟨את⟩ ụmụ nwanyị ndị ahụ na ⟨את⟩ ndị mmadụ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ọ we wetaghachi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akụ na ụba niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "akụ na ụba"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ma ... kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "na akụ na ụba ya"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "wetaghachiri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "yana ... kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ nwanyị"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ụmụ nwanyị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndị mmadụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:01.443346731Z",
+  "model": "glm-5.3"
+}

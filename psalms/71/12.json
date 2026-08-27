@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "Elohim, ee, nọla anya n'ebe dị anya m; Elohim m, bịa ngwa ngwa nye m enyemaka.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ee"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "nọla anya"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "n'ebe dị anya m"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "nye m enyemaka"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "ngwa ngwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:23.385056749Z",
+  "model": "glm-5.3"
+}

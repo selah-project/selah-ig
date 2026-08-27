@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 7:11",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "N'elu ndị ahụkwa, nkume dị oké ọnụ ahịa, dịka ntụle nkume a pịasịrị, na osisi cedar.",
+  "tokens": [
+    {
+      "surface": "ומלמעלה",
+      "gloss": "n'elu ndị ahụkwa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "dị oké ọnụ ahịa"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "dịka ntụle"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "nkume a pịasịrị"
+    },
+    {
+      "surface": "ו ארז",
+      "gloss": "na osisi cedar"
+    }
+  ],
+  "timestamp": "2026-08-27T09:53:15.490685076Z",
+  "model": "glm-5.3"
+}

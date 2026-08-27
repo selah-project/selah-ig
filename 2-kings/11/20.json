@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ndị niile nke ⟨ala⟩ ahụ wee ṅụrị ụtọ, ma obodo ahụ dị jụụ; ma ⟨את⟩ Atalyahu ha gburu mma n'ụlọ eze.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "wee ṅụrị ụtọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ala"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ma obodo ahụ"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "dị jụụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ha gburu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    }
+  ],
+  "timestamp": "2026-08-27T10:22:41.435829899Z",
+  "model": "glm-5.3"
+}

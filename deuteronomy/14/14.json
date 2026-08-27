@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "na ⟨את⟩ raven ọ bụla, dịka ụdị ya",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "raven ọ bụla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "raven"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "dịka ụdị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:29:13.074919127Z",
+  "model": "glm-5.3"
+}

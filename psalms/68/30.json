@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Site n'ụlọ nsọ Gị dị na Yerushalayim, eze ndị ga-ewetara Gị onyinye.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "site n'ụlọ nsọ Gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "dị na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gị"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "ga-ewetara"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "eze ndị"
+    },
+    {
+      "surface": "שי",
+      "gloss": "onyinye"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:51.392828423Z",
+  "model": "glm-5.3"
+}

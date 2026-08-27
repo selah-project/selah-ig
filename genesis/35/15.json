@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Yaakov kpọrọ aha ebe Elohim nọ ebe ahụ gwara ya okwu, Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kpọrọ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nọ ebe ahụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:34.367907305Z",
+  "model": "glm-5.3"
+}

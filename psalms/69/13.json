@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Ndị nọdụrụ n'ọnụ ⟨את⟩ ụzọ na-ekwu banyere m, m bụkwa abụ n'ọnụ ndị na-aṅụ ihe ṅụranya.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "banyere m"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị nọdụrụ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọnụ ⟨את⟩ ụzọ"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "ndị na-aṅụ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ihe ṅụranya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:03.990331402Z",
+  "model": "glm-5.3"
+}

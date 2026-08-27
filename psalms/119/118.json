@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ị lebara ⟨ndị⟩ niile na-apụ n'iwu gị anya dị ka ihe na-erughị eru, n'ihi na ụgha ka aghụghọ ha bụ.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Ị lebara anya dị ka ihe na-erughị eru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨ndị⟩ niile"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "na-apụ"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "n'iwu gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "aghụghọ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:03:58.611784006Z",
+  "model": "glm-5.3"
+}

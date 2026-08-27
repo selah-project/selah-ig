@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Ha hụrụ ya, otu a ha tọghatara; ha na-atụ egwu, ha gbara ọsọ ngwa ngwa.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "tọghatara"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "na-atụ egwu"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "gbara ọsọ ngwa ngwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:59.055832273Z",
+  "model": "glm-5.3"
+}

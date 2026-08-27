@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "M ga-eme ka ⟨את⟩ ụlọ Ahab bụrụ ka ụlọ Yarovam nwa Nevat, na ka ụlọ Baasha nwa Ahiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "M ga-eme ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "ka ụlọ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "na ka ụlọ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:17:41.812875317Z",
+  "model": "glm-5.3"
+}

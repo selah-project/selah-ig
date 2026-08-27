@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 30:20",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Lea kwuru, sị: Elohim enyela m ⟨את⟩ m onyinye dị mma; n'oge a di m ga-ebi Nun, n'ihi na amụla m ụmụ nwoke isii maka ya; ọ kpọkwara aha ya ⟨את⟩ Zevulun.",
+  "tokens": [
+    {
+      "surface": "ויתאמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "זבדני",
+      "gloss": "enyela m"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "onyinye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "n'oge a"
+    },
+    {
+      "surface": "יזבלני",
+      "gloss": "ga-ebi Nun"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "di m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "amụla m"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "isii"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ọ kpọkwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "Zevulun"
+    }
+  ],
+  "timestamp": "2026-08-27T05:45:43.210785646Z",
+  "model": "glm-5.3"
+}

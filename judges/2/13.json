@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ha hapụrụ ⟨את⟩ Yahwe, wee jere ozi Baal na ndị Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Ha hapụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "wee jere ozi"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "na ndị Ashtarot"
+    }
+  ],
+  "timestamp": "2026-08-27T08:38:23.441943045Z",
+  "model": "glm-5.3"
+}

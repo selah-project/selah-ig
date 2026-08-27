@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "David gara, na Yisrael niile, gaa Yerushalayim — ọ bụ Yevus — ebe ndị Yevus bi, ha bụ ndị bi n'ala ahụ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "O wee gaa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Yevus"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ndị Yevus"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:58:37.715619244Z",
+  "model": "glm-5.3"
+}

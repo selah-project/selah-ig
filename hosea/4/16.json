@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "N'ihi na dịka nwa efi ajọ afụli ka Yisrael ajụ afụ; ugbu a, Yahwe ga-azụ ha dịka nwa atụrụ n'elu ala obosara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "dịka nwa efi"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "ajọ afụli"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "ajụ afụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ga-azụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "dịka nwa atụrụ"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "n'elu ala obosara"
+    }
+  ],
+  "timestamp": "2026-08-27T12:40:32.973503768Z",
+  "model": "glm-5.3"
+}

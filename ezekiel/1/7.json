@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 1:7",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ukwu ha bụ ukwu kwụ ọtọ, ntapụta ukwu ha yiri ntapụta ukwu mgbada, ha na-amị amị ìhè dị ka ọla nchara na-egbuke egbuke.",
+  "tokens": [
+    {
+      "surface": "ורגליהם",
+      "gloss": "ukwu ha"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "kwụ ọtọ"
+    },
+    {
+      "surface": "וכף",
+      "gloss": "ntapụta"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ukwu ha"
+    },
+    {
+      "surface": "ככף",
+      "gloss": "yiri ntapụta"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "mgbada"
+    },
+    {
+      "surface": "ונצצים",
+      "gloss": "ha na-amị amị ìhè"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "dị ka ọdịdị"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ọla nchara"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "na-egbuke egbuke"
+    }
+  ],
+  "timestamp": "2026-08-27T11:56:36.858214060Z",
+  "model": "glm-5.3"
+}

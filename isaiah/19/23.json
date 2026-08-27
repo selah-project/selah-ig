@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "N'ụbọchị ahụ, ga-adị ⟨is⟩ ụzọ ukwu site na Mitzrayim gaa Ashshur; Ashshur ga-abata na Mitzrayim, Mitzrayim na Ashshur, Mitzrayim ga-ejikọ ọrụ ⟨את⟩ Ashshur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "ụzọ ukwu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "site na Mitzrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "gaa Ashshur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ga-abata"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitzrayim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "na Ashshur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ga-ejikọ ọrụ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashshur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    }
+  ],
+  "timestamp": "2026-08-27T10:42:35.331946751Z",
+  "model": "glm-5.3"
+}

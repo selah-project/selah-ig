@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 141,
+  "translation": "Ekwela ka obi m daa n'okwu ọjọọ, ka m na-eme ihe ọjọọ na ọjọ; ⟨את⟩ ndị ikom na-arụ ọrụ ihe efu; m erikwaghị ihe ụtọ ha.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תט",
+      "gloss": "kaa obi m daa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "n'okwu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "ka m na-eme"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "na ọjọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ikom"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "na-arụ ọrụ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ihe efu"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "m erikwaghị"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "eri"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "ihe ụtọ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:20.213907896Z",
+  "model": "glm-5.3"
+}

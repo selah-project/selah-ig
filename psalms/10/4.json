@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Onye ajọ omume, n'ihi oke mpako nke ihu ya, anaghị achọ ⟨Elohim⟩; 'Ọ dịghị Elohim' bụ atụmatụ ya niile.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "onye ajọ omume"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "dịka oke elu nke"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ihu ya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "achọ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "atụmatụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:39.558732725Z",
+  "model": "glm-5.3"
+}

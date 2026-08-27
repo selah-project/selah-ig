@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "N'ụbọchị nke atọ, Avraham welitere ⟨את⟩ anya ya, wee hụ ⟨את⟩ ebe ahụ site n'ebe dị anya.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "N'ụbọchị"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nke atọ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "welitere"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anya ya"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "anya ya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wee hụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe ahụ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "site n'ebe dị anya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:38:47.158385022Z",
+  "model": "glm-5.3"
+}

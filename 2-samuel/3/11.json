@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọ pụghịkwa ịza ⟨את⟩ Abner okwu ọzọ, n'ihi na ọ na-atụ ⟨את⟩ ya egwu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na ọ pụghịkwa"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "nwere ike"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ịza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "n'ihi na ọ na-atụ ya egwu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:29:04.370042624Z",
+  "model": "glm-5.3"
+}

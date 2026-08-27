@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọ bilie n'etiti abalị, were ⟨את⟩ nwa m n'akụkụ m, ka ohu gị na-ehi ụra, wee dozie ya n'obi ya, ma ⟨את⟩ nwa ya nwụrụ anwụ ọ doziri n'obi m.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "ọ bilie"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "abalị"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ọ were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "n'akụkụ m"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "na-ehi ụra"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "ọ wee dozie ya"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "n'obi ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ya nwụrụ anwụ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "המת",
+      "gloss": "nwụrụ anwụ"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "ọ doziri"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "n'obi m"
+    }
+  ],
+  "timestamp": "2026-08-27T09:51:16.598683633Z",
+  "model": "glm-5.3"
+}

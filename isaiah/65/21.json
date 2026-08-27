@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "Ha ga-arụ ụlọ ma bie na ya; ha ga-akụ ubi vaịn ma rie mkpụrụ osisi ya.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ha ga-arụ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ma bie"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ha ga-akụ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ubi vaịn"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ma rie"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "mkpụrụ osisi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:11:35.281904960Z",
+  "model": "glm-5.3"
+}

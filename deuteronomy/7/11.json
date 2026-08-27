@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ga-edebe ⟨את⟩ iwu ahụ, na ⟨את⟩ iwu ederede, na ⟨את⟩ ikpe ndị ahụ, nke m na-enyere gị ntị taa, iji mee ha.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Ga-edebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu ahụ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "iwu ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iwu ederede"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iwu ederede"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikpe ndị ahụ"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ikpe ndị ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "na-enyere gị ntị"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "iji mee ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:56:06.229716597Z",
+  "model": "glm-5.3"
+}

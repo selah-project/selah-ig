@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Elohim m, na gị ka m dabere; ghara ime ka m nwee ihere; ghara kwa ekwe ka ndị iro m nụ ụtọ n'elu m.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na gị"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ka m dabere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ime ka m nwee ihere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ghara kwa ekwe"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "nụ ụtọ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n'elu m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:22.421180726Z",
+  "model": "glm-5.3"
+}

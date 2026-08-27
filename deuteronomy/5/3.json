@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ọ bụghị ⟨את⟩ nna nna anyị ka Yahwe bepụrụ ⟨את⟩ ogbako a, kama ya na anyị — anyị, ndị a, ebe a, taa, anyị niile ndị dị ndụ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ọ bụghị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna nna anyị"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "nna nna anyị"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "bepụrụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogbako a"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ogbako a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ anyị"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ebe a"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "anyị niile"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ndị dị ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:52:46.966447906Z",
+  "model": "glm-5.3"
+}

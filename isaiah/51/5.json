@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Nso ka ikpe ziri ezi m dị, mnapụta m apụọla, ogwe aka m ga-ekpe ndị mmadụ ikpe; agwaetiti ga-atụ m anya, ma nye ogwe aka m ha ga-eche ndidi.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nso ka"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ikpe ziri ezi m"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "apụọla"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mnapụta m"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "ogwe aka m"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "ga-ekpe ikpe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "איים",
+      "gloss": "agwaetiti"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "ga-atụ anya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma nye"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "ogwe aka m"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "ga-eche ndidi"
+    }
+  ],
+  "timestamp": "2026-08-27T11:04:49.607767119Z",
+  "model": "glm-5.3"
+}

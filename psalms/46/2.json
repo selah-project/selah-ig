@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Elohim dị anyị mgbaba na ike, enyemaka n'ụgba ọgba ndụ, a na-ahụ ya nke ukwuu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dị anyị"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "mgbaba"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "na ike"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "enyemaka"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "n'ụgba ọgba ndụ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "a na-ahụ ya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:55.540762689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "N’ihi na eze na-ezukwasị obi na Yahwe, na site na chesed nke Elyon, ọ ga-agaghị agbada.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N’ihi na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "na-ezukwasị obi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "na site na chesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "nke Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ọ ga-agaghị"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "agbada"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:10.650805428Z",
+  "model": "glm-5.3"
+}

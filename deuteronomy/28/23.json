@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Eluigwe gị nke dị n'isi gị ga-abụ ⟨is⟩ ọla kọpa, na ala nke dị n'okpuru gị ga-abụ ⟨is⟩ ígwè.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "eluigwe gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "על",
+      "gloss": "dị n'elu"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "isi gị"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ọla kọpa"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "dị n'okpuru gị"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ígwè"
+    }
+  ],
+  "timestamp": "2026-08-27T08:13:51.913665655Z",
+  "model": "glm-5.3"
+}

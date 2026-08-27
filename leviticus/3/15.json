@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "na ⟨את⟩ akụrụ abụọ, na ⟨את⟩ abụba dị n'elu ha, nke dịkwa n'elu ntọ, na ⟨את⟩ mpempe dị n'elu imeju, n'elu akụrụ ka ⟨ọ⟩ ga-ewepụ ya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "akụrụ abụọ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "akụrụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abụba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "abụba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "n'elu ha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ntọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpempe"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "mpempe"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "imeju"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "akụrụ"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ọ ga-ewepụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:21.710455141Z",
+  "model": "glm-5.3"
+}

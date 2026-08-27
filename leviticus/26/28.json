@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "M ga-agakwa ná unu na iwe nke mmegide, m ga-atụ ⟨את⟩ unu ụta — m onwe m, ugboro asaa — maka mmehie unu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "m ga-aga"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ná unu"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "na iwe nke"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "mmegide"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "m ga-atụ ụta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m onwe m"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ugboro asaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "mmehie unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:10:47.481241665Z",
+  "model": "glm-5.3"
+}

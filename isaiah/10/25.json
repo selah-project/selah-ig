@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "N'ihi na ọzọ ka ọ dị obere oge, iwe ga-ekwuchaa, ajọ mwute m ga-adị na mbibi ha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "obere"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "oge"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ga-ekwuchaa"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "ajọ mwute m"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "mbibi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:37:51.418878349Z",
+  "model": "glm-5.3"
+}

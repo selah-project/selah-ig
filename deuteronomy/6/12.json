@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Chebara onwe gị anya, ka ị ghara ichefu ⟨את⟩ Yahwe, onye kpọgara gị n'ala Ijipt, site n'ụlọ ndị ohu.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "chebara onwe gị anya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "onwe gị"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka ị ghara"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ichefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "kpọgara gị"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ijipt"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "site n'ụlọ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ndị ohu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:53:18.283581993Z",
+  "model": "glm-5.3"
+}

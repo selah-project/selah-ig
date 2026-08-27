@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Site n'ịnụ ntị ka m nụrụ gị; ma ugbu a, anya m hụrụ gị.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "site n'ịnụ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ntị"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "ka m nụrụ gị"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ma ugbu a"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "hụrụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:02:45.603786795Z",
+  "model": "glm-5.3"
+}

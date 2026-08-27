@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ọ bịara mgbe Yosef ruru ⟨na⟩ ụmumenne ya, ha yipụrụ ⟨את⟩ Yosef ⟨את⟩ uwe ya, ⟨את⟩ uwe ogologo ọla dị iche iche nke dị n'elu ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bịara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ruru"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ụmumenne ya"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "ha yipụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe ya"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "uwe ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe ogologo"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "ogologo ọla dị iche iche"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke dị"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:55:24.652167706Z",
+  "model": "glm-5.3"
+}

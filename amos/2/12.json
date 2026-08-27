@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Unu nyere ⟨את⟩ ndị Nazirai mmanya ka ha ṅụọ, ma nyekwa ndị amụma iwu, na-ekwu, 'Ekwula amụma ọzọ.'",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "unu nyere ka ha ṅụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Nazirai"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "ndị Nazirai"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mmanya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ma nyekwa"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ndị amụma"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "unu nyere iwu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekwula"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "amụma ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:44:37.805869293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Zimri wee bibie ⟨את⟩ bụ mmadụ niile nke ụlọ Baasha, dịka okwu Yahwe nke Ọ gwuru Baasha site n'aka Yehu onye amụma.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "bibie"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bụ mmadụ niile nke ụlọ Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dịka okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ọ gwuru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ri"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "site n'aka"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "onye amụma"
+    }
+  ],
+  "timestamp": "2026-08-27T10:03:37.965423221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 115,
+  "translation": "Yisrael, tinye ntụkwasị obi gị na Yahwe; ⟨ọ⟩ ⟨nke⟩ enyemaka ha na ọta ha bụ ⟨ya⟩.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tinye ntụkwasị obi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "enyemaka ha"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "na ọta ha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:23.489364673Z",
+  "model": "glm-5.3"
+}

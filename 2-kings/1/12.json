@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 1:12",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Eliya zara, wee sị ha: Ọ bụrụ na m bụ nwoke nke Elohim, ka ọkụ si n'eluigwe daa, rie ⟨את⟩ gị na ⟨את⟩ iri ise gị; ọkụ Elohim wee si n'eluigwe daa, wee rie ⟨את⟩ ya na ⟨את⟩ iri ise ya.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "zara"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m bụ"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "kaa daa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "rie"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iri ise gị"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "iri ise gị"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ọkụ wee daa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wee rie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iri ise ya"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "iri ise ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:10:58.329484262Z",
+  "model": "glm-5.3"
+}

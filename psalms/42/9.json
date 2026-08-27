@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "N'ehihie Yahwe ga-enyere iwu chesed ya, ma n'abali abụ ya dị nye m, ekpere nye El nke ndụ m.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "n'ehihie"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ga-enyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ya"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ma n'abali"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dị nye m"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ekpere"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "nye El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nke ndụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:14.668085911Z",
+  "model": "glm-5.3"
+}

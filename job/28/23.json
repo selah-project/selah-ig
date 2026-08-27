@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Elohim ghọtara ụzọ ya, ma ⟨Ọ⟩ maara ⟨את⟩ ebe ọ nọ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ghọtara"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "ụzọ ya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma ⟨Ọ⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "maara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe ọ nọ"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "ebe ọ nọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:49:27.195528313Z",
+  "model": "glm-5.3"
+}

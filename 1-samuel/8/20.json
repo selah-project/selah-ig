@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "ka anyị wee bụrụkwa anyị onwe anyị dị ka mba niile, ka eze anyị wee kpee anyị ikpe, pụọ n'ihu anyị, ma lụọ ⟨את⟩ agha anyị ọgụ.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "ka anyị wee bụrụkwa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "anyị onwe anyị"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dị ka niile"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba ndị ahụ"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "ka ọ wee kpee anyị ikpe"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "eze anyị"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "pụọ"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "n'ihu anyị"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "ma lụọ ọgụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agha anyị"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "agha anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:01:29.779673819Z",
+  "model": "glm-5.3"
+}

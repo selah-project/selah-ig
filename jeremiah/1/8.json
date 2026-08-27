@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Echela ịtụ ụjọ n'ihi ha, n'ihi na m nọ ⟨את⟩ na gị, iji napụta gị, bụ nkwupụta Yahwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "echela"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ịtụ ụjọ"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "n'ihi ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ na gị",
+      "marks": "na gị"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "iji napụta gị"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkwupụta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:13:38.826930998Z",
+  "model": "glm-5.3"
+}

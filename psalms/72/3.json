@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "Ugwu ga-ewelite udo nye ⟨the⟩ ndị, na àgwàta n'ihe ziri ezi.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "ga-ewelite"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Ugwu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "nye ndị"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "na àgwàta"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "n'ihe ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:42.387800549Z",
+  "model": "glm-5.3"
+}

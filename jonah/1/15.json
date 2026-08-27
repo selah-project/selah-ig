@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ha jiri Yona were, wee tụfuo ⟨את⟩ Yona n'ime oké osimiri, oké osimiri ahụ kwụsịrị iwe ya.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ha jiri...were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "wee tụfuo ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "kwụsịrị"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri ahụ"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "iwe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T17:20:13.301636469Z",
+  "model": "glm-5.3"
+}

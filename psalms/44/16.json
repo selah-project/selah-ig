@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "N'ụbọchị niile ihere m dị n'ihu m, ma ihere nke ihu m ekpuchila m.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "N'ụbọchị"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "ihere m"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "dị n'ihu m"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "ma ihere"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nke ihu m"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "ekpuchila m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:54.612355953Z",
+  "model": "glm-5.3"
+}

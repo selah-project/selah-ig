@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Dịka onye enyi, dịka nwanne m, m na-eje ije; dịka onye na-ebe ákwá maka nne, m na-agba nkụtọ mkpọ na uju oji.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "dịka onye enyi"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "dịka nwanne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "m na-eje ije"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "dịka onye na-ebe ákwá"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maka nne"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "na uju oji"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "m na-agba nkụtọ mkpọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:06.629956710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ị were ike were m maka agha; Ị na-eme ka ndị na-emegide m daà n'okpuru m.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "Ị were ike were m"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ike"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "maka agha"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "Ị na-eme ka... daà"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "ndị na-emegide m"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "n'okpuru m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:27.314023217Z",
+  "model": "glm-5.3"
+}

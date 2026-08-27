@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Kama ⟨ọ⟩ dị na Torah nke Yahwe ntụrụndụ ya, na na Torah ya ka ọ na-atụgharị n'echiche ụbọchị na abalị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ọ dị⟩"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "na Torah nke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "ntụrụndụ ya"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "na na Torah ya"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ọ na-atụgharị n'echiche"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na abalị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:46.868097995Z",
+  "model": "glm-5.3"
+}

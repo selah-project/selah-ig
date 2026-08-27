@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọbụna mgbe m na-eti mkpu ma na-akpọku enyemaka, Ọ mechiri ⟨את⟩ ekpere m.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ọbụna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "m na-eti mkpu"
+    },
+    {
+      "surface": "ו אשוע",
+      "gloss": "ma na-akpọku enyemaka"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "mechiri"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ekpere m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:51:55.265976242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Onye anyị na-atọ ụtọ ⟨nzukọ nzico⟩ ọnụ, anyị na-eje ije n'ụlọ Elohim n'ìgwè mmadụ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "na-atọ ụtọ"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "nzukọ nzico"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "anyị na-eje ije"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "n'ìgwè mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:56.075871748Z",
+  "model": "glm-5.3"
+}

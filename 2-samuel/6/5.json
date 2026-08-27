@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma David na ezinaụlọ niile nke Yisrael na-agba ọchị n'ihu Yahwe na ⟨the⟩ osisi niile nke birushim, na kinor, na nebal, na tufim, na mena'an'im, na tseltselim.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ma David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ezinaụlọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "na-agba ọchị"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "birushim"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "na kinor"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "na nebal"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "na tufim"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "na mena'an'im"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "na tseltselim"
+    }
+  ],
+  "timestamp": "2026-08-27T09:33:24.732339798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma site n'aka mpaghara Binjin, ⟨את⟩ Gibon na ⟨את⟩ ala-mgbé ya, ⟨את⟩ Geba na ⟨את⟩ ala-mgbé ya.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ma site n'aka mpaghara"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-mgbé ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ala-mgbé ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-mgbé ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ala-mgbé ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:20.868272952Z",
+  "model": "glm-5.3"
+}

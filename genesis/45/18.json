@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Were ⟨את⟩ nna unu na ⟨את⟩ ezinụlọ unu, bịanụ m n'aka, m ga-enyere unu ⟨את⟩ ihe dị mma nke ala Mitsrayim, unu ga-eri ⟨את⟩ abụba nke ⟨ala⟩ ahụ.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "Were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna unu"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "nna unu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ezinụlọ unu"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "ezinụlọ unu"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "bịanụ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m n'aka"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "m ga-enyere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe dị mma nke ala Mitsrayim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe dị mma"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "unu ga-eri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abụba nke ala"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "abụba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ala ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:03:15.764109349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 112,
+  "translation": "Akụ na ụba n'ụlọ ya, na ndụmọdụ ọma ya na-eguzo ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "akụ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "na ụba"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "n'ụlọ ya"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "na ndụmọdụ ọma ya"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "na-eguzo"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:07.649423834Z",
+  "model": "glm-5.3"
+}

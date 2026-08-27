@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 41:8",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Maka ọ dinma n'ụtụtụ, mmụọ ya nwere nsogbu; o zipụtara, ọ kpọrọ ⟨את⟩ ndị ọgụgụ nsọ niile nke Mitzrayim na ⟨את⟩ ndị amamihe ha niile; Parhọ kọwara ha ⟨את⟩ nrọ ya, ma enweghị onye na-akọwa ⟨את⟩ ha nye Parhọ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka ọ dinma"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "nwere nsogbu"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "mmụọ ya"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "o zipụtara"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ọ kpọrọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ọgụgụ nsọ niile nke Mitzrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "ndị ọgụgụ nsọ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nke Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị amamihe ha niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "ndị amamihe"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "kọwara"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parhọ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nrọ ya"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "nrọ ya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma enweghị"
+    },
+    {
+      "surface": "פותר",
+      "gloss": "onye na-akọwa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ha (nrọ ndị ahụ)"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "nye Parhọ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:56:31.301968106Z",
+  "model": "glm-5.3"
+}

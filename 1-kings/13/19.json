@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ọ laghachikwara ⟨את⟩ ya, rie achịcha n'ụlọ ya, ṅụọkwa mmiri.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ọ laghachikwara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "rie"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "achịcha"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "n'ụlọ ya"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ṅụọkwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T16:36:53.757508754Z",
+  "model": "glm-5.3"
+}

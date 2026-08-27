@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Dịka Yahwe, Elohim gị, dị ndụ, ọ dịghị mba ma ọ bụ alaeze nke onye nwe m ezitereghị n'ebe ahụ ịchọ gị; ha wee sị, Ọ dịghị; o mee ka ⟨את⟩ alaeze ahụ na ⟨את⟩ mba ahụ ṅụ ṅụrụ-aka na a gaghị ahụ gị.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "dị ndụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "dị"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mba"
+    },
+    {
+      "surface": "ו ממלכה",
+      "gloss": "na alaeze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zitere"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "onye nwe m"
+    },
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "ịchọ gị"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ha wee sị"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ọ dịghị"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "o mee ka ha ṅụ ṅụrụ-aka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alaeze ahụ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "alaeze ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mba ahụ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "mba ahụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "a gaghị ahụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:05:48.472898575Z",
+  "model": "glm-5.3"
+}

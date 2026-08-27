@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 10:4",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ha na-ekwu okwu, na-e iyi ụgha nkwekọrịta; ikpe pụtakwara dịka ahịhịa ọjọọ n'elu ọlulu ubi.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "ha na-ekwu"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "y iyi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "na-akpa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "nkwekọrịta"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "ma pụta dịka"
+    },
+    {
+      "surface": "כראש",
+      "gloss": "ahịhịa ọjọọ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "ọlulu"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ubi"
+    }
+  ],
+  "timestamp": "2026-08-27T12:43:29.587196572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ndị nna unu, ha nọ ebee? ma ndị amụma, ha ga-adị ndụ ruo ⟨n'⟩ ebighị ebi?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "ndị nna unu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ha nọ ebee?"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "ma ndị amụma"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "ruo ebighị ebi"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ha ga-adị ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:03:08.655560304Z",
+  "model": "glm-5.3"
+}

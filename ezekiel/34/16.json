@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 34:16",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "⟨את⟩ nke furu efu ka m ga-achọ, ma ⟨את⟩ nke a chụpụrụ ka m ga-eweghachi, nke gbajiri ka m ga-eke ọnyà, ma ⟨את⟩ nke dara ada ka m ga-eme ka sie ike; ma ⟨את⟩ nke buru ibu na ⟨את⟩ nke siri ike ka m ga-ebibie; m ga-azụ ha n'ikpe ziri ezi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nke furu efu"
+    },
+    {
+      "surface": "האבדת",
+      "gloss": "nke furu efu"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "m ga-achọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma ⟨את⟩",
+      "marks": "nke a chụpụrụ"
+    },
+    {
+      "surface": "הנדחת",
+      "gloss": "nke a chụpụrụ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "m ga-eweghachi"
+    },
+    {
+      "surface": "ולנשברת",
+      "gloss": "ma nke gbajiri"
+    },
+    {
+      "surface": "אחבש",
+      "gloss": "m ga-eke ọnyà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma ⟨את⟩",
+      "marks": "nke dara ada"
+    },
+    {
+      "surface": "החולה",
+      "gloss": "nke dara ada"
+    },
+    {
+      "surface": "אחזק",
+      "gloss": "m ga-eme ka sie ike"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma ⟨את⟩",
+      "marks": "nke buru ibu"
+    },
+    {
+      "surface": "השמנה",
+      "gloss": "nke buru ibu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma ⟨את⟩",
+      "marks": "nke siri ike"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "nke siri ike"
+    },
+    {
+      "surface": "אשמיד",
+      "gloss": "m ga-ebibie"
+    },
+    {
+      "surface": "ארענה",
+      "gloss": "m ga-azụ ha"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "n'ikpe ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T12:23:08.730864637Z",
+  "model": "glm-5.3"
+}

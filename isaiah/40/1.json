@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Kasi obi, kasi obi, ndị m; ka Elohim unị na-ekwu ⟨nke a⟩.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Kasi obi"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "kasi obi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ka ọ na-ekwu"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:58:14.229856026Z",
+  "model": "glm-5.3"
+}

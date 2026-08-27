@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 90,
+  "translation": "Tupu ugwu ndị ahụ amụọ, nakwa tupu ị mụọ ⟨את⟩ ụwa nakwa ⟨את⟩ ndị bi n'ụwa, site na mmalite-enweghị-ngwụcha ruo na enweghị-ngwụcha, ị bụ El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Tupu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu ndị ahụ"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "amụọ"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "nakwa tupu ị mụọ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "nakwa ndị bi n'ụwa"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "site na mmalite-enweghị-ngwụcha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo na"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "enweghị-ngwụcha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:14.455314617Z",
+  "model": "glm-5.3"
+}

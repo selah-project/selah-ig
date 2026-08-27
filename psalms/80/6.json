@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Ị na-eri ha nri nke anya mmiri, ma na-eme ka ha ṅụọ anya mmiri n'ụzọ atọ.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Ị na-eri ha"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "nke anya mmiri"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "ma na-eme ka ha ṅụọ"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "anya mmiri"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "n'ụzọ atọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:21.217361047Z",
+  "model": "glm-5.3"
+}

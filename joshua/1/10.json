@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Yehoshua wee nye ⟨את⟩ ndị ọchịchị nke ndị mmadụ iwu, sị:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wee nye iwu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ọchịchị"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "ndị ọchịchị"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nke ndị mmadụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:20:20.571054370Z",
+  "model": "glm-5.3"
+}

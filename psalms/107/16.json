@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "N'ihi na Ọ dara ụzọ ọnụ nke ọla kọpa, ma bepụ mgbidi nke ígwè.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Ọ dara"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ụzọ ọnụ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nke ọla kọpa"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ma mgbidi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "nke ígwè"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "bepụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:06.386509563Z",
+  "model": "glm-5.3"
+}

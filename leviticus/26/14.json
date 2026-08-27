@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ma ọ bụrụ na unù anụghị m, ma na-emeghị ⟨את⟩ iwu niile ndị a,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ọ bụrụ na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "unù anụghị"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma na-emeghị"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "unù na-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu niile ndị a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    }
+  ],
+  "timestamp": "2026-08-27T07:07:30.645953285Z",
+  "model": "glm-5.3"
+}

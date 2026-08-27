@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "Dịka ọwụwa anyanwụ dị anya site na ọdịda anyanwụ, otu ahụ ka O si doo ⟨את⟩ mmehie anyị anya site n'anyị.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "dịka ... dị anya"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ọwụwa anyanwụ"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "site na ọdịda anyanwụ"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "doo ... anya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "site n'anyị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmehie anyị"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "mmehie anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:13.303867916Z",
+  "model": "glm-5.3"
+}

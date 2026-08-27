@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ọ na-ewepụ ha n'ọchịchịrị na onyinyo nke ọnwụ, ma na-akụda mkpọ ha.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "Ọ na-ewepụ ha"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "n'ọchịchịrị"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "na onyinyo nke ọnwụ"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "ma mkpọ ha"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "na-akụdapụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:06.386272779Z",
+  "model": "glm-5.3"
+}

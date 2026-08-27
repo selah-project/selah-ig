@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 9:10",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma ugbu a, anyị ga-ekwu gịnị, Elohim anyị, mgbe nke a gasịrị, n'ihi na anyị hapụrụ iwu gị?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ma ugbu a"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "anyị ga-ekwu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe... gasịrị"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "anyị hapụrụ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "iwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:40:47.753837220Z",
+  "model": "glm-5.3"
+}

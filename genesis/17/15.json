@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Elohim wee soro Avraham kwuo, sị: Sarai, nwunye gị — ị ga-akpọghị ⟨את⟩ aha ya Sarai, n'ihi na Sarah ka aha ya bụ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ kwuru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "soro"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "nwunye gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ị ga-akpọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ya"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "aha ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:34:08.100907580Z",
+  "model": "glm-5.3"
+}

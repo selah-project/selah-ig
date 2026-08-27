@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ha enụghị m ntị, ha tụghịkwa ⟨את⟩ ntị ha azụ; ha kpọnwụrọ ⟨את⟩ azụ́ ha, ha rụrụ ihe ọjọọ karịa ndị nna ha.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "enụghị"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ntị"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tụghịkwa"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "tụghazị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntị ha"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "ntị ha"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "kpọnwuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azụ́ ha"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "azụ́ ha"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "ha rụrụ ihe ọjọọ"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "karịa ndị nna ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:42:08.153933714Z",
+  "model": "glm-5.3"
+}

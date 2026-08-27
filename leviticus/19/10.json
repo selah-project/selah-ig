@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Maka ubi mmanya gị, ị gaghị ewe ya ọcha kpamkpam, ma mkpụrụ mmanya fọdụrụ n'ubi mmanya gị, ị gaghị atụ; maka ogbenye na onye ọbịa ka ị ga-ahapụ ⟨את⟩ ha; m bụ Yahwe Elohim unu.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "maka ubi mmanya gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ị gaghị"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "ewe ọcha kpamkpam"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "ma mkpụrụ mmanya fọdụrụ"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "n'ubi mmanya gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ị gaghị"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "atụ"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "maka ogbenye"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "na onye ọbịa"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ka ị ga-ahapụ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha (ihe fọdụrụ n'ubi mmanya)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:59:03.141675346Z",
+  "model": "glm-5.3"
+}

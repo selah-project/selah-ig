@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Mgbakọ ahụ dum zara, wee sị olu ukwu: Dịka okwu gị siri metụta anyị, anyị ga-eme ya.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "zara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dum"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "mgbakọ ahụ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "okwu gị"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "metụta anyị"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ga-eme ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:39:29.654048659Z",
+  "model": "glm-5.3"
+}

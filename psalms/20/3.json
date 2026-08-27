@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ɔ zipụ enyemaka gị site na ebe nsọ, ma si na Tsiyon kwado gị.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ọ zipụ"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "enyemaka gị"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "site na ebe nsọ"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "ma si na Tsiyon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "kwado gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:32.719762032Z",
+  "model": "glm-5.3"
+}

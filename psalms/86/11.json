@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 86,
+  "translation": "Zịkwasa m ụzọ gị, Yahwe; m ga-eje n'eziokwu gị. Jikọaa obi m n'otu ka m jiri-atụ egwu aha gị.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "zịkwasa m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ụzọ gị"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "m ga-eje"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "n'eziokwu gị"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "jikọaa n'otu"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ka m jiri-atụ egwu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:04.431908259Z",
+  "model": "glm-5.3"
+}

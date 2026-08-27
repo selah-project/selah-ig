@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Elohim chetara Rachel, Elohim gee ntị n'olu ya, wee mepee ⟨את⟩ akwara nke ya.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "chetara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "gee ntị"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "n'olu ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "wee mepee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwara nke ya"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "akwara nke ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:44:16.242808270Z",
+  "model": "glm-5.3"
+}

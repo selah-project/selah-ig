@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 141,
+  "translation": "N'ihi na na gị, Yahwe, Adonai, ka anya m dị; n'ebe gị ka m gabigara; ekpugbala mkpụrụ obi m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "n'ebe gị"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ka m gabigara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekpugbala"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ekpugbala"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:31.862220605Z",
+  "model": "glm-5.3"
+}

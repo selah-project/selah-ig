@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ma mgbe ọ enweghị ike izo ya ọzọ, ọ were ya igbe akwụkwọ mmiri, ọ tinyere ya na ụrọ na pitch, o tinyere ⟨את⟩ nwa ahụ n'ime ya, ma dee ya n'etiti ajị n'akụkụ osimiri ahụ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "ọ nwere ike"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "izo ya"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ọ were"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "akwụkwọ mmiri"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "ọ tinyere ya"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "na ụrọ"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "na pitch"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "o tinyere"
+    },
+    {
+      "surface": "בה",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ahụ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "nwa ahụ"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "o dee ya"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "n'etiti ajị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "akụkụ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "osimiri ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:54.170970874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Mgbe ha gwụchara iri ⟨את⟩ ọka ha si Mitzrayim, nna ha sere ha: laa zoo, zụta anyị ntakịrị nri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ha gwụchara"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "iri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọka"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "ọka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha si"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sere"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "nna ha"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "laa zoo"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "zụta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ntakịrị"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nri"
+    }
+  ],
+  "timestamp": "2026-08-27T05:59:12.375917418Z",
+  "model": "glm-5.3"
+}

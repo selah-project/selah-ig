@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ma ọ ekweghị ige ntị n'olu ya; o sikwa ike karịa ya, mebie ya, wee dinaa ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ ekweghị"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ekwetaghị"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ige ntị"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "n'olu ya"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "o sikwa ike"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "karịa ya"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "mebie ya"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "dinaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Tamar)"
+    }
+  ],
+  "timestamp": "2026-08-27T09:36:49.518022070Z",
+  "model": "glm-5.3"
+}

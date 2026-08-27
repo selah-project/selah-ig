@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Meshah eze Moab bụ onye na-azụ atụrụ, ma na-aza eze Israel puku kwuru narị nke ndị atụrụ nwoke na puku kwuru narị nke ndị ebunu, na ajị ha.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Meshah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "onye na-azụ atụrụ"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ma na-aza"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "narị"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku kwuru"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ndị atụrụ nwoke"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na narị"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku kwuru"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ndị ebunu"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ajị ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:12:18.476483748Z",
+  "model": "glm-5.3"
+}

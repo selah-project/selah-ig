@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ala gị ghọrọ mkpọfu; obodo gị gbara ọkụ n'ọkụ; ala gị, ndị ọzọ na-eri ⟨את⟩ ya n'ihu gị, na ọ bụkwa mkpọfu dịka ndị ọzọ gburu ala ya.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "ala gị"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ghọrọ mkpọfu"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "obodo gị"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "gbara ọkụ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "n'ọkụ"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ala gị"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ndị ọzọ"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "na-eri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "na ọ bụkwa mkpọfu"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "dịka ndị ... gburu ala"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ndị ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:31:45.191240158Z",
+  "model": "glm-5.3"
+}

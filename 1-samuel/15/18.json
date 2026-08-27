@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Yahwe wee zipụta gị n'ụzọ ahụ, wee sị gị: Gaa, tinye ⟨את⟩ ndị mmehie ⟨את⟩ Amalek n'iwu mbibi, wee lụọ ha ọgụ ruo mgbe ikwusịrị ha ⟨את⟩ ha.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "wee zipụta gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gaa"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "tinye n'iwu mbibi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị mmehie"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "ndị mmehie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "wee lụọ ọgụ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "mgbe ha kwụsịrị"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:12:46.935293415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọnụ ọgụgụ ha, dịka ezinụlọ ha na ụlọ nna ha si dị, bụ puku abụọ na narị isii na iri atọ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ọnụ ọgụgụ ha"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dịka ezinụlọ ha si dị"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nna ha"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "puku abụọ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na isii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na iri atọ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:13:43.967805998Z",
+  "model": "glm-5.3"
+}

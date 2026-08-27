@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ ndị Yevusi, ⟨את⟩ ndị Emori, na ⟨את⟩ ndị Girgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ndị Yevusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ndị Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ndị Girgashi"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:55.149139934Z",
+  "model": "glm-5.3"
+}

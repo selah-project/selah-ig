@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Ha ga-efu efu, mana ị ga-adịgide; ma ha niile ga-aka ngwa ngwa dịka uwe; dịka ejiji gi ga-agbanwe ha, ma ha ga-agbanwe.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ga-efu efu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mana ị"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ga-adịgide"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "ma ha niile"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "dịka uwe"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "ga-aka ngwa ngwa"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "dịka ejiji"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "gi ga-agbanwe ha"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "ma ha ga-agbanwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:06.631080215Z",
+  "model": "glm-5.3"
+}

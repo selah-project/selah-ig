@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "N'ihi na Elohim ga-azọpụta Tsiyon, ga-ewukwa obodo ndị Yehuda; ha ga-ebebi ebe ahụ, ma kee ya dịka ihe nketa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ga-azọpụta"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ga-ewukwa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo ndị"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ha ga-ebebi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "kee ya dịka ihe nketa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:52.699469717Z",
+  "model": "glm-5.3"
+}

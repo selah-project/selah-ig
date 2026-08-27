@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Zọpụta, Yahwe, n'ihi na onye-ọma-agwụla; n'ihi na ndị kwesiri ntụkwasị obi apụọla n'etiti ụmụ mmadụ.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Zọpụta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "agwụla"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "onye-ọma-"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "apụọla"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ndị kwesiri ntụkwasị obi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "n'etiti ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:03.085372818Z",
+  "model": "glm-5.3"
+}

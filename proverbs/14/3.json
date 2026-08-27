@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "N'ọnụ nke onye nzuzu dị mkpọ mkpọ ichie mmetụta, ma mgbumgbuga nke ndị amamihe ga-echebe ha.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "n'ọnụ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "nke onye nzuzu"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "mkpọ mkpọ ichie"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "agbagọ afụ"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "ma mgbumgbuga"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "nke ndị amamihe"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "ga-echebe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:22:51.595533641Z",
+  "model": "glm-5.3"
+}

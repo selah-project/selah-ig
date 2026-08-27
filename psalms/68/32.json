@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Ndị ukwu ga-abịa site na Mitzrayim; Kush ga-agba ọsọ tinye aka ya ruo Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "ga-abịa"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "ndị ukwu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "site na"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "ga-agba ọsọ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ruo Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:51.393168107Z",
+  "model": "glm-5.3"
+}

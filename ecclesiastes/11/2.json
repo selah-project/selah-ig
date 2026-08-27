@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Nyee òkè ruo asaa, ọbụna ruo asatọ, maka na ị maghị ihe ọjọọ ga-abụ n'elu ụwa.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Nyee"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ruo asaa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ọbụna"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "ruo asatọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ị ga-mara"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T15:18:13.742565451Z",
+  "model": "glm-5.3"
+}

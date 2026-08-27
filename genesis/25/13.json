@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 25:13",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ma ndị a ka aha ụmụ Yishmael nwere, site n'aha ha, dịka ọmụmụ ha si dị: nwa mbụ Yishmael, Nevayot; na Kedar, na Adbeel, na Mivsam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ma ndị a"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "site n'aha ha"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "dịka ọmụmụ ha si dị"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "nwa mbụ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "נבית",
+      "gloss": "Nevayot"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "na Kedar"
+    },
+    {
+      "surface": "ואדבאל",
+      "gloss": "na Adbeel"
+    },
+    {
+      "surface": "ומבשם",
+      "gloss": "na Mivsam"
+    }
+  ],
+  "timestamp": "2026-08-27T05:40:01.937396067Z",
+  "model": "glm-5.3"
+}

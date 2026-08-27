@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 94,
+  "translation": "N'ihi na ikpe ga-alaghachi n'ịkpa àgwà ziri ezi, ndị niile nwere obi kwụ ọtọ ga-esote ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ezi àgwà"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ga-alaghachi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ga-esote ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "kwụ ọtọ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:11.739315800Z",
+  "model": "glm-5.3"
+}

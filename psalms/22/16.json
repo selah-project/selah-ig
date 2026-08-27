@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ike m akpọnwụla dịka ite ụrọ, ma ire m na-adọrọ n'ime ọnụ m; ị dọtala m ruo n'ájá ọnwụ.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "akpọnwụla"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "dịka ite ụrọ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "Ike m"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ma ire m"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "na-adọrọ"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "n'ime ọnụ m"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "ruo n'ájá"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "ị dọtala m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:54.418299374Z",
+  "model": "glm-5.3"
+}

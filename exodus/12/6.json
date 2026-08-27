@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ọ ga-abụkwa maka unu dị ka ihe a na-eche nche ruo ụbọchị nke iri na anọ nke ọnwa a; ma ndị nzukọ niile nke ọgbakọ Yisraël ga-egbu ⟨את⟩ ya n'etiti ohi abụọ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụkwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka unu"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "dị ka ihe a na-eche nche"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri na"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "nke ọnwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "ma ha ga-egbu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ndị nzukọ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ọgbakọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ohi abụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:48.123764670Z",
+  "model": "glm-5.3"
+}

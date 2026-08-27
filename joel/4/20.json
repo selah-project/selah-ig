@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ma Yehuda ga-ebebi ruo mgbe ebighị ebi, ma Yerushalayim ruo ọgbọ na ọgbọ.",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "Ma Yehuda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ga-ebebi"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ma Yerushalayim"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ruo ọgbọ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na ọgbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:45:28.664446585Z",
+  "model": "glm-5.3"
+}

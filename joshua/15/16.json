@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Kalev wee sị: Onye ọ bụla ga-akụ ⟨את⟩ Kiryat-Sefer ma jide ya, m ga-enye ya ⟨את⟩ Akhsa nwa m nwanyị dịka nwunye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye ọ bụla nke"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ga-akụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ma jide ya"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "m ga-enye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "nwa m nwanyị"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dịka nwunye"
+    }
+  ],
+  "timestamp": "2026-08-27T08:32:00.455644066Z",
+  "model": "glm-5.3"
+}

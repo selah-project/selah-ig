@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Onye na-eji ìhè kpuchie onwe ya dịka uwe, Onye na-ekesa eluigwe dịka akwa àkwà mmiri.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "Onye na-eji ... kpuchie onwe ya"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìhè"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "dịka uwe"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "Onye na-ekesa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "dịka akwa àkwà mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:32.364505156Z",
+  "model": "glm-5.3"
+}

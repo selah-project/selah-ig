@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 22:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ma n'ụbọchị ahụ, Adonai Yahwe nke ndị agha kpọrọ oku ka a na-akwa ákwá, ka a na-eru uju, ka isi na-agbaji, na ka a na-eji ákwà akpọrọ akpọ kee onwe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ma o kpọrọ oku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "לבכי",
+      "gloss": "ka a na-akwa ákwá"
+    },
+    {
+      "surface": "ולמספד",
+      "gloss": "ka a na-eru uju"
+    },
+    {
+      "surface": "ולקרחה",
+      "gloss": "ka isi na-agbaji"
+    },
+    {
+      "surface": "ולחגר",
+      "gloss": "ka a na-eji... kee onwe"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ákwà akpọrọ akpọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:43:12.257051209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "too Yahwe, ndị ozi ya, ndị siri ike n'ike, ndị na-eme okwu ya, iji gee ntị n'olu okwu ya",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "too"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ndị ozi ya"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "ndị siri ike"
+    },
+    {
+      "surface": "כח",
+      "gloss": "n'ike"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ndị na-eme"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "okwu ya"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "iji gee ntị"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "n'olu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "okwu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:27.691094401Z",
+  "model": "glm-5.3"
+}

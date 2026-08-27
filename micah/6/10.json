@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ka ọ ka dị ⟨na⟩ ụlọ onye ajọ omume, akụ nke ajọ omume, na akpa mkpụlite a jụrụ?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ka ọ ka"
+    },
+    {
+      "surface": "האש",
+      "gloss": "⟨na⟩ dị"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ajọ omume"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "akụ nke"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ajọ omume"
+    },
+    {
+      "surface": "ו איפת",
+      "gloss": "na akpa mkpụlite"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "mkpụlite"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "a jụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:55:27.479754722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Mụkwa guzobere ⟨את⟩ ọgbụgba-ndụ m na ⟨את⟩ ha, iji nyere ha ⟨את⟩ ala Kenaan, ⟨את⟩ ala ebe ha bi nwa oge, nke ha biara bie na ya.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mụkwa"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "guzobere m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "iji nyere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ebe ha bi nwa oge"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "ebe ha bi nwa oge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "ha biara bie"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:10:15.970049322Z",
+  "model": "glm-5.3"
+}

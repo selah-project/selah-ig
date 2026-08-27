@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Va a sịrị anyị, nwoke ahụ, onye-isi ⟨nke⟩ ala: site na nke a ka m ga-amata na unu bụ eziokwu: otu n'ime ụmụnne unu, hapụ ya ⟨את⟩ na m, na ⟨את⟩ nri ụnzọ maka ụnọ unu, were gaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sịrị"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke ahụ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "onye-isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "site na nke a"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "m ga-amata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "eziokwu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ụmụnne unu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "hapụ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ na m",
+      "marks": "ọ (nwanne unu nke a ga-ahapụ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nri ụnzọ"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "nri ụnzọ"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "ụnọ unu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "were"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "gaa"
+    }
+  ],
+  "timestamp": "2026-08-27T05:58:19.255695560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "N'ihi na m mewo ⟨את⟩ Esav gba ọtọ, m kpughere ⟨את⟩ ebe nzuzo ya, ọ gaghị enwe ike izo onwe ya; e bibiri mkpụrụ ya, na ụmụnne ya, na ndị agbata obi ya, ọ dịghịkwa adị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "m mewo gba ọtọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "m kpughere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe nzuzo ya"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "ebe nzuzo ya"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "izo onwe ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ọ ga-enwe ike"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "e bibiri"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mkpụrụ ya"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "na ụmụnne ya"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "na ndị agbata obi ya"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ọ dịghịkwa adị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:42:29.244568231Z",
+  "model": "glm-5.3"
+}

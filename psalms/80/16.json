@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "na osisi vaịn nke aka nri gị kụrụ, na nwa gị nyere ike maka gị.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "na osisi vaịn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "kụrụ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "aka nri gị"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "gị nyere ike"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:10.537343626Z",
+  "model": "glm-5.3"
+}

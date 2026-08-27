@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Jikọta ha n'mkpịsị aka gị, dee ha n'elu tebụl obi gị.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Jikọta ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "אצבעתיכ",
+      "gloss": "mkpịsị aka gị"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "dee ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tebụl"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "obi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:19:42.881207481Z",
+  "model": "glm-5.3"
+}

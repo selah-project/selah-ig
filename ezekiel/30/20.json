@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 30:20",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ọ bịara n'afọ nke iri na otu, n'ọnwa nke mbụ, n'ụbọchị nke asaa nke ọnwa ahụ, okwu Yahwe bịara n'aka m, na-ekwu,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ bịara"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ nke otu"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "n'ọnwa nke mbụ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "n'ụbọchị nke asaa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "nke ọnwa ahụ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n'aka m"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    }
+  ],
+  "timestamp": "2026-08-27T12:20:20.421176351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Shallum nwa ya, Mivsam nwa ya, Mishma nwa ya.",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "Mivsam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "Mishma"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:53:34.309831785Z",
+  "model": "glm-5.3"
+}

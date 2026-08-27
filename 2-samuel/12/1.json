@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Yahwe zipụtara ⟨את⟩ Natan gakwuru David; ọ bịara nye ya, wee sị ya: Ọnụ ndị ikom abụọ nọ n'obodo ⟨otu⟩; nke ⟨otu⟩ bụ onye ọgaranya, nke ọzọ bụ onye ogbenye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "zipụtara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gakwuru"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ọ bịara"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "nye ya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nọ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨otu⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nke ⟨otu⟩"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "onye ọgaranya"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "nke ọzọ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "onye ogbenye"
+    }
+  ],
+  "timestamp": "2026-08-27T09:37:05.380193465Z",
+  "model": "glm-5.3"
+}

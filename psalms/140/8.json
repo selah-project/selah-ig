@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 140,
+  "translation": "Yahwe, Adonai, ike nke nzọpụta m, Ị kpuchiri isi m n'ụbọchị agha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ike"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "nke nzọpụta m"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "Ị kpuchiri"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "isi m"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "agha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:48.757755315Z",
+  "model": "glm-5.3"
+}

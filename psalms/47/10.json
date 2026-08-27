@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "Ndị isi nke ndị mmadụ anakọtara ọnụ, bụrụkwa ndị mmadụ nke Elohim nke Avraham; n'ihi na ndị nchebe nke ụwa bụ nke Elohim; a jaara ya mma nke ukwuu.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "ndị isi nke"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "anakọtara ọnụ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "nke Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bụ nke Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ndị nchebe nke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "a jaara ya mma n'elu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:20.401702407Z",
+  "model": "glm-5.3"
+}

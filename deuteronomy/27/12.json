@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ndị a ga-eguzo iji gọzie ⟨את⟩ ndị mmadụ n'elu ugwu Gerizim, mgbe unu na-agafe ⟨את⟩ Osimiri Yordan: Shimon, na Levi, na Yehuda, na Yissakhar, na Yosef, na Binyamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ga-eguzo"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "iji gọzie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị mmadụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "mgbe unu na-agafe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Osimiri Yordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Osimiri Yordan"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "na Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "na Yissakhar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "na Yosef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "na Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-27T08:08:04.510132031Z",
+  "model": "glm-5.3"
+}

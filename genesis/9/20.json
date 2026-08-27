@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma Noa, onye ọrụ ubi nke ala, malitere, ma kụọ ubi vaịn.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ma...malitere"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "nke ala"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "ma...kụọ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ubi vaịn"
+    }
+  ],
+  "timestamp": "2026-08-27T05:28:19.956998345Z",
+  "model": "glm-5.3"
+}

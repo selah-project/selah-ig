@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "Mmebi asụsụ gị na-atụ atụmatụ, dịka mma ịkpụ ntụtụ e zuru okè, onye na-eme aghụghọ.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Mmebi"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "na-atụ atụmatụ"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "asụsụ gị"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "dịka mma ịkpụ ntụtụ"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "e zuru okè"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "onye na-eme"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "aghụghọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:12.962392182Z",
+  "model": "glm-5.3"
+}

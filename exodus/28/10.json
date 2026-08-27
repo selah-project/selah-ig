@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Aha isii n'ime ha n'otu nkume, na ⟨את⟩ aha isii ndị fọdụrụ n'nkume nke abụọ, dịka ọmụmụ ha si dị.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "isii"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "aha n'ime ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aha isii ndị fọdụrụ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "isii"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "ndị fọdụrụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "dịka ọmụmụ ha si dị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:28:37.523161532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 66,
+  "translation": "Sịrị Elohim: ka ihe egwu dị njọ ọrụ gị si dị! N'ụkwụ nke ike gị, ndị iro gị ga-agha ụgha nye gị.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "sịrị"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ihe egwu dị njọ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ọrụ gị"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "n'ụkwụ nke"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ike gị"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ga-agha ụgha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nye gị"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ndị iro gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:53.579578637Z",
+  "model": "glm-5.3"
+}

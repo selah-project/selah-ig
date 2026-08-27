@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 147,
+  "translation": "N'ihi na O ji ike mee mkpọchi nke ọnụ ụzọ gị, gọzie ọgọ gị n'ime gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "O ji ike mee"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "mkpọchi nke"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ọnụ ụzọ gị"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "gọzie"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ọgọ gị"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "n'ime gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:56.037553495Z",
+  "model": "glm-5.3"
+}

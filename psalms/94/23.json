@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 94,
+  "translation": "Ọ ga-eweghachi ha ⟨את⟩ ajọ omume ha, ma n'ọjọọ ha mee ka ha kwụsị ịdị; mee ka ha kwụsị ịdị ka ahụ, Yahwe, Elohim anyị.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ga-eweghachi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajọ omume ha"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ajọ omume ha"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "ma n'ọjọọ ha"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "mee ka ha kwụsị ịdị"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "mee ka ha kwụsị ịdị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:25.029161464Z",
+  "model": "glm-5.3"
+}

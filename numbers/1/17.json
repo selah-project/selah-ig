@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Moshe na Aharon were ⟨את⟩ ndị ikom ndị a bụ ndị a kpọrọ aha.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ikom ndị a"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ ndị"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "a kpọrọ"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:11:17.001806426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Maka m bụ onye ogbenye na onye naghị ihe ọ bụla; Adonai na-eche banyere m. Nnyem aka na onye nzọpụta m ka ị bụ, Elohim m; echebeghị oge.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maka m bụ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "onye naghị ihe ọ bụla"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "na-eche banyere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "nnyem aka"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "onye nzọpụta m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị bụ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "echebeghị"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "oge"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:43.911335583Z",
+  "model": "glm-5.3"
+}

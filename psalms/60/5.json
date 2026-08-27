@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Ị gosịrị ndị gị ihe siri ike; Ị mere ka anyị ṅụọ mmanya na-ama jijiji.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "Ị gosịrị"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndị gị"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ihe siri ike"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "Ị mere ka anyị ṅụọ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mmanya"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "na-ama jijiji"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:49.507920184Z",
+  "model": "glm-5.3"
+}

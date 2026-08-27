@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Ma Gị, Yahwe, gosịa m ebere, mee ka m bilite, ka m wee kwụọ ha ụgwọ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma Gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "gosịa m ebere"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "mee ka m bilite"
+    },
+    {
+      "surface": "וואשלמה",
+      "gloss": "ka m wee kwụọ ụgwọ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:37.150616867Z",
+  "model": "glm-5.3"
+}

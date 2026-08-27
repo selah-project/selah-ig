@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ndị nchuaja na ndị Levị wee dịkwa nsọ ka ha bulie ⟨את⟩ igbe nke Yahwe, Elohim nke Israel, elu.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "wee dịkwa nsọ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchuaja"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "na ndị Levị"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ka ha bulie elu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igbe nke Yahwe, Elohim nke Israel"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-27T16:01:07.756787626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ha zawa ⟨את⟩ Yehoshua, sị: Ihe niile nke i nyere anyị iwu ka anyị mee, yana ebe ọ bụla nke ị ga-eziga anyị, anyị ga-aga.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Ma ha zawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "i nyere anyị iwu"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "anyị ga-eme"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "yana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ebe ọ bụla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "ị ga-eziga anyị"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "anyị ga-aga"
+    }
+  ],
+  "timestamp": "2026-08-27T08:21:04.692574777Z",
+  "model": "glm-5.3"
+}

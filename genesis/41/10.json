@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Paroh were iwe ná ndị ohu ya, o tinyekwara ⟨את⟩ m n'ụlọ mkpọrọ nke ụlọ onye-isi ndị na-egbu anụ, m na ⟨את⟩ onye-isi ndị na-eme achịcha.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "were iwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ná"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o tinyekwara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "n'ụlọ mkpọrọ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onye-isi"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "ndị na-egbu anụ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "onye-isi ndị na-eme achịcha"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onye-isi"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "ndị na-eme achịcha"
+    }
+  ],
+  "timestamp": "2026-08-27T05:54:15.935172814Z",
+  "model": "glm-5.3"
+}

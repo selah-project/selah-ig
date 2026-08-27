@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 90,
+  "translation": "Mee ka anyị nwee obi ụtọ dịka ụbọchị ị kwara anyị ahụhụ, dịka afọ ndị anyị hụrụ ihe ọjọọ.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Mee ka anyị nwee obi ụtọ"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "dịka ụbọchị"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "ị kwara anyị ahụhụ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "dịka afọ"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "anyị hụrụ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ihe ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:12.112857594Z",
+  "model": "glm-5.3"
+}

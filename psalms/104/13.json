@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Ọ na-agba ugwu mmiri site n'elu ụlọ ya; site na mkpụrụ nke ọrụ gị ka ụwa ṅụrụ okọ.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "Ọ na-agba mmiri"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "site n'elu ụlọ ya"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "site na mkpụrụ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "nke ọrụ gị"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ṅụrụ okọ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:44.458210692Z",
+  "model": "glm-5.3"
+}

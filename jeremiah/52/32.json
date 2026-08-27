@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "Ọ gwara ⟨את⟩ ya okwu ọma, ma tinye ⟨את⟩ ocheeze ya n'elu ocheeze ndị eze ndị nọ ⟨את⟩ ya na Babilọn.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ọ gwara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "okwu ọma"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ocheeze ya"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ocheeze ya"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "ocheeze"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nọ"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "na Babilọn"
+    }
+  ],
+  "timestamp": "2026-08-27T11:57:54.868097382Z",
+  "model": "glm-5.3"
+}

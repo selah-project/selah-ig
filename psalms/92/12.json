@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 92,
+  "translation": "Anya m na-elekwu ndị na-echere m ụkwụ; ntị m na-anụkwa ihe gbasara ndị na-emebi ihe, ndị na-ebilite megide m.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "na-elekwu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "ndị na-echere m ụkwụ"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "ndị na-ebilite"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ndị na-emebi ihe"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "na-anụkwa"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ntị m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:05.878333178Z",
+  "model": "glm-5.3"
+}

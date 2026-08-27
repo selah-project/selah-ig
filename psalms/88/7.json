@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 88,
+  "translation": "Ị tinyere m n'olu kacha ala, n'ọchịchịrị, n'omimi.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Ị tinyere m"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "n'olu"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "kacha ala"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "n'ọchịchịrị"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "n'omimi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:59.554369436Z",
+  "model": "glm-5.3"
+}

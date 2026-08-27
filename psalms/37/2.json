@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Maka dịka ahịhịa, ngwa ngwa ka a na-ewepụ ha, ma dịka akwụkwọ ndụ nke ahịhịa, ha ga-amịka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "dịka ahịhịa"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ngwa ngwa"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "a na-ewepụ ha"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "ma dịka akwụkwọ ndụ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "nke ahịhịa"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "ha ga-amịka"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:46.119448414Z",
+  "model": "glm-5.3"
+}

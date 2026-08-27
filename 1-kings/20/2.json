@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "O zipụrụ ndị ozi banye n'obodo ahụ ruo Ahab, eze Izrel,",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "O zipụrụ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ndị ozi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "banye n'obodo ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:06:37.023264234Z",
+  "model": "glm-5.3"
+}

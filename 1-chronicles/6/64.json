@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "na ⟨את⟩ Kedemot na ⟨את⟩ ala-ozuzu ya, na ⟨את⟩ Mefa'at na ⟨את⟩ ala-ozuzu ya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala-ozuzu ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ala-ozuzu ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mefa'at"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefa'at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala-ozuzu ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ala-ozuzu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:42.858217096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Dawid wee mee dịka Elohim nyere ya iwu, ha wee kụọ ⟨את⟩ ogige ndị Pelishtim site na Gibeon ruo Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ọ wee mee"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "nyere ya iwu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ha wee kụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogige"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ogige"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Pelishtim"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "site na Gibeon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-27T16:00:27.403219988Z",
+  "model": "glm-5.3"
+}

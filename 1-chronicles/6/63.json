@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "1-chronicles 6:63",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Na n'akụkụ ọzọ nke Yarden, na Jeriko, n'ebe ọwụwa anyanwụ Yarden: site n'ebo Reuven ⟨את⟩ Betser n'ọzara na ⟨את⟩ ala-ozuzu ya, na ⟨את⟩ Yahatsa na ⟨את⟩ ala-ozuzu ya.",
+  "tokens": [
+    {
+      "surface": "ומעבר",
+      "gloss": "n'akụkụ ọzọ"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "nke Yarden"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jeriko"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "n'ebe ọwụwa anyanwụ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yanden"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "site n'ebo"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala-ozuzu ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ala-ozuzu ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahatsa"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahatsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala-ozuzu ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ala-ozuzu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:42.858093544Z",
+  "model": "glm-5.3"
+}

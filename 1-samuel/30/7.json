@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "David wee sọrọ Evyatar onye nchụàjà, nwa Ahimelek, sị, 'Biko, wetara m efood.' Evyatar wee wetara ⟨את⟩ efood nye David.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sọrọ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sọrọ"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelek"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "wetara"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efood"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "wee wetara"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efood"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efood"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-27T09:25:13.463888312Z",
+  "model": "glm-5.3"
+}

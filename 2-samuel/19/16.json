@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Eze laghachiri wee bịa ruo na Yarden, Yehuda bịakwara na Gilgal ịga zute ⟨את⟩ eze, iji duzie ⟨את⟩ eze gafere ⟨את⟩ Yarden.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "laghachiri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "bịakwara ruo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo na"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "iga"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "zute"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "iji duzie gafere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eze"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-27T16:35:31.402486824Z",
+  "model": "glm-5.3"
+}

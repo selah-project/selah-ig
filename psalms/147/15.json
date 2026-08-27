@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 147,
+  "translation": "Onye na-ezitere iwu Ya n'ụwa, ọkwu Ya na-agba ọsọ ngwa ngwa.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Onye na-ezitere"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "iwu Ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ngwa ngwa"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "na-agba ọsọ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ọkwu Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:56.037872169Z",
+  "model": "glm-5.3"
+}

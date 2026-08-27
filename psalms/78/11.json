@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ha chefuola ihe Ọ rụzuru, na ihe ịtụnanya Ya, nke O mere ka ha hụ.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Ha chefuola"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ihe Ọ rụzuru"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "na ihe ịtụnanya Ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "O mere ka ha hụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:11.839958834Z",
+  "model": "glm-5.3"
+}

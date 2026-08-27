@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "O gbanwere ⟨את⟩ mmiri ha ka ọ bụrụ ọbara, ma gbuo ⟨את⟩ azụ̀ ha.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "O gbanwere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmiri ha"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "mmiri ha"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ka ọ bụrụ ọbara"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ma gbuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azụ̀ ha"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "azụ̀ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:53.638091856Z",
+  "model": "glm-5.3"
+}

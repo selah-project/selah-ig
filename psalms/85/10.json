@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 85,
+  "translation": "N'ezie, nnapụta ya dị nso nye ndị na-atụ ya egwu, ka ihe ùgwu nwee ike ibi n'ala anyị.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "N'ezie"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dị nso"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "nye ndị na-atụ ya egwu"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "nnapụta ya"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ka ... nwee ike ibi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ihe ùgwu"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "n'ala anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:31.410841481Z",
+  "model": "glm-5.3"
+}

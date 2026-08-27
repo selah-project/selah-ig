@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 86,
+  "translation": "Baa m ebere, Adonai, n'ihi na gị ka m na-akpọ oku Ụbọchị niile.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Baa m ebere"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị ka"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m na-akpọ oku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:49:02.658277604Z",
+  "model": "glm-5.3"
+}

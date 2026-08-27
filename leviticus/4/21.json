@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọ ga-ewepụ ⟨את⟩ nwa ehi ahụ gaa mpụga nke ⟨the⟩ ogige ahụ, gọọ ya ọkụ dịka ọ gọrọ ⟨את⟩ nwa ehi mbụ ahụ; ọfọ mmehie nke nzukọ ahụ ka ọ bụ.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ọ ga-ewepụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ehi ahụ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "nwa ehi ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "mpụga"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "nke ogige ahụ"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "gọọ ya ọkụ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "nwa ehi ahụ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ọ gọrọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ehi mbụ ahụ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "nwa ehi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "mbụ ahụ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ọfọ mmehie"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "nke nzukọ ahụ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ka ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:46:41.845897121Z",
+  "model": "glm-5.3"
+}

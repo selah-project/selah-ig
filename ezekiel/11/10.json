@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Una ga-adaba mma agha; n'ókè Yisrael ka m ga-ekpe unu ikpe, unu ga-amatakwa na m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "una ga-adaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ókè"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ókè"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "m ga-ekpe ikpe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "unu ga-amata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T12:02:28.716842184Z",
+  "model": "glm-5.3"
+}

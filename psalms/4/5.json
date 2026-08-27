@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Tụọ egwu, ma meela mmehie; kwuo n'ime obi unu n'elu akwa ụra unu, ma nọrọ jụ. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "tụọ egwu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma meela"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "kwuo"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "n'ime obi unu"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "akwa ụra unu"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "ma nọrọ jụ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:09.200109923Z",
+  "model": "glm-5.3"
+}

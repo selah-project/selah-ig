@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 75,
+  "translation": "Maka onye na-eduzi egwu; Ekwula ibibi; abụ e dere n'ọ̀bọ̀ maka Asaf; ukwe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye na-eduzi egwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekwula"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ e dere n'ọ̀bọ̀"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "maka Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ukwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:44.838376374Z",
+  "model": "glm-5.3"
+}

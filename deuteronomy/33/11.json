@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Gọzie, Yahwe, ihe onwunwe ya, ma rịa ọrụ aka ya oke; kụọ ibu ndị na-ebilite megide ya, ndị kpọrọ ya asị ka ha ghara ịbịlite ọzọ.",
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "gọzie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ike onwunwe ya"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ma ọrụ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ị rịa oke"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "kụọ"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "ndị na-ebilite megide ya"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "ndị kpọrọ ya asị"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "ha na-ebili ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:16:23.901613833Z",
+  "model": "glm-5.3"
+}

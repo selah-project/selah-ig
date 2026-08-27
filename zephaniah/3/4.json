@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "book": "zephaniah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ndị amụma ya bụọ ndị na-enweghị isi, ndị ikpe nke ndị na-aghọ aghọgbu; ndị nchụàjà ya rụrụ ihe dị nsọ arụ, ha mebisiri Torah ike.",
+  "tokens": [
+    {
+      "surface": "נביאיה",
+      "gloss": "ndị amụma ya"
+    },
+    {
+      "surface": "פחזים",
+      "gloss": "ndị na-enweghị isi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ndị ikpe nke"
+    },
+    {
+      "surface": "בגדות",
+      "gloss": "ndị na-aghọ aghọgbu"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "ndị nchụàjà ya"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "rụrụ ... arụ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ihe dị nsọ"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ha mebisiri ike"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:01:25.974429068Z",
+  "model": "glm-5.3"
+}

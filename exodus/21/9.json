@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma ọ bụrụ na ọ ga-ya maka nwa ya nwoke, dịka ikike ụmụ nwaanyị ka ọ ga-eme ya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ọ bụrụ na"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "maka nwa ya nwoke"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "ọ ga-ya"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "dịka ikike"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "ụmụ nwaanyị"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ọ ga-eme"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:12.824257204Z",
+  "model": "glm-5.3"
+}

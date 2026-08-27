@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Jide egwu n'ihu ya, ⟨ụwa⟩ nile; ee, a guzosiri ⟨the⟩ okike, agaghị ọ na-ama jijiji.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "Jide egwu"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ụwa⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "a guzosiri"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨the⟩ okike"
+    },
+    {
+      "surface": "בל",
+      "gloss": "agaghị ọ"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "na-ama jijiji"
+    }
+  ],
+  "timestamp": "2026-08-27T16:01:27.754098756Z",
+  "model": "glm-5.3"
+}

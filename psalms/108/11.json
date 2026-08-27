@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 108,
+  "translation": "Onye ga-edu m banye n'obodo e wusiri ike? Onye ga-edu m ruo Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ga-edu m banye"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "e wusiri ike"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ga-edu m"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:09.169046850Z",
+  "model": "glm-5.3"
+}

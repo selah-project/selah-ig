@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 57,
+  "translation": "⟨O⟩ ga-eziga site n'eluigwe, Ọ ga-azọpụta m; Ọ kwara ọnụ na-eri m akpọ. Selah. Elohim ga-eziga chesed Ya na eziokwu Ya.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "⟨O⟩ ga-eziga"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "site n'eluigwe"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "Ọ ga-azọpụta m"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "kwara ọnụ"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "na-eri m akpọ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ga-eziga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed Ya"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "na eziokwu Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:14.176497585Z",
+  "model": "glm-5.3"
+}

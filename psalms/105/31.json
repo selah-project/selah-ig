@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "O kwuru, oku-ọjọ bịara, njin n'ime ókèala ha niile.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "O kwuru"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "oku-ọjọ na-agbakọba"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "njin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ókèala ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:53.638430869Z",
+  "model": "glm-5.3"
+}

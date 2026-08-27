@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ọzọkwa, ohu gị na-amụ site n'aka ha; n'idebe ha, enwere ⟨nkwụghachi⟩ dị ukwuu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ọzọkwa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "na-amụ (nke ịma ịkpọsà)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "site n'aka ha"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "n'idebe ha"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨nkwụghachi⟩"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dị ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:08.053983332Z",
+  "model": "glm-5.3"
+}

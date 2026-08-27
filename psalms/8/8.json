@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Anụ ụlọ na ehi, ha niile, nakwa anụ ọhịa nke ubi.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "Anụ ụlọ (atụrụ)"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "na ehi"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "anụ ọhịa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "nke ubi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:34.325289667Z",
+  "model": "glm-5.3"
+}

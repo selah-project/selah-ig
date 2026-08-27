@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "M ga-eto aha Elohim site n'abụ, ma m ga-eme ka Ọ buru ibu site n'ekele.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "M ga-eto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "site n'abụ"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "ma m ga-eme ka Ọ buru ibu"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "site n'ekele"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:11.052222481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Anyā na-acha uhie site na mmanya, nakwa ezē na-acha ọcha site na mmiri ara.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "na-acha uhie na-ama mma"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "anya"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "site na mmanya"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "nakwa na-acha ọcha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "site na mmiri ara"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:11.876491867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Daivid wee sị: Yahwe, Elohim nke Yisrael, ohu gị nụrụla nke ọma na Shaul na-achọ ịbịarute Keila, ibibi obodo ahụ n'ihi m.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Daivid wee sị"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daivid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nụrụla"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nke ọma"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ịbịarute"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ru"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ibibi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "n'ihi m"
+    }
+  ],
+  "timestamp": "2026-08-27T09:18:39.405450585Z",
+  "model": "glm-5.3"
+}

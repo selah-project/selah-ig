@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ma jikọọ ndị unyere anyị alụmdi: ụmụnwaanyị unu nyere anyị, na ⟨את⟩ ụmụnwaanyị anyị unu were bụrụ ndị unu.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "jikọọ ndị unyere alụmdi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ anyị"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ụmụnwaanyị unu"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "unu nyere"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụnwaanyị anyị"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ụmụnwaanyị anyị"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "unu were"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bụrụ ndị unu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:50:44.021716487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ọ bịarute mgbe anyaukwu bịara, ma ihere bịakwara; ma ndị nwere isi ntị ṅụrụ anọ n'ala, amamihe dịkwa ⟨את⟩ n'aka ha.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ọ bịarute"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "anyaukwu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ma ọ bịakwara"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ihere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị nwere isi ntị ṅụrụ anọ n'ala"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "ndị nwere isi ntị ṅụrụ anọ n'ala"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amamihe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:21:36.716931261Z",
+  "model": "glm-5.3"
+}

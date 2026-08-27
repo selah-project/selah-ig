@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 70,
+  "translation": "Maka onye na-eduzi egwu, nke David, iji cheta.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye na-eduzi egwu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "iji cheta"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:19.804101248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 28:17",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "M ga-etinye ikpe ziri ezi dị ka ⟨akara⟩, na izi-ezi dị ka mkpanaaka; mkpụrụ nkụ ga-efesa ebe mgbaba nke ụgha, mmiri ga-ajụba ebe ezozo.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "m ga-etinye"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "dị ka akara"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na izi-ezi"
+    },
+    {
+      "surface": "למשקלת",
+      "gloss": "dị ka mkpanaaka"
+    },
+    {
+      "surface": "ויעה",
+      "gloss": "ga-efesa"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "mkpụrụ nkụ"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "ebe mgbaba"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "nke ụgha"
+    },
+    {
+      "surface": "וסתר",
+      "gloss": "na ebe ezozo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "ga-ajụba"
+    }
+  ],
+  "timestamp": "2026-08-27T10:48:29.332996489Z",
+  "model": "glm-5.3"
+}

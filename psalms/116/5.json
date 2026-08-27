@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 116,
+  "translation": "Yahwe ⟨bu⟩ onye nwere mmere ma onye ziri ezi, Elohim anyị ⟨bu⟩ onye na-arịọ mmere.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "onye nwere mmere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ma onye ziri ezi"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "na-arịọ mmere"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:59.408894691Z",
+  "model": "glm-5.3"
+}

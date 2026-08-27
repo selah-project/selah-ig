@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Mgbe ha nụrụ ⟨את⟩ Torah, ha kewapụrụ mmadụ niile nke gwakọtara na Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "mgbe ha nụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "ha kewapụrụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mmadụ nke gwakọtara"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "na Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T15:49:26.266774626Z",
+  "model": "glm-5.3"
+}

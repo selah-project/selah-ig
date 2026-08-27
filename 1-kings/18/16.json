@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Obadaya wee gaa izute Ahab, wee gwa ya; Ahab wee gaa izute Eliya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wee gaa"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadaya"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "izute"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wee gwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wee gaa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "izute"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:05:54.486841006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Unu ga-eri ⟨את⟩ ya n'ebe dị nsọ, n'ihi na ọ bụ òtù gị na òtù ụmụ gị, n'ime ọkụ-na-ọnyà nke Yahwe, n'ihi na otu a ka a nyere m iwu.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Unu ga-eri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (ihe a na-eri)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "dị nsọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "òtù gị"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "na òtù"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ụmụ gị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ ⟨ya⟩"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "n'ime ọkụ-na-ọnyà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ka a nyere m iwu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:52:16.911373536Z",
+  "model": "glm-5.3"
+}

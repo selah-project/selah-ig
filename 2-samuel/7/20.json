@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Gịnị ka Davịd nwere ike ịgbakwụnye ikwu ọzọ nye gị? Ma gị, ị maara ⟨את⟩ ohu gị, Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Gịnị ka"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "gbakwụnye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ikwu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nye gị"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Ma gị"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ị maara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohu gị"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T09:32:55.754073650Z",
+  "model": "glm-5.3"
+}

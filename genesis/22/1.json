@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "O wee ruo mgbe okwu ndị a gasịrị, Elohim nwalee ⟨את⟩ Avraham, wee sọ ya okwu: \"Avraham!\" O wee sị: \"Nọ m ebe a.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "O wee ruo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "nwalee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sọ okwu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sị"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Nọ m ebe a"
+    }
+  ],
+  "timestamp": "2026-08-27T05:38:47.157657649Z",
+  "model": "glm-5.3"
+}

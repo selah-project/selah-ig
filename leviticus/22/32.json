@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Unu erughị ama ⟨את⟩ aha nsọ m, mụ na-asọ nsọ n'etiti ụmụ Isrel; mụ bụ Yahwe, onye na-asọ gị nsọ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "erughị"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha nsọ m"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "nsọ m"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "mụ na-asọ nsọ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isrel"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "onye na-asọ gị nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:03.227961192Z",
+  "model": "glm-5.3"
+}

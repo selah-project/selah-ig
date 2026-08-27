@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Yahwe gọziri ⟨את⟩ njedebe nke Iyov karịa mmalite ya; o nwere puku iri na anọ atụrụ, na puku isii kamel, na puku otu ìgwè ejikọrọ ehi, na puku otu inyinya ibu.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "gọziri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njedebe"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "njedebe"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "mmalite ya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o nwere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "isii"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "puku"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "kamuel"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "ìgwè ejikọrọ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "inyinya ibu"
+    }
+  ],
+  "timestamp": "2026-08-27T15:01:40.302031919Z",
+  "model": "glm-5.3"
+}

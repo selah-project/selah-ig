@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "O wee mee ⟨את⟩ bọ́dụ̀ ndị ahụ maka ebe-nsọ, osisi shita, na-eguzo ọtọ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o wee mee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bọ́dụ̀ ndị ahụ"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "⟨את⟩ bọ́dụ̀ ndị ahụ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "maka ebe-nsọ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shita (acacia)"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "na-eguzo ọtọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:38:33.424435874Z",
+  "model": "glm-5.3"
+}

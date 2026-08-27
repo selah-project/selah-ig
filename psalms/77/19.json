@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "Olu égbè eluigwe gị dị n'okirikiri; amamiihe gbara ụwa ìhè; ụwa maara jijiji, ala makwa mgbaghara.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "égbè eluigwe gị"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "n'okirikiri"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "gbara ìhè"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "amamiihe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "maara jijiji"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "makwa mgbaghara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:25.925638321Z",
+  "model": "glm-5.3"
+}

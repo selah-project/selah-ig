@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ị ga-edozi ụzọ ahụ maka onwe gị, ma kewaa ala gị ɔẸkẹ atọ, nke Yahwe Elohim gị na-eketa gị, ka ọ bụrụ ebe mgbaba ebe ahụ maka onye ọ bụla gburu mmadụ.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "ga-edozi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka onwe gị"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ụzọ ahụ"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ma kewaa atọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oke ala gị"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "oke ala"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "na-eketa gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ka ọ bụrụ"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "ebe mgbaba"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "gburu mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:05:02.493807130Z",
+  "model": "glm-5.3"
+}

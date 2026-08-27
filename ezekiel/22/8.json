@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ihe nsọ M ka i jiri belata, ma ⟨את⟩ ụbọchị Sabbath M ka i ruru unyọ.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "ihe nsọ M"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "i jiri belata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụbọchị Sabbath M"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ụbọchị Sabbath M"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "i ruru unyọ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:12:37.332411710Z",
+  "model": "glm-5.3"
+}

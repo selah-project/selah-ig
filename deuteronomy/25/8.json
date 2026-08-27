@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 25:8",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ndị okenye obodo ya ga- kpọọ ya, gwa ya okwu; ọ guzo wee sị: Achọghị m iwere ya.",
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "ha ga-akpọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "obodo ya"
+    },
+    {
+      "surface": "ודברו",
+      "gloss": "ha ga-agwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya okwu"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "ọ guzoro"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ ghara"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "m achọ"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "iwere ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:10:37.891976746Z",
+  "model": "glm-5.3"
+}

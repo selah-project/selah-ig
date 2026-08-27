@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "N'ịma ọnwunwa m kpọrọ Yahwe, na ruo Elohim m rịọkwara arịrịọ; ọ nụrụ olu m site n'ụlọ nsọ ya, arịrịọ m bịara n'ihu ya, bata ruo n' ntị ya.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "n'ịma ọnwunwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mkpọrọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ruo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "rịọkwara arịrịọ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ọ nụrọ"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "site n'ụlọ nsọ ya"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "olu m"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "arịrịọ m"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "bata ruo n' ntị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:03.716577049Z",
+  "model": "glm-5.3"
+}

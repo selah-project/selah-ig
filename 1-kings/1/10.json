@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ⟨את⟩ Natan onye amụma, na Benayahu, na ⟨את⟩ ndị dike, na ⟨את⟩ Shelomoh nwanne ya, ọ akpọghị.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "onye amụma"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị dike"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "ndị dike"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ akpọghị \/ ma ọ dịghị"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "akpọ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:49:04.165961162Z",
+  "model": "glm-5.3"
+}

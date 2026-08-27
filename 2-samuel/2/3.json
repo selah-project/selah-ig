@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Mmadụ ya ndị nọkọrọ ya, Dawid dọtara ha elu, onye ọ bụla ya na ezinụlọ ya; ha wee bikwa n'obodo ndị Ḥevron.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "Mmadụ ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nọkọrọ ya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dọtara ha elu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ya na ezinụlọ ya"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ha wee bikwa"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Ḥevron"
+    }
+  ],
+  "timestamp": "2026-08-27T09:28:50.616646252Z",
+  "model": "glm-5.3"
+}

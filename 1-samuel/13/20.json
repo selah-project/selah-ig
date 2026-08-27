@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ndị Yisrael niile wee gbadaa n'aka ndị Pelishtiya ka onye ọ bụla mụọ ⟨את⟩ mma-ala ya, ⟨את⟩ mma mkpụga ya, ⟨את⟩ ọ bụ ya, na ⟨את⟩ mma mkpọkọrọ ya.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "gbaara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ndị Pelishtiya"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "ka ọ na-mụọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mma-ala ya"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "mma-ala ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mma mkpụga ya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mma mkpụga ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọ bụ ya"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "ọ bụ ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mma mkpọkọrọ ya"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "mma mkpọkọrọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:07:22.389687352Z",
+  "model": "glm-5.3"
+}

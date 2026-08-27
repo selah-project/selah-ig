@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Mkpi ahụ ga-ebu n'elu ya ⟨את⟩ mmehie ha niile gaa n'ala e kewapụrụ, ma a ga-ahapụ ⟨את⟩ mkpi ahụ n'ọzara.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "ga-ebu"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mkpi ahụ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmehie ha niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "mmehie ha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "e kewapụrụ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ma a ga-ahapụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpi ahụ"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mkpi ahụ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    }
+  ],
+  "timestamp": "2026-08-27T06:59:46.012205544Z",
+  "model": "glm-5.3"
+}

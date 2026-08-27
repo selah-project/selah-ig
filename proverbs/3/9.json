@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Kụọ Yahwe otuto site n'akụ̀ gị, na site n'ihe kacha mbụ nke ihe niile ọ na-amị gị.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "kụọ otuto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "site n'akụ̀ gị"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "ma site n'ihe kacha mbụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nke ihe niile"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "ọ na-amị gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:12:39.220910049Z",
+  "model": "glm-5.3"
+}

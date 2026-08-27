@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Parōh kụpụtakwara ndị ọkà mmụta na ndị na-eme ọgwụ ọjọọ; ndị dọkịta-ọnụ nke Mitzrayim, ha jiri ọgụgụ ọnụ ha mee otu a.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kụpụtara"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwara"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "ndị ọkà mmụta"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "na ndị na-eme ọgwụ ọjọọ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ha mere"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "ndị dọkịta-ọnụ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nke Mitzrayim"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "jiri ọgụgụ ọnụ ha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    }
+  ],
+  "timestamp": "2026-08-27T06:09:32.096867374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 93,
+  "translation": "Osimiri ndị ahụ welitere, Yahwe, osimiri ndị ahụ welitere olu ha, osimiri ndị ahụ na-ewelite ebili mmiri ha na-akụ ọsọ.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "welitere"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "osimiri ndị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "welitere"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "osimiri ndị"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "olu ha"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "na-ewelite"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "osimiri ndị"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "ebili na-akụ ọsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:55.812829486Z",
+  "model": "glm-5.3"
+}

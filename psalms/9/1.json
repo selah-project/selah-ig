@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Maka onye-nduzi egwu, gbasara 'Alamuot Laben' — abụ-egwu nke David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye-nduzi egwu"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "gbasara 'Alamuot"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben'"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ-egwu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:50.485210643Z",
+  "model": "glm-5.3"
+}

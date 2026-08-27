@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Eluigwe na ụwa ga-eto Ya, oké osimiri na ihe niile na-agagharị n'ime ha.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "ga-eto Ya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na ụwa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ihe niile"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "na-agagharị"
+    },
+    {
+      "surface": "בם",
+      "gloss": "n'ime ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:52.699333631Z",
+  "model": "glm-5.3"
+}

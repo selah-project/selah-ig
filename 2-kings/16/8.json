@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ahaz were ⟨את⟩ ọla ọcha na ⟨את⟩ ọla edo a hụrụ n'ụlọ Yahwe na n'akụ ndị dị n'ụlọ eze ahụ, wee zipụ ya nye eze Ashur — onyinye azụ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "o were"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọla ọcha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ọla ọcha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọla edo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "a hụrụ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "na n'akụ ndị"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wee zipụ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "nye eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "onyinye azụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:26:12.829323154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Cheta, biko, ⟨את⟩ okwu ahụ nke i nyere ⟨את⟩ Moshe odibo gị, na-asị: Ọ bụrụ na unu na-emebi nkwa, m ga-agbazasị ⟨את⟩ unu n'etiti ndị mba.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Cheta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ahụ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "i nyere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "odibo gị"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "na-emebi nkwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "ga-agbazasị"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "n'etiti ndị mba"
+    }
+  ],
+  "timestamp": "2026-08-27T15:41:09.191784447Z",
+  "model": "glm-5.3"
+}

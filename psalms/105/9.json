@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Nke ⟨ọ⟩ kere ⟨את⟩ Avraham, na iyi ya nye Yitschak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nke"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kere (be mkpụrụ okwu)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "na iyi ya"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "nye Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:31.217130919Z",
+  "model": "glm-5.3"
+}

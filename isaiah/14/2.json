@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 14:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ndị nzuzu ga-ewe ha, ma duo ha ebe ha nọ; ụlọ Israel ga-eketa ha n'ala Yahwe, dịka ndị ohu na ndị ohu nwanyị; ha ga-ewe ndị jidere ha dịka ndị a tọgbọrọ, ma chịa ndị na-emegbu ha.",
+  "tokens": [
+    {
+      "surface": "ולקחום",
+      "gloss": "ga-ewe ha"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndị nzuzu"
+    },
+    {
+      "surface": "והביאום",
+      "gloss": "ma duo ha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "ebe ha nọ"
+    },
+    {
+      "surface": "והתנחלום",
+      "gloss": "ga-eketa ha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "dịka ndị ohu"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "na ndị ohu nwanyị"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ha ga-abụ"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "ndị na-ejide"
+    },
+    {
+      "surface": "לשביהם",
+      "gloss": "ndị jidere ha"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "ma chịa"
+    },
+    {
+      "surface": "בנגשיהם",
+      "gloss": "ndị na-emegbu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:40:29.935346008Z",
+  "model": "glm-5.3"
+}

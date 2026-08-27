@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Ma ị ga-edo ⟨את⟩ ehi ahụ n'ihu Ụlọ Nzukọ ahụ, ma Aharon na ụmụ ya ga-edo ⟨את⟩ aka ha n'elu isi ⟨את⟩ ehi ahụ.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ma ị ga-edo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ehi ahụ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ehi ahụ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ụlọ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nzukọ"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "ma ... ga-edo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na ụmụ ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka ha"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "aka ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ehi ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:32:46.046568874Z",
+  "model": "glm-5.3"
+}

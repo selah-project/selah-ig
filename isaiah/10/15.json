@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Mma ga-akpa izu igbaka onwe ya megide onye na-akụ ya? ma ngọ ga-ebuli onwe ya megide onye na-ama ya? dịka mkpọ na-ama ⟨את⟩ ndị na-ebuli ya, dịka mkpisi na-ebuli ⟨the⟩ onye ọ bụghị osisi!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "ga-akpa izu igbaka onwe ya"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "mma"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "onye na-akụ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "ga-ebuli onwe ya"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "ngọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "onye na-ama ya"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "dịka nke na-ama"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mkpọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị na-ebuli ya"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "ndị na-ebuli ya"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "dịka nke na-ebuli"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mkpisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "osisi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:40:57.199168748Z",
+  "model": "glm-5.3"
+}

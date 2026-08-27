@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "O nyekwara onye ozi ahụ iwu, sị: Mgbe ị gwuchara ⟨את⟩ ihe niile gbasara agha ahụ n'ekwu maka ya nye eze ahụ,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "o nyekwara iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye ozi ahụ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "onye ozi ahụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "mgbe ị gwuchara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "agha ahụ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "n'ekwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maka ya nye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:35:17.596312592Z",
+  "model": "glm-5.3"
+}

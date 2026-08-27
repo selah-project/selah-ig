@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Ọzọkwa, Ị tụgharịrị ọ̀ nke mmaa ya azụ, ma Ị nyeghị ya ihe ịga n'ihu n'agha.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ọzọkwa"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "Ị tụgharịrị azụ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ọ̀"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "nke mmaa ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma Ị nyeghị"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "ihe ịga n'ihu"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "n'agha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:36.211503406Z",
+  "model": "glm-5.3"
+}

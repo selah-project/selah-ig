@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Hamor nna Shechem pụtagara ⟨ga⟩ n'aka Yaakov ịsụ ⟨את⟩ okwu ya.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "pụtagara"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ga⟩ n'aka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ịsụ okwu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:52:27.004261990Z",
+  "model": "glm-5.3"
+}

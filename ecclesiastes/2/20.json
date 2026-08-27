@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "M wezugharu m onwe m ka obi m daa mbà n'ihi ⟨את⟩ mkpụrụ ndụ niile nke m rụrụ n'okpuru anyanwụ.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "m wezugharu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m onwe m"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "ka ọ daa mbà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi m"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "mkpụrụ ndụ"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "nke m rụrụ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:13:15.806276082Z",
+  "model": "glm-5.3"
+}

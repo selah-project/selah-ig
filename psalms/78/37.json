@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ma obi ha eduzighị ya n'ezi ọnọdụ ya, ha nakwebekwaghị okwu ya na ọgbụgba-ndụ ya.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "ma obi ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "nọ n'ezi ọnọdụ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha anaghịkwa"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "na-anọ n'okwu"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "na ọgbụgba-ndụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:55.064641330Z",
+  "model": "glm-5.3"
+}

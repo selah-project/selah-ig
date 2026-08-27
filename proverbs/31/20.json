@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "O tiwapụrụ aka ya nye onye ogbenye, ma zipụrụ aka ya nye onye nọ na mkpa.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "o tiwapụrụ"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "nye onye ogbenye"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "ma aka ya"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "o zipụrụ"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "nye onye nọ na mkpa"
+    }
+  ],
+  "timestamp": "2026-08-27T14:34:43.709842502Z",
+  "model": "glm-5.3"
+}

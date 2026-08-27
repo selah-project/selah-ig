@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Ma unu eweta ⟨את⟩ nwanne unu nke nta n'ebe m nọ, ka okwu unu pụta ùgwù, unu erughị ọnwụ. Ha mekwara otu a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwanne unu nke nta"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "nwanne unu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nke nta"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "unụ eweta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n'ebe m nọ"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "ka ọ pụta ùgwù"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "okwu unu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "erughị"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "Ha mekwara"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:12.835572445Z",
+  "model": "glm-5.3"
+}

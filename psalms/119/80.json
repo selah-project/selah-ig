@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ka obi m bụrụ nke zuru okè n'iwu Gị, ka m ghara ịmehie ihere.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ka ọ bụrụ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nke zuru okè"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "n'iwu Gị"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ịmehie ihere"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:47.971530387Z",
+  "model": "glm-5.3"
+}

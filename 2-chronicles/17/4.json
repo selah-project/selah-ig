@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "n'ihi na ọ chọrọ Elohim nke nna ya, o wee ga n'iwu ya, ọ bụghịkwa dịka omume nke Izrel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ọ chọrọ"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "o wee ga n'iwu ya"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ bụghịkwa"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "dịka omume"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Izrel"
+    }
+  ],
+  "timestamp": "2026-08-27T16:12:31.131150403Z",
+  "model": "glm-5.3"
+}

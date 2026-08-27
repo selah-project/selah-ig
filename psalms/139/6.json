@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 139,
+  "translation": "Ọmụma dị otú a karịrị m ihe pụrụ ileghara anya; ọ dị elu, m enweghị ike iru ya.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "karịrị m ihe pụrụ ileghara anya"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ọmụma"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "karịrị m"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ọ dị elu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enweghị ike"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "m enweghị ike"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iru ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:08.075171875Z",
+  "model": "glm-5.3"
+}

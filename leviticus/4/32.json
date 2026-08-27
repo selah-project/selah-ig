@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 4:32",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ma ọ bụrụ na ọ na-eweta ntụrụ dị ka onyinye ya maka ọfụma-mmehie, nwaanyị enweghị mperi ka ọ ga-eweta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ntụrụ"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "ọ na-eweta"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "onyinye ya"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "maka ọfụma-mmehie"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "nwaanyị"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "enweghị mperi"
+    },
+    {
+      "surface": "יביאנה",
+      "gloss": "ọ ga-eweta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:47:48.502781442Z",
+  "model": "glm-5.3"
+}

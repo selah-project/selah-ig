@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 62,
+  "translation": "Naanị ya bu nkume m na nzọpụta m, elu-ụlọ m mgbapụ; agaghị m agbagọja nke ukwuu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "nkume m"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "na nzọpụta m"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "elu-ụlọ m mgbapụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "m agbagọja"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nke ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:08.896943006Z",
+  "model": "glm-5.3"
+}

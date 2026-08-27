@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ma ⟨את⟩ ụlọ ndị dị na Yerushalayim unu gụrụ, ma unu kwatuchara ụlọ ndị ahụ iji wusie mgbidi ike.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ ndị dị na Yerushalayim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "unu gụrụ"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "ma unu kwatuchara"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ụlọ ndị ahụ"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "iji wusie ike"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "mgbidi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:43:12.256703991Z",
+  "model": "glm-5.3"
+}

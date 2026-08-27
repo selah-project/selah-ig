@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Onye na-ezo ⟨ה⟩ ọka, ndị ⟨ה⟩ mba ahụ ga-akụ ya ọnụ; ma ngọzi dị n'isi onye na-ere ọka.",
+  "tokens": [
+    {
+      "surface": "מנע",
+      "gloss": "onye na-ezo"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ọka"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "ha ga-akụ ya ọnụ"
+    },
+    {
+      "surface": "לאום",
+      "gloss": "mba"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "ma ngọzi"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "משביר",
+      "gloss": "onye na-ere ọka"
+    }
+  ],
+  "timestamp": "2026-08-27T14:22:19.799283732Z",
+  "model": "glm-5.3"
+}

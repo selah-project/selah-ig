@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "Ka ha mata na Ị — aha Gị bụ Yahwe — naanị Gị bụ Onye-Kasị-Elu n'elu ụwa niile.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ka ha mata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha Gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "naanị Gị"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Onye-Kasị-Elu"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:22.750495671Z",
+  "model": "glm-5.3"
+}

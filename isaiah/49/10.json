@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Ha agaghị agụ agụ ma ha agaghị akọọ mmipi, oku ọzọzụ na anyanwụ agaghị akụ ha; maka Onye na-ere ha n'obi ga-eduzi ha, ma gaa n'iyi mmiri ka ọ ga-edo ha mmiri.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "ha ga-agụ agụ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "ha ga-akọọ mmiri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "ga-akụ"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "oku ọzọzụ"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "na anyanwụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "Onye na-ere ha n'obi"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "ga-edu ha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ma gaa"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "ga-edo ha mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T11:01:11.394107553Z",
+  "model": "glm-5.3"
+}

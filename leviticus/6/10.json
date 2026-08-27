@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "A gaghị esi ya na mmiri toto; òkè ha ka m nyere ⟨את⟩ ya, site n'ọkụ m; nsọ nke nsọ ka ọ bụ, dị ka nkeehie nakwa dị ka ihe mmejọ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "a ga-esi"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ihe na-etoto"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "òkè ha"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "m nyere"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (achịrị-achị)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "site n'ọkụ m"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nke nsọ (kacha nsọ)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "dị ka nkeehie"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "nakwa dị ka ihe mmejọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:46:16.301184204Z",
+  "model": "glm-5.3"
+}

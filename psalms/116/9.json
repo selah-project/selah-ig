@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 116,
+  "translation": "M ga-eje ije n'ihu Yahwe, n'ala ndị dị ndụ.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "m ga-eje ije"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ndị dị ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:17.347050946Z",
+  "model": "glm-5.3"
+}

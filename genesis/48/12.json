@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Ma Yosef wepụtara ⟨את⟩ ha n'etiti ikpere ya, ma ọ na-efe ala n'ihu ya ruo ala.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Ma ọ wepụtara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "ikpere ya"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ma ọ na-efe"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ruo ala"
+    }
+  ],
+  "timestamp": "2026-08-27T06:03:30.177959769Z",
+  "model": "glm-5.3"
+}

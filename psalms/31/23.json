@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ma m, ekwu m n'ọsọ ọsọ, sị: a bepụrụ m n'ihu anya gị; n'ezie, Ị nụrụ olu arịrịọ m mgbe m kpọrọ gị oku.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ekwu m"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "n'ọsọ ọsọ"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "a bepụrụ m"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "site n'ihu"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "anya gị"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Ị nụrụ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "arịrịọ m"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "mgbe m kpọrọ oku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:03.787856879Z",
+  "model": "glm-5.3"
+}

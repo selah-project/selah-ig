@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 144,
+  "translation": "Nke Davịd. Gọziri bụ Yahwe, nkume m, Onye na-akụziri aka m agha, mkpụsị aka m maka ọgụ.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nke Davịd"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Gọziri bụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "nkume m"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Onye na-akụziri"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "agha"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "mkpụsị aka m"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "maka ọgụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:29.665194067Z",
+  "model": "glm-5.3"
+}

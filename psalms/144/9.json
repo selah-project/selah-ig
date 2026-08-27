@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 144,
+  "translation": "Elohim, abụ ọhụrụ m ga-abụ maka gị; na ngwá ịkpọ ezizi nke eriri iri, m ga-egwu egwu maka gị.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ọhụrụ"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "m ga-abụ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "na ngwá ịkpọ ezizi"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "nke eriri iri"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "m ga-egwu egwu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:28.344462357Z",
+  "model": "glm-5.3"
+}

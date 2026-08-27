@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 22:9",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Anwansi rịgooro n'imi ya, na ọkụ site n'ọnụ ya na-eri; ntụ ọkụ gbara ọkụ site na ya.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "rịgooro"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "anwansi"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "n'imi ya"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "na ọkụ"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "site n'ọnụ ya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "na-eri"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ntụ ọkụ"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "gbara ọkụ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "site na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:42:34.592873900Z",
+  "model": "glm-5.3"
+}

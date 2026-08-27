@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 147,
+  "translation": "Toonụ Yah, n'ihi na ọ dị mma iji abụ too Elohim anyị, n'ihi na ọ dị atọ ụtọ, nke adabara mma bụ otuto.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Toonụ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "iji abụ too"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ọ dị atọ ụtọ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "nke adabara mma"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "otuto"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:08.964411020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "N'ihi na ọ naghị ele anya n'ala, ma ọ naghịkwa jụọ mmegbu nke onye a megburu; ọ zughịkwa ihu ya n'ihi ya; ma mgbe ọ tiwere mkpu ruo ya, ọ nụrụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ọ naghị ele anya n'ala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ naghịkwa"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "jụọ"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "mmegbu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "onye a megburu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ zughịkwa"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "zoo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ihu ya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "ma mgbe ọ tiwere mkpu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ruo ya"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ọ nụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:08.239082393Z",
+  "model": "glm-5.3"
+}

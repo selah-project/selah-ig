@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ wee sị ya: Nyere m onyinye ngọzi; n'ihi na i nyela m ala Negev, nyekwa m isi mmiri. Kaleb wee nyefoo ya ⟨את⟩ isi mmiri ndị elu na ⟨את⟩ isi mmiri ndị ala.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ọ wee sị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Nyere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "onyinye ngọzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "i nyela m"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "nyekwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "isi mmiri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nyefoo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi mmiri ndị elu"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "isi mmiri"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ndị elu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isi mmiri ndị ala"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "isi mmiri"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "ndị ala"
+    }
+  ],
+  "timestamp": "2026-08-27T16:32:08.917046044Z",
+  "model": "glm-5.3"
+}

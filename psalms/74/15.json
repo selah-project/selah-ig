@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Ị meghere mmiri ṅụ̀ṅụ̀ na iyi; Ị kpọrọ osimiri ndị na-adịgide adịgide nkụ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "meghere"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "mmiri ṅụ̀ṅụ̀"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "na iyi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "kpọrọ nkụ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "osimiri ndị"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "na-adịgide adịgide"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:34.870535942Z",
+  "model": "glm-5.3"
+}

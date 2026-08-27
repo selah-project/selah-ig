@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Yahwe Elohim nyere nwa-Adam iwu, sị: «N'ihe osisi niile dị n'ogige ahụ, ga-eri; eri gị na-eri.»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihe gbasara"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nwa-Adam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "n'ihe niile nke"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "nke ogige"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "eri gị na-eri"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:03.075860741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Kalev nwa Chetsron mụrụ ⟨את⟩ Azuva nwunye ⟨ya⟩, na ⟨את⟩ Yeriot; ụmụ ⟨ya⟩ bụ ndị a: Jesher, na Shovav, na Ardon.",
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azuva"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azuva"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yeriot"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "Yeriot"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Jesher"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "na Shovav"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "na Ardon"
+    }
+  ],
+  "timestamp": "2026-08-27T15:51:39.053672949Z",
+  "model": "glm-5.3"
+}

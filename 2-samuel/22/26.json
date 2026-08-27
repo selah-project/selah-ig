@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Maka onye nwere chesed, Ị na-egosipụta chesed; maka dike zuru okè, Ị na-egosipụta ntozu okè.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "maka onye nwere"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "Ị na-egosipụta chesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "maka dike"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "dike"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "zuru okè"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "Ị na-egosipụta ntozu okè"
+    }
+  ],
+  "timestamp": "2026-08-27T09:48:14.866662635Z",
+  "model": "glm-5.3"
+}

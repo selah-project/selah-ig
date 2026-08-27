@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Davịd debekwara ⟨את⟩ okwu ndị a n'obi ya, o wee tụọ nnukwu ụjọ n'ihi Akish, eze Gat.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "debekwara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ndị a"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "n'obi ya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "o tụrụ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nnukwu ụjọ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-08-27T16:33:01.909623846Z",
+  "model": "glm-5.3"
+}

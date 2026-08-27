@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Ma ọ bụ na ị kaọchasịrị anyị n'ebe nkịta ọhịa bi, ma kpuchie anyị n'ọchịchịrị ọnwụ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ma ọ bụ na"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "ị kaọchasịrị anyị"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "nkịta ọhịa bi"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ma kpuchie"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "n'ọchịchịrị ọnwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:02.523198317Z",
+  "model": "glm-5.3"
+}

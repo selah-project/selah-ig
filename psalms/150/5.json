@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 150,
+  "translation": "Toria Ya na ọjà na-ada ⟨the⟩ ụda; toria Ya na ọjà nke ⟨the⟩ mkpu",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Toria Ya"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "na ọjà"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "na-ada ụda"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "toria Ya"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "na ọjà"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "mkpu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:38.794209650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "na-ekwu, Elohim ahapụla ya; jụọ ya ụgbụ ma jide ya, n'ihi na ọ dịghị onye nzọpụta.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ahapụla ya"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "jụọ ụgbụ"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "ma jide ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "onye nzọpụta"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:23.384916885Z",
+  "model": "glm-5.3"
+}

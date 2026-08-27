@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "M ga-edo ntị m maka ilu; m ga-emepe ihe omimi m na kinor.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "ga-edo"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "maka ilu"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ntị m"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ga-emepe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinor"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "ihe omimi m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:01.386280704Z",
+  "model": "glm-5.3"
+}

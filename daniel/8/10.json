@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ toọrọ ruo na ndị agha nke eluigwe, o jiri ụfọdụ n'ime ndị agha ahụ na kwa kpakpando tụọ n'ala, ma nye ha ụkwụ na-akụ.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "Ọ toọrọ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "o jiri ... tụọ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ụfọdụ n'ime"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ndị agha ahụ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kwa ụfọdụ n'ime"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "kpakpando"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "ma nye ha ụkwụ na-akụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:28:29.389270326Z",
+  "model": "glm-5.3"
+}

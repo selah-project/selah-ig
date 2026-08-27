@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ma ⟨את⟩ ụbọchị ezumike m dị nsọ, ka ha bụrụ akara n'etiti m na n'etiti unu, ịmara na m bụ Yahwe Elohim unu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụbọchị ezumike m dị nsọ"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "ụbọchị ezumike m"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ka ha dị nsọ"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ka ha bụrụ"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "dị ka akara"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "n'etiti m"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ma n'etiti unu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ịmara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m bụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    }
+  ],
+  "timestamp": "2026-08-27T12:11:59.379882520Z",
+  "model": "glm-5.3"
+}

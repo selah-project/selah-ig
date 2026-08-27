@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Maka ọ bụghị onye iro ṅara m nsọ; m gaara ⟨anabata ya⟩; ọ bụghịkwa onye kpọrọ m asị buliri onwe ya elu n'elu m; m gaara izo onwe m pụọ n'aka ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "onye iro"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "ṅara m nsọ"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "m gaara anabata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghịkwa"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "onye kpọrọ m asị"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "buliri onwe ya elu"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "m gaara izo onwe m"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "pụọ n'aka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:56.075544849Z",
+  "model": "glm-5.3"
+}

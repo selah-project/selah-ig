@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Nke a ga-adịkwa mma karịa maka Yahwe karịa ehi ma ọ bụ nwa ehi nwere mpi na agụ̀.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "ga-adịkwa mma karịa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    },
+    {
+      "surface": "משור",
+      "gloss": "karịa ehi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ma ọ bụ nwa ehi"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "nwere mpi"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "na agụ̀"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:11.052355982Z",
+  "model": "glm-5.3"
+}

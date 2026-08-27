@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ela iri ⟨את⟩ nri nke onye nwere anya ọjọọ, maọbụ ịchọghị ihe ụtọ ya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ela"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "iri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "anya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maọbụ ela"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ịchọrọ"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "maka ihe ụtọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:29:25.790042171Z",
+  "model": "glm-5.3"
+}

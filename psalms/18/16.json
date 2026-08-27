@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ma mmiri ọwa mmiri pụtara ìhè, na ntọala nke ụwa pụtara pụọ — site n'okwu ịma gị n'ụka, Yahwe, site na ume nke mmụọ nke imi gị.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "pụtara ìhè"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ọwa mmiri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "pụtara pụọ"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "ntọala"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "nke ụwa"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "site n'okwu ịma gị n'ụka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "site na ume"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nke mmụọ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nke imi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:02.419060984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 147,
+  "translation": "Tojuo, Yerushalayim, ⟨את⟩ Yahwe; too, Tsiyon, Elohim gị.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "tojuo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "too"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:20.404431567Z",
+  "model": "glm-5.3"
+}

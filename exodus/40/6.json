@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ma ị ga-etinye ⟨את⟩ ebe ịchụàjà nke ọkụ ịchụàjà n'ihu ụzọ mbata nke Ebe-nnọkọ nke Ahụ́ Nkịtị Nzukọ.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ma ị ga-etinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe ịchụàjà nke ọkụ ịchụàjà"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nke ọkụ ịchụàjà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ụzọ mbata"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Ebe-nnọkọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ahụ́"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nkịtị Nzukọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:01.141143089Z",
+  "model": "glm-5.3"
+}

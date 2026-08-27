@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Ndị iro m na-ekwu okwu ọjọ banyere m, na-asị: Mgbe ole ka ọ ga-anwụ, ka aha ya laa?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "banyere m"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mgbe ole"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ọ ga-anwụ"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ka ọ laa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:24.559413121Z",
+  "model": "glm-5.3"
+}

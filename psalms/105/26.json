@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "⟨Ọ⟩ zipụrụ Moshe, ohu ya, na Aharon nke ⟨ọ⟩ họọrọ.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "⟨Ọ⟩ zipụrụ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ohu ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "họọrọ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨ọ⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.722923047Z",
+  "model": "glm-5.3"
+}

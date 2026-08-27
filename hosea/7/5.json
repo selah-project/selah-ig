@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "N'ụbọchị eze anyị, ndị isi butara ọrịa site na ọkụ mmanya-na-aba; ọ dabatere aka ya ⟨את⟩ ndị na-akwa ọchị.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "eze anyị"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "butara ọrịa"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "mmanya-na-aba"
+    },
+    {
+      "surface": "משך",
+      "gloss": "dabatere"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị na-akwa ọchị"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "ndị na-akwa ọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:41:27.183230349Z",
+  "model": "glm-5.3"
+}

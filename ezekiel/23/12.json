@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 23:12",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ọ na-agụ ikwú maka ụmụ Ashur — ndị gọvanọ na ndị isi, ndị dị nso, ndị yi uwe mara mma nke ukwuu, ndị agha na-agba ịnyịnya, ndị ntorobịa na-adọrọ mmasị — ha niile.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "maka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "עגבה",
+      "gloss": "ọ na-agụ ikwú"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "ndị gọvanọ"
+    },
+    {
+      "surface": "וסגנים",
+      "gloss": "na ndị isi"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "ndị dị nso"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "ndị yi"
+    },
+    {
+      "surface": "מכלול",
+      "gloss": "uwe mara mma nke ukwuu"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ndị agha na-agba ịnyịnya"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "ndị na-agba"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ịnyịnya"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "ndị ntorobịa"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "na-adọrọ mmasị"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    }
+  ],
+  "timestamp": "2026-08-27T12:14:56.719576038Z",
+  "model": "glm-5.3"
+}

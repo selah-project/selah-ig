@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Naanị site na mpako ka a na-ebute esemokwu, ma ⟨את⟩ ndị na-atụ ọmụmaatụ na-enwe amamihe.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "site na mpako"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a na-ebute"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "esemokwu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị na-atụ ọmụmaatụ"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "ndị na-atụ ọmụmaatụ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amamihe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:21:26.295152593Z",
+  "model": "glm-5.3"
+}

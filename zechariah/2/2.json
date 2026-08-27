@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "M wee sị mmaliteọma ahụ na-ekwu n'ime m, ihe ndị a bụ gịnị? Ọ sịrị m, sị: ndị a bụ mpi ndị ahụ nke kụsasịrị ⟨את⟩ Yehuda, ⟨את⟩ Yisrael, na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "m wee sị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mmaliteọma ahụ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "n'ime m"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sịrị"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "mpi ndị ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "kụsasịrị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:04:44.423995174Z",
+  "model": "glm-5.3"
+}

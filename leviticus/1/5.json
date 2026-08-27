@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ ga-egbu ⟨את⟩ nwa ehi n'ihu Yahwe, ma ụmụ Aharon, ndị nchụ àjà, ga-eweta ⟨את⟩ ọbara, ha ga-ṅasakwa ⟨את⟩ ọbara gburugburu n'elu ebe ịchụ àjà nke dị n'ọnụ ụzọ ụlọikwe nzukọ.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ọ ga-egbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ehi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "ha ga-eweta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchụ àjà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọbara"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ha ga-ṅasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọbara"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụ àjà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ụlọikwe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:12.124107586Z",
+  "model": "glm-5.3"
+}

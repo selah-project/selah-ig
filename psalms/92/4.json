@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 92,
+  "translation": "Na ngwá eriri iri, na na nevel, na ụda higgayọn na kinor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ngwá eriri iri"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "na na"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higgayọn (ụda mmetụtụ)"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinor"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:04.632795042Z",
+  "model": "glm-5.3"
+}

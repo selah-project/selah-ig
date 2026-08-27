@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Nọbakh gara ma jide ⟨את⟩ Kenat na ⟨את⟩ obodo nta ya, wee kpọọ ya Nọbakh, site n'aha ya.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Nọbakh"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gara"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "jide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obodo nta ya"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "obodo nta ya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kpọọ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Nọbakh"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "site n'aha ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:41:45.770628006Z",
+  "model": "glm-5.3"
+}

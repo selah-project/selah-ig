@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Sarah tụụrụ ime, ma mụọ nye Avraham nwa nwoke n'ọgbọ agadi ya, n'oge e kara aka nke Elohim kwuru ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "tụụrụ ime"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ma mụọ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "nye Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "n'ọgbọ agadi ya"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "n'oge e kara aka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T05:36:53.870196141Z",
+  "model": "glm-5.3"
+}

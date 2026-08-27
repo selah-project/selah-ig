@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Meere m ebere, Yahwe, n'ihi na m dara ọrịa; gwọọ m, Yahwe, n'ihi na ọkpụkpụ m na-atụ ụjọ.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Meere m ebere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "dara ọrịa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "gwọọ m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "na-atụ ụjọ"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ọkpụkpụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:48.459451488Z",
+  "model": "glm-5.3"
+}

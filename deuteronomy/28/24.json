@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Yahwe ga-enye ⟨את⟩ mmiri ozuzo nke ala gị bụ uzuzu na ntụ; si n'eluigwe ọ ga-adaba n'elu gị ruo mgbe a ga-ebibisịa gị.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ga-enye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmiri ozuzo"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mmiri ozuzo"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ala gị"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "uzuzu"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "na ntụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si na"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ga-adaba"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "n'elu gị"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "a ga-ebibisịa gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:13:51.913828784Z",
+  "model": "glm-5.3"
+}

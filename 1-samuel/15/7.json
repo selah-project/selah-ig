@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Shaul wee tie Amalek ⟨את⟩ ihe, site na Havila ruo mgbe ị na-abata na Shur, nke ⟨dị⟩ n'ihu Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "wee tie"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "site na Havila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "mgbe ị na-abata"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨dị⟩ n'ihu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-08-27T09:11:07.081557580Z",
+  "model": "glm-5.3"
+}

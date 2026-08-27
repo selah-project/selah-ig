@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ibu nke Bavel, nke Yeshayahu, nwa Amots, hụrụ.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Ibu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-08-27T10:39:21.073793157Z",
+  "model": "glm-5.3"
+}

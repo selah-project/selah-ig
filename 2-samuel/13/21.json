@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ma mgbe Eze David nụrụ ⟨את⟩ okwu niile ndị a, ọ were iwe nke ukwuu.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ma eze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu niile ndị a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ọ were iwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T09:35:59.065870738Z",
+  "model": "glm-5.3"
+}

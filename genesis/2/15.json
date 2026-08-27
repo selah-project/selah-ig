@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Yahwe Elohim were ⟨את⟩ nwa-Adam, ma mezie ya n'ogige Eden ka ọ na-arụ ọrụ ya ma na-elekọta ya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa-Adam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nwa-Adam"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "ma mezie ya"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "n'ogige"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "ka ọ na-arụ ọrụ ya"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "ma na-elekọta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:03.075694366Z",
+  "model": "glm-5.3"
+}

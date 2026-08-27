@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 16:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ọ ga-adị ka nnu na-atụgharị, dịka akwụ (nke a hapụrụ): ụmụ nwanyị Mọab ga-adị n'ebe ịgafe Arnon.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-adị"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "ka nnu"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "na-atụgharị"
+    },
+    {
+      "surface": "קן",
+      "gloss": "akwụ"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "(nke a hapụrụ)"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ha ga-adị"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ụmụ nwanyị"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mọab"
+    },
+    {
+      "surface": "מעברת",
+      "gloss": "n'ebe ịgafe"
+    },
+    {
+      "surface": "לארנון",
+      "gloss": "Arnon"
+    }
+  ],
+  "timestamp": "2026-08-27T10:43:56.867212220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Yakshan mụrụ ⟨את⟩ Sheva na ⟨את⟩ Dedan; ụmụ Dedan bụ Ashurim, Letushim na Leummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Yakshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "Leummim"
+    }
+  ],
+  "timestamp": "2026-08-27T05:40:07.200785418Z",
+  "model": "glm-5.3"
+}

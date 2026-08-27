@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "M ga-eme n'ime gị ⟨את⟩ ihe nke m mebeghị, na ⟨את⟩ ihe nke m ga-emeghị ọzọ dịka ya, n'ihi mmegideịchị gị niile.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "m ga-eme"
+    },
+    {
+      "surface": "בך",
+      "gloss": "n'ime gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe nke m mebeghị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "m mebeghị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe nke m ga-emeghị ọzọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "m ga-eme"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "dịka ya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "mmegideịchị gị"
+    }
+  ],
+  "timestamp": "2026-08-27T11:59:46.023738559Z",
+  "model": "glm-5.3"
+}

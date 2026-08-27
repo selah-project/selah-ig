@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Moses nyere ⟨את⟩ ha iwu, sị: N'alụgharị nke afọ asaa, n'oge edoro anya, n'afọ nke mgbapụta, n'emme nke ụlọikwu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moses"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "n'alụgharị"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "n'oge edoro anya"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "nke mgbapụta"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "n'emme"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "nke ụlọikwu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:18:18.025118020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "N'ihi na ha tọgbọrọ mmegide gị ihe ọjọọ; ha chepụtara atụmatụ — agaghị enwe ike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "ha tọgbọrọ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mmegide gị"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ha chepụtara"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "atụmatụ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "enwe ike"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:45.307343941Z",
+  "model": "glm-5.3"
+}

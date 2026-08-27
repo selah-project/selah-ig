@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Mụkwa, n'ọdịda unu, m ga-akwa ọchị; m ga-akwa unu n'ọnụ mgbe egwu unu na-abịa",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "mụkwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "n'ọdịda unu"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "m ga-akwa ọchị"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "m ga-akwa unu n'ọnụ"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "mgbe ọ na-abịa"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "egwu unu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:12:37.182963246Z",
+  "model": "glm-5.3"
+}

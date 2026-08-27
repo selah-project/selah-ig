@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "O nyefere anụ ụlọ ha n'aka nkụ mmiri ozuzo, na ìgwè atụrụ ha n'aka ọkụ ebube.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "O nyefere"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "n'aka nkụ mmiri ozuzo"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "anụ ụlọ ha"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "na ìgwè atụrụ ha"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "n'aka ọkụ ebube"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:14.160134936Z",
+  "model": "glm-5.3"
+}

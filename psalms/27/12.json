@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Nyefela m n'aka ndị iro m; n'ihi na ndị akaebe ụgha biliri megide m, na onye na-eku ume ike ọjọọ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nyefela"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "m"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "biliri"
+    },
+    {
+      "surface": "בי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ndị akaebe"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "na-eku ume"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ike ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:17.527376940Z",
+  "model": "glm-5.3"
+}

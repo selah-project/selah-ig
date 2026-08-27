@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Na-achịkọta dịka nduku mmiri nke oké osimiri, na-etinye omimi n'ime ụlọ nkwakọba ya.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "na-achịkọta"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "dịka nduku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "הים",
+      "gloss": "nke oké osimiri"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "na-etinye"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "n'ime ụlọ nkwakọba"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "omimi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:57.187220542Z",
+  "model": "glm-5.3"
+}

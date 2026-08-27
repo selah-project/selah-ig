@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Dịka ikpe-ikpe gị si dị, ha na-eguzo taa; n'ihi na ihe niile bụ ndị ohu gị.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "dịka ikpe-ikpe gị si dị"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ha na-eguzo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ndị ohu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:38.951788560Z",
+  "model": "glm-5.3"
+}

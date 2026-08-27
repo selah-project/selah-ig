@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "N'ihi na m mejuola akpa ume ike gwụrụ, ma akpa ume ọ bụla na-achọ iso ijuju m ejupụtala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "m mejuola"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "akpa ume"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ike gwụrụ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma ... ọ bụla"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "akpa ume"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "na-achọ iso ijuju"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "m ejupụtala"
+    }
+  ],
+  "timestamp": "2026-08-27T11:37:51.302395281Z",
+  "model": "glm-5.3"
+}

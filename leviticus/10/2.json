@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ọkụ pụtara n'ihu Yahwe, rie ⟨את⟩ ha, ha nwụkwazị n'ihu Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "rie"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "nwụrụ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:50:15.087481642Z",
+  "model": "glm-5.3"
+}

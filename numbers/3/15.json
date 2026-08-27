@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Denye ọnụ ⟨את⟩ ụmụ Levi, dịka ụlọ nna nna ha, dịka ezinụlọ ha; onye nwoke ọ bụla site na nwa ọnwa otu ma elu ka ị ga-edekọ ha.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "denye ọnụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Levi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "dịka ụlọ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nna nna ha"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dịka ezinụlọ ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "site na nwa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ọnwa otu"
+    },
+    {
+      "surface": "ו מעלה",
+      "gloss": "ma elu"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "ị ga-edekọ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:14:24.588343993Z",
+  "model": "glm-5.3"
+}

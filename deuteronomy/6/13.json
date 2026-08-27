@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahwe, Elohim gị, ga-atụ egwu; ma ⟨את⟩ ya ka i ga-ejere ozi, ma n'aha ya ka i ga-amụ ​aha.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe, Elohim gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ga-atụ egwu"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ma ⟨את⟩ ya",
+      "marks": "ya (Yahwe)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "i ga-ejere ozi"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ma n'aha ya"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "i ga-amụ ​aha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:52:34.496737730Z",
+  "model": "glm-5.3"
+}

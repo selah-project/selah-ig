@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma ndị nchuja na ndị Levi doro onwe ha ọcha, ha wee dọọ ⟨את⟩ ndị ahụ, ⟨את⟩ ọnụ ụzọ ámá na ⟨את⟩ mgbidi ahụ ọcha.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "ma ha doro ọcha"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchuja"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "ha wee dọọ ọcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨את⟩ ndị ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọnụ ụzọ ámá"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "⟨את⟩ ọnụ ụzọ ámá"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mgbidi ahụ"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "⟨את⟩ mgbidi ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:48:54.266630477Z",
+  "model": "glm-5.3"
+}

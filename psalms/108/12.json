@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 108,
+  "translation": "Ị̀ bụghị, Elohim, onye jụrụ anyị anya? Ma ị̀ na-apụghị, Elohim, na ndị agha anyị?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ị̀ bụghị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "onye jụrụ anyị anya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ị̀ na-apụghị"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ị na-apụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "na ndị agha anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:09.169220591Z",
+  "model": "glm-5.3"
+}

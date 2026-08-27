@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Torah, Moshe nyere anyị iwu; ⟨is⟩ ihe nketa nke mgbakọ Yaakov.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "ihe nketa"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "mgbakọ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-27T08:16:44.319293806Z",
+  "model": "glm-5.3"
+}

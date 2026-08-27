@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Elohim wee sịkwa Avraham: Gịnụgịzị, gị ga-ejide ⟨את⟩ ọgbụgba-ndụ m — gị na ụmọ gị mgbe gị gasịrị, ruo ọgbọ ha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sịkwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sị"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Gịnụgịzị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "gị ga-ejide"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "na ụmọ gị"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "mgbe gị gasịrị"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ruo ọgbọ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T05:35:19.322671462Z",
+  "model": "glm-5.3"
+}

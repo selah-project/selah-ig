@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Yahwe na-azọpụta mkpụrụ obi ndị ohu Ya, ma onye ọ bụla na-ezoro n'ime Ya agaghị enwe mmehie.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "na-azọpụta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mkpụrụ obi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu Ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma agaghị"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "enwe mmehie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "na-ezoro"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'ime Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:43.414573436Z",
+  "model": "glm-5.3"
+}

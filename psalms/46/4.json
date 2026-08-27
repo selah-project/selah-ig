@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Mmiri ya na-ebili na-agbapụta, ugwu na-ama jijiji n'ịkwụ elu ya. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "na-ebili"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "na-agbapụta"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "mmiri ya"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "na-ama jijiji"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "n'ịkwụ elu ya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:55.541103425Z",
+  "model": "glm-5.3"
+}

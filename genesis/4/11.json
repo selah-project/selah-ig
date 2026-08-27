@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ugbu a, i bụ onye a rụọ arụ, site n'ala nke meghere ⟨את⟩ ọnụ ya iji were ⟨את⟩ ọbara nwa nne gi aka gi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ugbua"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "onye a rụọ arụ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "meghere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọnụ ya"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ọnụ ya"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "iji were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọbara nwa nne gi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwa nne gi"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "aka gi"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:50.409212824Z",
+  "model": "glm-5.3"
+}

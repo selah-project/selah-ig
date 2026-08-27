@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ma Yishmael nwa ya, dị afọ iri na atọ, mgbe e bepụrụ ⟨את⟩ akpụkpọ ahụ nke amughi ya.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Ma Yishmael"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dị"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "iri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "na atọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "mgbe e bepụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akpụkpọ ahụ nke amughi ya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "akpụkpọ ahụ"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "nke amughi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:33:20.719331081Z",
+  "model": "glm-5.3"
+}

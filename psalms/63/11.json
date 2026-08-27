@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 63,
+  "translation": "Ha ga-atụfu ha site n'aka mmaagha; ha ga-abụ òkè maka nkịta ọhịa.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "ha ga-atụfu"
+    },
+    {
+      "surface": "על",
+      "gloss": "site"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mmaagha"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "maka nkịta ọhịa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ha ga-abụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:25.631186655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Eze Mitsrajim wee kpọọ ndị na-amụ nwa, wee sị ha: Gịnị mere unu ji mee ihe a, mekwaa ka ⟨את⟩ ụmụ nwoke dị ndụ?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wee kpọọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ndị na-amụ nwa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "להן",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "gịnị mere"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "unu mere"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "ha mere ka ha dị ndụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ nwoke"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ụmụ nwoke"
+    }
+  ],
+  "timestamp": "2026-08-27T06:06:11.253443151Z",
+  "model": "glm-5.3"
+}

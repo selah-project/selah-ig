@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 101,
+  "translation": "Onye na-eme aghụghọ agaghị_anọ n'etiti ụlọ m; onye na-asị שקרים agaghị_edozi onwe ya n'ihu anya m.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị_anọ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ụlọ m"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "aghụghọ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị_edozi"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "edozi onwe ya"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:44.527334353Z",
+  "model": "glm-5.3"
+}

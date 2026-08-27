@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 37:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Na na ⟨the⟩ menorah: iko anọ dị ka mkpụrụ almọnd, nodu ya na okooko osisi ya.",
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "na na menorah"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "iko"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "dị ka mkpụrụ almọnd"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "nodu ya"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "na okooko osisi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:39:37.822254374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Mikhayhu wee sị: Dịka Yahwe dị ndụ, n'ihi na ⟨את⟩ nke Yahwe ga-asị m, ⟨את⟩ ya ka m ga-ekwu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayhu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dị ndụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nke Yahwe ga-asịm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ga-asị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "m ga-ekwu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:10:42.144512534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 92,
+  "translation": "Ma gị, Yahwe, dị elu ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma gị"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "dị elu"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:05.877751919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 21:17",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Na ihe fọdụrụ n'ọnụ ọgụgụ ndị na-agba ụta, dike ndị nke ụmụ Kedar, ga-ebelata; n'ihi na Yahwe, Elohim nke Yisrael, ekwuola ya.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "na ihe fọdụrụ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ọnụ ọgụgụ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ndị na-agba ụta"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "dike"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    },
+    {
+      "surface": "ימעטו",
+      "gloss": "ga-ebelata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ekwuola"
+    }
+  ],
+  "timestamp": "2026-08-27T10:41:08.930341578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Nke a bụ okwu ahụ nke o welitere aka megide ⟨את⟩ eze ahụ: Shelomah ruru ⟨את⟩ Millo, wee mechie ⟨את⟩ mgbawa nke obodo nke David, nna ya.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Nke a bụ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "o welitere"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "megide eze ahụ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ruru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Millo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "wee mechie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgbawa nke obodo"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "mgbawa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:01:18.372890635Z",
+  "model": "glm-5.3"
+}

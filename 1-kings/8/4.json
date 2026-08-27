@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ha buliri elu ⟨את⟩ arọkọ nke Yahwe na ⟨את⟩ ahụ mgbakọ na ⟨את⟩ ngwaahịa dị nsọ niile ndị nọ n'ahụ mgbakọ ahụ; ma ndị nchụàjà na ndị Lẹvi buliri ⟨את⟩ ha elu.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ha buliri elu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arọkọ nke Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arọkọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ahụ mgbakọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mgbakọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ngwaahịa dị nsọ niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ngwaahịa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "dị nsọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "n'ahụ mgbakọ ahụ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ma ha buliri elu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchụàjà"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "na ndị Lẹvi"
+    }
+  ],
+  "timestamp": "2026-08-27T09:56:40.886083868Z",
+  "model": "glm-5.3"
+}

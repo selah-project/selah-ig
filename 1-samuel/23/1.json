@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ha kọrọ Dawid, na-asị: Le, ndị Pelishim na-alụso Keila ọgụ, ma ha na-ịkwakụba ⟨את⟩ ala-ọka egwerè.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "ha kọrọ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Pelishim"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "na-alụso ọgụ"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "na-ịkwakụba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala-ọka egwerè"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "ala-ọka egwerè"
+    }
+  ],
+  "timestamp": "2026-08-27T09:19:40.881170021Z",
+  "model": "glm-5.3"
+}

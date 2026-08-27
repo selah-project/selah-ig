@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma ndị ụmụ Binyamin: Salu nwa Meshulam, nwa Hodavjah, nwa Hasenuah.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ma ndị"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Salu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Meshulam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Hodavjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenuah"
+    }
+  ],
+  "timestamp": "2026-08-27T15:57:29.105743103Z",
+  "model": "glm-5.3"
+}

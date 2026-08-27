@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ha ga-etinye ⟨את⟩ ya na ⟨את⟩ ngwa ya niile n'ime mkpuchi akpụkpọ anụ tahash, ha ga-etinyekwa ya n'elu osisi-ebu.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ha ga-etinye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (onyensa-ọkụ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngwa ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ngwa ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "mkpuchi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "akpụkpọ anụ"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tahash"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ha ga-etinyekwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "osisi-ebu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:15:12.212295873Z",
+  "model": "glm-5.3"
+}

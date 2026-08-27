@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Mgbe o ji tinye ⟨את⟩ ihe ọgba mbụ ya na Mitzrayim, na ihe ọtụtụ ya n'ọhịa Tsoan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o tinyere"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitzrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "⟨את⟩ ihe ọgba mbụ ya"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "na ihe ọtụtụ ya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "n'ọhịa"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:42.416738Z",
+  "model": "glm-5.3"
+}

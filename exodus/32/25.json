@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Moshe hụrụ ⟨את⟩ ndị ahụ na ha ezupụla n'agbụ, n'ihi na Aharon ezupụla ha n'agbụ ka ha bụrụ ihe nkwulu n'etiti ndị na-emegide ha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "ezupụla n'agbụ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ezupụla"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "maka ihe nkwulu"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "n'etiti ndị na-emegide ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:35:09.526558410Z",
+  "model": "glm-5.3"
+}

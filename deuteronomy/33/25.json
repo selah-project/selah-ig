@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ọla nkụ na ọla kọpa ka ngọngọ ⟨bụ⟩ nke gị; ma dịka ụbọchị gị si adị, otu a ka ike gị ga-adị.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ọla nkụ"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ọla kọpa"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "ngọngọ gị"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "dịka ụbọchị gị"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "ike gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:17:14.461981412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ma m bụ ⟨ajị⟩, ọ bụghị nwoke; mkparị nke ụmụ mmadụ, onye a chụrụ n'anya nke ndị mmadụ.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ajị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "mkparị"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nke ụmụ mmadụ"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "onye a chụrụ n'anya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nke ndị mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:19.625443443Z",
+  "model": "glm-5.3"
+}

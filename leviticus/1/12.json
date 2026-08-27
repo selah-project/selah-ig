@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ ga-ekewa ⟨את⟩ ya n'iberibe ya, na ⟨את⟩ isi ya na ⟨את⟩ abụba ya; ma onye nchụ-aja ga-dowe ha n'usoro n'elu osisi ndị ahụ dị n'elu ọkụ ahụ dị n'elu ebe ịchafụọ ahụ.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "ọ ga-ekewa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (anụmanụ ahụ)"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "n'iberibe ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isi ya"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "isi ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abụba ya"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "abụba ya"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "ga-dowe n'usoro"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụ-aja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha (iberibe ahụ)"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "osisi ndị ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "על",
+      "gloss": "dị n'elu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ọkụ ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "על",
+      "gloss": "dị n'elu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchafụọ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:00.286870231Z",
+  "model": "glm-5.3"
+}

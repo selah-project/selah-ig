@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ka ha ghara ịbụ dịka nna nna ha: ọgbọ na-emegide ma na-ekwukwa ike, ọgbọ nke kwadebeghị obi ya, ma mmụọ ya ghara ịdị ⟨n'⟩ okwukwe ná ⟨את⟩ El.",
+  "tokens": [
+    {
+      "surface": "וילא→ולא",
+      "gloss": "ka ha ghara"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ịbụ"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "dịka nna nna ha"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "na-emegide"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ma na-ekwukwa ike"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gharatị"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "kwadebeghị"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "obi ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ghara"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "ịdị na okwukwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "mmụọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:19.026087532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "⟨את⟩ igbe ahụ na ⟨את⟩ mkpa ya, ⟨את⟩ oche-ezi-mmekọ na ⟨את⟩ akwa mgbidi nke ihe mkpuchi:",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igbe ahụ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "igbe ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mkpa ya"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mkpa ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oche-ezi-mmekọ"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "oche-ezi-mmekọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akwa mgbidi"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "akwa mgbidi"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ihe mkpuchi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:34:43.952096131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Nwa mbụ ọ mụrụ ga-ebilite n'aha nwanne ya nwoke nwụrụ anwụ, ka aha ya echefughị n'Izrel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ọ ga-abụ na"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "nwa mbụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ọ mụrụ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ga-ebilite"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya nwoke"
+    },
+    {
+      "surface": "המת",
+      "gloss": "onye nwụrụ anwụ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "echefughị"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "n'Izrel"
+    }
+  ],
+  "timestamp": "2026-08-27T08:10:37.891629597Z",
+  "model": "glm-5.3"
+}

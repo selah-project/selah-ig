@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "M ka asị: M ga-elite gị n'ahụ si n'ọnia nke Mitsrayim, gaa n'ala nke Kenani, na nke Hiti, na nke Emori, na nke Perizi, na nke Hivi, na nke Yevusi — gaa n'ala ⟨the⟩ na-asọ mmiri ara na mmanụ aṅụ.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "m ka asị"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "m ga-eduga pụọ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ gị n'ahụ",
+      "marks": "gị n'ahụ"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "ọnia"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "nke Kenani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "na nke Hiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "na nke Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "na nke Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "na nke Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "na nke Yevusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "na-asọ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mmiri ara"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na mmanụ aṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:10:49.000352588Z",
+  "model": "glm-5.3"
+}

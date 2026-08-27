@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ha wee zaa, sị: \"Dịka akwụna ka ọ ga-eme ⟨את⟩ nwanne anyị nwanyị?\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha wee zaa, sị"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "dịka akwụna"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ka ọ ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwanne anyị nwanyị"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "nwanne anyị nwanyị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:51:09.094001264Z",
+  "model": "glm-5.3"
+}

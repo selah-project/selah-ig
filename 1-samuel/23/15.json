@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "David hụrụ na Shaul apụọla ịchọ ⟨את⟩ ndụ ya; David nọkwa n'ọzara Zif, na Horesha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "apụọla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ịchọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndụ ya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ndụ ya"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "na Horesha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:18:14.783132305Z",
+  "model": "glm-5.3"
+}

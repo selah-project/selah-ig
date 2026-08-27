@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 61,
+  "translation": "Nụ mkpu m, Elohim; tụgharịa ntị maka ekpere m.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Nụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mkpu m"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "tụgharịa ntị"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ekpere m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:46.398487627Z",
+  "model": "glm-5.3"
+}

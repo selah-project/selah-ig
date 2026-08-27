@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Adam kpọkwara aha nwunye ya Chava, n'ihi na ya bụ nne nke ndị niile dị ndụ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kpọkwara"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwunye ya"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dị ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:23.188348243Z",
+  "model": "glm-5.3"
+}

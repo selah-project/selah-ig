@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 22:12",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ọ nọkwaara ya na ⟨את⟩ ha n'ụlọ Elohim, na-ezobe onwe ya afọ isii; Atalyahu na-achị ala ahụ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ wee nọkwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ya na ha",
+      "marks": "ya na ha (n'ụlọ Elohim)"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "na-ezobe onwe ya"
+    },
+    {
+      "surface": "שש",
+      "gloss": "isii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "na-achị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:15:01.965594540Z",
+  "model": "glm-5.3"
+}

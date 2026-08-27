@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'ụbọchị ahụ, ọ ga-ekwupụta okwu, na-ekwu, m bụghị onye na-agwọ ọrịa; n'ụlọ m enweghị achịcha, ma enweghị uwe; etinyela m onyeisi ndị.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ga-ekwupụta okwu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "m ga-abụ"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "onye na-agwọ ọrịa"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "ma n'ụlọ m"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "achịcha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma enweghị"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ela"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "etinye m"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:32:17.768949143Z",
+  "model": "glm-5.3"
+}

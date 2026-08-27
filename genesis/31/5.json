@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ọ sịkwuru ha: M na-ahụ ⟨את⟩ ihu nna unu, na ọ dịghị ezumuche nye m dịka ọ dị taa na ụnyaahụ; ma Elohim nke nna m adịla m nso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sịkwuru"
+    },
+    {
+      "surface": "להן",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "na-ahụ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihu nna unu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "nna unu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n nye m"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "dịka ọ dị taa"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "na ụnyaahụ"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ma Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nke nna m"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adịla"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "m nso"
+    }
+  ],
+  "timestamp": "2026-08-27T05:48:57.010121508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Onye na-akụziri ⟨את⟩ aka m ⟨את⟩ agha, aka m na-adakwasịrị ⟨את⟩ ụta nke ọla nchara.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "onye na-akụziri"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "maka agha"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "na-adakwasịrị"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ụta"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "nke ọla nchara"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "aka m (ogologo)"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:01.205654545Z",
+  "model": "glm-5.3"
+}

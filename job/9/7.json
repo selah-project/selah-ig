@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Onye na-asị anyanwụ ka ọ ghara ịpụta ìhè, ma na-emechi kpamkpam kpakpando.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "onye na-asị"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "na anyanwụ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "ịpụta ìhè"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "kpakpando"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "na-emechi kpamkpam"
+    }
+  ],
+  "timestamp": "2026-08-27T14:40:08.174001457Z",
+  "model": "glm-5.3"
+}

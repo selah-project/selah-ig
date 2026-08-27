@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "O nweghị onye nwere ike ịzụta nwanne; mmadụ enweghị ike inye Elohim ụgwọ mgbapụta ya.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "nwanne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ nweghị onye nwere ike"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ịzụta"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ga-azụta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enweghị ike"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "inye"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "ụgwọ mgbapụta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:01.386731295Z",
+  "model": "glm-5.3"
+}

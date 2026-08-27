@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Miktam nke David. Chebe m, El, maka na m ezoro mgbaba ná gị.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Chebe m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ezoro mgbaba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ná gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:01.383601008Z",
+  "model": "glm-5.3"
+}

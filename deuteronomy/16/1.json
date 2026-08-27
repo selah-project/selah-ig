@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Chebe ⟨את⟩ ọnwa ⟨nke⟩ Abib, ma mee Pesach nye Yahwe Elohim gị, n'ihi na n'ọnwa Abib Yahwe Elohim gị kpọpụtara gị na Mitzrayim n'abalị.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Chebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọnwa Abib"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ọnwa"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "n'ọnwa"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "kpọpụtara gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitzrayim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "n'abalị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:01:22.321688863Z",
+  "model": "glm-5.3"
+}

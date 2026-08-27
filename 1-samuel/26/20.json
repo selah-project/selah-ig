@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 26:20",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ugbu a, ka ọbara m ghara ịda n'ala n'ihu Yahwe, n'ihi na eze Izrelị pụọ na-achọ ⟨את⟩ nzụ otu, dịka a na-achụsọ ọkwa n'ugwu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ịda"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ọbara m"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "pụọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrelị"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzụ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "nzụ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "a na-achụsọ"
+    },
+    {
+      "surface": "הקרא",
+      "gloss": "ọkwa"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "n'ugwu"
+    }
+  ],
+  "timestamp": "2026-08-27T09:23:49.517714478Z",
+  "model": "glm-5.3"
+}

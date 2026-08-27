@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ọ we wereghara ⟨את⟩ obodo ndị e wusiri ike nke dị na Yehuda, wee bịarute Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ọ we wereghara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ndị e wusiri ike"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo ndị"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "ndị e wusiri ike \/ mgbidi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "dị na Yehuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ọ wee bịarute"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:11:19.269342768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 23:23",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "n'ihi na onye ozi m ga-aga n'ihu gị, ọ ga-edukwaga gị ruo ndị Emori, ndị Hiti, ndị Perizi, ndị Kenani, ndị Hivi, ndị Jebusi, m ga-ebibie ha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ga-aga"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "onye ozi m"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "והביאך",
+      "gloss": "ọ ga-edukwaga gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ndị Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ndị Hiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ndị Perizi"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ndị Kenani"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ndị Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ndị Jebusi"
+    },
+    {
+      "surface": "והכחדתיו",
+      "gloss": "m ga-ebibie ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:26:02.865848908Z",
+  "model": "glm-5.3"
+}

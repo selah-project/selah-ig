@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "David wee jikọọ ya ndị isi puku ahụ na ndị isi narị, ya na onye ọ bụla na-eduzi.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "wee jikọọ ya na mgba ọnụ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị isi nke"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "⟨the⟩ puku"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "na ⟨the⟩ narị"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya na onye ọ bụla"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "na-eduzi"
+    }
+  ],
+  "timestamp": "2026-08-27T16:00:39.318437888Z",
+  "model": "glm-5.3"
+}

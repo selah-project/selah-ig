@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Amụtaghị m amamihe, ma ihe ọmụma nke Ndị Nsọ amaghị m.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "Amụtaghị m"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ma ihe ọmụma"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nke Ndị Nsọ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "amaghị m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:33:43.333502642Z",
+  "model": "glm-5.3"
+}

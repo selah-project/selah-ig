@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Shechem wee sị kọwaa Hamor nna ya, ka o were maka ya ⟨את⟩ nwa agbọghọ a dịka nwunye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kọwaa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ọ sị"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ka o were"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa agbọghọ a"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "nwa agbọghọ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dịka nwunye"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:49.420897935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 28:1",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "N'ihi na e nwere ebe a na-ewepụ ọlaọcha, na ebe a na-eme ka ọlaedo ọcha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יש",
+      "gloss": "e nwere"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "maka ọlaọcha"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ebe a na-ewepụ"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "na ebe"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "maka ọlaedo"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "a na-eme ka ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:51:41.933103206Z",
+  "model": "glm-5.3"
+}

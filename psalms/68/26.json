@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Ndị na-abụ abụ gārụ n'ihu, ndị na-akụ ngwa mgbalitè n'azọ; n'etiti ụmụ agbọghọ na-agbake ọgbá.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "gārụ n'ihu"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ndị na-abụ abụ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "n'azọ"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "ndị na-akụ ngwa mgbalitè"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ụmụ agbọghọ"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "na-agbake ọgbá"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:22.437781173Z",
+  "model": "glm-5.3"
+}

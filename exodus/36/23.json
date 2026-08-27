@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "O wee mee ⟨את⟩ bọọdụ ndị ahụ maka ụlọikwu ahụ: bọọdụ iri abụọ maka akụkụ ndịda, n'ebe ndịda.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "O wee mee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bọọdụ ndị ahụ"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "bọọdụ ndị ahụ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "maka ụlọikwu ahụ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "bọọdụ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "maka akụkụ"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ndịda"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "n'ebe ndịda"
+    }
+  ],
+  "timestamp": "2026-08-27T06:39:19.314306672Z",
+  "model": "glm-5.3"
+}

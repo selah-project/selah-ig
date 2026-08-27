@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Mụ onwe m bụ Yahwe; ọ bụ aha m; ma otuto m agaghị m enye onye ọzọ, ma ịja mma m agaghị m enye ihe ndị a kpụrụ akpụ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mụ onwe m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "aha m"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ma otuto m"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "maka onye ọzọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "m enye"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ma ịja mma m"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "maka ihe ndị a kpụrụ akpụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:56:42.561123277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Naanị site n'ịdọrọ mmā ga-ekewa ⟨את⟩ ⟨the⟩ ala; dịka aha nke agbụrụ nke ndị nna ha ka ha ga-eketa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "site n'ịdọrọ mmā"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "ga-ekewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ ala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ ala"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "dịka aha"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "nke agbụrụ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nke ndị nna ha"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "ha ga-eketa"
+    }
+  ],
+  "timestamp": "2026-08-27T07:37:50.390725474Z",
+  "model": "glm-5.3"
+}

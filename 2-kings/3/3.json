@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Naanị na mmehie nke Yarovam nwa Nevat, nke o mere ka Israel meehie, ka ọ na-agbakọ; ọ pụghị n'ime ha.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "naanị na"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "mmehie nke"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "o mere ka... meehie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "ka ọ na-agbakọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "סר",
+      "gloss": "pụghị"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "n'ime ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:12:18.476338584Z",
+  "model": "glm-5.3"
+}

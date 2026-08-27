@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ma Daviḍ na-aga, na-aga ma na-etolite, maka Yahwe Tsvaot nọkwa ya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ma na-aga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daviḍ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ma na-etolite"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "maka Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsvaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nọkwa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:54:36.890982773Z",
+  "model": "glm-5.3"
+}

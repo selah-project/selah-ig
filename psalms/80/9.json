@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Gepen si na Mitsraim ka Ị dọrọ; Ị chụgara mba ndị ahụ, wee kụọ ya.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "gepen"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "si na Mitsraim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "Ị dọrọ"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "Ị chụgara"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị ahụ"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "wee kụọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:23.931405704Z",
+  "model": "glm-5.3"
+}

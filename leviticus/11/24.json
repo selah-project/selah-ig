@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ma maka ⟨ndị a⟩ unu ga-adịghị ọcha; onye ọ bụla na-emetụ ahụ ha nwụrụ anwụ ga-adịghị ọcha ruo n'anyasị.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "ma maka ndị a"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "unu ga-adịghị ọcha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "na-emetụ"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "ahụ ha nwụrụ anwụ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ga-adịghị ọcha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "n'anyasị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:49:57.541862156Z",
+  "model": "glm-5.3"
+}

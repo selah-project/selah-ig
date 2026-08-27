@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Chere Yahwe; bụọ ike, ma mee ka obi gị sie ike; ee, chere Yahwe!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "chere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "bụọ ike"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "ma mee ka ọ sie ike"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "obi gị"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "ee, chere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:40.623794242Z",
+  "model": "glm-5.3"
+}

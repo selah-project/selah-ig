@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Naomi wee were ⟨את⟩ nwa ahụ, tinye ya n'afọ ya, ọ wee bụrụ nne-nọọsụ ya.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "wee were"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ahụ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "nwa ahụ"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "tinye ya"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "n'afọ ya"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ọ wee bụrụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "nne-nọọsụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:05:15.220472418Z",
+  "model": "glm-5.3"
+}

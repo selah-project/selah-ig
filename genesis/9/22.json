@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Cham, nna Kenaan, hụrụ ⟨את⟩ ịgba ọtọ nna ya, wee gwa ụmụnne ya abụọ n'èzí.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ịgba ọtọ nna ya"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ịgba ọtọ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wee gwa"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ụmụnne ya"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "n'èzí"
+    }
+  ],
+  "timestamp": "2026-08-27T05:27:57.864747992Z",
+  "model": "glm-5.3"
+}

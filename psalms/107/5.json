@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Hụrụ agụụ, ebee, akpịrị ikụ; mkpụrụ obi ha n'ime ha na-ada mbà.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "hụrụ agụụ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ebee"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "akpịrị ikụ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mkpụrụ obi ha"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'ime ha"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "na-ada mbà"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:19.759556988Z",
+  "model": "glm-5.3"
+}

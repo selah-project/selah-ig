@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 9:10",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "na ⟨את⟩ ihe niile nke o mere ndị eze abụọ nke ha-Amori, ndị nọ n'akụkụ nke ọzọ nke Yarden — Sichon eze Cheshbon, na Og eze ha-Bashan, onye nọ na Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ndị ... abụọ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ha-Amori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "n'akụkụ nke ọzọ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "na Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ha-Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "na Ashtarot"
+    }
+  ],
+  "timestamp": "2026-08-27T08:25:17.712186617Z",
+  "model": "glm-5.3"
+}

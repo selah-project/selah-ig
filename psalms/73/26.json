@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "Anụ ahụ m na obi m na-agbakwụnye ⟨is⟩; nkume nke obi m na òkè m ⟨is⟩ Elohim ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "na-agbakwụnye"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "anụ ahụ m"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "na obi m"
+    },
+    {
+      "surface": "צור",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "nke obi m"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "na òkè m"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:00.116681424Z",
+  "model": "glm-5.3"
+}

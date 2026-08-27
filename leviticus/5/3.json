@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 5:3",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ma ọ bụ ọ bụrụ na ọ metụrụ unyi nke mmadụ — nke ọ bụla n'ime unyi nke ya nke o ji rụọ unyi — ma ezochie ya n'ebe ya, ma ⟨ọ⟩ mata, ọ ga-abụ onye ikpe mara.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ọ metụrụ"
+    },
+    {
+      "surface": "בטמאת",
+      "gloss": "unyi nke"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nke ọ bụla n'ime"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "unyi nke ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "o ji rụọ unyi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "ma ezochie"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "n'ebe ya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma ⟨ọ⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ga-abụ onye ikpe mara"
+    }
+  ],
+  "timestamp": "2026-08-27T06:47:29.062863332Z",
+  "model": "glm-5.3"
+}

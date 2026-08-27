@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Yosef nyere ndị ohu ya iwu — ⟨את⟩ ndị dọkịta — ka ha ṅụọ mmanụ nna ya; ndị dọkịta wee ṅụọ ⟨את⟩ Izrel.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "o nye iwu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ohu ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị dọkịta"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "ndị dọkịta"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "ka ha ṅụọ mmanụ-ọnwụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "ha wee ṅụọ mmanụ-ọnwụ"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "ndị dọkịta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    }
+  ],
+  "timestamp": "2026-08-27T06:04:15.950345868Z",
+  "model": "glm-5.3"
+}

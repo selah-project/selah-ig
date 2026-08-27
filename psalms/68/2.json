@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Ka Elohim bilie, ka ndị iro ya gbasaa, ma ndị kpọrọ ya asị gbapụ n'ihu ya.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Ka ... bilie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "ka ... gbasaa"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ndị iro ya"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ma ... gbapụ"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "ndị kpọrọ ya asị"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "n'ihu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:55.350720795Z",
+  "model": "glm-5.3"
+}

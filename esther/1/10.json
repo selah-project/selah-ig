@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 1:10",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "N'ụbọchị nke asaa, mgbe obi Eze dị mma site na mmanya, ọ gwara Mehuman, Biztha, Harbona, Bigtha, na Abagtha, Zethar, na Karkas — ndị saris asaa na-eje ozi n'ihu ⟨ihu⟩ Eze Achashverosh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "nke asaa"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "mgbe ọ dị mma"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "site na mmanya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ọ gwara"
+    },
+    {
+      "surface": "למהומן",
+      "gloss": "Mehuman"
+    },
+    {
+      "surface": "בזתא",
+      "gloss": "Biztha"
+    },
+    {
+      "surface": "חרבונא",
+      "gloss": "Harbona"
+    },
+    {
+      "surface": "בגתא",
+      "gloss": "Bigtha"
+    },
+    {
+      "surface": "ואבגתא",
+      "gloss": "na Abagtha"
+    },
+    {
+      "surface": "זתר",
+      "gloss": "Zethar"
+    },
+    {
+      "surface": "וכרכס",
+      "gloss": "na Karkas"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "ndị saris"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "na-eje ozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    }
+  ],
+  "timestamp": "2026-08-27T15:19:08.583037487Z",
+  "model": "glm-5.3"
+}

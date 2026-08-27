@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ndị agha Kesdim gbasoro eze ahụ, wee jide ⟨את⟩ ya n'ala ndị Yeriho, ndị agha ya niile gbaziri hapụrụ ya.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "gbasoro"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kesdim"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "azụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "wee jide"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (eze ahụ)"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "n'ala ndị"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ndị agha ya"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "gbaziri"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "hapụrụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:32:13.802613164Z",
+  "model": "glm-5.3"
+}

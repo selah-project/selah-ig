@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "ha ga-ejide ⟨את⟩ nche nke ulo nzukọ, na ⟨את⟩ nche nke ebe nsọ, na nche ụmụ Aharon, ụmụnne ha, maka ọrụ ụlọ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ו שמרו",
+      "gloss": "ha ga-ejide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nche nke ulo nzukọ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "nche"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nche nke ebe nsọ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "nche"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nke ebe nsọ"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "na nche"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ụmụnne ha"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "maka ọrụ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:05:06.420094491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Maka m, le, m na-edozi ⟨את⟩ ọgbụgba-ndụ m ⟨את⟩ na unu, na ⟨את⟩ mkpụrụ unu mgbe unu gasịrị;",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "le"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "m na-edozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ na unu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "mkpụrụ unu"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "mgbe unu gasịrị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:38.189868494Z",
+  "model": "glm-5.3"
+}

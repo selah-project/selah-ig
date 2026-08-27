@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Na-ekwu, Maka gị ka m ga-enye ⟨את⟩ ala Kenaan, òké nketa unu.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Na-ekwu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ka m ga-enye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "òké (eriri ọnụ ọgụgụ)"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "nketa unu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:31.217484651Z",
+  "model": "glm-5.3"
+}

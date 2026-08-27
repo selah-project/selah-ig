@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 18:2",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Nwa afọ iri abụọ na ise ka ọ bụ ná mgbe ọ na-achị, ma ọ chịrị afọ iri abụọ na itoolu na Yerushalayim; aha nne ya bụ Abi, nwa Zekarya.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Nwa afọ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ise"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ná mgbe ọ na-achị"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ma afọ iri abụọ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "na itoolu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọ chịrị"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nne ya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Abi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zekarya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:25:23.189062328Z",
+  "model": "glm-5.3"
+}

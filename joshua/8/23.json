@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma ⟨את⟩ eze nke Hai ha jidere dịka ndị dị ndụ, ha wee duru ⟨את⟩ ya bịakwute Yehoshua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eze nke Hai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "העי",
+      "gloss": "nke Hai"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "ha jidere"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dịka ndị dị ndụ"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "ha wee duru ya bịakwute"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bịa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-08-27T08:27:21.815512781Z",
+  "model": "glm-5.3"
+}

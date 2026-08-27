@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọ gara n'ihu mụọ ⟨את⟩ nwanne ya ⟨את⟩ Hebel; Hebel bụ onye na-elekọta atụrụ, Kayin bụ onye na-arụ ala.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "Ọ gara n'ihu"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwanne ya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wee bụrụ na"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "na-elekọta"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "na-arụ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ala"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:35.509799762Z",
+  "model": "glm-5.3"
+}

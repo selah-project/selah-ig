@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "N'ihi na gị ⟨bụ⟩ nkume m na ebe mgbapụ m; ma maka nsọpụrụ aha gị, duzie m ma duga m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "nkume m"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "na ebe mgbapụ m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ma maka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nsọpụrụ aha gị"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "duzie m"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "ma duga m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:43.320492530Z",
+  "model": "glm-5.3"
+}

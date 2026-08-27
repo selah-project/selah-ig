@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "O wee sị ya: Etu ụla; ndị nọ ⟨את⟩ anyị karịrị ndị nọ ⟨את⟩ ha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wee sị ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Etu"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ụla"
+    },
+    {
+      "surface": "כי",
+      "gloss": ";"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "karịrị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ anyị"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "karịa ndị"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:14:23.851046461Z",
+  "model": "glm-5.3"
+}

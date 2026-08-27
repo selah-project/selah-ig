@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "Yahwe na-eme ⟨the⟩ ezi omume na ⟨the⟩ ikpe ziri ezi maka ndị niile a na-emegbu.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ezi omume"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka ndị niile"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "a na-emegbu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:01.528480229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 1:21",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ndị e dere ha, maka okpu nke Re'uven: isii na iri anọ puku, na ise narị.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ndị e dere ha"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "maka okpu"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uven"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "isii"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na iri anọ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ise"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:10:16.948079994Z",
+  "model": "glm-5.3"
+}

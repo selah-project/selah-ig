@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 29:2",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Ma ndị isi Pelishtim na-agafe na narị na na puku, ma Dawid na ndị ikè ya na-agafe n'azụ na Akish.",
+  "tokens": [
+    {
+      "surface": "וסרני",
+      "gloss": "ma ndị isi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "na narị"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "ma na puku"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ma Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "na ndị ikè ya"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "n'azụ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    }
+  ],
+  "timestamp": "2026-08-27T09:25:56.741381915Z",
+  "model": "glm-5.3"
+}

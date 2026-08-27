@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "N'ihi na ndị ohu gị nwere mmasị na ⟨את⟩ nkume ya, na ⟨את⟩ uzuzu ya ha ga-ṅomie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "nwere mmasị"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ndị ohu gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkume ya"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "nkume ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "uzuzu ya"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ha ga-ṅomie"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:14.976997456Z",
+  "model": "glm-5.3"
+}

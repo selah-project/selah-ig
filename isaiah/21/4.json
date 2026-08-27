@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Obi m na-aghọgbu, egwu ukwu tụrị m; ⟨את⟩ ọjịjị nke mmasị m gbanwere maka m ka ọ bụrụ ịma jijiji.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "na-aghọgbu"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "Obi m"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "egwu ukwu"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "tụrị m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọjịjị nke mmasị m"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "ọjịjị"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "mmasị m"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gbanwere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "ka ọ bụrụ ịma jijiji"
+    }
+  ],
+  "timestamp": "2026-08-27T10:43:12.701179798Z",
+  "model": "glm-5.3"
+}

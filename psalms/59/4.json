@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 59,
+  "translation": "N'ihi na lee, ha zoro ọdụ maka mkpụrụ obi m; ndị siri ike gbakọtara megide m; ọ bụghị nnupụisi m, ma ọ bụghị mmehie m, Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lee"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "ha zoro ọdụ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "maka mkpụrụ obi m"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "gbakọtara"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ndị siri ike"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "nnupụisi m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mmehie m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:29.663774527Z",
+  "model": "glm-5.3"
+}

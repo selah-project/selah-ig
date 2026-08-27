@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ọ degora ha na Bezek; ụmụ Israel ruru puku narị atọ, ma ndị Yehuda ruru puku iri atọ.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "Ọ degora ha"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "na Bezek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ruru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "iri atọ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    }
+  ],
+  "timestamp": "2026-08-27T09:08:09.659102722Z",
+  "model": "glm-5.3"
+}

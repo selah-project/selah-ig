@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Na ọlaọcha nke ụmụ ⟨את⟩ nzukọta ndị e gụrụ narị talent, na puku na narị asaa na iri asaa na ise shekel, dịka shekel nke ebe nsọ.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "Na ọlaọcha"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "nke ụmụ e gụrụ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨את⟩ nzukọta"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "narị"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talent"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "na puku"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "na asaa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "na ise"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "iri asaa"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "dịka shekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nke ebe nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:40:40.396437140Z",
+  "model": "glm-5.3"
+}

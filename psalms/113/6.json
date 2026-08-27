@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 113,
+  "translation": "Onye na-akụchasị Onwe Ya ala ka ọ hụ ihe dị n'eluigwe na n'ụwa.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "Onye na-akụchasị ala"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ka ọ hụ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "na n'ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:39.650960461Z",
+  "model": "glm-5.3"
+}

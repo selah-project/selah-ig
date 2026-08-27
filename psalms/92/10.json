@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 92,
+  "translation": "N'ihi na le, ndị iro gị, Yahwe; n'ihi na le, ndị iro gị ga-efu ọla; ndị niile na-eme ihe nzụgbụ ga-adịkwa iche iche.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ndị iro gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ndị iro gị"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ga-efu ọla"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "ga-adịkwa iche iche"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "און",
+      "gloss": "ihe nzụgbụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:05.878017329Z",
+  "model": "glm-5.3"
+}

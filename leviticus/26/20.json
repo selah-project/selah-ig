@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ike unu ga-efu màkà na ihe ọ bụla; ala unu agaghị enye ⟨את⟩ ihe ọkụkpụ ya, osisi ⟨nke⟩ ala ahụ agaghị enye mkpụrụ ya.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "ga-efu màkà"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "na ihe ọ bụla"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "ike unu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "enyeghị"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ala unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ọkụkpụ ya"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ihe ọkụkpụ ya"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ala ahụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "enyeghị"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "mkpụrụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:09:25.983675343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "na n'elu ugwu ndị dị elu niile, na n'elu mkpọda ugwu ndị a kwalitere elu niile;",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "na n'elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "ndị dị elu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na n'elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "mkpọda ugwu"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "ndị a kwalitere elu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:30:30.235097504Z",
+  "model": "glm-5.3"
+}

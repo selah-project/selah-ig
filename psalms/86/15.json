@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 86,
+  "translation": "Ma gị, Adonai, ⟨bụ⟩ El nke ebere na nke ọmịiko, jiri nwayọọ n'iwe, ma jupụta na chesed na eziokwu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma gị"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "nke ebere"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ma nke ọmịiko"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "jiri nwayọọ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "n'iwe"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ma jupụta na"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na eziokwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:16.985643902Z",
+  "model": "glm-5.3"
+}

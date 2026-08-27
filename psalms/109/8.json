@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Ka ụbọchị ya dịrị mkpụmkpụ, ma onye ọzọ were ọrụ ya.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Ka ... dịrị"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ụbọchị ya"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "mkpụmkpụ"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ọrụ ya"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "onye ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:05.444677791Z",
+  "model": "glm-5.3"
+}

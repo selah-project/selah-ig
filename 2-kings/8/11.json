@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "O wee setịpụ ⟨את⟩ ihu ya ruo mgbe ohere were ya; ma nwoke Elohim beere ákwá.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "setịpụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihu ya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ihu ya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dobe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "בש",
+      "gloss": "ohere were ya"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "beere ákwá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "nke Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T10:18:10.672989183Z",
+  "model": "glm-5.3"
+}

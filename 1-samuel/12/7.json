@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma ugbu a, guzoro, ka m kpee ⟨את⟩ gị ikpe n'ihu Yahwe, banyere ⟨את⟩ ihe ziri ezi niile nke Yahwe, nke o mere ⟨את⟩ gị na ⟨את⟩ nna nna gị.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ma ugbu a"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "guzoro"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "ka m kpee ikpe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ gị"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ziri ezi niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ihe ziri ezi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "nna nna gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:06:29.853690139Z",
+  "model": "glm-5.3"
+}

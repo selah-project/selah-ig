@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "⟨Ndị⟩ Eimim bi na ya n'oge gara aga — obodo ukwu, na ọtụtụ, na ogologo, dị ka Anakim.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Eimim"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "n'oge gara aga"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "na ọtụtụ"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "na ogologo"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "dị ka Anakim"
+    }
+  ],
+  "timestamp": "2026-08-27T07:50:08.899578338Z",
+  "model": "glm-5.3"
+}

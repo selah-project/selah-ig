@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "onye a chụgara n'ala ọzọ site na Yerushalayim, tinyere ndị a chụgara n'ala ọzọ ndị a chụgara tinyere Yekonyah, eze Yehuda, onye Nebukadnetstsar, eze Babel, chụgara n'ala ọzọ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "a chụgara n'ala ọzọ"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "site na Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tinyere"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "ndị a chụgara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "a chụgara"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tinyere"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekonyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "chụgara"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-08-27T15:21:04.909060631Z",
+  "model": "glm-5.3"
+}

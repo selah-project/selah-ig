@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Unu tụrụ ime ahịhịa ọkụ, unu mụrụ mkpụrụ ọka kpọrọ nkụ; ume unu bụ ọkụ, ọ ga-eri unu.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "unu tụrụ ime"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "ahịhịa ọkụ"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "unu mụrụ"
+    },
+    {
+      "surface": "קש",
+      "gloss": "mkpụrụ ọka kpọrọ nkụ"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "ume unu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "ọ ga-eri unu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:48:47.872337163Z",
+  "model": "glm-5.3"
+}

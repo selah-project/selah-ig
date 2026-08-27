@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 95,
+  "translation": "Bịa, ka anyị na-ele ala anya n'efe, ka anyị na-agụ ala ikpere, ka anyị na-agbà ikpere n'ihu Yahwe, Onye mere anyị.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Bịa"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "ka anyị na-ele ala anya n'efe"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "ka anyị na-agụ ala"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "ka anyị na-agbà ikpere"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "Onye mere anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:09.160581037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "Elohim eligooro n'olu ọgụ-ga; Yahwe, n'olu shofar.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "eligooro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "n'olu ọgụ-ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "n'olu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:42.093560293Z",
+  "model": "glm-5.3"
+}

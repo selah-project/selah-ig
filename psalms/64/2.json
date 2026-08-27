@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 64,
+  "translation": "Nụ olu m, Elohim, n'arịrịọ m; chekwaa ndụ m pụọ na egwu ⟨nke⟩ onye iro.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "olu m"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "n'arịrịọ m"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "pụọ na egwu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "onye iro"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "chekwaa"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ndụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:42.118119674Z",
+  "model": "glm-5.3"
+}

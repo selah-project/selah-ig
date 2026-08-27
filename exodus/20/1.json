@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ya bụ Yahwe—ọ bụghị, Elohim kwuru ⟨את⟩ okwu ndị a niile, ka ọ na-ekwu,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ọ kwuru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ndị a niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ọ na-ekwu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:19:21.325598098Z",
+  "model": "glm-5.3"
+}

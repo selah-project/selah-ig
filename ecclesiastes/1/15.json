@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ihe gbara oge adịghị ka a na-eme ka ọ dị larịị; ihe na-enweghị adịghị ka a na-agụta.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "ihe gbara oge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ka a na-eme"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ka ọ dị larịị"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ihe na-enweghị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ka a na-agụta"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "agụta"
+    }
+  ],
+  "timestamp": "2026-08-27T15:12:05.891601861Z",
+  "model": "glm-5.3"
+}

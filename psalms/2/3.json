@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ka anyị gbajoo ⟨את⟩ mkpụrụndsị ha, ma tụfuo anyị eriri ha n'aka anyị.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "ka anyị gbajoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpụrụndsị ha"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "mkpụrụndsị ha"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "ma tụfuo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "eriri ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:53.486685743Z",
+  "model": "glm-5.3"
+}

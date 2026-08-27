@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "N'ihi na Avraham nụrụ olu m, ma chekwaa nche m, iwu m, iwu ederede m, na Torah m.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "olu m"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ma chekwaa"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "nche m"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "iwu ederede m"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "na Torah m"
+    }
+  ],
+  "timestamp": "2026-08-27T05:42:26.409090012Z",
+  "model": "glm-5.3"
+}

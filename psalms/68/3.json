@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Dịka a na-achụpụ anwụrụ ọkụ, ka ⟨e⟩ chụpụ ha: dịka dayi na-agbaze n'ihu ọkụ, ka ndị rụrụ arụ nwụọ n'ihu Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "dịka a na-achụpụ"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "anwụrụ ọkụ"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "ka ⟨e⟩ chụpụ"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "dịka ọ na-agbaze"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "dayi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ka ha nwụọ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị rụrụ arụ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:42.918693441Z",
+  "model": "glm-5.3"
+}

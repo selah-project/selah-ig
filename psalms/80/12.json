@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Ọ zipụrụ alaka ọhụrụ ya ruo Oké Osimiri, mkpụrụ na-amịpụta ya ruo Osimiri.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Ọ zipụrụ"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "alaka ọhụrụ ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Oké Osimiri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Osimiri"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "mkpụrụ na-amịpụta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:23.931936803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "N'ọdọ ahịhịa ọhụrụ Ọ na-eme ka m dinara; mmiri ọ dị jụụ ka ọ na-eduzi m",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "n'ọdọ ahịhịa"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ahịhịa ọhụrụ"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "Ọ na-eme ka m dinara"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "ọ dị jụụ \/ nke udo"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "ọ na-eduzi m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:27.069522152Z",
+  "model": "glm-5.3"
+}

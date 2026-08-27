@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ọzọkwa, ihe ndị akaebe gị bụ́ ihe ụtụ m, bụ́ ndị ikom nke ndụmọdụ m.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ọzọkwa"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ihe ndị akaebe gị"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "ihe ụtụ m"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ndị ikom nke"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "ndụmọdụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:55.830569687Z",
+  "model": "glm-5.3"
+}

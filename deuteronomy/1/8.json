@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Le, etinyela m n'ihu unu ⟨את⟩ ala; banye, were nwe ⟨את⟩ ala nke Yahwe ṅụrụ iyi nye nna nna unu, Avraham, Yitschak, na Yaakov, iji nye ha, na mkpụrụ ha mgbe ha gasịrị.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "le"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "etinyela m"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "n'ihu unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "באו",
+      "gloss": "banye"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "were nwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ṅụrụ iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "nye nna nna unu"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "iji nye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "na mkpụrụ ha"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "mgbe ha gasịrị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:51:02.701027310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "O mekwara maka ⟨the⟩ ụlọ ahụ windo shekufim ndị a gbàchiri agbachi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o mekwara"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "maka ụlọ ahụ"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "windo"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "shekufim (ndị nwere oghere mgbagwo)"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "gbàchiri agbachi"
+    }
+  ],
+  "timestamp": "2026-08-27T09:53:55.520971048Z",
+  "model": "glm-5.3"
+}

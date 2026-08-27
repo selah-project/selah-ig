@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 7:12",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ụbọchị ahụ, ha ga-abịa rutere gị; site na Ashuru ruo n'obodo ndị Matsor, na site na Matsor ruo n'Osimiri ahụ, na site n'oké osimiri ruo n'oké osimiri, na site n'ugwu ahụ ruo n'ugwu ahụ.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "ועדיך",
+      "gloss": "ruo gị"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ha ga-abịa"
+    },
+    {
+      "surface": "למני",
+      "gloss": "site na"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "na obodo ndị"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsor"
+    },
+    {
+      "surface": "ולמני",
+      "gloss": "na site na"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsor"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Osimiri ahụ"
+    },
+    {
+      "surface": "וים",
+      "gloss": "na oké osimiri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "והר",
+      "gloss": "na ugwu ahụ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ugwu ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:46:24.676432679Z",
+  "model": "glm-5.3"
+}

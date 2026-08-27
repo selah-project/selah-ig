@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Onye-nchu-aja ga-ere ⟨את⟩ ihe-ncheta ya: akụkụ nke ọka ya a kụkụtasịrị na mmanụ ya, yana fensins ya niile: ọkụ maka Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ga-ere"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe-ncheta ya"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "ihe-ncheta ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "akụkụ nke ọka ya a kụkụtasịrị"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "na mmanụ ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "yana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "fensins ya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:44:00.234526421Z",
+  "model": "glm-5.3"
+}

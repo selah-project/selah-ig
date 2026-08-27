@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "N'oge ahụ, ndị ohu Nevukadnetstsar, eze Bavel, rigo elu megide Yerushalayim, obodo ahụ wee baa n'ịgba mkpọ.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "rigo elu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ndị ohu"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ọ wee baa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "n'ịgba mkpọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:31:43.683411655Z",
+  "model": "glm-5.3"
+}

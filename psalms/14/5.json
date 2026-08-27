@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "N'ebe ahụ ha-atụgha ⟨את⟩ ụjọ nzuzu, n'ihi na Elohim nọ n'ọgbọ ndị ezi omume.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ha-atụgha"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ụjọ nzuzu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "n'ọgbọ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ndị ezi omume"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:24.742333438Z",
+  "model": "glm-5.3"
+}

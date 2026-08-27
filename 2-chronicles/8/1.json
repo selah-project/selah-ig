@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ dịkwa ⟨na⟩ njedebe nke afọ iri abụọ nke Shelomoh ji rụọ ⟨את⟩ ụlọ Yahwe na ⟨את⟩ ụlọ ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dịkwa"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "njedebe"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "rụọ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụlọ ya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:10:06.344254601Z",
+  "model": "glm-5.3"
+}

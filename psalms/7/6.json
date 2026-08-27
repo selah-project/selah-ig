@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ka onye iro na-achụso mkpụrụ obi m, ma ruo ya, ma tụọ ndụ m ala n'ala, ma mee ka ùgwù m bie n'ájá. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "na-achụso"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "onye iro"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "ma ruo ya"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "ma tụọ ala"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ndụ m"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ma ùgwù m"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "n'ájá"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bie"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:04.913198682Z",
+  "model": "glm-5.3"
+}

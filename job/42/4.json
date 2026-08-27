@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Nụ, biko, m ga-ekwu; m ga-ajụ gị, gwa m ka m mara.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nụ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ga-ekwu"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ga-ajụ gị"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "gwa m ka m mara"
+    }
+  ],
+  "timestamp": "2026-08-27T15:00:11.654483392Z",
+  "model": "glm-5.3"
+}

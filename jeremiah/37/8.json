@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 37:8",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ndị Kasdim ga-alaghachi, ha ga-alụọ ọgụ megide obodo a, ha ga-emerịa ya, ha ga-ere ya n'ọkụ.",
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": "ga-alaghachi"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "ndị Kasdim"
+    },
+    {
+      "surface": "וינלחמו",
+      "gloss": "ga-alụọ ọgụ",
+      "marks": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ha ga-emerịa ya"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "ha ga-ere ya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:43:36.853047984Z",
+  "model": "glm-5.3"
+}

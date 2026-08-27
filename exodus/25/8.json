@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ma ha ga-eme m ebe dị nsọ, ka m nwee ike ịnọ n'etiti ha;",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ma ha ga-eme"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ebe dị nsọ"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "ka m ga-anọ"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "n'etiti ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:27:33.672400801Z",
+  "model": "glm-5.3"
+}

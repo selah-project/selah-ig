@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ọ ka mma nke ị na-aghara ị-ra ala, karịa ị-ra ala ma na-aghara ịkwụ ya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ọ ka mma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-aghara"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ị-ra ala"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "karịa ị-ra ala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma na-aghara"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ịkwụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:14:04.368614210Z",
+  "model": "glm-5.3"
+}

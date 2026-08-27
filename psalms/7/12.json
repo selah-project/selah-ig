@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Elohim ⟨is⟩ ọkaikpe ziri ezi, ⟨Elohim⟩ na-ewe iwe kwa ụbọchị.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ọkaikpe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ziri ezi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "na-ewe iwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:05.998969670Z",
+  "model": "glm-5.3"
+}

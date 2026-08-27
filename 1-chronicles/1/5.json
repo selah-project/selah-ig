@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ụmụ Yefet: Gomer, Magog, Madai, Yavan, Tuval, Meshek, na Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "Madai"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "Yavan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "Tuval"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "Meshek"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "Tiras"
+    }
+  ],
+  "timestamp": "2026-08-27T15:50:09.750821372Z",
+  "model": "glm-5.3"
+}

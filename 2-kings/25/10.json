@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ma ⟨את⟩ mgbidi Yerushalayim gbara gburugburu, ndị agha niile nke ndị Kasdim ndị nọ na ‹onu⟩ rab-tavachim kwaturu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mgbidi Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mgbidi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gbara gburugburu"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ha kwaturu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ndị Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "רב",
+      "gloss": "onye-isi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ndị-egbu-ehi (onye nche ọchịchị)"
+    }
+  ],
+  "timestamp": "2026-08-27T10:32:10.915632279Z",
+  "model": "glm-5.3"
+}

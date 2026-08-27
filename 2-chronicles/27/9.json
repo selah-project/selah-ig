@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Yotam rafụọ ya nke ọma ma nọrọ ná nna ya ndị gara tupu ya, ha wee lie ya n'obodo Dawid; ma Aḥaz nwa ya wee chị n'ọnọdụ ya.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "rafụọ ya nke ọma ma nọrọ"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ná"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nna ya ndị"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ha wee lie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wee chị"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Aḥaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "n'ọnọdụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:15:51.490306092Z",
+  "model": "glm-5.3"
+}

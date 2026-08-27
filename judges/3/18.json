@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 3:18",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọ bụkwa mgbe ọ gwụchara iwebata ⟨את⟩ onyinye ahụ, ka ọ zigara ⟨את⟩ mmadụ ndị na-ebu onyinye ahụ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ bụ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ọ gwụchara"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "iwebata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onyinye ahụ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "onyinye ahụ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ọ zigara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmadụ ndị"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mmadụ ndị"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "na-ebu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "onyinye ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:42:31.342741956Z",
+  "model": "glm-5.3"
+}

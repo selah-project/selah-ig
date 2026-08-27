@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 15:19",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ọ wee sị ya: Nyere m ngọzi; n'ihi na ị nyere m ⟨את⟩ ala ndịda, nyekwara m isi mmiri. Ọ wee nye ya ⟨את⟩ isi mmiri ndị elu na ⟨את⟩ isi mmiri ndị ala.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ngọzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ndịda (Negev)"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "ị nyere m"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "nyekwara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "isi mmiri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ọ wee nye"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi mmiri"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "isi mmiri"
+    },
+    {
+      "surface": "עליות",
+      "gloss": "ndị elu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "isi mmiri"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ndị ala"
+    }
+  ],
+  "timestamp": "2026-08-27T08:32:13.386391471Z",
+  "model": "glm-5.3"
+}

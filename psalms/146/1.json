@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 146,
+  "translation": "Toonu Yah; too, mkpụrụ obi m, ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Toonu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "too"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:32.901177398Z",
+  "model": "glm-5.3"
+}

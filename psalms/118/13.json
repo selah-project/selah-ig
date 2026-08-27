@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "Ị dịchịrị m ike ka m daa, ma Yahwe nyere m aka.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "ị dịchịrị ike"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "m"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "kaa m daa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ma Yahwe"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "nyere m aka"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:45.611902259Z",
+  "model": "glm-5.3"
+}

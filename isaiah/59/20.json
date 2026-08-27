@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 59,
+  "translation": "Onye-mgbapụta ga-abịa na Tsiyon, na ndị na-atụgharị site na mmehie na Yaakov, nkwu Yahwe.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ga-abịa"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "na Tsiyon"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "Onye-mgbapụta"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "na ndị na-atụgharị"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:09:31.480778538Z",
+  "model": "glm-5.3"
+}

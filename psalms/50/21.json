@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Ihe ndị a ka ị mere, m wee dị jụụ; ị chere na m ⟨dị⟩ dịka gị; m ga-ekpe gị ikpe ma hazie ihe niile n'ihu anya gị.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ihe ndị a"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ị mere"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "m wee dị jụụ"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "ị chere"
+    },
+    {
+      "surface": "היות",
+      "gloss": "na m ⟨dị⟩"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "m bụ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "dịka gị"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "m ga-ekpe gị ikpe"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "ma hazie"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "n'ihu anya gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:01.378889724Z",
+  "model": "glm-5.3"
+}

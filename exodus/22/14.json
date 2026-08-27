@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ọ bụrụ na onye nwe ya nọ ya, ọ gaghị akwụghachi ya; ọ bụrụ na ọ bụ onye nkwe, ọ bịara maka ụgwọ ọrụ ya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "בעליv",
+      "gloss": "onye nwe ya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nọ ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "akwụghachi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "onye nkwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ọ bịara"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "maka ụgwọ ọrụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:24:30.250711483Z",
+  "model": "glm-5.3"
+}

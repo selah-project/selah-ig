@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ụmụ Elpaal: Ever, na Misham, na Shemed; ⟨ọ⟩ bụ onye ruru Ono na ⟨את⟩ Lod na obodo nta ya.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "na Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "na Shemed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ọ⟩"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ruru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "obodo nta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:18.096651641Z",
+  "model": "glm-5.3"
+}

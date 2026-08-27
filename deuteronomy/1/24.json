@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ha wee tụgharịa, rịgote n'ugwu, bata ruo ndagwurugwum Eshkol, ma nyochaa ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Ha tụgharịa"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "rịgote"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bata ruo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ndagwurugwum"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "nyochaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (⟨the⟩ ala, site na amaokwu 22)"
+    }
+  ],
+  "timestamp": "2026-08-27T07:49:01.243729697Z",
+  "model": "glm-5.3"
+}

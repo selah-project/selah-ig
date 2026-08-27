@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Oge ịmụ nwa, na oge ịnwụ; oge ịkụ osisi, na oke ịgbapụta ihe a kụrụ aka.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ịmụ nwa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na oge"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ịnwụ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "ịkụ osisi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na oke"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "ịgbapụta"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "ihe a kụrụ aka"
+    }
+  ],
+  "timestamp": "2026-08-27T15:12:43.562417088Z",
+  "model": "glm-5.3"
+}

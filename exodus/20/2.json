@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Mụ ⟨ bụ⟩ Yahwe, Elohim gị, nke kpọgara gị n'ala Mitzrayim, n'ụlọ ndị ohu.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "kpọgara gị"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ndị ohu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:19:21.325880450Z",
+  "model": "glm-5.3"
+}

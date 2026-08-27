@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 32:29",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Ka ha nwere amamihe — ka ha ghọta ihe a nke ọma, ka ha ghọtakwa njedebe ha!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ka (ọ dị mma na)"
+    },
+    {
+      "surface": "חכמו",
+      "gloss": "nwere amamihe"
+    },
+    {
+      "surface": "ישכילו",
+      "gloss": "ghọta ihe a nke ọma"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ihe a"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ghọta"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "njedebe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:17:52.671496222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ sara ha n'asụsụ: Onye Hibru m bụ, ma m na-atọ ⟨את⟩ Yahwe, Elohim nke eluigwe, ⟨ onye ⟩ mere ⟨את⟩ oké osimiri na ⟨את⟩ ala kpọrọ nkụ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sara"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Onye Hibru"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m bụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "na-atọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oké osimiri"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala kpọrọ nkụ"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ala kpọrọ nkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:52:40.512013013Z",
+  "model": "glm-5.3"
+}

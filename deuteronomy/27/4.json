@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ọ ga-abụ mgbe unu gafere ⟨את⟩ Yarden, ka unu ga-ewetu ⟨את⟩ nkume ndị a, nke m na-enye unu iwu ⟨אתכם⟩ taa, n'ugwu Eyval, ma tee ha ṅdọ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "mgbe unu gafere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "unu ga-ewetu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkume ndị a"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "na-enye iwu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eyval"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "ma tee"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "ṅdọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:10:43.826386397Z",
+  "model": "glm-5.3"
+}

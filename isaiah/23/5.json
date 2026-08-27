@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Dịka akụkọ ahụ metụtara Ijipt, ha na-atụ egwu mgbe ha nụrụ akụkọ banyere Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akụkọ ahụ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "metụtara Ijipt"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "ha na-atụ egwu \/ na-ama jijiji"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mgbe ha nụrụ akụkọ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    }
+  ],
+  "timestamp": "2026-08-27T10:46:06.881038845Z",
+  "model": "glm-5.3"
+}

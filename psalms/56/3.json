@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 56,
+  "translation": "Ndị iro m na-eli m ụbọchị niile, n'ihi na ọtụtụ na-alụso m ọgụ site n'elu.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "na-eli"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "na-alụso ọgụ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "site n'elu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:36.419772907Z",
+  "model": "glm-5.3"
+}

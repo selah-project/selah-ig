@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "M na-ebe ákwá n'ọsọ nke mkpụrụ obi m, ọ wee bụrụ ihe mkparị maka m.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "m na-ebe ákwá"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "n'ọsọ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nke mkpụrụ obi m"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ọ wee bụrụ"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "ihe mkparị"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:30.687270659Z",
+  "model": "glm-5.3"
+}

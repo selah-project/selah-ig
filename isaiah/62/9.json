@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 62,
+  "translation": "N'ihi na ndị na-achịkọta ya ga-eri ya, ma ha ga-etoo ⟨את⟩ Yahwe; ndị na-ewerekọta ya ga-aṅụ ya n'ogige nsọ m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "ndị na-achịkọta ya"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ga-eri ya"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "ma ha ga-etoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "ndị na-ewerekọta ya"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "ga-aṅụ ya"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "n'ogige"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "nsọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T11:08:00.181356195Z",
+  "model": "glm-5.3"
+}

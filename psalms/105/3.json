@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Haalụ onwe unu n'aha nsọ Ya; obi ndị na-achọ Yahwe ga-akwa ụtọ.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Haalụ onwe unu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "n'aha"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nsọ Ya"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ga-akwa ụtọ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ndị na-achọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:40.801966088Z",
+  "model": "glm-5.3"
+}

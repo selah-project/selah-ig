@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Onye ọjọọ na-ege ntị na mọdụ ọjọọ; onye asị na-atụtụ ntị na asụsụ mbibi.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "onye ọjọọ"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "na-ege ntị"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "mọdụ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "onye asị"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "na-atụtụ ntị"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "asụsụ"
+    },
+    {
+      "surface": "הות",
+      "gloss": "mbibi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:25:01.701295725Z",
+  "model": "glm-5.3"
+}

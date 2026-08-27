@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 135,
+  "translation": "ndị na-eguzo n'ụlọ Yahwe, n'ogige ụlọ Elohim anyị.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "ndị na-eguzo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "n'ogige"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:54.458674993Z",
+  "model": "glm-5.3"
+}

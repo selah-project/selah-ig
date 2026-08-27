@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "David na ndị ahụ ⟨nọ⟩ ya welitere ⟨את⟩ olu ha, ha na-ebe ákwá, ruo mgbe enweghị ike fọdụrụ n'ime ha ịna-ebe ákwá.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ọ welitere"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "na ndị ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nọ ya",
+      "marks": "ya (David)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olu ha"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "olu ha"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ha na-ebe ákwá"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'ime ha"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ike"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ịna-ebe ákwá"
+    }
+  ],
+  "timestamp": "2026-08-27T09:26:00.699864555Z",
+  "model": "glm-5.3"
+}

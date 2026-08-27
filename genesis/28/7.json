@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "nakwa na Yaakov nụrụ okwu nna ya na nne ya, wee gaa Padan-Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nụrụ okwu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na nke"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nne ya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wee gaa"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-27T05:43:39.016535526Z",
+  "model": "glm-5.3"
+}

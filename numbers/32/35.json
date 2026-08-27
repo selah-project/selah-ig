@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "na ⟨את⟩ Ataroth-Shophan, na ⟨את⟩ Yaazer, na Yogbeha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ataroth-Shophan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Ataroth"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Shophan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yaazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "na Yogbeha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:43:29.622089946Z",
+  "model": "glm-5.3"
+}

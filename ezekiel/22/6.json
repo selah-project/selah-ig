@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 22:6",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Lee, ndị isi ndị Yisrael, onye ọ bụla site n'ike ya, nọ na gị ijiwụsa ọbara.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lee"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ndị Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "site n'ike ya"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nọ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na gị"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iji"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "wụsa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ọbara"
+    }
+  ],
+  "timestamp": "2026-08-27T12:12:37.332109389Z",
+  "model": "glm-5.3"
+}

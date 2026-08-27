@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 27:11",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Bụrụ onye ọka mmụta, nwa m, ka obi m wee ṅụrịịa, m wee nyeghachi onye na-akparị m okwu azịza.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "bụrụ onye ọka mmụta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "ka ... ṅụrịịa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "m wee nyeghachi ... azịza"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "onye na-akparị m"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:31:05.375350194Z",
+  "model": "glm-5.3"
+}

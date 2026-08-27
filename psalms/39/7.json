@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Naanị n'onyinyo ka nwoke na-aga; naanị mgbagwoju ihe efu ka ha na-eme; ọ na-akpokọta akụ na ọ maghị onye ga-akpokọta ha.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "n'onyinyo"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "אך",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ihe efu"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ha na-eme mgbagwoju"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "na-akpokọta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ maghị"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mara"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "ga-akpokọta ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:13.037951711Z",
+  "model": "glm-5.3"
+}

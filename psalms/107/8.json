@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ka ha kelee Yahwe maka chesed ya, na ihe ihe-ebube ya maka ụmụ mmadụ.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ka ha kelee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "maka chesed ya"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "na ihe ihe-ebube ya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "maka ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:19.760007199Z",
+  "model": "glm-5.3"
+}

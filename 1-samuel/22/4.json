@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ọ duru ha ⟨את⟩ n'ihu eze Moav, ha wee nọrọ ya ụbọchị niile Dawid nọ n'obí ike.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ọ duru ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihu eze Moav"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ha nọrọ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ọ nọ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "n'obí ike"
+    }
+  ],
+  "timestamp": "2026-08-27T09:22:17.917416837Z",
+  "model": "glm-5.3"
+}

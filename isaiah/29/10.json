@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "N'ihi na Yahwe wụsara n'elu unu mmụọ nke ụra miri emi, ma mechie ⟨את⟩ anya unu — ⟨את⟩ ndị amụma, na ⟨את⟩ isi unu, ndị na-ahụ anya, o kpuchiri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "wụsara"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "n'elu unu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mmụọ"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "nke ụra miri emi"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "ma mechie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anya unu"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "anya unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị amụma"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ndị amụma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isi unu"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "isi unu"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "ndị na-ahụ anya"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "o kpuchiri"
+    }
+  ],
+  "timestamp": "2026-08-27T10:50:24.248780759Z",
+  "model": "glm-5.3"
+}

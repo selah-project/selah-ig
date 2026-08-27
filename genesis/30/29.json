@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ọ sịrị ya: Ị mara ⟨את⟩ ihe m jere gị ozi, na ⟨את⟩ ihe ñkata gị bụ ⟨את⟩ n'aka m.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ọ sịrị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe m jere gị ozi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "m jere gị ozi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihe ñkata gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "ñkata gị"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ n'aka m"
+    }
+  ],
+  "timestamp": "2026-08-27T05:48:39.011262544Z",
+  "model": "glm-5.3"
+}

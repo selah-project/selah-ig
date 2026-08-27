@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "M nwekwara obi dịka nke unu; adịghị m mfe karịa unu; mana ⟨את⟩ onye nke ihe ndị a na-adịghị?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "M nwekwara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "dịka nke unu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "mfe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "karịa unu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onye"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "אין",
+      "gloss": "na-adịghị"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "(dịka)"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ihe ndị a"
+    }
+  ],
+  "timestamp": "2026-08-27T14:42:15.102442095Z",
+  "model": "glm-5.3"
+}

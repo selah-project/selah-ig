@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ndị okenye nke obodo ahụ ga-ewere ⟨את⟩ nwoke ahụ, ha ga-atịpịa ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ha ga-ewere"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "nke obodo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwoke ahụ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke ahụ"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ha ga-atịpịa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (nwoke ahụ)"
+    }
+  ],
+  "timestamp": "2026-08-27T08:08:24.209128186Z",
+  "model": "glm-5.3"
+}

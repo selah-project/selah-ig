@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Okwu nke Yeshaayahụ, nwa Amotz, hụrụ banyere Yehuda na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Okwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaayahụ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotz"
+    },
+    {
+      "surface": "על",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T10:33:37.318296242Z",
+  "model": "glm-5.3"
+}

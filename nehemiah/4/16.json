@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 4:16",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "N'oge ahụkwa, m gwara ndị mmadụ ka onye ọ bụla na ohu ya nọrọ abalị n'etiti Yerushalayim, ka abalị bụrụ nchebe anyị, nde ụbọchị bụrụ ọrụ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "m gwara"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "ונערו",
+      "gloss": "na ohu ya"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "ka ha nọrọ abalị"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ka ha bụrụ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "abalị"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "nchebe"
+    },
+    {
+      "surface": "והיום",
+      "gloss": "nde ụbọchị"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ọrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:41:57.236536726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Mpako nke Yisrael ga-aza n'ihu ⟨ya⟩; Yisrael na Efrayim ga-adaba n'ọjọ ha; Juda Ọ bụ ezie na ọ dịkwara adaba ha.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ga-aza"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "Mpako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "n'ihu ⟨ya⟩"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "na Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ga-adaba"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "n'ọjọ ha"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "Ọ dịkwara adaba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Ọ bụ ezie na"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:39:17.981879564Z",
+  "model": "glm-5.3"
+}

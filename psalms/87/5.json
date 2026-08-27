@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 87,
+  "translation": "Ma banyere Tsiyon, a ga-ekwu na nwoke a na nwoke ọzọ amụrụ na ya; ma Elyon n'onwe ya ga-edozi ya.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "ma banyere Tsiyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a ga-ekwu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke a"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ma nwoke ọzọ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "amụrụ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma ya n'onwe ya"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ga-edozi ya"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:04.593821166Z",
+  "model": "glm-5.3"
+}

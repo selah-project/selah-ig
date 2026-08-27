@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ọ gaghị adị onye na-amụ n'ụzọ ọjọọ ma ọ bụ onye na-enweghị mkpụrụ n'ala gị; ⟨את⟩ ọnụ ọgụgụ ụbọchị gị ka m ga-eju.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "adị"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "onye na-amụ n'ụzọ ọjọọ"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ma ọ bụ onye na-enweghị mkpụrụ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "n'ala gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọnụ ọgụgụ ụbọchị gị"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ọnụ ọgụgụ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ụbọchị gị"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "ka m ga-eju"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:21.987367503Z",
+  "model": "glm-5.3"
+}

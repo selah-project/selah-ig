@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Yahwe ga-abụ onye ọkaikpe, ọ ga-ekpe ikpe n'etiti m na gị, ọ ga-ahụ, ọ ga-alụ ⟨את⟩ ọgụ m, ọ ga-ekpe ikpe maka m n'aka gị.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "onye ọkaikpe"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ọ ga-ekpe ikpe"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "n'etiti m"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "na gị"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ọ ga-ahụ"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ọ ga-alụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgụ m"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ọgụ m"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "ọ ga-ekpe ikpe maka m"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "n'aka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:18:23.763367823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma ụmụ Gomer: Ashkenaz, Rifat na Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ma ụmụ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "Togarma"
+    }
+  ],
+  "timestamp": "2026-08-27T05:28:49.646654695Z",
+  "model": "glm-5.3"
+}

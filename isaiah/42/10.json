@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Bụrụ Yahwe abụ ọhụrụ, otuto ya site ná njedebe nke ⟨ụwa⟩; ndị na-alọghachi n'ime oké osimiri na ihe jupụtara na ya, àgwàetiti na ndị bi na ha.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Bụrụ abụ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ọhụrụ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "otuto ya"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "site ná njedebe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ⟨ụwa⟩"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ndị na-alọghachi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "n'ime oké osimiri"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "na ihe jupụtara na ya"
+    },
+    {
+      "surface": "איים",
+      "gloss": "àgwàetiti"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "na ndị bi na ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:56:42.331505213Z",
+  "model": "glm-5.3"
+}

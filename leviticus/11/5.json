@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ shafan, n'ihi na ọ na-eweta azu-gụọ, ma ụkwụ-gburugburu ọ na-ekewaghị; ọ dị iru ruo gị.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shafan"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "shafan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "na-eweta"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "azu-gụọ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ma ụkwụ-gburugburu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ na-ekewaghị"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "na-ekewaghị"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ọ dị iru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ruo gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:03.892802284Z",
+  "model": "glm-5.3"
+}

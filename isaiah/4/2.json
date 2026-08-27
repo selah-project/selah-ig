@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "N'ụbọchị ahụ, Tsemach nke Yahwe ⟨ga⟩-adị maka ọchịchọ na maka nsọpụrụ, ma mkpụrụ nke ⟨ala⟩ adị maka imeglarị na maka ùgwù, maka ndị a zọpụtara na Yisrael.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "Tsemach (mkpụrụ na-apụta)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "maka ọchịchọ"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "na maka nsọpụrụ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ma mkpụrụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ala"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "maka imeglarị"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "na maka ùgwù"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "maka ndị a zọpụtara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T10:36:13.467783486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Davịd gọziri ⟨את⟩ Yahwe n'ihu nzukọ ahụ dum, ma Davịd kwuru, sị: “Gọziri-gọziri gị, Yahwe, Elohim nke Israẹl, nna anyị, site n'ebighị-ebi ruo n'ebighị-ebi.”",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "gọziri"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dum"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "nzukọ ahụ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma kwuru"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "gọziri-gọziri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israẹl"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "nna anyị"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "site n'ebighị-ebi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "n'ebighị-ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T16:06:28.341749455Z",
+  "model": "glm-5.3"
+}

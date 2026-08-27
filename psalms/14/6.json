@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Atụla aka mkpọ nke onye ogbenye ⟨n'ụzọ ihere⟩, n'ihi na Yahwe ⟨is⟩ mgbaba ya.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "atụla aka"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nke onye ogbenye"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "⟨n'ụzọ ihere⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "mgbaba ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:24.742620179Z",
+  "model": "glm-5.3"
+}

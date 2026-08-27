@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ram mụrụ ⟨את⟩ Aminadab; Aminadab wee mụọ ⟨את⟩ Nachshon, onye-isi ụmụ Yehudah.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "onye-isi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-27T15:50:57.124949138Z",
+  "model": "glm-5.3"
+}

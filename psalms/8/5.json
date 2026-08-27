@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Gịnị ka mmadụ (nke nwụrụ anwụ) bụ, na Ị na-echeta ya? na nwa nke Adam, na Ị na-eleta ya?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Gịnị ka"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mmadụ (nke nwụrụ anwụ)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "Ị na-echeta ya"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na nwa nke"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "Ị na-eleta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:34.324840738Z",
+  "model": "glm-5.3"
+}

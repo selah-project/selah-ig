@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 13:15",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ndị ikom Yehuda tiere mkpu agha; ka ndị ikom Yehuda na-eti mkpu, Elohim kụdara ⟨את⟩ Yarovam na ⟨את⟩ Israel niile n'ihu Aviyah na Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויריעו",
+      "gloss": "tiere mkpu agha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "בהריע",
+      "gloss": "ka ha na-eti mkpu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "kụdara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarovam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyah"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-27T16:12:42.155976603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ma ị ga-edo ⟨את⟩ okporo ogige ahụ gburugburu, ma tinye ⟨את⟩ ákwà mkpuchi nke ọnụ ụzọ okporo ogige ahụ.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ma ị ga-edo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okporo ogige ahụ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "okporo ogige ahụ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ákwà mkpuchi nke ọnụ ụzọ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ákwà mkpuchi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "nke ọnụ ụzọ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "nke okporo ogige ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:01.141460900Z",
+  "model": "glm-5.3"
+}

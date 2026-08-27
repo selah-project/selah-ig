@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 146,
+  "translation": "Ekwela ịtụkwasị ndị isi obi, n'aka nwa Adam bụ onye enweghị nzọpụta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ekwela"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ịtụkwasị"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "n'aka ndị isi obi"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "n'aka nwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "bụ onye enweghị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "nzọpụta"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:32.901536601Z",
+  "model": "glm-5.3"
+}

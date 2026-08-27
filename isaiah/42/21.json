@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Yahwe chọrọ, maka ezi-okwu ya, ime ka Torah bụrụ ihe ukwu ma mee ya ka ọ bụrụ ihe a na-asọpụrụ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chọrọ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "maka"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ezi-okwu ya"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "ime ka ... bụrụ ihe ukwu"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "ma mee ya ka ọ bụrụ ihe a na-asọpụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:57:46.303502814Z",
+  "model": "glm-5.3"
+}

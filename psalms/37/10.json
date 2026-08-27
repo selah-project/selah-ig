@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ma obere oge ka ọ ga-adị, onye ajọ omume agaghị adị; ị ga-ele ebe ọ nọ, ma ọ nweghịzi.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ma ka ọzọ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "obere oge"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma ọ nweghị"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ajọ omume"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ị ga-elecha"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ebe ọ nọ"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ọ nweghịzi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:30.435102343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 53,
+  "translation": "N'ezie, ọrịa anyị ka ọ buuru, mwute anyị ka ọ na-ebu; mana anyị lelere ya dịka one e kụrụ, one Elohim kụrụ, ma tụọ ya mkpọ.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "ọrịa anyị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "buuru"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "mwute anyị"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "na-ebu"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "mana anyị"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "lelere ya dịka"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "one e kụrụ"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "kụrụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "tụọ ya mkpọ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:04:43.087018475Z",
+  "model": "glm-5.3"
+}

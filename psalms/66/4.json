@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 66,
+  "translation": "Ụwa niile ga-atụ gbadaa nye gị, ma ga-akụọ ⟨akpọ⟩ nye gị; ha ga-akụọ ⟨akpọ⟩ aha gị. Sela.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ga-atụ gbadaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nye gị"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ma ga-akụọ ⟨akpọ⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nye gị"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ha ga-akụọ ⟨akpọ⟩"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:53.579753279Z",
+  "model": "glm-5.3"
+}

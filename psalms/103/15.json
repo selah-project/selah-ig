@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "Mmadụ — ụbọchị ya dị ka ahịhịa; dịka okooko osisi nke ubi, otu a ọ na-ama okooko.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "dị ka ahịhịa"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ụbọchị ya"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "dịka okooko osisi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "nke ubi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "na-ama okooko"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:42.982918268Z",
+  "model": "glm-5.3"
+}

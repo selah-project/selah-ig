@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 61,
+  "translation": "Ị ga-agbakwụnye ụbọchị n'elu ụbọchị eze, afọ ya ga-adị ka ọgbọ na ọgbọ.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "Ị ga-agbakwụnye"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "afọ ya"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na ọgbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:05.824509078Z",
+  "model": "glm-5.3"
+}

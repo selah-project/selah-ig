@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Yehoshua bilitere n'ụtụtụ, ndị nna-ụka burokwa ⟨את⟩ arkw Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bilitere n'ụtụtụ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "burokwara"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nna-ụka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkw Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T08:21:15.525305091Z",
+  "model": "glm-5.3"
+}

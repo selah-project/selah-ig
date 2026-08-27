@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 131,
+  "translation": "Ka Izrel chere Yahwe nche site ugbu a ruo ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "ka ... chere nche"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "site ugbu a"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:03.994288157Z",
+  "model": "glm-5.3"
+}

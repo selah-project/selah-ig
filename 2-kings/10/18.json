@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Yehu kpọkọtara ⟨את⟩ ndị niile, wee sị ha, Achav jere ozi ⟨את⟩ Baal nke ụfọdụ, Yehu ga-ejere ya ozi nke ukwuu.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "kpọkọtara"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "jere ozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "nke ụfọdụ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "ga-ejere ya ozi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nke ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:17:41.070187910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "N'aka Gị ka m na-atụkwasị mmụọ m obi; Ị zọpụtara ⟨את⟩ m, Yahwe, El nke eziokwu.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "N'aka Gị"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "ka m na-atụkwasị obi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mmụọ m"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "Ị zọpụtara"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nke eziokwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:54.138112412Z",
+  "model": "glm-5.3"
+}

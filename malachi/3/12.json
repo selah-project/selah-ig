@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma mba ndị niile ga-akpọ ⟨את⟩ unu ndị mma, n'ihi na unu bụ ala na-atọ ụtọ, ka Yahwe nke ndị agha kwuru.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "ma ha ga-akpọ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "unu ga-abụ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "na-atọ ụtọ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka o kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:12:31.132527915Z",
+  "model": "glm-5.3"
+}

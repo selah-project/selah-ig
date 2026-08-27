@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Nwa okorobịa ahụ, nwa okorobịa onye amụma ahụ, gara Ramot-Gilad.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nwa okorobịa ahụ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nwa okorobịa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "onye amụma ahụ"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-27T10:17:22.937247259Z",
+  "model": "glm-5.3"
+}

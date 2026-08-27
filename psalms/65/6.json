@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 65:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "Site n'ihe ndị na-atụ egwu, n'ziri ezi, ị ga-aza anyị, Elohim nke nzọpụta anyị, ⟨Onke bụ⟩ nchekwube nke nsọtụ ⟨elu uwa⟩ niile, na nke oké osimiri ndị dị anya.",
+  "tokens": [
+    {
+      "surface": "נוראות",
+      "gloss": "site n'ihe ndị na-atụ egwu"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "n'ziri ezi"
+    },
+    {
+      "surface": "תעננו",
+      "gloss": "ị ga-aza anyị"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "nke nzọpụta anyị"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "nchekwube"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "nke nsọtụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "וים",
+      "gloss": "na nke oké osimiri"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "ndị dị anya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:54.220633647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Atụmatụ nke onye siri ike abụghị ihe ọzọ karịa naanị ihe karịrị; ma nke onye ọ bụla na-eme ngwa ngwa abụghị ihe ọzọ karịa naanị ụkọ.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "atụmatụ"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "onye siri ike"
+    },
+    {
+      "surface": "אך",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "na ihe karịrị"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma nke onye ọ bụla"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "na-eme ngwa ngwa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "na ụkọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:26:43.965348062Z",
+  "model": "glm-5.3"
+}

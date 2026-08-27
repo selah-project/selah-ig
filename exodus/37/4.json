@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ọ mere kwụm osisi shittim, ma kpuchie ⟨את⟩ ha ọlaedo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ọ mere"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "kwụm"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ma kpuchie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:35.356429774Z",
+  "model": "glm-5.3"
+}

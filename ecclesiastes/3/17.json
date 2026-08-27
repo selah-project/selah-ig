@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "M kwuru n'obi m: Elohim ga-ekpe ⟨את⟩ nke ziri ezi na ⟨את⟩ onye ajọ ikpe, n'ihi na e nwere ⟨the⟩ oge maka ọchịchọ ọ bụla, na maka ọrụ niile n'ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "n'obi m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nke ziri ezi"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "nke ziri ezi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onye ajọ ikpe"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "onye ajọ ikpe"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ga-ekpe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ọchịchọ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na maka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:13:40.133254330Z",
+  "model": "glm-5.3"
+}

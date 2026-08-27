@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Moshe na Aharon kwuru nye ụmụ Yisrael niile: N'ụtụtụ anyanwụ darị, unu ga-amara na Yahwe bụ onye kpọgọrọ unu ⟨את⟩ pụọ n'ala Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ kwuru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "n'ụtụtụ anyanwụ darị"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "unu ga-amara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ọ kpọgọrọ pụọ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:22:23.750610409Z",
+  "model": "glm-5.3"
+}

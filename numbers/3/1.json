@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma ndị a bụ nzụlite Aharon na Moshe, n'ụbọchị Yahwe sụrụ ⟨את⟩ Moshe okwu n'Ugwwu Sinai.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ma ndị a"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nzụlite"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "na Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sụrụ okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'Ugwwu"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-27T07:13:34.687512095Z",
+  "model": "glm-5.3"
+}

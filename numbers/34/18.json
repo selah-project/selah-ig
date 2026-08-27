@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Unu ga-ewere onye-isi otu — onye-isi otu — maka ebo nke ọ bụla, iji ketaa ⟨את⟩ ala ahụ.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "onye-isi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "onye-isi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "maka ebo nke ọ bụla"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "Unu ga-ewere"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "iji ketaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ahụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:45:40.954411051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Yahwe ruru uju na ⟨ס grief omitted⟩ o mebere ⟨את⟩ mmadụ n'ụwa, o wee nweta mwute n'obi ya.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ruo uju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "omebere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmadụ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "nwetara mwute"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "obi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:27:37.963110798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Osimiri ya ga-atụgharị bụrụ fịtịlà, na uzuzu ya bụrụ svafụ; ala ya ga-abụ fịtịlà na-ere ọkụ.",
+  "tokens": [
+    {
+      "surface": "וְנֶהֶפְכוּ",
+      "gloss": "ga-atụgharị"
+    },
+    {
+      "surface": "נְחָלֶיהָ",
+      "gloss": "osimiri ya"
+    },
+    {
+      "surface": "לְזֶפֶת",
+      "gloss": "bụrụ fịtịlà"
+    },
+    {
+      "surface": "וַעֲפָרָהּ",
+      "gloss": "na uzuzu ya"
+    },
+    {
+      "surface": "לְגָפְרִית",
+      "gloss": "bụrụ svafụ"
+    },
+    {
+      "surface": "וְהָיְתָה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "אַרְצָהּ",
+      "gloss": "ala ya"
+    },
+    {
+      "surface": "לְזֶפֶת",
+      "gloss": "bụ fịtịlà"
+    },
+    {
+      "surface": "בֹּעֵרָה",
+      "gloss": "na-ere ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:53:24.564820146Z",
+  "model": "glm-5.3"
+}

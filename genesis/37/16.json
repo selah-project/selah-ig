@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ọ wee sọ: M na-achọ ⟨את⟩ ụmụnne m; gwazị m, biko, ebe ha nọ na-azụ anụ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụnne m"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ụmụnne m"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "gwazị"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "na-azụ anụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:52:43.854338642Z",
+  "model": "glm-5.3"
+}

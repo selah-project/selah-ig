@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Ike nke ihe iju-anya ⟨gị⟩ ha ga-ekwu, na ukwu ⟨gị⟩ m ga-akọwapụta.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "ike"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "nke ihe iju-anya ⟨gị⟩"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ha ga-ekwu"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "na ukwu ⟨gị⟩"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "m ga-akọwapụta"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:08.735828294Z",
+  "model": "glm-5.3"
+}

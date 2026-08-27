@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ ndị na-atụ aka n'elu ụlọ ha n'efe ndị agha nke eluigwe, na ⟨את⟩ ndị na-atụ aka, ndị na-iyi iyi site na Yahwe, ma na-iyi iyi site na Malkam;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị na-atụ aka"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ndị na-atụ aka"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "ụlọ ha"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "n'efe ndị agha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị na-atụ aka"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ndị na-atụ aka"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "ndị na-iyi iyi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "site na Yahwe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "ma na-iyi iyi"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "site na Malkam"
+    }
+  ],
+  "timestamp": "2026-08-27T16:46:37.340975186Z",
+  "model": "glm-5.3"
+}

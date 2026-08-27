@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Ma chesed m, ịhụnanya ọgbụgba-ndụ m, agaghị m ewepụ ya n'aka ya, ma agaghị m agba ụgha n'ịzịọrọ m.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "ma chesed m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "ewepụ"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma agaghị"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "agba ụgha"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "n'ịzịọrọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:40.347581403Z",
+  "model": "glm-5.3"
+}

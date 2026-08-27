@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Were ram nke abụọ, Aharon na ụmụ ya ga-etinye ⟨את⟩ aka ha n'isi ram ahụ.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ram nke abụọ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ram"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "ga-etinye"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka ha"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "aka ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ram ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:40.827290785Z",
+  "model": "glm-5.3"
+}

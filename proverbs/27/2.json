@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Onye ọzọ ga-eto gị, ọ bụghị ọnụ gị; onye mba ọzọ, ọ bụghị mkpịrị ọnụ gị.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "ga-eto gị"
+    },
+    {
+      "surface": "זר",
+      "gloss": "onye ọzọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ọnụ gị"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "onye mba ọzọ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ọ dịla"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "mkpịrị ọnụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:31:24.989695356Z",
+  "model": "glm-5.3"
+}

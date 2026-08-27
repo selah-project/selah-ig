@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Yahwe wee soro Moshe na Aharon okwu, na-asị:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee soro okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:08:11.144014678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Yahwe wee sị Moshe: Le, m tinyere gị dịka Elohim nye Pharaoh, na Aharon nwanne gị ga-abụ onye-amụma gị.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sị"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "m tinyere gị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dịka Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "nye Pharaoh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "onye-amụma gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:01.745788893Z",
+  "model": "glm-5.3"
+}

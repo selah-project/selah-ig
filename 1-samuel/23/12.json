@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Daivid wee sị: Ọ̀ ga-atụ ⟨את⟩ m na ⟨את⟩ ndị ikom m n'aka Shaul ndị nwe Keila? Yahwe wee sị: Ha ga-ata ha n'aka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Daivid wee sị"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daivid"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Ọ̀ ga-atụ"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ndị nwe"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ikom m"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ndị ikom m"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Yahwe wee sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Ha ga-ata ha n'aka"
+    }
+  ],
+  "timestamp": "2026-08-27T09:18:39.405760443Z",
+  "model": "glm-5.3"
+}

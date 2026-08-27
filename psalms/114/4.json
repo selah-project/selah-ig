@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 114,
+  "translation": "Ugwu ndị ahụ gbara egwu dịka ndị atụrụ rọba, ugwu ntakịrị dịka ụmụ atụrụ.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ugwu ndị"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "gbara egwu"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "dịka ndị atụrụ rọba"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ugwu ntakịrị"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "dịka ụmụ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "atụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:19.597692522Z",
+  "model": "glm-5.3"
+}

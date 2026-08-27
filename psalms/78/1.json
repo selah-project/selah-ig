@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Abụ ịkụziri, nke Asaph dere. Ntị anyị gha chiri, ndị m, maka iwu m; tụgharịa ntị gị n'okwu ọnụ m.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "abụ ịkụziri"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "nke Asaph dere"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ntị anyị gha chiri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "tụgharịa"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "ntị gị"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "n'okwu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:34.071456155Z",
+  "model": "glm-5.3"
+}

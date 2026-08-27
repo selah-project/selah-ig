@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ma ndị a bụ ụmụ Shobal: Alvan, na Manachat, na Eval, Shefo, na Onam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ma ndị a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shobal"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "Alvan"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "na Manachat"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "na Eval"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "Shefo"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "na Onam"
+    }
+  ],
+  "timestamp": "2026-08-27T05:52:26.067413455Z",
+  "model": "glm-5.3"
+}

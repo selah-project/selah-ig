@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Eluigwe bụ nke gị; ụwa bụkwa nke gị; ụwa na ihe jupụtara na ya — Gị ⟨ha⟩ ntọala ha.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "bụ nke gị"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bụkwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bụ nke gị"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ụwa (a kpọrọ mmadụ)"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "na ihe jupụtara na ya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Gị"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "⟨ha⟩ ntọala ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:20.307063771Z",
+  "model": "glm-5.3"
+}

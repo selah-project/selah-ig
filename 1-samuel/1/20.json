@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ bịara, mgbe ụbọchị ntụgharị gasịrị, Hana tụrụ ime, mụrụ nwa nwoke, wee kpọọ ⟨את⟩ aha ya Shmuel, n'ihi na site na Yahwe ka m rịọrọ ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bịara"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "mgbe ntụgharị"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "o tụrụ ime"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o mụrụ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwerke"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "o kpọrọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "site na Yahwe"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "m rịọrọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:00:27.336303726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 42:35",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "O mere, ha ka na-atụfu akpa ha, ṅụrịa, akpa ọcha nke nwoke ọ bụla n'ime akpa ya; ha wee hụ ⟨את⟩ akpa ọcha ha, ha na nna ha, ha wee tụọ egwu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מריקים",
+      "gloss": "na-atụfu"
+    },
+    {
+      "surface": "שקיהם",
+      "gloss": "akpa ha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ṅụrịa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke ọ bụla"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "akpa"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ọcha ya"
+    },
+    {
+      "surface": "בשקו",
+      "gloss": "n'akpa ya"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ha wee hụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akpa ọcha ha"
+    },
+    {
+      "surface": "צררות",
+      "gloss": "akpa"
+    },
+    {
+      "surface": "כספיהם",
+      "gloss": "ọcha ha"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ואביהם",
+      "gloss": "na nna ha"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ha wee tụọ egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:58:19.256223691Z",
+  "model": "glm-5.3"
+}

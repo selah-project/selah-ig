@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma onye na-achị ndị agha nke agbụrụ ụmụ Gad bụ Elyasaf nwa Deuel.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ma onye na-achị"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "agbụrụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Elyasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuel"
+    }
+  ],
+  "timestamp": "2026-08-27T07:19:48.971088651Z",
+  "model": "glm-5.3"
+}

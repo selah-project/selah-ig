@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 100,
+  "translation": "N'ihi na Yahwe ⟨is⟩ onye dị mma; ịhụnanya ọgbụgba-ndụ ya na-adị ruo mgbe ebighị ebi, na eziokwu ya ruo ọgbọ na ọgbọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ịhụnanya ọgbụgba-ndụ ya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na ruo"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na ọgbọ"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "eziokwu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:29.376805898Z",
+  "model": "glm-5.3"
+}

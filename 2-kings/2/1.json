@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ọ dịkwa n'oge Yahwe na-ewere ⟨את⟩ Eliyahu n'oké-ifufe eluigwe, ka Eliyahu na Elisha malitere ịga site na HaGilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dịkwa"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "n'oge ọ na-ewere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "n'oké-ifufe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka ọ malitere ịga"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "na Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "HaGilgal"
+    }
+  ],
+  "timestamp": "2026-08-27T10:11:33.946924157Z",
+  "model": "glm-5.3"
+}

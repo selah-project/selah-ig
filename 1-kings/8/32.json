@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "ma ị ga-anụ n'eluigwe, ma mee, ma kpee ⟨את⟩ ohere gị ikpe — ịkwapụta onye ọjọọ na ọ na-emehie, iji weghachi ụzọ ya n'isi ya, na ịkwapụta onye ziri ezi na ọ ziri ezi, iji nye ya dịka ezi omume ya.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma ị"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ga-anụ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "ma kpee ikpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohere gị"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ohere gị"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "ịkwapụta na ọ na-emehie"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ọjọọ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "iji nyeghachi"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ụzọ ya"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "n'isi ya"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "na ịkwapụta na ọ ziri ezi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ziri ezi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "iji nye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "dịka ezi omume ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:36:21.497769018Z",
+  "model": "glm-5.3"
+}

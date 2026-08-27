@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Yahwe, n'ọnọdụ ọchịchị gị, i na-edozi ⟨את⟩ ugwu m ⟨dịka⟩ ike; zoro ⟨את⟩ ihu gị, amụbaam ahụ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "n'ọnọdụ ọchịchị gị"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "i na-edozi"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "⟨את⟩ ugwu m"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ike"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "zoro"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨את⟩ ihu gị"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "amụbaam"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:29.426868262Z",
+  "model": "glm-5.3"
+}

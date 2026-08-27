@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Na n'ụtụtụ, unu ga-ahụ ⟨את⟩ otuto Yahwe, mgbe ọ nụrụ ⟨את⟩ mkpesa unu megide Yahwe; anyị bụkwa gịnị, ka unu na-eme mkpesa megide anyị?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "na n'ụtụtụ"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "unu ga-ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otuto Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "otuto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "mgbe ọ nụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpesa unu"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "mkpesa unu"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ווחנו",
+      "gloss": "anyị bụkwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "unu na-eme mkpesa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "megide anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:22:23.750778618Z",
+  "model": "glm-5.3"
+}

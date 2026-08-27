@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 137,
+  "translation": "Kedu ka anyị ga-esi bụọ ⟨את⟩ abụ Yahwe n'ala mba ọzọ?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "kedu ka anyị ga-esi"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "bụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abụ Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ala"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "mba ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:05.185506345Z",
+  "model": "glm-5.3"
+}

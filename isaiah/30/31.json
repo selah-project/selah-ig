@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "N'ihi na site n'olu Yahwe, Ashur ga-adaba; site na mkpa ka a ga-akụ ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "site n'olu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ga-adaba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "site na mkpa"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ka a ga-akụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:51:35.276238970Z",
+  "model": "glm-5.3"
+}

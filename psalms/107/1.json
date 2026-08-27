@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Kelee Yahwe, n'ihi na ⟨ọ⟩ dị mma, n'ihi na ruo mgbe ebighị ebi chesed Ya.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Kelee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:33.684266331Z",
+  "model": "glm-5.3"
+}

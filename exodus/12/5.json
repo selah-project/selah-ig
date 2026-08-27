@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Atụrụ na-enweghị nkwarụ, nwoke, nwa afọ otu, ka ọ ga-adị maka unu; site n'atụrụ ma ọ bụ site n'ewu ka unu ga-ewere ya.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "na-enweghị nkwarụ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka ọ ga-adị"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka unu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ma ọ bụ site na"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ewu"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "unu ga-ewere"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:48.123466998Z",
+  "model": "glm-5.3"
+}

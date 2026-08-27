@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 3:7",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ndị na-ahụ ọhụụ ga-enwe ihere, na ndị na-agba afa ga-enwe nsogbu; ha niile ga-ekpuchi ntì ọnụ ha, n'ihi na ọ dịghị azịza nke Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "ga-enwe ihere"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "ndị na-ahụ ọhụụ"
+    },
+    {
+      "surface": "וחפרו",
+      "gloss": "ga-enwe nsogbu"
+    },
+    {
+      "surface": "הקסמים",
+      "gloss": "ndị na-agba afa"
+    },
+    {
+      "surface": "ועטו",
+      "gloss": "ga-ekpuchi"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "ọnụ ha"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "azịza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T12:53:16.685635950Z",
+  "model": "glm-5.3"
+}

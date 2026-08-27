@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Unu ekwela isi amara aha m n'ụgha, ka ị ghara ime ka aha Elohim gị ruo nsi; m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "isi amara"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "aha m"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "n'ụgha"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "ka ị ghara ime ka ọ ruo nsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nke Elohim gị"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:59:03.142155569Z",
+  "model": "glm-5.3"
+}

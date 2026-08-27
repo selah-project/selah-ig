@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Onye ogbenye, enyeghi ya ùgwù n'okwu ikpe ya.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "ma onye ogbenye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enyeghi"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ùgwù"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "n'okwu ikpe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:24:47.696392712Z",
+  "model": "glm-5.3"
+}

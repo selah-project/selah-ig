@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Okwu eze wee siri ike megide Yoab na megide ndị-isi ndị agha; Yoab na ndị-isi ndị agha pụkwara n'ihu eze, iji gụọ ⟨את⟩ ndị ahụ, ⟨את⟩ Izrel.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "megide"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na megide"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị-isi"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "pụkwara"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na ndị-isi"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "iji gụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    }
+  ],
+  "timestamp": "2026-08-27T09:50:19.426077853Z",
+  "model": "glm-5.3"
+}

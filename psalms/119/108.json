@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Biko nabata onyinye afọọ nke ọnụ m, Yahwe, ma kụziere m ikpe gị.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "onyinye afọọ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "nke ọnụ m"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "nabata"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "ma ikpe gị"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "kụziere m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:00.053321965Z",
+  "model": "glm-5.3"
+}

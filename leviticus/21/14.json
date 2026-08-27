@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Nwanyị di ya nwụrụ, nwanyị e gbara alụkwaghịm, nwanyị ruru unyo, akwụna — ⟨את⟩ ndị a ka ọ ga-ahụ na ọ naghị ewe; kama nwa agbọghọ amaghị nwoke n'etiti ndi ya ka ọ ga-ewe dịka nwunye.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "nwanyị di ya nwụrụ"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "nwanyị e gbara alụkwaghịm"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "nwanyị ruru unyo"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "akwụna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị a"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na ọ naghị ewe"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ga-ewe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "nwa agbọghọ amaghị nwoke"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "n'etiti ndi ya"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ga-ewe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "dịka nwunye"
+    }
+  ],
+  "timestamp": "2026-08-27T07:00:20.703953723Z",
+  "model": "glm-5.3"
+}

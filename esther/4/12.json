@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ha wee kọọrụ Mordekai ⟨את⟩ okwu Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "ha kọọrọ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "nke Ester"
+    }
+  ],
+  "timestamp": "2026-08-27T15:18:53.378722493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "O nyekwara ⟨את⟩ onye mbụ iwu, ka ọ kwuo: Mgbe Esav, nwanne m, ga-ezute gị, ma jụọ gị, na-asị: Onye kị bụ? Ma gị na-aga ebe ole? Ma onye bụ ndị a n'ihu gị?",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "o nyekwara iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye mbụ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "onye mbụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ọ kwuo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "ga-ezute gị"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nwanne m"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "ma jụọ gị"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "למי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ma ebe ole"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ị na-aga"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "ma onye"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:49:18.147815818Z",
+  "model": "glm-5.3"
+}

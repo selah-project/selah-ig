@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "O wee nye ya ⟨את⟩ Bilhah, odibo ya, dị ka nwunye; Yaakov wee banye ya.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "O wee nye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhah"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhah"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "odibo ya"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dị ka nwunye"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wee banye"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-27T05:45:07.919841748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 75,
+  "translation": "Ma mụ onwe m, m ga-ekwupụta ruo mgbe ebighị ebi; m ga-abụ abụ otuto nye Elohim nke Yaakov.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma mụ onwe m"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "m ga-ekwupụta"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "m ga-abụ abụ otuto"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "nye Elohim nke"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:26.343834118Z",
+  "model": "glm-5.3"
+}

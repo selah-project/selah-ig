@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 123,
+  "translation": "Le, dịka anya nke ndị ohu na-ele aka nke ndị nwe ha, dịka anya nke odibo nwanyị na-ele aka nke nwanyị nwe ya, otú a ka anya anyị na-ele Yahwe, Elohim anyị, ruo mgbe ọ ga-amere anyị ebere.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "dịka anya nke"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ndị ohu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na-ele"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "nke ndị nwe ha"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "dịka anya nke"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "odibo nwanyị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na-ele"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "nke nwanyị nwe ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otú a"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "anya anyị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na-ele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "ọ ga-amere anyị ebere"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:37.833848344Z",
+  "model": "glm-5.3"
+}

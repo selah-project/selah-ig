@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 13:20",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ndị ahịa na ndị na-ere ihe a na-ere nile nọrọ n'èzí Yerushalayim otu ugboro ma ọ bụ ugboro abụọ.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "nọrọ"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "ndị ahịa"
+    },
+    {
+      "surface": "ומכרי",
+      "gloss": "ndị na-ere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nile"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "ihe a na-ere"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "n'èzí"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "otu ugboro"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ma ọ bụ ugboro abụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:51:57.332569525Z",
+  "model": "glm-5.3"
+}

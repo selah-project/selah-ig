@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Kajin wee mata ⟨את⟩ nwunye ya, ọ tụrụ ime, ma mụọ ⟨את⟩ Chanok; ọ na-ewu obodo, wee kpọọ aha obodo ahụ dịka aha nwa ya Chanok.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "mata"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwunye ya"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwunye ya"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "tụrụ ime"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanok"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ na-"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ewu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kpọọ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "dịka aha"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:00.316505640Z",
+  "model": "glm-5.3"
+}

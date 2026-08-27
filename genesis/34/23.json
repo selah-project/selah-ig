@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 34:23",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ìgwè anụmanụ ha, na ihe onwunwe ha, na anụmanụ ha niile — ha abụghị nke anyị? Naanị kweere ha nkwenye a, ka ha wee nọrọ ⟨את⟩ anyị.",
+  "tokens": [
+    {
+      "surface": "מקנהם",
+      "gloss": "ìgwè anụmanụ ha"
+    },
+    {
+      "surface": "וקנינם",
+      "gloss": "na ihe onwunwe ha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ihe niile"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "nke anụmanụ ha"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "abụghị"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nke anyị"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אך",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "נאותה",
+      "gloss": "kweere nkwenye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ka ha wee nọrọ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ anyị",
+      "marks": "anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:43.174622944Z",
+  "model": "glm-5.3"
+}

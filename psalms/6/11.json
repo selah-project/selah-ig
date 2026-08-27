@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ka ha nwee ihe ma tụọ egwu nke ukwuu, ndị iro m niile; ka ha laghachi azụ, ka ha nwee ihe ngwa ngwa.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ka ha nwee ihe"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "ka ha tụọ egwu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ka ha laghachi azụ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ka ha nwee ihe"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ngwa ngwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:09:33.383305726Z",
+  "model": "glm-5.3"
+}

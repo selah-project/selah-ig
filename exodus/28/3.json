@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 28:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Gị onwe gị ga-agwa mmadụ niile nwere amamiye nʼobi, ndị m jupụtara mmụọ amamiye, okwu; ha ga-eme ⟨את⟩ uwe Aharon iji doo ya nsọ, ka ọ na-eje ọrụ nchụàjà nye M.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Gị onwe gị"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ga-agwa okwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-",
+      "gloss_alt": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "ndị nwere amamiye"
+    },
+    {
+      "surface": "לב",
+      "gloss": "nʼobi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "מלאתיו",
+      "gloss": "m jupụtara"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mmụọ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amamiye"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ha ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe Aharon"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "iji doo ya nsọ"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "ka ọ na-eje ọrụ nchụàjà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nye M"
+    }
+  ],
+  "timestamp": "2026-08-27T06:29:59.378075339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "El m, El m, maka gịnị ka Ị hapụrụ m? Dị anya site na nzọpụta m, okwu nke mkpu mkpu m.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El m"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El m"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maka gịnị"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "Ị hapụrụ m"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "dị anya"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "site na nzọpụta m"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu nke"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "mkpu mkpu m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:28.635974489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 40:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ihe dị ọtụtụ ka ị mere, Yahwe Elohim m; ihe ọịtụnanya gị na echiche gị nye anyị — enweghị onye nwere ike idowe ha n'usoro n'ihu gị; m ga-ekwupụta ma na-ekwu okwu ha, mana ha siri ike karị ịgụta.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Ihe dị ọtụtụ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ka ị mere"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "נפלאתיך",
+      "gloss": "ihe ọịtụnanya gị"
+    },
+    {
+      "surface": "ומחשבתיך",
+      "gloss": "na echiche gị"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nye anyị"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị onye"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "nwere ike idowe n'usoro"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "m ga-ekwupụta"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ma na-ekwu okwu"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ha siri ike"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "karị ịgụta"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:26.649228523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ma Yarden na-akọwapụta ⟨את⟩ ya n'akụkụ ọwụwa anyanwụ; nke a bụ ihe nketa ụmụ Binyamin, na ókèala ya gburugburu, dịka ezinụlọ ha si dị.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Ma Yarden"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "na-akọwapụta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ọwụwa anyanwụ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ihe nketa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "na ókèala ya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dịka ezinụlọ ha si dị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:33:51.019455201Z",
+  "model": "glm-5.3"
+}

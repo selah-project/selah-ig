@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Yoab wee bilie, wee gaa Geshur, wee bute ⟨את⟩ Avshalom bịa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wee bilie"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wee gaa"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Geshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wee bute bịa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T09:39:15.402314133Z",
+  "model": "glm-5.3"
+}

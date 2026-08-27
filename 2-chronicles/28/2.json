@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ma ọ gara n'ụzọ ndị eze Yisrael, ma mee kwa ihe oyiyi ndị a kụrụ akụ maka Baal ndị.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ma ọ gara"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ma kwa"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "ihe oyiyi ndị a kụrụ akụ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "maka Baal ndị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:17:04.001910446Z",
+  "model": "glm-5.3"
+}

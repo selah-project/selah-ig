@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 79,
+  "translation": "Wụsa iwe gị n'aka ⟨ה⟩ mba ndị na-amaghị gị, ma n'aka ⟨ה⟩ alaeze ndị na-akpọghị aha gị.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Wụsa"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "iwe gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na- ... ghị"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "amaghị gị"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ma n'aka"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "alaeze ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na- ... ghị"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "akpọghị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:46:25.301525681Z",
+  "model": "glm-5.3"
+}

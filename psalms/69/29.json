@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Ka a kpagbuo ha n'akwụkwọ ndị dị ndụ, ma ka e dee ha na ndị ezigbo ndị ghara ịdị.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "ka a kpagbuo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "n'akwụkwọ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ndị dị ndụ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ma ka e dee ha na"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ndị ezigbo ndị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ịdị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:11.051854831Z",
+  "model": "glm-5.3"
+}

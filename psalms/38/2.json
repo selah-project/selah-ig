@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Yahwe, n'iwe gị ekatala m, na n'ọgba aghara gị ataala m.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekatala (mma"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "n'iwe gị"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ị katala m"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "na n'ọgba aghara gị"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ị taala m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:29.701818226Z",
+  "model": "glm-5.3"
+}

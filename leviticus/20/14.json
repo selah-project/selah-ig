@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Và nwoke nke ga-ewere ⟨את⟩ nwanyị na ⟨את⟩ nne ya — ajọ atụmatụ ka ọ bụ; n'ọkụ ka a ga-ere ⟨את⟩ ya na ⟨את⟩ ha, ka ajọ atụmatụ ghara ịdị ná etiti unu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ga-ewere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwanyị"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nwanyị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nne ya"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "nne ya"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ajọ atụmatụ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "a ga-ere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ịdị"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ajọ atụmatụ"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ná etiti unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:03:16.870993668Z",
+  "model": "glm-5.3"
+}

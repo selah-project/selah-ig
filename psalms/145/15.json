@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Anya nke ndị niile na-ele gị anya na-atụ anya, ma Ị na-enye ha ⟨את⟩ nri ha n'oge ya.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "anya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "na-atụ anya"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ma Ị"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nri ha"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "nri ha"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "n'oge ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:55.178987243Z",
+  "model": "glm-5.3"
+}

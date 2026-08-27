@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Yahwe gara, mgbe Ọ gwụchara okwu ya na Avraham, ma Avraham laghachiri n'ebe ọ nọ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "gara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "Ọ gwụchara"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "ma Avraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "laghachiri"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "n'ebe ọ nọ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:32:19.897154612Z",
+  "model": "glm-5.3"
+}

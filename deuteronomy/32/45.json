@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Moshe gwụchara ikwu okwu ⟨את⟩ niile n'ime okwu ndị a nye Israel niile.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "gwụchara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ikwu okwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niile n'ime okwu ndị a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-27T08:17:07.532242605Z",
+  "model": "glm-5.3"
+}

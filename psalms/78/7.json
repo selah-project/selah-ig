@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ka ha wee tinye olile anya ha na Elohim, ma ghara ichefu omume El, ma chekwa iwu ya.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ka ha wee tinye"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "olile anya ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ghara"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "ichefu"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "omume"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ma iwu ya"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "chekwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:19.025934703Z",
+  "model": "glm-5.3"
+}

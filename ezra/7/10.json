@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "N'ihi na Ezra kwadoro obi ya iji chọọ ⟨את⟩ Torah nke Yahwe, iji mee ya, nakwa iji kụziere na Israel iwu na ikpe ziri ezi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "kwadoro"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "obi ya"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "iji chọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah nke Yahwe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "iji mee"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "nakwa iji kụziere"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "חק",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na ikpe ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T15:37:30.432284958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "N'ihi na m bụ Yahwe, Elohim gị, Onye Nsọ nke Yisraɛl, Onye Nzọpụta gị; enyewo m ihe mgbapụta gị — Mitzrayim, Kush na Sva n'ọnọdụ gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Onye Nsọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Yisraɛl"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "Onye Nzọpụta gị"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "enyewo m"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "ihe mgbapụta gị"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "na Sva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "n'ọnọdụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:59:35.645146709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "Mụ onwe m, ajọ nzuzu ka m nwere, amaghị m ihe ọ bụla; anụmanụ ọhịa ka m bụrụ na-adịrị gị nso.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mụ onwe m"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ajọ nzuzu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na-amaghị"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ihe ọ bụla"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "anụmanụ ọhịa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "m bụrụ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na-adịrị gị nso"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:17.417985533Z",
+  "model": "glm-5.3"
+}

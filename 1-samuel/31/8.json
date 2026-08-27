@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ọ wee bụrụ na n'echi ya, Ndị Filistịa bịara iji jijie ⟨את⟩ ndị e gburu, ha wee hụ ⟨את⟩ Shaul na ⟨את⟩ ụmụ ya nwoke atọ dina n'ugwu Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ wee bụrụ na"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "n'echi ya"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ndị Filistịa"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "iji jijie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị e gburu"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ndị e gburu"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ha wee hụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ya nwoke atọ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya nwoke"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-27T09:28:57.615033368Z",
+  "model": "glm-5.3"
+}

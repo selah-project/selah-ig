@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Abụrụ m ihe ntụli aka nye ndị m niile, abụ ha, ụbọchị niile.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "Abụrụ m"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ihe ntụli aka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nye ... niile"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "abụ ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:52:03.640128875Z",
+  "model": "glm-5.3"
+}

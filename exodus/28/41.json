@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 28:41",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ị ga-edo ha uwe — ⟨את⟩ Aharon nwanne gị na ⟨את⟩ ụmụ ya tinyere ⟨את⟩ ya; Ị ga-ete ha mmanụ, ga-edujupụta ⟨את⟩ aka ha, ga-edo ha nsọ, ka ha na-achụ àjà maka m.",
+  "tokens": [
+    {
+      "surface": "וְהִלְבַּשְׁתָּ",
+      "gloss": "ga-edo uwe"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "ha (Aharon na ụmụ ya)"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אַהֲרֹן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אָחִיךָ",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ya"
+    },
+    {
+      "surface": "בָּנָיו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "אִתּוֹ",
+      "gloss": "tinyere ⟨את⟩ ya"
+    },
+    {
+      "surface": "וּמָשַׁחְתָּ",
+      "gloss": "ga-ete mmanụ"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "וּמִלֵּאתָ",
+      "gloss": "ga-edujupụta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "aka ha"
+    },
+    {
+      "surface": "יָדָם",
+      "gloss": "aka ha"
+    },
+    {
+      "surface": "וְקִדַּשְׁתָּ",
+      "gloss": "ga-edo ha nsọ"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "וְכִהֲנוּ",
+      "gloss": "ka ha na-achụ àjà (ndị nchu-àjà)"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "maka m"
+    }
+  ],
+  "timestamp": "2026-08-27T06:32:45.426903817Z",
+  "model": "glm-5.3"
+}

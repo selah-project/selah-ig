@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Ma ugbu a, ihe e kpụrụ n'ọchá ya niile ha na-emebi ọnụ, na mma na nkụ ọla ha na-atụ.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "ma ugbu a"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "ihe e kpụrụ n'ọchá ya"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "na mma"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "na nkụ ọla"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "ha na-atụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:07.104357420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Maka onye nduzi egwu, n'elu Shoshannim (ndị Lilii), maka ụmụ Korach; Maschkil — abụ nke ịhụnanya.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye nduzi egwu"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim (ndị Lilii)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "maka ụmụ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maschkil (abụ nkuzi)"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "nke ịhụnanya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:42.966733085Z",
+  "model": "glm-5.3"
+}

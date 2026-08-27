@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 54,
+  "translation": "Elohim, gee ntị n'ekpere m; tụgharịa nti maka okwu ọnụ m.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gee ntị"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "n'ekpere m"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tụgharịa nti"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "maka okwu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:30.277755075Z",
+  "model": "glm-5.3"
+}

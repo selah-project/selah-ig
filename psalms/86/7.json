@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 86,
+  "translation": "N'ụbọchị ihe isi ike m ka m ga-akpọ gī, n'ihi na ⟨ị⟩ ga-azọm.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ihe isi ike m"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ka m ga-akpọ gī"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ga-azọm"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:31.570697374Z",
+  "model": "glm-5.3"
+}

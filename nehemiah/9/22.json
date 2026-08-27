@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 9:22",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ị nyere ha alaeze na mba ndị, ma kesaa ha n'akụkụ Ọwụwa Anyanwụ; ha ketara ⟨את⟩ ala Sichon na ⟨את⟩ ala eze Cheshbon na ⟨את⟩ ala Og eze Bashan.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Ị nyere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "alaeze"
+    },
+    {
+      "surface": "ועממים",
+      "gloss": "na mba ndị"
+    },
+    {
+      "surface": "ותחלקם",
+      "gloss": "ma kesaa ha"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "ha ketara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    }
+  ],
+  "timestamp": "2026-08-27T15:45:50.535656564Z",
+  "model": "glm-5.3"
+}

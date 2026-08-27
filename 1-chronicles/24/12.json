@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Nke iri na otu maka Elyashiv, nke iri na abụọ maka YaQim.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "maka Elyashiv"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "na otu (iri na otu)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "maka YaQim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "na abụọ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    }
+  ],
+  "timestamp": "2026-08-27T16:03:58.674209418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Eze Kedesh, otu; eze Yokneam, n'ala Karmel, otu;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Yokneam"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "n'ala Karmel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:28:23.364238465Z",
+  "model": "glm-5.3"
+}

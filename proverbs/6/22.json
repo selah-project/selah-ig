@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Mgbe ị na-eje, ⟨הוא⟩ ga-eduzi gị; mgbe ị na-ehi ụra, ⟨הוא⟩ ga-echebe gị; mgbe ị tetara, ⟨הוא⟩ ga-agwa gị okwu.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "Mgbe ị na-eje"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "ga-eduzi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "mgbe ị na-ehi ụra"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ga-echebe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "mgbe ị tetara"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨הוא⟩"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "ga-agwa gị okwu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:17:45.178062639Z",
+  "model": "glm-5.3"
+}

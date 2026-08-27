@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma ụwa niile na-achọ ⟨את⟩ ihu Shelomoh, ige ntị ⟨את⟩ n'amamihe ya, nke Elohim nyere n'obi ya.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ige ntị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amamihe ya"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "amamihe ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "n'obi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:59:02.817725174Z",
+  "model": "glm-5.3"
+}

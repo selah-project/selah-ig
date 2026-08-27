@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 147,
+  "translation": "Ọ dịghị emeso mba ọ bụla otu a; ma banyere ikpe ⟨ya⟩, ha amaghị ha. Tọọ Yah mma!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "emeso"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mba ọ bụla"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ma banyere ikpe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "eboghị"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ha amaghị ha"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Tọọ ... mma"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:53.355436141Z",
+  "model": "glm-5.3"
+}

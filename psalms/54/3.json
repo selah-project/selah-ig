@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 54,
+  "translation": "Elohim, site n'aha gị zọpụta m, ma site n'ike gị kpebie ikpe m.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "site n'aha gị"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "zọpụta m"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "ma site n'ike gị"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "kpebie ikpe m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:30.277611524Z",
+  "model": "glm-5.3"
+}

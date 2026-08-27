@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ọ mere ka ifufe ọwụwa jere n'eluigwe, o duzikwara ifufe ndịda site n'ike ya.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "ọ mere ka ọ jee"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ifufe ọwụwa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "o duzikwara"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "site n'ike ya"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ifufe ndịda"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:42.518439232Z",
+  "model": "glm-5.3"
+}

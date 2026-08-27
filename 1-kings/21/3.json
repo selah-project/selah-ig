@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Naebot wee gwa Ahab, sị: Chee Yahwe ihu ka m ghara inye gị ⟨את⟩ ihe nketa nke ndị nna m!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naebot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "chee…ihu ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ịnye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe nketa nke ndị nna m"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ihe nketa"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "nke ndị nna m"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:08:56.159314485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 140,
+  "translation": "Ka ọkụku ọkụ daa n'elu ha; n'ime ọkụ ka a ga-ada ha, n'ime olulu miri emi, ka ha ebilighị ọzọ.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "ha na-adapịta"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "n'elu ha"
+    },
+    {
+      "surface": "gloss-placeholder",
+      "gloss": ""
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ọkụku ọkụ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ime ọkụ"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "a ga-ada ha"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "n'ime olulu miri emi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ka ọ dịghị"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ha na-ebilite"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:48.269537015Z",
+  "model": "glm-5.3"
+}

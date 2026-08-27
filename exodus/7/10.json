@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Moshe na Aharon banyere gara Paroh, ha mekwara otu a dịka Yahwe nyere iwu; Aharon tụbara ⟨את⟩ mkpo ya n'ihu Paroh na n'ihu ndị ohu ya, ọ bụrụ agwọ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ha mekwara"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "tụbara"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpo ya"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "mkpo ya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "na n'ihu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bụrụ"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "agwọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:09:32.096701299Z",
+  "model": "glm-5.3"
+}

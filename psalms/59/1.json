@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 59,
+  "translation": "Maka onye nduzi egwu; Ekwula nsị; nke David; mkpụrụede; mgbe Shaul zipụrụ, ha na-ele ⟨את⟩ ụlọ ahụ anya iji gbuo ya.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye nduzi egwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ekwula"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "nsị"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mkpụrụede"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "mgbe ọ zipụrụ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "ha na-ele anya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ ahụ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ ahụ"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "iji gbuo ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:29.663117020Z",
+  "model": "glm-5.3"
+}

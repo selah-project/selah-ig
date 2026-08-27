@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Achaz dara ike ya na ndị nna ya, e liekwu ya na ndị nna ya n'obodo David; ma Yechizkiya nwa ya chịrị nọ n'onwe ya.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "dara ike ya"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ndị nna ya"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e liekwu ya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ndị nna ya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ma chịrị"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Yechizkiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nọ n'onwe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:25:36.776304176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Moshe kwuru okwu ⟨את⟩ oge-ezukọta ndị Yahwe nye ụmụ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ọ kwuru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oge-ezukọta ndị Yahwe"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "oge-ezukọta ndị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T07:04:10.036620412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "Abụ Asaf. N'ezie, Elohim dị mma nye Yisrael, nye ndị nwere obi dị ọcha.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "N'ezie"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "nye Yisrael"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "nye ndị nwere"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "obi dị ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:59.043196907Z",
+  "model": "glm-5.3"
+}

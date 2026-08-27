@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Eze Ashshur geere ntị n'okwu ya, wee rịgo Eze Ashshur elu Dammesek, wee jide ya, wee tụọ ndị ya n'agha gaa Kiir, ma ⟨את⟩ Retzin ka o gburu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "geere ntị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "n'okwu ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "rịgo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elu"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammesek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "jide ya"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "tụọ n'agha"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "gaa Kiir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retzin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retzin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "gburu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:25:54.241867988Z",
+  "model": "glm-5.3"
+}

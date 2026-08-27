@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "na ndị nọ na Charmah, na ndị nọ na Bor-Ashan, na ndị nọ na Atak",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "na ndị nọ na"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Charmah"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "na ndị nọ na"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "na Bor"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "na ndị nọ na"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Atak"
+    }
+  ],
+  "timestamp": "2026-08-27T09:22:46.632184318Z",
+  "model": "glm-5.3"
+}

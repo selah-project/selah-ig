@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 108,
+  "translation": "Obi m dị ⟨njikere⟩, Elohim; m ga-abụ abụ, ekeenụ m ga-akpọ egwu, ọbụnakwa unto m.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "dị njikere"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Obi m"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "m ga-abụ abụ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "m ga-akpọ egwu, ekeenụ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ọbụnakwa"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "unto m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:17.631138851Z",
+  "model": "glm-5.3"
+}

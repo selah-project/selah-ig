@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Onye na-egbu anụ ga-akwụghachi ya; onye na-egbu mmadụ ga-egbu ya.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "onye na-egbu"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "anụ"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "ga-akwụghachi ya"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "onye na-egbu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ga-egbu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:04:43.425407960Z",
+  "model": "glm-5.3"
+}

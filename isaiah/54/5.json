@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 54,
+  "translation": "N'ihi na onye ṅụrụ gị n'ala bụ Onye kere gị — Yahwe nke ndị agha ka aha ya bụ — na Onye mgbapụta gị, Onye Nsọ nke Yisrael, ọ bụ Elohim nke ụwa niile ka a ga-akpọ ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "onye ṅụrụ gị n'ala"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "Onye kere gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "na Onye mgbapụta gị"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Onye Nsọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "a ga-akpọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:04:57.472821657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 34:17",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ndị a ka bụ aha ndị ikom ndị ga-ekesa mketa ⟨את⟩ ala ahụ nye unu: Elazar onye-nchu-aja, na Yehoshua nwa Nun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ndị a"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "ga-ekesa mketa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nye unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ahụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "na Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    }
+  ],
+  "timestamp": "2026-08-27T07:45:40.954176842Z",
+  "model": "glm-5.3"
+}

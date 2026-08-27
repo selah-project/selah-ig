@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Onye na-atụ ⟨את⟩ okwu Yahwe egwu n'etiti ndị ohu Parọ mere ka ⟨את⟩ ndị ohu ya na ⟨את⟩ anụ ụlọ ya gbapụta n'ụlọ.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "onye na-atụ egwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "n'etiti ndị ohu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parọ"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "mere ka ha gbapụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ohu ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "anụ ụlọ ya"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "anụ ụlọ ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ụlọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:19.853671491Z",
+  "model": "glm-5.3"
+}

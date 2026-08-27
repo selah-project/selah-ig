@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Ọ na-akwụsị agha ruo n'ókè ⟨nke⟩ ụwa; Ọ na-emebi ụta, na-ebipụ ube, gbaa ụgbọchara ọkụ n'ọkụ.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Ọ na-akwụsị"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "agha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "n'ókè"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ụta"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "Ọ na-emebi"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "na-ebipụ"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ube"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "ụgbọchara"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "gbaa ọkụ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:37.462970219Z",
+  "model": "glm-5.3"
+}

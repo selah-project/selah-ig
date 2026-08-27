@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Mee ya dịka amamihe gị si dị, ma ewepụla ka agadi isi ya daa n'udo ruo Sheol.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mee ya"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "dịka amamihe gị si dị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ewepụla"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ọ daa"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "agadi isi ya"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "n'udo"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ruo Sheol"
+    }
+  ],
+  "timestamp": "2026-08-27T09:52:23.775069067Z",
+  "model": "glm-5.3"
+}

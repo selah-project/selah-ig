@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "na ndị agha ya na ọnụ ọgụgụ ha, ise na iri atọ puku, na narị anọ.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "na ndị agha ya"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "na ọnụ ọgụgụ ha"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ise"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na iri atọ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na anọ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:12:29.949462741Z",
+  "model": "glm-5.3"
+}

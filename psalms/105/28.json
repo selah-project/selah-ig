@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "⟨Ọ⟩ zipụrụ ọchịchịrị ma mee ka ọ gbaa ọchịchịrị; ha ejighị arụrụala megide okwu ya ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "⟨Ọ⟩ zipụrụ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ọchịchịrị"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "ma mee ka ọ gbaa ọchịchịrị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ha ejighị"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "arụrụala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ya"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "okwu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.723195511Z",
+  "model": "glm-5.3"
+}

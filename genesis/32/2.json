@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Yaakov wee na-aga ụzọ ⟨nke⟩ ya, ndị ozi Elohim zutere ya.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ụzọ ya"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "zutere"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ndị ozi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T05:48:11.181293014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Yahwe Elohim, tụgharịghị ihu nke Mashiach gị; cheta chesed nke Dawid, ohu gị.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tụgharịghị"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "tụgharịa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "nke Mashiach gị"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "cheta"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "chesed nke"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:07:41.239711909Z",
+  "model": "glm-5.3"
+}

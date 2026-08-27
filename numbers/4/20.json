@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ha agaghị erute ịhụ ⟨את⟩ ihe nsọ ahụ ọbụna nkeji, ka ha ghara ịnwụ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha agaghị"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "erute"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ịhụ"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "ọbụna nkeji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe nsọ ahụ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ihe nsọ ahụ"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ka ha ghara ịnwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:14:18.957265227Z",
+  "model": "glm-5.3"
+}

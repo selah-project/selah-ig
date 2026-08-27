@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma ⟨את⟩ ihe fọdụrụ n'ime ndị ahụ, o nyere n'aka Abishai nwanne ya, onye ahụkwa doituru ha mmegide ụmụ Ammon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe fọdụrụ n'ime ndị ahụ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ihe fọdụrụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n'ime ndị ahụ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o nyere"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "doituru"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "mmegide"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-27T09:35:04.866865670Z",
+  "model": "glm-5.3"
+}

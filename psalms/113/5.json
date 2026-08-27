@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 113,
+  "translation": "Onye ka Yahwe, Elohim anyị, Onye na-ebuli ⟨Onwe Ya⟩ elu izụ́ ọdụ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Onye ka"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "Onye na-ebuli elu"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "izụ́ ọdụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:39.650733767Z",
+  "model": "glm-5.3"
+}

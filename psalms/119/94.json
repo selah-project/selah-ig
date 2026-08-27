@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Nke gị ka m bụ; zọpụta m, n'ihi na iwu-ndị-iwu gị ka m chọrọ.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "nke gị"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "zọpụta m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "iwu-ndị-iwu gị"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "m chọrọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:34.494804898Z",
+  "model": "glm-5.3"
+}

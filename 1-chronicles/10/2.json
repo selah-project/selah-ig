@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ndị Pelishtim chụpụrụ Sha'ul sọsọ, yana ụmụ ya; ndị Pelishtim tiwapụrụ ⟨את⟩ Yonatan, na ⟨את⟩ Avinadab, na ⟨את⟩ Malki-Shua, ụmụ Sha'ul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "chụpụrụ sọsọ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ndị Pelishtim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "n'azụ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "yana n'azụ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ma ... tiwapụrụ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-27T15:58:56.910997194Z",
+  "model": "glm-5.3"
+}

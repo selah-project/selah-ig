@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Maka otu a ka Adonai si gwuo m: Ka oge na-eru otu afọ, dịka afọ nke onye ọrụ mmụta, ùgwù nile nke Qedar ga-akwụsị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "si gwuo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "Ka oge na-eru"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "otu afọ"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "dịka afọ"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "nke onye ọrụ mmụta"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ga-akwụsị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nile"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ùgwù"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedar"
+    }
+  ],
+  "timestamp": "2026-08-27T16:40:09.967074629Z",
+  "model": "glm-5.3"
+}

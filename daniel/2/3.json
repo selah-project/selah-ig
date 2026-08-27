@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Eze wee sị ha: Nrọ m rọrọ, mmụọ m ṅụrịaraworọ, iji mata ⟨את⟩ nrọ ahụ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Eze wee sị"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "nrọ"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "m rọrọ"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "ṅụrịaraworọ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mmụọ m"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "iji mata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nrọ ahụ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "nrọ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:24:20.532945695Z",
+  "model": "glm-5.3"
+}

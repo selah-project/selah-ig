@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ndị ⟨nke⟩ ala wee were ⟨את⟩ Yehoachaz nwa Yeshiyahu, ma mee ya eze n'ọnọdụ nna ya na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ha were"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yeshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "ma mee ya eze"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'ọnọdụ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:21:24.186650370Z",
+  "model": "glm-5.3"
+}

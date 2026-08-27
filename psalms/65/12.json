@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "Ị na-eyi afọ okpueze nke ọma gị; ụzọ gị na-esi na ubara na-adọba.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "Ị na-eyi okpueze"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "nke ọma gị"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "ụzọ gị"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "na-esi na-adọba"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "ubara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:37.449066711Z",
+  "model": "glm-5.3"
+}

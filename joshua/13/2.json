@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Nke a ⟨is⟩ ala ahụ ka fọdụrụ: gburugburu niile nke Pelishtim, na nke Geshuri niile.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "ka fọdụrụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "nke Pelishtim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na nke niile"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Geshuri"
+    }
+  ],
+  "timestamp": "2026-08-27T08:29:32.189219706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ndị ọrụ aka amamihe niile na-eme ⟨את⟩ ọrụ nsọ niile bịara, onye ọ bụla site n'ọrụ ya nke ha na-eme.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "ndị amamihe"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ nsọ niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "site n'ọrụ ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "na-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T06:40:48.698528455Z",
+  "model": "glm-5.3"
+}

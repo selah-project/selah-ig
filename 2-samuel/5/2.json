@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 5:2",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ọ bụghị naanị taa ma ọ bụ ụnyaahụ, kamgbe oge gara aga, mgbe Shaul bụ́ eze n'elu anyị, bụ gị na-edu Yisrael pụọ na ibata; Yahwe wee sị gị: Gị ka ga-azụ ⟨את⟩ ndị m, ⟨את⟩ Yisrael, ma gị ga-abụ onye ndu n'elu Yisrael.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ọ bụghị naanị"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "ụnyaahọ gara aga"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ụbọchị abụọ gara aga"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "mgbe ọ bụ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "n'elu anyị"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "הייתה",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "na-edu pụọ"
+    },
+    {
+      "surface": "והמבי",
+      "gloss": "na-edu ibata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "תרעה",
+      "gloss": "ga-azụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị m"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ma gị"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "onye ndu"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T09:32:26.676916028Z",
+  "model": "glm-5.3"
+}

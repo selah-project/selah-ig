@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọ wee mee n'ụlọ ⟨the⟩ nsọ nke nsọ ndị ahụ kerubim abụọ, ọrụ nke ihe a kpụrụ akpụ, ha wee kpuchie ⟨את⟩ ha na ọlaedo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ọ wee mee"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "nke nsọ ndị ahụ"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "nke ihe a kpụrụ akpụ"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "ha wee kpuchie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    }
+  ],
+  "timestamp": "2026-08-27T16:07:59.922195942Z",
+  "model": "glm-5.3"
+}

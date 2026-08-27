@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ka chesed gị zute m, Yahwe, na nzọpụta gị, dịka okwu gị si di.",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "ka ọ zute m"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "nzọpụta gị"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "dịka okwu gị si di"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:42.448600851Z",
+  "model": "glm-5.3"
+}

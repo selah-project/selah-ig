@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "N'ihi na ọ jụrụ afọ ndụ na-agụ ogụ, ma jupụta ndụ agụụsite na ihe ọma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "ọ jụrụ afọ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "na-agụ ogụ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ma ndụ"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "agụụsite"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "jupụta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.239396455Z",
+  "model": "glm-5.3"
+}

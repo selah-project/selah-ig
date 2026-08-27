@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 9:5",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ashkelon ga-ahụ, ma taa egwu; ma Gazah ga-akwa ụta nke ukwuu, yana Ekron, n'ihi na ihere eruola ⟨olile-anya ya⟩; eze ga-efu na Gazah, ma Ashkelon agaghịkwa bi.",
+  "tokens": [
+    {
+      "surface": "תרא",
+      "gloss": "ga-ahụ"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ותירא",
+      "gloss": "ma taa egwu"
+    },
+    {
+      "surface": "ועזה",
+      "gloss": "ma Gazah"
+    },
+    {
+      "surface": "ותחיל",
+      "gloss": "ga-akwa ụta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "yana Ekron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "ihere eruola"
+    },
+    {
+      "surface": "מבטה",
+      "gloss": "olile-anya ya"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ga-efu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מעזה",
+      "gloss": "na Gazah"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "ma Ashkelon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghịkwa"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "bi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:06:57.305392356Z",
+  "model": "glm-5.3"
+}

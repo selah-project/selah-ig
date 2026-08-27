@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Ehihie na abalị ha na-agagharị ya n'elu mgbidi ya, na ajọ omume na ọjọọ nọ n'etiti ya.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ehihie"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na abalị"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "ha na-agagharị ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "mgbidi ya"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "na ajọ omume"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "na ọjọọ"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "n'etiti ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:02.438914635Z",
+  "model": "glm-5.3"
+}

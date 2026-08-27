@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 22:17",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Le, Yahwe na-atụ gị nkụ, nkụdụ siri ike ka Ọ na-atụ gị, onye ike; Ọ na-ekpuchi gị, ejula.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מטלטלך",
+      "gloss": "na-atụ gị nkụ"
+    },
+    {
+      "surface": "טלטלה",
+      "gloss": "nkụdụ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "onye ike"
+    },
+    {
+      "surface": "ועטך",
+      "gloss": "ma na-ekpuchi gị"
+    },
+    {
+      "surface": "עטה",
+      "gloss": "ejula"
+    }
+  ],
+  "timestamp": "2026-08-27T10:45:28.503483397Z",
+  "model": "glm-5.3"
+}

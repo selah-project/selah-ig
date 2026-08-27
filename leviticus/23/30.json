@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ma nefesh ọ bụla nke meere ọrụ ọ bụla n'ụbọchị a n'onwe ya, m ga-ebibi ⟨את⟩ nefesh ahụ n'etiti ndị ya.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ọ bụla nke"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "meere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "n'onwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "m ga-ebibi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefesh ahụ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ndị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:36.579717343Z",
+  "model": "glm-5.3"
+}

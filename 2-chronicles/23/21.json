@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Obi ṅụrụ ṅụrụ onye niile nke ⟨ala⟩ ahụ, ma obodo ⟨dị jụụ⟩; ⟨את⟩ Atalyahu ha gburu site na mmaa.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "obi ṅụrụ ṅụrụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye niile"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ala⟩ ahụ"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ma obodo"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "⟨dị jụụ⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ha gburu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "site na mmaa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:13:46.952678322Z",
+  "model": "glm-5.3"
+}

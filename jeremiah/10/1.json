@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Nụlite ⟨את⟩ okwu nke Yahwe gwara unu, ohụsụ nke Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Nụlite\/ntị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ohụsụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T11:21:50.556553987Z",
+  "model": "glm-5.3"
+}

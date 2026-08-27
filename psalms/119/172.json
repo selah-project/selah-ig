@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Asụsụ m ga-abụ abụ ⟨maka⟩ okwu gị, n'ihi na iwu gị niile bụ ezi omume.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "ga-abụ abụ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "asụsụ m"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "okwu gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "iwu gị"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ezi omume"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:39.007581264Z",
+  "model": "glm-5.3"
+}

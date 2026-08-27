@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 22:5",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ndị dị nso na ndị dị anya ga-akwa gị ọchị, onye aha ruru unyọ, onye jupụtara na mgbagwoju anya.",
+  "tokens": [
+    {
+      "surface": "הקרבות",
+      "gloss": "ndị dị nso"
+    },
+    {
+      "surface": "והרחקות",
+      "gloss": "na ndị dị anya"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "site n'aka gị"
+    },
+    {
+      "surface": "יתקלסו",
+      "gloss": "ga-akwa ọchị"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "ruoru unyọ"
+    },
+    {
+      "surface": "השם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "jupụtara na"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "mgbagwoju anya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:12:37.331841636Z",
+  "model": "glm-5.3"
+}

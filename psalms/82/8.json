@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 82,
+  "translation": "bilie, Elohim, kpebie ⟨את⟩ ụwa ahụ; n'ihi na gị ka onyenke nketa n'ime mba niile.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bilie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "kpebie"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa ahụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "onyenke nketa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ime niile"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:54.236929031Z",
+  "model": "glm-5.3"
+}

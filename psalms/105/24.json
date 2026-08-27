@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "O mụbaara ⟨את⟩ ndị ya nke ukwuu, wee mee ka ha sikwuo ike karịa ndị na-emegide ha.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "O mụbaara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "O mere ka ha sikwuo ike"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "karịa ndị na-emegide ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:31.807298800Z",
+  "model": "glm-5.3"
+}

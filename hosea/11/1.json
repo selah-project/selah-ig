@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Mgbe Yisrael bụ nwata, m hụrụ ya n'anya, ma si Mitzrayim kpọọ nwa m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "bụ nwata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "m hụrụ ya n'anya"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "ma si Mitzrayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kpọọ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "nwa m"
+    }
+  ],
+  "timestamp": "2026-08-27T12:41:23.437571340Z",
+  "model": "glm-5.3"
+}

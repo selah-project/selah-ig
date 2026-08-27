@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "N'ụbọchị ahụ, Yahwe nke ndị agha ga-abụ okpueze nke mma, na ikunye nke ndo, maka fọndụ nke ndị ya.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "maka okpueze"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "mma mma"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "na maka ikunye"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "ndo"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "maka fọndụ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:47:50.289473698Z",
+  "model": "glm-5.3"
+}

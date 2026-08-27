@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 36:4",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Eze Mitzrayim mere ⟨את⟩ Elyakim nwanne ya ka ọ chịrị na Yehuda na Yerushalayim, ma gbanwee ⟨את⟩ aha ya ka ọ bụrụ Yehoyakim; Nekọ wee were ⟨את⟩ Yehoachaz nwanne ya, ma duru ya gaa Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ọ mere ka ọ chịrị"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ma gbanwee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ọ were"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Nekọ"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ma duru ya gaa"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:21:24.187255663Z",
+  "model": "glm-5.3"
+}

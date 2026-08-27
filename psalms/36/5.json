@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ajọ omume ka ọ na-eme atụmatụ n'àkwà ya; ọ na-edozi onwe ya n'ụzọ ⟨nke⟩ na-abụghị ihe ọma; ọjọọ ka ọ na-adịghị ajụ.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ajọ omume"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "na-eme atụmatụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "àkwà ya"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "na-edozi onwe ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-abụghị"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-adịghị"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "ajụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:25.341749677Z",
+  "model": "glm-5.3"
+}

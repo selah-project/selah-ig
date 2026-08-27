@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ha zipụkwara ⟨את⟩ igbe Elohim gaa Ekron; o wee mee na, dịka igbe Elohim batara Ekron, ndị Ekron tiri mkpu, na-ekwu, 'Ha eklarala m ⟨את⟩ igbe Elohim nke Yisrael, ka o gbuo m na ⟨את⟩ ndị m.'",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Ha zipụkwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igbe Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o wee mee na"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "dịka ọ batara"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "ha tiri mkpu"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "ndị Ekron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "ha eklarala"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igbe Elohim nke Yisrael"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "ka o gbuo m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị m"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    }
+  ],
+  "timestamp": "2026-08-27T09:03:53.853568285Z",
+  "model": "glm-5.3"
+}

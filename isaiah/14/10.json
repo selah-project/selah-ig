@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ha niile ga-aza, ha ga-asịkwa gị: Ịkwa dara n'ụkwụ dịka anyị? Ị ghọrọkworo anyị dịka anyị?",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ga-aza"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha ga-asịkwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "dara n'ụkwụ"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "dịka anyị"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "ghọrọkworo"
+    }
+  ],
+  "timestamp": "2026-08-27T16:39:56.899514628Z",
+  "model": "glm-5.3"
+}

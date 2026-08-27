@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ụlọ Ahab niile ga-efu; m ga-ebipụkwa maka Ahab onye ọ bụla na-amị mmị n'elu mgbidi, onye a mkpọchiri na onye a hapụrụ, na Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "ga-efu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Ụlọ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "m ga-ebipụkwa"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "maka Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "onye na-amị mmị"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "n'elu mgbidi"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "onye a mkpọchiri"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "onye a hapụrụ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T10:17:45.544702101Z",
+  "model": "glm-5.3"
+}

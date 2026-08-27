@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Onyeisi ndị na-aṅụ mmanya echetaghi ⟨את⟩ Yosef, ma gbagọrọ cheta ya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "echetaghi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "cheta"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ndị na-aṅụ mmanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "ma gbagọrọ cheta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:53:30.451036920Z",
+  "model": "glm-5.3"
+}

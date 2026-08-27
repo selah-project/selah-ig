@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 86,
+  "translation": "Onweghị onye dị ka gị n'etiti chi ndị ọzọ, Adonai, ma ọ nweghịkwa ọrụ ndị dị ka ọrụ gị.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "onweghị onye"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "dị ka gị"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "n'etiti chi ndị ọzọ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma ọ nweghịkwa"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "dị ka ọrụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:31.570819393Z",
+  "model": "glm-5.3"
+}

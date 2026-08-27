@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "n'ihi na ha ga-anụ ⟨את⟩ aha gị nke ukwu, na ⟨את⟩ aka gị nke ike, na ogwe aka gị dị n'ịgba mgba, — ọ ga-abịa, gaa na-ekpere n'ụzọ ụlọ a,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "ha ga-anụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha gị"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nke ukwu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aka gị"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "nke ike"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "na ogwe aka gị"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "dị n'ịgba mgba"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ọ ga-abịa"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "gaa na-ekpere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T09:57:53.784522694Z",
+  "model": "glm-5.3"
+}

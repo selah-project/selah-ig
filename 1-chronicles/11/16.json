@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "David nọkwa n'oge ahụ n'ọgba e wusiri ike, ebe ndị Fulistim nọkwa n'oge ahụ na Bet-Lehem dịka ndị nche.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "n'oge ahụ"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "n'ọgba e wusiri ike"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "ebe ndị nche"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fulistim"
+    },
+    {
+      "surface": "אז",
+      "gloss": "n'oge ahụ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Lehem"
+    }
+  ],
+  "timestamp": "2026-08-27T16:54:51.401957212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Zọpụta m n'aka ogbugbu, Elohim, Elohim nke nzọpụta m; asụsụ m ga-abụ abụ maka ezi omume gị.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Zọpụta m"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "n'aka ogbugbu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "nzọpụta m"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "ga-abụ abụ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "asụsụ m"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ezi omume gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:37.077812011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ha tiere mkpu, Yahwe nụrụ, ma site n'ọgbụgbọ niile ha, o napụtara ha.",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "ha tiere mkpu"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ma site na niile"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "ọgbụgbọ ha"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "o napụtara ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:34.223745635Z",
+  "model": "glm-5.3"
+}

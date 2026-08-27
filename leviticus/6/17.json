@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ya mere, Yahwe gwara Moshe, ka ọ sị:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ya mere, ... gwara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ọ sị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:44:42.266980585Z",
+  "model": "glm-5.3"
+}

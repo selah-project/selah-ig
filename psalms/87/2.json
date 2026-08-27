@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 87,
+  "translation": "Yahwe hụrụ ọnụ ụzọ Zion n'anya karicha ebe obibi niile nke Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "hụrụ n'anya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "karicha niile"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "ebe obibi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "nke Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:50.316989852Z",
+  "model": "glm-5.3"
+}

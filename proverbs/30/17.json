@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 30:17",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Anya na-achọ iso nna, ma na-eleghara iwu nne anya — nnụnụ oji nke ndagwurugwu ga-apụ ya, ma ụmụ nkwụ mgbaasị ga-eri ya.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "anya"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "na-achọ iso (na-atụ ọchị)"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ותבוז",
+      "gloss": "ma na-eleghara anya"
+    },
+    {
+      "surface": "ליקהת",
+      "gloss": "iwu (ntụziaka)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nne"
+    },
+    {
+      "surface": "יקרוה",
+      "gloss": "ga-apụ ya (gbupụ ya)"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "nnụnụ oji"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ndagwurugwu"
+    },
+    {
+      "surface": "ויאכלוה",
+      "gloss": "ma ga-eri ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "nkwụ mgbaasị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:33:29.627473516Z",
+  "model": "glm-5.3"
+}

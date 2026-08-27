@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Onye a na-ele anya n'ala, onye nwere odibo, ka onye na-ebu onwe ya ihe mmetụta mma, ma na-enweghị nri.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ka (mma)"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "onye a na-ele anya n'ala"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ma onye nwere odibo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "onye na-ebu onwe ya ihe mmetụta mma"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "ma na-enweghị"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    }
+  ],
+  "timestamp": "2026-08-27T14:20:59.031566166Z",
+  "model": "glm-5.3"
+}

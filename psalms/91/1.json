@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "Onye nọ n'ebe ezoro ⟨n'⟩ bụ́ Elyon, n'okpuru ndo Shaddai ka ⟨ọ⟩ na-ehi ụra n'udo.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "onye nọ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "n'ebe ezoro"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "n'okpuru ndo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "na-ehi ụra n'udo"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:53.858570870Z",
+  "model": "glm-5.3"
+}

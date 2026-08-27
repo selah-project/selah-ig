@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 5:14",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ọtụtụ mmadụ si n'aka ndị mba niile bịara ịnụ ⟨את⟩ amamihe nke Shelomoh, site n'⟨את⟩ eze niile nke ụwa, ndị nụrụ ⟨את⟩ amamihe ya.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "si n'aka ndị niile"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ịnụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amamihe nke Shelomoh"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "site n'⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amamihe ya"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "amamihe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:54:40.294821972Z",
+  "model": "glm-5.3"
+}

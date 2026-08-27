@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Onye nwere aka dị ọcha, ma obi dị ọcha, onye na-ebughị mkpụrụ obi ya gaa n'ebe efu, ma na-agọghị nkwa aghụghọ.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "onye dị ọcha"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "aka"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "ma dị ọcha"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ebu"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "gaa n'ebe efu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma anaghị"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "agọ nkwa"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "aghụghọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:58.387173595Z",
+  "model": "glm-5.3"
+}

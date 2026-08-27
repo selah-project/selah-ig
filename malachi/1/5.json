@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma anya unu ga-ahụ, ma unu ga-ekwu, 'Ka a mata Yahwe n'ọtụtụ ebe karịa ókèala Yisraél.'",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "ma anya unu"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "ga-ahụ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ma unu"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ga-ekwu"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "ka a mata n'ọtụtụ ebe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "karịa"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "ókèala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    }
+  ],
+  "timestamp": "2026-08-27T13:09:50.731058931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Gị ga-echeta na ị bụbu ohu n'Mitzrayim; ya mere gị ga-echebe ma mezu ⟨את⟩ iwu ndị a.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "gị ga-echeta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ị bụbu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "n'Mitzrayim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "gị ga-echebe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ma mezu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu ndị a"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    }
+  ],
+  "timestamp": "2026-08-27T08:00:04.311386043Z",
+  "model": "glm-5.3"
+}

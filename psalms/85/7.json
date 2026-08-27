@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 85,
+  "translation": "Ọ bụghị ka ị ga-alaghachi, ka ị ga-eme ka anyị dịghachi ndụ, ka ndị gị ga-ṅụrọ ọṅụ n'ime gị?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ọ bụghị ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ga-alaghachi"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ka ị ga-eme ka anyị dịghachi ndụ"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ka ndị gị"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ga-ṅụrọ ọṅụ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "n'ime gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:35.520800193Z",
+  "model": "glm-5.3"
+}

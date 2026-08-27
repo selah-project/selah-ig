@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 2:1",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Olee otu Adonai si jiri igwe ojii kpuchie n'iwe ya ⟨את⟩ nwa nwanyị Tsiyon, tụgharịa site n'eluigwe ruo ụwa ⟨את⟩ ntụzi izizi nke Yisrael, ma chetakwa ọ bụghị oche ụkwụ ya n'ụbọchị iwe ya.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Olee otu"
+    },
+    {
+      "surface": "יעיב",
+      "gloss": "si kpuchie igwe ojii"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "n'iwe ya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa nwanyị Tsiyon"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "tụgharịa"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "site n'eluigwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ruo ụwa"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ntụzi iziza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma chetakwa ọ bụghị"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "chetara"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "oche ụkwụ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iwe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:09:30.601564725Z",
+  "model": "glm-5.3"
+}

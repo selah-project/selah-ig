@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Gị bụ ebe m na-ezoro; Gị ga-echebe m nsogbu; jiri abụ nke mgbapụta gbaa m gburugbu. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Gị"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "ebe m na-ezoro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "nsogbu"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "Gị ga-echebe m"
+    },
+    {
+      "surface": "רני",
+      "gloss": "abụ (olu ụtọ)"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "nke mgbapụta"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "gbaa m gburugbu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:05.321216911Z",
+  "model": "glm-5.3"
+}

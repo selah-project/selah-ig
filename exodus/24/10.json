@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ha hụrụ ⟨את⟩ Elohim nke Yisrael, n'okpuru ụkwụ ya dị ka ọrụ nke nkume sapphire, dịka ihe dị n'elu nke eluigwe n'ihe ọcha ya.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ha hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim nke Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ụkwụ ya"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "dị ka ọrụ nke"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ọcha\/nkume ọcha"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "sapphire"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "dịka ihe dị n'elu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "n'ihe ọcha ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:24:50.033540631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Anyị tụgharịrị ⟨את⟩ chesed gị n'uche, Elohim, n'etiti ụlọ nsọ gị.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "anyị tụgharịrị n'uche"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed gị"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "ụlọ nsọ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:35.775107267Z",
+  "model": "glm-5.3"
+}

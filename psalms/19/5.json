@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "N'ụwa niile, ahịrị ya pụtara, na njedebe nke ụwa, okwu ha; maka anyanwụ, o tinyere ⟨⟨ahụ〉⟩ n'ime ha.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "n'ụwa niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ahịrị ya"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "na njedebe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ụwa a nọ na ya"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "okwu ha"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "maka anyanwụ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o tinyere"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ụlọikwu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'ime ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:11.237765929Z",
+  "model": "glm-5.3"
+}

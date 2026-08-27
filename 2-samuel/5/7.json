@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Davịd we jide ⟨את⟩ ebe mgbawa nke Tsiyon; ọ ⟨is⟩ obodo nke Davịd.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "we jide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe mgbawa nke Tsiyon"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "ebe mgbawa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "nke Davịd"
+    }
+  ],
+  "timestamp": "2026-08-27T09:32:49.729167418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ọ bụrụ na ehi ahụ tụrọ ohu ma ọ bụ ohu nwanyị, ọ ga-enye onye nwe ya ego iri atọ nke shekel, ma ehi ahụ ga-amaji nkume.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "tụrọ"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ehi ahụ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ohu nwanyị"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ego (ọcha)"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "iri atọ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ọ ga-enye"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "onye nwe ya"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "ma ehi ahụ"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "ga-amaji nkume"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:22.331571822Z",
+  "model": "glm-5.3"
+}

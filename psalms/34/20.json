@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ọtụtụ nsogbu ndị onye ezi omume, ma Yahwe na-edozi ma na-ezọ ya n'ime ha niile.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "nsogbu ọjọọ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ezi omume"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "ma na ha niile"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ọ na-ezọ ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:34.224009081Z",
+  "model": "glm-5.3"
+}

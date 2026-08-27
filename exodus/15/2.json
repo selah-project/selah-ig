@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ike m na abụ m bụ Yah; ọ ghọrọ m nzọpụta. Nke a bụ El m, m ga-eto ya; Elohim nna m, m ga-ebuli ya elu.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ike m"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "na abụ m"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ ghọrọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "nzọpụta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El m"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "m ga-eto ya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna m"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "m ga-ebuli ya elu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:02.032092346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 6:8",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Adonai Yahwe ṅụrụ iyi site na nfụsọ ya, ka okwu Yahwe, Elohim nke ndị agha si: m kpọrọ mpụtara isi nke Yaakov asị, ụlọ ukwu ya ka m kpọrọ asị, m ga-enyefe obodo ⟨את⟩ na ihe jupụtara na ya.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ṅụrụ iyi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "site na nfụsọ ya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ka okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "מתאב",
+      "gloss": "m kpọrọ asị"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpụtara isi nke Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "mpụtara isi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וארמנתיו",
+      "gloss": "ụlọ ukwu ya"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "m kpọrọ asị"
+    },
+    {
+      "surface": "והסגרתי",
+      "gloss": "m ga-enyefe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "na ihe jupụtara na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:49:28.091966529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Le, eziokwu ka Ị chọrọ n'akpakpa ime; n'ebe ezozo ka Ị ga-eme ka m mata amamihe.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Le"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "eziokwu"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "Ị chọrọ"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "n'akpaakpa ime"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "n'ebe ezozo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "Ị ga-eme ka m mata"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:03.453399771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Ebee ka ịhụnanya ọgbụgba-ndụ gị nke mbụ dị, Adonai, nke i dụrụ ndụ na Dawid n'okwukwe gị?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Ebee ka"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ịhụnanya ọgbụgba-ndụ gị"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "i dụrụ ndụ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Dawid"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "n'okwukwe gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:12.470073050Z",
+  "model": "glm-5.3"
+}

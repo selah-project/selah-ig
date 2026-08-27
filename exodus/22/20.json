@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Onye ọbịa, ghara ịta ya ahụhụ, ma ghara kwa ịmanye ya; n'ihi na ndị ọbịa ka bụrụ na ala Mitzrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "onye ọbịa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "ịta ya ahụhụ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ghara kwa"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "ịmanye ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ndị ọbịa"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ka bụrụ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrajim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:17.277312989Z",
+  "model": "glm-5.3"
+}

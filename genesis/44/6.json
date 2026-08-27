@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Ọ̀ gbachiri ha ma ṅụrụ ha, sịrị ha ⟨את⟩ okwu ndị a.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "ọ̀ gbachiri ha"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ma ṅụrụ ha, sịrị ha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ndị a"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T05:59:47.102824570Z",
+  "model": "glm-5.3"
+}

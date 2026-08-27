@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 5:4",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "M ga-epụta ya, okwu Yahwe nke ndị agha, ọ ga-abanye n'ụlọ onye ohi, na n'ụlọ onye na-ṅụ iyi n'aha m n'ụzọ ụgha; ọ ga-anọdụ n'etiti ụlọ ya, ma mebie ⟨את⟩ osisi ya na ⟨את⟩ nkume ya.",
+  "tokens": [
+    {
+      "surface": "הוצאתיה",
+      "gloss": "M ga-epụta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "ובאה",
+      "gloss": "ọ ga-abanye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "onye ohi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na n'"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "onye na-ṅụ iyi"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "n'aha m"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "n'ụzọ ụgha"
+    },
+    {
+      "surface": "ולנה",
+      "gloss": "ọ ga-anọdụ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    },
+    {
+      "surface": "וכלתו",
+      "gloss": "ma mebie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "osisi ya"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "osisi ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkume ya"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "nkume ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:05:19.661750799Z",
+  "model": "glm-5.3"
+}

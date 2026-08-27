@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ ndị Pathrusim, ⟨את⟩ ndị Casluchim — site n'etiti ha ka ndị Pelishtim pụtara — na ⟨את⟩ ndị Caphtorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "ndị Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Casluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "ndị Casluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "משם",
+      "gloss": "site n'ebe ahụ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Pelishtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Caphtorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "ndị Caphtorim"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:55.148851540Z",
+  "model": "glm-5.3"
+}

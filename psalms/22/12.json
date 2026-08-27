@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Elaa ka Ị ghara ịdị anya m, n'ihi na nsogbu dị nso, n'ihi na enweghị onye na-enyere aka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Elaa ka"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "Ị ghara ịdị anya"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nsogbu"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "dị nso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "onye na-enyere aka"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:29.495255936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Okwu ọnụ m na-eche n'obi ka ha dịrị ⟨dị⟩ mmasị n'ihu Gị, Yahwe, Nkume m na Onye Mgbapụta m.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ka ha dị"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "mmasị"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "na-eche n'obi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu Gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Nkume m"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "na Onye Mgbapụta m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:23.563143975Z",
+  "model": "glm-5.3"
+}

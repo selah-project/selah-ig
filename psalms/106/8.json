@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Ma Ọ zọpụtara ha maka aha ya, iji mee ka a mara ⟨את⟩ ike ya dị egwu.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Ma Ọ zọpụtara ha"
+    },
+    {
+      "surface": "למען",
+      "gloss": "maka"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "iji mee ka a mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ike ya dị egwu"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "ike ya dị egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.298308805Z",
+  "model": "glm-5.3"
+}

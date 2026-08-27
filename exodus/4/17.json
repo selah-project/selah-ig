@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ma ⟨את⟩ mkpọkọ a ga-ewere n'aka gị, nke ga-eme gị ⟨את⟩ ihe ụgha ndị ahụ ya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mkpọkọ a"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "mkpọkọ a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ga-ewere"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "n'aka gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ụgha ndị ahụ"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ihe ụgha ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:08:51.307742991Z",
+  "model": "glm-5.3"
+}

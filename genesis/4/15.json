@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 4:15",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ya Yahwe gwara ya: Maka n'ihi ya, onye ọ bụla na-egbu Kayin, a ga-eweghachite ugbọ asaa megide ya. Ma Yahwe nyere Kayin ⟨את⟩ akara, ka onye ọ bụla na-ahụ ya ghara igbu ya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "maka n'ihi ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "na-egbu"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ugbọ asaa"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "a ga-eweghachite"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "אות",
+      "gloss": "akara"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "igbu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Kayin)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "na-ahụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:14.909896212Z",
+  "model": "glm-5.3"
+}

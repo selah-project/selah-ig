@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 136,
+  "translation": "Kelee Yahwe, n'ihi na ọ di mma, n'ihi na ruo mgbe ebighị ebi chesed ya di.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Kelee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọ di mma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ya di"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:45.762825519Z",
+  "model": "glm-5.3"
+}

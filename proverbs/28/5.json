@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ndị ajọ omume anaghị aghọta ikpe ziri ezi, mana ndị na-achọ Yahwe na-aghọta ihe niile.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ajọ omume"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "aghọta"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "mana ndị na-achọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "na-aghọta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    }
+  ],
+  "timestamp": "2026-08-27T14:32:52.311996723Z",
+  "model": "glm-5.3"
+}

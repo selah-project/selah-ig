@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ị ga-emekwa ebe ọkụ ọṅụ, ebe a na-ere ụṅụ; osisi shittim ka ị ga-eji eme ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ị ga-emekwa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ebe ọkụ ọṅụ"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "ebe a na-ere"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ụṅụ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ị ga-eji eme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (ebe ọkụ ọṅụ ahụ)"
+    }
+  ],
+  "timestamp": "2026-08-27T06:31:54.842392817Z",
+  "model": "glm-5.3"
+}

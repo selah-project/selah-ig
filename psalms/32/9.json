@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Eghela ịbụ dịka ⟨the⟩ ịnyinya, dịka mbụlụ, enweghị nghọta; na mgbịrịgba na eriri ọnụ — ihe ịchọ mma ya — iji jide ya ka ọ ghara ịbịa nso gị.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "eghela"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ịbụ"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "dịka ⟨the⟩ ịnyinya"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "dịka mbụlụ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "nghọta"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "na mgbịrịgba"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "na eriri ọnụ"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ihe ịchọ mma ya"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "iji jide ya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ịbịa nso"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:58.006038793Z",
+  "model": "glm-5.3"
+}

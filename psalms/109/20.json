@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Nke a bụ ọrụ ndị na-ebo m ebubo site n'aka ⟨את⟩ Yahwe, ha na ndị na-ekwu ihe ọjọọ megide mkpụrụ obim.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "ndị na-ebo m ebubo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "na ndị na-ekwu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:04.868200911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Lavan wee ruo ⟨את⟩ Yaakov ebe ọ nọ; Yaakov agbaala ⟨את⟩ ahụ́ ya n'elu ugwu, Lavan wee ti ⟨את⟩ ya na ndị ikwu ya n'Ugwu Gilead.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "ruo ebe ọ nọ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahụ́ ya"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ahụ́ ya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'elu ugwu"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya na ndị ikwu ya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndị ikwu ya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'Ugwu"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    }
+  ],
+  "timestamp": "2026-08-27T05:49:07.862773359Z",
+  "model": "glm-5.3"
+}

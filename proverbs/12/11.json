@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Onye na-arụ ọrụ ubi ya ga-eju afọ nri; ma onye na-achụ ihe efuna efu enweghị obi ihe.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "onye na-arụ ọrụ"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ubi ya"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ga-eju afọ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ma onye na-achụ"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "ihe efuna efu"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi ihe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:20:59.031929738Z",
+  "model": "glm-5.3"
+}

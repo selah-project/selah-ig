@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ndị a bụ ⟨ndị a kpọrọ⟩ oku n'ọgbakọ ⟨ה⟩, ndị isi agbụrụ ndị nna ha, isi pụkụ nke Israel ha bụ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ndị a"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "⟨ndị a kpọrọ⟩ oku"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "n'ọgbakọ ⟨ה⟩"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "agbụrụ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ndị nna ha"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "isi"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "pụkụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:09:11.987719417Z",
+  "model": "glm-5.3"
+}

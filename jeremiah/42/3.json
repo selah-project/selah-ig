@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "ka Yahwe, Elohim gị, gwa anyị ⟨את⟩ ụzọ anyị ga-aga na ya, na ⟨את⟩ okwu ahụ anyị ga-eme.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ka Ọ gwaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụzọ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "anyị ga-aga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "okwu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "anyị ga-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T11:46:42.710397513Z",
+  "model": "glm-5.3"
+}

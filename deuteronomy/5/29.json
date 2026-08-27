@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 5:29",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ònye ga-enye ka obi ha dị otu a n'aka ha, na-atụ ⟨את⟩M egwu na idebe ⟨את⟩ iwu m niile, ụbọchị niile, ka ọ dị ha mma, ha na ụmụ ha, ruo mgbe ebighị ebi!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ònye"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ga-enye"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ka ọ bụ"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "obi ha"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dị otu a"
+    },
+    {
+      "surface": "להם",
+      "gloss": "n'aka ha"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "na-atụ egwu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "M (Yahwe)"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "na idebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu m niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ולבניהם",
+      "gloss": "na ụmụ ha"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T07:53:51.884094589Z",
+  "model": "glm-5.3"
+}

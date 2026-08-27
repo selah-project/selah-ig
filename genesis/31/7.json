@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Nna unu agha ụgha m, ma gbanwee ⟨את⟩ ụgwọ ọrụ m ugboro iri; mana Elohim enyeghị ya ikike ime ihe ọjọọ nye m.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "nna unu"
+    },
+    {
+      "surface": "התל",
+      "gloss": "agha ụgha"
+    },
+    {
+      "surface": "בי",
+      "gloss": "m"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "ma gbanwee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụgwọ ọrụ m"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "ụgwọ ọrụ m"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ugboro iri"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "ugboro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana ... ọ bụghị"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "enyeghị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ime ihe ọjọọ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "nye m"
+    }
+  ],
+  "timestamp": "2026-08-27T05:48:57.010713808Z",
+  "model": "glm-5.3"
+}

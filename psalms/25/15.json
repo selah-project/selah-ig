@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Anya m na-ele [[\tYahwe]] mgbe niile, n'ihi na Ọ ga-ewepụ ụkwụ m n'aka net.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na-ele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ọ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ga-ewepụ"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "n'aka net"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ụkwụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:15.192909258Z",
+  "model": "glm-5.3"
+}

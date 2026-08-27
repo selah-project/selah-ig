@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 48:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "N'ihi na a na-akpọ ha site n'obodo ⟨nke⟩ nsọ, ma na-adabere na Elohim nke Yisrael; Yahwe nke ndị agha ka aha ya bụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "site n'obodo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "נקראו",
+      "gloss": "a na-akpọ ha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ma na"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נסמכו",
+      "gloss": "na-adabere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:00:59.414329283Z",
+  "model": "glm-5.3"
+}

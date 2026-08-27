@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "M ga-edekwa na mkpụrụ ndị ahụ ⟨את⟩ okwu ndị nọ n'elu mkpụrụ ndị mbụ ndị gi mebiri, gị na-etinyekwa ha n'igbe ahụ.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "m ga-edekwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "mkpụrụ ndị ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ndị"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "mkpụrụ ndị"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ndị mbụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "gi mebiri"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "gị na-etinyekwa ha"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "n'igbe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:56:45.675073177Z",
+  "model": "glm-5.3"
+}

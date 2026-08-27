@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 32:28",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "N'ihi ya, otu a ka Yahwe kwuru: Le, m na-enye ⟨את⟩ obodo a n'aka ndị Kasdim, na n'aka Nevukhadretstsar, eze Bavel, ma ọ ga-edoba ya.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "N'ihi ya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Le, m"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "(a)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "ndị Kasdim"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "na n'aka"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukhadretstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ma ọ ga-edoba ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:39:47.283304802Z",
+  "model": "glm-5.3"
+}

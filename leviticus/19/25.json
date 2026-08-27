@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ma n'afọ nke ise, unu ga-eri ⟨את⟩ mkpụrụ ya, iji gbakwunye maka unu ihe ọ na-amịpụta; mụ bụ Yahwe Elohim gị.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Ma n'afọ"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "nke ise"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "unu ga-eri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpụrụ ya"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "mkpụrụ ya"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "iji gbakwunye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka unu"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "ihe ọ na-amịpụta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ bụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:00:33.098577837Z",
+  "model": "glm-5.3"
+}

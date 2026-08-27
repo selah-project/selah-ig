@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Agam ekele Yahwe n'obi m niile; m ga-akọwapụta ihe ịtụnanya gi niile.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Agam ekele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'... niile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "m ga-akọwapụta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ihe ịtụnanya gi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:50.485385996Z",
+  "model": "glm-5.3"
+}

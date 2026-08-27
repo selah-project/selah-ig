@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 115,
+  "translation": "Maka gịnị ka mba ndị ga-asị, Ebee ka chi ha nọ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "maka gịnị"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ga-asị"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ebee"
+    },
+    {
+      "surface": "נא",
+      "gloss": "fọdụ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "chi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:35.534895298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Gaa n'ụlọ ndị Rekhav, soro ha kwuo okwu, were ha bata n'ụlọ Yahwe, n'otu ọnụ ụlọ ndị ahụ, ma mee ka ha ṅụọ mmanya.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Gaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "ndị Rekhav"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ma soro ha kwuo okwu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ha (ndị Rekhav)"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "were ha bata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "ọnụ ụlọ ndị ahụ"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "ma mee ka ha ṅụọ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mmanya"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mmanya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:42:58.233619469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Obi dị ndị ikom gị mma, obi dị ndị ohu gị ndị a mma, ndị na-eguzo mgbe niile n'ihu gị, na-anụ ⟨את⟩ amamihe gị!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "obi dị ... mma"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "ndị ikom gị"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "obi dị ... mma"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ndị ohu gị"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "na-eguzo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "na-anụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amamihe gị"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "amamihe gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:37:05.896568266Z",
+  "model": "glm-5.3"
+}

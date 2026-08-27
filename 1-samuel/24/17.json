@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 24:17",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ọ dịkwa, mgbe Davịd gwụchara ikwu ⟨את⟩ okwu ndị a nye Shaụl, Shaụl weere kwuo, \"Ọ bụ ụda olu gị nke a, nwa m Davịd?\" Shaụl welitere olu ya wee tiwaa ákwá.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dịkwa"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "mgbe ọ gwụchara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ikwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ndị a"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaụl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "weere kwuo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaụl"
+    },
+    {
+      "surface": "הקלך",
+      "gloss": "ọ bụ ụda olu gị"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "welitere"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaụl"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "olu ya"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "wee tiwaa ákwá"
+    }
+  ],
+  "timestamp": "2026-08-27T16:34:13.523262459Z",
+  "model": "glm-5.3"
+}

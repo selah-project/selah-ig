@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Ị na-eme anyị ka anyị bụrụ ihe ihere maka ndị agbata obi anyị, ihe ọchị na ihe mkparị maka ndị gbara anyị gburugbu.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Ị na-eme anyị"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ihe ihere"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "maka ndị agbata obi anyị"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "ihe ọchị"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "na ihe mkparị"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "maka ndị gbara anyị gburugbu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:54.612117476Z",
+  "model": "glm-5.3"
+}

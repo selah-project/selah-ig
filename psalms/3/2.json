@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Yahwe, ole ka ndị mkpagbu m ji bụrụ ọtụtụ! Ole na-ebilite megide m.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ole ka"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ji bụrụ ọtụtụ"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ndị mkpagbu m"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Ole"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "na-ebilite"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "megide m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:35.555933116Z",
+  "model": "glm-5.3"
+}

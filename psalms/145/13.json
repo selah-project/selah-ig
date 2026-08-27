@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Alaeze gị ⟨bụ⟩ alaeze nke oge enweghị ngwụcha niile, na ọchịchị gị na ⟨ọgbọ⟩ niile ruo ọgbọ.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "alaeze gị"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "alaeze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "oge enweghị ngwụcha"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "na ọchịchị gị"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na ... niile"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na ọgbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:55.178675193Z",
+  "model": "glm-5.3"
+}

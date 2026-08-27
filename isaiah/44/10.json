@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Onye ka ⟨akpụrụ⟩ chi (el) n'ụdị, ma ọ bụ tọgbọ onyinyo arụsị ndị a tụbara mkpụrụ, nke na-enweghị uru ọ bụla?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "akpụrụ n'ụdị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chi"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "ma ọ bụ onyinyo arụsị"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "nke a tụbara mkpụrụ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "nke na-enweghị"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "uru ọ bụla"
+    }
+  ],
+  "timestamp": "2026-08-27T16:39:45.406970766Z",
+  "model": "glm-5.3"
+}

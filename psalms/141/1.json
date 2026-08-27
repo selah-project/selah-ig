@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 141,
+  "translation": "Abụ nke ndị na-akụ egwu, nke Davịd. Yahwe, m kpọrọ gị oku; gbagaa m ọsọ; tụgharịa ntị gị n'olu m, mgbe m na-akpọ gị oku.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "abụ nke ndị na-akụ egwu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Davịd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "m kpọrọ gị oku"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "gbagaa ọsọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tụgharịa ntị gị"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "n'olu m"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "mgbe m na-akpọ oku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:20.213300989Z",
+  "model": "glm-5.3"
+}

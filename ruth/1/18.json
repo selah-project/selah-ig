@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "O huru na ọ na-amasi ike iji gaa ⟨את⟩ ya, wee kwụsị ikwu ya okwu.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "O huru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "na-amasi ike"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "iji gaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "wee kwụsị"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ikwu okwu"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:06:09.248315459Z",
+  "model": "glm-5.3"
+}

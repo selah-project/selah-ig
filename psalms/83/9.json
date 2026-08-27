@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "Ashshur bịakwazie soro ha; ha ghọrọ ogwe aka nye ụmụ Lot. Sela.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bịakwazie"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "soro"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ha ghọrọ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ogwe aka"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:53.099512157Z",
+  "model": "glm-5.3"
+}

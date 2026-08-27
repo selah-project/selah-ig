@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ha wee kwatuo ⟨את⟩ nkewa-nsọ nke Baal, ma kwatuo ⟨את⟩ ụlọ Baal, mebie ya ka ọ bụrụ ụlọ-mkpọrọ-nsị ruo taa.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "ha wee kwatuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkewa-nsọ nke Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "nkewa-nsọ"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "ma kwatuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "mebie ya ka ọ bụrụ"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "ụlọ-mkpọrọ-nsị"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    }
+  ],
+  "timestamp": "2026-08-27T10:17:16.082636477Z",
+  "model": "glm-5.3"
+}

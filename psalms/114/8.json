@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 114,
+  "translation": "⟨Onye⟩ na-atụgharị nkume ka ọ bụrụ ọdọ mmiri, nkume siri ike ka ọ bụrụ isi iyi mmiri.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "na-atụgharị"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "ọdọ mmiri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "nkume siri ike"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "isi iyi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:32.716420139Z",
+  "model": "glm-5.3"
+}

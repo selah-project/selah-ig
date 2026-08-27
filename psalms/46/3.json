@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "N'ihi ya anyị agaghị atụ egwu mgbe ⟨⟨⟩⟩ ụwa na-agbanwe, ma mgbe ugwu na-atụgharị n'etiti oké osimiri.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "atụ egwu"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "mgbe ọ na-agbanwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "ma mgbe ọ na-atụgharị"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "oké osimiri"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:55.540937230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 127,
+  "translation": "Dịka ndị agbā n'aka dike, otu a ka ụmụ nke nkịtị ntorobịa dị.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "dịka ndị agbā"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "dike"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "nke nkịtị ntorobịa"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:34.543481344Z",
+  "model": "glm-5.3"
+}

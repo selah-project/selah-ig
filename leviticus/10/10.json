@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "na ịmata ọdịiche dị n'etiti ⟨nke⟩ dị nsọ na nke na-adịghị nsọ, na n'etiti nke na-adịghị ọcha na nke dị ọcha,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "na ịmata ọdịiche"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti ⟨nke⟩"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "dị nsọ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na n'etiti"
+    },
+    {
+      "surface": "החל",
+      "gloss": "nke na-adịghị nsọ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na n'etiti"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nke na-adịghị ọcha"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na n'etiti"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "nke dị ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:50:43.453555915Z",
+  "model": "glm-5.3"
+}

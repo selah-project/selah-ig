@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 81,
+  "translation": "Nụọ, ndị m, m ga-akara gị aka: O Yisrael, ọ bụrụ na ige ntị m;",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Nụọ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "m ga-akara aka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ige ntị"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:38.349063668Z",
+  "model": "glm-5.3"
+}

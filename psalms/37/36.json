@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Mana o gafere, lee, ọ nọghịzi; m chọkwara ya, ma a hụghị ya.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Mana o gafere"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lee"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ọ nọghịzi"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "m chọkwara ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "a hụghị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:40.116474435Z",
+  "model": "glm-5.3"
+}

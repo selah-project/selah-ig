@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "O wee sị: Onye a gọziri agọzi bụ Yahwe, Elohim nke Israel, onye kwuru n'ọnụ Ya ⟨את⟩ David nna m, ma jiri aka Ya mezuo ya, ka ọ na-asị:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "onye a gọziri agọzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "n'ọnụ Ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David nna m"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna m"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "ma jiri aka Ya"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mezuo ya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ọ na-asị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:56:51.113851134Z",
+  "model": "glm-5.3"
+}

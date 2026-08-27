@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Moshe na-azụ ⟨את⟩ atụrụ Yitro, ọgọ ya, onye-nsọ nke Midyan; ọ duziri ⟨את⟩ atụrụ ndị ahụ gafere Ọzara, wee rute n'Ugwu nke Elohim, na Horeb.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "na-"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "-azụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atụrụ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ọgọ ya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "onye-nsọ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "ọ duziri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atụrụ ndị ahụ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "atụrụ ndị ahụ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "gafere"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "Ọzara"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wee rute"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Ugwu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "na Horeb"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:23.375464164Z",
+  "model": "glm-5.3"
+}

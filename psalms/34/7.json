@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Onye ogbenye a kpọrọ oku, ma Yahwe nụrụ ya, ma zọpụtara ya n'ime nsogbu ya niile.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "a"
+    },
+    {
+      "surface": "עני",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kpọrọ oku"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ma Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ma site n'ime niile"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "nsogbu ya"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "zọpụtara ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:39.467133564Z",
+  "model": "glm-5.3"
+}

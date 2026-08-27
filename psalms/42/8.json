@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Omiri-omimi na-akpọ omiri-omimi ka olu ọdọ-mmiri gị na-ada; ebili mmiri gị niile na mmiri-wulu gị gafere n'elu m.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "omiri-omimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aka"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "omiri-omimi"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "na-akpọ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ka olu"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "ọdọ-mmiri gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ebili mmiri gị"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "na mmiri-wulu gị"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gafere"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:59.177230078Z",
+  "model": "glm-5.3"
+}

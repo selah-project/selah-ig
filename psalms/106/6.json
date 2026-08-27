@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Anyị mehiere ya na nna nna anyị, anyị tọgharisịrị ihe, anyị rụrụ ọjọọ.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Anyị mehiere"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "nna nna anyị"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "anyị tọgharisịrị ihe"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "anyị rụrụ ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.297984841Z",
+  "model": "glm-5.3"
+}

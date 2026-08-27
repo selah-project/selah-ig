@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "O wee kwuo ya: Otú a ka Yiftach kwuru, sị: Ọ dịghị na Izrel weere ⟨את⟩ ala Mọab, ma ọlị ⟨את⟩ ala ụmụ Amọn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee kwuo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otú a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "na Izrel weere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala Mọab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mọab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma ọlị ⟨את⟩",
+      "marks": "ala ụmụ Amọn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amọn"
+    }
+  ],
+  "timestamp": "2026-08-27T08:51:36.672008188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "N'ụbọchị niile nke ịla ezinaụlọ ya ọ ga-ezu ike — ⟨את⟩ ihe o zuru ike na ya n'oge Sabbath unu, mgbe unu nọkwasịrị ya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "nke ịla ezinaụlọ ya"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "ọ ga-ezu ike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe o zuru ike na ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "o zuru ike"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "n'oge Sabbath unu"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "mgbe unu nọkwasịrị"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:08:51.241611224Z",
+  "model": "glm-5.3"
+}

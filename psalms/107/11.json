@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "N'ihi na ha jụrụ okwu El, ma leghaara ndụmọdụ nke Elyon anya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ha jụrụ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "ma ndụmọdụ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "nke Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "leghaara anya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.239910111Z",
+  "model": "glm-5.3"
+}

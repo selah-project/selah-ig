@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ibu nke okwu Yahwe ruo Israel, n'aka Malakhi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Ibu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malakhi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:09:20.950054472Z",
+  "model": "glm-5.3"
+}

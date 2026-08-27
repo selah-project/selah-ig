@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "Ka Yisrel sị ugbu a, na ruo mgbe ebighị ebi chesed ya dị.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "Ka ... sị"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:42.403666284Z",
+  "model": "glm-5.3"
+}

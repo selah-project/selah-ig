@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "O nyere ha ala ndị mba ọzọ, ma ọrụ aka nke ndị obodo ha ketara.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "O nyere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "ala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndị mba ọzọ"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ọrụ aka"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ndị obodo"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ha ketara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:38.297798469Z",
+  "model": "glm-5.3"
+}

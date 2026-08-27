@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 18:6",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "O jikọtara onwe ya na Yahwe, ọ nụghị ịla n'azụ Ya, ma chekwaa iwu Ya, nke Yahwe nyere ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וידבק",
+      "gloss": "o jikọtara onwe ya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ nụghị"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ịla"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "n'azụ Ya"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ma chekwaa"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "iwu Ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-27T10:23:44.879324639Z",
+  "model": "glm-5.3"
+}

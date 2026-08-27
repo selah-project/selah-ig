@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ị ga-etinye ⟨את⟩ oche-eche-ebe n'elu Igbe Aka-amáma, n'Eke-Dị-Nsọ-nke-Ndị-Nsọ.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ọ ga-etinye gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oche-eche-ebe"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "⟨the⟩ oche-eche-ebe"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Igbe"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Aka-amáma"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "n'Eke-Dị-Nsọ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "nke Ndị-Nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:30:16.016394004Z",
+  "model": "glm-5.3"
+}

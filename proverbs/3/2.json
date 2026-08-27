@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Maka ogologo ụbọchị, na afọ ndụ, na udo, ha ga-agbakwunye gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ogologo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "na afọ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "na udo"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "ha ga-agbakwunye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:13:36.009910993Z",
+  "model": "glm-5.3"
+}

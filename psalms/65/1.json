@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "Maka onye nduzi egwu, mizmor nke David, abụ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye nduzi egwu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:37.099164185Z",
+  "model": "glm-5.3"
+}

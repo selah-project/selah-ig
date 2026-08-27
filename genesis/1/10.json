@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Elohim kpọrọ akụkụ ala kpọrọ nkụ Ala, ma kpọọ ebe nchịkọta nke ⟨mmiri⟩ Oké Osimiri; Elohim hụrụ na ọ dị mma.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ma kpọọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "akụkụ ala kpọrọ nkụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "ma kpọọ ebe nchịkọta nke"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ọ kpọrọ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Oké Osimiri"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ma hụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:16.259936573Z",
+  "model": "glm-5.3"
+}

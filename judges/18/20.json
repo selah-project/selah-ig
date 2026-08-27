@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Obi nke onye-nchụ-aja ahụ dị ya mma, ọ wee were ⟨את⟩ efood, na ⟨את⟩ terafim, na ⟨את⟩ ihe oyiyi a kụrụ akụ, ma banye n'etiti ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "dị ya mma"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchụ-aja ahụ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ọ wee were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efood"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efood"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe oyiyi a kụrụ akụ"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "ihe oyiyi a kụrụ akụ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ma banye"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:33:18.103002783Z",
+  "model": "glm-5.3"
+}

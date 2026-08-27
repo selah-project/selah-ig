@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "cha anụnụ anụnụ, cha odo odo, na ude uhie, na ákwà linin, na ntutu ewu.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "cha anụnụ anụnụ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "cha odo odo"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ude"
+    },
+    {
+      "surface": "שני",
+      "gloss": "uhie"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ákwà linin"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "ntutu ewu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:29:10.827490643Z",
+  "model": "glm-5.3"
+}

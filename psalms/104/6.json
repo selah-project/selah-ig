@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Izu miri-juru-juru ka uwe ⟨Ị⟩ kpuchiri ya; mmiri guzoro n'elu ugwu.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "izu miri-juru-juru"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "ka uwe"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "Ị kpuchiri ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "guzoro"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:23.919759292Z",
+  "model": "glm-5.3"
+}

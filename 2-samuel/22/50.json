@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "2-samuel 22:50",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "N'ihi ya, m ga-eto gị, Yahwe, n'etiti mba ndị ọzọ, ma nye aha gị m ga-abụ abụ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "m ga-eto gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "n'etiti mba ndị ọzọ"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "ma nye aha gị"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "m ga-abụ abụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:35:26.343808636Z",
+  "model": "glm-5.3"
+}

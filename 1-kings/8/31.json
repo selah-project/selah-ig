@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 8:31",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "⟨את⟩ nke mmadụ na-emehie megide onye ya, ma na-edobe n'elu ya iyi ka a manyere ya ịṅụ iyi, ma iyi ahụ na-abịa n'ihu ebe ịchụàjà gị, n'ụlọ a,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nke mmadụ na-emehie megide onye ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "na-emehie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "onye ya"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ma na-edobe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yiyi"
+    },
+    {
+      "surface": "להאלתו",
+      "gloss": "ka a manyere ya ịṅụ iyi"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ma na-abịa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yiyi ahụ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "ebe ịchụàjà gị"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T16:36:21.497498439Z",
+  "model": "glm-5.3"
+}

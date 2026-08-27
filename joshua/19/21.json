@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "na Remeth, na En-Gannim, na En-Chaddah, na Beit-Patstsets.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "na Remeth"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "na En-"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Gannim"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "na En-"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "Chaddah"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na Beit-"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "Patstsets"
+    }
+  ],
+  "timestamp": "2026-08-27T08:34:11.290775543Z",
+  "model": "glm-5.3"
+}

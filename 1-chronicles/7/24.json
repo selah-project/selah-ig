@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Nwa ya nwanyị bu Sheera; ọ rụrụ ⟨את⟩ Bet-Horon nke ala, ⟨את⟩ nke elu, na ⟨את⟩ Uzen-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "nwa ya nwanyị"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "ọ rụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "nke ala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nke elu"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "nke elu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Uzen-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-08-27T15:56:20.974930805Z",
+  "model": "glm-5.3"
+}

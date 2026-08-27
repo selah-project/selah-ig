@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "N'ime ⟨the⟩ obodo ha na-esọ ọsọ; n'elu mgbidi ha na-agba ọsọ; n'ime ụlọ ha na-arịgo; site n'ime windo ha na-abata, dịka onye ohi.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "n'ime obodo"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "ha na-esọ ọsọ"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "n'elu mgbidi"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "ha na-agba ọsọ"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "n'ime ụlọ"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ha na-arịgo"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "site n'ime"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "windo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ha na-abata"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "dịka onye ohi"
+    }
+  ],
+  "timestamp": "2026-08-27T12:44:46.408277441Z",
+  "model": "glm-5.3"
+}

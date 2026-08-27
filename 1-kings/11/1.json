@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ma Eze Shelomoh hụrụ ụmụnwaanyị ole na ole ndị ọzọ n'ala n'anya, na ⟨את⟩ nwa ada Paroh, ụmụnwaanyị Mowab, ụmụnwaanyị Amon, ụmụnwaanyị Edom, ụmụnwaanyị Tsidon, na ụmụnwaanyị Het.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ma Eze"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hụrụ n'anya"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ụmụnwaanyị"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "ndị ọzọ n'ala"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ole na ole"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ada Paroh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa ada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "ụmụnwaanyị Mowab"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "ụmụnwaanyị Amon"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "ụmụnwaanyị Edom"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "ụmụnwaanyị Tsidon"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "ụmụnwaanyị Het"
+    }
+  ],
+  "timestamp": "2026-08-27T10:01:16.822832882Z",
+  "model": "glm-5.3"
+}

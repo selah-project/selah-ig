@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ndi nchuaja ga-eweta ha n'ihu Yahwe, ma mee ⟨את⟩ onyinye-mmehie ya na ⟨את⟩ ọkụ-onyinye ya.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ga-eweta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchuaja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onyinye-mmehie ya"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "onyinye-mmehie ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọkụ-onyinye ya"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ọkụ-onyinye ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:15:37.460419264Z",
+  "model": "glm-5.3"
+}

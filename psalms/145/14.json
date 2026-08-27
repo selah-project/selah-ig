@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Yahwe na-akwado ndị niile na-adаda, ma na-ewelite ndị niile a gbadọrọ agbadọ.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "na-akwado"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka ndị niile"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ndị na-adаda"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "ma na-ewelite"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka ndị niile"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "ndị a gbadọrọ agbadọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:55.178857650Z",
+  "model": "glm-5.3"
+}

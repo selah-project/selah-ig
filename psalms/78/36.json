@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ma ha dara ya ụgha n'ọnụ ha, ma n'asụsụ ha ha ghọgburu ya.",
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "ha ghọgburu ya"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "n'ọnụ ha"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "ma n'asụsụ ha"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "ha dara ụgha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:01.770273896Z",
+  "model": "glm-5.3"
+}

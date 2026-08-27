@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Onye ziri ezi maara mkpụrụ obi anụmanụ ya; ma ọmụọ nke ndị ajọ omume obi siri ike.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "maara"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ziri ezi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mkpụrụ obi"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "anụmanụ ya"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "ma ọmụọ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "obi siri ike"
+    }
+  ],
+  "timestamp": "2026-08-27T14:20:59.031781247Z",
+  "model": "glm-5.3"
+}

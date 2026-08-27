@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Yahwe, Elohim anyị, ndị nwe ndị ọzọ gunère gị nwere anyị; naanị gị ka anyị na-echeta aha gị.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "nwere anyị"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ndị nwe"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "ndị ọzọ gunère gị"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "anyị na-echeta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:45:59.561512842Z",
+  "model": "glm-5.3"
+}

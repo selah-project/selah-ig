@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 43:28",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Ya mere m ga-eme ka ndị isi ⟨nke⟩ ebe dị nsọ ghọọ ihe rụrụ arụ, ma m ga-enye Yaakov ka ọ ghọọ ihe ewetara mbibi, ma Israel ka ọ ghọọ ihe a na-ajụ ajụ.",
+  "tokens": [
+    {
+      "surface": "ואחלל",
+      "gloss": "ga-eme ka ... ghọọ ihe rụrụ arụ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨nke⟩ ebe dị nsọ"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ma m ga-enye"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "ka ọ ghọọ ihe ewetara mbibi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ma Israel"
+    },
+    {
+      "surface": "לגדופים",
+      "gloss": "ka ọ ghọọ ihe a na-ajụ ajụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:58:52.835844064Z",
+  "model": "glm-5.3"
+}

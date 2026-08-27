@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma Elohim kere ⟨את⟩ adam n'onyinyo ya; n'onyinyo Elohim ka o kere ⟨את⟩ ya; nwoke na nwanyị ka o kere ⟨את⟩ ha.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Ma … kere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "n'onyinyo ya"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "n'onyinyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "o kere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (adam)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "na nwanyị"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "o kere"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha (adam nwoke na nwanyị)"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:18.073159798Z",
+  "model": "glm-5.3"
+}

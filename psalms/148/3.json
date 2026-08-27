@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 148,
+  "translation": "Toonu Ya, anyanwụ na ọnwa; toonu Ya, kpakpando niile nke ìhè.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Toonu Ya"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "anyanwụ"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "na ọnwa"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "toonu Ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "kpakpando"
+    },
+    {
+      "surface": "אור",
+      "gloss": "nke ìhè"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:37.906210123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 11:22",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Maka n'ihi ya, otu a ka Yahwe nke ndị ọgụgụ siri kwuo: Le, m na-abịa ikpe ha; ụmụ okorobịa ha ga-anwụ n'mmaa; ụmụ ha nwoke na ụmụ ha nwanyị ga-anwụ na agụụ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Maka n'ihi ya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị ọgụgụ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Le, m"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "na-abịa ikpe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "ụmụ okorobịa ha"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ga-anwụ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "n'mmaa"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ụmụ ha nwoke"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "ụmụ ha nwanyị"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ga-anwụ"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "na agụụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:20:17.541065260Z",
+  "model": "glm-5.3"
+}

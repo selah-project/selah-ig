@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Ma anyị kwuru ⟨etú⟩ Adonai m: Nwa okoro ahụ enweghị ike ịhapụ ⟨את⟩ nna ya; ọ bụrụ na ọ hapụrụ ⟨את⟩ nna ya, ọ ga-anwụ.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Ma anyị kwuru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨etú⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enweghị ike"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ike"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "Nwa okoro ahụ"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "ịhapụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ọ hapụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ọ ga-anwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:58:02.566338304Z",
+  "model": "glm-5.3"
+}

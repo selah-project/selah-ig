@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ma o mere ka manna dina mmiri n'elu ha ka ha rie nri, ma nye ha ọka nke eluigwe.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "ma o mere ka o dina mmiri"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "n'elu ha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manna"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ka ha rie nri"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "ma ọka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nke eluigwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nye"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:09.398038752Z",
+  "model": "glm-5.3"
+}

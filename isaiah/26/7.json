@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ụzọ ndị e kwuru kwesiri ezumike; Onye kwụ ọtọ, Ị na-edozi ụzọ ndị kwesiri ikwesị.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ndị kwesiri ikwesị"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ezumike"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Onye kwụ ọtọ"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ndị kwesiri ikwesị"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "Ị na-edozi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:45:36.544633519Z",
+  "model": "glm-5.3"
+}

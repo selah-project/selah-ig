@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 12:1",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Chetakwa ⟨את⟩ Onye Okike gị n'ụbọchị ntorobịa gị, ruo mgbe ụbọchị ndị ọjọọ agaghịzị abịa, ma afọ ndị ahụ erute nke ị ga-asị, enweghị m mmasị na ha;",
+  "tokens": [
+    {
+      "surface": "וזכר",
+      "gloss": "Chetakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Onye Okike gị"
+    },
+    {
+      "surface": "בוראיך",
+      "gloss": "Onye Okike gị"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "בחורתיך",
+      "gloss": "ntorobịa gị"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghịzị"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "abịa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ndị ọjọọ"
+    },
+    {
+      "surface": "והגיעו",
+      "gloss": "ma afọ ndị ahụ erute"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ị ga-asị"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na ha"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "mmasị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:18:48.607098720Z",
+  "model": "glm-5.3"
+}

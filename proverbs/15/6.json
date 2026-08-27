@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ụlọ nke ndị ezi omume nwere akụ na ụba buru ibu, ma na ihe ọ bụla ndị ajọ omume na-enweta, nsogbu dị.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nke ndị ezi omume"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "akụ na ụba"
+    },
+    {
+      "surface": "רב",
+      "gloss": "buru ibu"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "ma na ihe a na-enweta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "nsogbu dị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:23:15.199437949Z",
+  "model": "glm-5.3"
+}

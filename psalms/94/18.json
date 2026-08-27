@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 94,
+  "translation": "Mgbe m kwuru, Ụkwụ m na-agba Ọ chẹsed gị, Yahwe, na-edo m n'ala.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "m kwuru"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "na-agba"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ụkwụ m"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chẹsed gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "na-edo m n'ala"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:31.728231999Z",
+  "model": "glm-5.3"
+}

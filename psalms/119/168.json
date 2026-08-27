@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Elela m nchebe iwu gị na ihe akaebe gị, maka na ụzọ m niile dị n'ihu gị.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "elela m nchebe"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "iwu gị"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "na ihe akaebe gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ụzọ m"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "dị n'ihu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:03:11.330861816Z",
+  "model": "glm-5.3"
+}

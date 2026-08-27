@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 146,
+  "translation": "Yahwe na-echebe ⟨את⟩ ndị ọbịa; nwa-enzigbu na nwanyị di-na-nwunye nwụrụ, ọ na-eli ha; mana ụzọ ndị ajọ omume, ọ na-atụgharị ka ọ ghọọ ihe rụrụ arụ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "na-echebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ọbịa"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ndị ọbịa"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "nwa-enzigbu"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "na nwanyị di-na-nwunye nwụrụ"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "ọ na-eli ha"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "mana ụzọ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ọ na-atụgharị ka ọ ghọọ ihe rụrụ arụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:33.558516407Z",
+  "model": "glm-5.3"
+}

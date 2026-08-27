@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Yahwe na-enyere ha aka ma na-azọpụta ha, Ọ na-azọpụta ha n'aka ndị ọjọ ma na-edozi nzọpụta ha, n'ihi na ha gbabara na Ya.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "na-enyere ha aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "na na-azọpụta ha"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "Ọ na-azọpụta ha"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "n'aka ndị ọjọ"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ma na-edozi nzọpụta ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "ha gbabara"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:33.950769381Z",
+  "model": "glm-5.3"
+}

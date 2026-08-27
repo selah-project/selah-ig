@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Yahwe weghachiri ⟨את⟩ ọnọdụ Iyov mgbe ọ na-ekpe arịrịọ maka ndị enyi ya; Yahwe gbakwunyere ⟨את⟩ ihe niile bụ nke Iyov ruo okpukpu abụọ.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "weghachiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọnọdụ"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ọnọdụ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "na-ekpe arịrịọ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "maka"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ndị enyi ya"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "gbakwunyere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "nke Iyov"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "okpukpu abụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:01:40.301569215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ụmị mba ọzọ ga-akpọnwụọ, ma na-atụ egwu site n'ọgbà ha.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ụmị"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "mba ọzọ"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "ga-akpọnwụọ"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "ma na-atụ egwu"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "site n'ọgbà ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:28.037163585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Ọ gbakwunyekwara, ma mụọ nwa nwoke, ma kpọọ aha ya Shelah; ọ nọ na Khezib mgbe ọ mụrụ ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "ọ gbakwunyekwara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ma mụọ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ma kpọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ọ nọ"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "na Khezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "mgbe ọ mụrụ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:53:40.076927139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ọ gara ma mee ka okwu Eliyahu si dị, ma rie nri — nwoke ahụ, na nwanyị ahụ, na ezinụlọ ya — ụbọchị ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ọ gara"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ka okwu si dị"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ma rie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "na nwanyị ahụ"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "na ezinụlọ ya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:04:22.906102195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Chọọ Yahwe na ike Ya; chọọ ihu Ya mgbe niile.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Chọọ (site n'ịjụ)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "na ike Ya"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "chọọ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ihu Ya"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:40.802183033Z",
+  "model": "glm-5.3"
+}

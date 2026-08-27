@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "na na-eme chesed ruo n'ọgbọ puku kwuru puku, nye ndị na-ahụ m n'anya na ndị na-echebe iwu ya.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "na-na-eme"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ruo-n'ọgbọ-puku-kwuru-puku"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "nye-ndị-na-ahụ-m-n'anya"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "na-ndị-na-echebe"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "iwu-ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:52:33.856966091Z",
+  "model": "glm-5.3"
+}

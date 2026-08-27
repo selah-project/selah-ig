@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Na Bakbakkar, Cheresh na Galal, na Mattanyahu nwa Mikha, nwa Zikhri, nwa Asaf.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "Na Bakbakkar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Cheresh"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "na Galal"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "na Mattanyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Mikha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikhri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    }
+  ],
+  "timestamp": "2026-08-27T15:57:09.389648189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Ma ọnụahịa mgbapụta nke mmụọ-ndụ ha dị oke ọnụ, ọ na-akwụsị ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ma ọnụahịa dị oke ọnụ"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "mgbapụta"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nke mmụọ-ndụ ha"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ọ na-akwụsị"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:49.982271934Z",
+  "model": "glm-5.3"
+}

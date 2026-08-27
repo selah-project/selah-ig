@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "N'ụtụtụ kụọ ⟨את⟩ mkpụrụ gị, ma n'anyanwụ abalị ezughị aka gị aka, n'ihi na ị maghị nke a ma ọ bụ nke a ga-aga nke ọma, ma ọ bụrụ na ha abụọ ọnụ dị mma.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpụrụ gị"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mkpụrụ gị"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ma n'anyanwụ abalị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ezughị"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ị maghị"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "na-ama"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kedé"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "ga-aga nke ọma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ha abụọ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "dị mma"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:58.026016149Z",
+  "model": "glm-5.3"
+}

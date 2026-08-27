@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "Mepee m ọnụ ụzọ nke ziri ezi, m ga-abanye n'ime ha, m ga-eto Yah.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "mepee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "nke ziri ezi"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "m ga-abanye"
+    },
+    {
+      "surface": "בם",
+      "gloss": "n'ime ha"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "m ga-eto"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:41.927429710Z",
+  "model": "glm-5.3"
+}

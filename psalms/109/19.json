@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Ka ọ bụrụ ya dịka uwe ọ na-ekpuchi onwe ya, na dịka eriri ukwu ọ na-agbukwụsịrị mgbe niile.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ka ọ bụrụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "dịka uwe"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "ọ na-ekpuchi"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "na dịka eriri ukwu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "ọ na-agbukwu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:04.868049284Z",
+  "model": "glm-5.3"
+}

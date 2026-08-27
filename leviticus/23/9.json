@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Yahwe gwara Moshe, na-asị:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:42.457134529Z",
+  "model": "glm-5.3"
+}

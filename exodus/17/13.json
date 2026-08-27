@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Yehoshua meriri ⟨את⟩ Amalek na ⟨את⟩ ndị ya site n'ọnụ mma agha.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "ọ meriri"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "site n'ọnụ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mma agha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:19:30.350347777Z",
+  "model": "glm-5.3"
+}

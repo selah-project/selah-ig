@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Wepụkwa mma ọgụ, mechaa ụzọ ⟨tihu⟩ ndị na-achụ m; gwa ⟨nke⟩ mkpụrụ obi m: Mụ onwe m bụ nzọpụta gị.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Wepụkwa"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "mma ọgụ"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "mechaa ụzọ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "⟨tihu⟩"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ndị na-achụ m"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gwa"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "⟨nke⟩ mkpụrụ obi m"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "nzọpụta gị"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mụ onwe m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:14.823798544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ndị bi n'ọchịchịrị na n'onyinyo ọnwụ, ndị a nga na mmehie na ígwè.",
+  "tokens": [
+    {
+      "surface": "יושבי\/ישבי",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "n'ọchịchịrị"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "na n'onyinyo ọnwụ"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "ndị a nga"
+    },
+    {
+      "surface": "עני",
+      "gloss": "na mmehie"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "na ígwè"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.239731962Z",
+  "model": "glm-5.3"
+}

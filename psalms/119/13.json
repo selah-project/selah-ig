@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Na mmíriọnụ m ka m kọrọ ⟨את⟩ iwu niile nke ọnụ Gị.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "na mmíriọnụ m"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "ka m kọrọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ọnụ Gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:04.954478976Z",
+  "model": "glm-5.3"
+}

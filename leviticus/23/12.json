@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "N'ụbọchị unu na-efe ⟨את⟩ omere ahụ, unu ga-ewu nwa atụrụ nwoke n'enweghị mperi, nwa afọ ya, dịka ọkụ-ọfferu maka Yahwe.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "unu ga-eme"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "unu na-efe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omere ahụ"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omere ahụ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "nwa atụrụ nwoke"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "enweghị mperi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "afọ ya"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "dịka ọkụ-ọfferu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:42.457785936Z",
+  "model": "glm-5.3"
+}

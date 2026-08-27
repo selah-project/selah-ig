@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 12:10",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ọtụtụ ga-eme ka ha dị ọcha, na-acha ọcha, na-agba ọkụ dịka ọla; ndị ajọ omume ga-eme ihe ọjọọ, ma ndị ajọ omume niile agaghị aghọta; ma ndị nwere nghọta ga-aghọta.",
+  "tokens": [
+    {
+      "surface": "יתבררו",
+      "gloss": "ga-eme ka ha dị ọcha"
+    },
+    {
+      "surface": "ויתלבנו",
+      "gloss": "na-acha ọcha"
+    },
+    {
+      "surface": "ויצרפו",
+      "gloss": "na-agba ọkụ dịka ọla"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ga-eme ihe ọjọọ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ga-aghọta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "והמשכלים",
+      "gloss": "ndị nwere nghọta"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ga-aghọta"
+    }
+  ],
+  "timestamp": "2026-08-27T16:52:48.455502343Z",
+  "model": "glm-5.3"
+}

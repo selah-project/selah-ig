@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "M ga na-abụ abụ banyere chesed nke Yahwe ruo mgbe ebighị ebi; site n'ọgbọ ruo n'ọgbọ m ga-eme ka amaokwu ọnụ gị pụta ìhè na ọnụ m.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "m ga na-abụ abụ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "site n'ọgbọ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ruo n'ọgbọ"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "m ga-eme ka ọ pụta ìhè"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "amaokwu ọnụ gị"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "na ọnụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:40.702707730Z",
+  "model": "glm-5.3"
+}

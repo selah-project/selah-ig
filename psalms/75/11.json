@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 75,
+  "translation": "Mpi niile nke ndị ọjọọ m ga-ebibi; mpi nke ndị ezi omume ga-ebulite elu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mpi niile nke"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "mpi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ọjọọ"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "m ga-ebibi"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "ga-ebulite elu"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "mpi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ndị ezi omume"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:26.343944423Z",
+  "model": "glm-5.3"
+}

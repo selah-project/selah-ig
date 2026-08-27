@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Yahwe nyere ⟨את⟩ amara ⟨the⟩ ndị ahụ n'anya ndị Mitzrayim; n'otu aka ahụ, nwoke ahụ bụ Moshe buru ibu nke ukwuu n'ala Mitzrayim, n'anya ohu ndị Paroh na n'anya ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amara"
+    },
+    {
+      "surface": "חן",
+      "gloss": "amara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n'anya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ndị Mitzrayim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "n'otu aka ahụ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke ahụ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buru ibu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n'anya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu ndị"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "na n'anya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:37.269953681Z",
+  "model": "glm-5.3"
+}

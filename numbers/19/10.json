@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 19:10",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Onye na-amịkọrọ ⟨את⟩ ntụ nke ehi ahụ ga-asa ⟨את⟩ uwe ya, ma ga-adị adịghị nsọ ruo n'abali; ọ ga-abụ maka ụmụ Yisrael na maka onye ọbịa na-ebi n'etiti ha, dịka iwu ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "ga-asa"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "onye na-amịkọrọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntụ"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "ntụ"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "nke ehi ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe ya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uwe ya"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ga-adị adịghị nsọ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "n'abali"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "maka ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "na maka onye ọbịa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "na-ebi"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "n'etiti ha"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "dịka iwu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T07:32:48.603893237Z",
+  "model": "glm-5.3"
+}

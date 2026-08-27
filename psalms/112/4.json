@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 112,
+  "translation": "Ọ pụtara n'ọchịchị ìhè maka ndị kwụpụ, onye nwere ebere, onye nwere ọmịiko, onye kwụpụ.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "ọ pụtara"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "n'ọchịchị"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìhè"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "maka ndị kwụpụ"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "onye nwere ebere"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "onye nwere ọmịiko"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "onye kwụpụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:07.649554701Z",
+  "model": "glm-5.3"
+}

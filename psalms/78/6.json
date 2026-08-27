@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ka ọgbọ na-abịa mara, ụmụ a ga-amụ, ha bilie wee kọwaa ụmụ ha ihe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ha mara"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "na-abịa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "a ga-amụ"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ha bilie"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ma kọwaa"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ụmụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:19.025791964Z",
+  "model": "glm-5.3"
+}

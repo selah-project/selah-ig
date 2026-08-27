@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ma unu, ndị na-adịko n'Yahwe, Elohim unu, ndụ ka unu niile bụ taa.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ma unu"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "ndị na-adịko"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "n'Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "unu niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    }
+  ],
+  "timestamp": "2026-08-27T07:53:09.537469697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ebe obibi ha bụ site na Mesha, na-aga ruo Sephar, ugwu nke ⟨ọwụwa anyanwụ⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "ebe obibi ha"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "site na Mesha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "ruo Sephar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "nke ọwụwa anyanwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:09.096155995Z",
+  "model": "glm-5.3"
+}

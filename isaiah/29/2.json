@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 29:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "M ga-eme ka Ariel nwee nsogbu, ọ ga-abụ iru uju na enweghị ndụ, ọ ga-abụkwa n'anya m dịka ⟨כ⟩ Ariel.",
+  "tokens": [
+    {
+      "surface": "והציקותי",
+      "gloss": "M ga-eme ka... nwee nsogbu"
+    },
+    {
+      "surface": "לאריאל",
+      "gloss": "Ariel"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "תאניה",
+      "gloss": "iru uju"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "enweghị ndụ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ọ ga-abụkwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n'anya m"
+    },
+    {
+      "surface": "כאריאל",
+      "gloss": "dịka ⟨כ⟩ Ariel"
+    }
+  ],
+  "timestamp": "2026-08-27T10:50:16.138571914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 17:17",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Jisai wee sere nwa ya nwoke bụ Dawid: were biko maka ụmụnne gị otu efa nke ọka ọsịsa a na achịị nke a, ma gaa ọsọ n'ogige ahụ ruo ụmụnne gị.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sere"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisai"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ruo Dawid"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya nwoke"
+    },
+    {
+      "surface": "קח",
+      "gloss": "were"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "maka ụmụnne gị"
+    },
+    {
+      "surface": "איפת",
+      "gloss": "otú efa"
+    },
+    {
+      "surface": "הקליא",
+      "gloss": "nke ọka ọsịsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "na"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "achịị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "והרץ",
+      "gloss": "ma gaa ọsọ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "n'ogige ahụ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ruo ụmụnne gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:13:05.459622485Z",
+  "model": "glm-5.3"
+}

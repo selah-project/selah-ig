@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "Ma onye a gọziri agozi bụ aha otuto ya ruo mgbe ebighị ebi; ma ka otuto ya mejupụta ⟨את⟩ ụwa niile. Amen, amen.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "ma onye a gọziri agozi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "otuto ya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ma ka ọ mejupụta"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "otuto ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụwa niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:46.670822301Z",
+  "model": "glm-5.3"
+}

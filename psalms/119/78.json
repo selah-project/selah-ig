@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ka ndị ajọ mbunobi nwee ihere, n'ihi na ha mehiere m ùgha; m na-atụgharị uche n'iwu gị.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ka ha nwee ihere"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ndị ajọ mbunobi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ùgha"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "ha mehiere m"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "na-atụgharị uche"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "n'iwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:41.491801672Z",
+  "model": "glm-5.3"
+}

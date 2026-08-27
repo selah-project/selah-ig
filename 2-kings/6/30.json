@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ọ dịkwa ka eze nụrụ ⟨את⟩ okwu nwanyị ahụ, ọ dafere ⟨את⟩ uwe ya ka ọ na-agafe n'elu mgbidi ahụ, ndị mmadụ wee hụ, gbaa — le, akwa akpa n'ahụ ya n'ime.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dịkwa"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ka ọ nụrụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nwanyị ahụ"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ọ dafere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe ya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uwe ya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ka ọ na-"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "agafe"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "mgbidi ahụ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ha hụrụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gbaa — le"
+    },
+    {
+      "surface": "השק",
+      "gloss": "akwa akpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ahụ ya"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "n'ime"
+    }
+  ],
+  "timestamp": "2026-08-27T16:36:53.305817537Z",
+  "model": "glm-5.3"
+}

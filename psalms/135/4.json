@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 135,
+  "translation": "N'ihi na Yah họrọoro Yaakov maka onwe Ya, Yisrael maka ihe onwunwe pụrụ iche Ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "họrọoro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka onwe Ya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "maka ihe onwunwe pụrụ iche Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:54.458989940Z",
+  "model": "glm-5.3"
+}

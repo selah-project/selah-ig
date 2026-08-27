@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Okwu niile na-eme mgbaru; mmadụ enweghị ike ịkọwa ya; anya agaghị izu ike ịhụ, ntị agaghị ejupụta ịnụ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị ahụ"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "na-eme mgbaru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "nwere ike"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ịkọwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ezurula"
+    },
+    {
+      "surface": "עין",
+      "gloss": "anya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ịhụ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ọ bụghị"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ejupụta"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ntị"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ịnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:13:45.012538370Z",
+  "model": "glm-5.3"
+}

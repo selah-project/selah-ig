@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "⟨את⟩ akpụkpọ anụ nke ehi ahụ, na ⟨את⟩ anụ ya dum, ya na isi ya, ya na ụkwụ ya, ya na afo ya, na nsị ya;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akpụkpọ anụ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "akpụkpọ anụ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ya dum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dum"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "anụ ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "isi ya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "ụkwụ ya"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "ya na afo ya"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "na nsị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:46:25.309867150Z",
+  "model": "glm-5.3"
+}

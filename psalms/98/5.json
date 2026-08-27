@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 98,
+  "translation": "Pụọ na ngwa egwu nye Yahwe, na kinnor, na kinnor na olu abụ.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "pụọ na ngwa egwu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinnor"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinnor"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "na olu"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "abụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:00.755387145Z",
+  "model": "glm-5.3"
+}

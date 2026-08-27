@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "nwa Zerachyah, nwa Uzzi, nwa Bukki",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzzi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukki"
+    }
+  ],
+  "timestamp": "2026-08-27T15:37:10.710672988Z",
+  "model": "glm-5.3"
+}

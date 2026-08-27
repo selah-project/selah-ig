@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 49:19",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "N'ihi na mkpọfu gị na mbibi gị na ala mmebi gị — n'ihi na ugbu a ⟨ị⟩ ga-adị oke mmamị maka ndị bi na ya, ma ndị riri gị ga-adị anya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "חרבתיך",
+      "gloss": "mkpọfu gị"
+    },
+    {
+      "surface": "ושממתיך",
+      "gloss": "na mbibi gị"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na ala"
+    },
+    {
+      "surface": "הרסתיך",
+      "gloss": "mmebi gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "תצרי",
+      "gloss": "ị ga-adị oke mmamị"
+    },
+    {
+      "surface": "מיושב",
+      "gloss": "maka ndị bi na ya"
+    },
+    {
+      "surface": "ורחקו",
+      "gloss": "ma ha ga-adị anya"
+    },
+    {
+      "surface": "מבלעיך",
+      "gloss": "ndị riri gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:41:49.455676983Z",
+  "model": "glm-5.3"
+}

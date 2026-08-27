@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ọ wee dee n'ime akwụkwọ ndị ahụ, na-ekwu: Kwupụta nnọmọ, ma tinye ⟨את⟩ Navot n'isi ⟨nke⟩ ndị mmadụ.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "Ọ wee dee"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "n'ime akwụkwọ ndị ahụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "Kwupụta"
+    },
+    {
+      "surface": "צום",
+      "gloss": "nnọmọ"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:07:04.563169902Z",
+  "model": "glm-5.3"
+}

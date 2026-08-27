@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "dike na onye agha, onye ikpe na onye amụma, onye na-amo ama na onye okenye —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "dike"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na onye"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "agha"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "onye ikpe"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "na onye amụma"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "na onye na-amo ama"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "na onye okenye"
+    }
+  ],
+  "timestamp": "2026-08-27T10:32:24.514903644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 32:17",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Ọrụ nke izi-ezi ga-abụ ⟨udo⟩, na ọrụ nke izi-ezi ga-abụ ⟨nchekwa na ntụkwasị obi⟩ ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "הצדקה",
+      "gloss": "nke izi-ezi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "na ọrụ"
+    },
+    {
+      "surface": "הצדקה",
+      "gloss": "nke izi-ezi"
+    },
+    {
+      "surface": "השקט",
+      "gloss": "nchekwa"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "na ntụkwasị obi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:49:10.499313834Z",
+  "model": "glm-5.3"
+}

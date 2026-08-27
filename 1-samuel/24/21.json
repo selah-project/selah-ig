@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ma ugbu a, lee, amara m na ịchịrị dịka eze, na alaeze Izrel ga-eduzi n'aka gị.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ma ugbu a"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lee"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "amara m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ịchịrị"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "dịka eze"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "ga-eduzi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "n'aka gị"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "alaeze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    }
+  ],
+  "timestamp": "2026-08-27T09:17:35.501217947Z",
+  "model": "glm-5.3"
+}

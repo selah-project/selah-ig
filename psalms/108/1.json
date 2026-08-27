@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 108,
+  "translation": "Abụ, nke Mkpu-asụ nke David.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mkpu-asụ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:17.630922437Z",
+  "model": "glm-5.3"
+}

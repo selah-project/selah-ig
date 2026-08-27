@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "Elohim, n'ebe dị nsọ ka ụzọ gị dị; onye bụ El ukwuu dị ka Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "n'ebe dị nsọ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ụzọ gị"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwuu"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "dị ka Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:12.681379751Z",
+  "model": "glm-5.3"
+}

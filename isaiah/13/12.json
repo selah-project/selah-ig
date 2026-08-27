@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "M ga-eme ka mmadụ dị oke ọkụ karịa ọla edo dị ọcha, mmadụ karịa ọla edo nke Ofir.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "M ga-eme ka... dị oke ọkụ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "karịa ọla edo dị ọcha"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "karịa ọla edo"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "nke Ofir"
+    }
+  ],
+  "timestamp": "2026-08-27T10:38:42.542881476Z",
+  "model": "glm-5.3"
+}

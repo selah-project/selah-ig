@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ha na-eti mkpu n'ebe m nọ: Elohim anyị, anyị maara gị, isirael.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "n'ebe m nọ"
+    },
+    {
+      "surface": "יִזְעָקוּ",
+      "gloss": "ha na-eti mkpu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "anyị maara gị"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "israel"
+    }
+  ],
+  "timestamp": "2026-08-27T12:41:55.866916481Z",
+  "model": "glm-5.3"
+}

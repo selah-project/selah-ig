@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "ndị okenye obodo ya ga-eziga mmadụ, were ⟨את⟩ ya n'ebe ahụ, nyefee ⟨את⟩ ya n'aka Onye Mgbapụta nke Ọbara, ma ọ nwụọ.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "ga-eziga"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "obodo ya"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "were"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "משם",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "nyefee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "Onye Mgbapụta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "Ọbara"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ma ọ nwụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:04:49.200527911Z",
+  "model": "glm-5.3"
+}

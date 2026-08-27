@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ma n'ọnwa mbụ, n'ụbọchị iri na anọ nke ọnwa, ⟨bụ⟩ Pesach nye Yahwe.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ma n'ọnwa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "mbụ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "n'iri na anọ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(nke anọ-n'iri)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "nke ọnwa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:39:38.062217363Z",
+  "model": "glm-5.3"
+}

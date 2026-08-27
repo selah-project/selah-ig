@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Oke obi dị nwoke ahụ tinyere Yahwe dịka ntụkwasị obi ya, ma ọ tụghịghị anya ndị nnụchu na ndị na-atụgharị gaa n'asị.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "oke obi dị"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "nwoke ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tinyere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "dịka ntụkwasị obi ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ tụghịghị"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "tụ anya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "ndị nnụchu"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "na ndị na-atụgharị"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "gaa n'asị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:26.648950719Z",
+  "model": "glm-5.3"
+}

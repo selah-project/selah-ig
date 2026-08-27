@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "N'etiti ndị na-enyo isi na-akụ ọchị n'oriri, ha na-akụ ezé ha n'⟨elu⟩ m.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "ndị na-enyo isi"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "na-akụ ọchị"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "n'oriri"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "ha na-akụ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "ezé ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:06.630222901Z",
+  "model": "glm-5.3"
+}

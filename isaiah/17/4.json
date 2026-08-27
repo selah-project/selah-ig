@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 17:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ọ ga-abụ na n'ụbọchị ahụ otuto Yaakov ga-adị mkpụmkpụ, abụba nke anụ ahụ ya ga-ebelata.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "ידל",
+      "gloss": "ga-adị mkpụmkpụ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "otuto"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ומשמן",
+      "gloss": "abụba"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "anụ ahụ ya"
+    },
+    {
+      "surface": "ירזה",
+      "gloss": "ga-ebelata"
+    }
+  ],
+  "timestamp": "2026-08-27T10:44:00.132387080Z",
+  "model": "glm-5.3"
+}

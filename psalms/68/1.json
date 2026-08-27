@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Maka onye-eduzi egwu; nke Dawid; mizmor; abụ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye-eduzi egwu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:55.350444995Z",
+  "model": "glm-5.3"
+}

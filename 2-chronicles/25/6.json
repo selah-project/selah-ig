@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ọ wee were Ịsrael n'aka mgbe ụgwọ, narị puku ndị dike nke ike, site na narị talenti ọlaọcha.",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "Ọ wee were n'aka mgbe ụgwọ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "site na Ịsrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "narị"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ndị dike"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nke ike"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "site na narị"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenti"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọlaọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:16:48.200006369Z",
+  "model": "glm-5.3"
+}

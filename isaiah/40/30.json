@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ọ bụrụ na ndị okorobịa na-agwụ ike ma na-akwụsị ike, ndị nwata ga-amamịrịrị ka ha na-adaba.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "na-agwụ ike"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ndị okorobịa"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "na-akwụsị ike"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "ndị nwata"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "ka a na-amamịrị"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ga-adaba"
+    }
+  ],
+  "timestamp": "2026-08-27T10:57:26.809795839Z",
+  "model": "glm-5.3"
+}

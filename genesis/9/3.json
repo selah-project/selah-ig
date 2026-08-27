@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ihe na-agagharị ọ bụla nke dị ndụ ga-abụ nri unu; dịka akwụkwọ nri m nyere unu ⟨את⟩ ihe niile.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ihe na-agagharị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ọ⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dị ndụ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "nri"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "dịka akwụkwọ nri"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "nri"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "m nyere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    }
+  ],
+  "timestamp": "2026-08-27T05:28:11.302518070Z",
+  "model": "glm-5.3"
+}

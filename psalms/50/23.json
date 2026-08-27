@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Onye na-echu àjà ekele na-enye m ùgwù; onye na-edozi ⟨ụzọ⟩ ya, m ga-egosi ya mgbapụta nke Elohim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "na-echu àjà"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ekele"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "na-enye m ùgwù"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na-edozi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨ụzọ⟩"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "m ga-egosi ya"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "mgbapụta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:01.379313243Z",
+  "model": "glm-5.3"
+}

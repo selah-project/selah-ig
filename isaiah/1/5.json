@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Maka gịnị ka a ga-eti gị ọzọ? Ị na-agbakwụnye nzụlite! Isi niile dị arịa, na obi niile dị ọrịa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "a ga-eti gị"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "ị na-agbakwụnye"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "nzụlite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "dị arịa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "dị ọrịa"
+    }
+  ],
+  "timestamp": "2026-08-27T10:31:45.190819408Z",
+  "model": "glm-5.3"
+}

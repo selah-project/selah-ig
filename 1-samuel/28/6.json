@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Shaul wee jụọ Yahwe; ma Yahwe zaghị ya — ọ dughị n'ihe ndụ, ọ dughị na Urim, ọ dughị site n'aka ndị amụma.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "jụọ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "zaghị ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọ dughị"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "n'ihe ndụ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọ dughị"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "na Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọ dughị"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "site n'aka ndị amụma"
+    }
+  ],
+  "timestamp": "2026-08-27T09:27:09.981683118Z",
+  "model": "glm-5.3"
+}

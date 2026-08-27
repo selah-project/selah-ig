@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ma Avraham bilie, wee daa n'ala n'ihu ndị ⟨the⟩ ala, ụmụ Heth.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ma...bilie"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "wee daa n'ala"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ ala"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heth"
+    }
+  ],
+  "timestamp": "2026-08-27T05:38:53.935442295Z",
+  "model": "glm-5.3"
+}

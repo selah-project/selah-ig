@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Mose na Aharon gara wee kpọkọta ⟨את⟩ ndị okenye niile nke ụmụ Izrel.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "gara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "wee kpọkọta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị okenye niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:21.402888654Z",
+  "model": "glm-5.3"
+}

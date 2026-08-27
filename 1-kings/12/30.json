@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Okwu a wee bụrụ mmehie, ndị wee na-aga n'ihu nke mbụ ahụ, rue na Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ wee bụrụ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "maka mmehie"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ha wee na-aga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nke mbụ ahụ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "דן",
+      "gloss": "na Dan"
+    }
+  ],
+  "timestamp": "2026-08-27T10:02:23.246829665Z",
+  "model": "glm-5.3"
+}

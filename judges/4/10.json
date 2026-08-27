@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Barak kpọkweere ⟨את⟩ Zevulun na ⟨את⟩ Naftali na Kedesh, wee rịgoro n'ụkwụ ya, ndị ikom pụkụ iri; Debora rịgokwara ya.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "kpọkweere"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zevulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "na Kedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wee rịgoro"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "n'ụkwụ ya"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "pụkụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "rịgokwara"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Debora"
+    }
+  ],
+  "timestamp": "2026-08-27T08:43:27.807090379Z",
+  "model": "glm-5.3"
+}

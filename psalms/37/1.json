@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Nke Daud. Echefuo mwute maka ndị ọjọ; esochila anyaukwu maka ndị na-emẹ mmehie.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nke Daud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "echefuo"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "mwute"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "maka ndị ọjọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "esochila"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "anyaukwu"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "maka ndị na-emẹ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mmehie"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:46.119186531Z",
+  "model": "glm-5.3"
+}

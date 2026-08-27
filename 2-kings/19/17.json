@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "N'ezie, Yahwe, ndị eze Ashshur bibiri ⟨את⟩ mba ndị ahụ na ⟨את⟩ ala ha.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "N'ezie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "bibiri"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba ndị ahụ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba ndị ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala ha"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ala ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:27:47.759243585Z",
+  "model": "glm-5.3"
+}

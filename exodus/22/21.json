@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Onye di ya nwụrụ na nwa nna ya nwụrụ ọ bụla, unu ekwesịghị ime ha ihe mkpagbu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "onye di ya nwụrụ"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "na nwa nna ya nwụrụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekwesịghị"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ime ha ihe mkpagbu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:24:13.044180733Z",
+  "model": "glm-5.3"
+}

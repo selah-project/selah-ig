@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ wee bụrụ na mgbe Moshe, ohu Yahwe, nwụsịrị, na Yahwe wee soro Yehoshua, nwa Nun, onye na-ejere Moshe ozi, okwu, na-asị:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ wee bụrụ na"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nwụsịrị"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee soro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "onye na-ejere ozi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:23:04.879118225Z",
+  "model": "glm-5.3"
+}

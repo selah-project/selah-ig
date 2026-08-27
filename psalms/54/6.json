@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 54,
+  "translation": "Le, Elohim ⟨is⟩ onye inyere m aka; Adonai ⟨is⟩ ya na ndị na-akwado mkpụrụ obi m.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "onye inyere aka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "ya na ndị na-akwado"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:45.100163970Z",
+  "model": "glm-5.3"
+}

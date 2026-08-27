@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Nunu. Okwu gị bụ ọkụ maka ụkwụ m, na ìhè maka ụzọ m.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "maka ụkwụ m"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "okwu gị"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na ìhè"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "maka ụzọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:00.052803240Z",
+  "model": "glm-5.3"
+}

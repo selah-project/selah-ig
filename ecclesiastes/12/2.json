@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "ruo mgbe anyanwụ, ìhè, ọnwa na kpakpando agaghịzị ada mbà, ma igwe ojii lọghachi azụ mgke mmiri ozuzo gasịrị;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghịzị"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "ada mbà"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    },
+    {
+      "surface": "ווהאור",
+      "gloss": "ìhè"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "ọnwa"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "kpakpando"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ma ... lọghachi azụ"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "igwe ojii"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mgbe ... gasịrị"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "mmiri ozuzo"
+    }
+  ],
+  "timestamp": "2026-08-27T15:18:48.607345263Z",
+  "model": "glm-5.3"
+}

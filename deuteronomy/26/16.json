@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Taa, Yahwe, Elohim gị, na-nye gị iwu ka ị mee ⟨את⟩ iwu ndị a na ⟨את⟩ ikpe ndị a; ị ga-ejide ma mee ha na mmụọ obi gị niile na akpụkpọ ụkwụ gị niile.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Taa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ụbọchị a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "na-nye gị iwu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ka ị mee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu ndị a"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iwu ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikpe ndị a"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ikpe ndị a"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ị ga-ejide"
+    },
+    {
+      "surface": "ו עשית",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "obi gị"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na na niile"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mmụọ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:11:21.405381603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ha ga-alọghachi; ndị bi n'ndò ya ga-eme ka ọka dị ndụ ma na-agbapụta ka osisi vaịn; ncheta ya ga-adị ka mmanya Lebanọn.",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "ha ga-alọghachi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "n'ndò ya"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ga-eme ka ... dị ndụ"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ọka"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "ma na-agbapụta"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "ka osisi vaịn"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ncheta ya"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "ka mmanya"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanọn"
+    }
+  ],
+  "timestamp": "2026-08-27T12:42:26.347535737Z",
+  "model": "glm-5.3"
+}

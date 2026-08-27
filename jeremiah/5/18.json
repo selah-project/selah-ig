@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ma ọbụna n'ụbọchị ndị ahụ, kwuru Yahwe sị, m gaghị eme ⟨את⟩ unu mbepụ zuru oke.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ma ọbụna"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kwuru sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "m na-eme"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mbepụ zuru oke"
+    }
+  ],
+  "timestamp": "2026-08-27T11:18:06.463808510Z",
+  "model": "glm-5.3"
+}

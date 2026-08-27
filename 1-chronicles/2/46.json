@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Eifah, nwunye nke abụọ nke Kalev, mụrụ ⟨את⟩ Haran na ⟨את⟩ Motza na ⟨את⟩ Gazez; Haran amụkwara ⟨את⟩ Gazez.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Eifah"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "nwunye nke abụọ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Motza"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "amụkwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    }
+  ],
+  "timestamp": "2026-08-27T16:54:14.048030621Z",
+  "model": "glm-5.3"
+}

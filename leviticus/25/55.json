@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "N'ihi na ụmụ Yisrael bụ ⟨ndị⟩ ohu m; ha bụ ohu m, ndị m wepụtara ⟨את⟩ ha n'ala Mitrayim; m bụ Yahwe, Elohim gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu m"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "m wepụtara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitrayim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:04:23.861579860Z",
+  "model": "glm-5.3"
+}

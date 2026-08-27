@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ha ga-aju gị banyere udo, wee nyere gị achịcha abụọ; ị ga-anata ha n'aka ha.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "ha ga-aju"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "banyere udo"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ha ga-enye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "achịcha"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ị ga-anata"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "n'aka ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:33:06.006285967Z",
+  "model": "glm-5.3"
+}

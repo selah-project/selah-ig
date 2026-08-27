@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "N'ihi na ọ chetaghị ime chesed; kama ọ gbasoro nwoke ogbenye na onye nwere mkpa, na onye a kụrụ n'obi, igbu ya.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ chetaghị"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "icheta"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ime"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ọ gbasoro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ogbenye"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "onye nwere mkpa"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "onye a kụrụ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "igbu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:30.056237820Z",
+  "model": "glm-5.3"
+}

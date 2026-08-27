@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Efrayim, dịka nnnụnnụ ka ebube ha ga-efe efe pụọ — site na ọmụmụ, site n'afọ ime, na site n'ime mkpụrụ ndụ.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "dịka nnnụnnụ"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "ga-efe efe pụọ"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ebube ha"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "site na ọmụmụ"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "site n'afọ ime"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "site n'ime mkpụrụ ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:41:19.531885712Z",
+  "model": "glm-5.3"
+}

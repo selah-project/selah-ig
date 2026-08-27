@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "M ga-eme ka Ị ghọta ihe, ma duzie Gị n'ụzọ Ị ga-aga; M ga-enye Gị ndụmọdụ — anya m dị n'elu Gị.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "M ga-eme ka Ị ghọta ihe"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "ma duzie Gị"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "Ị ga-aga"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "M ga-enye Gị ndụmọdụ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dị n'elu Gị"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:05.321329942Z",
+  "model": "glm-5.3"
+}

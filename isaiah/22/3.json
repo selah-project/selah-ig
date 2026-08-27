@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ndị isi gị niile gbara ọsọ ọnụ, enweghị ụta ha ka e jidere ha; mmadụ niile a hụrụ n'ime gị ka a kpọchiri ọnụ, ha gbapụrụ n'ebe dị anya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "קציניניך",
+      "gloss": "ndị isi gị"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "gbara ọsọ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "enweghị ụta"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "e jidere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "a hụrụ n'ime gị"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "a kpọchiri"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "n'ebe dị anya"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "ha gbapụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:44:52.781979562Z",
+  "model": "glm-5.3"
+}

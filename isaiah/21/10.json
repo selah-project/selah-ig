@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Onye a na-akụ m, na nwa nke ebe a na-akụ ọka m: ihe m nụrụ site ⟨את⟩ Yahwe Tsevaot, Elohim nke Yisrael, bụ nke m kagwoọla unu.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "onye a na-akụ m"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na nwa"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "ebe a na-akụ ọka m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "m nụrụ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "site ⟨את⟩",
+      "marks": "Yahwe Tsevaot, Elohim nke Yisrael"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "m kagwoọla"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:42:28.293488671Z",
+  "model": "glm-5.3"
+}

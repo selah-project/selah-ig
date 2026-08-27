@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Site n'aka nwoke ruo n'aka nwanyị, unu ga-eziga ha; n'ebe dị n'èzí ogige ahụ ka unu ga-eziga ha, ka ha ghara imenye ⟨את⟩ ogige ha nke m bi n'etiti ha unye.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "site n'aka nwoke"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "n'aka nwanyị"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "unu ga-eziga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "n'ebe dị n'èzí"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ogige"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "unu ga-eziga ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka ha ghara"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "imenye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogige ha"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ogige ha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "bi"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "n'etiti ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:16:33.884161189Z",
+  "model": "glm-5.3"
+}

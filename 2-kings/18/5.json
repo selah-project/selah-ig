@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "O nyere Yahwe, Elohim nke Yisrael, ntụkwasị obi, ma ya mere n'azụ ya ọ dịghị onye dị ka ya n'etiti ndị eze niile nke Yehudah, ma ọ bụ n'etiti ndị bụ́bu ndị dibu ya.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nyere ntụkwasị obi"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ma n'azụ ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "dị ka ya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'etiti ndị niile nke"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ma ndị bụ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ha bụ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "dibu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:23:44.879105453Z",
+  "model": "glm-5.3"
+}

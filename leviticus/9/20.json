@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ha wee tinye ⟨את⟩ abụba ndị ahụ n'elu olu, ọ wee sie abụba ọkụ n'ebe ịchụàjà ahụ.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ha wee tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abụba"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "abụba"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "olu"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ọ wee sie ọkụ"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "abụba"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "n'ebe ịchụàjà ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:49:30.342342452Z",
+  "model": "glm-5.3"
+}

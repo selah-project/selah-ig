@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 27:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ma ọ bụ onye na-ejide ike m, udo ka ọ na-eme nye m; udo ka ọ ga-eme nye m.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Ma ọ bụ"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "na-ejide"
+    },
+    {
+      "surface": "במעוזי",
+      "gloss": "ike m"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ọ na-eme"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nye m"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ọ ga-eme"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nye m"
+    }
+  ],
+  "timestamp": "2026-08-27T10:46:51.176507145Z",
+  "model": "glm-5.3"
+}

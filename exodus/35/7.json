@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Na akpụkpọ anụ nke ọdụm nke a ruru uhie, na akpụkpọ anụ takhash, na osisi shitta.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "akpụkpọ anụ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "nke ọdụm (ram)"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "a ruru uhie"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "akpụkpọ anụ"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takhash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitta (acacia)"
+    }
+  ],
+  "timestamp": "2026-08-27T06:34:44.384161402Z",
+  "model": "glm-5.3"
+}

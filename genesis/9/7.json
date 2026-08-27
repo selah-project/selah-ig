@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma unu, mụọ mkpụrụ ma mụbaa; gbasaa n'ụwa, ma mụbaa na ya.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ma unu"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "mụọ mkpụrụ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ma mụbaa"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "gbasaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ma mụbaa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:28:10.444749658Z",
+  "model": "glm-5.3"
+}

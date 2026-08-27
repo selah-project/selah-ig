@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Gị na ị ga-agwa ya okwu, gịkwa na ị ga-etinye ⟨את⟩ okwu ndị ahụ n'ọnụ ya; mụ onwem ga-adị na ọnụ gị na na ọnụ ya, mụkwa ga-agụziri ⟨אתכם⟩ ⟨את⟩ ihe unu ga-eme.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "ị ga-agwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ị ga-etinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ndị ahụ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị ahụ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "n'ọnụ ya"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ma mụ onwem"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ọnụ gị"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ọnụ ya"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "ga-agụziri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe unu ga-eme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "unu ga-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T06:08:41.877416492Z",
+  "model": "glm-5.3"
+}

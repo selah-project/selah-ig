@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ọ ga-abụ ihe nwere akụkụ anọ, nke abụọ; otu mgbatị aka ga-abụ ogologo yam, otu mgbatị aka obosara yam.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "ihe nwere akụkụ anọ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "otu mgbatị aka"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ogologo yam"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "otu mgbatị aka"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "obosara yam"
+    }
+  ],
+  "timestamp": "2026-08-27T06:30:13.278413502Z",
+  "model": "glm-5.3"
+}

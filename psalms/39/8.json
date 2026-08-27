@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Ma ugbu a, ihe ka m na-echere, Adonai? Olile anya m na-adị na Gị ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ma ugbu a"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ka m na-echere"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "Olile anya m"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na Gị"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨is⟩ ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:13.038063009Z",
+  "model": "glm-5.3"
+}

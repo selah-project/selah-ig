@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Yosef nwụrụ, ụmụnne ya niile, na ọgbọ ahụ niile.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "nwụrụ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ụmụnne ya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:00.840956887Z",
+  "model": "glm-5.3"
+}

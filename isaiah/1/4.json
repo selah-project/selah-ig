@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ee-i, mba na-emehie, ndị na-ebugo arọ nke ihe ọjọọ, mkpụrụ nke ndị na-emebi ihe, ụmụ ndị na-ekụrisa ihe! Ha ahapụla ⟨את⟩ Yahwe, ha jụrụ ⟨את⟩ Onye Nsọ nke Israel ajá, ha laghachiri azụ.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ee-i"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mba"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "na-emehie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "na-ebugo arọ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nke ihe ọjọọ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ndị na-emebi ihe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "ndị na-ekụrisa ihe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Ha ahapụla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ha jụrụ ajá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Onye Nsọ nke Israel"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Onye Nsọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Israel"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ha laghachiri"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "azụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:31:46.256712213Z",
+  "model": "glm-5.3"
+}

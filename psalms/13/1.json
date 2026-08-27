@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Maka onye-eduzi egwu. Abụ nke Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye-eduzi egwu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Dawid"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:15.491702676Z",
+  "model": "glm-5.3"
+}

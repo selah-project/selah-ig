@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 94,
+  "translation": "Ha na-agbapụta okwu, ha na-ekwu okwu enweghị ihere; mmadụ niile na-eme arụrụala na-eto onwe ha elu.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Ha na-agbapụta okwu"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ha na-ekwu"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "okwu enweghị ihere"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "na-eto onwe ha elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mmadụ niile"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "און",
+      "gloss": "arụrụala"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:41.579526766Z",
+  "model": "glm-5.3"
+}

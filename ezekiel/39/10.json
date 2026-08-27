@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 39:10",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Ha agaghị ewere osisi site n'ubi, ha agaghị akụ osisi site n'ọhịa, n'ihi na na ngwá agha ha ga-ere ọkụ; ha ga-ekwatọ ⟨את⟩ ndị kwatọrọ ha, ha ga-ezu ⟨את⟩ ndị zu ha zu ha — okwu Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha agaghị"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ewere"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨ubi⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha agaghị"
+    },
+    {
+      "surface": "יחטבו",
+      "gloss": "akụ osisi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "היערים",
+      "gloss": "⟨ọhịa⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בנשק",
+      "gloss": "na ngwá agha"
+    },
+    {
+      "surface": "יבערו",
+      "gloss": "ha ga-ere"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "ושללו",
+      "gloss": "ha ga-ekwatọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị kwatọrọ ha"
+    },
+    {
+      "surface": "שלליהם",
+      "gloss": "ndị kwatọrọ ha"
+    },
+    {
+      "surface": "ובזזו",
+      "gloss": "ha ga-ezu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị zu ha"
+    },
+    {
+      "surface": "בזזיהם",
+      "gloss": "ndị zu ha"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T12:26:46.450249474Z",
+  "model": "glm-5.3"
+}

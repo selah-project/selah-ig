@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 1:11",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ngwá niile nke ọla edo na nke ọla ọcha bụ́ ise puku na narị anọ; Sheshbatstsar welitere ⟨את⟩ ha niile mgbe ndị a chụgara nọ n'ịchịga elu si Bavel ruo Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "ngwá"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "nke ọla edo"
+    },
+    {
+      "surface": "ולכסף",
+      "gloss": "na nke ọla ọcha"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "ise"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "puku"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị anọ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨את⟩ ha niile",
+      "marks": "ha niile"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "welitere"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "Sheshbatstsar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "n'ịchịga elu"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ndị a chụgara nọ"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "si Bavel"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ruo Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T15:32:44.637099343Z",
+  "model": "glm-5.3"
+}

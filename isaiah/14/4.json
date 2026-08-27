@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 14:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ị ga-eweli ilu a megide eze Bavel, ma sị: Ebee ka onye na-emegbu kwụsịrị? Ọ kwụsịrị, onye na-amanye ọla edo!",
+  "tokens": [
+    {
+      "surface": "ונשאת",
+      "gloss": "ị ga-eweli"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "ilu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ma sị"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ebee ka"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kwụsịrị"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "onye na-emegbu"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "ọ kwụsịrị"
+    },
+    {
+      "surface": "מדהבה",
+      "gloss": "onye na-amanye ọla edo"
+    }
+  ],
+  "timestamp": "2026-08-27T10:40:29.935660662Z",
+  "model": "glm-5.3"
+}

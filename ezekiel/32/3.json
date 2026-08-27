@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 32:3",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "N'ihi na Adonai Yahwe siri nke a: M ga na-ekpọsa ⟨את⟩ net m na gị n'etiti òtù ndị mmadụ, na ha ga-ebulie gị elu na net m.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ופרשתי",
+      "gloss": "M ga na-ekpọsa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "net m"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "net m"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "n'etiti òtù"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "והעלוך",
+      "gloss": "ha ga-ebulie gị elu"
+    },
+    {
+      "surface": "בחרמי",
+      "gloss": "na net m"
+    }
+  ],
+  "timestamp": "2026-08-27T12:23:39.712175817Z",
+  "model": "glm-5.3"
+}

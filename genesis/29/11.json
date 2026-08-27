@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Yaakov sụrụ Rachel ọnụ, wee bulie ⟨את⟩ olu ya, wee fee akwa.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "sụrụ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "wee bulie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olu ya"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "olu ya"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "wee fee akwa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:22:47.715985788Z",
+  "model": "glm-5.3"
+}

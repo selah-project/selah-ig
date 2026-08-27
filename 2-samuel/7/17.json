@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Dịka okwu ndị a niile, nakwa dịka ọhụụ a niile, otu a ka Natan kwuru ya nye Davịd.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "dịka ... niile"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "nakwa dịka ... niile"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "ọhụụ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    }
+  ],
+  "timestamp": "2026-08-27T09:32:55.753486169Z",
+  "model": "glm-5.3"
+}

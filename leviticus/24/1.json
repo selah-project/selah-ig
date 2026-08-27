@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Yahwe wee soro Moshe okwu, na-asị,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": " wee soro okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "soro"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:05:19.910995070Z",
+  "model": "glm-5.3"
+}

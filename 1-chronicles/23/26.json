@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "ma-gakwa maka ndị Lẹvi, ọ dịghịkwa ibu ⟨את⟩ ụlọikikwu na ⟨את⟩ ngwá ya niile maka ọrụ ya.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ma-gakwa"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "maka ndị Lẹvi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghịkwa"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọikikwu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ụlọikikwu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngwá ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwá ya"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "maka ọrụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:04:29.689293770Z",
+  "model": "glm-5.3"
+}

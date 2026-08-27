@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Ma Yosef mere ⟨את⟩ ụmụ Yisrael iyi, sị: Chineke ga-eleta unu n'ezie, mgbe ahụ, unu ga-eburu ọkpụkpụ m elu site n'ọnọdụ a.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "mere iyi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ga-eleta"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "unu ga-eburu elu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkpụkpụ m"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "ọkpụkpụ m"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "site n'ọnọdụ a"
+    }
+  ],
+  "timestamp": "2026-08-27T06:06:50.221459063Z",
+  "model": "glm-5.3"
+}

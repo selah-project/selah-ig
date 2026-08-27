@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ndị a bụ aha ụmụ Esav: Elifaz, nwa Ada, nwunye Esav; Reuel, nwa Bashemat, nwunye Esav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ndị a"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashemat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-27T05:51:12.856310277Z",
+  "model": "glm-5.3"
+}

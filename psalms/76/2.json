@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 76,
+  "translation": "A maara Elohim na Yehuda; aha Ya ukwu na Israel.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "A maara"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:49.696288389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Baana, nwa Chushai — na Asher na na Bealot.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Baana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Chushai"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "na Asher"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "na na Bealot"
+    }
+  ],
+  "timestamp": "2026-08-27T09:50:53.985651862Z",
+  "model": "glm-5.3"
+}

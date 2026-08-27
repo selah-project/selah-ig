@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "O nwere ụmụ nwunye abụọ: aha nke mbụ bụ Hana, aha nke nke abụọ bụ Penina; Penina nwere ụmụ, ma Hana enweghị ụmụ.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "o nwere"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ụmụ nwunye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "nke nke abụọ"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penina nwere"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "ma Hana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ụmụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:59:30.454776830Z",
+  "model": "glm-5.3"
+}

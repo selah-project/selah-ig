@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Onye na-ewepụ ⟨את⟩ unu n'ala Mitsrajim, ka m bụrụ Elohim gị; m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Onye na-ewepụ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ka m bụrụ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gị"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:00:05.634247312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Maka ịhụnanya ọgbụgba-ndụ gị dị n'ihu anya m, m na-agagharị n'eziokwu gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ịhụnanya ọgbụgba-ndụ gị"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "dị n'ihu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "m na-agagharị"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "n'eziokwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:30.827453951Z",
+  "model": "glm-5.3"
+}

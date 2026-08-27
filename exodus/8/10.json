@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ha kwụkọtara ⟨את⟩ ha n'ukwu, n'ukwu; ala ahụ wee si ísì ọjọọ.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "ha kwụkọtara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "n'ukwu"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "n'ukwu"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "ma ọ si ísì ọjọọ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:12:10.572684372Z",
+  "model": "glm-5.3"
+}

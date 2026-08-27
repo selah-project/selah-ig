@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ajọ mmebi, mmebi zuru ezu ka ⟨the⟩ ụwa mebi; mbibi, mbibi kpamkpam ka ụwa gbajiri; ịma jijiji, ịma jijiji kpamkpam ka ụwa na-agbaji.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Ajọ mmebi"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "mmebi zuru ezu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ ụwa"
+    },
+    {
+      "surface": "פור",
+      "gloss": "mbibi"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "mbibi kpamkpam"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "ịma jijiji"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "ịma jijiji kpamkpam"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T10:46:38.745859125Z",
+  "model": "glm-5.3"
+}

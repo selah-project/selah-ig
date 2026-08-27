@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Ha rịọrọ, ma ọ wetara ndị uzo, ma juo ha obi site na nri nke eluigwe.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Ha rịọrọ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ọ wetara"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ndị uzo"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "na nri"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "juo ha obi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:28.806285556Z",
+  "model": "glm-5.3"
+}

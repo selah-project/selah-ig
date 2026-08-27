@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Abụ, nke mkpurị-ndi nke ụmụ Korach.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mkpurị-ndi nke"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "nke ụmụ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-27T13:32:12.173020413Z",
+  "model": "glm-5.3"
+}

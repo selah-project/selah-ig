@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 101,
+  "translation": "M ga-elebara anya n'ụzọ nzuzo-ziri-ezi; mgbe ka Ị ga-abịa nye m? M ga-eje ije n'oke obi m n'etiti ụlọ m.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "M ga-elebara anya n'amamihe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ziri ezi nke ọcha"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mgbe ka"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "Ị ga-abịa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nye m"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "M ga-eje ije"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "n'ọcha"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ụlọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:32.786562797Z",
+  "model": "glm-5.3"
+}

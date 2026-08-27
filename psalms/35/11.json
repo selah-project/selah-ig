@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ndị akaebe nke ike ike na-ebilite; ihe m na-amaghị ha na-ajụ m.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "na-ebilite"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ndị akaebe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nke ike ike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "m na-amaghị"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "ha na-ajụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:49.917005799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Moses dere ⟨את⟩ Torah a, ma nye ya ndị nchu-aja, ụmụ Levi, ndị na-ebu ⟨את⟩ igbe ọgbụgba-ndụ nke Yahwe, na ndị okenye niile nke Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "dere"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moses"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah a"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ma nye ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchu-aja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "ndị na-ebu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igbe ọgbụgba-ndụ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ruo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T08:18:18.024871758Z",
+  "model": "glm-5.3"
+}

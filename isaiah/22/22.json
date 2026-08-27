@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "M ga-etinye igodo ụlọ Dovid n'ubu ya; ọ ga-emepe, onye ọ bụla agaghị emechi; ọ ga-emechi, onye ọ bụla agaghị emepe.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "M ga-etinye"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "igodo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovid"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ubu ya"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "ọ ga-emepe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "onye ọ bụla agaghị"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "emechi"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ọ ga-emechi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "onye ọ bụla agaghị"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emepe"
+    }
+  ],
+  "timestamp": "2026-08-27T10:45:32.332517395Z",
+  "model": "glm-5.3"
+}

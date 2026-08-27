@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ọ bụrụ na nwoke ga-eri ubi ma ọ bụ ubi vaịn, ma ziga ⟨את⟩ anụ ụlọ ya ka ọ rie n'ubi nke ọzọ, site na ihe kacha mma nke ubi ya na ihe kacha mma nke ubi vaịn ya ka ọ ga-akwụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ubi vaịn"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ma ziga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ụlọ"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "anụ ụlọ"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ma rie"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "n'ubi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nke ọzọ"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "site na ihe kacha mma nke"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "ubi ya"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "na ihe kacha mma nke"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "ubi vaịn ya"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ọ ga-akwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:37.019825454Z",
+  "model": "glm-5.3"
+}

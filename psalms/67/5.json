@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 67,
+  "translation": "Mba ndị ga-enwe Ụtọ ma na-agba Ụtọ, maka na ị na-ekpe ikpe ndị mmadụ n'ụkpụrụ ziri ezi, ma na-eduzi mba ndị dị n'ụwa. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ga-enwe Ụtọ"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "ma na-agba Ụtọ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "ị na-ekpe ikpe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "n'ụkpụrụ ziri ezi"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ma na-eduzi mba ndị"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dị n'ụwa"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "na-eduzi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:47.161301863Z",
+  "model": "glm-5.3"
+}

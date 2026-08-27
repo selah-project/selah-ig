@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 96,
+  "translation": "Nyere Yahwe, aka ọmụmụ nke ndị mmadụ; nyere Yahwe ukwu na ike.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "aka ọmụmụ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "nke ndị mmadụ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "na ike"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:41.698045317Z",
+  "model": "glm-5.3"
+}

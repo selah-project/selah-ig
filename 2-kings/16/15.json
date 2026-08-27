@@ -1,0 +1,187 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 16:15",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ma eze Achaz nyere ya iwu — ⟨את⟩ Uriyah onye-nchu-aja — ka o kwuo: N'elu nnukwu ebe-ọkụ, mee ka ⟨את⟩ ọrụ-ọkụ ụtụtụ rụọ ọkụ, na ⟨את⟩ onyinye anyasụ, na ⟨את⟩ ọrụ-ọkụ eze, na ⟨את⟩ onyinye ya, na ⟨את⟩ ọrụ-ọkụ ndị ala niile, na onyinye ha na mmiri-onye ha; ma ọbara niile nke ọrụ-ọkụ na ọbara niile nke àjà, gụsasịa n'elu ⟨את⟩ ya; ma ebe-ọkụ ọla-nchara ga-adị maka m ka m na-eleba anya.",
+  "tokens": [
+    {
+      "surface": "ויצוהו",
+      "gloss": "ma ọ nyere ya iwu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah onye-nchu-aja"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka o kwuo"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "nnukwu ebe-ọkụ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nnukwu"
+    },
+    {
+      "surface": "הקטר",
+      "gloss": "mee ka ọ rụọ ọkụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ-ọkụ ụtụtụ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ọrụ-ọkụ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nke ụtụtụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "onyinye anyasụ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "onyinye"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "nke anyasụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ọrụ-ọkụ eze"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ọrụ-ọkụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "onyinye ya"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "onyinye ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ọrụ-ọkụ ndị ala"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ọrụ-ọkụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "na onyinye ha"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "na mmiri-onye ha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma niile"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nke ọrụ-ọkụ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma niile"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nke àjà"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ⟨את⟩ ya"
+    },
+    {
+      "surface": "תזרק",
+      "gloss": "gụsasịa"
+    },
+    {
+      "surface": "ומזבח",
+      "gloss": "ma ebe-ọkụ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "nke ọla-nchara"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ka m na-eleba anya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:25:42.541570886Z",
+  "model": "glm-5.3"
+}

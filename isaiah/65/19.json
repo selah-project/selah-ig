@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 65:19",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "M ga-enwe obi ụtọ na Yerushalayim, m ga-anụkwa ọṅụ n'ime ndị m; a gaghị ezute n'ime ya ọzọ ụda oyi n'obi na ụda mkpu ọnwụ.",
+  "tokens": [
+    {
+      "surface": "וגלתי",
+      "gloss": "m ga-enwe obi ụtọ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "וששתי",
+      "gloss": "m ga-anụkwa ọṅụ"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "n'ime ndị m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a gaghị"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ezute"
+    },
+    {
+      "surface": "בה",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ụda"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "oyi n'obi"
+    },
+    {
+      "surface": "ו קול",
+      "gloss": "na ụda"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "mkpu ọnwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:11:45.967951849Z",
+  "model": "glm-5.3"
+}

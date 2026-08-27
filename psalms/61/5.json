@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 61,
+  "translation": "Ka m bi n'ụlọikwuu gị ruo mmiri ruo mmiri, m na-ezo onwe m n'ezo nku gị. Sela.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "Ka m bi"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "n'ụlọikwuu gị"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ruo mmiri ruo mmiri"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "m na-ezo onwe m"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "n'ezo"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "nku gị"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:05.824110959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma m kwuru, m onwe m: amamihe ka mma ike; mana amamihe nke onye ogbenye a na-eleghara anya, na okwu ya anaghị anụ.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "ma m kwuru"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m onwe m"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ka mma"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "ike"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "ma amamihe"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "nke onye ogbenye"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "a na-eleghara anya"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "na okwu ya"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "a na-anụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:00.164032605Z",
+  "model": "glm-5.3"
+}

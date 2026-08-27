@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 9:1",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "N'ihi na m tinyere ⟨את⟩ nke a niile n'obi m, iji nyochaa ⟨את⟩ nke a niile — na ndị ezigbo na ndị amamihe, na ọrụ ha, n'aka Elohim; ọbụnadị ịhụnanya, ọbụnadị ịkpọasị, ọ dịghị onye maara; ihe niile dị n'ihu ha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nke a niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "m tinyere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "ולבור",
+      "gloss": "iji nyochaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nke a niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "ndị ezigbo"
+    },
+    {
+      "surface": "והחכמים",
+      "gloss": "na ndị amamihe"
+    },
+    {
+      "surface": "ועבדיהם",
+      "gloss": "na ọrụ ha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọbụnadị"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ịhụnanya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọbụnadị"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ịkpọasị"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "onye maara"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "onye"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "n'ihu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:52.070860491Z",
+  "model": "glm-5.3"
+}

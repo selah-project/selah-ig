@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 53,
+  "translation": "Onye kwere okwu anyị nụrụ? Na ogwe aka Yahwe — nye onye ka a kpughere ya?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "kwere"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "okwu anyị nụrụ"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "na ogwe aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nye"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "a kpughere ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:04:43.086212701Z",
+  "model": "glm-5.3"
+}

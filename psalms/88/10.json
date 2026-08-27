@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 88,
+  "translation": "Anyụ m na-ada mbà n'ihi nsogbu m; m kpọrọ gị oku, Yahwe, n'ụbọchị niile; agbasawo m akpụkpọ aka m nye gị.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "na-ada mbà"
+    },
+    {
+      "surface": "מני",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nsogbu"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "m kpọrọ gị oku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "יום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "agbasawo m"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nye gị"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "akpụkpọ aka m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:26.618486476Z",
+  "model": "glm-5.3"
+}

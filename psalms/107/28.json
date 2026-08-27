@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ha wee tie mkpu rue Yahwe n'ọgba aghara ha, O weputara ha n'nsogbu ndị ha.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "ha wee tie mkpu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "n'ọgba aghara ha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "site n'nsogbu ndị ha"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "O weputara ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:43.265954539Z",
+  "model": "glm-5.3"
+}

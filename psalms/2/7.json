@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "M ga-ekwupụta iwu ahụ: Yahwe siri m, \"Nwa m bụ gị; taa m mụrụ gị.\"",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "m ga-ekwupụta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "חק",
+      "gloss": "iwu ahụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị bụ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "mụrụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:46.282636125Z",
+  "model": "glm-5.3"
+}

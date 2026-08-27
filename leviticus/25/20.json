@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ma ọ bụrụ na unu kwuo, Kedu ihe anyị ga-eri n'afọ nke asaa? Le, anyị agaghị kụọ, anyịkwa agaghị chịkọta ⟨את⟩ ihe ubi anyị.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "unu kwuo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kedu ihe"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "n'afọ"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "nke asaa"
+    },
+    {
+      "surface": "הן",
+      "gloss": "le"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "kụọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "anyịkwa agaghị"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "chịkọta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ubi anyị"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "ihe ubi anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:06:07.432644588Z",
+  "model": "glm-5.3"
+}

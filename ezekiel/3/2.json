@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "M meghere ọnụ m, Ọ nyere m iri ⟨את⟩ akwụkwọ mpịaji a.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "m meghere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọnụ m"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "ọ nyere m iri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwụkwọ mpịaji a"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "akwụkwọ mpịaji"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T12:00:18.127141701Z",
+  "model": "glm-5.3"
+}

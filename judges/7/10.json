@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma ọ bụrụ na ọ na-atụ gị egwu ịda, gị na Purah, ohu gị, baa n'ogige ahụ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "na-atụ egwu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ịda"
+    },
+    {
+      "surface": "רד",
+      "gloss": "baa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "na Purah"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "banye"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "n'ogige ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:44:25.687501119Z",
+  "model": "glm-5.3"
+}

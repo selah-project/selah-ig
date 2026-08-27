@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Eshton wee mụọ ⟨את⟩ Bet-Rafa, na ⟨את⟩ Pasea, na ⟨את⟩ Tekinah, nna obodo Ir-Nakash; ndị a bụ ụmụnwoke Reka.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Eshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pasea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tekinah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo Ir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nakash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ụmụnwoke"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Reka"
+    }
+  ],
+  "timestamp": "2026-08-27T15:54:12.180337684Z",
+  "model": "glm-5.3"
+}

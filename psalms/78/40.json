@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Oge ole ka ha ji jide ya megide ⟨n'⟩ọzara, na-ewe ya iwe n'ala ọzara kpamkpam?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "oge ole ka"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "ha ji jide ya megide"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "ha na-ewe ya iwe"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "n'ala ọzara kpamkpam"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:55.065208860Z",
+  "model": "glm-5.3"
+}

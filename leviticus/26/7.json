@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Unu ga-achase ⟨את⟩ ndị iro unu, ha ga-adakwa n'ihu unu site na mma agha.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "unu ga-achase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị iro unu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ndị iro unu"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ha ga-adá"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "n'ihu unu"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "site na mma agha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:07:05.226734289Z",
+  "model": "glm-5.3"
+}

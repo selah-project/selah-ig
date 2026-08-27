@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ma jupụta ya ⟨את⟩ mmụọ Elohim, na amamihe, na nghọta, na ihe ọmụma, na n'ọrụ niile.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Ma jupụta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mmụọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "na amamihe"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "na nghọta"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "na ihe ọmụma"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na n'ihe niile"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ọrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:39:02.094743Z",
+  "model": "glm-5.3"
+}

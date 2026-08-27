@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ndị nna anyụ na-ebu ya nri achịcha na anụ nʼụtụtụ, na nri achịcha na anụ nʼanyasị, ma ọ na-aṅụ mmiri site nʼolulu ahụ.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "Ndị nna anyụ"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "na-ebu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri achịcha"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "na anụ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nʼụtụtụ"
+    },
+    {
+      "surface": "ו לחם",
+      "gloss": "na nri achịcha"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "na anụ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "nʼanyasị"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ma site na"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "olulu ahụ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ọ na-aṅụ mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T10:02:57.356722653Z",
+  "model": "glm-5.3"
+}

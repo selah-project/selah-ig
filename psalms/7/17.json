@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Nsogu ya ga-alaghachi n'isi ya, na iyi ike ya ga-adaba n'elu ọsụ ya.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ga-alaghachi"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "nsogu ya"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "n'isi ya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na n'elu"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "ọsụ ya"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "iyi ike ya"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ga-adaba"
+    }
+  ],
+  "timestamp": "2026-08-27T13:09:30.833660054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "O mesịrị, mgbe nke a gasịrị, Dawid tiworo ⟨את⟩ ndị Pelishtim ma megbo ha, ma were ⟨את⟩ Gat na obodo nwa ya n'aka ndị Pelishtim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "O mesịrị"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nke a gasịrị"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "tiworo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Pelishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Pelishtim"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ma megbo ha"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ma were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "na obodo nwa ya"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Pelishtim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:54:41.850098849Z",
+  "model": "glm-5.3"
+}

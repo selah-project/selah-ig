@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 135,
+  "translation": "Onye a gọziri agọzi bụ Yahwe, onye bi na Tsiyon, onye na-ebi na Yerushalayim. Toonu Yah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Onye a gọziri agọzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "site na Tsiyon"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "onye bi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Toonu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:46.776891186Z",
+  "model": "glm-5.3"
+}

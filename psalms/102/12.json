@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Ụbọchị m dị ka onyinyo mgbatị; ma m na-akpọ nkụ dị ka ahịhịa.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị m"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "dị ka onyinyo"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "mgbatị"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "dị ka ahịhịa"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "na-akpọ nkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:51.848813875Z",
+  "model": "glm-5.3"
+}

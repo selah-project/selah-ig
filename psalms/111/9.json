@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 111,
+  "translation": "Ọzụpụta ka o zipụrụ nye ndị ya; iwu ka o nyere ruo mgbe ebighị ebi maka ọgbụgba-ndụ ya; nsọ ma na-atụ egwu ka aha ya dị.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "ọzụpụta"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o zipụrụ"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "nye ndị ya"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o nyere iwu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ọgbụgba-ndụ ya"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ma na-atụ egwu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:58.145146306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 81,
+  "translation": "Tie mpi ọgwụla n'ọnwa ọhụrụ, na ọnwa zuru oke, n'ụbọchị oriri anyị.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "tie mpi"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "n'ọnwa ọhụrụ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "mpi ọgwụla"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "na ọnwa zuru oke"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "oriri anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:52.671027223Z",
+  "model": "glm-5.3"
+}

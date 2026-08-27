@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ ndị Hivi, na ⟨את⟩ ndị Arki, na ⟨את⟩ ndị Sini;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndị Hivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ndị Hivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndị Arki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ndị Arki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndị Sini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ndị Sini"
+    }
+  ],
+  "timestamp": "2026-08-27T15:50:33.024318817Z",
+  "model": "glm-5.3"
+}

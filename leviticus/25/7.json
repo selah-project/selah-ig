@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "na maka anụ ụlọ gị, na maka anụ ọhịa nke dị n'ala gị; ihe mkpụrụ ya niile ga-abụ nri.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "maka anụ ụlọ gị"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "maka anụ ọhịa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "n'ala gị"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ihe mkpụrụ ya"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "maka nri"
+    }
+  ],
+  "timestamp": "2026-08-27T07:04:59.994088827Z",
+  "model": "glm-5.3"
+}

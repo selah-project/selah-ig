@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "M apụghị ige ntị Bilam; ya mere ọ gọziri unị nke ọma, m wezighachikwara unị n'aka ya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "m kwenyere"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ige ntị"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ọ gọziri"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "nke ọma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unị",
+      "marks": "unị"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "m wepụtara"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unị",
+      "marks": "unị"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "n'aka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:39:53.889834401Z",
+  "model": "glm-5.3"
+}

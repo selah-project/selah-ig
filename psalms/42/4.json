@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Anyere m ghọrọ nri m n'ehihie na abalị, mgbe ha na-asị m na ụbọchị niile, \"Ebee ka Elohim gị dị?\"",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ọ ghọrọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "anyere m"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "n'ehihie"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na abalị"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "mgbe ha na-asị"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ebee ka"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:08.042795719Z",
+  "model": "glm-5.3"
+}

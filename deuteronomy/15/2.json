@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ma nke a bụ okwu shemittah: onye ọ bụla nwe ụgwọ nke aka ya ga-ewepụ ihe ọ nyere onye agbata obi ya nyi; ọ gaghị enye ⟨את⟩ onye agbata obi ya nsogbo, ma ọ bụrụ ⟨את⟩ nwanne ya, n'ihi na a kpọwola shemittah aha maka Yahwe.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ma nke a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "nke shemittah"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "ga-ewepụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "nwe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ụgwọ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "nke aka ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "ọ nyere nyi"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "onye agbata obi ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "enye nsogbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye agbata obi ya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "onye agbata obi ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwanne ya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a kpọwola aha"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "shemittah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T08:02:21.123698977Z",
+  "model": "glm-5.3"
+}

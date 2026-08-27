@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Yitschak kpọrọ Yaakov ma gọọ ya ⟨את⟩, ma nye ya iwu, ma gwara ya, sị: \"Ekwela na ị ga-ewere nwunye n'etiti ụmụ nwanyị Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kpọrọ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ma gọọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "ma nye ya iwu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma gwara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ị ga-ewere"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "n'etiti ụmụ nwanyị"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-27T05:45:23.651493753Z",
+  "model": "glm-5.3"
+}

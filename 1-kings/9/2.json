@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Yahwe pụtara na-egosi Shelomah nke ugboro abụọ, dịka o pụtara ya na Giv'on.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "o pụtara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "nke ugboro abụọ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "o pụtara"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "na Giv'on"
+    }
+  ],
+  "timestamp": "2026-08-27T09:58:35.261489801Z",
+  "model": "glm-5.3"
+}

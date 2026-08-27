@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "N'ihi na otu a ka Adonai Yahwe siri kwuo: Mitsrayim ka ndị m batara n'oge gara aga, ibi nwa oge ebe ahụ; ma Ashur megburu ha n'enweghị ihe kpatara ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siri kwuo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "batara"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "n'oge gara aga"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "ibi nwa oge"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ma Ashur"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "n'enweghị ihe kpatara"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "megburu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:41:26.308747355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ndị na-ehi ụlọikwe n'akụkụ ya ⟨bụ⟩ ebo Yissaskar, ma onye-isi ụmụ Yissaskar ⟨bụ⟩ Netanel nwa Tswuar.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "ndị na-ehi ụlọikwe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'akụkụ ya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ebo"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ma onye-isi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tswuar"
+    }
+  ],
+  "timestamp": "2026-08-27T07:12:17.675953808Z",
+  "model": "glm-5.3"
+}

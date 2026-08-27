@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Maka mmadụ, enweghị onye ezi omume dị n'ụwa bụ́ onye na-eme ihe ọma ma na-erughị mmehie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ezi omume"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dị n'ụwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ́ onye"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma na-erughị"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "mmehie"
+    }
+  ],
+  "timestamp": "2026-08-27T15:16:23.039481864Z",
+  "model": "glm-5.3"
+}

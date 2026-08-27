@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ụmụ Yisrael wee dọ n'ụlọikwu na Gilgal, ma mee ⟨את⟩ Pesach n'ụbọchị iri na anọ nke ọnwa, n'ụtụtụ-anyanwụ-ada, na ndịda Yeriko.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "wee dọ n'ụlọikwu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "na Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na anọ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "nke ọnwa"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "n'ụtụtụ-anyanwụ-ada"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "na ndịda"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriko"
+    }
+  ],
+  "timestamp": "2026-08-27T08:21:15.959238102Z",
+  "model": "glm-5.3"
+}

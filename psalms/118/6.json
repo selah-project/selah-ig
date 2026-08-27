@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "Yahwe dị m n'aka; agaghị m atụ ụfọd — gịnị ka mmadụ nwere ike ime m?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dị m n'aka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "m atụ ụfọd"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nwere ike ime"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:30.678666968Z",
+  "model": "glm-5.3"
+}

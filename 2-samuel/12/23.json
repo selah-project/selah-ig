@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 12:23",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma ugbu a ọ nwụọla, gịnị ka m na-ebu ọnụ maka nke a? M̄ nwere ike iwetaghachi ya? M na-aga n'ebe ọ nọ, ma ọ gaghị alaghachi n'ebe m nọ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ma ugbu a"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ọ nwụọla"
+    },
+    {
+      "surface": "למה",
+      "gloss": "gịnị ka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "צם",
+      "gloss": "na-ebu ọnụ"
+    },
+    {
+      "surface": "האוכל",
+      "gloss": "m̄ nwere ike"
+    },
+    {
+      "surface": "להשיבו",
+      "gloss": "iwetaghachi ya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "n'ebe ọ nọ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma ọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "alaghachi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n'ebe m nọ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:36:09.586510639Z",
+  "model": "glm-5.3"
+}

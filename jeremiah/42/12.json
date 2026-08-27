@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "M ga-enye ụnụ ebere, ọ ga-elekwa ⟨את⟩ ụnụ anya n'ebere, ọ ga-eweghachikwa ⟨את⟩ ụnụ n'ala ụnụ.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "m ga-enye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ụnụ"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "ebere"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ọ ga-ele anya n'ebere"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ụnụ",
+      "marks": "ụnụ"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ọ ga-eweghachi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ụnụ",
+      "marks": "ụnụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ala ụnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:48:58.986339102Z",
+  "model": "glm-5.3"
+}

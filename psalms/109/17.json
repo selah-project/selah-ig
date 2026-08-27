@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Ọ hụrụ ọnọ n'anya, ọnọ bịara ya; ọ chọghị ngọzi, ngọzi wepụrụ ya.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ọ hụrụ n'anya"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "ọnọ"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "ọ bịara ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ chọghị"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chọrọ"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "ngọzi"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "ọ dịrị ya anya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "site n'aka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:04.867568573Z",
+  "model": "glm-5.3"
+}

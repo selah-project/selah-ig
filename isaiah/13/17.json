@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Lee, m na-akụte megide ha ⟨את⟩ Madai, bụ ndị na-atụghị ọchaọcha, ma ọlaedo ha agaghị achọ ya.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Lee, m na-"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "akụte"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "megide ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Madai"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ ndị"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọchaọcha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-atụghị"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "na-atụghị"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ma ọlaedo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "achọ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:39:05.802806105Z",
+  "model": "glm-5.3"
+}

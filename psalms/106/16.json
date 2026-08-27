@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Ha nwere mkpụrụ obi ikpe ikpe na Moshe n'ogige ahụ, na Aharọn, onye nsọ nke Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "Ha nwere mkpụrụ obi ikpe ikpe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "na Moshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "n'ogige ahụ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "na Aharọn"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "onye nsọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:35.866097096Z",
+  "model": "glm-5.3"
+}

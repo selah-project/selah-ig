@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Shelach wee dịrị ndụ afọ iri atọ, wee mụọ ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Shelach wee"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dịrị ndụ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "iri atọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wee mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:03.254661645Z",
+  "model": "glm-5.3"
+}

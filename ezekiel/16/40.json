@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ha ga-ewetakwa mmadụ izugbe megide gị, ha ga-atụ gị ⟨את⟩ nkume, ha ga-agbakwa gị mma n'agha ha.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "ha ga-ewetakwa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "megide gị"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "mmadụ izugbe"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "ha ga-atụ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "ha ga-agbakwa gị mma"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "n'agha ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:07:04.624989599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "M ga-emebi ugwu na mkpọda ugwu, ahịhịa ha niile ka m ga-eme ka ọ kpọọ nkụ; m ga-eme ka osimiri bụrụ àgwàetiti, olu mmiri ndị ahụ ka m ga-eme ka ha kpọọ nkụ.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "m ga-emebi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "na mkpọda ugwu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ihe niile nke"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "ahịhịa ha"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "ga-eme ka ọ kpọọ nkụ"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "m ga-eme ka"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "osimiri"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "bụrụ àgwàetiti"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "na olu mmiri"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "m ga-eme ka ha kpọọ nkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:59:06.014058518Z",
+  "model": "glm-5.3"
+}

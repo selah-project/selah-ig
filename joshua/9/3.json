@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma ndị bi na Gibeon nụrụ ⟨את⟩ ihe ndị Yehoshua mere nye Yeriko na nye Ai.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Ma ndị bi na"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ndị Yehoshua mere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "nye Yeriko"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "na nye Ai"
+    }
+  ],
+  "timestamp": "2026-08-27T08:25:41.702220223Z",
+  "model": "glm-5.3"
+}

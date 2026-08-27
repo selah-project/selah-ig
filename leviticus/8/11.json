@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ wụsasịa ya n'elu ⟨את⟩ ebe ịchụàjà ugboro asaa, o tee ⟨את⟩ ebe ịchụàjà ahụ ⟨את⟩ nakwa ngwá ya niile, ⟨את⟩ nakwa ite ọsịsa ⟨את⟩ na okwu ya, iji doo ha nsọ.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "o wee wụsasịa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ugboro"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "o tee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe ịchụàjà"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụàjà ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nakwa",
+      "marks": "ngwá ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwá ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nakwa",
+      "marks": "ite ọsịsa"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ite ọsịsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nakwa",
+      "marks": "okwu ya"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "okwu ya"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "iji doo ha nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:50:15.193863775Z",
+  "model": "glm-5.3"
+}

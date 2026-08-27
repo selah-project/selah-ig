@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 129,
+  "translation": "Ọtụtụ ugboro ha tara m ahụhụ site na nwata m, ma ọbụna ndị a enweghị ike imeri m.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ọtụtụ ugboro"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ha tara m ahụhụ"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "site na nwata m"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ma ọbụna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ha nwere ike imeri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:22.808791658Z",
+  "model": "glm-5.3"
+}

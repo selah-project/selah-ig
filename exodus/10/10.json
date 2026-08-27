@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Va ọ sị ha: Yahwe ga-dịgide unu otu a dịka m ga-ahapụ ⟨את⟩ unu na ⟨את⟩ ụmụntakịrị unu; lee, n'ihi na ihe ọjọ dị n'ihu unu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sị"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ga-dị"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "na unu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "m ga-ahapụ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụntakịrị unu"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ụmụntakịrị unu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "lee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ihe ọjọ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:14:44.846199728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "A ṅụọ ya onye na-eti onye agbata obi ya ihe n'ezoro ezo; ma obodo niile ga-ekwu, Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "A ṅụọ ya"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "onye na-eti ... ihe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "onye agbata obi ya"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "n'ezoro ezo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ma ... ga-ekwu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "obodo ⟨the⟩"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-27T08:11:27.983757984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Ụmụ ndị ọzọ ga-ewu mgbidi gị, ma eze ha ga-ejere gị ozi; n'ihi na n'iwe m ka m kụrụ gị, ma na mmasị m ka m nọrọ gị mma.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ha ga-ewu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ndị ọzọ"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "mgbidi gị"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "na eze ha"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "ga-ejere gị ozi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "n'iwe m"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "m kụrụ gị"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "ma na mmasị m"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "m nọrọ gị mma"
+    }
+  ],
+  "timestamp": "2026-08-27T11:08:12.037062696Z",
+  "model": "glm-5.3"
+}

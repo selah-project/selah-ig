@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "Ma mụ, mgbe niile ka m nọ gị nso; ijidewo m aka nri m.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma mụ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nọ gị nso"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "ijidewo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "nri m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:17.418098253Z",
+  "model": "glm-5.3"
+}

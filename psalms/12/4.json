@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ka Yahwe bepụ anya ọnụ niile dị larịị nke mmanyi, ire na-ekwu ihe ukwu.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Ka … bepụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "dị larịị nke mmanyi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ire"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ihe ukwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:03.085723985Z",
+  "model": "glm-5.3"
+}

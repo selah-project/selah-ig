@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 33:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "N'aka nke ọzọ, gafere n'ihu ha, wee daa ala na-efe ruo ugboro asaa, ruo mgbe ọ ruturu nwanne ya.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "N'aka nke ọzọ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gafere"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "n'ihu ha"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "wee daa na-efe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ugboro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "גשתו",
+      "gloss": "ọ ruturu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:49:35.425918006Z",
+  "model": "glm-5.3"
+}

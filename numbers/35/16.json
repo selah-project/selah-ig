@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ma ọ bụrụ na ọ kụrụ ya na ngwá ọrụ nke ígwè, ọ nwụọ, onye-egbu-ọchụ ka ọ bụ; mgbu ọnwụ ka a ga-emenye onye-egbu-ọchụ ahụ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "na ngwá ọrụ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "nke ígwè"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ọ kụrụ ya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ọ nwụọ"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "onye-egbu-ọchụ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ka ọ bụ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a ga-emenye ọnwụ"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "onye-egbu-ọchụ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:47:03.702473872Z",
+  "model": "glm-5.3"
+}

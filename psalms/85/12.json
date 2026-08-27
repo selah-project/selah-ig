@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 85,
+  "translation": "Eziokwu na-eto site n'ụwa, ma ikpe ziri ezi na-eleda site n'eluigwe.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "eziokwu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "site n'ụwa"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "na-eto"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ma ikpe ziri ezi"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "site n'eluigwe"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "na-eleda"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:31.411075549Z",
+  "model": "glm-5.3"
+}

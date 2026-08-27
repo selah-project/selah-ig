@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 124,
+  "translation": "Mgbe ahụ, mmiri ndị kpụ ọkụ na-agafe agafe ga-agafe na nnụchá anyị.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "mgbe ahụ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ga-agafe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nnụchá anyị"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "ndị kpụ ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:01.762257595Z",
+  "model": "glm-5.3"
+}

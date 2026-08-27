@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 9:4",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Onye ọ bụla na-aghọgbu enyi ya, ezi-okwu ha anaghị ekwu; ha zụrụ asụsụ ha ikwu ụgha, na-eme ihe nzuzu ka ha gwụọ ike.",
+  "tokens": [
+    {
+      "surface": "וְאִ֤ישׁ",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "בְּרֵעֵ֨הוּ֙",
+      "gloss": "enyi ya"
+    },
+    {
+      "surface": "יְהָתֵ֔לּוּ",
+      "gloss": "na-aghọgbu"
+    },
+    {
+      "surface": "וֶאֱמֶ֖ת",
+      "gloss": "ezi-okwu"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "יְדַבֵּ֑רוּ",
+      "gloss": "ha ekwu"
+    },
+    {
+      "surface": "לִמְּד֧וּ",
+      "gloss": "ha zụrụ"
+    },
+    {
+      "surface": "לְשׁוֹנָ֛ם",
+      "gloss": "asụsụ ha"
+    },
+    {
+      "surface": "דַּבֶּ֖ר",
+      "gloss": "ikwu"
+    },
+    {
+      "surface": "שֶׁ֥קֶר",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "הֶעֱוֵ֥ה",
+      "gloss": "na-eme ihe nzuzu"
+    },
+    {
+      "surface": "נִלְאֽוּ",
+      "gloss": "ka ha gwụọ ike"
+    }
+  ],
+  "timestamp": "2026-08-27T11:22:17.216941098Z",
+  "model": "glm-5.3"
+}

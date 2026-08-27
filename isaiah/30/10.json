@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ndị na-ekwu maka ndị na-ahụ ụzọ: Anụla anyị; na maka ndị amụma: Amụla anyị ihe ziri ezi; kparịta anyị ihe dị nro, kwuo anyị ihe ndị na-aghọgbu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ndị na-"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ekwu"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "maka ndị na-ahụ ụzọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anụla"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "na maka ndị amụma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "amụla"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "ihe ziri ezi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kparịta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ihe dị nro"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "kwuo"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "ihe ndị na-aghọgbu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:49:41.020295354Z",
+  "model": "glm-5.3"
+}

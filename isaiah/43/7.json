@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Onye ọ bụla a na-akpọ aha m, onye m kere maka ntozu m — m mere ya ọdịdụ, ee, m rụkwara ya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Onye ọ bụla"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "a na-akpọ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "aha m"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "maka ntozu m"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "m kere ya"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "m mere ya ọdịdụ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "m rụkwara ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:57:49.178524434Z",
+  "model": "glm-5.3"
+}

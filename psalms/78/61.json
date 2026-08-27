@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "O nyefere ike ya n'aka ndị a chụgbara mba ọzọ, na otuto ya n'aka onye iro.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "o nyefere"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "n'aka ndị a chụgbara mba ọzọ"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ike ya"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "na otuto ya"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "צר",
+      "gloss": "onye iro"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:18.739984987Z",
+  "model": "glm-5.3"
+}

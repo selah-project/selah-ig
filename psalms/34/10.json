@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Taa Yahwe ⟨את⟩ ụjọ, ndị nsọ ya; n'ihi na enweghị ọghọm nye ndị na-atụ ya ụjọ.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "taa … ụjọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ndị nsọ ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "ọghọm"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "nye ndị na-atụ ya ụjọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:08.502295827Z",
+  "model": "glm-5.3"
+}

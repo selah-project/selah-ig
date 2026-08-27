@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "⟨Ha⟩ ga-ekwu maka ugbu ezeịchị gị, ma ⟨ha⟩ ga-ekwurị banyere ike gị.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "ugbu"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "ezeịchị gị"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "⟨Ha⟩ ga-ekwu"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "ma ike gị"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "⟨ha⟩ ga-ekwurị banyere"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:10.696167349Z",
+  "model": "glm-5.3"
+}

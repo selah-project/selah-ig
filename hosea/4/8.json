@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ha na-eri mmehie popul m, na mmehie ha ka ha na-edo mkpụrụ obi ha elu.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "popul m"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ha na-eri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "mmehie ha"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ha na-edo elu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mkpụrụ obi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:39:40.275737509Z",
+  "model": "glm-5.3"
+}

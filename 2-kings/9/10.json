@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma ⟨את⟩ Izabel ndị nkịta ga-eri n'akụkụ ala Yizreel, enweghịkwa onye ga-eli ya ozu. Yehu meghere ụzọ mbata ahụ ma gbaa ọsọ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ma ⟨את⟩",
+      "marks": "Izabel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izabel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ndị nkịta"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "n'akụkụ ala"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "enweghịkwa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "onye ga-eli ozu"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "meghere"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ụzọ mbata ahụ"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "gbaa ọsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:17:41.813151047Z",
+  "model": "glm-5.3"
+}

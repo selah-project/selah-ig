@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 64,
+  "translation": "Maka onye-eduzi egwu. Abụ nke Daud.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye-eduzi egwu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ egwu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Daud"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:42.117882480Z",
+  "model": "glm-5.3"
+}

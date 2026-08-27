@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Elohim nyere ya aka megide ndị Felishi, megide ⟨ndị⟩ Arabia ndị bi na Gur-Baal, na ndị Meunim.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "nyere ya aka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Felishi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "megide"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "ndị Arabia"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "na Gur-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "na ndị Meunim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:16:44.369855014Z",
+  "model": "glm-5.3"
+}

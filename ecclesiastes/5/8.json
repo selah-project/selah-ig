@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ma uru nke ụwa dị maka onye ọ bụla: ⟨is⟩ eze na-ejere shadị ahụ ọrụ.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "ma uru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "maka onye ọ bụla"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "shadị"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "na-ejere ọrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:16:36.183637586Z",
+  "model": "glm-5.3"
+}

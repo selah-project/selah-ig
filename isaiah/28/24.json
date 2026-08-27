@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ọ̀ na-atụgharị ugbo ụbọchị niile naanị ka ọ kụọ mkpụrụ? Ọ na-emepe ala ya ma na-atụgharịkwa ya?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "na-atụgharị ugbo"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "onye na-atụgharị ugbo"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ka ọ kụọ mkpụrụ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "na-emepe"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "ma na-atụgharịkwa"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ala ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:49:10.833953914Z",
+  "model": "glm-5.3"
+}

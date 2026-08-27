@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Haman wee sị ⟨eze⟩: \"Maka onye ⟨ezu⟩ chọrọ ịchọ ka a kwanye ùgwù,\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sị"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨eze⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨ezu⟩"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chọrọ ịchọ"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "ka a kwanye ùgwù"
+    }
+  ],
+  "timestamp": "2026-08-27T15:21:01.363864981Z",
+  "model": "glm-5.3"
+}

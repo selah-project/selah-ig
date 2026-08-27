@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Elohim wee soro Noach na ụmụ ya ndị nọ ⟨את⟩ ya kwuo, na-agwu okwu,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee kwuo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "soro"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-agwu okwu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:28:10.444862840Z",
+  "model": "glm-5.3"
+}

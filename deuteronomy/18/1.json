@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 18:1",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ndị nchuaja ha ndị Livi, ùmùnne niile nke agbụrụ Livi, agaghị enwe òkè na ihe nketa ya na Israel; ọkụ-olu-aja Yahwe na ihe nketa Ya ka ha ga-eri.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "maka ndị nchuaja"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ndị Livi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "agbụrụ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Livi"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "na ihe nketa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "ọkụ-olu-aja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "na ihe nketa Ya"
+    },
+    {
+      "surface": "יאכלון",
+      "gloss": "ha ga-eri"
+    }
+  ],
+  "timestamp": "2026-08-27T08:05:00.852751371Z",
+  "model": "glm-5.3"
+}

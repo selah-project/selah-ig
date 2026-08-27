@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Aha nke mbụ ⟨erere⟩ Pishon; ⟨ọ⟩ ⟨bụ⟩ nke na-agba gburugburu ⟨את⟩ ala niile nke Havilah, ebe ọla edo dị.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pishon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "na-agba gburugburu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala niile nke Havilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "nke Havilah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọla edo"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:10.622676298Z",
+  "model": "glm-5.3"
+}

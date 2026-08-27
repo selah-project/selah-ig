@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "O jiri ochichi mee ebe ezinụlọ Ya, akka gburugburu Ya, ochichi nke mmiri, igwe ojii ndị siri ike nke mbara igwe.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "O jiri mee"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ochichi"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "ebe ezinụlọ Ya"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "gburugburu Ya"
+    },
+    {
+      "surface": "סכתowo",
+      "gloss": "akka (ụlọ nkwari akwa)",
+      "marks": ""
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "ochichi nke"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "igwe ojii ndị siri ike"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mbara igwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:43.515995587Z",
+  "model": "glm-5.3"
+}

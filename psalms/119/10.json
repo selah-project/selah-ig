@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Site na mkpụrụ obi m niile m chọrọ gị; ekwela ka m si n'iwu gị pụọ.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "site na niile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "m chọrọ gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "ka m pụọ n'ụzọ"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "site n'iwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:05.152641963Z",
+  "model": "glm-5.3"
+}

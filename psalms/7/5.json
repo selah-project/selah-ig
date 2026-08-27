@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ọ bụrụ na m akwụghachiri ajọ ihe maka onye dịrị m udo, ma m wepụla ihe onye iro m n'enweghị ihe kpatara ya —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "m akwụghachiri"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "onye dịrị m udo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ajọ ihe"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "ma m wepụla ihe"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "onye iro m"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "n'enweghị ihe kpatara ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:04.912940267Z",
+  "model": "glm-5.3"
+}

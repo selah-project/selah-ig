@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ma Yitro, ọgọ Moshe, were ⟨את⟩ Tzipora, nwunye Moshe, mgbe ezipụchachara ya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ọgọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tzipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "ezipụchachara ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:19:56.113482568Z",
+  "model": "glm-5.3"
+}

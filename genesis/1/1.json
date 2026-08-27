@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Na mmalite, Elohim kere ⟨את⟩ eluigwe na ⟨את⟩ ụwa.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Na mmalite"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eluigwe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T05:21:42.207873079Z",
+  "model": "glm-5.3"
+}

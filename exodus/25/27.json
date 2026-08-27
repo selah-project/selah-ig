@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "N'akụkụ oke ahụ ka okporo ndị ahụ ga-adị, dịka ebe mkpọ ndị ahụ ga-anọ iji buo ⟨את⟩ tebụl ahụ.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "oke ahụ"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ka ... ga-adị"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "okporo ndị ahụ"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "dịka ebe"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "maka mkpọ ndị ahụ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ga-anọ iji buo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tebụl ahụ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tebụl ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:28:45.369342070Z",
+  "model": "glm-5.3"
+}

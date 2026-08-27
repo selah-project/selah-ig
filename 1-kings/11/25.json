@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ya bụ, ọ bụ onye nnọchibidọ nye Israel n'ụbọchị niile nke Shelomah, yana ⟨את⟩ ihe ọjọọ nke Hadad; ọ kpọrọ Israel asị, wee chịa na Aram.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ya bụ"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "onye nnọchibidọ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "neye Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ọjọọ nke Hadad"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "ọ kpọrọ asị"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wee chịa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-27T10:01:18.372258555Z",
+  "model": "glm-5.3"
+}

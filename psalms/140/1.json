@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 140,
+  "translation": "Maka onye isi egwu. Abụ e ji egwu aga, nke Davide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye isi egwu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ e ji egwu aga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke DAVIDE"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:56.245512062Z",
+  "model": "glm-5.3"
+}

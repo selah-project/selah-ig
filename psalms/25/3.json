@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ọzọkwa, mmadụ niile na-echere gị agaghị ata ihere; kama ndị na-aghọ aghọ n'ụzọ efu ka ga-ata ihere.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ọzọkwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mmadụ niile"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "na-echere gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ata ihere"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ka ga-ata ihere"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "ndị na-aghọ aghọ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "n'ụzọ efu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:22.421294909Z",
+  "model": "glm-5.3"
+}

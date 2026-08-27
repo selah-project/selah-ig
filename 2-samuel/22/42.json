@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ha na-ele anya enyemaka, ma ọ dịghị onye nzọpụ; ruo Yahwe, ma Ọ zaghịghị ha.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "Ha na-ele anya enyemaka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma ọ dịghị"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "onye nzọpụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma Ọ dịghị"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "zaghịghị ha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:47:21.093887376Z",
+  "model": "glm-5.3"
+}

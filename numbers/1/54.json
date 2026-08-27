@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 1:54",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ụmụ Yisrael mere dịka ihe niile nke Yahwe nyere iwu ⟨את⟩ Moshe, otu a ka ha mere.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ma ... mere"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dịka ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ha mere"
+    }
+  ],
+  "timestamp": "2026-08-27T07:08:29.183390173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 135,
+  "translation": "Ntị ha nwere ma ha anaghị enyo ntị; imi ọzọ — enweghị ume ⟨na⟩ ọnụ ha.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ntị"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ha anaghị"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "enyo ntị"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ọzọ — imi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨dị⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ume"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "n'ọnụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:57.803484310Z",
+  "model": "glm-5.3"
+}

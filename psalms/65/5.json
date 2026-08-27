@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "Ekele dịrị onke ị họrọ ma dọta nso ⟨gị⟩, ka ọ bi n'ogige gị; anyị ga-eju afọ n'ihe ọma nke ụlọ gị, dị nsọ, nke ụlọ nsọ gị.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ekele dịrị"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "ị họrọ"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "ma dọta nso"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ọ ga-ebi"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "n'ogige gị"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "anyị ga-eju afọ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "n'ihe ọma"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nke ụlọ gị"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "dị nsọ"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "nke ụlọ nsọ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:54.220393237Z",
+  "model": "glm-5.3"
+}

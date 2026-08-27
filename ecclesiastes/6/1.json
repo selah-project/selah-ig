@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ọ dị nnọọ njọ m hụrụ n'okpuru anyanwụ, ma ọ dị arọ n'elu mmadụ.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "njọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "m hụrụ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨the⟩ anyanwụ"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ma ọ dị ukwuu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨the⟩ mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:16:41.708737421Z",
+  "model": "glm-5.3"
+}

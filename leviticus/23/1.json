@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Yahwe wee kwuo okwu na Moshe, sị:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kwuo okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:03:27.654565708Z",
+  "model": "glm-5.3"
+}

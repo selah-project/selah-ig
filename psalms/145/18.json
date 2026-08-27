@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Yahwe dị nso nye ndị niile na-akpọ Ya, nye ndị niile na-akpọ Ya n'eziokwu.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "dị nso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nye ndị niile"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "na-akpọ Ya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nye ndị niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "na-akpọ Ya"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "n'eziokwu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:45.586535983Z",
+  "model": "glm-5.3"
+}

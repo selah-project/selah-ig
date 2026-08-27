@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Adam wee mara ⟨את⟩ nwunye ya ọzọ, ọ wee mụọ nwa nwoke, ọ wee kpọọ ⟨את⟩ aha ya Shet, n'ihi na Elohim etinyela m mkpụrụ ọzọ n'ọnọdụ Hevel, n'ihi na Qain gburu ya.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "mara"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwunye ya"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwunye ya"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ọ wee mụọ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ọ wee kpọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שת",
+      "gloss": "etinyela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'ọnọdụ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "gburu"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qain"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:21.627245655Z",
+  "model": "glm-5.3"
+}

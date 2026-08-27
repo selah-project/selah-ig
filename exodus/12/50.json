@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma ụmụ niile nke Yisrael mere dịka Yahwe nyere Moshe iwu — ⟨את⟩ Moshe na ⟨את⟩ Aharon; otu a ka ha mere.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ma ha mere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ha mere"
+    }
+  ],
+  "timestamp": "2026-08-27T06:15:15.737220034Z",
+  "model": "glm-5.3"
+}

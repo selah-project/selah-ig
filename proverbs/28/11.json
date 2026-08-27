@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Onye bara ọgaranya ⟨ bụ⟩ onye amamihe n'anya ya, mana onye ogbenye nwere nghọta ga-enyocha ya.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "onye amamihe"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "n'anya ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bara ọgaranya"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "mana onye ogbenye"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "nwere nghọta"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "ga-enyocha ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:31:45.375964271Z",
+  "model": "glm-5.3"
+}

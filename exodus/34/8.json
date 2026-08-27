@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Moshe gwusiri ike, wee dàa ala n'ihu, wee kee ala nsọ.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "gwusiri ike (megharịa ngwa ngwa)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "wee dàa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ala n'ihu"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "wee kee ala nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:35:20.066882788Z",
+  "model": "glm-5.3"
+}

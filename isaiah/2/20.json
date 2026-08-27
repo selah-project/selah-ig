@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "N'ụbọchị ahụ, mmadụ ga-atụfu ⟨את⟩ chi ndị nzụ bụ́ ọ̀ nke ọla ọcha ya na ⟨את⟩ chi ndị nzụ bụ́ ọ̀ nke ọla edo ya, ndị o mere maka onwe ya ka ọ na-efe ha ofufe — nye anụ ọhịa ole na mbe ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "ga-atụfu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chi ndị nzụ bụ́ ọ̀ nke ọla ọcha ya"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "chi ndị nzụ bụ́ ọ̀"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "nke ọla ọcha ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chi ndị nzụ bụ́ ọ̀ nke ọla edo ya"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "chi ndị nzụ bụ́ ọ̀"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "nke ọla edo ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka onwe ya"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "ka ọ na-efe ofufe"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "nye anụ ọhịa ole"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "na mbe ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:30:59.440031439Z",
+  "model": "glm-5.3"
+}

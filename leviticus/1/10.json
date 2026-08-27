@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ọ bụrụ na ihe ọ na-eweta dị ⟨is⟩ site n'anụ ụlọ, site n'atụrụ ma ọ bụ site n'ewụ, dịka ọlu; nwoke enweghị ntụpọ ka ọ ga-eweta ya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "anụ ụlọ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ihe ọ na-eweta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ewụ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "dịka ọlu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "enweghị ntụpọ"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ọ ga-eweta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:00.121712735Z",
+  "model": "glm-5.3"
+}

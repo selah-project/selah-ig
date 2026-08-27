@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ọ hụrụ ya, bilie, gaa ruo n'ọnọdụ ndụ ya, bata na Be'er-Sheva nke dị na Yehuda, ma hapụ ⟨את⟩ ohu ya n'ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ọ hụrụ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "bilie"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ndụ ya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "bata"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke dị na"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "hapụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohu ya"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "ohu ya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:08:14.617959871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Mgbaji imi nke ọla edo na ngọlọmbọ nke edo dị ọcha, bụ onye ọkammụta na-akatọ mmadụ, nye ntị na-ege ntị.",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "mgbaji imi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nke ọla edo"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "na ngọlọmbọ"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "nke edo dị ọcha"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "onye na-akatọ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ọkammụta"
+    },
+    {
+      "surface": "על",
+      "gloss": "nye"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ntị"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "na-ege ntị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:28:47.691902964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Obi m na-agbagharị agbagharị; ike m hapụrụ m, ọbụnadị ìhè anya m abụghịkwa ⟨את⟩ nke dị n'ebe m nọ.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "na-agbagharị agbagharị"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "hapụrụ m"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ike m"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ọbụnadị ìhè"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọbụnadị"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nke dị n'ebe m nọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:11.182540613Z",
+  "model": "glm-5.3"
+}

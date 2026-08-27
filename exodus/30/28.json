@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Na ⟨את⟩ ebe ịchụàjà nke ọkụ-ọchịchọrọ na ⟨את⟩ ngwa ihe ya niile, na ⟨את⟩ olulu mmiri na ⟨את⟩ okpụkụ ọdọ ya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ebe ịchụàjà nke ọkụ-ọchịchọrọ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nke ọkụ-ọchịchọrọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ngwa ihe ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwa ihe ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "olulu mmiri"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "olulu mmiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "okpụkụ ọdọ ya"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "okpụkụ ọdọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:32:24.356902298Z",
+  "model": "glm-5.3"
+}

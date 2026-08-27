@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Chetara iwu nke Moshe, odibo m, nke m nyere ya na Horeb maka Israel niile — iwu edere na ikpe ziri ezi.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Chetara"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "odibo m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "m nyere iwu"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Moshe)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na Horeb"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "iwu edere"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "na ikpe ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:03.648967514Z",
+  "model": "glm-5.3"
+}

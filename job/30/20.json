@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "M na-eti gị mkpu, ma ị naghị azaghị m; m guzorola, na ị na-elebara m anya.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "M na-eti mkpu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ị naghị"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "azaghị m"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "m guzorola"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "na-elebara anya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:52:55.162206323Z",
+  "model": "glm-5.3"
+}

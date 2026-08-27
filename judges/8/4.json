@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Gidọn wee bịa ruo Jọdan, na-agafe ya, yana mmadụ narị atọ ndị nọkọrọ ⟨את⟩ ya, ike gwụrụ ha mana ha ka na-achụ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ọ wee bịa"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidọn"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ruo Jọdan"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "yana atọ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "ike gwụrụ"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "mana ha ka na-achụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:48:37.860431633Z",
+  "model": "glm-5.3"
+}

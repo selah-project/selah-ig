@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ha na-agbada n'oké osimiri n'ụgbọ mmiri, ndị na-arụ ọrụ n'ime mmiri dị ukwuu.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "ndị na-agbada"
+    },
+    {
+      "surface": "הים",
+      "gloss": "n'oké osimiri"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "n'ụgbọ mmiri"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ndị na-arụ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "n'ime mmiri"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dị ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:42.531644732Z",
+  "model": "glm-5.3"
+}

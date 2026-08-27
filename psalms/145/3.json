@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Ukwu Yahwe, ma na-ekwuwanye otuto nke ukwuu; nnukwu ya enweghị nchọpụta.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Ukwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ma na-ekwuwanye otuto"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "nnukwu ya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "nchọpụta"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:53.447335386Z",
+  "model": "glm-5.3"
+}

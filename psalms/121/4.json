@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 121,
+  "translation": "Lee, ọ natoghị ụra ma ọ na-ehikwaghị ụra — Onye na-echebe Yisrael.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ natoghị"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ụra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ na-ehikwaghị"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "ụra"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Onye na-echebe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:53.670219893Z",
+  "model": "glm-5.3"
+}

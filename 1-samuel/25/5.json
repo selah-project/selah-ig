@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ọzọ Davịd zipụrụ ndị okorobịa iri, ma Davịd sịrị ndị okorobịa ahụ, “Rịgoruo Karmel, unu abịanye na Nabal, unu jụọ ya aha m, na-ajụ maka udo.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "zipụrụ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ndị okorobịa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma sịrị"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "ndị okorobịa ahụ"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "rịgoruo"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "unu abịanye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "unu jụọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "aha m"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "maka udo"
+    }
+  ],
+  "timestamp": "2026-08-27T09:20:38.321675948Z",
+  "model": "glm-5.3"
+}

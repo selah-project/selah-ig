@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 142,
+  "translation": "M na-mịnye n'ihu Ya mkparịta ọnwụ m; nsogbu m, n'ihu Ya ka m na-ekpughe.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "m na-mịnye"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu Ya"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "mkparịta ọnwụ m"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "nsogbu m"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu Ya"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "m na-ekpughe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:19.704513676Z",
+  "model": "glm-5.3"
+}

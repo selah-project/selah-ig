@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 17:6",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ma nke ọzọ, nzuko nile nke ụmụ Yisrael mere mkpesa megide Moshe na megide Aharon, na-ekwu, unu egbuola ⟨את⟩ ndị Yahwe.",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "mere mkpesa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nile"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "nzuko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "nke ọzọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na megide"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "המתם",
+      "gloss": "egbuola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:28:40.749494630Z",
+  "model": "glm-5.3"
+}

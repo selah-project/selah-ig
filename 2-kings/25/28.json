@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "O gwara ⟨את⟩ ya okwu ọma, ma tinye oche ya n'elu oche ndị eze ndị nọkọrọ ⟨את⟩ ya na Bavel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "o gwara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "okwu ọma"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oche ya"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "oche ya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "oche"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "na Bavel"
+    }
+  ],
+  "timestamp": "2026-08-27T10:33:15.982741727Z",
+  "model": "glm-5.3"
+}

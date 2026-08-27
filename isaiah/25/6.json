@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 25:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Yahwe nke ndị ọgbaghara ga-eme maka ndị mmadụ niile n'ugwu a oriri nke ihe ndị nwere abụba, oriri nke mmanya a na-edobe, abụba ndị jupụtara n'ụmị, mmanya a na-edobe ka a na-eme ka ọ dị ọcha.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị ọgbaghara"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka ndị niile"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "oriri"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "nke ihe ndị nwere abụba"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "oriri"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "nke mmanya a na-edobe"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "abụba"
+    },
+    {
+      "surface": "ממחים",
+      "gloss": "ndị jupụtara n'ụmị"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "mmanya a na-edobe"
+    },
+    {
+      "surface": "מזקקים",
+      "gloss": "ka a na-eme ka ọ dị ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:48:07.701113293Z",
+  "model": "glm-5.3"
+}

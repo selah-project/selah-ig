@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Na achịcha na-enweghị yista, na achịcha dị larịị na-enweghị yista gwakọtara na mmanụ, na ihe achịcha dị nke ọma na-enweghị yista etere mmanụ: ntụ ọka wit ka i ga-eme ⟨את⟩ ha.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "na achịcha"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "na-enweghị yista"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "na achịcha dị larịị"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "na-enweghị yista"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "gwakọtara"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mmanụ"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "na ihe achịcha dị nke ọma"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "na-enweghị yista"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "etere"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ntụ ọka"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ọka wit"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "i ga-eme"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha (achịcha ndị ahụ)"
+    }
+  ],
+  "timestamp": "2026-08-27T06:33:12.595321890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Noach banyere, ụmụ ya nwoke, nwunye ya, na ndị nwunye ụmụ ya nwoke ⟨את⟩ ya, n'ime ụgbọ mmiri ahụ, n'ihi mmiri nke mbuze ahụ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ụmụ ya nwoke"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "nwunye ya"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ndị nwunye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "nke ụmụ ya nwoke"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ụgbọ mmiri ahụ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "nke mbuze ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:22:40.665287128Z",
+  "model": "glm-5.3"
+}

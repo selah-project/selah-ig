@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma gị, gaa rụọ ⟨n'⟩ ngwụcha, ma zuọ ike, ma bilie n'ọkwa-gị na ngwụcha nke ụbọchị ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma gị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "rụọ ngwụcha"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "ma zuọ ike"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ma bilie guzo"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "n'ọkwa-gị"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "na ngwụcha"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "nke ụbọchị ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:32:02.395087354Z",
+  "model": "glm-5.3"
+}

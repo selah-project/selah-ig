@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Adonai Yahwe esiwo n'nsọ Ya n'iyi, le, ụbọchị na-abịa n'elu unu, ⟨וְ⟩ a ga-ewelite unu na mma-ngata, na ọnụnụ unu na mkpọ nke ịgba azụ.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "esiwo n'iyi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "n'nsọ Ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'iyi na"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "באים",
+      "gloss": "na-abịa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "n'elu unu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "a ga-ewelite"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "na mma-ngata"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "na ọnụnụ unu"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "na mkpọ"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "nke ịgba azụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:45:36.891021980Z",
+  "model": "glm-5.3"
+}

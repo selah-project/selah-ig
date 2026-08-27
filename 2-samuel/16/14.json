@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Eze ahụ wee bịa, ya na ndị mmadụ niile nke ⟨את⟩ ya, ha gwụrụ ike, wee zusaa ike ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ma ọ bịara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ya na ndị niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nke ndị mmadụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "ha gwụrụ ike"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "ma ha zusaa ike"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:38:50.974884275Z",
+  "model": "glm-5.3"
+}

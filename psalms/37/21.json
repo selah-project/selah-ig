@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Onye ọjọọ na-amị ọmụma ma na-akwụghị; ma onye ziri ezi na-egosi ebere ma na-enye.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "na-amị ọmụma"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ọjọọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma na-akwụghị"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "na-akwụghị"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ma onye ziri ezi"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "na-egosi ebere"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "ma na-enye"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:54.263461673Z",
+  "model": "glm-5.3"
+}

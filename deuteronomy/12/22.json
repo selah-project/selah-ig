@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Naanị dịka a na-eri ⟨את⟩ anụ ọsọ ọhịa na ⟨את⟩ mgbada, otu a ka ị ga-eri ya; onye na-adịghị ọcha na onye na-adị ọcha ga-eri ya ọnụ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Naanị"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a na-eri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ọsọ ọhịa"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "anụ ọsọ ọhịa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mgbada"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "mgbada"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ị ga-eri ya"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "onye na-adịghị ọcha"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "onye na-adị ọcha"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ga-eri ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:00:17.185505701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 111,
+  "translation": "Ọrụ aka ya bụ eziokwu na ikpe ziri ezi; ihe ndị o nyere iwu niile kwesịrị ntụkwasị obi.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "eziokwu"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na ikpe ziri ezi"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "kwesịrị ntụkwasị obi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "ihe ndị o nyere iwu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:08.809726219Z",
+  "model": "glm-5.3"
+}

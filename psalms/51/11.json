@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Zoo ihu Gị n'aka mmehie m, ma kpochapụ njọ m niile.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "zoo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ihu Gị"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "n'aka mmehie m"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma ... niile"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "njọ m"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "kpochapụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:22.520446916Z",
+  "model": "glm-5.3"
+}

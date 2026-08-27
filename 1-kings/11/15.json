@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ọ bịara bụrụ na mgbe Davịd nọ na Edom, na Jọab onyeisi ụgbọ agha na-eli ⟨את⟩ ndị e gburu, o wee tie nwoke ọ bụla nwụrụ n'Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bịara bụrụ na"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "mgbe... nọ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ na"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "n'ịrịgo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jọab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ụgbọ agha"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ili ozu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị e gburu"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ndị e gburu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "o wee tie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "n'Edom"
+    }
+  ],
+  "timestamp": "2026-08-27T10:00:25.097905011Z",
+  "model": "glm-5.3"
+}

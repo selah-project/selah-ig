@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 61,
+  "translation": "Ọ ga-anọkwa ruo mmiri ruo mmiri n'ihu Elohim; chesed na eziokwu ka ha na-echebe ya.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Ọ ga-anọkwa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ruo mmiri ruo mmiri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na eziokwu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka ha"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "na-echebe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:05.824687076Z",
+  "model": "glm-5.3"
+}

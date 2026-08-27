@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Yahwe gwakwara Moshe, sọ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gwakwara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:44:14.561599424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma ndị Isrel nyere ndị Livaị ⟨את⟩ obodo ndị ahụ na ⟨את⟩ mpaghara-ohere ha.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ma nyere"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isrel"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ndị Livaị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ndị ahụ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "obodo ndị ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaghara-ohere ha"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "mpaghara-ohere ha"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:02.826494114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 81,
+  "translation": "N'ọdịnjọ ị kpọrọ oku, ma napụtara m gị; zaaara m gị n'ọzọza nke ogbu igwe; nwalere m gị n'elu mmiri Meriva. Sela.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "n'ọdịnjọ"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ị kpọrọ oku"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "ma napụtara m gị"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "zaaara m gị"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "n'ọzọza"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "ogbu igwe"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "nwalere m gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-27T13:46:18.678342879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 88,
+  "translation": "Yahwe, Elohim nke nzọpụta m, ụbọchị ndụ m ana m eti mkpu, n'abalị, n'ihu gị.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "nzọpụta m"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "ana m eti mkpu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "n'abalị"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "n'ihu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:03.038509882Z",
+  "model": "glm-5.3"
+}

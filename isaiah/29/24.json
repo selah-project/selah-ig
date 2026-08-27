@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 29:24",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Ma ndị na-ezighi ezi n mmụọ ga-amata nghọta, ma ndị na-enye mkpesa ga-amụta ntaramàkwụbido.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ma ... ga-amata"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "ndị na-ezighi ezi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mmụọ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "nghọta"
+    },
+    {
+      "surface": "ורוגנים",
+      "gloss": "ndị na-enye mkpesa"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "ga-amụta"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ntaramàkwụbido"
+    }
+  ],
+  "timestamp": "2026-08-27T10:50:15.824998269Z",
+  "model": "glm-5.3"
+}

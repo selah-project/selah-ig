@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ma site n'⟨את⟩ nzukọ nke ụmụ Yisrael, ọ ga-ewere mkpụrụ abụọ nke ebunu ndị nwụrụ maka-ejuju, na ram otu maka-ọkụ ọffer.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩",
+      "marks": "nzukọ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nke ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ọ ga-ewere"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mkpụrụ abụọ"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "nke ebunu ndị"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "nwụrụ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "maka-ejuju"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "na ram"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "maka-ọkụ ọffer"
+    }
+  ],
+  "timestamp": "2026-08-27T06:57:41.283886813Z",
+  "model": "glm-5.3"
+}

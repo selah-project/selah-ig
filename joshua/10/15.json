@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma Yehoshua laghachiri, ya na Yisrael niile ya na ya, gaa n'ogige ahụ dị na Gilgala.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "laghachiri"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya na ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "n'ogige ahụ"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgala"
+    }
+  ],
+  "timestamp": "2026-08-27T08:24:32.464799204Z",
+  "model": "glm-5.3"
+}

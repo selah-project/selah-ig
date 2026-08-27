@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Maka onye nduzi ⟨nke⟩ egwu, na ngwa erimeren; abụ maka David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye nduzi egwu"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "na ngwa erimeren"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "maka David"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:57.312223391Z",
+  "model": "glm-5.3"
+}

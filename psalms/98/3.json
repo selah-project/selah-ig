@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 98,
+  "translation": "Ọ chetara chesed ya na okwukwa ya nye ụlọ Yisrael; ngwụsị ụwa niile hụrụ ⟨את⟩ nzọpụta Elohim anyị.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ọ chetara"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ya"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "na okwukwa ya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nye ụlọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ngwụsị"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzọpụta"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "nzọpụta"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:03.569952105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ma ⟨את⟩ Aharon na ⟨את⟩ ụmụ ya ga-ete mmanụ, ga-emekwa ka ha dị nsọ ka ha wee bụrụ ndị nchụàjà m.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ga-ete mmanụ"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ga-emekwa ka ha dị nsọ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ka ha wee bụrụ ndị nchụàjà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:34.110333507Z",
+  "model": "glm-5.3"
+}

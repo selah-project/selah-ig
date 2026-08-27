@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Yahwe Elohim mere maka Adam na maka nwunye ya uwe akpụkpọ, wee yie ha.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "maka Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "na maka nwunye ya"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "עור",
+      "gloss": "akpụkpọ"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "wee yie ha"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:45.805178435Z",
+  "model": "glm-5.3"
+}

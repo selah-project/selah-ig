@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Ọ kpọrọ ụnwụ n'ahụ ⟨ה⟩ala, gbajiri mkpọkọ nri dum.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ọ kpọrọ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ụnwụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ahụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dum"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mkpọkọ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "gbajiri"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:37.399120689Z",
+  "model": "glm-5.3"
+}

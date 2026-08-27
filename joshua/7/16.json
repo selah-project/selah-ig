@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Yehoshua bilie n'ụtụtụ, ma kpọbata ⟨את⟩ Israel site na ngalaba-ọkpọ ya; a dọrọ ngalaba-ọkpọ Yehuda.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bilie n'ụtụtụ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ma kpọbata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "site na ngalaba-ọkpọ ya"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a dọrọ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ngalaba-ọkpọ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-27T08:27:42.391433810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ọ na-atụgharị osimiri ka ọ bụrụ ọzara, na mmalite mmiri ka ọ bụrụ ala kpọọ nkụ.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Ọ na-atụgharị"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "osimiri"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ka ọ bụrụ ọzara"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "na mmalite"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "ka ọ bụrụ ala kpọọ nkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:35.207564062Z",
+  "model": "glm-5.3"
+}

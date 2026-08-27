@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 90,
+  "translation": "Maka puku afọ iri n'anya gị dị ka ụnyaahụ mgbe ọ gara nwụọ, nakwa dị ka nche abalị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ iri"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "n'anya gị"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "dị ka ụnyaahụ"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "mgbe ọ gara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dị ka"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ọ gara nwụọ"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "nakwa nche"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "abalị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:14.455566771Z",
+  "model": "glm-5.3"
+}

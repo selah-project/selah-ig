@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 82,
+  "translation": "N'ezie, dịka mmadụ ka unu ga-anwụ, ma dịka otu n'ime ndị ọchịchị ka unu ga-adaba.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "dịka mmadụ"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "unu ga-anwụ"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "ma dịka otu n'ime"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ndị ọchịchị"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "unu ga-adaba"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:54.236735673Z",
+  "model": "glm-5.3"
+}

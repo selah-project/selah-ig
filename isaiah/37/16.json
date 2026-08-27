@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Yahwe nke ndị agha, Elohim nke Yisrael, Onye nọdụrụ n'elu kerubim, gị naanị bu Elohim nke alaeze niile nke ụwa; gị mere ⟨את⟩ eluigwe na ⟨את⟩ ụwa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "Onye nọdụrụ"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "n'elu kerubim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "naanị gị"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nke niile"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "alaeze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ụwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "mere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eluigwe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T10:54:13.125328030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Ọ̀ bụghị nke a bụ Dawid, bụ́ onụ ha na-aza okwu n'agba egwu, na-ekwu, sị, 'Shaul kụrụ n'ime puku ndị ya, ma Dawid n'ime puku iri ndị ya'?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ọ̀ bụghị"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ́ onụ"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ha na-aza okwu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "n'agba egwu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu, sị"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "kụrụ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "n'ime puku ndị ya"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ma Dawid"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "n'ime puku iri ndị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:26:44.798827644Z",
+  "model": "glm-5.3"
+}

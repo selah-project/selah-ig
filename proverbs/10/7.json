@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ncheta nke onye ezi omume bụ ngọzi; aha ndị ajọ omume ga-agbaze.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ncheta"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ezi omume"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "bụ ngọzi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "ga-agbaze"
+    }
+  ],
+  "timestamp": "2026-08-27T14:19:43.654977749Z",
+  "model": "glm-5.3"
+}

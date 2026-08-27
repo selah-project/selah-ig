@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma Gi, Yahwe, ⟨ị bụ⟩ mma mkpe gbara m gburugbu, otuto m, na Onye na-ewelite isi m.",
+  "tokens": [
+    {
+      "surface": "ו",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Gi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "mma mkpe"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "gbara m gburugbu"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "otuto m"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "na Onye na-ewelite"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "isi m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:35.556171463Z",
+  "model": "glm-5.3"
+}

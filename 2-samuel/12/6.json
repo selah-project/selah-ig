@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "ọ ga-akwụghachi ⟨את⟩ atụrụ ahụ ọnụ n'ụzọ anọ, n'ihi na o mere ⟨את⟩ okwu a, nakwa n'ihi na ọ dịghị egosi obere amara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atụrụ ahụ"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "atụrụ ahụ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ga-akwụghachi"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "ọnụ anọ n'ụzọ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwa n'ihi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "egosi obere amara"
+    }
+  ],
+  "timestamp": "2026-08-27T09:37:02.672145612Z",
+  "model": "glm-5.3"
+}

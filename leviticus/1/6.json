@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ ga-akpụ akpụ ⟨את⟩ ịchụ-àjà-ọkụ, ma kụbisaa ⟨את⟩ ya n'iberibe ya.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "ọ ga-akpụ akpụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ịchụ-àjà-ọkụ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ịchụ-àjà-ọkụ"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "ma kụbisaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "n'iberibe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:12.124377143Z",
+  "model": "glm-5.3"
+}

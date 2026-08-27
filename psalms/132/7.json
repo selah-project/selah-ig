@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 132,
+  "translation": "Ka anyị bata n'ebe obibi ya, ka anyị dapụ ala n'ihu oche ụkwụ ya.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "ka anyị bata"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "n'ebe obibi ya"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "ka anyị dapụ ala"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "n'ihu oche ụkwụ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:51.255344228Z",
+  "model": "glm-5.3"
+}

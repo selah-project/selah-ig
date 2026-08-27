@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 147,
+  "translation": "Ọ naghị anụ ụtọ n'ike nke ịnyịnya, ọ naghị akasi ụtọ n'ụkwụ nke nwoke.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ naghị"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "n'ike"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "nke ịnyịnya"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "anụ ụtọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ naghị"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "n'ụkwụ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nke nwoke"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "akasi ụtọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:20.404133714Z",
+  "model": "glm-5.3"
+}

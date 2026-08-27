@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Maka n'ihi Gị ka m buuru mkpari; ihere kpuchiri ⟨ihu⟩ m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "n'ihi Gị"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "m buuru"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "mkpari"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ọ kpuchiri"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ihere"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:36.235176893Z",
+  "model": "glm-5.3"
+}

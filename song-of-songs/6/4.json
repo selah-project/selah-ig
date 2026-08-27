@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ị mara mma, nwa m mara mma, dịka Tirtzah; dọdịkwa mma dịka Yerushalayim; na-ewute dịka ndị a na-ama ọkọlọtọ.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Ị mara mma"
+    },
+    {
+      "surface": "את",
+      "gloss": "gị"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "nwa m mara mma"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "dịka Tirtzah"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "dọdịkwa mma"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "dịka Yerushalayim"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "na-ewute"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "dịka ndị a na-ama ọkọlọtọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:01:45.734819452Z",
+  "model": "glm-5.3"
+}

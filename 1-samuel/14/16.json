@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 14:16",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ndị na-eleba anya nke Shaúl na Geba nke Binyamin hụrụ; gbaa, nnukwu ìgwè mmadụ na-agbapụ, na-aga ebe a na ebe there.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "הצפים",
+      "gloss": "ndị na-eleba anya"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "nke Shaúl"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "na Geba"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "nke Binyamin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gbaa"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ìgwè mmadụ ahụ"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "na-agbapụ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "והלם",
+      "gloss": "ebe a na ebe there"
+    }
+  ],
+  "timestamp": "2026-08-27T09:10:12.549391023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma ọ bụ nwa nwoke ọ tụrọ, ma ọ bụ nwa agbọghọ ọ tụrọ, dịka ikpe a ka a ga-eme ya.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ọ tụrọ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa agbọghọ"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ọ tụrọ"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "dịka ikpe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a ga-eme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:22.331422741Z",
+  "model": "glm-5.3"
+}

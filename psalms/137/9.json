@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 137,
+  "translation": "Onwe nnọọ onye ga-adị gị mma, onye ga-ejide ⟨את⟩ ụmụ-amaghi gị ma wụpụ ha na nkume.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "onye ga-adị gị mma"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "onye ga-ejide"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "ma wụpụ ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ-amaghi gị"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ụmụ-amaghi gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "nkume"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:53.178030949Z",
+  "model": "glm-5.3"
+}

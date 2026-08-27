@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Yahwe ga-eketa ⟨את⟩ Yehuda dịka òkè ya n'ala nsọ, ọ ga-ahọpụtakwa Yerushalayim ọzọ.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "ga-eketa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "dịka òkè ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ala"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "ga-ahọpụtakwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:03:36.517053749Z",
+  "model": "glm-5.3"
+}

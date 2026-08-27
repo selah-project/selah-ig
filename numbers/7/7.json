@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "⟨את⟩ ụgbọ abụọ na ⟨את⟩ ehi anọ ka o nyere ụmụ Gereshọn, dịka ọrụ ha si dị.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụgbọ abụọ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ụgbọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ehi anọ"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o nyere"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshọn"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ọrụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:16:26.753832783Z",
+  "model": "glm-5.3"
+}

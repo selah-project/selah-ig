@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 1:21",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ ga-abụ na mgbe Adonai m, eze, dina-rara ndị nna ya, m na nwa m Shelomom ga-abụ ndị mmehie.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "mgbe ọ dina-ra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai m"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ndị nna ya"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "m ga-abụ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na nwa m"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomom"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ndị mmehie"
+    }
+  ],
+  "timestamp": "2026-08-27T09:49:49.804975367Z",
+  "model": "glm-5.3"
+}

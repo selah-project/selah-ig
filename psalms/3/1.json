@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Abụ eji egwu nke David, mgbe ọ na-agbapụ n'ihu Avshalom nwa ya.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Abụ eji egwu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "mgbe ọ na-agbapụ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:35.555743826Z",
+  "model": "glm-5.3"
+}

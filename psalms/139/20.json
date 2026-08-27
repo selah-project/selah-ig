@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 139,
+  "translation": "Ndị na-ekwu ⟨ihe gbasara⟩ gị maka mbọ ọjọọ; ndị iro gị na-ebu aha gị n'ụgha.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "na-ekwu gị"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "maka mbọ ọjọọ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "na-ebu"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "n'ụgha"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "aha gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:31.587290076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ụbọchị Terah wee bụrụ afọ ise na narị abụọ, Terah wee nwụọ na Haran.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ha wee bụrụ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ise"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na narị abụọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ọ wee nwụọ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "na Haran"
+    }
+  ],
+  "timestamp": "2026-08-27T05:32:08.563082244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Maka na n'ọnwụ enweghị ihe ncheta gị; na Sheol, onye ka ga-eto gị?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "במות",
+      "gloss": "n'ọnwụ"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ihe ncheta gị"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "na Sheol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye ka"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "ga-eto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:22.150991446Z",
+  "model": "glm-5.3"
+}

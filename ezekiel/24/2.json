@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 24:2",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Nwa nke mmadụ, dee maka gị ⟨את⟩ aha ụbọchị ahụ, ⟨את⟩ ụbọchị a n'onwe ya; eze Bavel dọtara onwe ya ruo Yerushalayim n'ụbọchị a n'onwe ya.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nke mmadụ"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "dee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ụbọchị"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụbọchị a n'onwe ya"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "n'onwe ya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "סמך",
+      "gloss": "dọtara onwe ya ruo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "n'ụbọchị n'onwe ya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T12:17:09.506416722Z",
+  "model": "glm-5.3"
+}

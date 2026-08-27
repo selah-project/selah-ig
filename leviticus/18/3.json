@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Dịka ọrụ ala Mitzrayim nke unu nọrọ n'ime ya, unu emela; dịka ọrụ ala Kenaan nke m na-ewetara unu ⟨את⟩ ebe ahụ, unu emela; nakwa n'iwu ha unu agaghi ije.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "Dịka ọrụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "unu nọrọ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emela"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "unu (ga)-me"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "dịka ọrụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "na-ewetara"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emela"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "unu (ga)-me"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "n'iwu ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghi"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ije"
+    }
+  ],
+  "timestamp": "2026-08-27T06:56:47.073659060Z",
+  "model": "glm-5.3"
+}

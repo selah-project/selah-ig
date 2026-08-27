@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "N'ihi na mma ụta gị mikporo n'ime m, aka gị dakwasịrị m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "mma ụta gị"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "mikporo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "n'ime m"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "dakwasịrị"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:29.701971014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 149,
+  "translation": "Ijikọta eze ha n'ọgwụgwọ, na ndị a napụtara ùgwù ha n'ụtarị ígwè.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "Ijikọta"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "eze ha"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "n'ọgwụgwọ"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "na ndị a napụtara ùgwù ha"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "n'ụtarị"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ígwè"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:38.816373723Z",
+  "model": "glm-5.3"
+}

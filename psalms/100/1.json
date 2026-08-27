@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 100,
+  "translation": "Abụ ekele. Tinye mkpu maka Yahwe, ala niile.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "ekele"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Tinye mkpu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:38.353626731Z",
+  "model": "glm-5.3"
+}

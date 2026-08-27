@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ọ wee hụ ⟨את⟩ Amalek, wee bulie ilu-ya n'elu, wee kwuo, sị: Mbụ nke mba ndị bụ Amalek, mana njedebe ya ga-abụ mbibi ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ọ wee hụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "wee bulie… n'elu"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ilu-ya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee kwuo, sị"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "Mbụ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "njedebe ya"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "mbibi"
+    }
+  ],
+  "timestamp": "2026-08-27T07:36:28.069952372Z",
+  "model": "glm-5.3"
+}

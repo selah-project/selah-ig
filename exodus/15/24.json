@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ndị wee na-akwa arịrị n'aka Moshe, na-asị: \"Gịnị ka anyị ga-aṅụ?\"",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "Ndị wee na-akwa arịrị"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Gịnị ka"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "anyị ga-aṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:15:44.752284206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "Yosef na-elekọta ⟨את⟩ nna ya na ⟨את⟩ ụmụnne ya na ⟨את⟩ ụlọ nna ya niile, nri, dịka ọnụ ụmụaka ndị ahụ dị.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "na-elekọta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụnne ya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ụmụnne ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ nna ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "dịka ọnụ"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ụmụaka ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:03.956362884Z",
+  "model": "glm-5.3"
+}

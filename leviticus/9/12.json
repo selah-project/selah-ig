@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "O wee igbu ⟨את⟩ ọrụ ọkụ-nsọ ahụ, ma ụmụ Aharon welere ⟨את⟩ ọbara ahụ nye ya, o wee jiri ya fụfụọ gburugburu n'elu nkedo ahụ.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "o wee igbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ ọkụ-nsọ ahụ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ọrụ ọkụ-nsọ ahụ"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ma ... welere"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "nye ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọbara ahụ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ọbara ahụ"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "o wee fụfụọ ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "nkedo ahụ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:50:23.432151911Z",
+  "model": "glm-5.3"
+}

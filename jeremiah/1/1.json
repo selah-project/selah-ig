@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Okwu Yirmeyahu, nwa Chilkiyahu, n'etiti ndị nchụ-aja ndị nọ na Anatot, n'ala Binyamin.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilkiyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchụ-aja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "nọ na Anatot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-27T11:13:19.848602350Z",
+  "model": "glm-5.3"
+}

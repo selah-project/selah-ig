@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ụbọchị David dịkwara nso ka ọ nwụọ, o wee nyefere nwa ya nwoke Shelomoh iwu, sị:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "dịkwara nso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ka ọ nwụọ"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "o wee nyefere iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya nwoke"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:35:46.069027028Z",
+  "model": "glm-5.3"
+}

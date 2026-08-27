@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ọ dabara na njedebe nke afọ iri abụọ nke Shelomoh rụrụ ⟨את⟩ ụlọ abụọ ahụ — ⟨את⟩ ụlọ Yahwe na ⟨את⟩ ụlọ eze ahụ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dabara"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "njedebe"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "rụrụ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ abụọ ahụ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ eze ahụ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:59:10.857395618Z",
+  "model": "glm-5.3"
+}

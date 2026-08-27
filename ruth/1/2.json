@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 1:2",
+  "book": "ruth",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Aha nwoke ahụ bu Elimelék, aha nwunye ya bu Naọmi, aha ụmụ ya nwoke abụọ bu Mahlon na Kilion — ndị Efrata si Bet-Lechem nke Yehuda. Ha batarara n'ala Moab wee nọrọ ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke ahụ"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelék"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwunye ya"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naọmi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya nwoke"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "na Kilion"
+    },
+    {
+      "surface": "אפרתים",
+      "gloss": "ndị Efrata"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "si Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "nke Yehuda"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "Ha batarara"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ha nọrọ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:05:28.167686858Z",
+  "model": "glm-5.3"
+}

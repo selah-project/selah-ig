@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "Ma m na-eche ntọhapụ mgbe niile, m ga-agbakwunyekwa n'otuto gị niile.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "na-eche ntọhapụ"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "m ga-agbakwunye"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "otuto gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:54.287796380Z",
+  "model": "glm-5.3"
+}

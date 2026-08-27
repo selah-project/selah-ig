@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Kedu uru dị n'ọbara m, mgbe m na-ada ⟨gaa⟩ olulu? Ọ̀ ga-eto gị uzuzu? Ọ̀ ga-ekwupụta eziokwu gị?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kedu"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "uru"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "n'ọbara m"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "mgbe m na-ada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨gaa⟩"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "olulu (mgbasa)"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "ọ̀ ga-eto gị"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "uzuzu"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "ọ̀ ga-ekwupụta"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "eziokwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:24.303206054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "El ga-anụ, ma meghara ha, bụ Onye nọdụrụ ala kemgbe oge ochie. Selah. Ndị na-enweghị mgbanwe, ha na-atụghị Elohim egwu.",
+  "tokens": [
+    {
+      "surface": "יִשװַע",
+      "gloss": "ga-anụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "ma meghara ha"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bụ Onye nọdụrụ ala"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kemgbe oge ochie"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ndị"
+    },
+    {
+      "surface": "אין",
+      "gloss": "na-enweghị"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "mgbanwe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha na-atụghị"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "egwu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:36.583859035Z",
+  "model": "glm-5.3"
+}

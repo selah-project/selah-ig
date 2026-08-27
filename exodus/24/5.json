@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "O wee zipụ ⟨את⟩ ndị ntorobịa nke ụmụ Yisrael, ha wee bulie àjà ọkụ, ma chụàja àjà udo nye Yahwe — ehi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "o wee zipụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ntorobịa"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ndị ntorobịa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ha wee bulie"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "àjà ọkụ"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ma chụàja"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "àjà"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "udo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ehi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:49.623886046Z",
+  "model": "glm-5.3"
+}

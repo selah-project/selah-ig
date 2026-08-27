@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 59,
+  "translation": "Mmehie nke ọnụ ha, okwu nke mmampụ ha — ka e jide ha n'ebube ha; maka nkụcha na ụgha ha na-akọ.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "nke ọnụ ha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "nke mmampụ ha"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ka e jide ha"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "n'ebube ha"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "maka nkụcha"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "na ụgha"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ha na-akọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:08.965270363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 85,
+  "translation": "Chesed na eziokwu zutere onwe ha; ikpe ziri ezi na udo sụrụ ọnụ.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na eziokwu"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "zutere onwe ha"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "na udo"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "sụrụ ọnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:31.410965083Z",
+  "model": "glm-5.3"
+}

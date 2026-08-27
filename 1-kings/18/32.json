@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "O wee jiri ⟨את⟩ nkume ndị ahụ wuo ebe ịchụàjà n'aha Yahwe, o wee mee olulu, dịka ọnụ ọgụgụ mkpụrụ sat abụọ ga-eju, gbara ebe ịchụàjà gburugburu.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "o wee wuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkume ndị ahụ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "nkume ndị ahụ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "n'aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "o wee mee"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "olulu"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "dịka ọnụ ọgụgụ"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "sat abụọ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ebe ịchụàjà"
+    }
+  ],
+  "timestamp": "2026-08-27T10:07:26.957365114Z",
+  "model": "glm-5.3"
+}

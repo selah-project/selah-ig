@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Avram bụ nwa afọ iri asatọ na isii mgbe Hagar mụrụ ⟨את⟩ Yishmael nye Avram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa afọ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "iri asatọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na isii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "mgbe ọ mụrụ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "nye Avram"
+    }
+  ],
+  "timestamp": "2026-08-27T05:34:34.616698232Z",
+  "model": "glm-5.3"
+}

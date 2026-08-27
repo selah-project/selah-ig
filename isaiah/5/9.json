@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 5:9",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "N'ntị Yahwe Tsevaot: n'ezie, ụlọ ndị ọtụtụ ga-aghọ ebe mbibi, ndị ukwu na ndị mma, enweghị onye bi na ha.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "n'ntị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ndị ọtụtụ"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ebe mbibi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ndị ukwu"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "na ndị mma"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "onye bi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:35:59.047123300Z",
+  "model": "glm-5.3"
+}

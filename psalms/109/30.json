@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "M ga-eto Yahwe n'ọnụ m nke ukwuu, etekwa Ya n'etiti ọtụtụ mmadụ.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "m ga-eto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "n'ọnụ m"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "etekwa n'etiti"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọtụtụ mmadụ"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:46.215895275Z",
+  "model": "glm-5.3"
+}

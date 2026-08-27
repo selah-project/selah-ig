@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọ weere, ọ sị: \"I mere ihe gị? Ụtọ nke ọbara nwa nne gi na-eti mkpu na-eru m, site n'ala.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sị"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ihe gị"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i mere"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ụtọ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwa nne gi"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "na-eti mkpu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na-eru m"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ala"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:50.409043293Z",
+  "model": "glm-5.3"
+}

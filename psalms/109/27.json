@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Ka ha mara na aka gị ⟨ị̀⟩ nke a; gị, Yahwe, mere ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ka ha mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "mere ⟨את⟩ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:32.648195791Z",
+  "model": "glm-5.3"
+}

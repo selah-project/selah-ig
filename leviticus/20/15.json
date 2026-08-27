@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Và nwoke nke ga-enye mmekọahụ ya ná anụ ụlọ — ọnwụ ka a ga-egbu ya; unu ga-egbu ⟩⟨את⟩⟨ anụ ụlọ ahụ.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ga-enye"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "mmekọahụ ya"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ná anụ ụlọ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a ga-egbu ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ụlọ ahụ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "anụ ụlọ ahụ"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "unu ga-egbu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:03:16.871127611Z",
+  "model": "glm-5.3"
+}

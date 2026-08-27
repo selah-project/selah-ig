@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Tinye ntịkwa na Yahwe, mee ihe ọma; bikọ na ala, ma zụọ ezi okwukwe.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Tinye ntịkwa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "bikọ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na ala"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ma zụọ"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ezi okwukwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:46.119646441Z",
+  "model": "glm-5.3"
+}

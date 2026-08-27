@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Ekele dịrị Yahwe, Elohim nke Yisrael, site na mgbe ebighị ebi ruo mgbe ebighị ebi; ka mmadụ niile sịkwa, Amen. Too Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ekele dịrị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "mgbe ebighị ebi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "mgbe ebighị ebi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ka ... sịkwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Too"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:48.238117198Z",
+  "model": "glm-5.3"
+}

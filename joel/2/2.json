@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 2:2",
+  "book": "joel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "ụbọchị nke ọchịchịrị na nke mmanyị, ụbọchị nke igwe ojii na nke mmanyị ojii; dị ka ìhè ụtụtụ na-ekesa n'elu ugwọ ndị ahụ, ndị soro mmadụ ma dị ike; dị ka onye yiri ya adịghị mfe site n'ikukuụwa, ma mgbe ọ gasịrị, agaghị agbakwunye ọzọ ruo afọ ndị ọgbọ na ọgbọ.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nke ọchịchịrị"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "na nke mmanyị"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "nke igwe ojii"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "na nke mmanyị ojii"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "dị ka ìhè ụtụtụ"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "na-ekesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ugwọ ndị ahụ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "soro"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ma dị ike"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "dị ka onye yiri ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "mfe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ikukuụwa"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ma mgbe ọ gasịrị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghaghị"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "agbakwunye ọzọ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "afọ ndị"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na ọgbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:46:30.263621141Z",
+  "model": "glm-5.3"
+}

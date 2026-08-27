@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma nye ụmụ Aharon, onye nchụàjà, ⟨את⟩ obodo mgbapu nke onye-gbu-ọchụ, ⟨את⟩ Chevron na ⟨את⟩ ahịa-ọzara ya, na ⟨את⟩ Libna na ⟨את⟩ ahịa-ọzara ya.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ma nye ụmụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ha nyere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo mgbapu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "mgbapu"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "onye-gbu-ọchụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Libna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ahịa-ọzara ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:33.844884494Z",
+  "model": "glm-5.3"
+}

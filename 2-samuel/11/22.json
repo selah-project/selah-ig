@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Onye ozi ahụ wee je, bata, wee kọọa Dawid ⟨את⟩ ihe niile nke Yoab zitere ya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wee je"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "Onye ozi ahụ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "bata"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "kọọa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "zitere ya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    }
+  ],
+  "timestamp": "2026-08-27T09:34:56.660413732Z",
+  "model": "glm-5.3"
+}

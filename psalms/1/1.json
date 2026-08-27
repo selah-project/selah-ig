@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Obi ụtọ dị nwoke ahụ, onye na-ejeghị na ndụmọdụ nke ndị rụrụ arụ, na na ụzọ nke ndị mmehie ezughị, na na oche nke ndị na-achụ ọchị anọghị.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Obi ụtọ dị"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "na-eje"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "na ndụmọdụ nke"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị rụrụ arụ"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "na na ụzọ nke"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ndị mmehie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ezughị"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "na na oche nke"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "ndị na-achụ ọchị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "anọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:46.867838468Z",
+  "model": "glm-5.3"
+}

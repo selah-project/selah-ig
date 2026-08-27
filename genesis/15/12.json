@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 15:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Anyanwụ na-ada, mgbe ahụ ụra miri emi dabara n'elu Avram; le, egwu jupụtara n'ọchịchịrị ukwu na-adaba n'elu ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mgbe ahụ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Anyanwụ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "na-ada"
+    },
+    {
+      "surface": "ותרדמה",
+      "gloss": "ụra miri emi"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "dabara"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "egwu"
+    },
+    {
+      "surface": "חשכה",
+      "gloss": "n'ọchịchịrị"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "נפלת",
+      "gloss": "na-adaba"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:33:01.141087758Z",
+  "model": "glm-5.3"
+}

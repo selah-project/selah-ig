@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "Ọ naghị agbagha ruo mgbe na-enweghị njedebe, ọ naghịkwa ejide iwe ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ naghị"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ruo mgbe na-enweghị njedebe"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "agbagha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ naghịkwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ejide iwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:13.303308129Z",
+  "model": "glm-5.3"
+}

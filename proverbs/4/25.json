@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Anya gị ka ha na-ele anya ozugbo n'ihu; mkpuchi anya gị ka ha na-edozi onwe ha n'ihu gị.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "anya gị"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "ozugbo n'ihu"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "ha na-ele anya"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "na mkpuchi anya gị"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "ha na-edozi onwe ha"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "n'ihu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:13:00.994158486Z",
+  "model": "glm-5.3"
+}

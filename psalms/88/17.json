@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 88,
+  "translation": "Chere anya, ọkụ iwe gị gafere; egwu gị ekpochapụwo m.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "chere m anya"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gafere"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "ọkụ iwe gị"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "egwu gị"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "ekpochapụwo m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:55.298709621Z",
+  "model": "glm-5.3"
+}

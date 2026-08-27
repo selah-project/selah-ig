@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "M chetara Elohim wee kwụọtụrọ mkpu; m tachasịrị obi, mmụọ m gwụrụ ike. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "M chetara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "wee kwụọtụrọ mkpu"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "m tachasịrị obi"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "gwụrụ ike"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mmụọ m"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:56.502977010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "n'ihi na a ga-akwụ Kayin ụgwọ ugboro asaa, mana Lemek ugboro iri asaa na asaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ugboro asaa"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "a ga-akwụ ụgwọ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "mana Lemek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "iri asaa"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "na asaa"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:36.495947758Z",
+  "model": "glm-5.3"
+}

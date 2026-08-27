@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Bụrụ abụ maka ya, kụọ ụda maka ya, tụgharịa uche na ihe nlere anya niile o mere.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Bụrụ abụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "kụọ ụda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "tụgharịa uche"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ihe nlere anya o mere"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:43.372649302Z",
+  "model": "glm-5.3"
+}

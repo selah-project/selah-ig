@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "na ⟨את⟩ Baalat, na ⟨את⟩ Tamar, n'ọzara, n'ala.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    }
+  ],
+  "timestamp": "2026-08-27T09:58:05.949266209Z",
+  "model": "glm-5.3"
+}

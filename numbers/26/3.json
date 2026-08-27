@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 26:3",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Moshe na Elazar onye-nchu-aja gbara ⟨אתם⟩ okwu n'ala dị larịị nke Moab, n'akụkụ Osimiri Yarden, n'ebe Yeriko, sị:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gbaara...okwu"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "na Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ha (ndị Israel)"
+    },
+    {
+      "surface": "בְּעַרְבֹת",
+      "gloss": "n'ala dị larịị"
+    },
+    {
+      "surface": "מוֹאָב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "יַרְדֵּן",
+      "gloss": "Osimiri Yarden"
+    },
+    {
+      "surface": "יְרֵחוֹ",
+      "gloss": "Yeriko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:36:21.955296401Z",
+  "model": "glm-5.3"
+}

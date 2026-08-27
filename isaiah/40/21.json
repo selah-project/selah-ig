@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 40:21",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ị́ maghị? Ị́ nụghị? A kọghachaghị ya nye gị site na mmalite? Ị́ ghọtaghị ⟨ihe⟩ ntọala ⟨nke⟩ ụwa ⟨bụ⟩?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ọ̀ na"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "maghị"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ọ̀ na"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nụghị"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ọ̀ na"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "a kọghachaghị"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "site na mmalite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nye gị"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ọ̀ na"
+    },
+    {
+      "surface": "הבינתם",
+      "gloss": "ghọtaghị"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "ntọala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T10:58:01.106216238Z",
+  "model": "glm-5.3"
+}

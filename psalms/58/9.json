@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 58,
+  "translation": "Dịka ụgbọ na-agbaze, ọ na-aga; dịka nwa a mụrụ nwụrụ nke nwanyị, ha ahụghị anyanwụ.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "ụgbọ"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "na-agbaze"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ọ na-aga"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nwa a mụrụ nwụrụ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwanyị"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ha ahụghị"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "anyanwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:24.773612177Z",
+  "model": "glm-5.3"
+}

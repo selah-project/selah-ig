@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Naanị na ebe-elu-ala achụ-aja adịghị ewepụ; ndị mmadụ ka na-achụ àjà ma na-ere ọṅụ n'ebe-elu-ala achụ-aja.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "naanị na"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ebe-elu-ala achụ-aja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ewepụ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ka na-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "na-achụ àjà"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ma na-ere ọṅụ"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "n'ebe-elu-ala achụ-aja"
+    }
+  ],
+  "timestamp": "2026-08-27T10:20:40.220112534Z",
+  "model": "glm-5.3"
+}

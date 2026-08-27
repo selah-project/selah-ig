@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ha were ⟨את⟩ nfụfụ ọkụ ọkụ, guzoro n'ihu Paroh; Moshe tụfuru ⟨את⟩ ya n'eluigwe, ọ wee bụrụ ọzịwa mgbụrụgwụ na-agbawasị n'ahụ mmadụ na n'ahụ anụ ụlọ.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ha were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nfụfụ ọkụ ọkụ"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "nfụfụ"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "ọkụ ọkụ"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "guzoro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "tụfuru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ wee bụrụ"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "ọzịwa"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "mgbụrụgwụ"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "na-agbawasị"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "n'ahụ mmadụ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "na n'ahụ anụ ụlọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:43.452694016Z",
+  "model": "glm-5.3"
+}

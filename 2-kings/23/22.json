@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "N'ihi na a naghị eme Pesaḥ dị ka nke a site n'ụbọchị ndị ikpe ndị ji ⟨את⟩ Yisraẹl ikpe, na n'ụbọchị niile nke ndị eze Yisraẹl na ndị eze Yehuda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "a na-eme"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "dị ka Pesaḥ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "site n'ụbọchị"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "ndị ikpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ji ikpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraẹl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹl"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹl"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "na eze"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-27T10:29:25.994454462Z",
+  "model": "glm-5.3"
+}

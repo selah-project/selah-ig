@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 112,
+  "translation": "Toonu Yah! Oke nganga nke onye na-atụ Yahwe egwu, na iwu ya ọ na-achọsi ike.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Toonu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "oke nganga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nke onye"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "na-atụ egwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "na iwu ya"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ọ na-achọsi ike"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ike"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:07.649123987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ụbọchị isii ka ị ga-arụ ọrụ, ma rụọ ọrụ niile gị",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "isii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ị ga-arụ ọrụ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ma rụọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "ọrụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:22:17.971895561Z",
+  "model": "glm-5.3"
+}

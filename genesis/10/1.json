@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma ndị a bụ ọmụmụ nke ụmụ Noach: Shem, Cham na Yefet; ma ụmụ nwoke mụrụ ha mgbe ⟨⟨nnukwu mmiri ozuzo⟩⟩ gasịrị.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ma ndị a"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ọmụmụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nke ụmụ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "na Yefet"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "ma mụrụ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mgbe … gasịrị"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "nnukwu mmiri ozuzo"
+    }
+  ],
+  "timestamp": "2026-08-27T05:28:49.646137432Z",
+  "model": "glm-5.3"
+}

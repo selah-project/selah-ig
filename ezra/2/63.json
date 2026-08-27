@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "ezra 2:63",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Onye Tirshata gwara ha na ha ekwesịghị iri ihe dị nsọ nke ihe ndị dị nsọ, ruo mgbe onye nchuaja guzoro nwere Urim na Tumim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "Onye Tirshata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekwesịghị"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "iri"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ihe dị nsọ nke"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ihe ndị dị nsọ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "guzoro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "onye nchuaja"
+    },
+    {
+      "surface": "לאורים",
+      "gloss": "nwere Urim"
+    },
+    {
+      "surface": "ולתמים",
+      "gloss": "na Tumim"
+    }
+  ],
+  "timestamp": "2026-08-27T15:35:39.465125239Z",
+  "model": "glm-5.3"
+}

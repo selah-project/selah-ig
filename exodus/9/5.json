@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Yahwe wee guzobe oge a kara aka, na-asị: Echi ka Yahwe ga-eme okwu a n'ala ⟨the⟩.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wee guzobe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "oge a kara aka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "echi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    }
+  ],
+  "timestamp": "2026-08-27T06:11:44.802800443Z",
+  "model": "glm-5.3"
+}

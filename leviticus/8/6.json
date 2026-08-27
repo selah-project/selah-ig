@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma Moshe we dọtara ⟨את⟩ Aharon na ⟨את⟩ ụmụ ya, wee saa ⟨את⟩ ha n'ime mmiri.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "we dọtara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "wee saa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "במים",
+      "gloss": "n'ime mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:57.582915269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Maka nke Yahwe ka ọta anyị bụ, ma nke Onye Nsọ nke Yisrael ka eze anyị bụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nke Yahwe"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "ọta anyị"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "ma nke Onye Nsọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Yisrael"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "eze anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:14.853735387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ọ ruere mgbe Yoab na-elekọta obodo ahụ, o tinye ⟨את⟩ Uriah n'ebe ọ maara na ndị dike nwere ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ ruere"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "na-elekọta"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'àkwà"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ọ maara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dike"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:35:17.153906886Z",
+  "model": "glm-5.3"
+}

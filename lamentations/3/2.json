@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "⟨את⟩ m duziri ma mee ka m na-eje n'ọchịchịrị, ọ bụghị n'ìhè.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ m",
+      "marks": "m (duziri)"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "duziri"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ma mee ka m na-eje"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "n'ọchịchịrị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "אור",
+      "gloss": "n'ìhè"
+    }
+  ],
+  "timestamp": "2026-08-27T15:07:54.065404338Z",
+  "model": "glm-5.3"
+}

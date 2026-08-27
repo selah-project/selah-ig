@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ma gị meere uwe nso maka Aharon nwanne gị, maka nsọpụrụ na maka mma.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ma gị mee"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nso"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "maka Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "maka nsọpụrụ"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "na maka mma"
+    }
+  ],
+  "timestamp": "2026-08-27T06:29:59.377942239Z",
+  "model": "glm-5.3"
+}

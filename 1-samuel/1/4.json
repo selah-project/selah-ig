@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ụbọchị ahụ rutụrụ, Elkanah chụrụ àjà, o nyere Penina nwunye ya na ụmụ ya niile nwoke na nwanyị òkè nke òkè.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị ahụ"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "chụrụ àjà"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "o nyere"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwunye ya"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ụmụ ya nwoke"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "na ụmụ ya nwanyị"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "ñkè"
+    }
+  ],
+  "timestamp": "2026-08-27T08:59:30.455175419Z",
+  "model": "glm-5.3"
+}

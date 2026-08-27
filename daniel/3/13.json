@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 3:13",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'ege aha, Nevukadnesser, n'iwe na iwe ọkụ, nyere iwu ka e bute Shadrak, Meshak na Aved-Nego. N'ege aha, a kpọgara ụmụ nwoke ndị a n'ihu ⟨eze⟩.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "n'ege aha"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnesser"
+    },
+    {
+      "surface": "ברגז",
+      "gloss": "n'iwe"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "na iwe ọkụ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "להיתיה",
+      "gloss": "ka e bute"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrak"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshak"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "na Aved"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    },
+    {
+      "surface": "באדין",
+      "gloss": "n'ege aha"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "היתיו",
+      "gloss": "a kpọgara"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "eze"
+    }
+  ],
+  "timestamp": "2026-08-27T15:26:21.374804525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 58,
+  "translation": "Nke na-anụghị olu nke na-akpọtịrị ngwọta, nke na-eme nkà ngwọta nke ọma.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "na-anụ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "ndị na-akpọtịrị ngwọta"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "na-ejikọta"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "ngwọta"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "nke ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:26.681360515Z",
+  "model": "glm-5.3"
+}

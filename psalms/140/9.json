@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 140,
+  "translation": "Ekwela, Yahwe, ihe ndị ajọ omume na-achọ; emezula atụmatụ ha, ka ha ghara ịbuliri elu. Sela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ekwela"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "ihe ndị na-achọ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ajọ omume"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "atụmatụ ha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "emezula"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "wepụta"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ha na-ebuliri elu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:48.269160689Z",
+  "model": "glm-5.3"
+}

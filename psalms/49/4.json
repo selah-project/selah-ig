@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Ọnụ m ga-ekwuo ihe gbasara amamihe, na mkparịta ụka nke obi m ga-abụ ihe gbasara nghọta.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Ọnụ m"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ga-ekwuo"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ihe gbasara amamihe"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "na mkparịta ụka"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "nke obi m"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ihe gbasara nghọta"
+    }
+  ],
+  "timestamp": "2026-08-27T13:32:10.719538970Z",
+  "model": "glm-5.3"
+}

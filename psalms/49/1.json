@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Maka onye-eduzi egwu; maka ụmụ Korach; abụ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye-eduzi egwu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "maka ụmụ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:32:10.719048331Z",
+  "model": "glm-5.3"
+}

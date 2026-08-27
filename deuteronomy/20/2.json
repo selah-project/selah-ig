@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ọ ga-abụkwa, mgbe unu na-eru nso ná ⟨⟨the⟩⟩ agha, na onye-nchu-aja ga-eru nso, ma soro ndị mmadụ okwu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụkwa"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "mgbe unu na-eru nso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ná"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "⟨the⟩ agha"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "ga-eru nso"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ma soro okwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-na"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:06:08.476540326Z",
+  "model": "glm-5.3"
+}

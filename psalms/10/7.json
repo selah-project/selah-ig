@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Onye ṅụọ ọnụ jupụtara n'ọnụ ya, na mmegbu na aghụghọ; n'okpuru asụsụ ya nsogbu na ajọ omume.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "onye ṅụọ ọnụ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ọnụ ya"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "jupụtara"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "na aghụghọ"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "na mmegbu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "asụsụ ya"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nsogbu"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "na ajọ omume"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:17.535407543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Gịnị mere ka ị daa mbà, mkpụrụ obi m? Na gịnị mere ka ị na-ama mkpu n'ime m? Tụkwasị Elohim obi, n'ihi na m ga-edeto Ya ọzọ; nzọpụta nke ihu m, na Elohim m.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "gịnị mere"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "ka ị daa mbà"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na gịnị mere"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "ka ị na-ama mkpu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'ime m"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "tụkwasị obi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "n'Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "m ga-edeto Ya"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "nzọpụta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nke ihu m"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Elohim m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:14.668714792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ndị agha ahụ hapụrụ ⟨את⟩ ndị a tọgbọrọ n'aka chọgbọrọ na ⟨את⟩ ihe echụ n'aka n'ihu ndị isi na nzukọ niile.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "hapụrụ"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "ndị agha ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị a tọgbọrọ n'aka chọgbọrọ"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "ndị a tọgbọrọ n'aka chọgbọrọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihe echụ n'aka"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "ihe echụ n'aka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "nzukọ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:16:59.806456672Z",
+  "model": "glm-5.3"
+}

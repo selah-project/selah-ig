@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Ndị ụdọ mkpuchi niile gburugburu ogige ahụ bụ ákwà linen a na-agbagọ nkọ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ndị ụdọ mkpuchi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ogige ahụ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ákwà linen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "a na-agbagọ nkọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:38:15.151989582Z",
+  "model": "glm-5.3"
+}

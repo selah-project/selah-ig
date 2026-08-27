@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "N'ụzọ ikpe ziri ezi ka m na-aga, n'etiti ụzọ ndị nke ikpe ziri ezi.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "N'ụzọ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ka m na-aga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "ụzọ ndị"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "nke ikpe ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:19:38.411211638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Shaul zitere ndị ozi ka ha were ⟨את⟩ David, ma ọ sị na ọ nọ n'ọrịa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ọ zitere"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ndị ozi"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ka ha were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ma o sị"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ọ nọ n'ọrịa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:16:28.222776696Z",
+  "model": "glm-5.3"
+}

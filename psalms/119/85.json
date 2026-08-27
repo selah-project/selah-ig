@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ndị ukwu-obi agwọla olulu maka m, nke adịghị kwa dịka Torah ⟨nke⟩ gị.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "agwọla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ndị ukwu-obi"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "olulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "dịka Torah gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:29.858144812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "ka anyị weghachi ⟨את⟩ igbe nke Elohim anyị bịa n'ebe anyị, n'ihi na anyị achọghị ya n'ụbọchị Shaụl.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "ka anyị weghachi gbagharịa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igbe nke Elohim anyị"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nke Elohim anyị"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bịa n'ebe anyị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "achọghị"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "anyị achọghị ya"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaụl"
+    }
+  ],
+  "timestamp": "2026-08-27T16:00:39.318880896Z",
+  "model": "glm-5.3"
+}

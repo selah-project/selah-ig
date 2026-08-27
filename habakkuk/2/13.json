@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ọ̀ bụghị ya ka ọ dị, lee — si n'aka ⟨את⟩ Yahwe Tsevaot! Ya mere ndị mmadụ ga-arụsi ọrụ ike n'ihi ọkụ, na mba ndị ga-afụ ume n'ihi ihe efu.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ọ̀ bụghị ya ka ọ dị"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lee"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ si n'aka",
+      "marks": "Yahwe Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "ga-arụsi ọrụ ike"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "na mba ndị"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ihe efu"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "ga-afụ ume"
+    }
+  ],
+  "timestamp": "2026-08-27T12:58:26.366689119Z",
+  "model": "glm-5.3"
+}

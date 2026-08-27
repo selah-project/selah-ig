@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ukwu ka ùgwù ya dị n’nzọpụta gị; ịma mma na ùgwù uku ka ị na-etinye n’elu ya.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Ukwu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ùgwù ya"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "n’nzọpụta gị"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ịma mma"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na ùgwù uku"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "ị na-etinye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n’elu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:10.650481955Z",
+  "model": "glm-5.3"
+}

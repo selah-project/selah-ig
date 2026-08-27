@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 68:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Maka gịnị ka unu na-ele anya ikedezị, ugwu ndị nwere ọnụ ịsọ? Ọ bụ ugwu a Elohim chọrọ ibi na ya; ee, Yahwe ga-ebi na ya ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "maka gịnị"
+    },
+    {
+      "surface": "תרצדון",
+      "gloss": "na-ele anya ikedezị"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu ndị"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "nwere ọnụ ịsọ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ugwu a"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "chọrọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לשבתו",
+      "gloss": "ibi na ya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ga-ebi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:34.850733653Z",
+  "model": "glm-5.3"
+}

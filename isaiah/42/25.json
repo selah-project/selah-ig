@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 42:25",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Ọ wụsara ya iwe ọkụ n'ọnụ, yana ike agha; ọ gbara ya gburugbu, ma ọ maghị; ọ gbara ya ọkụ, ma ọ dịghị etinye ya n'obi.",
+  "tokens": [
+    {
+      "surface": "וישפך",
+      "gloss": "Ọ wụsara"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "iwe ọkụ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "n'ọnụ"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "yana ike"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "agha"
+    },
+    {
+      "surface": "ותלהטהו",
+      "gloss": "ọ gbara ya gburugbu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "gburugbu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ maghị"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "maghị"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "ọ gbara ya ọkụ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ dịghị"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "etinye"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:55:58.025904958Z",
+  "model": "glm-5.3"
+}

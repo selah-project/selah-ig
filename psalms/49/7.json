@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Ndị na-adabere n'ike ha, na n'ọtụtụ akụ na ụba ha, na-eto onwe ha —",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "Ndị na-adabere"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ike ha"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "na n'ọtụtụ"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "akụ na ụba ha"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "na-eto onwe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:01.386617172Z",
+  "model": "glm-5.3"
+}

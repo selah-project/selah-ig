@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "N'ihi na iwu-elu-iwu, iwu-elu-iwu; akara-elu-akara, akara-elu-akara; obere ebe a, obere ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "צו",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "-elu-iwu"
+    },
+    {
+      "surface": "צו",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "-elu-iwu"
+    },
+    {
+      "surface": "קו",
+      "gloss": "akara"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "-elu-akara"
+    },
+    {
+      "surface": "קו",
+      "gloss": "akara"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "-elu-akara"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "obere"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe a"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "obere"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:46:12.441735960Z",
+  "model": "glm-5.3"
+}

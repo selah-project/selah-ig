@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma ⟨ọ⟩ ga-ekpe ⟨את⟩ ụwa n'-ezi righteousness, ọ ga-ekpe ikpe maka obodo ndị n'ọ̀tụ̀tụ̀ ezi.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ma ọ"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ga-ekpe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "n'ezi okwu ziri ezi"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ọ ga-ekpe ikpe"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "maka obodo ndị"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "n'ọ̀tụ̀tụ̀ ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:38.357919136Z",
+  "model": "glm-5.3"
+}

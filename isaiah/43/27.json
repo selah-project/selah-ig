@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Nna gị nke mbụ mehiere, ma ndị na-ekwu okwu n'aha gị mebie iwu megide m.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Nna gị"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "mehiere"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "ma ndị na-ekwu okwu n'aha gị"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "mebie iwu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "megide m"
+    }
+  ],
+  "timestamp": "2026-08-27T10:58:52.835648167Z",
+  "model": "glm-5.3"
+}

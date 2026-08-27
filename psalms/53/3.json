@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 53,
+  "translation": "Elohim, site n'eluigwe, lebara ụmụ mmadụ anya, ịhụ ma ⟨ọ̀⟩ nwere onye nwere nghọta, onye na-achọ ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "site n'eluigwe"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "lebara anya"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ịhụ ma"
+    },
+    {
+      "surface": "היש",
+      "gloss": "⟨ọ̀⟩ nwere"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "onye nwere nghọta"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:19.975759541Z",
+  "model": "glm-5.3"
+}

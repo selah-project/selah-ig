@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "O wetere ⟨את⟩ ndị Ya pụta n'ọṅụ, ⟨את⟩ ndị ahọpụtara Ya na-abụ abụ otito.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "O wetere pụta"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị Ya"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "n'ọṅụ"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "na-abụ abụ otito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahọpụtara Ya"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "ndị ahọpụtara Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:38.297644067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Yehuda wee sị Onan: Bata n'aka nwunye nwanne gị, wee mee ọrụ di-nwoke-nsọ nye ⟨את⟩ ya, ma bilie mkpụrụ maka nwanne gị.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "Onan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "mee ọrụ di-nwoke-nsọ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "ma bilie"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "maka nwanne gị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:53:40.077505417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Ma tọrụ nke atọ: ⟨את⟩ lesheem, ⟨את⟩ shevoo, na ⟨את⟩ achlama.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ma tọrụ nke atọ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nke atọ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "lesheem"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "shevoo"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "na achlama"
+    }
+  ],
+  "timestamp": "2026-08-27T17:11:29.474477735Z",
+  "model": "glm-5.3"
+}

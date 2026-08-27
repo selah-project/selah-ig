@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ọ bụrụ na a hụrụ onye ohi n'ebe ọ na-emebi akpa mgbaba, ma kụọ ya ma ọ nwụọ, enweghị ọbara maka ya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "n'ebe mmebi akpa mgbaba"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "a ga-ahụ"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "onye ohi"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ma kụọ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ma ọ nwụọ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ọbara"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:37.019207617Z",
+  "model": "glm-5.3"
+}

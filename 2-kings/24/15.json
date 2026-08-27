@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "O dọkpụrụ ⟨את⟩ Yehoyakin gaa Babilọn, ⟨את⟩ nne eze, ⟨את⟩ ndị nwunye eze, ⟨את⟩ ndị ohi ya, ⟨את⟩ ndị ike nke ⟨the⟩ ala; o dọtara ha n'agbapụ site na Yerushalayim gaa Babilọn.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "o dọkpụrụ n'agbapụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoyakin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "gaa Babilọn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nne eze"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị nwunye eze"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "ndị nwunye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ohi ya"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "ndị ohi ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ike nke ala"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ndị ike"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "o dọtara"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "n'agbapụ"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "site na Yerushalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "gaa Babilọn"
+    }
+  ],
+  "timestamp": "2026-08-27T10:33:29.536557435Z",
+  "model": "glm-5.3"
+}

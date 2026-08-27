@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ebe ọ bụla nke mkpịsị ụkwụ unu ga-etiuzu n'elu ya, enyela m unu ya, dịka m soro Moshe kwuru.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ga-etiuzu"
+    },
+    {
+      "surface": "כף",
+      "gloss": "mkpịsị"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "ụkwụ unu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "enyela m unu ya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "m kwuru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "soro"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-27T08:23:04.879535151Z",
+  "model": "glm-5.3"
+}

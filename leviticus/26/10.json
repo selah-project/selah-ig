@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ị ga-eri ihe ochie nwụsịrị ochie, ma bụrụ nke ochie ka ị ga-ewepụ n'ihi nke ọhụrụ.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ị ga-eri"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ihe ochie"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "nwụsịrị ochie"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "ma bụrụ nke ochie"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nke ọhụrụ"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "ị ga-ewepụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:06:43.416609715Z",
+  "model": "glm-5.3"
+}

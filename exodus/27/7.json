@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "A ga-ewebata ⟨את⟩ mkpọsa ya n'ime mgbaàmà, mkpọsa ahụ ga-adịkwa n'akụkụ abụọ nke ebe ịchafụọ, mgbe a na-ebu ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "A ga-ewebata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpọsa ya"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mkpọsa ya"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "n'ime mgbaàmà"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ga-adịkwa"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mkpọsa ahụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "akụkụ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "nke ebe ịchafụọ"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "mgbe a na-ebu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:30:02.365296558Z",
+  "model": "glm-5.3"
+}

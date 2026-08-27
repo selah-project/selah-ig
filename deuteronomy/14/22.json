@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Tinye ihe iri n'iri nke ⟨את⟩ ihe niile mkpụrụ gị na-ewe, nke na-apụta n'ubi, afọ ka afọ.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "tinye ihe iri n'iri"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "ị ga-etinye ihe iri n'iri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "mmepụta"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mkpụrụ gị"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "na-apụta"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:00:08.733320345Z",
+  "model": "glm-5.3"
+}

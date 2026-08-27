@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "Onye na-anụ ekpere, ruo Gị anụ ahụ niile ga-ebata.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Onye na-anụ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ekpere"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ruo Gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "anụ ahụ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ga-ebata"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:37.099517807Z",
+  "model": "glm-5.3"
+}

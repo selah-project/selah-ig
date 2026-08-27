@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 62,
+  "translation": "N'ebe Elohim ka nzọpụta m na nsọpụta m dị; nkume ike m, ebe m na-ezo, bụ na Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "nzọpụta m"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "na nsọpụta m"
+    },
+    {
+      "surface": "צור",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ike m"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ebe m na-ezo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "na Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:21.156054240Z",
+  "model": "glm-5.3"
+}

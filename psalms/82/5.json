@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 82,
+  "translation": "Ha amaghị, ha ghọtaghị; n'ọchịchị ka ha na-agagharị; ntọala nke ụwa niile ga-ama jijiji.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ha amaghị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ghọtaghị"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ghọta"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "n'ọchịchị"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ha na-agagharị"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "ga-ama jijiji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "ntọala nke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:54.236217539Z",
+  "model": "glm-5.3"
+}

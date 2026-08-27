@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "M ga-eto Yahwe n'ihi eziokwu ya, m ga-abụ abụ otuto maka aha Yahwe Elyon.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "M ga-eto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "n'ihi eziokwu ya"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "m ga-abụ abụ otuto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-27T13:09:30.833963367Z",
+  "model": "glm-5.3"
+}

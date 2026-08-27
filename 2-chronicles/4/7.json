@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọ mere⟨את⟩ ndị ìgbe ìtè ọlaedo iri, dịka iwu ha si dị, ma tinye n'ụlọ nsọ ahụ ise n'aka nri na ise n'aka ekpe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ọ mere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ìgbe ìtè ọlaedo"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "ndị ìgbe ìtè"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "nke ọlaedo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "dịka iwu ha si dị"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "n'ụlọ nsọ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ise"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "n'aka nri"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ise"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "n'aka ekpe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:07:53.025840316Z",
+  "model": "glm-5.3"
+}

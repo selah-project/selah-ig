@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "ka ụmụ Yisrael wee mee ⟨את⟩ Pesach n'oge ya ekwuru",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ka ha wee mee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "n'oge ya ekwuru"
+    }
+  ],
+  "timestamp": "2026-08-27T07:19:36.361894150Z",
+  "model": "glm-5.3"
+}

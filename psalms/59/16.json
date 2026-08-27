@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 59,
+  "translation": "Ha ndị a na-agagharị iji rie nri; ọ bụrụ na ha etozughị oke, ha na-anọkwa abalị na-enwe iwe.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ha ndị a"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "na-agagharị"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "iji rie nri"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ha etozughị oke"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ha na-anọkwa abalị na-enwe iwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:08.965748519Z",
+  "model": "glm-5.3"
+}

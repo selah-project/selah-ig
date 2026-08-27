@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "N'ihi na Eze nke ⟨the⟩ ụwa niile bụ Elohim; abụọite n'amamihe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "abụọite"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "n'amamihe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:42.093902863Z",
+  "model": "glm-5.3"
+}

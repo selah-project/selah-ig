@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "Ha kwuru, sị: Bịa, ka anyị bibie ha ka ha ghara ịbụ ⟨gbo⟩ mba, ka aha Yisrael ghara ịbụ nke a na-echeta ọzọ.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Ha kwuru"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Bịa"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "ka anyị bibie ha"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ka ha ghara ịbụ ⟨gbo⟩ mba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ịbụ nke a na-echeta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:32.280419213Z",
+  "model": "glm-5.3"
+}

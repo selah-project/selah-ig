@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Yahwe gbagoro elu, n'ihi na Ọ bi n'ebe kacha elu; Ọ jupụtara ⟨את⟩ Tsiyon na ikpe na okwu ziri ezi.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "gbagoro elu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "na-ebi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "n'ebe kacha elu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "jupụtara"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na okwu ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:49:08.787299174Z",
+  "model": "glm-5.3"
+}

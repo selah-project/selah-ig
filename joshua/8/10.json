@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Yehoshua wee bilite n'isi ụtụtụ n'ụtụtụ, wee depụta ⟨את⟩ ⟨ndị⟩ mmadụ, wee rịgoo — ya na ndị okenye Yisrael — n'ihu ⟨ndị⟩ mmadụ, gaa Ay.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bilitere n'isi ụtụtụ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "depụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ndị⟩ mmadụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ndị⟩ mmadụ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "rịgoo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "na ndị okenye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ndị⟩ mmadụ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "gaa Ay"
+    }
+  ],
+  "timestamp": "2026-08-27T08:26:22.058720615Z",
+  "model": "glm-5.3"
+}

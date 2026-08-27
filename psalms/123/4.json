@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 123,
+  "translation": "Oke nke mkparị nke ndị nọ na ntụsara aka ajula ⟨ה⟩ mkpụrụ obi anyị, na nlelị nke ndị ukwu mpako.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "oke"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ajula"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "mkpụrụ obi anyị"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "mkparị"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "nke ndị nọ na ntụsara aka"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "nlelị"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "nke ndị ukwu mpako"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:37.834140235Z",
+  "model": "glm-5.3"
+}

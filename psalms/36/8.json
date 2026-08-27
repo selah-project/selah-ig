@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Chesed gị dị oke ọnụ ahịa, Elohim; ya mere ụmụ mmadụ na-ezo mkpọro n'okpuru nku gị.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "oke"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ọnụ ahịa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed gị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "n'okpuru nche anwụ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "nku gị"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "na-ezo mkpọro"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:25.342259103Z",
+  "model": "glm-5.3"
+}

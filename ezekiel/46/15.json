@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Ha ga-eme ⟨את⟩ nwa-atụrụ ahụ, na ⟨את⟩ onyinye-ọka ahụ, na ⟨את⟩ mmanụ ahụ, n'ụtụtụ, n'ụtụtụ; ọkụ-ọfọfọ na-adịgide adịgide.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ha ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa-atụrụ ahụ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "nwa-atụrụ ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "onyinye-ọka ahụ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "onyinye-ọka ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mmanụ ahụ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mmanụ ahụ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ọkụ-ọfọfọ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "na-adịgide adịgide"
+    }
+  ],
+  "timestamp": "2026-08-27T12:33:46.126245197Z",
+  "model": "glm-5.3"
+}

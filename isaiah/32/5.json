@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Onye nzọ mbọ agaghị akpọ ọzọ ⟨dị ka⟩ onye nwere obiọma; banyere onye nzụ nzụ, agaghị asị na ọ bụ onye bara ọgaranya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "a kpọọ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "onye nzọ mbọ"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "onye nwere obiọma"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "banyere onye nzụ nzụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a ga-asị"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "onye bara ọgaranya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:50:41.120491830Z",
+  "model": "glm-5.3"
+}

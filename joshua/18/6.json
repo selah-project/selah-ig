@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 18:6",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ma unu ga-ede ⟨את⟩ ala ahụ n'akụkụ asaa, ma eweta ⟨ה⟩ ha ka m n'ebe a, ma m ga-atụ gị ọṅụ ebe a n'ihu Yahwe, Elohim anyị.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ma unu"
+    },
+    {
+      "surface": "תכתבו",
+      "gloss": "ga-ede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ahụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "akụkụ"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "ga-eweta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka m"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "n'ebe a"
+    },
+    {
+      "surface": "ויריתי",
+      "gloss": "ga-atụ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gị"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ọṅụ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ebe a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:34:33.074815250Z",
+  "model": "glm-5.3"
+}

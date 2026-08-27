@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Adonai, n'ihu Gị ka ihe mkpalite mmasị m niile dị; ọfụma ume m adịghịkwa ezobe na Gị.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "n'ihu Gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "ihe mkpalite mmasị m"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "ọfụma ume m"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "na Gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "adịghịkwa"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "ezobe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:11.182409246Z",
+  "model": "glm-5.3"
+}

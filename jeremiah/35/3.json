@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "M weere ⟨את⟩ Yaazanjah nwa Yirmeyahu, nwa Xavatsanjah, na ⟨את⟩ ụmume nne ya, na ⟨את⟩ ụmụ ya niile, na ⟨את⟩ụrụ ụlọ nzuzo ndị Rekhab.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "m weere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazanjah"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Xavatsanjah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụmume nne ya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ụmume nne ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụmụ ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụrụ ụlọ nzuzo ndị Rekhab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ụrụ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "ndị Rekhab"
+    }
+  ],
+  "timestamp": "2026-08-27T16:42:26.699940162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "N'ihi na ngọzi nke ihe ọma zutere ya, tinyere okpueze nke ọla-edo dị ọcha n'isi ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "zutere ya"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ngọzi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nke ihe ọma"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "tinyere"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "n'isi ya"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "okpueze"
+    },
+    {
+      "surface": "פז",
+      "gloss": "ọla-edo dị ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:21.314117361Z",
+  "model": "glm-5.3"
+}

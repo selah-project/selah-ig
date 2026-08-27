@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Yehuda wepụtara ⟨את⟩ Aza na ⟨את⟩ ókèala ya, na ⟨את⟩ Ashkelon na ⟨את⟩ ókèala ya, na ⟨את⟩ Ekron na ⟨את⟩ ókèala ya.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "wepụtara"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ókèala ya"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ókèala ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ókèala ya"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ókèala ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ókèala ya"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ókèala ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:40:16.709397093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "M na m zụrụ ha ọzụzụ, sikwara aka ha ike; mana ha na-atụ anya njọ megide m.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "zụrụ ọzụzụ"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "sikwara ike"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "aka ha"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "na-atụ anya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "njọ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:40:48.148844081Z",
+  "model": "glm-5.3"
+}

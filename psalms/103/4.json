@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "Onye na-azọpụta ndụ gị n'ọnwụ mbibi, onye na-etinye gị okpueze chesed na mmerẹ-obi;",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Onye na-azọpụta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "n'ọnwụ mbibi"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "ndụ gị"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "onye na-etinye gị okpueze"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "na mmerẹ-obi"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:54.655405972Z",
+  "model": "glm-5.3"
+}

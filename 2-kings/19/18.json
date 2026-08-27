@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "ma ha tinyekwa ⟨את⟩ chi ha n'ọkụ, maka na ha abụghị chi, kama ọ bụ ọrụ aka mmadụ, osisi na nkume; ya ha mebie ha.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ma ha tinyekwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chi ha"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "chi ha"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abụghị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "na nkume"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "ya ha mebie ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:27:47.759482199Z",
+  "model": "glm-5.3"
+}

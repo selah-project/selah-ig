@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Maka onye-ndu-egwu, na \"Nwannyị mgbada nke ụtụtụ\" — abụ nke David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye-ndu-egwu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Nwannyị mgbada"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "nke ụtụtụ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:28.635750751Z",
+  "model": "glm-5.3"
+}

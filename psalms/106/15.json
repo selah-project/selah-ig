@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "O nyere ha ihe ha rịọrọ, ma zipụta Ọzịza n'Ime Mmụọ ha",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "O nyere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "ihe ha rịọrọ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ma zipụta"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Ọzịza"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "n'Ime Mmụọ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:35.865977512Z",
+  "model": "glm-5.3"
+}

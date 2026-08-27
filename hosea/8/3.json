@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "israel jụrụ ihe ọma; onye iro ga-achụso ya.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "jụrụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "israel"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "onye iro"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ga-achụso ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:41:55.867067415Z",
+  "model": "glm-5.3"
+}

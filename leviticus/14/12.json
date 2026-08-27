@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Onye nchụàjà ga-ewere ⟨את⟩ nwa atụrụ nke nwoke otu, wee webata ya dịka onyinye mmejọ, na ⟨את⟩ log mmanụ ahụ, ma fegharịa ha ka mmegharị n'ihu Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ga-ewere"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa atụrụ nke nwoke otu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "nwa atụrụ nke nwoke"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "wee webata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "onyinye mmejọ"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "dịka onyinye mmejọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "log mmanụ ahụ"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ma fegharịa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "mmegharị (nwa atụrụ na log mmanụ)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "mmegharị"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:09.512090726Z",
+  "model": "glm-5.3"
+}

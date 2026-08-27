@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 116,
+  "translation": "N'ogige ụlọ Yahwe, n'etiti gị, O Yerushalayim. Rie nsọpụrụ, O Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "n'ogige"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "n'etiti gị"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "O Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Rie nsọpụrụ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "O Yah"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:22.703031980Z",
+  "model": "glm-5.3"
+}

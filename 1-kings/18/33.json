@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "O wee hazie ⟨את⟩ osisi ndị ahụ, kewaa ⟨את⟩ oke ehi ahụ n'iberibe, wee tinye ha n'elu osisi ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "o wee hazie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osisi ndị ahụ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "osisi ndị ahụ"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "kewaa n'iberibe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oke ehi ahụ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "oke ehi ahụ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o wee tinye"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "osisi ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:07:42.339473049Z",
+  "model": "glm-5.3"
+}

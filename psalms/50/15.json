@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Ma kpọọ m oku n'ụbọchị ihe mgbu; m ga-edọpụta gị n'ọnwụ, ma ị ga-asọpụrụ m.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "ma kpọọ m oku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ihe mgbu"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "m ga-edọpụta gị n'ọnwụ"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "ma ị ga-asọpụrụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:56.130049815Z",
+  "model": "glm-5.3"
+}

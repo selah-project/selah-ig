@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 2:9",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Yahwe Elohim wee mee ka osisi ọ bụla na-atọ ụtọ n'ịchọ, ma dị mma maka iri nri, na-eto site n'ala; osisi ndụ nakwa dị n'etiti ubi ahụ, na osisi ịmata ihe ọma na ihe ọjọọ.",
+  "tokens": [
+    {
+      "surface": "ויצמח",
+      "gloss": "wee mee ka ... na-eto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "na-atọ ụtọ n'ịchọ"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "n'ịchọ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ma dị mma"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "maka iri nri"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "osisi nakwa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "na osisi"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "ịmata ihe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ihe ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:10.622198523Z",
+  "model": "glm-5.3"
+}

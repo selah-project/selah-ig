@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 97,
+  "translation": "Eluigwe kwupụtara ezi-okwu ya, ma ndị niile hụrụ ùgwù ya.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "kwupụtara"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Eluigwe"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ezi-okwu ya"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ma ... hụrụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ndị (ndị mba)"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ùgwù ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:47.704936306Z",
+  "model": "glm-5.3"
+}

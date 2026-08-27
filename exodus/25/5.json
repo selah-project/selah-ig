@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Na akpụkpọ nwa mmadụ nke ọbara-acha, na akpụkpọ takhash, na osisi shittim;",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "na akpụkpọ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "nke ọbara-acha"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ndị na-acha uhie"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "na akpụkpọ"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takhash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "na osisi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:27:33.671876046Z",
+  "model": "glm-5.3"
+}

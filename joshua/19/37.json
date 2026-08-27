@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "na Kedesh, na Edrei, na Ein-Chatsor",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "na Kedesh"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "na Edrei"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "na Ein"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    }
+  ],
+  "timestamp": "2026-08-27T08:34:23.425936189Z",
+  "model": "glm-5.3"
+}

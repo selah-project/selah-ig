@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Ọ wee mee ⟨את⟩ mkpanaka ndị ahụ site n'osisi shittim, ma kpuchie ⟨את⟩ ha na ọdụọ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ọ wee mee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpanaka ndị ahụ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mkpanaka ndị ahụ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ma kpuchie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ọdụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:39:59.419974186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ọ̀ dapụtara n'ụzọ ọ bụla chi ndị nke mba ndị, onye ọ bụla ⟨את⟩ ala ya, n'aka eze Ashshur?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "ọ̀ dapụtara n'ụzọ ọ bụla"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ha napụtara"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "chi ndị"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nke mba ndị"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ya"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ala ya"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    }
+  ],
+  "timestamp": "2026-08-27T10:24:34.588345980Z",
+  "model": "glm-5.3"
+}

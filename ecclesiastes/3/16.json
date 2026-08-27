@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma n'ọzọ, m hụrụ n'okpuru anyanwụ: n'ebe ikpe ziri ezi — ajọ omume nọ ebe ahụ; nakwa n'ebe ezi omume — ajọ omume nọkwa ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ma n'ọzọ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "m hụrụ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "nọ ebe ahụ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ajọ omume"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "nakwa n'ebe"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "ezi omume"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "nọ ebe ahụ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ajọ omume"
+    }
+  ],
+  "timestamp": "2026-08-27T15:12:55.104646559Z",
+  "model": "glm-5.3"
+}

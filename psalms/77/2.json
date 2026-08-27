@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": " olu m ruru Elohim, m tiri mkpu; olu m ruru Elohim, ọ nabatara ntị ya nye m.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "olu m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "m tiri mkpu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "olu m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "ọ nabatara ntị"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nye m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:56.502711360Z",
+  "model": "glm-5.3"
+}

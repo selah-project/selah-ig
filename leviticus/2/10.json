@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ihe fọdụrụ na mbá ahụ bụ nke Aharon na ụmụ ya: nsọ nke nsọ ndị ahụ, nke ọkụ-na-efe Yahwe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "ihe fọdụrụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mbá ahụ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "maka Aharon"
+    },
+    {
+      "surface": "וילבניו",
+      "gloss": "na maka ụmụ ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "(nke) nsọ ndị ahụ"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "site n'ọkụ-na-efe ndị ahụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:50.181548043Z",
+  "model": "glm-5.3"
+}

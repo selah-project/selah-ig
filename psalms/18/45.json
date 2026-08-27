@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Mgbe ntị nụrụ, ha ga-anụrị m; ụmị mba ọzọ ga-aghọ ụgha nye m.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "n'ihe ntị nụrụ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ntị"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ha ga-anụrị"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmị"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "mba ọzọ"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ha ga-aghọ ụgha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:28.036957040Z",
+  "model": "glm-5.3"
+}

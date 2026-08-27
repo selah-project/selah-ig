@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Mordekai kọrọ ya ⟨את⟩ ihe niile zutere ya, na ⟨את⟩ ọnụego ọlaọcha ahụ Haman kwuru na a ga-atụ n'akụ nke eze maka ndị Juu, ibibi ha.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kọrọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "zutere ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọnụego ọlaọcha"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "ọnụego"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "nke ọlaọcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "na a ga-atụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "akụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nke eze"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "maka ndị Juu"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "ibibi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T15:21:26.848886407Z",
+  "model": "glm-5.3"
+}

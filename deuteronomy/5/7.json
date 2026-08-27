@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ọ gaghị adị gị chi ndị ọzọ n'ihu ⟨n'ihu⟩ m.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chi ndị"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ndị ọzọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu m"
+    }
+  ],
+  "timestamp": "2026-08-27T07:52:05.703200504Z",
+  "model": "glm-5.3"
+}

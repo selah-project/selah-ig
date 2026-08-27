@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Site n'okwu Yahwe ka e mere ⟨את⟩ eluigwe, na site na mmụọ nke ọnụ ya ka mmemme ha niile bịara.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "site n'okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ka e mere"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "na site na mmụọ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "nke ọnụ ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "mmemme ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:57.187084686Z",
+  "model": "glm-5.3"
+}

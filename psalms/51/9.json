@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Kpochapụ m mmehie na hyssop, m ga-adị ọcha; saa m, m ga-adị ọcha karịa snow.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "kpochapụ m mmehie"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "na hyssop"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "m ga-adị ọcha"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "saa m"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "karịa snow"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "m ga-adị ọcha-ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:22.520129966Z",
+  "model": "glm-5.3"
+}

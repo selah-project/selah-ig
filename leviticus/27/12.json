@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Onye nchụàjà ga-enyocha ⟨את⟩ ya, n'etiti nke ọma na nke ọjọọ; dịka ọnụahịa ị nyere, onye nchụàjà, otu a ka ọ ga-adị.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "ga-enyocha ọnụahịa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Onye nchụàjà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nke ọma"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na nke"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "dịka ọnụahịa ị nyere"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ọ ga-adị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:11:53.083420241Z",
+  "model": "glm-5.3"
+}

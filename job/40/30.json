@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 40:30",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ndị mmekọ azụmahịa ga-akwuriri ⟨bịa⟩ ya? Ha ga-ekewa ya n'etiti ndị ahịa ndị Kenan?",
+  "tokens": [
+    {
+      "surface": "יכרו",
+      "gloss": "ha ga-akwuriri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "ndị mmekọ azụmahịa"
+    },
+    {
+      "surface": "יחצוהו",
+      "gloss": "ha ga-ekewa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "כנענים",
+      "gloss": "ndị ahịa ndị Kenan"
+    }
+  ],
+  "timestamp": "2026-08-27T16:51:25.115212936Z",
+  "model": "glm-5.3"
+}

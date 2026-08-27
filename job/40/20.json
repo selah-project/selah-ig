@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "N'ihi na ugwu na-ebu ihe ọkụ ⟨nke⟩ ya; anụ niile nke ọhịa na-egwuri egwu n'ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בול",
+      "gloss": "ihe ọkụ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "na-ebu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "חית",
+      "gloss": "anụ nke"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ọhịa"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "na-egwuri egwu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:59:20.793737339Z",
+  "model": "glm-5.3"
+}

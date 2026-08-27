@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Yahwe, Elohim gị, Ọ na-aga n'ihu gị, Ọ ga-alụso ndị iro gị ọgụ maka gị, dịka ihe niile Ọ mere ⟨את⟩ gị na Mitzrayim n'anya gị.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "Ọ na-aga"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ọ"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "ga-alụso ọgụ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dịka ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ọ mere"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ gị",
+      "marks": "gị"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitzrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "n'anya gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:49:39.600504998Z",
+  "model": "glm-5.3"
+}

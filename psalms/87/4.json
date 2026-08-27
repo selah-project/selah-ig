@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 87,
+  "translation": "M ga-echeta Rahav na Bavel n'etiti ndị maara m: le, Pelishtim, na Tzor, ya na Kush — nke a ka amụrụ ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "M ga-echeta"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahav"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "na Bavel"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "n'etiti ndị maara"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "na Tzor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ka amụrụ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:50.317265032Z",
+  "model": "glm-5.3"
+}

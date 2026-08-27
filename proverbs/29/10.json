@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Ndị ọbara na-akpa na-asọ onye dị mma, mana ndị kwụ ọtọ na-achọ mkpụrụ obi ya.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ọbara na-akpa"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "na-asọ"
+    },
+    {
+      "surface": "תם",
+      "gloss": "onye dị mma"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "mana ndị kwụ ọtọ"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mkpụrụ obi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:31:42.140962273Z",
+  "model": "glm-5.3"
+}

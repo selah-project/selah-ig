@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ị tiri mba ndị amaokwu; Ị bibila onye rụrụ arụ; aha ha Ị ehichụla ruo mgbe ebighị ebi, ruo taa ruo mgbe.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "tiri amaokwu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "bibila"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye rụrụ arụ"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "aha ha"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "ehichụla"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo taa ruo mgbe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:06.811183151Z",
+  "model": "glm-5.3"
+}

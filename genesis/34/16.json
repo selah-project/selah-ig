@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Mgbe ahụ ka anyị ga-enye gị ⟨את⟩ ụmụ anyị nwanyị, anyị wee were ⟨את⟩ ụmụ unu nwanyị, anyị na unu bikọọ, anyị bụrụkwa otu ndị.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "anyị ga-enye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ anyị nwanyị"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ụmụ anyị nwanyị"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wee ⟨את⟩",
+      "marks": "ụmụ unu nwanyị"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ụmụ unu nwanyị"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "anyị were"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "maka anyị"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "anyị bikọọ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ na"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "anyị bụrụkwa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "otu ndị"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:50:50.786479337Z",
+  "model": "glm-5.3"
+}

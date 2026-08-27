@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 62,
+  "translation": "Naanị site n'ọkwa ya ka ha na-eme atụmatụ ibu ya ada; ha na-anụ ụtọ n'ụgha; ⟨na⟩ ọnụ ha ha na-agọzi, ma n'ime ha ka ha na-asị ọnụ Ọjọ. Sela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Naanị"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "site n'ọkwa ya"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "ha na-eme atụmatụ"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "ibu ya ada"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "ha na-anụ ụtọ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "n'ụgha"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ọnụ ha"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "ha na-agọzi"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "ma n'ime ha"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "ha na-asị ọnụ Ọjọ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:21.155622245Z",
+  "model": "glm-5.3"
+}

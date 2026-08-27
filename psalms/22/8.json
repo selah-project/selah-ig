@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Onye ọ bụla n'ime ndị na-ahụ m na-akwa m elekere; ha na-emeghe ⟨ọnụ⟩ na ntị ọnụ, ha na-atụ isi, na-ekwu,",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ndị na-ahụ m"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ha na-akwa elekere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "ha na-emeghe ntị ọnụ"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "na ntị ọnụ"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "ha na-atụ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:19.625612454Z",
+  "model": "glm-5.3"
+}

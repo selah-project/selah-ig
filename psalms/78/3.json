@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ndị anyị nụrụ ma anyị maara, ma nna nna anyị kọwara anyị.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "anyị nụrụ"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "ma anyị maara"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "ma nna nna anyị"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "kọwara"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:34.071886317Z",
+  "model": "glm-5.3"
+}

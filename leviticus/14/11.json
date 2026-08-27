@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Nwa nke ọcha ahụ ga-eduzi onye nchụàjà na-eme ka ọ dị ọcha ⟨את⟩ nwoke ahụ a na-eme ka ọ dị ọcha na ihe ndị ahụ, ka ha guzo n'ihu Yahwe, n'ọnụ ụzọ ⟨nke⟩ ahụmọgbede nzukọ.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "ga-eduzi ka ha guzo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "na-eme ka ọ dị ọcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwoke ahụ a na-eme ka ọ dị ọcha"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "a na-eme ka ọ dị ọcha"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na ⟨את⟩ ha",
+      "marks": "ihe ndị ahụ (onye a na-eme ka ọ dị ọcha na ihe ndị e wetara)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahụmọgbede"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:09.511842942Z",
+  "model": "glm-5.3"
+}

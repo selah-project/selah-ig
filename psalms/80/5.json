@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Yahwe, Elohim nke ndị agha, ruo mgbe ka ị ga-ana-ese anwụ n'ekpere nke ndị gị?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mgbe ole"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "ị na-ese anwụ"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "n'ekpere"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nke ndị gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:21.217078214Z",
+  "model": "glm-5.3"
+}

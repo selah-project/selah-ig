@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Nkuzi m ga-ada dịka mmiri ozuzo, okwu m ga-ṅọọ dịka mmiri igwe, dịka mmiri nkụ n'ahụ ahịhịa ọhụrụ, na dịka mmiri ozuzu ukwu n'ahụ ahịhịa.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "ga-ada"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "dịka mmiri ozuzo"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "nkuzi m"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "ga-ṅọọ"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "dịka mmiri igwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "okwu m"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "dịka mmiri nkụ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'ahụ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ahịhịa ọhụrụ"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "na dịka mmiri ozuzu ukwu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'ahụ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ahịhịa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:30:54.503509392Z",
+  "model": "glm-5.3"
+}

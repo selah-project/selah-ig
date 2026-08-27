@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Eliya zara, wee sị onyeisi nke iri ise: Ọ bụrụ na m bụ nwoke Elohim, ka ọkụ si n'eluigwe daa, rie ⟨את⟩ gị na ⟨את⟩ iri ise gị; ọkụ wee si n'eluigwe daa, wee rie ⟨את⟩ ya na ⟨את⟩ iri ise ya.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "zara"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "nke iri ise"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m bụ"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "kaa daa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "rie"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iri ise gị"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "iri ise gị"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ọkụ wee daa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wee rie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iri ise ya"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "iri ise ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:10:58.329114648Z",
+  "model": "glm-5.3"
+}

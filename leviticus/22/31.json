@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Gịnụ na-echekwa iwu m ma na-emе ⟨את⟩ ha; mụ bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "na-echekwa"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ma na-emе"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:03.227812450Z",
+  "model": "glm-5.3"
+}

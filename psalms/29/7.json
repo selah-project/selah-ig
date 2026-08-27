@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Olu Yahwe na-ekụ ọkụ mmanụ na-efe efe",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "na-ekụ"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ọkụ na-efe efe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ mmanụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:44.106517501Z",
+  "model": "glm-5.3"
+}

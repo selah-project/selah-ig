@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma onye ga-edowe ⟨את⟩ ụbọchị ọbịbịa ya? ma onye ga-eguzo mgbe ọ pụtara ìhè? n'ihi na ọ dị ka ọkụ nke na-eme ka ọla edo dị ọcha, ma dị ka ncha nke ndị na-ehicha ákwà.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ma onye"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "ga-edowe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụbọchị ọbịbịa ya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "ọbịbịa ya"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ma onye"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ga-eguzo"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "mgbe ọ pụtara ìhè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "dị ka ọkụ"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "nke na-eme ka ọla edo dị ọcha"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "ma dị ka ncha"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "nke ndị na-ehicha ákwà"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:56.654945824Z",
+  "model": "glm-5.3"
+}

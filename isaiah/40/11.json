@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 40:11",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Dịka onye na-azụ atụrụ na-azụ ìgwè atụrụ ya, na ogwe aka ya ọ na-anakọta ụmụ atụrụ ndị nta, ma n'obi ya ọ na-ebu ha, ndị na-amụ nwa ọ na-eduzi ha nwayọọ.",
+  "tokens": [
+    {
+      "surface": "כרעה",
+      "gloss": "dịka onye na-azụ atụrụ"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "ìgwè atụrụ ya"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "ọ na-azụ"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "na ogwe aka ya"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "ọ na-anakọta"
+    },
+    {
+      "surface": "טלאים",
+      "gloss": "ụmụ atụrụ ndị nta"
+    },
+    {
+      "surface": "ובחיקו",
+      "gloss": "ma n'obi ya"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ọ na-ebu"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ndị na-amụ nwa"
+    },
+    {
+      "surface": "ינהל",
+      "gloss": "ọ na-eduzi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:56:37.101803942Z",
+  "model": "glm-5.3"
+}

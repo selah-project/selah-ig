@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ọ kpechara ikpe onye ogbenye na onye nweghị ihe; mgbe ahụ ka ọ dị mma — ọ̀ bụghị n'ịmara ⟨את⟩ m ka nke a bụ? — okwu Yahwe.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ọ kpechara"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "עני",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na onye nweghị ihe"
+    },
+    {
+      "surface": "אז",
+      "gloss": "mgbe ahụ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ọ̀ bụghị"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "n'ịmara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:29:37.647848565Z",
+  "model": "glm-5.3"
+}

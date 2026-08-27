@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Ha riri ahịhịa niile n'ala ha, ma riri mkpụrụ nke ala-ala ha.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Ha riri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ahịhịa"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "n'ala ha"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ma riri"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ala-ala ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:13.872295562Z",
+  "model": "glm-5.3"
+}

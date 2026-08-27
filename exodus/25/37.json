@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ị ga-eme ⟨את⟩ ụlọkụ ya, asaa, ma tinye elu ⟨את⟩ ụlọkụ ya, ka o na-amụ ìhè n'ihu ya.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ị ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọkụ ya"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ụlọkụ ya"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ma tinye elu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọkụ ya"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ụlọkụ ya"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "ka o na-amụ ìhè"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "n'akụkụ nsọpụ"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "ihu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:50.372446067Z",
+  "model": "glm-5.3"
+}

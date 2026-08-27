@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ma ⟨ọ⟩ dị ka ọkpọrọshi na-apụta n'ụlọya, na-eto eto dịka dike ịgba ọsọ ụzọ.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ma ọ"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "dị ka ọkpọrọshi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "na-apụta"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "n'ọ́lụ́-alụm ya"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "na-atọ ụtọ"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "dịka dike"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "ịgba ọsọ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ụzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:11.238033653Z",
+  "model": "glm-5.3"
+}

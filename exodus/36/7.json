@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ọrụ ahụ zuru maka mmemme ọrụ ahụ iji mee ⟨את⟩ ya, ma fụdụkwa.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "ọrụ ahụ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "דים",
+      "gloss": "zuru"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka mmemme"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ọrụ ahụ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "iji mee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (ọrụ ahụ)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "ma fụdụkwa"
+    }
+  ],
+  "timestamp": "2026-08-27T06:41:00.331283755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "ka unụ ghara imebi ihe, wee meere onwe unụ onye ndị e ji aka kpụọ, ọgọdọ nke ọ bụla dịdị, ọdịdị nwoke ma ọ bụ nwanyị.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ka unụ ghara"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "imebi ihe"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "wee meere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "onwe unu"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "onye ndị e kpụrụ"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "ọgọdọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nke ọ bụla"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "dịdị"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ọdịdị"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "nwanyị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:52:21.045458980Z",
+  "model": "glm-5.3"
+}

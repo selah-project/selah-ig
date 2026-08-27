@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "We si n'ebe ahụ rịgo ⟨elüks⟩ ndị bi na Devir; aha Devir tupu oge a bụ Kiryat-Sefer.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "we rịgo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨elu⟩"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị bi na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "tupu oge a"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-08-27T08:32:00.455469184Z",
+  "model": "glm-5.3"
+}

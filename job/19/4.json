@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ma ọ bụrụ na ezie m mehiere, nhiehie m nọ ⟨את⟩ m.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "ezie"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "m mehiere"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "nọ"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "nhiehie m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:45:36.077461991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 19:25",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Kaa onye nkwulu, ma onye nzuzu ⟨ga⟩-amụta amamihe; gwakwa onye nwere nghọta nmehie, ⟨ọ⟩ ga-aghọta ihe ọmụma.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "onye nkwulu"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "ופתי",
+      "gloss": "ma onye nzuzu"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "ga-amụta amamihe"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "gwakwa nmehie"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "onye nwere nghọta"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ga-aghọta"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ihe ọmụma"
+    }
+  ],
+  "timestamp": "2026-08-27T14:26:25.819854938Z",
+  "model": "glm-5.3"
+}

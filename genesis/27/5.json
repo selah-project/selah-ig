@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 27:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Rivka nụrụ okwu Yitschak gwara Esav nwa ya; Esav wee gaa n'ọhịaịchụ nta iji wetara ⟨nri anụ ọhụrụ⟩.",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wee gaa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "n'ọhịa"
+    },
+    {
+      "surface": "לצוד",
+      "gloss": "ịchụ nta"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "anụ ọhụrụ"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "iji weta"
+    }
+  ],
+  "timestamp": "2026-08-27T16:22:55.601806033Z",
+  "model": "glm-5.3"
+}

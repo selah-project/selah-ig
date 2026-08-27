@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "Ọ ga-adị na tupu ha akpọọ, m ga-aza; ka ha ka na-ekwu okwu, m ga-anụ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-adị"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "tupu"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ha akpọọ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "m"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ga-aza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "na-ekwu okwu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "m"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ga-anụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:11:35.282622036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Unu, ndị ikom, m na-akpọku; na olu m na-eru ụmụ mmadụ.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m na-akpọku"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "na olu m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na-eru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:50:42.876918715Z",
+  "model": "glm-5.3"
+}

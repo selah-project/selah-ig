@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ruo mgbe ole ka m ga-atụ atụmatụ n'ime nke m, nsogbu n'obi m kwa ụbọchị? Ruo mgbe ole ka onye iro m ga-ebilite n'elu m?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ruo"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "mgbe ole"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "m ga-atụ"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "atụmatụ"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "n'ime nke m"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "nsogbu"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "n'obi m"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "kwa ụbọchị"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Ruo"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "mgbe ole"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ga-ebilite"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "onye iro m"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:15.492087439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Yahwe we gwara m, na-asị:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "we gwara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:49:22.560171986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ndị mmadụ kelere mmadụ niile ndị nyere onwe ha n'afọ olu ibi na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "kelere"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Ndị mmadụ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "ndị nyere onwe ha n'afọ olu"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ibi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T15:49:15.789231883Z",
+  "model": "glm-5.3"
+}

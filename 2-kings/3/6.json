@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Eze Yehoram pụtara n'ụbọchị ahụ site na Shomron, wee depụta ⟨את⟩ ndị Izrel niile.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "site na Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "depụtara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Izrel niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    }
+  ],
+  "timestamp": "2026-08-27T10:12:29.494125281Z",
+  "model": "glm-5.3"
+}

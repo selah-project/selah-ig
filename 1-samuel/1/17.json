@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma Eli zara ma sị: Gaa n'udo, ma Elohim nke Yisrael ga-enye ⟨את⟩ arịrịọ gị nke gị rịọrọ n'aka ya.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ma zara"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma sị"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "n'udo"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ma Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ga-enye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arịrọ gị"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "arịrọ gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "gị rịọrọ"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "n'aka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:00:27.335481889Z",
+  "model": "glm-5.3"
+}

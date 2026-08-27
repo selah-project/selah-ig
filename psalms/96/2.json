@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 96,
+  "translation": "Bụrụ abụ maka Yahwe, gọzie aha Ya; kwupụta site n'ụbọchị ruo n'ụbọchị nzọpụta Ya.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "bụrụ abụ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "gọzie"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha Ya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "kwupụta"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "site n'ụbọchị"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ruo n'ụbọchị"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "nzọpụta Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:07.365933019Z",
+  "model": "glm-5.3"
+}

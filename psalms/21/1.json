@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Maka ⟨onye-eduzi egwu⟩. Abụ nke David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka ⟨onye-eduzi egwu⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:21.313406550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ìgwè agha ya na ndị a gụrụ n'ọnụ ọgụgụ ha ⟨bụ⟩ puku iri asaa na anọ na narị isii.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ìgwè agha ya"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ndị a gụrụ n'ọnụ ọgụgụ ha"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "iri asaa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "isii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:10:51.308564266Z",
+  "model": "glm-5.3"
+}

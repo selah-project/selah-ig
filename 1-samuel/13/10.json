@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ọ dị na mgbe ọ gbasịrị ịchụ ⟨ahụ⟩ àjà-ọkụ, le, Shemuël bịara; Shaul wee pụta izute ya, ka ọ gọzie ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dị na"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "mgbe ọ gbasịrị"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ịchụ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "àjà-ọkụ ⟨ahụ⟩"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "izute ya"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "ka ọ gọzie ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:05:54.310176231Z",
+  "model": "glm-5.3"
+}

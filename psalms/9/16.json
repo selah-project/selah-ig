@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Mba ndị ahụ miri emi n'olulu mmiri ha mere; n'ụgbụ ha zoro n'ezie, ejidewo ụkwụ ha.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "miri emi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị ahụ"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "n'olulu mmiri"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ha mere"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "n'ụgbụ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ha zoro"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "ejidewo"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "ụkwụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:29.490348104Z",
+  "model": "glm-5.3"
+}

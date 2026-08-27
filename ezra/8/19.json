@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "⟨את⟩ Chashabya na ⟨את⟩ Yeshaya ya, n'ime ụmụ Merari, ụmụnne ya na ụmụ ha, iri abụọ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chashabya"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Chashabya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "Yeshaya"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yeshaya"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "n'ime ụmụ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ụmụnne ya"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "na ụmụ ha"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:40:56.296364010Z",
+  "model": "glm-5.3"
+}

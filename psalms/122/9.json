@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 122,
+  "translation": "N'ihi ụlọ Yahwe Elohim anyị, m ga-na chọọ ihe ọma gị.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "m ga-na chọọ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:37.094960336Z",
+  "model": "glm-5.3"
+}

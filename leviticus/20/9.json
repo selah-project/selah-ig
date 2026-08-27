@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Maka nwoke, onye ọ bụla nke jiri okwu rụrụ ⟨את⟩ nna ya na ⟨את⟩ nne ya, ọ ga-anwụ anwụ; nna ya na nne ya ka ọ rụrụ okwu, ọbara ya dị n'elu ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "jiri okwu rụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nne ya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nne ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "anwụ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ọ ga-anwụ anwụ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "na nne ya"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "ọ rụrụ okwu"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "ọbara ya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dị n'elu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:05.591502435Z",
+  "model": "glm-5.3"
+}

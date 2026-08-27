@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma ⟨את⟩ ara na ⟨את⟩ ukwu nri Aharon tụgharịrụ dịka onyinye a na-efe n'ihu Yahwe, dịka Moshe nyere iwu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ara"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ukwu nri"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "nri"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "tụgharịrụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "onyinye a na-efe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:49:55.701486270Z",
+  "model": "glm-5.3"
+}

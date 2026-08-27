@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Maka ihe ka onye amamihe nwere karịa onye nzuzu? Gịnị ka onye ogbenye nwere, onye ma otu esi na-aga n'ihu ndị dị ndụ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ihe karịa"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "onye amamihe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "karịa"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "onye nzuzu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ma"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "otu esi na-aga"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ndị dị ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:00.337114594Z",
+  "model": "glm-5.3"
+}

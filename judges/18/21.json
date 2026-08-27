@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ha we pụọ wee gaa, ha we tinye ⟨את⟩ ụmụaka na ⟨את⟩ anụ ụlọ na ⟨את⟩ ihe ndị dị oké ọnụ n'ihu ha.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ha we pụọ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wee gaa"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "ha we tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụaka"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ụmụaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ụlọ"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "anụ ụlọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ndị dị oké ọnụ"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "ihe ndị dị oké ọnụ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "n'ihu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:55:50.151745442Z",
+  "model": "glm-5.3"
+}

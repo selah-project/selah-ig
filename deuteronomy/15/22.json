@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "N'ọnụ ụzọ ámá gị ka ị ga-eri ya; onye rụrụ unyụ na onye dị ọcha ga-eri ya ọnụ, dịka mgbada na dịka mmanụ.",
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "n'ọnụ ụzọ ámá gị"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ga-eri ya"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "onye rụrụ unyụ"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "na onye dị ọcha"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "dịka mgbada"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "na dịka mmanụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:59:10.504233044Z",
+  "model": "glm-5.3"
+}

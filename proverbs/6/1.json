@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Nwa m, ọ bụrụ na iji aka gbapụta maka enyi gị, ọ bụrụ na ị kụrụ aka gị maka onye ọbịa,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "iji aka gbapụta"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "maka enyi gị"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "ị kụrụ"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "maka onye ọbịa"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "aka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:14:32.879579872Z",
+  "model": "glm-5.3"
+}

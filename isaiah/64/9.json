@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 64,
+  "translation": "Obodo nsọ gị ghọrọ ebe Ọzara; Tsiyon ghọrọ ebe ọzara; Yerushalayim bụkwa ebe mbibi.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "nsọ gị"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ghọrọ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ebe ọzara"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ebe ọzara"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ghọrọ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ebe mbibi"
+    }
+  ],
+  "timestamp": "2026-08-27T11:11:43.513699554Z",
+  "model": "glm-5.3"
+}

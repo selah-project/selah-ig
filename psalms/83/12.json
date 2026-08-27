@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "Tinye ndị ama ama ha ka Orev na ka Ze'ev; nakwa ka Zevach na ka Tzalmona, ndị isi ha niile.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Tinye"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "ndị ama ama ha"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "ka Orev"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "nakwa ka Ze'ev"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "nakwa ka Zevach"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "nakwa ka Tzalmona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "ndị isi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:53.100027555Z",
+  "model": "glm-5.3"
+}

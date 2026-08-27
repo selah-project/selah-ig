@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Onye na-ebu ngwá agha ya hụrụ na Shaul anwụọla, o dakwara ya — ya onwe ya — n'elu mma agha ya, wee nwụọ ya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "onye na-ebu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwá agha ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מת",
+      "gloss": "anwụọla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dakwara"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "mma agha ya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wee nwụọ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:28:57.614399195Z",
+  "model": "glm-5.3"
+}

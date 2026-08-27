@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 22:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "N'ihi na ọ bụ ụbọchị nke mgbagwoju anya, na nke ịgbaso n'ụkwụ, na nke nsogbu, nke Adonai Yahwe Tsevaot, n'ndida Chizayon; na-akatu mgbidi, na ite mkpu gaa n'ugwu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "mgbagwoju anya"
+    },
+    {
+      "surface": "ומבוסה",
+      "gloss": "na nke ịgbaso n'ụkwụ"
+    },
+    {
+      "surface": "ומבוכה",
+      "gloss": "na nke nsogbu"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "nke Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "n'ndida"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "Chizayon"
+    },
+    {
+      "surface": "מקרקר",
+      "gloss": "na-akatu"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "mgbidi"
+    },
+    {
+      "surface": "ושוע",
+      "gloss": "na ite mkpu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "n'ugwu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:43:04.046875970Z",
+  "model": "glm-5.3"
+}

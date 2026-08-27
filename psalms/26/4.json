@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Anọghị m n'etiti ndị ikom nke efu, na ndị na-ezo ezo agaghị m abịa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Anọghị"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "m nọ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "nke efu"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na n'etiti"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "ndị na-ezo ezo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "m abịa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:30.827599726Z",
+  "model": "glm-5.3"
+}

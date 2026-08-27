@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 81,
+  "translation": "Ma ndị m anụghọghị olu m, ma Yisrael achọghị m.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ma... ọ bụghị"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "anụghị"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "olu m"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ma Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "achọghị"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:38.349612743Z",
+  "model": "glm-5.3"
+}

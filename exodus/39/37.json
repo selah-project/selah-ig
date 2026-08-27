@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "⟨את⟩ menorah ahụ dị ọcha, ⟨את⟩ ngịngịlụ ya, ngịngịlụ nke usoro ahụ, na ⟨את⟩ ngwa ya niile, na ⟨את⟩ mmanụ ọkụ ahụ;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menorah ahụ dị ọcha"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorah ahụ"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngịngịlụ ya"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ngịngịlụ ya"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "ngịngịlụ nke"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "usoro ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ngwa ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ngwa ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mmanụ ọkụ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ọkụ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:28.267701518Z",
+  "model": "glm-5.3"
+}

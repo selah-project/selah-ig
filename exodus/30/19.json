@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Aharon na ụmụ ya ga-asa n'aka ya ⟨את⟩ aka ha na ⟨את⟩ ụkwụ ha.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ga-asa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na ụmụ ya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka ha"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "aka ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụkwụ ha"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ụkwụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:30:46.681674503Z",
+  "model": "glm-5.3"
+}

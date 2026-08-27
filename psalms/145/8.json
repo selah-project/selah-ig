@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Ọ mara mma ọbụbụe, ọ nwere ebere, Yahwe; jiri nwayọọ n'iwe, ukwu chesed.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Ọ mara mma ọbụbụe"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ọ nwere ebere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "jiri nwayọọ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "n'iwe (ụgbụga imi)"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:08.736216915Z",
+  "model": "glm-5.3"
+}

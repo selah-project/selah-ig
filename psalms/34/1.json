@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Nke Dawid, mgbe ọ gbanwere ọnọdụ ya n'ihu Avimelek, ma ọ chụpụrụ ya, ma ọ gara. ⟨את⟩ ọmụma ya ka ọ gbanwere.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "nke Dawid"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "mgbe ọ gbanwere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmụma ya"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "ọmụma ya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "ma ọ chụpụrụ ya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ma ọ gara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:25.413891302Z",
+  "model": "glm-5.3"
+}

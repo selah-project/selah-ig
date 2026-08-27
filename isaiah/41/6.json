@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Nwoke na-enye onye ya na ya jikọrọ ⟨את⟩ aka ndị, ma na-ekwu na nwanne ya, sị: Nọrọ ike.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka ndị ya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "aka ndị ya"
+    },
+    {
+      "surface": "יעזרu",
+      "gloss": "na-enye aka"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "na nwanne ya"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Nọrọ ike"
+    }
+  ],
+  "timestamp": "2026-08-27T10:56:21.611912003Z",
+  "model": "glm-5.3"
+}

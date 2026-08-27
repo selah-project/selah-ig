@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Maka onye-ndú-egwu; nke David; abụ-egwu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye-ndú-egwu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ-egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:58.422090063Z",
+  "model": "glm-5.3"
+}

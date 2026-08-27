@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Ha na-akwagharị site n'otu mba ruo n'otu mba, site n'otu alaeze ruo n'aka ndị ọzọ.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ha na-akwagharị"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "site n'otu mba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "n'otu mba"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "site n'otu alaeze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n'aka ndị"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:37.398673844Z",
+  "model": "glm-5.3"
+}

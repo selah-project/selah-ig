@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 23:11",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Nwanne ya nwanyị Oholiba hụrụ ⟨ihe a⟩, ma mee ka mmehie ọchịchọ ya ka njọ karịa nke ⟨ya⟩, na ⟨את⟩ ịkwụna ya karịa ịkwụna nwanne ya nwanyị.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ọ hụrụ"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "nwanne ya nwanyị"
+    },
+    {
+      "surface": "אהליבה",
+      "gloss": "Oholiba"
+    },
+    {
+      "surface": "ותשחת",
+      "gloss": "ọ mekwara kaọ njọ"
+    },
+    {
+      "surface": "עגבתה",
+      "gloss": "ọchịchọ ya"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "karịa nke ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ịkwụna ya"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "ịkwụna ya"
+    },
+    {
+      "surface": "מזנוני",
+      "gloss": "karịa ịkwụna"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "nwanne ya nwanyị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:14:56.719414562Z",
+  "model": "glm-5.3"
+}

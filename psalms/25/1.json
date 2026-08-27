@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Nke David. N'ebe-Qgi, Yahwe, ka m bulie mkpụrụ obi m.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nke David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "N'ebe-Qgi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ka m bulie"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:22.420967479Z",
+  "model": "glm-5.3"
+}

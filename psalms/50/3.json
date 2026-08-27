@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Elohim anyị ga-abịa, ma ọ ghara ịnọ nkịtị: ọkụ ga-eri n'ihu ya, na gburugburu ya oké ifufe na-ama jijiji ⟨nke ukwuu⟩.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "ga-abịa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma ọ ghara"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ịnọ nkịtị"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "na gburugburu ya"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "oké ifufe na-ama jijiji"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:00.024061504Z",
+  "model": "glm-5.3"
+}

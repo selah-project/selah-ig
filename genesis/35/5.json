@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 35:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ha wee mee njem, egwu nke Elohim dakwasara ⟨את⟩ obodo ndị ndị gbara ha gburugburu, ma ha enweghị ịchụso ụmụ Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ha wee mee njem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dakwasara"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "egwu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "dakwasara"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "obodo ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "סביבתיהם",
+      "gloss": "gbara ha gburugburu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ha enweghị"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ịchụso"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:38.493149697Z",
+  "model": "glm-5.3"
+}

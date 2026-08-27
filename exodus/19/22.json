@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 19:22",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Nakwa ndị nchuaja ndị na-eru nso Yahwe ka ha doo onwe ha nsọ, ka Yahwe ghara ịgbawa ha mgbu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Nakwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchuaja"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "ndị na-eru nso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "ka ha doo onwe ha nsọ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "ghara ịgbawa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:21:02.358806971Z",
+  "model": "glm-5.3"
+}

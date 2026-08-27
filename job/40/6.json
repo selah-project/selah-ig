@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Yahwe zara ⟨את⟩ Iyyob n'ime ifufe uzu, wee sia:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "zara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyob"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ifufe uzu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sia"
+    }
+  ],
+  "timestamp": "2026-08-27T14:58:00.748518840Z",
+  "model": "glm-5.3"
+}

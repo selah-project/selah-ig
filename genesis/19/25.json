@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ọ gbaghaatụrụ ⟨את⟩ obodo ndị a, na ⟨את⟩ nkè ala dị larịị nile, na ⟨את⟩ nkè ndị bi n'obodo ndị ahụ nile, na ihe na-eto n'ala.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "ọ gbaghaatụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ndị a"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkè ala dị larịị nile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nile"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ala dị larịị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkè ndị bi n'obodo nile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nile"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "ihe na-eto"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "n'ala"
+    }
+  ],
+  "timestamp": "2026-08-27T05:33:22.171178287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma ha na nna nna anyị mee anya ukwu, ma ha sie ⟨את⟩ azu olu ha ike, ma ha anaghị ege ntị n'iwu Gị.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Ma ha"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "na nna nna anyị"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "mee anya ukwu"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ma ha sie ike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azu olu ha"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "azu olu ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma anaghị"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ha ege ntị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "iwu Gị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:46:29.248786850Z",
+  "model": "glm-5.3"
+}

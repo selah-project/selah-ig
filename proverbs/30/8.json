@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ihe efu na okwu ụgha, dọrọ pụọ n'ebe m nọ; ịda ogbenye na akụ na ụba, enyela m; nye m achịcha òkè m.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "ihe efu"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "na okwu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "dọrọ pụọ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "n'ebe m nọ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ịda ogbenye"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "na akụ na ụba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "enyela"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "inye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "nye m ihe oriri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "achịcha"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "òkè m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:33:09.944193852Z",
+  "model": "glm-5.3"
+}

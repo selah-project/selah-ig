@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Yipụrụ ⟨את⟩ akpụkpọ-ahụ nke obi gị, ma siri ike o gburugburu anya gị ọzọ.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "yipụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akpụkpọ-ahụ nke obi gị"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "akpụkpọ-ahụ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "nke obi gị"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "o gburugburu anya gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:55:27.863423558Z",
+  "model": "glm-5.3"
+}

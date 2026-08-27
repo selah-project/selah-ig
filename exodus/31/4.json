@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ime atụmatụ ọrụ aka, iji rụọ ọrụ na ọlaedo, na ọlaọcha, na ọla kọpa.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "ime atụmatụ"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "ọrụ aka"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "iji rụọ ọrụ"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "na ọlaedo"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "na ọlaọcha"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "na ọla kọpa"
+    }
+  ],
+  "timestamp": "2026-08-27T06:30:45.521316770Z",
+  "model": "glm-5.3"
+}

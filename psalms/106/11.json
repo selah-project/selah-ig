@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Mmiri kpuchiri ndị na-emegide ha; otu n'ime ha anaghị adị.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "kpuchiri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ndị na-emegide ha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "n'ime ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "adị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.888443405Z",
+  "model": "glm-5.3"
+}

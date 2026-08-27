@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 1:21",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Le anya: Yahwe, Elohim gị, ewepụtala ⟨את⟩ ⟨the⟩ ala n'ihu gị; rịgo, were nwee ya, dịka Yahwe, Elohim nke nna nna gị, siri gị kwuo; atụla egwu, ma belakwaghị obi.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Le anya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ewepụtala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ ala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ ala"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "rịgo"
+    },
+    {
+      "surface": "רש",
+      "gloss": "were nwee ya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "siri kwuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "nke nna nna gị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "atụla"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "egwu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "belakwaghị obi"
+    }
+  ],
+  "timestamp": "2026-08-27T07:49:01.243054714Z",
+  "model": "glm-5.3"
+}

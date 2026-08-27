@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 59,
+  "translation": "Lee, ha na-amịpụta okwu site n'ọnụ ha, mma agha dị n'ime ọnụ ha; n'ihi na, Ònye na-anụ?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lee"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "ha na-amịpụta okwu"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "site n'ọnụ ha"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "dị n'ime ọnụ ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ònye"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "na-anụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:39.695769418Z",
+  "model": "glm-5.3"
+}

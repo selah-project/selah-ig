@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Wụsaa iwe gị n'elu ha, ma ọkụ nke imi gị ruo ha.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Wụsaa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "n'elu ha"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "iwe gị"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "ma ọkụ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nke imi gị"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "ruo ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:35.704290344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ajọrọ m ndị na-edebe ihe efu na ụgha; ma m, tinyere m ntụkwasị obi na Yahwe.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Ajọrọ m"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ndị na-edebe"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ihe efu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "na ụgha"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tinyere m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ntụkwasị obi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:54.138234961Z",
+  "model": "glm-5.3"
+}

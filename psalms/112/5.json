@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 112,
+  "translation": "Dịkwa mma ⟨nwoke⟩ nke na-egosi ebere na na-agbazinye ego; ọ na-edozi ᴄhị ⟨ya⟩ n'iwu ziri ezi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "na-egosi ebere"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "na na-agbazinye ego"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "ọ na-edozi"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "okwu ya"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "n'iwu ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:07.942642025Z",
+  "model": "glm-5.3"
+}

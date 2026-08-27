@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Moshe rịgooro n'ugwu ahụ bịakwute ndị mmadụ, wee tee ⟨את⟩ ndị mmadụ ahụ nsọ; ha saakwara uwe ha.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "rịgooro"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ugwu ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bịakwute"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "tee nsọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị mmadụ ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ ahụ"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "ha saakwara"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "uwe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:20:45.972648104Z",
+  "model": "glm-5.3"
+}

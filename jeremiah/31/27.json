@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Lee, ụbọchị na-abịa, okwu Yahwe; m ga-akụ ⟨את⟩ ụlụ Yisrael na ⟨את⟩ ụlụ Yehudah mkpụrụ mmadụ na mkpụrụ anụ ụlọ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lee"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "באים",
+      "gloss": "na-abịa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "m ga-akụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlụ Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụlụ Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlụ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "na mkpụrụ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "anụ ụlọ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:37:51.302798740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Mgbe ahụ, anya ndị kpuru ìsì ga-amụghe, na ntị ndị ntị chiri ga-agbapụta.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "mgbe ahụ"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "ga-amụghe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ndị kpuru ìsì"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "na ntị"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ndị ntị chiri"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "ga-agbapụta"
+    }
+  ],
+  "timestamp": "2026-08-27T10:53:19.336190074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "N'ihi na dịka ogwu ndị gbanyere mkpọkọ, na dịka mmanya ha ka ha ṅụrụ ṅụọ, a ga-eri ha dịka ahụhụ kpọrọ nkụ nke jupụtara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "ogwu"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "ndị gbanyere mkpọkọ"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "na dịka mmanya ha"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "ka ha ṅụrụ ṅụọ"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "a ga-eri ha"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "dịka ahụhụ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kpọrọ nkụ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nke jupụtara"
+    }
+  ],
+  "timestamp": "2026-08-27T12:55:37.174543325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Mgbe ahụ, Israel bu abụ a ⟨את⟩ abụ nke a: Bilie, olulu mmiri; gaa n'abụ maka ya.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Mgbe ahụ"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "bu abụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abụ nke a"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Bilie"
+    },
+    {
+      "surface": "באר",
+      "gloss": "olulu mmiri"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "gaa n'abụ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "maka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:30:38.189928820Z",
+  "model": "glm-5.3"
+}

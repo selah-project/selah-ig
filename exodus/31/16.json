@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ndị Yisrael ga-edebe ⟨את⟩ ⟨the⟩ Sabbath, iji mee ⟨את⟩ ⟨the⟩ Sabbath ruo ọgbọ ha, dịka ọgbụgba-ndụ ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ga-edebe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ Sabbath"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "⟨the⟩ Sabbath"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "iji mee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ Sabbath"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "⟨the⟩ Sabbath"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ruo ọgbọ ha"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:31:29.504539702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Nkume iri na abụọ ⟨את⟩ ndị a, bụ nke ha si na Yardẹn were, bụ Yehoshua guzobere na Gilgal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkume iri na abụọ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iri na"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ nke"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ha were"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardẹn"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "guzobere"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "na Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-27T08:20:14.294230356Z",
+  "model": "glm-5.3"
+}

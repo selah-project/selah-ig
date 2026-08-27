@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ma ọ bụrụ na ọ mebie ⟨את⟩ ha mgbe ọ chara nụ, mgbe ahụ ọ ga-ebu ⟨את⟩ mmehie ya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ọ bụrụ na"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "mebie"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "ọ mebie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ọ chara nụ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ọ ga-ebu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmehie ya"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "mmehie ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:44:54.879938384Z",
+  "model": "glm-5.3"
+}

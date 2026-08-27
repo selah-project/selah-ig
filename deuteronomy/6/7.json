@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "ga-agwa ụmụ gị ha ugboro ugboro, ga-ekwurịta ha okwu mgbe ị nọkwasị n'ụlọ gị, mgbe ị na-eje ụzọ, mgbe ị dina ala, na mgbe ị na-ebili.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "ga-agwa ha ugboro ugboro"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ụmụ gị"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ga-ekwurịta okwu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "mgbe ị nọkwasị"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "n'ụlọ gị"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "mgbe ị na-eje"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "mgbe ị dina ala"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "mgbe ị na-ebili"
+    }
+  ],
+  "timestamp": "2026-08-27T07:51:56.146754617Z",
+  "model": "glm-5.3"
+}

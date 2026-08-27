@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Onye na-esi ⟨את⟩ ya ga-asá uwe ya na mmiri, ma saa ahụ ya na mmiri, ma ga-adị unru ruo ruo anyasị.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "onye na-esi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ga-asá"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uwe ya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mmiri"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ma saa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ahụ ya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mmiri"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ga-adị unru ruo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "anyasị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:31:12.789968192Z",
+  "model": "glm-5.3"
+}

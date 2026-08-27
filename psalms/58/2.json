@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 58,
+  "translation": "Ọ dị eziokwu na n'iwu ka ụ na-ekwu okwu ziri ezi? Na n'ụzọ kwụ ọtọ ka ụ na-ekpe ikpe, ụmụ mmadụ?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Ọ dị eziokwu na"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "n'iwu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "okwu ziri ezi"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "ka ụ na-ekwu"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "na n'ụzọ kwụ ọtọ"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "ka ụ na-ekpe ikpe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:32.554812686Z",
+  "model": "glm-5.3"
+}

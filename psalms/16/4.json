@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ka ihe mgbu ha baa ọtụtụ — ha gbara ọsọ gaa chi ndị ọzọ; m agaghị atụsa ntụ̀ ọṅụṅụ ha nke ọbara, ma ọlị, m agaghị eweta ⟨את⟩ aha ha n'ọnụ m.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "baa ọtụtụ"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "ihe mgbu ha"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "chi ndị ọzọ"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "ha gbara ọsọ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "m atụsa"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "ntụ̀ ọṅụṅụ ha"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "nke ọbara"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ma ọlị, agaghị"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "m eweta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ha"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "aha ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ọnụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:01.384100907Z",
+  "model": "glm-5.3"
+}

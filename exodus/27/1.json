@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ma ị ga-eme ⟨את⟩ ebe ịchụàjà site n'osisi shittim; ogologo ogụ isa, na obosara ogụ isa — nke anọ-akụkụ ka ebe ịchụàjà ahụ ga-⟨bụ⟩; ma elu ya ogụ atọ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ị ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe ịchụàjà"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ise"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ogụ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ogologo"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ise"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ogụ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "obosara"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "nke anọ-akụkụ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ma atọ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ogụ"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "elu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:27:58.799702429Z",
+  "model": "glm-5.3"
+}

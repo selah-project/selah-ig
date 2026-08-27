@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ma amamihe Shelomoh karịrị amamihe ụmụ ⟨nke⟩ ọdịda anyanwụ niile, nakwa amamihe Mitzrayim niile.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "karịrị"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ọdịda anyanwụ"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "nakwa niile"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T09:53:52.871731122Z",
+  "model": "glm-5.3"
+}

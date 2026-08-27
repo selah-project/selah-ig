@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Achab wee gwara Izebel ⟨את⟩ ihe niile Eliya mere, yana ⟨את⟩ ihe niile ọ gburu — ⟨את⟩ ndị amụma niile mma agha.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "yana ⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "gburu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị amụma niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ndị amụma"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mma agha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:08:14.617545278Z",
+  "model": "glm-5.3"
+}

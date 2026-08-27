@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Ị kpochapụrụ n'ihu ya, mgbọrọgwụ ya wee mịrị omimi, ọ wee jupụta n'ụwa.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "Ị kpochapụrụ"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "mgbọrọgwụ ya wee mịrị omimi"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "mgbọrọgwụ ya"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ọ wee jupụta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n'ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:23.931641946Z",
+  "model": "glm-5.3"
+}

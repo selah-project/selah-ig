@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ọ dọtakwara ⟨את⟩ gị nso, yana ⟨את⟩ umunne gị niile, ụmụ Levi, ⟨את⟩ gị onwe gị; unu wee na-achọkwa ụkọchukwu?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ọ dọtakwara nso"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị",
+      "marks": "gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "yana ⟨את⟩",
+      "marks": "umu nne gị niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umu nne gị"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị",
+      "marks": "gị"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "unu wee na-achọ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ụkọchukwu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:28:39.837503894Z",
+  "model": "glm-5.3"
+}

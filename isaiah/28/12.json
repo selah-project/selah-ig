@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 28:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Onye ọ gwara, sị: Nke a bụ ebe izu ike, ka onye ike gwụrụ zuo ike; ma nke a bụ ebe mmesi obi umeala—ma ha enweghị mmasị ige ntị.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ọ gwara, sị"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "(ha)"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "ebe izu ike"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "ka... zuo ike"
+    },
+    {
+      "surface": "לעיף",
+      "gloss": "onye ike gwụrụ"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "ma nke a"
+    },
+    {
+      "surface": "המרגעה",
+      "gloss": "ebe mmesi obi umeala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma... enweghị"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "mmasị"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ige ntị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:46:12.442013863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 66,
+  "translation": "Ya ka ọnụ m kpọrọ oku, ma otuto dịgidere n'okpuru ire m.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "m kpọrọ oku"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "ma otuto dịgidere"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ire m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:24.585257319Z",
+  "model": "glm-5.3"
+}

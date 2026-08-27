@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "N'ime na ndị ọjọ ruru m iri ⟨את⟩ anụ m — ndị iro m na ndị iro m — ha ṅụrụ azụ ma daa.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "N'ime na"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ruo m"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ndị ọjọ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "iri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anụ m"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "anụ m"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "na ndị iro m"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ṅụrụ azụ"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ma daa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:39.328921734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 26:12",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ha ga-ewere akụnụba gị dịka ihe-mmetụta, ha ga-ezipụ ahịa gị; ha ga-akatu mgbidi gị, ụlọ ụtọ gị ha ga-akatu; nkume gị, osisi gị na uzuzu gị ha ga-etinye n'etiti mmiri.",
+  "tokens": [
+    {
+      "surface": "ושללו",
+      "gloss": "ha ga-ewere dịka ihe-mmetụta"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "akụnụba gị"
+    },
+    {
+      "surface": "ובזזו",
+      "gloss": "ha ga-ezipụ"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "ahịa gị"
+    },
+    {
+      "surface": "והרסו",
+      "gloss": "ha ga-akatu"
+    },
+    {
+      "surface": "חומותיך",
+      "gloss": "mgbidi gị"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "חמדתך",
+      "gloss": "ụtọ gị"
+    },
+    {
+      "surface": "יתצו",
+      "gloss": "ha ga-akatu"
+    },
+    {
+      "surface": "ואבניך",
+      "gloss": "na nkume gị"
+    },
+    {
+      "surface": "ועציך",
+      "gloss": "osisi gị"
+    },
+    {
+      "surface": "ועפרך",
+      "gloss": "na uzuzu gị"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "ha ga-etinye"
+    }
+  ],
+  "timestamp": "2026-08-27T12:18:36.003979339Z",
+  "model": "glm-5.3"
+}

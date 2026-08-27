@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 59,
+  "translation": "Elohim nke chesed m ga-ebu m ụzọ; Elohim ga-eme ka m hụ n'ihu ndị iro m.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "nke chesed m"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "ga-ebu m ụzọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ga-eme ka m hụ"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "n'ihu ndị iro m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:58.445206965Z",
+  "model": "glm-5.3"
+}

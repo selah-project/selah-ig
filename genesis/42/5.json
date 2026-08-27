@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Ma ụmụ Yaakov batara ịzụta ihe n'etiti ndị na-abịa, n'ihi na ụnwụ nọ n'ala Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "batara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ịzụta ihe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ndị na-abịa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nọ"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ụnwụ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-27T05:58:46.316004500Z",
+  "model": "glm-5.3"
+}

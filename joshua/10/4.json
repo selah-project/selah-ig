@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Rịgọrụọ ruo n'ebe m nọ, nyere m aka, ka anyị kụọ ⟨את⟩ Gibon, n'ihi na o emezuola ⟨את⟩ Yehoshua na ⟨את⟩ ụmụ Israel udo.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Rịgọrụọ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ruo n'ebe m nọ"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "nyere m aka"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "ka anyị kụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "o emezuola udo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-27T08:25:57.248959889Z",
+  "model": "glm-5.3"
+}

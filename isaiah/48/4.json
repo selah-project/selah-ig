@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Ọ chere m ihu maka ịma na ị siri ike, na ntụgharị nke ígwè ka nke gị siri, ihu gị bụkwa ọla nchara.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "maka ịma m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ị siri ike"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "ntụgharị"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ígwè"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "nke gị"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "ihu gị"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ọla nchara"
+    }
+  ],
+  "timestamp": "2026-08-27T11:00:59.414833065Z",
+  "model": "glm-5.3"
+}

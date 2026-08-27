@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 75,
+  "translation": "Anyị kelela gị, Elohim, anyị kelela; ma aha gị dọrọ adọrọ; ha kọwara ihe ebube gị.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "anyị kelela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "anyị kelela"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "ma aha gị dọrọ adọrọ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ha kọwara"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ihe ebube gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:44.838606114Z",
+  "model": "glm-5.3"
+}

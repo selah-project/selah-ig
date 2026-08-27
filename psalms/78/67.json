@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "O jụrụ ụlọikwụ nke Yosef, ma ahọrọghị agbụrụ Efrayim.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "O jụrụ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ụlọikwụ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "ma agbụrụ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ahọrọghị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:00.986268322Z",
+  "model": "glm-5.3"
+}

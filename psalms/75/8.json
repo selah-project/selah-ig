@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 75,
+  "translation": "N'ihi na Elohim ⟨is⟩ onye ikpe: nke a ka Ọ na-ebu mgbe, ma nke a ka Ọ na-ebuli elu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "onye ikpe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "Ọ na-ebu mgbe"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ma nke a"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "Ọ na-ebuli elu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:36.564719661Z",
+  "model": "glm-5.3"
+}

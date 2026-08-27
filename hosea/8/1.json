@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Tinyere ọnụ gị ⟨the⟩ ọkpọ: dịka nwamba n'elu ụlọ Yahwe, n'ihi na ha gafere ọgbụgba-ndụ m, na iwu m ha mehiere.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "tinyere"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "ọnụ gị"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ọkpọ"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "dịka nwamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ha gafere"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ha mehiere"
+    }
+  ],
+  "timestamp": "2026-08-27T12:41:55.866628719Z",
+  "model": "glm-5.3"
+}

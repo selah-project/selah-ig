@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 11:15",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ndị atọ n'ime iri atọ ahụ rịgoro n'elu nkume ruo David, banye n'ọgba Adullam; ndị agha Fulistim nọkwa n'ogige ha na ndida Refaim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "rịgoro"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "iri atọ ahụ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "nkume ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "banye"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "n'ọgba"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fulistim"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "nọkwa n'ogige"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "na ndida"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:54:51.401730047Z",
+  "model": "glm-5.3"
+}

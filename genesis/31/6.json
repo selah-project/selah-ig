@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Unu na-ekwu na ọ dịghị ihe ị maara, na jiri ike m niile m rụrụ ⟨את⟩ ọrụ nna unu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "na-ekwu na ọ dịghị ihe ị maara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jiri ... niile"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ike m"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "m rụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ nna unu"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "nna unu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:48:57.010435313Z",
+  "model": "glm-5.3"
+}

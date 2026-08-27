@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 35:24",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "mgbe ahụ, nzukọ-ụka ga-ekpe ikpe n'etiti onye kụrụ ya na goel-ọbara, dịka ikpe ndị a.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "ga-ekpe ikpe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "nzukọ-ụka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "onye kụrụ ya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "-ọbara"
+    },
+    {
+      "surface": "על",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ikpe ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T07:47:06.843118112Z",
+  "model": "glm-5.3"
+}

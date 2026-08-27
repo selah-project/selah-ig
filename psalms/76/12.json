@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 76,
+  "translation": "Kwuo nkwa ma kwụọ ya nye Yahwe, Elohim gị; ndị niile gbara ya gburugburu ga-eduga onyinye nye Onye a na-atụ egwu.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "Kwuo nkwa"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "ma kwụọ ya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nke Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "gbara ya gburugburu"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "ga-eduga"
+    },
+    {
+      "surface": "שי",
+      "gloss": "onyinye"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "nke a na-atụ egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:24.841882993Z",
+  "model": "glm-5.3"
+}

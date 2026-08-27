@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Omume ha agaghị ekwe ka ha laghachite na Elohim ha; n'ihi na mmụọ nke akwa nzọ nọ n'etiti ha, ma ⟨את⟩ Yahwe ha amaghị.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ekwe ka"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "omume ha"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "laghachite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mmụọ"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "nke akwa nzọ"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "nọ n'etiti ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ha amaghị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:40:32.086204076Z",
+  "model": "glm-5.3"
+}

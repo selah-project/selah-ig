@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ha nọ ebe ahụ ka a nwalee ha n'ime ha ⟨את⟩ Yisrael, iji mata ma ha ga-anụ ⟨את⟩ iwu ndị Yahwe, nke O nyere ⟨את⟩ nna nna ha n'aka Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ha nọ"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "ka a nwalee"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "iji mata"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "ma ha ga-anụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu ndị"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "iwu ndị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "O nyere iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna nna ha"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "nna nna ha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-27T08:39:54.670133284Z",
+  "model": "glm-5.3"
+}

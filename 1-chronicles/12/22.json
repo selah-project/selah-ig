@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 12:22",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma ha nyere Dawid aka megide ⟨ndị⟩ ndị agha nzagbu, maka ndị dike nke agha ka ha niile bụ, ha wee bụrụ ndị isi n'ụsọ agha.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ma ha"
+    },
+    {
+      "surface": "עזרו",
+      "gloss": "nyere ... aka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "ndị agha nzagbu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ndị dike"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nke agha"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ha wee bụrụ"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "n'ụsọ agha"
+    }
+  ],
+  "timestamp": "2026-08-27T15:59:43.835364268Z",
+  "model": "glm-5.3"
+}

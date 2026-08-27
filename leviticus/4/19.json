@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọ ga-ewepụkwa ⟨את⟩ abụba ya niile n'aka ya, ma gbaa ya ọkụ n'ebe-ịchụàjà ahụ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abụba ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "abụba ya"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ọ ga-ewepụ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ma gbaa ọkụ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "n'ebe-ịchụàjà ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:45:15.801459610Z",
+  "model": "glm-5.3"
+}

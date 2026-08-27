@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Oge iji tụfuo nkume, na oge iji nakọta nkume; oge iji ṅụkọta aka, na oge iji zọ onwe ya pụọ n'ịṅụkọta aka.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "iji tụfuo"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na oge"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "iji nakọta"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "iji ṅụkọta aka"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na oge"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "iji zọ onwe ya pụọ"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "n'ịṅụkọta aka"
+    }
+  ],
+  "timestamp": "2026-08-27T16:52:10.938994311Z",
+  "model": "glm-5.3"
+}

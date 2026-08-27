@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 140,
+  "translation": "Ha mụọ asụsụ ha dị ka agwọ; nsí nke agwọ a na-amaghị ama n'okpuru mkpọlọgbọ ha. Sela.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "ha mụọ"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "asụsụ ha"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dị ka"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "agwọ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "nsí"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "nke agwọ a na-amaghị ama"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "mkpọlọgbọ ha"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:56.246011610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 95,
+  "translation": "Ebe nna nna unu nwara m, nyocham, ahụkwakwa ọrụ m.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "nwara m"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "nna nna unu"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "nyocham"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ahụkwakwa"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ha hụrụ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ọrụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:02.504338168Z",
+  "model": "glm-5.3"
+}

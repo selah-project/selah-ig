@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "N'afọ ọnwụ nke eze Uzziah, m hụrụ ⟨את⟩ Adonai nọ ọdụ n'ocheeze dị elu ma na-ebuli elu, na mkpụrụ uwe ya jupụtara ⟨את⟩ ụlọ nsọ ahụ.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "n'afọ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzziah"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "m hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nọ ọdụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ocheeze"
+    },
+    {
+      "surface": "רם",
+      "gloss": "dị elu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "na-ebuli elu"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "mkpụrụ uwe ya"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "jupụtara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ nsọ ahụ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ụlọ nsọ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:36:49.749419191Z",
+  "model": "glm-5.3"
+}

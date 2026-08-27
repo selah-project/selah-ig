@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ị ga-ekpuchikwa ⟨את⟩ ya ọlaedo dị ọcha — ⟨את⟩ elu ⟨את⟩ ya na ⟨את⟩ mgbidi ya gburugburu, na ⟨את⟩ mpi ya; ị ga-emekwa ya ohere gbara gburugburu nke ọlaedo, gburugburu.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Ị ga-ekpuchikwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (ọlaedo dị ọcha)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elu ya"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "elu ụlọ ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mgbidi ya"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "mgbidi ya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mpi ya"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "mpi ya"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ị ga-emekwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ohere gbara gburugburu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:31:54.842751007Z",
+  "model": "glm-5.3"
+}

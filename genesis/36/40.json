@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ndị a ka bụ aha ndị isi Esav, dịka ezinụlọ ha si dị, dịka ebe obibi ha si dị, n'aha ha: isi Timna, isi Alva, isi Yetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ma ndị a"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dịka ezinụlọ ha si dị"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "dịka ebe obibi ha si dị"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "n'aha ha"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "isi"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "isi"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "isi"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yetet"
+    }
+  ],
+  "timestamp": "2026-08-27T05:51:30.911727980Z",
+  "model": "glm-5.3"
+}

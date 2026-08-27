@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ndị a ka a nyereaka ha, maka ebo Gad: pụkụ ise na iri anọ na narạ isii na iri ise.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ndị a ka a nyereaka ha"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "maka ebo"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ise"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na iri anọ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "pụkụ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na isii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narạ isii"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na iri ise"
+    }
+  ],
+  "timestamp": "2026-08-27T07:10:02.367925249Z",
+  "model": "glm-5.3"
+}

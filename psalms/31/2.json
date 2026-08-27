@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "N'ime gị, Yahwe, ka m na-ezokwa mkpụrụ obi; ka m ghara ị ihere ruo mgbe ebighị ebi; n'ihe ziri ezi nke gị, zọpụta m.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "n'ime gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m na-ezokwa mkpụrụ obi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ị ihere"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "n'ihe ziri ezi nke gị"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "zọpụta m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:43.320152715Z",
+  "model": "glm-5.3"
+}

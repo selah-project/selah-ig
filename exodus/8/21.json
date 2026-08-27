@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Paroh wee kpọọ Moshe na Aharon, o wee sị: Gaa nụ, chụọ̀ àjà maka Elohim unu n'ala ahụ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wee kpọọ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gaa nụ"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "chụọ̀ àjà"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "maka Elohim unu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    }
+  ],
+  "timestamp": "2026-08-27T06:12:05.561659551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "N'ihi na ⟨ọ⟩ n'elu mmiri ndị ka o guzobere ya, ma n'elu osimiri ndị ka o kwadoro ⟨ya⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mmiri ndị"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "ka o guzobere ya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ma n'elu"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "osimiri ndị"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ka o kwadoro ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:58.386911011Z",
+  "model": "glm-5.3"
+}

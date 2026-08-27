@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 11:8",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ya mere, jide ⟨את⟩ iwu niile nke m na-enyere gị taa, ka ike gị dịgide, ka unu banye ma wee nwee ⟨את⟩ ala ahụ unu na-agafe gaa inweta ya.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "jide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "na-enyere gị"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תחזקו",
+      "gloss": "ike gị dịgide"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ka unu banye"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ka unu nwee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ahụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "inweta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:29:10.503171817Z",
+  "model": "glm-5.3"
+}

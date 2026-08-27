@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "M ga-ezinyekwa ha ⟨את⟩ mma agha, ⟨את⟩ ụnwụ nri, na ⟨את⟩ ọrịa na-efe efe, ruo mgbe ha ga-efu na mgbapụ n'ala nke m nyere ha na nna nna ha.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ga-ezinyekwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mma agha"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụnwụ nri"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ụnwụ nri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọrịa na-efe efe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọrịa na-efe efe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "mgbe ha ga-efu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "site na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "m nyere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "nna nna ha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:31:45.641402539Z",
+  "model": "glm-5.3"
+}

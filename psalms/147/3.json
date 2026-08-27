@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 147,
+  "translation": "Onye na-agwọ ndị obi gbajiri, ma na-agbọ mkpọpu-ha.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Onye na-agwọ"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "ndị gbajiri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "ma na-agbọ"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "mgbu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:08.964748671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Olu na-ekwu, Kpọọ! Ma ⟨o⟩ zara, M ga-kpọọ gịnị? Anụ niile bụ ahịhịa, na chesed ya niile dị ka okooko nke ubi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Olu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Kpọọ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ma zara"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m ga-kpọọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "anụ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ahịhịa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ya"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "dị ka okooko"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "nke ubi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:56:46.421649043Z",
+  "model": "glm-5.3"
+}

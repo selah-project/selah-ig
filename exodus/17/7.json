@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 17:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ọ kpọrọ aha ebe ahụ Massah na Merivah, n'ihi esemokwu ụmụ Yisrael, na n'ihi na ha nwalelere ⟨את⟩ Yahwe, na-asị: Ọ dị Yahwe n'etiti anyị, ma ọ bụ ọ dịghị?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ọ kpọrọ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massah"
+    },
+    {
+      "surface": "ומריבה",
+      "gloss": "Merivah"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "esemokwu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na n'ihi"
+    },
+    {
+      "surface": "נסתם",
+      "gloss": "ha nwalelere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Ọ dị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "n'etiti anyị"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:20:22.013939885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma ọ ga-abụ nnọọ ikpe ziri ezi nye anyị, mmadụ na-eche na ọ na-elekọta ya ka ọ rụọ ⟨את⟩ iwu niile a n'ihu Yahwe, Elohim anyị, dịka o nyere anyị iwu.",
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nye anyị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "na-echebara izu ohi n'uche"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ka ọ rụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu niile a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "o nyere anyị iwu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:51:33.854218498Z",
+  "model": "glm-5.3"
+}

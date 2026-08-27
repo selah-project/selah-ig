@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 99,
+  "translation": "Ka ha too aha Gị, nke ukwu ma na-atụ ụjọ; nsọ ⟨⟩ ka Ị bụ.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Ka ha too"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha Gị"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "na-atụ ụjọ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ka Ị bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:48.142895047Z",
+  "model": "glm-5.3"
+}

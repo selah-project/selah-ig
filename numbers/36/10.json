@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Dịka Yahwe si nyere ⟨את⟩ Moshe ntiiwu, otu a ka ụmụnwaanyị Tselofehad mere.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere ntiiwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mere"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ụmụnwaanyị"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofehad"
+    }
+  ],
+  "timestamp": "2026-08-27T07:48:54.041177613Z",
+  "model": "glm-5.3"
+}

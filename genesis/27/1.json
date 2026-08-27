@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ọ dịkwa n'oge Yitschak agadiela, anya ya wee dizie anya n'ihi ọkpụkpụ anya, ruo na ọ nwughị ihe ọ hụrụ, ọ kpọkwara ⟨את⟩ Esav, nwa ya nke nta okenye, ma kwuo ya, \"Nwa m.\" O wee kwuo ya, \"Ebe m no.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "agadiela"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "dizie anya"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "anya ya"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "n'ihi ọkpụkpụ anya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ọ kpọkwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nke nta okenye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma kwuo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee kwuo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ebe m no"
+    }
+  ],
+  "timestamp": "2026-08-27T05:42:08.925483833Z",
+  "model": "glm-5.3"
+}

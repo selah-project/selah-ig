@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "N'ihi na Yahwe, Elyon kachasị elu, na-atụ egwu dị ka eze ukwu n'elu ⟨the⟩ ụwa niile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon kachasị elu"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "na-atụ egwu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:21.011842814Z",
+  "model": "glm-5.3"
+}

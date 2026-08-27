@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 54,
+  "translation": "Maka ndị ọzọ biliri megide m, ma ndị ike na-achọ mkpụrụ obi m; ha etinyeghị Elohim n'ihu ha. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ndị ọzọ"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "biliri"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ma ndị ike"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ha etinyeghị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "n'ihu ha"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:45.099946204Z",
+  "model": "glm-5.3"
+}

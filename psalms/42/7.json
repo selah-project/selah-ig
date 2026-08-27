@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Elohim nke m, nefesh m na-adaba n'ime m; ya mere ka m na-echeta gị site n'ala Yarden, na Hermonim, site n'ugbo Mitzar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke m"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh m"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "na-adaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kpọmkwem"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "m na-echeta gị"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "site n'ala"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "na Hermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "site n'ugbo"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitzar"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:59.176970140Z",
+  "model": "glm-5.3"
+}

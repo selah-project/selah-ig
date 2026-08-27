@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "N'oge niile, uwe gị ka ọ bụrụ ⟨ọcha⟩, ma mmanụ a na-ete n'isi gị ekwesịghị ịla.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "n'oge niile"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ka ọ bụrụ"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "uwe gị"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "⟨ọcha⟩"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ma mmanụ a na-ete"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "isi gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekwesịghị"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ịla"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:31.936978863Z",
+  "model": "glm-5.3"
+}

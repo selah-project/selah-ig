@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ndị eze nke mba niile, ha niile, dina n'ihe ùgwù, onye ọ bụla n'ụlọ ya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ndị eze nke"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "ha dina"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "n'ihe ùgwù"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "n'ụlọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:39:46.369349514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 81,
+  "translation": "M bụ Yahwe, Elohim gị, onye kpọgara gị n'elu si n'ala Mitzrayim; Mepee ọnụ gị obosara, m ga-ejupụta ya.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "M"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "onye kpọgara gị n'elu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "si n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "Mepee obosara"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ọnụ gị"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "m ga-ejupụta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:38.349461787Z",
+  "model": "glm-5.3"
+}

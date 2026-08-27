@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Ha chọrọ ihe ọchụ na mmanụ n'ọzara, wee nwalee El na Yishimon.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "Ha chọrọ ihe ọchụ"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "ihe ọchụ na mmanụ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "wee nwalee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "na Yishimon"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:35.865865082Z",
+  "model": "glm-5.3"
+}

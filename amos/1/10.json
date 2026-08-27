@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "M ga-eziga ọkụ n'elu mgbidi Tzor, ọ ga-eri obí elu ya.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "M ga-eziga"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "n'elu mgbidi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tzor"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ọ ga-eri"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "obí elu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:44:43.625358071Z",
+  "model": "glm-5.3"
+}

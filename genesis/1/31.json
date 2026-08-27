@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Elohim hụrụ ⟨את⟩ ihe niile ọ mere, le, ọ dị mma nke ukwuu. Ma e biri mgbede, ma e biri ụtụtụ — ụbọchị nke isii.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ma ọ hụrụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile ọ mere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ọ mere"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ma e biri"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mgbede"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ma e biri"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ụtụtụ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "nke isii"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:28.395879556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "O wee mee kerubim abụọ nke ọla edo; ọrụ a kụrụ akụ ka o mere ha, site n'akụkụ abụọ nke ⟨את⟩ Kapporet ahụ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o wee mee"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ọrụ a kụrụ akụ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka o mere"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha (kerubim)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "site n'akụkụ abụọ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "nke akụkụ"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kapporet ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:39:40.341599440Z",
+  "model": "glm-5.3"
+}

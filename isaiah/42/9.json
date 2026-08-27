@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "⟨Ihe⟩ ndị mbụ, le, ha#abịala, ma ihe ọhụrụ m na-eme ka ọ pụta ìhè; tupu ha atọ, m na-eme ka ị nụ.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "⟨Ihe⟩ ndị mbụ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ha#abịala"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "ma ihe ọhụrụ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "na-eme ka ọ pụta ìhè"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "tupu"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "ha atọ"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "m na-eme ka ị nụ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "gị (ndị gee ntị)"
+    }
+  ],
+  "timestamp": "2026-08-27T10:56:42.331231238Z",
+  "model": "glm-5.3"
+}

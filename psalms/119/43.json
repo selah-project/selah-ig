@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ekwela ka ịghasa kpamkpam okwu eziokwu n'ọnụ m; n'ihi na n'ikpe gị ka echere m.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "ịghasa"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "n'ọnụ m"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "eziokwu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kpamkpam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "n'ikpe gị"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "echere m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:29.211775086Z",
+  "model": "glm-5.3"
+}

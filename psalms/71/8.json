@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "Ka ọnụ m jupụta n'otuto gị, na n'ùgwù gị ụbọchị niile.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "ka ... jupụta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "n'otuto gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "n'ùgwù gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:15.078673832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Mee ihe ọma nye ohu gị, ka m wee dị ndụ, m wee jide okwu gị.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "mee ihe ọma"
+    },
+    {
+      "surface": "על",
+      "gloss": "nye"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ka m wee dị ndụ"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "m wee jide"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "okwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:40.022832622Z",
+  "model": "glm-5.3"
+}

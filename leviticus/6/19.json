@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Onye-nchu-aja nke na-eme ya ka mmehie ga-eri ⟨את⟩ ya; n'ebe dị nsọ ka a ga-eri ya, n'ogige ahụikwuu nke nzukọ.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "Onye-nchu-aja"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "nke na-eme ka mmehie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "dị nsọ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "a ga-eri"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "n'ogige"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahụikwuu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nke nzukọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:44:42.267493057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Na ⟨את⟩ Yattir na ⟨את⟩ ahịa-ọzara ya, na ⟨את⟩ Eshtemoa na ⟨את⟩ ahịa-ọzara ya,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ahịa-ọzara ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:33.845076319Z",
+  "model": "glm-5.3"
+}

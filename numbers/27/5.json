@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Moshe wetara ikpe ha n'ihu Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wetara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikpe ha"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ikpe ha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:27:52.874385886Z",
+  "model": "glm-5.3"
+}

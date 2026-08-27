@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Mee ka m ghọta ụzọ iwu gì, m na-atụgharịkwa ihe ọchịchọ gị dị ọsọ isi.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "iwu gì"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "mee ka m ghọta"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "m na-atụgharịkwa"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "ihe ọchịchọ gị dị ọsọ isi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:34.655151196Z",
+  "model": "glm-5.3"
+}

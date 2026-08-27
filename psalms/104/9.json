@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Ọnụnọ gbalị ịnyịrị ka i si, agaghị ebefe ha, agaghị atụgharị ha ịzụọ ⟨את⟩ ụwa.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "ọnụnọ gbalị"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ka i si"
+    },
+    {
+      "surface": "בל",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "ebefe ha"
+    },
+    {
+      "surface": "בל",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "atụgharị ha"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "ịzụọ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:19.970062056Z",
+  "model": "glm-5.3"
+}

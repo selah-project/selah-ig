@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ọ̀ bụghị na dịka mmiri ara Ị wụsara m, ma dịka cheese Ị kpatụkọtara m?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ọ̀ bụghị na"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "dịka mmiri ara"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "Ị wụsara m"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "ma dịka cheese"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "Ị kpatụkọtara m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:40:56.415229660Z",
+  "model": "glm-5.3"
+}

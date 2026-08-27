@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Na maka nwanne ya nwaanyị, nwa agbọghọ na-amaghị nwoke, onye kacha nso ya, onye na-abụghị nke di ọ bụla — maka ya ka ⟨ọ⟩ nwere ike ịghọ unyi.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "na maka nwanne ya nwaanyị"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "nwa agbọghọ na-amaghị nwoke"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "onye kacha nso"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-abụghị"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨nwere⟩"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nke di ọ bụla"
+    },
+    {
+      "surface": "לה",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ịghọ unyi"
+    }
+  ],
+  "timestamp": "2026-08-27T07:01:37.117804371Z",
+  "model": "glm-5.3"
+}

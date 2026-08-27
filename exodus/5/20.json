@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ha zutere ⟨את⟩ Moshe na ⟨את⟩ Aharon, ha guzoro na-eche ha, ka ha na-apụ ⟨את⟩ n'aka Paroh.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "ha zutere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "ha guzoro"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "na-eche ha"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ka ha na-apụ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:39.132238583Z",
+  "model": "glm-5.3"
+}

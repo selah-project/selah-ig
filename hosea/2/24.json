@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "⟨Ụwa⟩ ga-aza ⟨את⟩ ọka wit, na ⟨את⟩ mmanya ọhụrụ, na ⟨את⟩ mmanụ oliv oku; ha ga-azakwa ⟨את⟩ Yizreel oku.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ga-aza oku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọka wit"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "ọka wit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mmanya ọhụrụ"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "mmanya ọhụrụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mmanụ oliv"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "mmanụ oliv"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ga-azakwa oku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-27T12:38:36.794366662Z",
+  "model": "glm-5.3"
+}

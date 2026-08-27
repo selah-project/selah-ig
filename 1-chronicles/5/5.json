@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Mikah nwa ya, Reayah nwa ya, Baal nwa ya.",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "Mikah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Reayah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:53:34.036340315Z",
+  "model": "glm-5.3"
+}

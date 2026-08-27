@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Onye bụ nwanyị dike a na-atụ Yahwe ụjọ? Ọ ga-enye ya ntụziaka n'ụzọ ọ ga-ahọrọ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "זה",
+      "gloss": "a"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "na-atụ ụjọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "ọ ga-enye ya ntụziaka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ọ ga-ahọrọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:10.086232809Z",
+  "model": "glm-5.3"
+}

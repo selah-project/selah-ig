@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 86,
+  "translation": "N'ihi na ihu ukwu ka ị bụ, na-eme ihe ndị di ịtụnanya, ị bụ Elohim naanị gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ihu ukwu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị bụ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ihe ndị di ịtụnanya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị bụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "naanị gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:04.431712786Z",
+  "model": "glm-5.3"
+}

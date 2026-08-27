@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Aharon ga-adọta ⟨את⟩ ewu nke ọrera rịgoro n'elu ya maka Yahwe, ma mee ya ka ọ bụrụ onyinye mmehie.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ga-adọta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ewu"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ewu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "rịgoro"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ọrera"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    },
+    {
+      "surface": "ו עשהו",
+      "gloss": "ma mee ya"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "onyinye mmehie"
+    }
+  ],
+  "timestamp": "2026-08-27T06:59:01.299362548Z",
+  "model": "glm-5.3"
+}

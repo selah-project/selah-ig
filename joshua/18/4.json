@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 18:4",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Họrọ maka unu ndị ikom atọ maka otu ebo n'ọ bụla, m ga-ezipụ ha, ha wee bilie, gaa ije gafee ⟨את⟩ ala ahụ, dee ya dịka nketa ha si dị, ha wee bịa nye m.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "họrọ maka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka unu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "maka ebo"
+    },
+    {
+      "surface": "ואשלחם",
+      "gloss": "m ga-ezipụ ha"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ha wee bilie"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ha na-agagharị"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "ha dee"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩-ya",
+      "marks": "ya (ala ahụ)"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "nketa ha"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha wee bịa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nye m"
+    }
+  ],
+  "timestamp": "2026-08-27T08:33:24.041022244Z",
+  "model": "glm-5.3"
+}

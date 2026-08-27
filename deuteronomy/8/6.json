@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Yabụ, gị na-edebe ⟨את⟩ iwu Yahwe Elohim gị, iji na-aga n'ụzọ Ya, na itụ ⟨את⟩ Ya egwu.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "gị na-edebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "iji na-aga"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "n'ụzọ Ya"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "na itụ egwu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:56:09.711908747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 17:19",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Maka Elohim wee sị: Kama nke ahụ, Sara nwunye gị ga-amụ gị nwa nwoke; ị ga-akpọkwa ⟨את⟩ aha ya Yitschak; m ga-edozikwa ⟨את⟩ ọgbụgba-ndụ m ⟨את⟩ ya dị ka ọgbụgba-ndụ ebighị ebi maka mkpụrụ ya mgbe ya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "kama"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "nwunye gị"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "ga-amụ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ị ga-akpọkwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "m ga-edozikwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (Yitschak)"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "dị ka ọgbụgba-ndụ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ebighị ebi"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "maka mkpụrụ ya"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mgbe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:35:37.615504600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Yahwe na-ekpe ụmụ mmadụ ikpe; kpe m ikpe, Yahwe, dịka mmesi obi m dị, na dịka ịdị ọcha m n'ime m.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "na-ekpe ikpe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ụmụ mmadụ"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "kpe m ikpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "dịka mmesi obi m dị"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "na dịka ịdị ọcha m"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'ime m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:05.998472558Z",
+  "model": "glm-5.3"
+}

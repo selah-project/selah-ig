@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Chiram pụtara na Tsọr ka ọ hụ ⟨את⟩ obodo ndị Shelomoh nyere ya, ma ha adịghị mma n'anya ya.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "na Tsọr"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ka ọ hụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ndị"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "obodo ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma... adịghị"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "n'anya ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:59:10.857874307Z",
+  "model": "glm-5.3"
+}

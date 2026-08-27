@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "Onye na-emeju gị ⟨the⟩ ezigbo ihe, ⟨the⟩ ihe ịchọ mma gị; ndụ gị na-emị ọhụrụ dịka nụrụ, ntọala obi ndị ntorobịa gị.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Onye na-emeju gị"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ezigbo ihe"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ihe ịchọ mma gị"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "na-emị ọhụrụ"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "dịka nụrụ"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "ntọala obi ndị ntorobịa gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:01.528202415Z",
+  "model": "glm-5.3"
+}

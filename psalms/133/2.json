@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 133,
+  "translation": "Dịka mmanụ ọma nke na-agbadata n'isi, na-eru n'akwụna, akwụna Aharon, nke na-agbadata ruo n'ọnụ uwe ya.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Dịka mmanụ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ọma"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "na-agbadata"
+    },
+    {
+      "surface": "על",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "akwụna"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "akwụna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "nke na-agbadata"
+    },
+    {
+      "surface": "על",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "uwe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:29.136149606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 32:15",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Mgbe m na-eme ⟨את⟩ ala Mitzrayim ọzara, ma ala jupụtara ihe ya na-akpọnwụ, mgbe m na-egbu ⟨את⟩ ndị niile na-ebi na ya, ha ga-amara na m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בתתי",
+      "gloss": "mgbe m na-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala Mitzrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ọzara"
+    },
+    {
+      "surface": "ונשמה",
+      "gloss": "ma na-akpọnwụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ממלאה",
+      "gloss": "jupụtara ihe ya"
+    },
+    {
+      "surface": "בהכותי",
+      "gloss": "mgbe m na-egbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị niile na-ebi na ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ndị na-ebi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ha ga-amara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T12:22:56.881016551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Eze ọhụrụ biliri n'elu Mitzrayim, onye na-amaghị ⟨את⟩ Yosef.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "biliri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ọhụrụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "maghị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:40.705926439Z",
+  "model": "glm-5.3"
+}

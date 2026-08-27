@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Nahor wee dịrị ndụ, mgbe ọ mụsịrị ⟨את⟩ Terach, afọ iri na itoolu na otu narị afọ, wee mụọ ụmụ nwoke na ụmụ nwanyị.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": " wee dịrị ndụ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ọ mụsịrị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "itoolu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iri na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na otu narị"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wee mụọ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na ụmụ nwanyị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:22.887707623Z",
+  "model": "glm-5.3"
+}

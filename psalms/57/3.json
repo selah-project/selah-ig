@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 57,
+  "translation": "M ga-akpọọ El Elyon, nye El onye na-emezu maka m.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "M ga-akpọọ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "nye El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "onye na-emezu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "maka m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:14.176352191Z",
+  "model": "glm-5.3"
+}

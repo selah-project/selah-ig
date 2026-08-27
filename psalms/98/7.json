@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 98,
+  "translation": "Oké osimiri ga-ajụ ju ya na ihe jupụtara ya; ụwa na ndị bi na ya.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "ga-ajụ ju"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ya na ihe jupụtara ya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "na ndị bi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:00.755768862Z",
+  "model": "glm-5.3"
+}

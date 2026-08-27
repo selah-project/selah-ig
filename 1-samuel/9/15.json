@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Yahwe meghere ⟨את⟩ ntị Shemuel otu ụbọchị tupu Shaul abịa, na-ekwu,",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "meghere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntị"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ntị"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tupu"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "abịa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:33:27.382390050Z",
+  "model": "glm-5.3"
+}

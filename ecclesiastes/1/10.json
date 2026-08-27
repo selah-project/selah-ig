@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ dịkwa okwu nke a ga-asị: Le, nke a bụ́ ihe ọhụrụ? Ọ dịla kemgbe oge ochie ruo ndị ndọrọ ndọrọ, nke dịkwaga tupu anyị.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Ọ dịkwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "nke a ga-asị"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ihe ọhụrụ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bụ́"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Ọ dịla kemgbe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "oge ochie ruo ndị ndọrọ ndọrọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dịkwaga"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "tupu anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:11:45.572961339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "Onke na-edozi ugwu ndị site n'ike ya, onke jiri ike kee ⟨onwe ya⟩.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "na-edozi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu ndị"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "site n'ike ya"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "kee"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "jiri ike"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:54.220752379Z",
+  "model": "glm-5.3"
+}

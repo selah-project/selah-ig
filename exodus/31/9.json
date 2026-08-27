@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "na ⟨את⟩ ebe ọkụ nke ọfu ọnụ yị ⟨את⟩ ngwá ya niile, na ⟨את⟩ ite mmiri nke ṅsacha, na ⟨את⟩ nnọdụ ya;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ebe ọkụ nke ọfu ọnụ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ebe ọkụ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nke ọfu ọnụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngwá ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwá ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ite mmiri nke ṅsacha"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "ite mmiri nke ṅsacha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nnọdụ ya"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "nnọdụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:32:39.338549189Z",
+  "model": "glm-5.3"
+}

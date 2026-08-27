@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Nakwa ìgwè atụrụ unu nakwa ehi unu, were ha, dịka unu kwuru, ma pụọ; ma gọzie mụ nakwa ⟨את⟩ mụ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "ìgwè atụrụ unu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "ehi unu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "were ha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "unu kwuru"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ma pụọ"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "ma gọzie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mụ",
+      "marks": "mụ (m)"
+    }
+  ],
+  "timestamp": "2026-08-27T06:18:36.675133779Z",
+  "model": "glm-5.3"
+}

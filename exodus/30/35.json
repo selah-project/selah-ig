@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Gị wee mee ⟨את⟩ ya ọsịsa, ngwakọta ihe-esi-isi ụtọ, ọrụ onye na-agwakọta ihe-esi-isi, nnu gwakọtara, dị ọcha, nsọ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Gị wee mee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (ọsịsa)"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ọsịsa"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ngwakọta ihe-esi-isi ụtọ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "onye na-agwakọta ihe-esi-isi"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "nnu gwakọtara"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:31:01.876972606Z",
+  "model": "glm-5.3"
+}

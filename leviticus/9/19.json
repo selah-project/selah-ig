@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ abụba nke ehi na nke atụrụ: ọdụ abụba, ihe na-ekpuchi akpa afọ, akụrụ abụọ, na nke dị n'elu imeju.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "abụba"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "abụba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nke"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na nke"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ọdụ abụba"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "ihe na-ekpuchi"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "akụrụ abụọ"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "ihe dị n'elu"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "imeju"
+    }
+  ],
+  "timestamp": "2026-08-27T06:49:30.342204202Z",
+  "model": "glm-5.3"
+}

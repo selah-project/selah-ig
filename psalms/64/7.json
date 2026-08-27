@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 64,
+  "translation": "Ha na-achọ akahịrị; anyị emechaala nchọcha echiche, na ime mmadụ na obi miri emi.",
+  "tokens": [
+    {
+      "surface": "יַחְפְּשׂוּ",
+      "gloss": "ha na-achọ"
+    },
+    {
+      "surface": "עֹלוֹת",
+      "gloss": "akahịrị"
+    },
+    {
+      "surface": "תַּמְנוּ",
+      "gloss": "anyị emechaala"
+    },
+    {
+      "surface": "חֵפֶשׂ",
+      "gloss": "nchọcha echiche"
+    },
+    {
+      "surface": "מְחֻפָּשׂ",
+      "gloss": "a na-achọ nke ọma"
+    },
+    {
+      "surface": "וְקֶרֶב",
+      "gloss": "na imeju"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "וְלֵב",
+      "gloss": "na obi"
+    },
+    {
+      "surface": "עָמֹק",
+      "gloss": "miri emi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:17.538654190Z",
+  "model": "glm-5.3"
+}

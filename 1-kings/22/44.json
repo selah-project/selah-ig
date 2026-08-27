@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 22:44",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ma naanị ⟨את⟩ ebe ofufe ndị dị elu, a hapụghị ya; ndị mmadụ ka na-egbu anụ ofufe ma na-ese ísì ụtọ n'ebe ofufe ndị dị elu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ma naanị"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ebe ofufe ndị dị elu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "hapụghị"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "na-egbu anụ ofufe"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ma na-ese ísì ụtọ"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "n'ebe ofufe ndị dị elu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:09:34.265374125Z",
+  "model": "glm-5.3"
+}

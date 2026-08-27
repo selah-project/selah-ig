@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Onye mere ma rụọ ya, onye na-akpọ ọgbọ ndị site na mmalite? M, Yahwe, onye mbụ, na ⟨את⟩ ndị ikpeazụ, m bụ onye ahụ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "mere"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ma rụọ ya"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "na-akpọ"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "ọgbọ ndị"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "site na mmalite"
+    },
+    {
+      "surface": "אני",
+      "gloss": "M"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "onye mbụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndị ikpeazụ"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ndị ikpeazụ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bụ onye ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:59:00.363990497Z",
+  "model": "glm-5.3"
+}

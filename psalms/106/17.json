@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "⟨Ọ⟩̄ mmeghe: ala mepere, ma mmiri riri Datan, ma kpuchie ọgbakọ Aviram.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "mepere"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ma riri"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ma kpuchie"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ọgbakọ"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Aviram"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:39.670394914Z",
+  "model": "glm-5.3"
+}

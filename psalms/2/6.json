@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Maka m, m etoola eze m n'elu Tsiyon, ugwu nsọ m.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "m etoola"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze m"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "nsọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:46.282457035Z",
+  "model": "glm-5.3"
+}

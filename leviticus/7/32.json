@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma ⟨את⟩ ukwu nke aka-nri ka unu ga-enye dịka onyinye ewelitere nye onye-nchu-aja, site n'ihe-egbu nke udo-unu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ Ma",
+      "marks": "ukwu nke aka-nri"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "nke aka-nri"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "unu ga-enye"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "onyinye ewelitere"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "nye onye-nchu-aja"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "site n'ihe-egbu"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "nke udo-unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:46:27.668373332Z",
+  "model": "glm-5.3"
+}

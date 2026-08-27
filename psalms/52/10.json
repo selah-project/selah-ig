@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "Ma mụ onwe m, dịka osisi oliv na-acha akwụkwọ ndụ n'ụlọ Elohim; m tụkwasịrị obi n'chesed nke Elohim, ruo mgbe ebighị ebi na ruo nbigharị.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ma mụ onwe m"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "dịka osisi oliv"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "na-acha akwụkwọ ndụ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "m tụkwasịrị obi"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "n'chesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na ruo nbigharị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:18.665119930Z",
+  "model": "glm-5.3"
+}

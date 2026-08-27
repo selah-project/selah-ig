@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "N'afọ nke atọ nke ọchịchị Yehoyakim, eze Yehudah, Nevukadnetstsar, eze Bavel, bịara Yerushalaim ma gbachie ya gburugburu.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "n'afọ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "nke ọchịchị"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ma gbachie gburugburu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:52:40.902571273Z",
+  "model": "glm-5.3"
+}

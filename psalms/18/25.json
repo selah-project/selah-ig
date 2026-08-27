@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ya mere, Yahwe weghachiri m dịka nzere m, dịka ịdị ọcha nke aka m n'ihu anya ya.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ya mere weghachiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "dịka nzere m"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "dịka ịdị ọcha nke"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "anya ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:38.004461099Z",
+  "model": "glm-5.3"
+}

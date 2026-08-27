@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Site n'ihu gị ka ikpe m ga-apụta; anya gị ga-ahụ ihe ziri ezị.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Site n'ihu gị"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ikpe m"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ga-apụta"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "anya gị"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "ga-ahụ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ihe ziri ezị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:30.430959619Z",
+  "model": "glm-5.3"
+}

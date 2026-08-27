@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ekele dịrị Yahwe, n'ihi na Ọ nụrụ olu arịrịọ m.",
+  "tokens": [
+    {
+      "surface": "בָּרוּךְ",
+      "gloss": "Ekele dịrị"
+    },
+    {
+      "surface": "יְהֹוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שָׁמַע",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "קוֹל",
+      "gloss": "olu"
+    },
+    {
+      "surface": "תַּחֲנוּנָי",
+      "gloss": "arịrịọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:08.939961660Z",
+  "model": "glm-5.3"
+}

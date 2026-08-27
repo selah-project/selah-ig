@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 147,
+  "translation": "Yahwe na-ewu Yerushalayim, ndị a chụpụrụ nke Yisrael ⟨o⟩ na-achịkọta.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "na-ewu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "ndị a chụpụrụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Yisrael"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "na-achịkọta"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:08.964619528Z",
+  "model": "glm-5.3"
+}

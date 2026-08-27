@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 3:14",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "ya na ndị eze na ndị ndụmọdụ nke ⟨the⟩ ụwa, ndị na-ewu mkpọfu maka ha onwe ha.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "ויעצי",
+      "gloss": "na ndị ndụmọdụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ndị na-ewu"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mkpọfu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "maka ha onwe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:35:53.452838431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ma ị ga-ewebata ⟨את⟩ tebül ahụ, ma were hazie ⟨את⟩ ihe ndị a ga-ehazi na ya; ma ị ga-ewebata ⟨את⟩ kandụl ahụ, ma tinye ⟨את⟩ ọkụ ya.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "ma ị ga-ewebata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tebül ahụ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tebül ahụ"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "ma were hazie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ndị a ga-ehazi"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "ihe ndị a ga-ehazi na ya"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ma ị ga-ewebata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kandụl ahụ"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandụl ahụ"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkụ ya"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ọkụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:48.357576753Z",
+  "model": "glm-5.3"
+}

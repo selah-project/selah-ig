@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ọdachi ndị na-ekwu na ajọ bụ ihe ọma, na na ihe ọma bụ ajọ; ndị na-eme ka ọchịchịrị bụ ìhè, ma ka ìhè bụ ọchịchịrị; ndị na-eme ka ilu bụ ihe dị ụtọ, ma ka ihe dị ụtọ bụ ilu!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ọdacha"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ndị na-ekwu"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "na ajọ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "na ihe ọma"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ajọ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ndị na-eme"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ọchịchịrị"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ka ọ bụ ìhè"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ma ka ìhè"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "ọchịchịrị"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ndị na-eme"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ilu"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "ka ihe dị ụtọ"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "ma ka ihe dị ụtọ"
+    },
+    {
+      "surface": "למר",
+      "gloss": "ilu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:35:34.484955053Z",
+  "model": "glm-5.3"
+}

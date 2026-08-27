@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Elohim nyere ⟨את⟩ Daniyel chesed na ebere n'ihu onyeisi ndị e gburu agbụ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniyel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "na ebere"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "ndị e gburu agbụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:22:26.245246541Z",
+  "model": "glm-5.3"
+}

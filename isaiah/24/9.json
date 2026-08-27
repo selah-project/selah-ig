@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "N'abụ ha anaghị ṅụ mmanya; ihe ṅụ-nsi ga-adị ilu nye ndị na-aṅụ ya.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "n'abụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ha ṅụ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mmanya"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "ga-adị ilu"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ihe ṅụ-nsi"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "nye ndị na-aṅụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:46:02.120026062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ha anaghị agụọ akwụkwọ ⟨את⟩ ụmụ nwoke ndị a na-enye ⟨את⟩ ego n'aka ha iji nye ndị na-eme ọrụ ahụ, n'ihi na ha na-eme ya n'eziokwu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha anaghị"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "agụọ akwụkwọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ nwoke"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "⟨the⟩ ụmụ nwoke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "a na-enye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ego"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "⟨the⟩ ego"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "iji nye"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ndị na-eme"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "⟨the⟩ ọrụ ahụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "n'eziokwu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "na-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T10:21:08.341826667Z",
+  "model": "glm-5.3"
+}

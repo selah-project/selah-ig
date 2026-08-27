@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Yahwe wee sụrị Okwu n'aka Moshe, ka ọ na-asị,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ọ sụrị Okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ọ na-asị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:51:13.609161181Z",
+  "model": "glm-5.3"
+}

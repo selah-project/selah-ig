@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Shelomoh wee wuo ⟨את⟩ Gezer na ⟨את⟩ Beth-Choron nke dị n'ala.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wee wuo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Beth-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "nke dị n'ala"
+    }
+  ],
+  "timestamp": "2026-08-27T09:58:05.949011349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Maka onye-eduzi egwu, dịka ⟨nke⟩ Shushan-Eduth, mikhtam nke David, iji kuziri.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye-eduzi egwu"
+    },
+    {
+      "surface": "על",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "iji kuziri"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:33.967049194Z",
+  "model": "glm-5.3"
+}

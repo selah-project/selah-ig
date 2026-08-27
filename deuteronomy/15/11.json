@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "N'ihi na onye ogbenye agaghị akwụsị n'etiti ⟨ala⟩; ya mere m na-enye gị iwu, sị: Mepe ka ị ga-emepe ⟨את⟩ aka gị nye nwanne gị, nye onye n'ụkọ gị na onye ogbenye gị, n'ala gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "akwụsị"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ala⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya mere (n'ihi)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "na-enye gị iwu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Mepe ka"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ga-emepe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka gị"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "onye n'ụkọ gị"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "onye ogbenye gị"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "n'ala gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:02:09.239835210Z",
+  "model": "glm-5.3"
+}

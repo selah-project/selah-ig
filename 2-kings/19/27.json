@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ma m maara ohere ị nọdụrụ, na ịpụ gị, na ịbata gị, na ⟨את⟩ iwe gị na-ewe m.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ohere ị nọdụrị"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "na ịpụ gị"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "na ịbata gị"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "m maara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iwe gị"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "iwe gị"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na-ewe m"
+    }
+  ],
+  "timestamp": "2026-08-27T10:27:19.109919773Z",
+  "model": "glm-5.3"
+}

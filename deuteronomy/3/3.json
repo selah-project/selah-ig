@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Yahwe, Elohim anyị, we nye n'aka anyịkwa ⟨את⟩ Og, eze Bashan, na ⟨את⟩ ndị ya niile; anyị wee kụọ ya aka ruo mgbe echefughị onye ndọrọ ya aka ọzọ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ọ wee nye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "n'aka anyị"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og, eze Bashan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na",
+      "marks": "ndị ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "anyị wee kụọ ya aka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "na-echefu"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "onye ndọrọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "onye ndọrọ aka ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:51:04.731560660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma ọ bụrụ na korban ọ na-ebute bụ ndẹr ma ọ bụ nke ọchịchọ onwe, a ga-eri ya n'ụbọchị ọ na-ewebata ⟨את⟩ onu-ogbu ya; a ga-eri ihe fadụrụ site na ya n'ụbọchị echi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ndẹr"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "nke ọchịchọ onwe"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "onu-ogbu"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korban ya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "ọ na-ewebata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onu-ogbu ya"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a ga-eri"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "n'ụbọchị echi"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "ihe fadụrụ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "site na ya"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a ga-eri"
+    }
+  ],
+  "timestamp": "2026-08-27T06:46:02.496448979Z",
+  "model": "glm-5.3"
+}

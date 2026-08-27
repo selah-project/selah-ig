@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 5:10",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "M ga-ebibi obodo ndị dị n'ala gị, ma m ga-akụfu ebe mgbaba gị niile.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "m ga-ebibi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo ndị"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "n'ala gị"
+    },
+    {
+      "surface": "והרסתי",
+      "gloss": "ma m ga-akụfu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "ebe mgbaba gị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:51:46.282451389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Maka Aza ga-abụ ⟨nke a gbahapụrụ⟩, Ashkelon ga-abụ mkpọmkpọ ebe; Ashdod, etiti ehihie ha ga-achụpụ ya, Ekron ga-agbapụrụ mgbọrọgwụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "nke a gbahapụrụ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "mkpọmkpọ ebe"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "etiti ehihie"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "ha ga-achụpụ ya"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "ga-agbapụrụ mgbọrọgwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:01:11.131668834Z",
+  "model": "glm-5.3"
+}

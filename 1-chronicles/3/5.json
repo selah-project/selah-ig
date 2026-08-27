@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma a mụrụ ụmụ ndị a maka ya na Yerushalayim: Shimea, na Shovav, na Natan, na Shelomo — anọ — nke Bat-Shua, nwa nwanyị Ammiel, mụrụ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ụmụ ndị a"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "a mụrụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "na Shovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "na Shelomo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "nke Bat-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    }
+  ],
+  "timestamp": "2026-08-27T15:52:59.677173052Z",
+  "model": "glm-5.3"
+}

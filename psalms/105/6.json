@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Mkpụrụ nke Avraham, odibo ya; ụmụ Yaakov, ndị o họọrọ",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Mkpụrụ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "odibo ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "ndị o họọrọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:35.011694680Z",
+  "model": "glm-5.3"
+}

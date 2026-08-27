@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ka ụzọ ha bụrụ ọchịchịrị na ihe ntụgharị, ma onye-ozi Yahwe na-achụ ha.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ka ọ bụ"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ụzọ ha"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ọchịchịrị"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "na ihe ntụgharị"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ma onye-ozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "na-achụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:57.696635473Z",
+  "model": "glm-5.3"
+}

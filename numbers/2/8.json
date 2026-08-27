@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Na ndị agha ya, na ndị e gụrụ ha, ⟨bụ⟩ puku iri ise na asaa na narị anọ.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "na ndị agha ya"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "na ndị e gụrụ ha"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "iri ise"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:12:17.676420762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 29:35",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "O zuru ime ọzọ, mụrụ nwa nwoke, wee sị: Oge a, m ga-eto ⟨את⟩ Yahwe; ya mere ọ kpọrọ aha ya Yehuda; ọ kwụsịrị ịmụ nwa.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "o zuru ime"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "oge a"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "m ga-eto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mere"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "ọ kpọrọ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ọ kwụsịrị"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "ịmụ nwa"
+    }
+  ],
+  "timestamp": "2026-08-27T05:44:39.331682550Z",
+  "model": "glm-5.3"
+}

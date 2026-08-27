@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Ekwere na ikpe ziri ezi bụ ⟨ndabere⟩ nke ocheeze gị; chesed na eziokwu na-aga n'ihu n'ihu gị.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ekwere"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na ikpe ziri ezi"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "⟨ndabere⟩"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "nke ocheeze gị"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na eziokwu"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "na-aga n'ihu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "n'ihu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:21.581164329Z",
+  "model": "glm-5.3"
+}

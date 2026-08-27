@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Dịka ha jiri ba n'ụsọ, otu ahụ ka ha mebiri iwu m; utu ha m ga-agbanwe ka ọ bụrụ ihere.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "dịka ịba nke ha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu ahụ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ha mebiri iwu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "utu ha"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "n'ihere"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "m ga-agbanwe"
+    }
+  ],
+  "timestamp": "2026-08-27T12:39:40.275574771Z",
+  "model": "glm-5.3"
+}

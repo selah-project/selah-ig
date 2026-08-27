@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ka ha bulie Ya elu n'ọgbakọ nke ndị mmadụ, ma too Ya n'oche ndị okenye.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Ka ha bulie Ya elu"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "n'ọgbakọ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nke ndị mmadụ"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "n'oche"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "ma too Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:34.571965533Z",
+  "model": "glm-5.3"
+}

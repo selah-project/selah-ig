@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ekwela obi ụtọ, onye iro m, n'ihi m; n'ihi na m daala, m ebilila; mgbe m nọrọ n'ọchịchịrị, Yahwe bụ ìhè m.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "obi ụtọ"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "onye iro m"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n'ihi m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "m daala"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "m ebilila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "m nọrọ"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "n'ọchịchịrị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìhè"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T12:57:18.194465471Z",
+  "model": "glm-5.3"
+}

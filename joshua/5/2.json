@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 5:2",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "N'oge ahụ, Yahwe gwara Yehoshua, sị: Mee gị onwe gị mmaa nkume siri ike, wee laghachi, pịa akpụ ⟨את⟩ ụmụ Yisrael nke ugboro abụọ.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "N'oge"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sị"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Mee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị onwe gị"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mmaa"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "nkume siri ike"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "wee laghachi"
+    },
+    {
+      "surface": "מל",
+      "gloss": "pịa akpụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "nke ugboro abụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:23:47.489512007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "Onye nwere ebere na onye nwere ọmịiko, Yahwe, jiri nwayọọ wee iwe, ukwuu na chesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Onye nwere ebere"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "onye nwere ọmịiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "jiri nwayọọ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "wee iwe"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ukwuu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:01.528765037Z",
+  "model": "glm-5.3"
+}

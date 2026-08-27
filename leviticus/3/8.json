@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọ ga-etinye ⟨את⟩ aka ya n'isi onyinye ya, ma gbuo ya n'ihu ụlọ nzukọ, ma ụmụ Aharon ga-etinye ⟨את⟩ ọbara ya n'elu ebe ịchụàjà gburugburu.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ọ ga-etinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka ya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "onyinye ya"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ma gbuo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (anụ ahụ)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ga-etinye gbasaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọbara ya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ọbara ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:39.020485897Z",
+  "model": "glm-5.3"
+}

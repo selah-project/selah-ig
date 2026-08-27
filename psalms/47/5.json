@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "Ọ họọrọrọ anyị ⟨את⟩ ihe-nketa anyị, ⟨את⟩ ùgwù Yaakov, nke ọ hụrụ n'anya. Selah.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "ọ họọrọrọ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe-nketa anyị"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "ihe-nketa anyị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ùgwù Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ùgwù"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ọ hụrụ n'anya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:42.093346695Z",
+  "model": "glm-5.3"
+}

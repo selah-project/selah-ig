@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 2:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Na osisi ọ bụla nke <n>ọhịa<\/n> ahụ, <n>mgbe ọ na-adịbeghị<\/n> n'ụwa, na ahịhịa ọ bụla nke <n>ọhịa<\/n> ahụ, <n>mgbe ọ na-amịbeghị<\/n> mkpụrụ — n'ihi na Yahwe Elohim enyeghị <n>mmiri ozuzo<\/n> n'elu <n>ụwa<\/n> ahụ, ma <n>mmadụ<\/n> adịghịkwa ịrụ ⟨את⟩ <n>ala<\/n> ahụ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na ọ bụla"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "osisi ọ bụla"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "nke ọhịa ahụ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "mgbe ọ na-adịbeghị"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ọ na-adị"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ahịhịa ọ bụla"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ahịhịa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "nke ọhịa ahụ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "mgbe ọ na-amịbeghị"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "ọ na-amị mkpụrụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enye-ghị"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "enyeghị mmiri ozuzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa ahụ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ma mmadụ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ịrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ahụ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ala ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:01.916902114Z",
+  "model": "glm-5.3"
+}

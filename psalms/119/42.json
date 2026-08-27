@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Mgbe ahụ ka m ga-eso onye na-emebiga m ihe nzaghachi okwu, n'ihi na m daberegide na okwu gị.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ka m ga-aza"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "onye na-emebiga m ihe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu\/nzaghachi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "m daberegide"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "na okwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:42.448846852Z",
+  "model": "glm-5.3"
+}

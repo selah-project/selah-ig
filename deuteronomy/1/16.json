@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma m nyere ⟨את⟩ ndị ikpe unu iwu n'oge ahụ, na-asị: Nunụ okwu ndị dị n'etiti ndị nwanne unu, ma kpee ikpe ziri ezi n'etiti nwoke na nwanne ya, na n'etiti onye obịbịa ya.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Ma m nyere iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ikpe unu"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "ndị ikpe unu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Nunụ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "okwu ndị dị n'etiti"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ndị nwanne unu"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "ma kpee ikpe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ziri ezi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na n'etiti"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na n'etiti"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "onye obịbịa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:29:32.785561450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'azụ, ụmụ Yaakov aha ya bụ Yisra'el ga-alaghachi, ha ga-achọ ⟨את⟩ Yahwe Elohim ha na ⟨את⟩ Dawid eze ha, ha ga-atụ egwu site na Yahwe na site na ọma Ya n'ụbọchị ikpeazụ.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "n'azụ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ga-alaghachi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ha ga-achọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim ha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid eze ha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "eze ha"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ha ga-atụ egwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "site na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na site na"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "ọma Ya"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "n'ụbọchị ikpeazụ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:37:21.927314124Z",
+  "model": "glm-5.3"
+}

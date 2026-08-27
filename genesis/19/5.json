@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ha kpọrọ ruo Lot, ha wee sọ ya: ọnọlụ ndị ikom ndị ahụ bụ́ ndị bịara gị n'abalị a? Kpọta ha nye anyị ka anyị mara ⟨את⟩ ha.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ha kpọrọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha wee sọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ọnọlụ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị ahụ bụ́ ndị"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "n'abalị a"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "kpọta ha"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nye anyị"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "ka anyị mara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T05:33:03.893246679Z",
+  "model": "glm-5.3"
+}

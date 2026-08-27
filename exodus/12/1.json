@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Yahwe gwara Moshe na Aharon n'ala Mitsrayim, ka o si:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka o si"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:44.127034054Z",
+  "model": "glm-5.3"
+}

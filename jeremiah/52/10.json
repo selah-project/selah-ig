@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "Eze Babilọn gbukwara ⟨את⟩ ụmụ Tsidkiahu n'ihu ya, o gbukwara ⟨את⟩ ndị isi Yehuda niile na Rivla.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "gbukwara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Tsidkiahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "o gbukwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị isi Yehuda niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "gburu"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "na Rivla"
+    }
+  ],
+  "timestamp": "2026-08-27T11:56:50.615471353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ị ka na-ebuli onwe gị elu megide ndị m, iji na-azọ izipụ ha?",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "ị ka"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "na-ebuli onwe gị elu"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "megide ndị m"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "iji na-azọ"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "izipụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:19.853025358Z",
+  "model": "glm-5.3"
+}

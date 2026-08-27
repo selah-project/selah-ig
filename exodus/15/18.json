@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Yahwe ga-achị ruo mgbe ebighị ebi, ruo ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ga-achị"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:16:09.553341751Z",
+  "model": "glm-5.3"
+}

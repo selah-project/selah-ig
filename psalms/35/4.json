@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ka ha ihere ma ṅụrịa, ha na-achụ ⟨ndụ⟩ m; ka ha laghachi azụ ma ṅụrịa, ha na-atụ ⟨njọ⟩ m.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Ka ha ihere"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ma ṅụrịa"
+    },
+    {
+      "surface": "mbqšy",
+      "gloss": ""
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ha na-achụ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨ndụ⟩ m"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ka ha laghichi azụ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "azụ"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ma ṅụrịa"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "ha na-atụ"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "⟨njọ⟩ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:14.823920101Z",
+  "model": "glm-5.3"
+}

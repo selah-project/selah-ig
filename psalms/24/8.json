@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Onye ka ọ bụ, Eze nke ùgwù a? Yahwe, onye ike na onye dike, Yahwe, dike nke agha.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "onye ka ọ bụ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "onye a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "nke ùgwù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "onye ike"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "na onye dike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "dike"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nke agha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:00.854090649Z",
+  "model": "glm-5.3"
+}

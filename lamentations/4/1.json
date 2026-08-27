@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Elee ka ọla edo si gbaa ọchịchịrị, ka ọla edo kacha mma si gbanwee! Nkume nke ebe dị nsọ ka a tụpụrụ n'isi okporo ụzọ niile.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "elee ka"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "gbaa ọchịchịrị"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "si gbanwee"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "ọla edo kacha mma"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨kacha mma⟩"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "ka a tụpụrụ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "nkume nke"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ebe dị nsọ"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "okporo ụzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:08:48.069787631Z",
+  "model": "glm-5.3"
+}

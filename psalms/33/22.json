@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ka chesed gị, Yahwe, dịrị anyị, dịka anyị nwere olileanya na gị.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ka ọ dịrị"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "dịrị anyị"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "anyị nwere olileanya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:39.059018158Z",
+  "model": "glm-5.3"
+}

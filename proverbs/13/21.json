@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ọjọọ na-achụ ndị mmehie n'ọnụ, ma nye ⟨את⟩ ndị ezi omume ọma.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "ndị mmehie"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "na-achụ n'ọnụ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ezi omume"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ndị ezi omume"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ga-akwụ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T14:21:41.869283736Z",
+  "model": "glm-5.3"
+}

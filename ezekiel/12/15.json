@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ha ga-amata na m bụ Yahwe, mgbe m kisasịrị ⟨אתם⟩ ha n'etiti mba ndị ọzọ, mgbe m gasasịrịkwa ⟨אתם⟩ ha n'ala ndị ọzọ.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ha ga-amata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "mgbe m kisasịrị"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "n'etiti mba ndị ọzọ"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "mgbe m gasasịrịkwa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "n'ala ndị ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:05:11.394187743Z",
+  "model": "glm-5.3"
+}

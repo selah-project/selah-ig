@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Maclon na Kilyon nwụkwara ha abụọ, nke ahụ bụ Maclon na Kilyon; nwanyị ahụ fọdụrụ na-enweghị ụmụ ya nke abụọ na di ya.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "ha nwụkwara"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ha abụọ"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Maclon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "na Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ọ fọdụrụ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nwanyị ahụ"
+    },
+    {
+      "surface": "משני",
+      "gloss": "site na abụọ"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "na site na di ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:06:00.874624764Z",
+  "model": "glm-5.3"
+}

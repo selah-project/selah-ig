@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 115,
+  "translation": "Yahwe chetara anyị; ọ ga-gọzie, ọ ga-gọzie ⟨את⟩ ụlụ Yisrael, ọ ga-gọzie ⟨את⟩ ụlụ Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "chetara anyị"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ọ ga-gọzie"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ọ ga-gọzie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlụ Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ọ ga-gọzie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlụ Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:23.489792601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Attai mụrụ ⟨את⟩ Natan, Natan mụrụ ⟨את⟩ Zabad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Attai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabad"
+    }
+  ],
+  "timestamp": "2026-08-27T15:51:07.446186842Z",
+  "model": "glm-5.3"
+}

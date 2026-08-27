@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Moshe were ⟨את⟩ mkpọ site n'ihu Yahwe, dịka o nyere ya iwu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpọ"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "⟨the⟩ mkpọ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "site n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "nyere ya iwu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:32:22.968537822Z",
+  "model": "glm-5.3"
+}

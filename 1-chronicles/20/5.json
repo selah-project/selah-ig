@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ma agha ọzọ pụtara ⟨את⟩ ndị Felishim; Elchanan nwa Yair gburu ⟨את⟩ Lachmi, nwanne Golyat ndị Gati, ma osisi ọsụ ya dị ka ogwe ndị na-atụ ákwà.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Ma agha ọzọ pụtara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "agha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Felishim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Felishim"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "gburu"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elchanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lachmi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Lachmi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nwanne"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ndị Gati"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ma osisi"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "ọsụ ya"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "ka ogwe"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "ndị na-atụ ákwà"
+    }
+  ],
+  "timestamp": "2026-08-27T16:02:43.246219021Z",
+  "model": "glm-5.3"
+}

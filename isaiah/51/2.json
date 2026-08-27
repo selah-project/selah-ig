@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Lelee Avraham nna unu, nakwa Sarah ⟨onye⟩ mụrụ unu; n'ihi na otu nwoke ka m kpọrọ oku, m gọziri ya, m wee mee ka ọ bụrụ ọtụtụ.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Lelee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "nna unu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "mụrụ unu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "m kpọrọ oku"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "m gọziri ya"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "m wee mee ka ọ bụrụ ọtụtụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:06:39.776865869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma nke a bụ iwu nke onyinye-ọka: ụmụ Aharon ga-enye ⟨את⟩ ya n'ihu Yahwe, ruo n'ihu ebe ịchụàjà.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ma nke a"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "onyinye-ọka"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ga-enye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụàjà"
+    }
+  ],
+  "timestamp": "2026-08-27T06:45:58.524475691Z",
+  "model": "glm-5.3"
+}

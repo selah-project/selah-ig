@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Mụ onwe m welitere unu elu site n'ala Mitzrayim, ma duzie unu n'ọzara afọ iri anọ, ka unu nwee ⟨את⟩ ala onye Amori.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "mụ onwe m"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "welitere unu elu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "site n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "ma duzie"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "afọ iri anọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ka unu nwee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala onye Amori"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "onye Amori"
+    }
+  ],
+  "timestamp": "2026-08-27T12:44:37.805529349Z",
+  "model": "glm-5.3"
+}

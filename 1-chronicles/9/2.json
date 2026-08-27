@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 9:2",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ndị mbụ bi n'ihe nketa ha n'obodo ha bụ ndị Izrel, ndị nchụàjà, ndị Livaị, na ndị Netinim.",
+  "tokens": [
+    {
+      "surface": "והיושבים",
+      "gloss": "na ndị bi"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ndị mbụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "באחזתם",
+      "gloss": "n'ihe nketa ha"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "n'obodo ha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchụàjà"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ndị Livaị"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "na ndị Netinim"
+    }
+  ],
+  "timestamp": "2026-08-27T15:58:09.811727050Z",
+  "model": "glm-5.3"
+}

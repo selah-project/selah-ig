@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Yahwe Elohim m, akpọkuola m gị, ma ị gụọla m ọzọ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "akpọkuola m"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "ma ị gụọla m ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:17.697706809Z",
+  "model": "glm-5.3"
+}

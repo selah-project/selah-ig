@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma Avraham gara, dịka Yahwe sịrị ya; ma Lot gara ⟨את⟩ ya; ma Avraham bụrụ nwa afọ ise na iri asaa mgbe ọ pụsịrị na Haran.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ma ... gara"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sịrị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ma ... gara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Avraham)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "ma Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa afọ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ise"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na iri asaa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "mgbe ọ pụsịrị"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "na Haran"
+    }
+  ],
+  "timestamp": "2026-08-27T05:31:24.603057143Z",
+  "model": "glm-5.3"
+}

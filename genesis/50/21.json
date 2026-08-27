@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Ma ugbu a, atụla egwu; mụ onwe m ga-elekọta unu na ụmụ unu ndị keere. O ṅụrịrị ha mma, wee kwuo n'obi ha okwu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ma ugbu a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "atụla"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "egwu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mụ onwe m"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "ga-elekọta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụmụ unu ndị keere"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ụmụ unu ndị keere"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "o ṅụrịrị ha mma"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ma kwuo"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "obi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:06:26.309784066Z",
+  "model": "glm-5.3"
+}

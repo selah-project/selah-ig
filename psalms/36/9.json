@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ha ga-aṅụkwuo mmiri site na abụba nke ụlọ gị, na site n'osimiri nke ọṅụ ndụ gị, ị ga-eme ka ha ṅụọ.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "ha ga-aṅụkwuo mmiri"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "site na abụba"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nke ụlọ gị"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "na site n'osimiri"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "nke ọṅụ ndụ gị"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "ị ga-eme ka ha ṅụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:20.410452678Z",
+  "model": "glm-5.3"
+}

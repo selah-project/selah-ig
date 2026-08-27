@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Otu ihe ka m rịọrọ site n'aka ⟨את⟩ Yahwe — ⟨את⟩ nke ahụ ka m na-achọ: ịnọdụ n'ụlọ Yahwe ụbọchị ndụ m niile, ilele mma Yahwe, na ịchọgharị n'ụlọ nsọ ya.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "otu ihe"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ka m rịọrọ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "site n'aka ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ nke ahụ",
+      "marks": "ihe m na-achọ"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ka m na-achọ"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ịnọdụ m"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ndụ m"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "ilele"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "mma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "na ịchọgharị"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "n'ụlọ nsọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:52.168410263Z",
+  "model": "glm-5.3"
+}

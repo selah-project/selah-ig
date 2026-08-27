@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọzọkwa, ọ bụrụ na abụọ dina, okpomọkụ dị ha; ma maka otu, otu o si esi ekpo ọkụ?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ọzọkwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ha dina"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "okpomọkụ dị"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ma maka otu"
+    },
+    {
+      "surface": "איך",
+      "gloss": "otu o si esi"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ga-esi ekpo ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:11:47.147820649Z",
+  "model": "glm-5.3"
+}

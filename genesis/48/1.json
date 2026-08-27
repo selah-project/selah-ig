@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Ọ dakwasịrị n'ọnọdọ na okwu ndị a gasịrị, a gwara Yosef, sị: Le, nna gị arịa ọrịa. O wee were ụmụ ya nwoke abụọ n'akpakpa ya, ⟨את⟩ Menashhe na ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dakwasịrị"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "gasịrị"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a gwara"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "arịa ọrịa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o wee were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ya nwoke abụọ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya nwoke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'akpaakpa ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashhe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:02:34.383096700Z",
+  "model": "glm-5.3"
+}

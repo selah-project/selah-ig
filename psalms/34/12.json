@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Bịa, ụmụ m, nụrụ m; ụjọ Yahwe ka m ga-akụziri unu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "bia"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ m"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ụjọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "m ga-akụziri unu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:08.502595754Z",
+  "model": "glm-5.3"
+}

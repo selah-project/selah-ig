@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "N'ihi na otu a ka Yahwe nke ndị agha kwuru: Ọzọ otu ugboro, obere ihe ka ọ bụ, m na-ama ⟨את⟩ eluigwe na ⟨את⟩ ụwa na ⟨את⟩ oké osimiri na ⟨את⟩ ala kpọrọ nkụ jijiji.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu ugboro"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "obere ihe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ka ọ bụ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "na-ama jijiji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eluigwe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "oké osimiri"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala kpọrọ nkụ"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "ala kpọrọ nkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:00:31.244119933Z",
+  "model": "glm-5.3"
+}

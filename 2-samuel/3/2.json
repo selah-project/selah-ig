@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "A mụrụ ụmụ nwoke maka David na Chevron; nwa mbụ ya bụ Amnon, nke Akino-am nwanyị Izre-el.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "a mụrụ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "maka David"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "na Chevron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "nwa mbụ ya"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "nke Akino-am"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "nwanyị Izre-el"
+    }
+  ],
+  "timestamp": "2026-08-27T09:29:17.581391928Z",
+  "model": "glm-5.3"
+}

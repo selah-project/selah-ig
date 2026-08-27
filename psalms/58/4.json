@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 58,
+  "translation": "Ndị ajọ omume a dịpụrụ site n'afọ; ha mehiere site n'ikpuru afọ, na-ekwu ụgha.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "a dịpụrụ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "site n'afọ"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ha mehiere"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "site n'ikpuru afọ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ụgha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:32.555131400Z",
+  "model": "glm-5.3"
+}

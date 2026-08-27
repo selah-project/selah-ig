@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "M ga-ekele ⟨את⟩ Yahwe n'oge niile; otu oge ahụ mgbe niile otuto ya ga-adị n'ọnụ m.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "m ga-ekele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'oge niile"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "otuto ya"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "n'ọnụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:25.414251536Z",
+  "model": "glm-5.3"
+}

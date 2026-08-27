@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ha ga-asị: N'ihi na ha hapụrụ ⟨את⟩ ọgbụgba-ndụ nke Yahwe, Elohim ha, ma na-efe chi ndị ọzọ, were jere ozi ha.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ha ga-asị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ha hapụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ha"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "na-efe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "chi ndị"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "were jere ozi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:30:33.676895187Z",
+  "model": "glm-5.3"
+}

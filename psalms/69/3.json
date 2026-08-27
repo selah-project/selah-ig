@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Amiimi n'ime uzọ miri emi, ma enweghị ebe guzo; abịala m n'ime omimi mmiri, ide mmiri gbara mkpọmkpọ m.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Amiimi"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "uzọ miri emi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma enweghị"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "ebe guzo"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "abịala m"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "n'ime omimi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "ide mmiri"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "gbara mkpọmkpọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:35.483285322Z",
+  "model": "glm-5.3"
+}

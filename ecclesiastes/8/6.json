@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Maka maka olile ọ bụla dị oge na ikpe ziri ezi; ma ihe ọjọọ nke mmadụ dị arọ n'elu ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka olile ọ bụla"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "olile"
+    },
+    {
+      "surface": "יש",
+      "gloss": "dị"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na ikpe ziri ezi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nke mmadụ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "dị arọ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:19.698725878Z",
+  "model": "glm-5.3"
+}

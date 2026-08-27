@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 115,
+  "translation": "Arụsị ha bụ ọla ọcha na ọla edo, ọrụ aka ụmụ mmadụ.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "arụsị ha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọla ọcha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na ọla edo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ụmụ mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:35.535149896Z",
+  "model": "glm-5.3"
+}

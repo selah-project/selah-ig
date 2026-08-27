@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Saa m nke ọma n'aka ihe ọjọọ m, ma mezie m ọcha site n'emehie m.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "nke ọma"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "saa m"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "n'aka ihe ọjọọ m"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "ma site n'emehie m"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "mezie m ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:48.359492155Z",
+  "model": "glm-5.3"
+}

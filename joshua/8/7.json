@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Mgbe ahụ, unu ga-esi n'ebe nzuzo bilie, wee nweta ⟨את⟩ obodo ahụ, Yahwe Elohim unu ga-enye ya n'aka unu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "ga-ebili"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "site n'ebe nzuzo"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "ga-enweta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ahụ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ga-enye ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "n'aka unu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:26:40.293975168Z",
+  "model": "glm-5.3"
+}

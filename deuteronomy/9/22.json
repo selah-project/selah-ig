@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma na Taberah, na na Massah, na na Kibroth-HaTaavah, unu na-akwa Yahwe iwe.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "ma na Taberah"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "na na Massah"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "na na Kibroth"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "HaTaavah"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "na-akwa iwe"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "unu bụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:56:22.499497714Z",
+  "model": "glm-5.3"
+}

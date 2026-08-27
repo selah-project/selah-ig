@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Ka idei mmiri ghara ịju m aka, ka omimi ghara ịmịrị m n'iyi, ka olulu ghara ịmechi ọnụ ya n'elu m.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "ịju m aka"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "idei"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "ịmịrị m n'iyi"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "omimi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "ịmechi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    },
+    {
+      "surface": "באר",
+      "gloss": "olulu"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ọnụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:03.990823355Z",
+  "model": "glm-5.3"
+}

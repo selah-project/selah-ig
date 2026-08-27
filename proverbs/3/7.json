@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọ dịla ka ị bụ onye-amamihe n'anya gị; tụọ Yahwe egwu, ma ṅụọ okwukwe site n'ọjọọ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ọ dịla"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ka ị bụ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "onye-amamihe"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "n'anya gị"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "tụọ egwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ma ṅụọ okwukwe"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "site n'ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:12:13.161753595Z",
+  "model": "glm-5.3"
+}

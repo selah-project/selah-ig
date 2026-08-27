@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ndị a bụ ụmụ Shem, dịka ezinụlọ ha, dịka asụsụ ha, n'ala ha, dịka mba ha.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dịka ezinụlọ ha"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "dịka asụsụ ha"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "n'ala ha"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "dịka mba ha"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:09.096288584Z",
+  "model": "glm-5.3"
+}

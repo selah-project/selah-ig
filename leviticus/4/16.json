@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Onye nchụàjà e-tere mmanụ ga-ewebata ụfọdụ n'ọbara ehi ahụ n'ụlọikwuu nzukọ.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ga-ewebata"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "e-tere mmanụ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ụfọdụ n'ọbara"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "nke ehi ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ụlọikwuu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:44:42.155845938Z",
+  "model": "glm-5.3"
+}

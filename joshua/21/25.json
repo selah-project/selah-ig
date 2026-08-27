@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma site n'ọkara nke okpuru Menashshe, ⟨את⟩ Taanak na ⟨את⟩ ala-ógbè ya, na ⟨את⟩ Gath-Rimmon na ⟨את⟩ ala-ógbè ya; obodo abụọ.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "site n'ọkara"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "okpuru"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanak"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-ógbè ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ala-ógbè ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gath-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-ógbè ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ala-ógbè ya"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "abụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:55.125253819Z",
+  "model": "glm-5.3"
+}

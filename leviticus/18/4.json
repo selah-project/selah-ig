@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "⟨את⟩ ikpe m ka unu ga-eme, ⟨את⟩ iwu m ka unu ga-echebe, iji na-agagharị n'ime ha; mụ bụ Yahwe, Elohim unu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikpe m"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ikpe m"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "unu ga-eme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iwu m"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "unu ga-echebe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "iji na-agagharị"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'ime ha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ bụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:56:47.073796398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ị bụ́, O Yahwe, ga-echebe ha; Ị ga-echebe anyị site n'ọgbọ a ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ị bụ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahwe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "ga-echebe ha"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "ga-echebe anyị"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ọgbọ a"
+    },
+    {
+      "surface": "זו",
+      "gloss": "a"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:20.492077452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Nzissa nke onye zuru oku ga-edo ụzọ ya; onye ọjọọ ga-adа аda n'ọjọọ ya.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "nzissa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "onye zuru oku"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "ga-edo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ụzọ ya"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "ma n'ọjọọ ya"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ga-ada"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:20:27.063309487Z",
+  "model": "glm-5.3"
+}

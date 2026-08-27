@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "N'ihi na ebili nke ọnwụ gbara m gburugburu, mmiri ozuzo nke Belial tụrụ m egwu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "gbara m gburugburu"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "ebili"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "mmiri ozuzo"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "tụrụ m egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T09:43:13.143875022Z",
+  "model": "glm-5.3"
+}

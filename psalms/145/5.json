@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Opu mma nke ùgwù mara mā nke ⟨gị⟩, na okwu nke ihe iju-anya ⟨gị⟩, ka m na-atụgharị n'obi.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "opu mma"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ùgwù mara mā"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "nke ⟨gị⟩"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "na okwu"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "nke ihe iju-anya ⟨gị⟩"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ka m na-atụgharị n'obi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:08.735529780Z",
+  "model": "glm-5.3"
+}

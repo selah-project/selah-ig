@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ butere m ⟨את⟩ ruo n'ọnụ ụzọ ámá ahụ; m lelere, ma le: oghere otu n'ime mgbidi ahụ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ọ butere"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "n'ọnụ ụzọ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ámá ahụ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "m lelere"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ma le"
+    },
+    {
+      "surface": "חר",
+      "gloss": "oghere"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "n'ime mgbidi ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:01:17.490315217Z",
+  "model": "glm-5.3"
+}

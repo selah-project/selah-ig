@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "N'ihi na chesed ka m chọrọ, ọ bụghị ịchụ anụ; na ịmara Elohim karịa ọkụ ọfụfụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ka m chọrọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ịchụ anụ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "na ịmara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "karịa ọkụ ọfụfụ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:38:24.418235481Z",
+  "model": "glm-5.3"
+}

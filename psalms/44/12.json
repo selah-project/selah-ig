@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Ị na-enye anyị dịka atụrụ a na-eri, ma n'etiti mba ndị ọzọ ka ị gbasasịrị anyị.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Ị na-enye anyị"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "dịka atụrụ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "a na-eri (nri)"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "ma n'etiti mba ndị ọzọ"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "ị gbasasịrị anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:56.980847444Z",
+  "model": "glm-5.3"
+}

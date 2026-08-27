@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Eze wepụrụ ⟨את⟩ mgbanaka ya n'aka ya, wee nye ya Haman nwa Hamdata onye Agagi, onye iro ndị Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "wepụrụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgbanaka ya"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "mgbanaka ya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "site na"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "wee nye ya"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "onye Agagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "onye iro"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ndị Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-27T15:19:23.386181866Z",
+  "model": "glm-5.3"
+}

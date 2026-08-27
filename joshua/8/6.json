@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ha ga-esọ gị azụ ruo mgbe anyị dọtara ⟨את⟩ ha pụọ n'obodo ahụ, n'ihi na ha ga-asị, Ha na-agba ọsọ n'ihu anyị dịka nke mbụ; anyị ga-agba ọsọ n'ihu ha.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ha ga-esọ"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "gị azụ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "anyị dọtara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pụọ na"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ha ga-asị"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "ha na-agba ọsọ"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "n'ihu anyị"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "anyị ga-agba ọsọ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "n'ihu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:26:40.293801077Z",
+  "model": "glm-5.3"
+}

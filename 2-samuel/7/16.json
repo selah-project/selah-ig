@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 7:16",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma ụlọ gị na alaeze gị ga-adịgide ruo mgbe ebighị ebi n'ihu gị; ocheeze gị ga-adị mma guzoru ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "ונאמן",
+      "gloss": "ga-adịgide"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ụlọ gị"
+    },
+    {
+      "surface": "וממלכתך",
+      "gloss": "alaeze gị"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ocheeze gị"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "mma guzoru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T09:31:37.998423011Z",
+  "model": "glm-5.3"
+}

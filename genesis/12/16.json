@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Maka Avram ka ọ mesoo nke ọma n'ihi ya, o nwekwara atụrụ, ehi, ịnyịnya nwoke, ohu nwoke, ohu nwanyị, ịnyịnya nwanyị, na kamel.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "Maka Avram"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ọ mesoo nke ọma"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o nwekwara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "ịnyịnya nwoke"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "ohu nwoke"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "ohu nwanyị"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "ịnyịnya nwanyị"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "kamell"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:51.049069008Z",
+  "model": "glm-5.3"
+}

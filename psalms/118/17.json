@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "Agaghị m anwụ, kama m ga-ebi ndụ, m ga-akọwapụta ọrụ Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "m anwụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "m ga-ebi ndụ"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "m ga-akọwapụta"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:41.927092490Z",
+  "model": "glm-5.3"
+}

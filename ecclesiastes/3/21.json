@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Onye ma ruach ụmụ mmadụ, ⟨nke⟩ na-arịgo elu, ma ọ bụ ruach anụ ụlọ, ⟨nke⟩ na-adabara ala?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ma"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "na-arịgo elu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ọ⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "elu"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ma ruach"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "anụ ụlọ"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "na-adabara"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ọ⟩"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "n'ala"
+    }
+  ],
+  "timestamp": "2026-08-27T15:11:44.931957335Z",
+  "model": "glm-5.3"
+}

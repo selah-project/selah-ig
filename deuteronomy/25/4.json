@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ị gaghị emee ọnụ ehi mkpọsitere mgbe ọ na-akụ ọka ya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ị gaghị"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "emee ọnụ mkpọsitere"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "mgbe ọ na-akụ ọka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:08:31.734003273Z",
+  "model": "glm-5.3"
+}

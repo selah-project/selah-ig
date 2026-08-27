@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ zipụtakwara ⟨את⟩ nduru site n'⟨את⟩ ya, ịhụ ma mmiri adala laa site n'elu ihu ala.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ọ zipụtakwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nduru"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "nduru"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "site n'⟨את⟩ ya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ịhụ"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "adala"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "site n'elu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ala"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:48.917465750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Moshe nyere ⟨את⟩ ndị mmadụ iwu n'ụbọchị ahụ, sị:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị mmadụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:08:04.509960246Z",
+  "model": "glm-5.3"
+}

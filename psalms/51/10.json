@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Mee m nụọ obi ụtọ na ndunwe; kee ọkpụkpụ ndị Ị kụrụ jaala.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "mee m nụọ"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "obi ụtọ"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "na ndunwe"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "kee ... jaala"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ọkpụkpụ"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "Ị kụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:22.520330528Z",
+  "model": "glm-5.3"
+}

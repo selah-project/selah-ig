@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 129,
+  "translation": "Nke onye na-ewe ihe ọjọọ na-adọghị aka ya ju, na nke na-ekpokọta ihe a kụrụ, ọ̀tụ̀ ya agaghị ejupụta.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "nke... ọ dịghị"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ju"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "onye na-ewe ihe ọjọọ"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ọ̀tụ̀ ya"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "onye na-ekpokọta ihe a kụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:03.305197436Z",
+  "model": "glm-5.3"
+}

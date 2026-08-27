@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Maka ndị nsọ ndị dị n'ụwa — ha bụ ndị pụrụ ichɛ; mmasị m niile dị ná ha.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "Maka ndị nsọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "ndị pụrụ ichɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "mmasị m"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ná ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:01.383950022Z",
+  "model": "glm-5.3"
+}

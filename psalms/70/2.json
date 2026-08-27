@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 70,
+  "translation": "Elohim, ka ịzọpụta m; Yahwe, ka ịnyere m aka, mee ngwa!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "ka ịzọpụta m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ka ịnyere m aka"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "mee ngwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:19.804296319Z",
+  "model": "glm-5.3"
+}

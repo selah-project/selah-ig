@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Nụọ okwu Yahwe, ndị isi Sedom; gee ntị na iwu nke Elohim anyị, mmadụ Amora.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Nụọ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "gee ntị"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    }
+  ],
+  "timestamp": "2026-08-27T16:38:14.916361688Z",
+  "model": "glm-5.3"
+}

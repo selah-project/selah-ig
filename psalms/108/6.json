@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 108,
+  "translation": "Buli elu eluigwe, Elohim, na elu ụwa niile ebube gị.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Buli elu"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ebube gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:04.656900618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Yahwe na-echebe ⟨את⟩ ndị hụrụ Ya n'anya niile, ma ⟨את⟩ ndị ajọ omume niile Ọ ga-ebibi.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "na-echebe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị hụrụ Ya n'anya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ndị hụrụ Ya n'anya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ajọ omume niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "Ọ ga-ebibi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:45.586814769Z",
+  "model": "glm-5.3"
+}

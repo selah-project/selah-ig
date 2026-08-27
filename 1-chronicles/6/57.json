@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Na site n'aka agbụrụ Yissaskar, ⟨את⟩ Kedesh na ⟨את⟩ ala-ọhịa ya, ⟨את⟩ Davrat na ⟨את⟩ ala-ọhịa ya.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na site n'aka agbụrụ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-ọhịa ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ala-ọhịa ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davrat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Davrat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-ọhịa ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ala-ọhịa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:14.357286592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 132,
+  "translation": "Abụ nke ịrịgo. Cheta, Yahwe, maka David, ⟨את⟩ ahụhụ ya niile:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nke ịrịgo"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Cheta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "maka David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahụhụ ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "ahụhụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:15.421331368Z",
+  "model": "glm-5.3"
+}

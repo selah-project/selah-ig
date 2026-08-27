@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ọ bụ ya ga-ewu m ụlọ, m ga-edozi ⟨את⟩ oche ọchịchị ya ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ ya"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ga-ewu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "m ga-edozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oche ọchịchị ya"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "oche ọchịchị ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T16:02:10.931893776Z",
+  "model": "glm-5.3"
+}

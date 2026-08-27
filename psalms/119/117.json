@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Kwado m, ka a zọpụta m, ka m na-adị nrọ n'iwu gị mgbe niile.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "Kwado m"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "ka a zọpụta m"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "ka m na-adị nrọ"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "n'iwu gị"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    }
+  ],
+  "timestamp": "2026-08-27T14:03:58.611415855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ruo mgbe ole, Yahwe, ka m na-eti mkpu, ma ị naghị anụ? M na-eti mkpu ikpe na-ezighị ezi gịnokwuru, ma ị naghị ezoputa?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "mgbe ole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "m na-eti mkpu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ị naghị"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "anụ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "m na-eti mkpu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gịnokwuru"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ike na-ezighị ezi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ị naghị"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ezoputa"
+    }
+  ],
+  "timestamp": "2026-08-27T12:57:58.715449296Z",
+  "model": "glm-5.3"
+}

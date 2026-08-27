@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Yehonatan wee zaa ⟨את⟩ Shaul nna ya, o wee sị ya, Mee gịnị ka a gbuo ya? O mere gịnị?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wee zaa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul nna ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mee gịnị"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ka a gbuo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    }
+  ],
+  "timestamp": "2026-08-27T09:17:14.222231711Z",
+  "model": "glm-5.3"
+}

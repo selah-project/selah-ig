@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Yisraël na Filistia haziri agha n'usoro, usoro agha na-ezute usoro agha.",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "ha haziri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "na Filistia"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "usoro agha"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "na-ezute"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "usoro agha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:11:10.734476316Z",
+  "model": "glm-5.3"
+}

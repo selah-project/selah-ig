@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Akpọghachiri ⟨את⟩ Moshe na ⟨את⟩ Aharon gara Paro, ọ wee sị ha: Na, jee, jere ozi Yahwe, Elohim unu. Kedụ ndị bụ ndị na-aga?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "a kpọghachiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gara"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "na, jee"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "jere ozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kedụ ndị"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na ndị"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "na-aga"
+    }
+  ],
+  "timestamp": "2026-08-27T06:14:56.084984121Z",
+  "model": "glm-5.3"
+}

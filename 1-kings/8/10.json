@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ dakwere, mgbe ndị nchụàjà si n'ebe dị nsọ pụtara, na urukpuru jupụtara ⟨את⟩ ụlọ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dakwere"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "mgbe... pụtara"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchụàjà"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si na"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ebe dị nsọ"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "na urukpuru"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "jupụtara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T09:56:55.978322074Z",
+  "model": "glm-5.3"
+}

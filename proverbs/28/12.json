@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Mgbe ndị ezi omume na-eto eto, otuto dị ukwuu; mgbe ndị ọjọọ bilie, mmadụ ga-ezo.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "Mgbe ... na-eto eto"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ndị ezi omume"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "dị ukwuu"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "otuto"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "mgbe ... bilie"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ọjọọ"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "ga-ezo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:31:45.376083636Z",
+  "model": "glm-5.3"
+}

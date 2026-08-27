@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma Moshe na Aharon mere dịka Yahwe nyere ⟨את⟩ ha iwu; otu a ka ha mere.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mere"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mere"
+    }
+  ],
+  "timestamp": "2026-08-27T06:08:11.143712708Z",
+  "model": "glm-5.3"
+}

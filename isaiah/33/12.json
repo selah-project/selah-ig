@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Mba ndị ahụ ⟨ga-abụ⟩ dịka ọkụ a gbasịrị nkume ịmụ; dịka ụta a bepụrụ, ha ga-ere n'ọkụ.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "⟨ga-abụ⟩"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mba ndị ahụ"
+    },
+    {
+      "surface": "משרפות",
+      "gloss": "ọkụ a gbasịrị"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "nkume ịmụ"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "ụta"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "a bepụrụ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "ha ga-ere"
+    }
+  ],
+  "timestamp": "2026-08-27T10:48:47.872478319Z",
+  "model": "glm-5.3"
+}

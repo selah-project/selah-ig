@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Àlà-àkpaànà? Chukwu-amamihe na-akpọ oku, nghọta na-enye olu ya.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "àlà-àkpaànà?"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Chukwu-amamihe"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "na-akpọ oku"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "nghọta"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "olu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:50:46.830875306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ma ọ bụrụ na ị na-ahapụ ịkwere nkwa, ọ gaghị abụ mmehie n'ime gị.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "ị na-ahapụ"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "ịkwere nkwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghaghị"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "n'ime gị"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "mmehie"
+    }
+  ],
+  "timestamp": "2026-08-27T08:08:26.316257645Z",
+  "model": "glm-5.3"
+}

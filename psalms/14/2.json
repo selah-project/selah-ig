@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Yahwe site n'eluigwe lebara ụmụ mmadụ anya, ịhụ ma ọ dị onye nwere nghọta, onye na-achọ ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "site n'eluigwe"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "lebara anya"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ịhụ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ma ọ dị"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "onye nwere nghọta"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:16.283671439Z",
+  "model": "glm-5.3"
+}

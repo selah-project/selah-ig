@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "ezekiel 16:55",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ma nwanne gị nwanyị Sedom na ụmụ nwanyị ya ga-alaghachi n'ọnọdụ ha mbụ, na Shomron na ụmụ nwanyị ya ga-alaghachi n'ọnọdụ ha mbụ, ma gị na ụmụ nwanyị gị ga-alaghachi n'ọnọdụ unu mbụ.",
+  "tokens": [
+    {
+      "surface": "ואחותיך",
+      "gloss": "ma nwanne gị nwanyị"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "na ụmụ nwanyị ya"
+    },
+    {
+      "surface": "תשבן",
+      "gloss": "ga-alaghachi"
+    },
+    {
+      "surface": "לקדמתן",
+      "gloss": "n'ọnọdụ ha mbụ"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "na Shomron"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "na ụmụ nwanyị ya"
+    },
+    {
+      "surface": "תשבן",
+      "gloss": "ga-alaghachi"
+    },
+    {
+      "surface": "לקדמתן",
+      "gloss": "n'ọnọdụ ha mbụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma gị"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "na ụmụ nwanyị gị"
+    },
+    {
+      "surface": "תשבינה",
+      "gloss": "ga-alaghachi"
+    },
+    {
+      "surface": "לקדמתכן",
+      "gloss": "n'ọnọdụ unu mbụ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:07:46.963423093Z",
+  "model": "glm-5.3"
+}

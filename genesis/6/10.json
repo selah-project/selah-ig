@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Noach mụrụ ụmụ nwoke atọ: ⟨את⟩ Shem, ⟨את⟩ Cham, na ⟨את⟩ Yefet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    }
+  ],
+  "timestamp": "2026-08-27T05:27:55.674259389Z",
+  "model": "glm-5.3"
+}

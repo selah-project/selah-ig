@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 40:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ka haṅrị na-enwe obi ụtọ na gị, ndị niile na-achọ gị; ka ha kwuo na-agaghị akwụsị, \"Yahwe ka ebube ya bụrụ oke,\" ndị hụrọ nzọpụta gị n'anya.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "ka haṅrị"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "na-enwe obi ụtọ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "na-achọ gị"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ka ha kwuo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "na-agaghị akwụsị"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "ka ebube ya bụrụ oke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ndị hụrụ n'anya"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "nzọpụta gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:43.911068310Z",
+  "model": "glm-5.3"
+}

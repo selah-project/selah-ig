@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 12:18",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Nwa nke Adamu, nri gị ga-eri na ọgba agha, mmiri gị ga-aṅụ na mkparị na-atụgharị uche na-akpagbu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "nri gị"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "na ọgba agha"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "ומימיך",
+      "gloss": "mmiri gị"
+    },
+    {
+      "surface": "ברגזה",
+      "gloss": "na mkparị"
+    },
+    {
+      "surface": "ובדאגה",
+      "gloss": "na-atụgharị uche na-akpagbu"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ga-aṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:43:26.638490541Z",
+  "model": "glm-5.3"
+}

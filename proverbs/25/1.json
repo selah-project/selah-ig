@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ndị a kwa bụ ilu nke Shelomoh, nke ndị ikom nke Chizkiya, eze Yehuda, deghachiri.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ndị a"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "ilu nke"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "deghachiri"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ndị ikom nke"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-27T14:30:28.801799984Z",
+  "model": "glm-5.3"
+}

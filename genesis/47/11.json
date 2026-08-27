@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "Yosef tinyere ⟨את⟩ nna ya na ⟨את⟩ ụmụnne ya n'ebe obibi, ma nye ha ihe-nwe-ala n'ala Mitzrayim, n'ezi akụkụ nke ⟨ala⟩, n'ala Rameses, dịka Paroh nyere iwu.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "tinyere n'ebe obibi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụnne ya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ụmụnne ya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ma nye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ihe-nwe-ala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "n'ezi akụkụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ⟨ala⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Rameses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:03.956081463Z",
+  "model": "glm-5.3"
+}

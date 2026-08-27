@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ndị nche ọnụ ụzọ ama wee tie mkpu, ha kọrọ ya n'ụlọ eze n'ime.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ha wee tie mkpu"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ndị nche ọnụ ụzọ ama"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ha kọrọ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "n'ime"
+    }
+  ],
+  "timestamp": "2026-08-27T10:19:49.973287262Z",
+  "model": "glm-5.3"
+}

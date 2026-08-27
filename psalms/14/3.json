@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "⟨Ha⟩ niile apụọla, ha niile rụrụ arụ ọnụ; ọ nweghị onye na-eme ihe ọma, ọ dịghị ọbụna otu.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "סר",
+      "gloss": "apụọla"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ha rụrụ arụ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ nweghị"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "onye na-eme"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọbụna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:16.283798087Z",
+  "model": "glm-5.3"
+}

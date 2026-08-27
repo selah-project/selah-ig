@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "N'ịrụ, arụọla m ụlọ ebe obibi dị elu maka gị, ebe a na-adịgide maka ohereerini gị ibi ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "n'ịrụ"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "arụọla m"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "ebe obibi dị elu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ebe a na-adịgide"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "maka ohereerini gị ibi"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T09:56:51.113381963Z",
+  "model": "glm-5.3"
+}

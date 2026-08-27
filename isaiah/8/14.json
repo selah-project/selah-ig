@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 8:14",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ ga-abụ ebe nsọ; ma maka abụọ n'ime ụlọ Yisrael, ọ ga-abụ nkume mgbagha na okwute ịdakọ, ọnyà na mkpọrọ-ọnyà maka ndị bi na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "dị ka ebe nsọ"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "na dị ka nkume"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "mgbagha"
+    },
+    {
+      "surface": "ולצור",
+      "gloss": "na dị ka okwute"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "ịdakọ"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "maka abụọ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "maka ọnyà"
+    },
+    {
+      "surface": "ולמוקש",
+      "gloss": "na maka mkpọrọ-ọnyà"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "maka ndị bi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T10:34:45.630267402Z",
+  "model": "glm-5.3"
+}

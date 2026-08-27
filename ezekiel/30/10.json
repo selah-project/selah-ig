@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Otú a ka Adonai Yahwe siri: M ga-akwụsịtụ ⟨את⟩ ọtụtụ mmadụ Mitzrayim n'aka Nevukhadretstsar, eze Bavel.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "otú a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "M ga-akwụsịtụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọtụtụ mmadụ Mitzrayim"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ọtụtụ mmadụ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukhadretstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-27T12:20:07.606686718Z",
+  "model": "glm-5.3"
+}

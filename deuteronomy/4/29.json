@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ma site n'ebe ahụ, unu ga-achọ ⟨את⟩ Yahwe, Elohim gị, ma ị ga-ahụ Ya, n'ihi na Ị ga-ajụ Ya na mmụọ niile nke obi gị na na mmụọ niile nke akọnọche gị.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "unu ga-achọ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "site n'ebe ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "ma ị ga-ahụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "Ị ga-ajụ Ya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na niile nke"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "obi gị"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na na niile nke"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "akọnọche gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:53:53.476013267Z",
+  "model": "glm-5.3"
+}

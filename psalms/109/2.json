@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Maka ọnụ nke onye ọjọọ na ọnụ nke aghụghọ meghere megide m; ha kwuru ⟨את⟩ m site n'asụsụ nke ụgha",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nke onye ọjọọ"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "na ọnụ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "nke aghụghọ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "meghere"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ha kwuru"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "asụsụ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nke ụgha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:54.046972672Z",
+  "model": "glm-5.3"
+}

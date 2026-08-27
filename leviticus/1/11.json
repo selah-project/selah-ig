@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ ga-egbu ya n'akụkụ ebe ịchafụọ ahụ, n'akụkụ ugwu, n'ihu Yahwe; ma ụmụ Aharon, ndị nchụ-aja, ga-atụfụ ⟨את⟩ ọbara ya n'ebe ịchafụọ ahụ gburugburu.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ọ ga-egbu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (nwa atụrụ\/ewu ahụ)"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "akụkụ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchafụọ ahụ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "n'akụkụ ugwu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ha ga-atụfụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchụ-aja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọbara ya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ọbara ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchafụọ ahụ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:00.286571878Z",
+  "model": "glm-5.3"
+}

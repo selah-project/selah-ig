@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'ihi na Yerushalayim gbadara, ma Yehuda dara; n'ihi na asụsụ ha na omume ha megide Yahwe, ikpasu iwe anyị nke ugwu ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "gbadara"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ma Yehuda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "dara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "asụsụ ha"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "na omume ha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "megide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "ikpasu iwe"
+    },
+    {
+      "surface": "עני",
+      "gloss": "anya"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "nke ugwu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:32:17.769085589Z",
+  "model": "glm-5.3"
+}

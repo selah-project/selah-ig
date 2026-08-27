@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Mba na-ama mkpu, alaeze na-agbaji; O nyefere olu ya, ụzaala na-agbaze.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "na-ama mkpu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "na-agbaji"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "alaeze"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nyefere"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "olu ya"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "na-agbaze"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụzaala"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:48.811490920Z",
+  "model": "glm-5.3"
+}

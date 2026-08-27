@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ọ bụ ya wuru ⟨את⟩ Eylot, ma weghachite ya na Yehuda, ka eze zuru ike na ndị nna nna ya gasịrị.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ ya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eylot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "ma weghachite ya"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "gasịrị"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ka ọ zuru ike"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ndị nna nna ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:16:08.738558462Z",
+  "model": "glm-5.3"
+}

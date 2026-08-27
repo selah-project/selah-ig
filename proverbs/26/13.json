@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Onye izu na-ekwu, \"Odum dị n'ụzọ; odum siri ike dị n'etiti ụzọ awasa.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "onye izu"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "odum siri ike"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "odum"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "ụzọ awasa"
+    }
+  ],
+  "timestamp": "2026-08-27T14:30:36.952089899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "A na-etinye nzuzu n'ebe dị elu nke ukwuu, ma ndị riche nọrọ n'ebe dị ala.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "a na-etinye"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "nzuzu"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "n'ebe dị elu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ma ndị riche"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "n'ebe dị ala"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nọrọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:16:17.003014535Z",
+  "model": "glm-5.3"
+}

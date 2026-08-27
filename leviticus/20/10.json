@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ya mere nwoke nke na-akwa iko ⟨את⟩ nwunye nwoke ọzọ, nke na-akwa iko ⟨את⟩ nwunye onye agbata obi ya, onye iko nwoke na onye iko nwanyị ga-anwụ anwụ.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ya mere nwoke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "na-akwa iko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwunye nwoke ọzọ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke ọzọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "na-akwa iko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwunye onye agbata obi ya"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "onye agbata obi ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "anwụ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ha ga-anwụ anwụ"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "onye iko nwoke"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "na onye iko nwanyị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:05.591787003Z",
+  "model": "glm-5.3"
+}

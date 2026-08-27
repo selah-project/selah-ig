@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 50:7",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Ma Adonai Yahwe ga-enyere m aka; ya mere a naghị eme m ihere; ya mere etinyere m ihu m dị ka nkume siri ike, ma ama na m ga-ata ahụhụ.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "ma Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ga-enyere aka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "נכלמתי",
+      "gloss": "a na-emebi m ihere"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "etinyere m"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu m"
+    },
+    {
+      "surface": "כחלמיש",
+      "gloss": "dị ka nkume siri ike"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "ma ama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga-adịghị"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ata ahụhụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:05:34.473842459Z",
+  "model": "glm-5.3"
+}

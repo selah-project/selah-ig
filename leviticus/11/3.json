@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Nke ọ bụla nke na-akewa ogwe-ụkwụ, ma na-ekewakwa nke ọma oghere nke ogwe-ụkwụ, ma na-ebulikwa elu ihe ọ na-agba n'ọnụ, n'etiti anụmanụ — ⟨את⟩ nke ahụ ka unu nwere ike iri",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nke ọ bụla"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "na-akewa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ogwe-ụkwụ"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ma na-ekewakwa"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "oghere nke ọma"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "ogwe-ụkwụ"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "na-ebuli elu"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ihe ọ na-agba n'ọnụ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "n'etiti anụmanụ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nke ahụ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "unu nwere ike iri"
+    }
+  ],
+  "timestamp": "2026-08-27T06:50:40.915187791Z",
+  "model": "glm-5.3"
+}

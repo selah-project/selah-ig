@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọ sịkwara m: Nwa nke mmadụ, ⟨את⟩ okwu m niile nke m ga na-ekwu gị were n'obi gị, ma n'nti gị nụ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sịkwara"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nke mmadụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu m niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "m ga na-ekwu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "קח",
+      "gloss": "were"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "n'obi gị"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "ma n'nti gị"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:59:08.097642394Z",
+  "model": "glm-5.3"
+}

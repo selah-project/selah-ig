@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Maka ihe niile ⟨ọ̀ nọ́⟩ oge ya, na oge maka ọ̀tụ̀tụ̀ uchiche niile n'okpuru ⟨èlú⟩ eluigwe.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "maka ihe niile"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "oge"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na oge"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka ọ̀tụ̀tụ̀ uchiche niile"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ọ̀tụ̀tụ̀ uchiche"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    }
+  ],
+  "timestamp": "2026-08-27T15:12:43.562183761Z",
+  "model": "glm-5.3"
+}

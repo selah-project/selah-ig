@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Elohim wee nyefee ha na mgbawa nke eluigwe, ka ha na-ere ìhè n'elu ⟨⟀ụwa⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "O wee nyefee"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "na mgbawa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nke eluigwe"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "ka ha na-ere ìhè"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨⟩ ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:48.200601319Z",
+  "model": "glm-5.3"
+}

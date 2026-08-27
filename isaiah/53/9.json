@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 53,
+  "translation": "O nyere ⟨את⟩ ndị ajọ omume ili ya, na ⟨את⟩ onye ọgaranya n'ọnwụ ya; n'ihi na ọ dịghị ike ọjọọ o mere, aghụghọ adịghịkwa n'ọnụ ya.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ajọ omume"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ili ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onye ọgaranya"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "onye ọgaranya"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "n'ọnwụ ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ike ọjọọ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "adịghịkwa"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aghụghọ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "n'ọnụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:06:02.702716108Z",
+  "model": "glm-5.3"
+}

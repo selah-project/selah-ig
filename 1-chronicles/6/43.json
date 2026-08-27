@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "na ⟨את⟩ Chilen na ⟨את⟩ mpaghara ọhịa ya, ⟨את⟩ Devira na ⟨את⟩ mpaghara ọhịa ya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Chilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mpaghara ọhịa ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mpaghara ọhịa ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Devira"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mpaghara ọhịa ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mpaghara ọhịa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:17.454862052Z",
+  "model": "glm-5.3"
+}

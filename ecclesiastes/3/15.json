@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ihe nke mere n'ọdịnịta — dịbu adị; ihe ndị ọzọ ga-abụ — dịbukwa adị; Elohim na-achọ ⟨את⟩ ihe a chụpụrụ.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nke mere"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "dịbu adị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ihe ndị ọzọ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "dịbu adị"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dịla"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe a chụpụrụ"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "ihe a chụpụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:12:55.104457830Z",
+  "model": "glm-5.3"
+}

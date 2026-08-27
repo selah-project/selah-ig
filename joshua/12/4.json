@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 12:4",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Na ókèala Og, eze Bashan, site na ihe fọdụrụ nke ndị Refaim, onye bi na Ashtarot na na Edrei.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "na ókèala"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "site na ihe fọdụrụ"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "ndị Refaim"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "onye bi"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "na Ashtarot"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "na na Edrei"
+    }
+  ],
+  "timestamp": "2026-08-27T08:29:09.416852638Z",
+  "model": "glm-5.3"
+}

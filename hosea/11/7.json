@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ndị m nọkwa n'ịdọ aka ná ntị gbasara ịlọghachikwute m; ma ọ bụrụ na ha kpọọ ha òkù elu, onye ọ bụla agaghị eligosiku.",
+  "tokens": [
+    {
+      "surface": "וְעַמִּי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "תְּלוּאִים",
+      "gloss": "nọkwa n'ịdọ aka ná ntị"
+    },
+    {
+      "surface": "לִמְשׁוּבָתִי",
+      "gloss": "gbasara ịlọghachikwute m"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "elu"
+    },
+    {
+      "surface": "יִקְרָאֻהוּ",
+      "gloss": "ha kpọọ ha òkù"
+    },
+    {
+      "surface": "יַחַד",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יְרוֹמֵם",
+      "gloss": "eligosiku"
+    }
+  ],
+  "timestamp": "2026-08-27T12:43:02.807653846Z",
+  "model": "glm-5.3"
+}

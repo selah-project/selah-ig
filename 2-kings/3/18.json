@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ihe a dị mfe n'anya Yahwe, o nyekwara ⟨את⟩ Moab n'aka unu.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "dị mfe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ihe a"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n'anya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "o nyekwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "n'aka unu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:13:51.327532043Z",
+  "model": "glm-5.3"
+}

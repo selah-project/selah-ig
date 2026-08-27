@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 126,
+  "translation": "Laghachi azụ, Yahwe, ⟨את⟩ mgbapụta anyị, dịka mmiri iyi asọsọ na Negev.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "laghachi azụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgbapụta anyị"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "mgbapụta anyị"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "dịka mmiri iyi"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "na Negev"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:27.426283289Z",
+  "model": "glm-5.3"
+}

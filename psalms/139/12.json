@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 139,
+  "translation": "Ọbụna ọchịchịrị adịghị agba Gị ọchịchịrị, ma abalị na-amị ìhè dịka ụbọchị; dịka ọchịchịrị, otu a dịka ⟨ìhè⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ọbụna"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ọchịchịrị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "na-agba ọchịchịrị"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "n'i Gị"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ma abalị"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "dịka ụbọchị"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "na-amị ìhè"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "dịka ọchịchịrị"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "dịka ìhè"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:02.091605368Z",
+  "model": "glm-5.3"
+}

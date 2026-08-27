@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ma Miryam, amụma nwanyị, nwanne Aharon, were ⟨את⟩ ọgbà n'aka ya, ma ụmụ nwanyị niile pụtara soro ya na ọgbà na ná igba egwu.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ma were"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "amụma nwanyị"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "nwanne"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbà"
+    },
+    {
+      "surface": "התף",
+      "gloss": "ọgbà"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "ma pụtara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ụmụ nwanyị"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "soro ya"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "na ọgbà"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "ná igba egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:16:09.553728958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Mgbe ndị ajọ omume na-ebuli elu, mmehie na-agbakwunye; ma ndị ezi omume ga-ahụ ọdịda ha.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "mgbe ... na-ebuli elu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "na-agbakwunye"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "ma ndị ezi omume"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "ọdịda ha"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ga-ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:32:16.995198662Z",
+  "model": "glm-5.3"
+}

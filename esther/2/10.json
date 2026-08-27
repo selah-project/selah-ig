@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Esther ekpugheghị ⟨את⟩ ndị ya na ⟨את⟩ ezinụlọ ya, n'ihi na Mordekai nyere ya iwu ka ọ ghara ikwu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ekpugheghị"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ya"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ezinụlọ ya"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "ezinụlọ ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ ghara"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ikwu"
+    }
+  ],
+  "timestamp": "2026-08-27T15:20:07.534898773Z",
+  "model": "glm-5.3"
+}

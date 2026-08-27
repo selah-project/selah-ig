@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 15:23",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Na ala ahụ dum na-ebe akwa, olu ukwu; ndị mmadụ niile na-agafe, eze ahụ na-agafekwa n'osimiri Kidron, ndị mmadụ niile na-agafe n'ihu ụzọ ⟨את⟩ ọzara.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Na ... dum"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "בוכים",
+      "gloss": "na-ebe akwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "... niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "n'osimiri"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "-ihu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọzara"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ọzara"
+    }
+  ],
+  "timestamp": "2026-08-27T09:41:38.562897981Z",
+  "model": "glm-5.3"
+}

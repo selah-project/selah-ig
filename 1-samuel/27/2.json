@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Davịd wee bilie, ma ọ gafere, yá na ụmụ nwoke narị isii ndị ya na ya nọ, gaa Akịsh nwa Maọk, eze Gat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "biliesi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "gafere"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya na ya nọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akịsh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Maọk"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-08-27T09:25:54.693338243Z",
+  "model": "glm-5.3"
+}

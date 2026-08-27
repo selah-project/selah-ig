@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ọ jiri nkwulu mee ⟨את⟩ Izrel, Yehonatan nwa Shimea nwanne Davi wee gbuo ya.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "Ọ jiri nkwulu mee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "gbuo ya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nwanne"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davi"
+    }
+  ],
+  "timestamp": "2026-08-27T16:02:43.246677399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Yahwe wee sị Yehoshua: Le, enyela m n'aka gị ⟨את⟩ Yeriko na ⟨את⟩ eze ya, ndị dike nke agha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sị"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "enyela m"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "n'aka gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeriko"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eze ya"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "eze ya"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ndị dike nke"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "agha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:22:32.994729893Z",
+  "model": "glm-5.3"
+}

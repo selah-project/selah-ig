@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ekwela ịbụ onye n'etiti ndị na-aṅụ mmanya, n'etiti ndị na-eri anụ ha na-eri.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ịbụ"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "n'etiti ndị na-aṅụ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mmanya"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "n'etiti ndị na-eri"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "anụ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:29:38.548337949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ọ dabatara ha obi ha site na ihe isi ike, ha ṅụrụ wee daa, enweghịkwa onye na-enyere aka.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "ọ dabatara ha"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "site na ihe isi ike"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "obi ha"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ha ṅụrụ wee daa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "enweghịkwa"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "onye na-enyere aka"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.240067028Z",
+  "model": "glm-5.3"
+}

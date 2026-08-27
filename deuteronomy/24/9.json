@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Cheta ihe Yahwe, Elohim gị, mere ⟨את⟩ Miriam n'ụzọ, mgbe unu na-apụ na Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Cheta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ... mere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miriam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "mgbe unu na-apụ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T08:08:26.546890788Z",
+  "model": "glm-5.3"
+}

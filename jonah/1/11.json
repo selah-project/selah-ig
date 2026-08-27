@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 1:11",
+  "book": "jonah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ha wee sị ya: Anyị ga-eme gịnị gị ka oké osimiri kwụsị ịkpasu anyị iwe? Ọ bụ maka na oké osimiri na-aga n'ihu na-akawanye njọ.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha wee sị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "anyị ga-eme"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "ka ọ kwụsị"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "ịkpasu anyị iwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ọ bụ maka na"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "na-aga n'ihu"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "na-akawanye njọ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:52:40.512499705Z",
+  "model": "glm-5.3"
+}

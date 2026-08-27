@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "Onye ka m nwere n'eluigwe? Ma gịnị, ọ dịghị ihe m masi mmasị n'ụwa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Onye ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m nwere"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "Ma gịnị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ihe m masi mmasị"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:00.116471814Z",
+  "model": "glm-5.3"
+}

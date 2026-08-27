@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ịtụsị egwu Yahwe dị ọcha, guzo ruo mgbe ebighị ebi; ikpe Yahwe bụ ⟨eziokwu⟩, ha ziri ezi ⟨ọnụ⟩.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ịtụsị egwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "guzo"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "eziokwu"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ha ziri ezi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:08.053714827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Soro ụmụ Yisrael, gwa ha: Ị na-agafe ⟨את⟩ Osimiri Yarden banye n'ala Kenan,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Soro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rụọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "gwa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Osimiri Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Osimiri Yarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "banye n'ala"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-08-27T07:46:44.141381512Z",
+  "model": "glm-5.3"
+}

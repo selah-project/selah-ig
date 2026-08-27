@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 139,
+  "translation": "M ka kwuru: Ọzọ ọchịchịrị ga-ekpuchie m; ma abalị ga-abụ ⟨ìhè⟩ gburugburu m.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "m kwuru"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ọchịchịrị"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "ga-ekpuchie m"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ma abalị"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìhè"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "gburugburu m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:02.091468450Z",
+  "model": "glm-5.3"
+}

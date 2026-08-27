@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 96,
+  "translation": "Ógbè ahụ ga-eto eto ọṅụ, ya na ihe niile dị na ya; mgbe ahụ, osisi niile nke ọhịa ga-abụ abụ ọṅụ.",
+  "tokens": [
+    {
+      "surface": "יעलז",
+      "gloss": "ga-eto eto ọṅụ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Ógbè ahụ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ya na ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dị na ya"
+    },
+    {
+      "surface": "אז",
+      "gloss": "mgbe ahụ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ga-abụ abụ ọṅụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ọhịa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:02.592119640Z",
+  "model": "glm-5.3"
+}

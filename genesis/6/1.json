@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ọ dịkwa nke na, mgbe ụmụ mmadụ malitere ịmụba n'ihu ⟨ala⟩, ụmụ nwanyị amụkwara ha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dịkwa nke na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "החל",
+      "gloss": "malitere"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ụmụ mmadụ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ịmụba"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨ala⟩"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ụmụ nwanyị"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "amụkwara"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:17.518213478Z",
+  "model": "glm-5.3"
+}

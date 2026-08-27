@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 116,
+  "translation": "Ndị nkwa m nye Yahwe ka m na-emezu, n'ihu, biko, n'ihi ndị mmadụ ya niile.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ndị nkwa m"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ka m na-emezu"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "n'ihi niile"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nke ndị mmadụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:45.127293509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 27:17",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Osisi niile nke ogige ⟨ahụ⟩ gbara gburugburu — a na-ekpu ha ọlaọcha; mkpọ ha ọlaọcha, ntọala ha ọla nchara.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "osisi nke"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ogige ⟨ahụ⟩"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "a na-ekpu (site n'ọlaọcha)"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọlaọcha"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "mkpọ ha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọlaọcha"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ntọala ha"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ọla nchara"
+    }
+  ],
+  "timestamp": "2026-08-27T06:30:36.390773708Z",
+  "model": "glm-5.3"
+}

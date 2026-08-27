@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "M na-ede ya ọtụtụ puku ihe n'iwu m, ma a na-ewere ha dịka ihe mụ ọzọ.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "M na-ede"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ọtụtụ puku"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ihe mụ ọzọ"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "a na-ewere ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:41:13.711979556Z",
+  "model": "glm-5.3"
+}

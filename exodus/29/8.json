@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Were ụmụ ya bịakwaa nso, ma yie ha ⟨את⟩ uwe-ogologo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "bịakwaa nso"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "ma yie ha"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "uwe-ogologo"
+    }
+  ],
+  "timestamp": "2026-08-27T06:31:19.088493873Z",
+  "model": "glm-5.3"
+}

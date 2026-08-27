@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ nwa ha-ya'anah, na ⟨את⟩ haṭaḥmas, na ⟨את⟩ hashaḥaf, na ⟨את⟩ hanets dịka ụdị ya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ha-ya'anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ha-ya'anah (nnụnụ ukwu)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haṭaḥmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "haṭaḥmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hashaḥaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "hashaḥaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hanets"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "hanets (ugo nta)"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "dịka ụdị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:48:21.555605103Z",
+  "model": "glm-5.3"
+}

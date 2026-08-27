@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 15:21",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ma onye ọ bụla na-emetụ aka n'àkwà ya ga-asa uwe ya, ma saa onwe ya na mmiri, ma dị arụ ruo mgbede.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ma onye ọ bụla"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "na-emetụ aka"
+    },
+    {
+      "surface": "במשכבה",
+      "gloss": "n'àkwà ya"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ga-asa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uwe ya"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ma saa onwe ya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mmiri"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ma dị arụ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mgbede"
+    }
+  ],
+  "timestamp": "2026-08-27T06:58:22.434232963Z",
+  "model": "glm-5.3"
+}

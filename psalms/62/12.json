@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 62,
+  "translation": "Otu okwu Elohim kwuru; abụọ, nke a ka m nuru: na ike dị ⟨n'aka⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu ... kwuru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ka m nuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ike"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "dị Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:55.842394908Z",
+  "model": "glm-5.3"
+}

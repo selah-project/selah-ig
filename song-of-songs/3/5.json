@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Eweela m unu ⟨את⟩ ṅụrụba, ụmụnwaanyị Yerushalayim, site na mgbada ma ọ bụ nwa mgbada nke ọhịa: ọ bụrụ na unu ekụpịa ọṅụ, ma ọ bụrụ na unu ekụpịa ọṅụ ⟨את⟩ ịhụnanya ruo mgbe ọ chọrọ.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "eweela m ṅụrụba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu, ụmụnwaanyị Yerushalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ụmụnwaanyị"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "site na mgbada"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "nwa mgbada"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "nke ọhịa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "unu ekụpịa ọṅụ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "unu ekụpịa ọṅụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ịhụnanya"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ịhụnanya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "mgbe ọ chọrọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:02:33.222951928Z",
+  "model": "glm-5.3"
+}

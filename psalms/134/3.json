@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 134,
+  "translation": "Yahwe ga-gọzie gị site na Tsiyon, Onye na-eme ⟨את⟩ eluigwe na ⟨את⟩ ụwa.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "ga-gọzie gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "site na Tsiyon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Onye na-eme"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:04.491442750Z",
+  "model": "glm-5.3"
+}

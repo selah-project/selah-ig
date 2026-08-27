@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Unu ekwela izu ohi, unu ekwela ajụ n'eziokwu, unu ekwela ịsị mmadụ ụgha nye onye ibe ya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "izu ohi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "ajụ n'eziokwu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "ịsị ụgha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "nye onye ibe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:59:03.141926960Z",
+  "model": "glm-5.3"
+}

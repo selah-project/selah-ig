@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Ka a napụta ⟨n'ọdịnihu⟩ ndị hụrụ Ya n'anya, zọpụta site n'aka nri gị, ma zaa anyị.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "a napụta"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "ndị hụrụ Ya n'anya"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "zọpụta"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "aka nri gị"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "ma zaa anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:49.508271852Z",
+  "model": "glm-5.3"
+}

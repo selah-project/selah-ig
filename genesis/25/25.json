@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 25:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ma onye mbụ ahụ pụtara, ọbara-ọbara, ahụ ya niile dị ka uwe ntutu; ha kpọrọ aha ya Esav.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ọ pụtara"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "onye mbụ"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "ọbara-ọbara"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ahụ ya niile"
+    },
+    {
+      "surface": "כאדרת",
+      "gloss": "dị ka uwe"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ntutu"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ha kpọrọ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-27T05:40:24.620407519Z",
+  "model": "glm-5.3"
+}

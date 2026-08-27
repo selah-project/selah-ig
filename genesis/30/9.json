@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Mgbe Lea hụrụ na ọ kwụsịrị ịmụ nwa, ọ were ⟨את⟩ Zilpa, odibo ya, nyekwa ya Yaakov dịka nwunye.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "ọ kwụsịrị"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "ịmụ nwa"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ọ were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "odibo ya"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "ọ nyekwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Zilpa)"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dịka nwunye"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:31.277836710Z",
+  "model": "glm-5.3"
+}

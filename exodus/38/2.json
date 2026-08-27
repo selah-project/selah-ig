@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "O wee rụọ mpi ya n'akụkụ anọ ya; site na ⟨ya⟩ ka e si rụọ mpi ya; o wee kechie ⟨את⟩ ya kpọọ ọla nchara.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o wee rụọ"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "mpi ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "site na ⟨ya⟩"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ka e si rụọ"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "mpi ya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "o wee kechie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (ebe ịchụ àjà)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ọla nchara"
+    }
+  ],
+  "timestamp": "2026-08-27T06:40:37.846278206Z",
+  "model": "glm-5.3"
+}

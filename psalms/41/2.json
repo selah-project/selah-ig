@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Obi ụtọ nke onye na-atụlebara ⟨oghere⟩ ogbenye; n'ụbọchị ọjọọ Yahwe ga-azọpụta ya.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "obi ụtọ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "onye na-atụlebara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨elitere⟩"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ogbenye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "ga-azọpụta ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:18.916601415Z",
+  "model": "glm-5.3"
+}

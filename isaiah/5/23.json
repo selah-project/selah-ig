@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 5:23",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ndị na-eme ka onye ọjọọ bụrụ onye ziri ezi n'ihi aka azụ, ma na-ewepụ ikpe ziri ezi nke ndị ziri ezi n'aka ya.",
+  "tokens": [
+    {
+      "surface": "מצדיקי",
+      "gloss": "na-eme ka ... bụrụ onye ziri ezi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ọjọọ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "aka azụ"
+    },
+    {
+      "surface": "וצדקת",
+      "gloss": "ma ... ikpe ziri ezi nke"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ndị ziri ezi"
+    },
+    {
+      "surface": "יסירו",
+      "gloss": "na-ewepụ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "n'aka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:36:36.706132826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Yehoshua gbara ya ọsọ ọṅụ, ma nye ⟨את⟩ Chebron dịka ihe nketa Kalev, nwa Yefunneh, weere dịka nketa.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "gbara ya ọsọ ọṅụ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ma nye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "dịka Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunneh"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "dịka nketa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:31:44.932924245Z",
+  "model": "glm-5.3"
+}

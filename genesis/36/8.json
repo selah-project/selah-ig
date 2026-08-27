@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Yaakov wee biri; Esav biri n'ugwu Seir; Esav bụ Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "biri"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-27T05:50:53.400394739Z",
+  "model": "glm-5.3"
+}

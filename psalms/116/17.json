@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 116,
+  "translation": "Gị ka m ga-egbu ⟨את⟩ anụ-echere nke ekele, ma n'aha Yahwe m ga-akpọ oku.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Gị"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "m ga-egbu ⟨את⟩"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "anụ-echere"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "nke ekele"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ma n'aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m ga-akpọ oku"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:22.702671494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "N'ihi ihe ndị a niile, ha mehiere ọzọ, wee kwughị okwukwe n'ihe ihe-atụ ọsọ ya.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ihe ndị a"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ha mehiere"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwughị"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "okwukwe"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "n'ihe ihe-atụ ọsọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:01.025164121Z",
+  "model": "glm-5.3"
+}

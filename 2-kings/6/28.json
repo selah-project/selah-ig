@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Eze ahụ sịrị ya, Gini ka na-emetụ gị? Ọ sị, Nwanyị a sịrị m, Nyefere ⟨את⟩ nwa gị ka anyị rie ya taa, ⟨את⟩ nwa m anyị ga-eri echi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sịrị"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na-emetụ gị"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ọ sị"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nwanyị"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "sịrị"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "תני",
+      "gloss": "nyefere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa gị"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nwa gị"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "anyị rie"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwa m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "echi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:14:26.746901810Z",
+  "model": "glm-5.3"
+}

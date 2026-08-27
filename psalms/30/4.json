@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Yahwe, buligo ọnụmme site na Sheol, chere m ndụ, ka m na-ada n'ime olulu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "buligo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ọnụmme"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "chere m ndụ"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "ka m na-ada"
+    },
+    {
+      "surface": "בור",
+      "gloss": "n'ime olulu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:17.697911729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Adonai, meghere ⟨את⟩ egbere m,ọnụ m ga-akọwa otuto gị.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "egbere m"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "meghere"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ọnụ m"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ga-akọwa"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "otuto gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:02.752344060Z",
+  "model": "glm-5.3"
+}

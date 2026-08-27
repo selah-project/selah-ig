@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "Onye a gọziri agozi bụ Yahwe, Elohim, Elohim nke Yisrael, onye na-eme ihe dị ebube nanị ya.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "onye a gọziri agozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ihe dị ebube"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nanị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:46.670658551Z",
+  "model": "glm-5.3"
+}

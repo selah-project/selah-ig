@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "Maka onye na-eduzi ⟨egwu⟩; abụ ntụziaka nke David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye na-eduzi ⟨egwu⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "abụ ntụziaka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:12.961791747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Ị kwụsịrị okpomọkụ ùgwù ya, ma tụfuo oche ọchịchị ya ruo n'ala.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "Ị kwụsịrị"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "ùgwù ya"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ma oche ọchịchị ya"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ruo n'ala"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "Ị tụfuru"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:43.926744712Z",
+  "model": "glm-5.3"
+}

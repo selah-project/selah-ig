@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ọ wee ruo mgbe Moshe gwuchara ide ⟨את⟩ okwu Torah a n'akwụkwọ, ruo mmecha ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ wee ruo"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "mgbe ọ gwuchara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "ide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu Torah a"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "akwụkwọ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "mmecha ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:30:22.446876951Z",
+  "model": "glm-5.3"
+}

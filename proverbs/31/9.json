@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Mepee ọnụ gị, kpee ikpe ziri ezi, nyekwa onye ogbenye na onye na-agụ agụ ikpe.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Mepee"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ọnụ gị"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "kpee ikpe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ziri ezi"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "nyekwa ikpe"
+    },
+    {
+      "surface": "עני",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "onye na-agụ agụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:34:34.680904738Z",
+  "model": "glm-5.3"
+}

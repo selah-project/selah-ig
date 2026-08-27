@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Yahwe Elohim kwukwara sị: Ọ dịghị mma ka mmadụ nọrọ naanị ya; m ga-eme ya onye inyere aka dịka ya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kwukwara sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ọ dịghị"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mma"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ka ... nọrọ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "naanị ya"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "m ga-eme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "onye inyere aka"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "dịka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:29.280331404Z",
+  "model": "glm-5.3"
+}

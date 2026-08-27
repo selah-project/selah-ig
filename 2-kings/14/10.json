@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ị ekụwo ⟨את⟩ Edom, obi gị eweliela gị elu; nwuo ùgwu, nọrọ n'ụlọ gị; maka gịnị ka i ji na-emebi ihe n'ihe ọjọọ, ka ị daa, gị na Yehuda tinyere gị?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ị kụwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "ma welite gị"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "obi gị"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "nwuo ùgwu"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "nọrọ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "n'ụlọ gị"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "maka gịnị"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "i ji na-emebi"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "n'ihe ọjọọ"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "ka ị daa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tinyere gị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:21:13.317629924Z",
+  "model": "glm-5.3"
+}

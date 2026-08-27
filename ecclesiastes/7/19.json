@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "⟨The⟩ amamihe na-enye onye amamihe ike karịa ndị ọchịchị iri ndị nọ n'obodo.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "na-enye ike"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "onye amamihe"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "karịa iri"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "ndị ọchịchị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nọ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "n'obodo"
+    }
+  ],
+  "timestamp": "2026-08-27T15:16:23.039337732Z",
+  "model": "glm-5.3"
+}

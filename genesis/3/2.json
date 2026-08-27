@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Nwanyị ahụ wee sọrọ agwọ ahụ okwu: Anyị na-eri mkpụrụ osisi ndị dị n'ubi ahụ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ọ wee sọ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nwanyị ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "okwu nye"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "agwọ ahụ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "site na mkpụrụ osisi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "nke ubi ahụ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "anyị na-eri"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:30.146840621Z",
+  "model": "glm-5.3"
+}

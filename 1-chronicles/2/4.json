@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Na Tamar, nwa agbọghọ di ya, mụrụ ya ⟨את⟩ Peretz na ⟨את⟩ Zerach. Nde ụmụ Yehudah niile bụ ise.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Na Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "nwa agbọghọ di ya"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peretz"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ise"
+    }
+  ],
+  "timestamp": "2026-08-27T15:51:41.281134527Z",
+  "model": "glm-5.3"
+}

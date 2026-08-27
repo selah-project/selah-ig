@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "M wee bụrụ dịka nwoke nke na-anụghị, na onye n'enweghị mmeghachi omume n'ọnọdụ ya.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "M wee bụrụ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "dịka nwoke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-anụghị"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "na-anụ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na n'enweghị"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "n'ọnọdụ ya"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "mmeghachi omume"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:46.682222885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "Ọ ga-achịkwa site n'oké osimiri ruo oké osimiri, ma site n'osimiri ahụ ruo n'ókèala ụwa.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ọ ga-achịkwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "site n'oké osimiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "ma site n'osimiri ahụ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "n'ókèala"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:59.558093554Z",
+  "model": "glm-5.3"
+}

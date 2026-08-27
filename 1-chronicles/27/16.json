@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 27:16",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ma ndị na-achị ebo nke Yisrael: maka ndị Reuveni, onye na-achị ⟨bụ⟩ Eliezer nwa Zikri; maka ndị Shimeoni, Shefatyah nwa Maakaha.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ma ndị na-achị"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ebo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Yisrael"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "maka ndị Reuveni"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "onye na-achị"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikri"
+    },
+    {
+      "surface": "לשמעוני",
+      "gloss": "maka ndị Shimeoni"
+    },
+    {
+      "surface": "שפטיהו",
+      "gloss": "Shefatyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakaha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:05:41.341946175Z",
+  "model": "glm-5.3"
+}

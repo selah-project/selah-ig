@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Ha megburu ụkwụ ya na mkpọda; ọla nkedo banyere n'⟨the⟩ ndụ ya.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "megburu"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "na mkpọda"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ụkwụ ya"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ọla nkedo"
+    },
+    {
+      "surface": "באה",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ndụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:09.711052285Z",
+  "model": "glm-5.3"
+}

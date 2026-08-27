@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Yahwe na-ewepụ ihe onwunwa, ma na-enye akụ na ụba; Ọ na-edo mkpụmgbada, nakwa na-ebuli elu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "na-ewepụ ihe onwunwa"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "ma na-enye akụ na ụba"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "na-edo mkpụmgbada"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "na-ebuli elu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:32:58.402308658Z",
+  "model": "glm-5.3"
+}

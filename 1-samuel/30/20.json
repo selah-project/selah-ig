@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "David weghaara ⟨את⟩ anụ ọhịa niile na ehi; ha na-eduga ha n'ihu anụ ụlọ ndị ahụ, ha kwuru, Nke a bụ ihe mkpọfụ David.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "weghara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ọhịa niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "anụ ọhịa"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "na ehi"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "ha na-eduga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "anụ ụlọ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha kwuru"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Nke a"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ihe mkpọfụ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-27T09:26:25.968486219Z",
+  "model": "glm-5.3"
+}

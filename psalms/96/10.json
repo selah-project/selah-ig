@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 96,
+  "translation": "Sị ndị mba ọzọ: Yahwe na-achị; ebekwazị ⟨ụwa⟩, agaghị ọ ṅọgbọ; Ọ ga-ekpe ndị ikpe na ṅzuzube.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Sị"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ndị mba ọzọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "na-achị"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ebekwazị"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨ụwa⟩ edoziri"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨ụwa⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ṅọgbọ"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ga-ekpe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndị ikpe"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "na ṅzuzube"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:02.591864049Z",
+  "model": "glm-5.3"
+}

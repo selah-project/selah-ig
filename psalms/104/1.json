@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Gọzie, mkpụrụ obi m, ⟨את⟩ Yahwe. Yahwe, Elohim m, Ị bụ nnukwu nke ukwuu; Ị yiri uwe nke ukpono na ùgwù.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Gọzie"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "Ị bụ nnukwu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ukpono"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na ùgwù"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "Ị yiri uwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:32.364297068Z",
+  "model": "glm-5.3"
+}

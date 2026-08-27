@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Dịka ihe niile Yahwe nyere Moshe iwu, otu a ka ụmụ Yisrael mere ⟨את⟩ ọrụ niile.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "dịka ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mere"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ọrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:41:43.773388521Z",
+  "model": "glm-5.3"
+}

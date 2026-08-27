@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Aka gị ga-achọta ndị iro gị niile, aka nri gị ga-achọta ndị kpọrọ gị asị.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "ga-achọta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ndị iro gị"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "aka nri gị"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ga-achọta"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ndị kpọrọ gị asị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:45.306910282Z",
+  "model": "glm-5.3"
+}

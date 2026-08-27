@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Tụọ ntị n'olu mkpu m, eze m na Elohim m, n'ihi na gị ka m ga-agọngọọnụ.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "tụọ ntị"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "n'olu"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "mkpu m"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze m"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Elohim m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "m ga-agọngọọnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:32.644107039Z",
+  "model": "glm-5.3"
+}

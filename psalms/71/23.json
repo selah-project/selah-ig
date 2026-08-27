@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "Envu m ga-eṅuri ṅụọ, maka na m na-abụ abụ gị, yana mkpụrụ obi m, nke i zọpụtara.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "ga-eṅuri ṅụọ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "envu m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "m na-abụ abụ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "yana mkpụrụ obi m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "i zọpụtara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:28.582528624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Nwoke nke a na-agwa okwu ịdọrọ aka ná ntị ugboro ugboro mana na-eme ka nuke siri ike, ga-emebi ngwa ngwa, ma ọ nweghị ọgwụ ịgwọ ya.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "okwu ịdọrọ aka ná ntị (ugboro ugboro)"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "na-eme ka ọ siri ike"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nuke"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "ngwa ngwa"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ga-emebi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma ọ nweghị"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ọgwụ ịgwọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:31:59.158922580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 76,
+  "translation": "Maka onye-eduzi egwu, na ngwa eriri; abụ-ọma nke Asaf; abụ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye-eduzi egwu"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "na ngwa eriri"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ-ọma"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "nke Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:49.696060474Z",
+  "model": "glm-5.3"
+}

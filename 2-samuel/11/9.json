@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Uriaya dara akwa n'ọnụ ụzọ ụlọ eze, ya na ⟨את⟩ ndị ohu niile nke nna ukwu ya, ọ naghị ada ná ụlọ ya.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "dara akwa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriaya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ohu niile nke nna ukwu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ndị ohu"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "nke nna ukwu ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ naghị"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ná"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:35:40.010266250Z",
+  "model": "glm-5.3"
+}

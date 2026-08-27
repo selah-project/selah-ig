@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ha jiri nwayọọ were tie mkpu, wee zughị ya azịza okwu ọ bụla, n'ihi na iwu ⟨nke⟩ eze bụ, na-ekwu, Ezipụla ya azịza.",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "ha jiri nwayọọ were tie mkpu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ha zughị"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "zughị azịza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu ọ bụla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọzughị"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "zụọ ya azịza"
+    }
+  ],
+  "timestamp": "2026-08-27T10:52:29.944160098Z",
+  "model": "glm-5.3"
+}

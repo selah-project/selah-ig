@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 81,
+  "translation": "Ndị na-asọ Yahwe oyi ga-agha ụgha nye ya, oge ha ga-adịruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "ndị na-asọ oyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ga-agha ụgha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nye ya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "oge ha"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:55.699979878Z",
+  "model": "glm-5.3"
+}

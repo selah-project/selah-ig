@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Mgbe mmerụ tsaraat nọ n'ime mmadụ, a ga-ebute ya n'aka onye nchụ àjà.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "mmerụ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nọ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "n'ime mmadụ"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "a ga-ebute ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụ àjà"
+    }
+  ],
+  "timestamp": "2026-08-27T06:53:25.915128846Z",
+  "model": "glm-5.3"
+}

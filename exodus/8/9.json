@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Yahwe mere dịka okwu Moshe siri; ha nwụọkwa — ha nwụrụ n'ụlọ ndị ahụ, n'ogige ndị ahụ, na n'ọhịa ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ma o mee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dịka okwu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ma ha nwụọ"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ndị aṅụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ụlọ ndị ahụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "ogige ndị ahụ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na site na"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "ọhịa ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:12:10.572401849Z",
+  "model": "glm-5.3"
+}

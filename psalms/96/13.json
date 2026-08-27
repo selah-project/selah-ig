@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 96,
+  "translation": "N'ihu Yahwe, n'ihi na ọ bịara, n'ihi na ọ bịara ikpe ⟨את⟩ ụwa; ọ ga-ekpe ⟨את⟩ tevel n'ụzọ ziri ezi, ma ⟨את⟩ ndị agbụrụ n'eziokwu ya.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ọ bịara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ọ bịara"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ ụwa"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ọ ga-ekpe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨את⟩ tevel"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "n'ụzọ ziri ezi"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "ma ⟨את⟩ ndị agbụrụ"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "n'eziokwu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:49:38.405874474Z",
+  "model": "glm-5.3"
+}

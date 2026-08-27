@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 124,
+  "translation": "mgbe ahụ ka mmiri ncharawa riri anyị, osimiri oke mmiri gafere n'elu mkpụrụ obi anyị;",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "mgbe ahụ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "riri anyị"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "osimiri oke mmiri"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gafere"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "mkpụrụ obi anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:19.347993103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Naanị ⟨את⟩ ọbara ya ka ị gaghị eri; n'ala ka ị ga-mwụsa ya, dịka mmiri.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọbara ya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ọbara ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "eri"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ga-mwụsa ya"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "dịka mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T07:59:10.504362127Z",
+  "model": "glm-5.3"
+}

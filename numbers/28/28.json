@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 28:28",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Na onyinye ahịhịa ha: ntụ ọka gwakọtara na mmanụ, akụkụ-iri atọ maka ehi nke ọ bụla, akụkụ-iri abụọ maka ram nke ọ bụla.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "na onyinye ahịhịa ha"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ntụ ọka"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "gwakọtara"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mmanụ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "akụkụ-iri"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "maka ehi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nke ọ bụla"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "akụkụ-iri"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "maka ram"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nke ọ bụla"
+    }
+  ],
+  "timestamp": "2026-08-27T07:38:29.076989380Z",
+  "model": "glm-5.3"
+}

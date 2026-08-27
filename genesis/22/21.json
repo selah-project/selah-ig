@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "⟨את⟩ Utz nwa mbụ ya, na ⟨את⟩ Buz nwanne ya, na ⟨את⟩ Kemuel nna Aram;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Utz"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Utz"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "nwa mbụ ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kemuel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-27T05:37:23.859820176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma gị, gwa ndị nchụ-aja ⟨את⟩ ndị na-ebu ọgba-mbụ nke ọgbụgba-ndụ, sị, Mgbe unu ruru n'ókè nke mmiri Yarden, guzo nu na Yarden.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma gị"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "gwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị nchụ-aja"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchụ-aja"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ndị na-ebu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ọgba-mbụ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "nke ọgbụgba-ndụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "Mgbe unu ruru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "n'ókè"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nke mmiri"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "na Yarden"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "guzo nu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:22:09.532778526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "N'ihi na m kwuru: chesed ⟨ga⟩-ewuru ruo mgbe ebighị ebi; n'eluigwe ka Ị ga-edozi amaokwu ọnụ Gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "m kwuru"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "⟨ga⟩-ewuru"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "Ị ga-edozi"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "amaokwu ọnụ Gị"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'elu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:40.702868014Z",
+  "model": "glm-5.3"
+}

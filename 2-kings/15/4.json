@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Naanị na ebe ndị dị elu anaghị apụ; ka ndị mmadụ na-echụọ àjà na-ere ọṅụṅụ n'ebe ndị dị elu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "naanị na"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ebe ndị dị elu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "apụ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "na-echụọ àjà"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "na-ere ọṅụṅụ"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "n'ebe ndị dị elu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:21:17.764641143Z",
+  "model": "glm-5.3"
+}

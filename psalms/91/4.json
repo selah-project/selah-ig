@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "N'uwe-operẹ Ya ⟨ọ⟩ ga-ekpuchi gị, n'okpuru nku Ya ka ⟨gị⟩ ga-agbachi, ogologo mma agha na nke gbara gburugbu bụ eziokwu Ya.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "n'uwe-operẹ Ya"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ga-ekpuchi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "nku Ya"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "ga-agbachi"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ogologo mma agha"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "na nke gbara gburugbu"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "eziokwu Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:53.859070288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Moshe gwara Aharon, na ụmụ ya, na mmadụ niile n'etiti ụmụ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mmadụ niile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n'etiti ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:53.976363706Z",
+  "model": "glm-5.3"
+}

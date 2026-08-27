@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 35:8",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Gaa ebe ahụ, ụzọ ukwu na ⟨ụzọ⟩; 'Ụzọ Nsọ' ka a ga-akpọ ya; onye rụrụ arụ agaghị agafe ya; ma ọ bụ maka ha ⟨ndị⟩: ndị na-aga n'⟨ụzọ⟩ ahụ, ọbụnadị ndị nzuzu agaghị ehie.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "מסלול",
+      "gloss": "ụzọ ukwu"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "na ⟨ụzọ⟩"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ma ụzọ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "Nsọ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "a ga-akpọ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יעברנו",
+      "gloss": "agafe"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onye rụrụ arụ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "maka ha"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ndị na-aga"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "ọbụnadị ndị nzuzu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יתעו",
+      "gloss": "ehie"
+    }
+  ],
+  "timestamp": "2026-08-27T10:53:19.336742053Z",
+  "model": "glm-5.3"
+}

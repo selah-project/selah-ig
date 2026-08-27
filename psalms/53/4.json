@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 53,
+  "translation": "Ha niile laghachiri azụ, ha rụrụ arụ̀ ọnụ; ọ dịghị onye na-eme ihe ọma, ọ dịghịkwa otu onye.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "סג",
+      "gloss": "laghachiri azụ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "rụrụ arụ̀"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "onye na-eme"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghịkwa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọ bụkwa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu onye"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:19.975896809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Moshe nyaghiworo ụzọ iwu nye ⟨את⟩ ụmụ Yisrael, dịka okwu Yahwe siri dị, si: Nke a ka ebo ụmụ Yosef na-ekwu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nyaghiworo ụzọ iwu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ\/okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "si"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ebo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "na-ekwu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:51:09.062301750Z",
+  "model": "glm-5.3"
+}

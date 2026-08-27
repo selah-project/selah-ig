@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Ajụọla m ike n'ịmụ oku m; ọkụ ahụrụ goolu akpịrị m, anya m agwụla, na-echere Elohim m.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ajụọla m ike"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "n'ịmụ oku m"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "ọkụ ahụrụ goolu"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "akpịrị m"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "agwụla"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "na-echere"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:35.483424374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ọ tụkwara ⟨את⟩ mgbidi-elu nke ọnụ ụzọ ahụ, n'akụkụ ụlọ ahụ dị n'ime — otu ọnụgbọ.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Ọ tụkwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgbidi-elu nke ọnụ ụzọ ahụ"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "mgbidi-elu"
+    },
+    {
+      "surface": "השער",
+      "gloss": "nke ọnụ ụzọ ahụ"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "n'akụkụ ụlọ ahụ dị n'ime"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "otu ọnụgbọ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:44:53.188054854Z",
+  "model": "glm-5.3"
+}

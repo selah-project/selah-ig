@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Zipu otu n'ime unu, ka ọ were ⟨את⟩ nwanne unu; unu wee nọrọ ejide, ka a nyochaa okwu unu, ma eziokwu dị ⟨את⟩ unu; ma ọ bụrụ na ọ bụghị — dịka Paroh dị ndụ — ndị nledo ka unu bụ.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "zipu"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "n'ime unu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ka ọ were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwanne unu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "nwanne unu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ma unu"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "nọrọ ejide"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "ka a nyochaa"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "okwu unu"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "eziokwu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "eziokwu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dị ndụ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ndị nledo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:57:58.089107028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Yahwe nwerekwa okwu ikpe ya na Yehuda, ma ga-atụgharị aka nye Yaaḳob dịka ụzọ ya si dị, dịka ọrụ ya si dị ka ọ ga-atụgharị nye ya.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "okwu ikpe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe nwerekwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "ga-atụgharị aka nye"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaḳob"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "dịka ụzọ ya si dị"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "dịka ọrụ ya si dị"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ọ ga-atụgharị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nye ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:42:58.824194842Z",
+  "model": "glm-5.3"
+}

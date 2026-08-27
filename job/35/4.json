@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "M ga-alọghachitere gị okwu, ⟨את⟩ ndị enyi gị ọ dịkwa gị.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "ga-alọghachitere gị"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị enyi gị"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ndị enyi gị"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ọ dịkwa gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:55:13.013808646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Mgbe ahụ gachara, ọ kàchàrịa ya ikpe — ọ bụ Avdon, nwa Hillel, onye Piraton, ka ji ⟨את⟩ Israel ekpe ikpe.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ọ kàchàrịa ikpe"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mgbe ya gachara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "onye Piraton"
+    }
+  ],
+  "timestamp": "2026-08-27T08:50:06.782247168Z",
+  "model": "glm-5.3"
+}

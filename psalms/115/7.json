@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 115,
+  "translation": "Aka ha nwere ma ha anaghị emetụ ihe aka; ụkwụ ha nwere ma ha anaghị aga ije; ha anaghị ekwu okwu site n'olu ha.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "aka ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ha anaghị"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "emetụ ihe aka"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ụkwụ ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ha anaghị"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "aga ije"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha anaghị"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ekwu okwu"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "site n'olu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:26.696798459Z",
+  "model": "glm-5.3"
+}

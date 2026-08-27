@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 59,
+  "translation": "Ike m, m ga-eche Gị nche, n'ihi na Elohim ⟨bụ⟩ ebe mgbaba m.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Ike m"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Gị"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "m ga-eche nche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ebe mgbaba m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:58.445080628Z",
+  "model": "glm-5.3"
+}

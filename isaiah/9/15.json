@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "N'ihi na ndị na-edu ndị a na-aza obi ụtọ maka ya na-eme ka ha na-ezighị ezi, ma ndị a na-aza obi ụtọ maka ya na-ebelata ha.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "ndị na-edu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "na-ezighị ezi"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "ma ndị a na-edu"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "na-ebelata"
+    }
+  ],
+  "timestamp": "2026-08-27T10:38:36.527259132Z",
+  "model": "glm-5.3"
+}

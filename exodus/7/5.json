@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma ndị Mitzrayim ga-amata na m bụ Yahwe, mgbe m na-agbaty ⟨את⟩ aka m n'elu Mitzrayim, ma m wee kpọpụta ⟨את⟩ ụmụ Yisrael n'etiti ha.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ga-amata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ndị Mitzrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "mgbe m na-agbaty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka m"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ma m wee kpọpụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "n'etiti ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:08:11.143435165Z",
+  "model": "glm-5.3"
+}

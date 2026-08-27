@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "N'ihi olu mkpu ngbanwe m, ọkpụkpụ m na-adakọrọ onwe ha n'ahụ m.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "n'ihi olu"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "mkpu ngbanwe m"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "na-adakọrọ onwe ha"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ọkpụkpụ m"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "n'ahụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:57.400971506Z",
+  "model": "glm-5.3"
+}

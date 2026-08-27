@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Kwụsị, ma cheta na m bụ Elohim; A ga-eli m elu n'etiti mba, A ga-eli m elu n'ụwa.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Kwụsị"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "ma cheta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "A ga-eli m elu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "n'etiti mba"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "A ga-eli m elu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:37.463123309Z",
+  "model": "glm-5.3"
+}

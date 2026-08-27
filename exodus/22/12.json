@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ọ bụrụ na a dachiburu ya n'iberibe, ka ọ wetara ya dị ka ihe akaebe; ọ gaghị akwụ ụgwọ maka ihe a dachiri.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "a dachiburu"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "dachiri"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "ka ọ wetara ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dị ka ihe akaebe"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "ihe a dachiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "akwụ ụgwọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:19.648519074Z",
+  "model": "glm-5.3"
+}

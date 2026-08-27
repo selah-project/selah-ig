@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 30:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "ndị na-aga ịgbadaa Mitsraim ma ọnụ m ha ajụghị, ịchọ ike n'ike nke Paroh, na ịgbaba n'ọnụ nmọọba nke Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ההלכים",
+      "gloss": "ndị na-aga"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ịgbadaa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ma ọnụ m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ajụghị"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ha ajụghị"
+    },
+    {
+      "surface": "לעוז",
+      "gloss": "ịchọ ike"
+    },
+    {
+      "surface": "במעוז",
+      "gloss": "n'ike"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "nke Paroh"
+    },
+    {
+      "surface": "ולחסות",
+      "gloss": "na ịgbaba"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "n'ọnụ nmọọba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nke Mitsraim"
+    }
+  ],
+  "timestamp": "2026-08-27T10:51:08.680238381Z",
+  "model": "glm-5.3"
+}

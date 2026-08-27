@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Onye ezi omume na-elebara ụlọ onye ọjọọ n'uche, na-emebi ndị ọjọọ ruo na ihe ọjọọ.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "na-elebara ... n'uche"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ezi omume"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ọjọọ"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "na-emebi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ọjọọ"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ruo na ihe ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:25:51.681216744Z",
+  "model": "glm-5.3"
+}

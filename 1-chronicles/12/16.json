@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ndị a bụ ndị gafere ⟨את⟩ Osimiri Yarden n'ọnwa mbụ, mgbe ọ na-ejupụta n'akụkụ ya niile, wee chụọ ⟨את⟩ ndị niile nke ndagwurugwu n'ịchọ ọdịda anyanwụ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ndị a"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bụ ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gafere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Osimiri Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Osimiri Yarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "n'ọnwa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "mbụ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mgbe ọ"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "na-ejupụta"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "akụkụ ya"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "wee chụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị niile nke ndagwurugwu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "ndagwurugwu"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "n'ịchọ ọwụwa anyanwụ"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "n'ịchọ ọdịda anyanwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:00:00.226368134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Ọ hụrụ na ezumike dị mma, na ⟨את⟩ ala dị ụtọ; o gbadara ubu ya ibu ibu, wee bụrụ odibo na-atụ ụtọ isi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ọ hụrụ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ezumike"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "dị ụtọ"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "o gbadara"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ubu ya"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "ibu ibu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wee bụrụ"
+    },
+    {
+      "surface": "למס",
+      "gloss": "na-atụ ụtọ isi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "odibo"
+    }
+  ],
+  "timestamp": "2026-08-27T06:04:00.841957742Z",
+  "model": "glm-5.3"
+}

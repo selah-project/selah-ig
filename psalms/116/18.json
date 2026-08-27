@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 116,
+  "translation": "Nkwa m nye Yahwe ka m ga-akwụ, n'ihu ⟨את⟩ ndị ya niile, biko.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "nkwa m"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ka m ga-akwụ"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨את⟩ ndị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:22.702905783Z",
+  "model": "glm-5.3"
+}

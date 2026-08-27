@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ma ọ bụrụ na ọ bụ nwoke daa ogbenye, ị gaghị na-anọdụ ala na ihe ọnya ya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ọ bụrụ na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "עני",
+      "gloss": "daa ogbenye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ị gaghị"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "na-anọdụ ala"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "na ihe ọnya ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:08:26.547393340Z",
+  "model": "glm-5.3"
+}

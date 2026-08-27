@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "Ekwula m n'oge agadi; mgbe ike m gwụsịrị, ahapụla m.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekwula"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "m (tụfuo)"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "agadi"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "mgbe ... gwụsịrị"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ike m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ahapụla"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:23.384481684Z",
+  "model": "glm-5.3"
+}

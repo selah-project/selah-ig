@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "N'ezie, ọma na chesed ga-achụọ m n'oge niile nke ndụ m, ma m ga-anọ n'ụlọ Yahwe ruo ụbọchị ndị dị ogologo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "N'ezie"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọma"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "ga-achụọ m"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ndụ m"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "ma m ga-anọlaghachi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ruo ogologo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:35.097397345Z",
+  "model": "glm-5.3"
+}

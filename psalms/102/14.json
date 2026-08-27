@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Gị ga-ebilite, ga-achọ obi Tsiyon, n'ihi na oge eruola iṅomi ya, n'ihi na oge akara aka bịara.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Gị"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ga-ebilite"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "ga-achọ obi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "eruola iṅomi ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "oge akara aka"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:14.976872111Z",
+  "model": "glm-5.3"
+}

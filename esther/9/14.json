@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Eze kwuru ka a mee otu a, e wepụtara iwu na Shushan, ha kwụsiri ⟨את⟩ ụmụ nwoke iri nke Haman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "ka a mee"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "e wepụtara"
+    },
+    {
+      "surface": "דת",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "na Shushan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ nwoke iri"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "ha kwụsiri"
+    }
+  ],
+  "timestamp": "2026-08-27T15:23:18.448051873Z",
+  "model": "glm-5.3"
+}

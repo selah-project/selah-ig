@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ụmụ Gad dịka ezinụlọ ha: maka Tsefon, ezinụlọ nke ndị Tsefoni; maka Chagi, ezinụlọ nke ndị Chagi; maka Shuni, ezinụlọ nke ndị Shuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dịka ezinụlọ ha"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "maka Tsefon"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ezinụlọ"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "nke ndị Tsefoni"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "maka Chagi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ezinụlọ"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "nke ndị Chagi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "maka Shuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ezinụlọ"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "nke ndị Shuni"
+    }
+  ],
+  "timestamp": "2026-08-27T07:33:42.469781631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "Ma mụ onwe m, ụkwụ m fọrọ nke nta ka ọ dapụ; nzọụkwụ m fọrọ nke nta ka ọ ṅụgharịa dị ka ihe na-adịghị.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ma mụ onwe m"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "fọrọ nke nta"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ka ọ dapụ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ụkwụ m"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "dị ka ihe na-adịghị"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ka ọ ṅụgharịa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "nzọụkwụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:59.043447277Z",
+  "model": "glm-5.3"
+}

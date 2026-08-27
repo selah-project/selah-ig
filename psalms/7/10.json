@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ka ọjọọ ndị ajọ omume gwụchaa, biko, ma ka a guzosie onye ziri ezi; Elohim onye ziri ezi na-enyocha obi na akpa ruru.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "ka ... gwụchaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "ma ka a guzosie"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ziri ezi"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "na-enyocha"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "obi"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "na akpa ruru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:05.998722948Z",
+  "model": "glm-5.3"
+}

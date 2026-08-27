@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 66,
+  "translation": "Bịa nue, hụọ ọrụ Elohim, ọ jụrụ egwu n'ihe ọ rụrụ n'elu ụmụ Adam.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Bịa nue"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "hụọ"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ọ jụrụ egwu"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "n'ihe ọ rụrụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:27.065728494Z",
+  "model": "glm-5.3"
+}

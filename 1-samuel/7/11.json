@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ndị ikom Yisrael wee si na Mitzpa pụta, chụsoo ⟨את⟩ ndị Filistia, ma kụọ ha ruo n'okpuru Beyt-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ha wee pụta"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si na"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ha wee chụsoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Filistia"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Filistia"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ha wee kụọ ha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-08-27T09:02:13.370340928Z",
+  "model": "glm-5.3"
+}

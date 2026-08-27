@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Yishai mụrụ ⟨את⟩ nwa mbụ ya bụ ⟨את⟩ Eliav, Avinadav nke abụọ, na Shimea nke atọ.",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa mbụ ya"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "nwa mbụ ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nke atọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:51:09.853822606Z",
+  "model": "glm-5.3"
+}

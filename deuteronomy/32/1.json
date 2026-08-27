@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Gee ntị, ndịelu, m ga-ekwu okwu; ụwa wee gee ntị ⟨okwu⟩ ⟨nke⟩ ọnụ m.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "gee ntị"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ndịelu"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "m ga-ekwu okwu"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ọ gee ntị"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:30:54.503223403Z",
+  "model": "glm-5.3"
+}

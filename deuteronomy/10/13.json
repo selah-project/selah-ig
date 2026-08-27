@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "idyere ⟨את⟩ iwu nke Yahwe na ⟨את⟩ iwu-akara ya, nke m na-nyere gị iwu taa, maka ihe ọmma gị;",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "idyere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu nke Yahwe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "iwu-akara ya"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "iwu-akara ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "na-nyere gị iwu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "maka ihe ọmma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:55:27.862915312Z",
+  "model": "glm-5.3"
+}

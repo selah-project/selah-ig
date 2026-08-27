@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Mgbe ahụ, ụmụnwaanyị abụọ, akwụna abụọ, bịara n'eze, wee guzo n'ihu ya.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Mgbe ahụ"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ụmụnwaanyị"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "akwụna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'eze"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "wee guzo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:51:32.679522248Z",
+  "model": "glm-5.3"
+}

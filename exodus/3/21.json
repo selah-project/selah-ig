@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "M ga-enye ⟨את⟩ amara nke ndị a n'anya ndị Mitzrajim, ọ ga-adịkwa na mgbe ụnụ na-aga, ụnụ agaghị aga efu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "M ga-enye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amara"
+    },
+    {
+      "surface": "חן",
+      "gloss": "amara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n'anya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ndị Mitzrajim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-adịkwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "mgbe ụnụ na-aga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ụnụ na-aga"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "efu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:59.835270588Z",
+  "model": "glm-5.3"
+}

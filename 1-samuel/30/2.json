@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ha jidere ⟨את⟩ ụmụ nwanyị ndị nọ n'ime ya, site na nwata ruo n'oke-tọọ; ha egbughị otu nwoke, ha dọrọ ha gaa njem ha.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ha jidere dịka ndị a tọọrọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ nwanyị ndị nọ n'ime ya"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ụmụ nwanyị ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nọ n'ime ya"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "site na nwata\/ntakịrị"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "oke-tọọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ha gbuo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "otu nwoke"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "ha dọrọ (duga)"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ha gaa"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "njem ha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:26:00.699530030Z",
+  "model": "glm-5.3"
+}

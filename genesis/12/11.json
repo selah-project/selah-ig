@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 12:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ọ bịarie ịbanye Mitsrajim, ọ gwara Sarai, nwunye ya, sị: «Le anya, biko, m maara na ị bụ nwanyị mara mma n'ọdịnhụ.»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ bụ mgbe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ọ bịarie"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ịbanye"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ gwara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwunye ya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Le anya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "m maara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nwanyị"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "mara mma"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "n'ọdịnhụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:09.171861085Z",
+  "model": "glm-5.3"
+}

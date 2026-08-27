@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 113,
+  "translation": "Toonu Yah! Toonu, ohu nke Yahwe; toonu ⟨את⟩ aha Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Toonu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Toonu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu nke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "toonu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:30.701289960Z",
+  "model": "glm-5.3"
+}

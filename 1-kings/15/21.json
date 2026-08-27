@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "O wee mee, mgbe Asa nụrụ ya, ọ kwụsịrị iwu ⟨את⟩ Rama, ma bie na Tirtza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "O wee mee"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mgbe ọ nụrụ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "ọ kwụsịrị"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ma bie"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "na Tirtza"
+    }
+  ],
+  "timestamp": "2026-08-27T10:04:47.624315422Z",
+  "model": "glm-5.3"
+}

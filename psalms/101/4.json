@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 101,
+  "translation": "Obi gbagọrọ-agbagọ ga-apụ n'aka m; ọjọọ m gaghị ama.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "gbagọrọ-agbagọ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ga-apụ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "n'aka m"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gaghị"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "m ama"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:32.786928113Z",
+  "model": "glm-5.3"
+}

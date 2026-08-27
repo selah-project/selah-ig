@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 94,
+  "translation": "Onye na-adọrọ mba ndị, kwa ọ gaghị ekpebi? Onye na-akụzi mmadụ ihe ọmụma, kwa ọ maghị?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Onye na-adọrọ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ọ na-ekpebi"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Onye na-akụzi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ihe ọmụma"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:03.555915750Z",
+  "model": "glm-5.3"
+}

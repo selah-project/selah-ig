@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Eze n'ịma mma ya ka anya gị ga-ele; ha ga-ahụ ala dị anya.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "n'ịma mma ya"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "ga-ele"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "anya gị"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "ha ga-ahụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "dị anya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:50:24.179568343Z",
+  "model": "glm-5.3"
+}

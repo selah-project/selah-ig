@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "N'ihi ya, gwa ya: Le, m na-enye ya ⟨את⟩ ọgbụgba-ndụ m nke udo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gwa"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Le"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "m na-enye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "nke udo"
+    }
+  ],
+  "timestamp": "2026-08-27T07:34:21.540129743Z",
+  "model": "glm-5.3"
+}

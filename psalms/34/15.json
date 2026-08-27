@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Laghachite n'ọjọọ, me ihe ọma; chọọ udo, jiri gbaa ya ọsọ.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Laghachite"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "n'ọjọọ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ma me"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "chọọ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "jiri gbaa ya ọsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:09.333098829Z",
+  "model": "glm-5.3"
+}

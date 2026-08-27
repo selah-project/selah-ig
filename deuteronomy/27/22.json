@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "A ṅụọ ya onye na-ehi ụra ya na nwanne ya nwanyị, nwa nwanyị nke nna ya ma ọ bụ nwa nwanyị nke nne ya; ma obodo niile ga-ekwu, Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "A ṅụọ ya"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "onye na-ehi ụra ya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "nwanne ya nwanyị"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nke nna ya"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nke nne ya"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ma ... ga-ekwu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "obodo ⟨the⟩"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-27T08:11:27.983444230Z",
+  "model": "glm-5.3"
+}

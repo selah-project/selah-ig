@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Ịkpara ya ihe onwunwe ya ndị niile na-agafe ụzọ; ọ ⟨bụ⟩ ihere n'aka ndị agbata obi ya.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "Ịkpara ya ihe onwunwe ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ihere"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "n'aka ndị agbata obi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:36.211275190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "N'ezie, Elohim ga-akụchasịa isi ndị iro ya, okpokoro isi nke ntutu nke onye na-eje ije n'mmehie ya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "ga-akụchasịa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ndị iro ya"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "okpokoro isi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "nke ntutu"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "na-eje ije"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "n'mmehie ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:19.466331959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 66,
+  "translation": "N'ime ha ka m ga-ewekwa ụfọdụ ka ndị nchuaja na ka ndị Lẹvì, ka o kwuru, Yahwe.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ewekwa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "n'ime ha"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "m ga-ewe"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ka ndị nchuaja"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ka ndị Lẹvì"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka o kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:12:42.620070198Z",
+  "model": "glm-5.3"
+}

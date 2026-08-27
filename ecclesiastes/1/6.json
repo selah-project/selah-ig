@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Na-aga rue n'aka ndịda, na-agbagharị rue n'aka ugwu; na-agbagharị, na-agbagharị ka ọ na-aga, ikuku; na gburugburu ya ikuku alaghachiri.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rue"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "ndịda"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "na-agbagharị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rue"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "na-agbagharị"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "na-agbagharị"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ikuku"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "gburugburu ya"
+    },
+    {
+      "surface": "שב",
+      "gloss": "alaghachiri"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ikuku"
+    }
+  ],
+  "timestamp": "2026-08-27T15:13:45.012181512Z",
+  "model": "glm-5.3"
+}

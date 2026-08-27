@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "N'ọnwa nke asaa, n'ụbọchị nke iri na asaa n'ọnwa ahụ, ụgbọ mmiri ahụ zuru ike n'elu ugwu ndị Ararat",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "zuru ike"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ụgbọ mmiri"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "n'ọnwa"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "nke asaa"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "nke iri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na asaa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "n'ọnwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ugwu ndị"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Ararat"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:25.794889367Z",
+  "model": "glm-5.3"
+}

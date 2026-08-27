@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ha ga-ewe ⟨את⟩ ọla edo, na ⟨את⟩ anụnụ, na ⟨את⟩ uhie eze, na ⟨את⟩ ikpuru shani, na ⟨את⟩ akwa edo dị ọcha.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ga-ewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọla edo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "anụnụ"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "anụnụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uhie eze"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "uhie eze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ikpuru shani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ikpuru"
+    },
+    {
+      "surface": "השני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "akwa edo dị ọcha"
+    },
+    {
+      "surface": "השש",
+      "gloss": "akwa edo dị ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:28:07.283760241Z",
+  "model": "glm-5.3"
+}

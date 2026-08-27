@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Anya Yahwe dị n'akụkụ ndị ezi omume, ntị Ya wee dị n'akụkụ mkpu ha.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Anya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dị n'akụkụ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ndị ezi omume"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "ntị Ya wee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dị n'akụkụ"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "mkpu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:09.333220988Z",
+  "model": "glm-5.3"
+}

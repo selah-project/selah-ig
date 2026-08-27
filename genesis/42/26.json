@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Ha burukwa ⟨את⟩ ọka ha n'elu ndị nyi ha, wee si ebe ahụ pụọ.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ha buru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọka ha"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "ọka ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ndị nyi ha"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ha pụọ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:57:45.600193836Z",
+  "model": "glm-5.3"
+}

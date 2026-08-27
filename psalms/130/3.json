@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 130,
+  "translation": "Ọ bụrụ na ị na-edere ajọ omume n'aka, Yah, Adonai, onye ka ga-adịgu?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "ajọ omume"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ị na-edere n'aka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye ka"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ga-adịgu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:47.223884817Z",
+  "model": "glm-5.3"
+}

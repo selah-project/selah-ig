@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Zipu nne ahụ ka ọ pụọ, were ⟨את⟩ ụmụ ahụ maka gị n'onwe gị, ka ọ dị gị mma ma ka ị na-adịte ndụ ọtụtụ ụbọchị.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "zipu"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ka ọ pụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nne ahụ"
+    },
+    {
+      "surface": "האם",
+      "gloss": "nne ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ahụ"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ụmụ ahụ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ọ dị gị mma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "ka ị na-adịte ndụ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ọtụtụ ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:07:08.932884282Z",
+  "model": "glm-5.3"
+}

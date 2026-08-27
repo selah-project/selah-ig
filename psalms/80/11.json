@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Ugwu kpuchiri onyinyo ya, alaka ya bụ cedar ndị El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "kpuchiri"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "onyinyo ya"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "alaka ya"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedar ndị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:23.931790817Z",
+  "model": "glm-5.3"
+}

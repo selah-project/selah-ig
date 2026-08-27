@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "Chere m n'obi ụbọchị ndị gara aga, afọ ndị oge enweghị mmalite.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "chere m n'obi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị ndị"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "gara aga"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "afọ ndị"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "oge enweghị mmalite"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:51.960337593Z",
+  "model": "glm-5.3"
+}

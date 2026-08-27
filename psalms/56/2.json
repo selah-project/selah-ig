@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 56,
+  "translation": "Meere m ebere, Elohim, n'ihi na mmadụ na-eli m; ọ na-alụso m ọgụ ụbọchị niile, na-emanụ m ala.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "meere m ebere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "na-eli m"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "na-alụso ọgụ"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "na-emanụ m ala"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:36.419627673Z",
+  "model": "glm-5.3"
+}

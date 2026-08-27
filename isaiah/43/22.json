@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Ma ị nọghị akpọọ m ⟨את⟩ oku, nwa Yaakov, n'ihi na ị gwụrụ ike n'ihe gbasara m, nwa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m (okpu m)"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ị nọ akpọọ oku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "nwa Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ị gwụrụ ike"
+    },
+    {
+      "surface": "בי",
+      "gloss": "n'ihe gbasara m"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nwa Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T10:58:34.950500142Z",
+  "model": "glm-5.3"
+}

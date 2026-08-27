@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Yahwe nọkwasịrị ⟨את⟩ Yehoshua; aha ya gwụrụ ala niile.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ nọkwasịrị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "okwu ya gbasara"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "okwu ụda ya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ala niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    }
+  ],
+  "timestamp": "2026-08-27T08:23:52.447097617Z",
+  "model": "glm-5.3"
+}

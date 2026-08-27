@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 15:5",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Mmiri omimi kpuchiri ha; ha dara n'ime omimi dịka nkume.",
+  "tokens": [
+    {
+      "surface": "תהמת",
+      "gloss": "mmiri omimi"
+    },
+    {
+      "surface": "יכסימו",
+      "gloss": "kpuchiri ha"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ha dara"
+    },
+    {
+      "surface": "במצולת",
+      "gloss": "n'ime omimi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "nkume"
+    }
+  ],
+  "timestamp": "2026-08-27T06:15:12.776954963Z",
+  "model": "glm-5.3"
+}

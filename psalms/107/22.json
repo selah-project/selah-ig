@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ka ha chụọ àjà nke ekele, ka ha kọwaaakwa ọrụ ya n'abụ Ọṅụ.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "ka ha chụọ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "àjà"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "nke ekele"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ka ha kọwaaakwa"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ọrụ ya"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "n'abụ Ọṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:42.531468517Z",
+  "model": "glm-5.3"
+}

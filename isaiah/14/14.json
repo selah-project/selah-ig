@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "M ga-ebuli elu ọnụ elu nke urukpụ, m ga-dị ⟨ka⟩ Elyon.",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "m ga-ebuli elu"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "ọnụ elu nke"
+    },
+    {
+      "surface": "עב",
+      "gloss": "urukpụ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "m ga-dị ka"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-27T10:38:38.009368079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma ọ yipụ ⟨את⟩ uwe ya, ma yie uwe ndị ọzọ, ma buo ⟨את⟩ ntụ ahụ pụọ ná mpụga ogige ahụ, gaa n'ebe dị ọcha.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "Ma ọ yipụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe ya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uwe ya"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ma yie"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ndị ọzọ"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ma buo... pụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntụ"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ntụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ná mpụga"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ogige"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dị ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:47:25.769040135Z",
+  "model": "glm-5.3"
+}

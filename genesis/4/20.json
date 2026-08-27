@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Adah wee mụọ ⟨את⟩ Yaval; ọ bụ ya bụ nna ndị na-anọ n'ụlọikwu na ndị nwere ìgwè anụmanụ.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "mụọ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ ya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "na-anọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "n'ụlọikwu"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "na ndị nwere ìgwè anụmanụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:00.317227303Z",
+  "model": "glm-5.3"
+}

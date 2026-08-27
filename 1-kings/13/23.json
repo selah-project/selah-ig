@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 13:23",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ọ wee bụrụ na mgbe ọ riri nri, mgbe ọ ṅụrịrị mmiri, ka o nyere ya inyinya-ọhịa maka onye-amụma ahụ ọ tụgharịrịlaghachi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ wee bụrụ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ọ riri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "שתותו",
+      "gloss": "ọ ṅụrịrị"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "o nyere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "inyinya-ọhịa"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "maka onye-amụma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "ọ tụgharịrịlaghachi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:01:52.025412126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ọ sịrị n'obi ya, ⟨⟩M ga-agbapụghị; mbụọ mbụọ ruo Ọgbọ nke Ọgbọ, nsogbu agaghị eme m.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ọ sịrị"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "n'obi ya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "M ga-agbapụghị"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ruo Ọgbọ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nke Ọgbọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "nsogbu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:17.535276987Z",
+  "model": "glm-5.3"
+}

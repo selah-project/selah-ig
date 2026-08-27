@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Và nwoke nke ga-dọrọ ⟨את⟩ nwanne nne ya nwanyị — mkpughe ahụ nke nwanne nna ya ka ọ kpughere — ha ga-ibu mmehie ha; ha ga-anwụ n'enweghị ụmụ.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Và nwoke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ga-dọrọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwanne nne ya nwanyị"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "nwanne nne ya nwanyị"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "mkpughe ahụ"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "nwanne nna ya"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ọ kpughere"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "mmehie ha"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ha ga-ibu"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "n'enweghị ụmụ"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ha ga-anwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:03:31.445162537Z",
+  "model": "glm-5.3"
+}

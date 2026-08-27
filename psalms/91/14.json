@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "N'ihi na o jikọtara onwe ya n'ime m, m ga-erekwa ya; m ga-eweli ya elu, n'ihi na ọ maara aha m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בי",
+      "gloss": "n'ime m"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "o jikọtara onwe ya"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "m ga-erekwa ya"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "m ga-eweli ya elu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ọ maara"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "aha m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:14.502494616Z",
+  "model": "glm-5.3"
+}

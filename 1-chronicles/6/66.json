@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Na ⟨את⟩ Cheshbon tinyere ⟨את⟩ ala mgbaba ya, na ⟨את⟩ Yaazeer tinyere ⟨את⟩ ala mgbaba ya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala mgbaba ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ala mgbaba ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yaazeer"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "Yaazeer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala mgbaba ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ala mgbaba ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:54:49.937320137Z",
+  "model": "glm-5.3"
+}

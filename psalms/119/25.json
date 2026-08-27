@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Mkpụrụ obi m nọrọ na ntọ ala kpọnwuo; mee ka m dịghachi ndụ dịka okwu gị si dị.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "nọrọ na-ntọ kpọnwuo"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "na ntọ ala"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "mee ka m dịghachi ndụ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "dịka okwu gị si dị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:34.654760391Z",
+  "model": "glm-5.3"
+}

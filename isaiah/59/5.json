@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 59,
+  "translation": "Akwa agwọ ọkụ ka ha na-apụta, ụgbụ nke njenje ka ha na-ekwe; onye na-eri akwa ha ga-anwụ, nke a mịrị ga-amụ agwọ ọkụ.",
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "akwa"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "agwọ ọkụ"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "ha na-apụta"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "ụgbụ"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "nke njenje"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "ha na-ekwe"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "onye na-eri"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "akwa ha"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ga-anwụ"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "nke a mịrị"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "ga-amụ"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "agwọ ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:09:59.850096849Z",
+  "model": "glm-5.3"
+}

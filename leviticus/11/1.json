@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Yahwe gara n'ihu na-asụ okwu nye Moshe na nye Aharon, na-ekwu ha, ka ha gwa",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gara n'ihu na-asụ okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na nye"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:50:40.914819341Z",
+  "model": "glm-5.3"
+}

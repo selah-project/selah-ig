@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Nefesh nyere-aka ga-aba ndụ; ma onye na-agbapụta mmiri, ya onwe ya ka a ga-agbapụta mmiri.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "onye nyere-aka"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ga-aba ndụ"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "ma onye na-agbapụta mmiri"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọzọkwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya onwe ya"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "a ga-agbapụta mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T14:22:19.799058758Z",
+  "model": "glm-5.3"
+}

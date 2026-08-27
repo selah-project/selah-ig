@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Were ⟨את⟩ ndị Levi n'etiti ụmụ Yisrael, ma mee ka ⟨את⟩ ha dị ọcha.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ndị Levi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "ma mee ka ha dị ọcha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:18:34.318548290Z",
+  "model": "glm-5.3"
+}

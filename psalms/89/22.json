@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Onye aka m ga-adịgidere ya; nakwa aka-ike m ga-eme ka ike ya.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ga-adịgidere"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "aka-ike m"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "ga-eme ka ike ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:49:08.024931603Z",
+  "model": "glm-5.3"
+}

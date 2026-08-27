@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "O were ⟨את⟩ nwa ehi ahụ ha mere, gbaa ya ọkụ n'ọkụ, gwuo ya rue mgbe ọ tara ntakiri, gbasaa ya n'elu ihu mmiri ahụ, ma mee ka ụmụ Yisrael ṅụọ ya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "o were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ehi ahụ"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "nwa ehi ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ha mere"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "gbaa ọkụ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "gwuo ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "דק",
+      "gloss": "ọ tara ntakiri"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "gbasaa ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri ahụ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "mee ka ha ṅụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T06:36:49.913239423Z",
+  "model": "glm-5.3"
+}

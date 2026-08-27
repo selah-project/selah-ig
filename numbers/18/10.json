@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "N'ebe nsọ nke ihe nsọ ka ị ga-eri ya; nwoke ọ bụla ga-eri ⟨את⟩ ya; ihe nsọ ka ọ ga-abụ maka gị.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "n'ebe nsọ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "nke ihe nsọ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ị ga-eri ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ihe nsọ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ka ọ ga-abụ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:30:02.913128961Z",
+  "model": "glm-5.3"
+}

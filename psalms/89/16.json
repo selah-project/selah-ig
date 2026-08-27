@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Obi dịịrị ndị mmadụ maara ụda mkpu òtò, Yahwe; n'ìhè nke ihu gị ha na-eje ije.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "obi dịịrị"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "maara"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "ụda mkpu òtò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "n'ìhè"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nke ihu gị"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ha na-eje ije"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:21.581324082Z",
+  "model": "glm-5.3"
+}

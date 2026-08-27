@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọ nụghị olu, ọ nabataghị mmezigharị; na Yahwe ọ dabeghị nkwa, ruo na Elohim ya ọ nọghị nso.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ ... -ghị"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "nụ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ ... -ghị"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "nabata"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mmezigharị"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ ... -ghị"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "dabara nkwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo na"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ ... -ghị"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "nọ ná nso"
+    }
+  ],
+  "timestamp": "2026-08-27T13:01:25.974160694Z",
+  "model": "glm-5.3"
+}

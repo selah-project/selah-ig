@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 41:21",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Banye n'ọgụgụ ọnụ unu, ka Yahwe kwuru; nyere anyị ike ndị unu dị ike, ka Eze Yaakov kwuru.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "banye"
+    },
+    {
+      "surface": "ריבכם",
+      "gloss": "ọgụgụ ọnụ unu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "ike ndị unu dị ike"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-27T10:57:36.597910374Z",
+  "model": "glm-5.3"
+}

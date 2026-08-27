@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "n'ihi na ndị isi ya nọ na Tsoan, ma ndị ozi ya ruru Hanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nọ"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "na Tsoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ndị isi ya"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "ma ndị ozi ya"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Hanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "ru"
+    }
+  ],
+  "timestamp": "2026-08-27T10:51:08.680497308Z",
+  "model": "glm-5.3"
+}

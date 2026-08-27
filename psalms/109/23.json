@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Dịka onyinyo mgbe ọ na-atụfu m ga-aga; a tụpụrụ m gburugbu dịka nke ŋkwọ.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "Dịka onyinyo"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "mgbe ọ na-atụfu"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "m ga-aga"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "a tụpụrụ m gburugbu"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "dịka nke ŋkwọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:58.945979008Z",
+  "model": "glm-5.3"
+}

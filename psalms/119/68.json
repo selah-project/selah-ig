@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ị bụ onye mma, ma na-eme ihe ọma; kuziere m iwu-nduzi gị.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "onye mma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "ma na-eme ihe ọma"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "kuziere m"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "iwu-nduzi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:27.723274696Z",
+  "model": "glm-5.3"
+}

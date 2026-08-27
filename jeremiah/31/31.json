@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Lee, ụbọchị na-abịa, nkwu Yahwe, mgbe m ga-ekere ⟨את⟩ ụlọ Yisrael na ⟨את⟩ ụlọ Yehuda ọgbụgba-ndụ ọhụrụ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lee"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "באים",
+      "gloss": "na-abịa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "mgbe m ga-ekere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụlọ Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "ọhụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:38:49.413262963Z",
+  "model": "glm-5.3"
+}

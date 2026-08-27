@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 56,
+  "translation": "N'ụbọchị m na-atụ ụjọ, m ga-adabere na gị.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "m na-atụ ụjọ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na gị"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ga-adabere"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:36.419883834Z",
+  "model": "glm-5.3"
+}

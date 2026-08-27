@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Elohim, Ị chụpụla anyị, Ị mebisịla anyị, Ọṅụ ji gị — laghachikwuru anyị!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "Ị chụpụla anyị"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "Ị mebisịla anyị"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "Ọṅụ ji gị"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "laghachikwuru"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:33.967509234Z",
+  "model": "glm-5.3"
+}

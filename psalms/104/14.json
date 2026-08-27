@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Ọ na-eme ka ahịhịa to eto maka anụ ụlọ, na akwụkwọ nri maka ọrụ nke mmadụ, iji wepụta achịcha site n'ụwa.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Ọ na-eme ka ... to eto"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ahịhịa"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "maka anụ ụlọ"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "na akwụkwọ nri"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "maka ọrụ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nke mmadụ"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "iji wepụta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "achịcha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:44.458449650Z",
+  "model": "glm-5.3"
+}

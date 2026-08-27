@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ndị a ka ụbọchị nke afọ ndụ Avraham bụ, nke o bi: otu narị afọ na afọ iri asaa na afọ ise.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ndị a"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "שני",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חי",
+      "gloss": "o bi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "otu narị"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "iri asaa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ise"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:40:13.859869762Z",
+  "model": "glm-5.3"
+}

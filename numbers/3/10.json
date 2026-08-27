@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ị ga-edepụta ⟨את⟩ Aharon na ⟨את⟩ ụmụ ya, ha ga-echebe ⟨את⟩ ọrụ ịchụàjà ha; onye ọzọ ọ bụla na-eru nso ga-anwụ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "Ị ga-edepụta"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ha ga-echebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ ịchụàjà ha"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "ọrụ ịchụàjà ha"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "onye ọzọ ọ bụla"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "na-eru nso"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ga-anwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:12:44.290380967Z",
+  "model": "glm-5.3"
+}

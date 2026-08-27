@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 110,
+  "translation": "Ndị gị ga-abụ ndị nyere onwe ha n'ọchịchọ n'ụbọchị ike gị, na ndị mara mma nke nsọ — site n'afọ nke ọsịsa: gị bụ onye nwere igurube nke ntorobịa gị.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Ndị gị"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "ndị nyere onwe ha n'ọchịchọ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "ike gị"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "na ndị mara mma"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nke nsọ"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "site n'afọ"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "nke ọsịsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị bụ onye nwere"
+    },
+    {
+      "surface": "טל",
+      "gloss": "igurube"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ntorobịa gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:40.231997040Z",
+  "model": "glm-5.3"
+}

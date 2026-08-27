@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Eze weepụta ⟨את⟩ mgbanaka akara aka ya, nke ọ wepụrụ n'aka Haman, wee nye ya Mordekai; Ester wee dee Mordekai ⟨את⟩ n'elu ụlọ Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "weepụta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgbanaka akara aka ya"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "mgbanaka akara aka ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "wepụrụ"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "n'aka Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "nye ya"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "dee"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    }
+  ],
+  "timestamp": "2026-08-27T15:22:33.621803860Z",
+  "model": "glm-5.3"
+}

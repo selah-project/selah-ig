@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "N'ihi na onye ka Elohu ma e wezụga Yahwe? Ma onye ka nkume ma e wezụga Elohim anyị?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye ka"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohu"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ma e wezụga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ma onye ka"
+    },
+    {
+      "surface": "צור",
+      "gloss": "nkume ukwu"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ma e wezụga"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:58.461527166Z",
+  "model": "glm-5.3"
+}

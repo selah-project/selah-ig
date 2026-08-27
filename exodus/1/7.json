@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ndị Israel amụọ ụmụ, gbawaa nke ukwuu, mụbaa, bụrụkwa ndị ike n'ụzọ na-agafe agafe, ruo mgbe ⟨את⟩ ala ahụ jupụtara na ha.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndị"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "amụọ ụmụ"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "gbawaa nke ukwuu"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "mụbaa"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "bụrụkwa ndị ike"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "n'ụzọ na-agafe agafe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "na-agafe agafe"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "jupụtara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:40.705676330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Elimelék, di Naọmi, nwụrụ, ọ fọdụrụ ya na ụmụ ya nwoke abụọ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "nwụrụ"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelék"
+    },
+    {
+      "surface": "איש",
+      "gloss": "di"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naọmi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ọ fọdụrụ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na ụmụ abụọ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ya nwoke"
+    }
+  ],
+  "timestamp": "2026-08-27T15:05:28.167854416Z",
+  "model": "glm-5.3"
+}

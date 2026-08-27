@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Anyị bụ ụmụnne iri na abụọ, ụmụ otu nna; otu ⟨anọghịzi⟩, ma onye ọdụụ nọ taa ⟨את⟩ nna anyị n'ala Kenaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "iri na"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ụmụnne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "nna anyị"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "anọghịzi"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "ma onye ọdụụ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna anyị"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "nna anyị"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-27T05:59:09.956580785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ bụghị otu ahụ ka ndị rụrụ arụ, kama dị ka uzụ nke ifufe na-efe pụọ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu ahụ"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ndị rụrụ arụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dị ka"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ka uzụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "na-efe pụọ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ifufe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:46.868400046Z",
+  "model": "glm-5.3"
+}

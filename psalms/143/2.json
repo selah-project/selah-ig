@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 143,
+  "translation": "Ma abịghị n'ikpe ⟨את⟩ ohu gị, maka na onye ọ bụla dị ndụ agaghị ekpe ziri ezi n'ihu gị.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ma abịghị"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "bị"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "n'ikpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohu gị"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ekpe ziri ezi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dị ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:51.132393289Z",
+  "model": "glm-5.3"
+}

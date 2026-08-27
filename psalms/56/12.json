@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 56,
+  "translation": "Na Elohim ka m tinyere ntụkwasị obi; agaghị m atụ ụla — gịnị kwa ka mmadụ ga-eme m?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Na Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ka m tinyere ntụkwasị obi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "m atụ ụla"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị kwa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:26.041385473Z",
+  "model": "glm-5.3"
+}

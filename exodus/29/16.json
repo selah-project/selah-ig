@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "M ga-egbu ⟨את⟩ atụrụ ikom ahụ, were ⟨את⟩ ọbara ya, ma fụfụọ ya gburu gburu n'elu ebe ịchụàjà.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "ga-egbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atụrụ ikom ahụ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "atụrụ ikom ahụ"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọbara ya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ọbara ya"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "fụfụọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburu gburu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:31:46.070281393Z",
+  "model": "glm-5.3"
+}

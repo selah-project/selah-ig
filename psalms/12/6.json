@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "N'ihi mmebi nke ndị ogbenye, n'ihi mkpu nke ndị na-enweghị ihe ọ bụla, n'oge a ka m ga-ebilite, ka Yahwe sị; m ga-etinye ya n'ihe nzọpụ ọ na-eku ume maka ya.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "n'ihi mmebi"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ndị ogbenye"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "n'ihi mkpu"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ndị na-enweghị ihe ọ bụla"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "n'oge a"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "m ga-ebilite"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ka ... sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "m ga-etinye"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "n'ihe nzọpụ"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "na-eku ume maka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:20.491648803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma e nwere anyasị, ma e nwere ụtụtụ — ụbọchị nke ise.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ma e nwere"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "anyasị"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ma e nwere"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ụtụtụ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "nke ise"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:11.630689506Z",
+  "model": "glm-5.3"
+}

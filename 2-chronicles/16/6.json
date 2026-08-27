@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Asa, eze ahụ, were ⟨את⟩ Juda niile, ha buuru ⟨את⟩ nkume Rama na ⟨את⟩ osisi ya bụ ndị Baasha wuru, o wee jiri ha wuo ⟨את⟩ Geba na ⟨את⟩ Mitzpa.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ha buuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkume Rama"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "osisi ya"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "osisi ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ ndị"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wuru"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "o wee wuo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jiri ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mitzpa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:13:41.859750454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "⟨את⟩ tebule ahụ, ⟨את⟩ ngwa ya niile, na ⟨את⟩ achịcha nke ihu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tebule ahụ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tebule ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwa ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwa ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "achịcha nke ihu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "achịcha"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ihu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:15.020578864Z",
+  "model": "glm-5.3"
+}

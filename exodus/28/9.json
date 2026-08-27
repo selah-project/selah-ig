@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Were ⟨את⟩ nkume shoham abụọ, ma tee ha aha ụmụ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkume shoham abụọ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "tee"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T06:28:37.522883980Z",
+  "model": "glm-5.3"
+}

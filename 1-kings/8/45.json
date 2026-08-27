@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Mgbe ahụ, gị ga-anụ n'eluigwe ⟨את⟩ ekpere ha na ⟨את⟩ arịrịọ ha, gị wee mee ikpe ha.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "gị ga-anụ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekpere ha"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ekpere ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arịrịọ ha"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "arịrịọ ha"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "gị wee mee"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ikpe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:58:27.237607132Z",
+  "model": "glm-5.3"
+}

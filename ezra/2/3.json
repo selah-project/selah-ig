@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ụmụ Parosh, puku abụọ na narị asaa na iri asaa na abụọ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ụmụ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "puku abụọ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "narị asaa"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "iri asaa"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "na abụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:34:26.176975765Z",
+  "model": "glm-5.3"
+}

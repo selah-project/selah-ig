@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "N'ihi ya, lee, m na-agbachi ⟨את⟩ ụzọ gị na ụgbụgbọ, m ga-ewu ⟨את⟩ mgbidi ya, ụzọ ọnụ ya ga-apụ n'anya.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lee, m na-"
+    },
+    {
+      "surface": "שך",
+      "gloss": "agbachi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụzọ gị"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ụzọ gị"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "na ụgbụgbọ"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "m ga-ewu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgbidi ya"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "mgbidi ya"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "ụzọ ọnụ ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga-apụ n'anya ọ bụghị"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ọ ga-ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:37:57.958474722Z",
+  "model": "glm-5.3"
+}

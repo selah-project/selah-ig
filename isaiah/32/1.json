@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Lee, maka ezi okwu ka eze na-achị, na ndị isi maka ikpe ziri ezi ka ha na-achị.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Lee"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "maka ezi okwu"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ka eze na-achị"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "na ndị isi"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "maka ikpe ziri ezi"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ka ha na-achị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:49:31.529746504Z",
+  "model": "glm-5.3"
+}

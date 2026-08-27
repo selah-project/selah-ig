@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma Lewi na Benyamin ọ nọghị n'etiti ha, maka na okwu eze bụrụ ihe na-eru ala nye Yowab.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "ma Lewi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "na Benyamin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ nọghị"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "(a gụghị)"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "n'etiti ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "bụrụ ihe na-eru ala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    }
+  ],
+  "timestamp": "2026-08-27T16:02:58.324064286Z",
+  "model": "glm-5.3"
+}

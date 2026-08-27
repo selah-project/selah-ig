@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Yahwe nuru Yechizkiyahu, ma Ọgwụgwọgwụzie ⟨את⟩ ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "Ọgwụgwọgwụzie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:18:40.585502977Z",
+  "model": "glm-5.3"
+}

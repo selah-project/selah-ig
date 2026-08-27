@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 1:6",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma n'etiti ha nwere ụfọdụ n'ime ụmụ Yehudah: Daniel, Ḥananyah, Mishael na Azaryah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ma nwere"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'etiti ha"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "n'ime ụmụ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Ḥananyah"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishael"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "na Azaryah"
+    }
+  ],
+  "timestamp": "2026-08-27T15:22:09.527508928Z",
+  "model": "glm-5.3"
+}

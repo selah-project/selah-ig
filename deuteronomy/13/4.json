@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 13:4",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "ị ga-anụghị okwu nke onye-amụma ahụ, ma ọ bụ nke onye na-atụ nrọ ahụ; n'ihi na Yahwe, Elohim gị, na-anwale unu, iji mata ma unu na-ahụ Yahwe, Elohim unu, n'obi unu niile na n'onwe unu niile.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ị ga-anụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "onye-amụma ahụ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חולם",
+      "gloss": "onye na-atụ nrọ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "nrọ ahụ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מנסה",
+      "gloss": "na-anwale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "iji mata"
+    },
+    {
+      "surface": "הישכם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "na-ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'… niile"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "obi unu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na n'… niile"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "onwe unu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:00:33.340782162Z",
+  "model": "glm-5.3"
+}

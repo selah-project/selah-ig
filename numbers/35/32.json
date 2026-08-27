@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 35:32",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Unu ghara ịnabata kofér maka onye gbagara n'obodo mgbapụ ya, ka ọ laghachi bie n'ala, ruo ọnwụ nke onye nchu-aja.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "inu ga-anabata"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "kofér"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "maka ịgbapụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "mgbapụ ya"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ka ọ laghachi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "bie"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchu-aja"
+    }
+  ],
+  "timestamp": "2026-08-27T16:29:51.476875329Z",
+  "model": "glm-5.3"
+}

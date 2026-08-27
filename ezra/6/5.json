@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 6:5",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ọzọkwa, ngwaahịa nke ụlọ Elohim, nke ọlaedo na ọlaọcha, nke Nevukadnetstsar wepụtara n'ụlọ nsọ dị na Yerushalayim ma bubata Babilọn — ka e weghachite ⟨ha⟩, ma bugharịa ⟨ha⟩ gaa n'ụlọ nsọ dị na Yerushalayim, ọ bụla n'ebe ya, ma tinye ⟨ha⟩ n'ụlọ Elohim.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "ọzọkwa"
+    },
+    {
+      "surface": "מאני",
+      "gloss": "ngwaahịa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "די",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דהבה",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "ọlaọcha"
+    },
+    {
+      "surface": "די",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetstsar"
+    },
+    {
+      "surface": "הנפק",
+      "gloss": "wepụtara"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "היכלא",
+      "gloss": "ụlọ nsọ"
+    },
+    {
+      "surface": "די",
+      "gloss": "dị na"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "והיבל",
+      "gloss": "ma bubata"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Babilọn"
+    },
+    {
+      "surface": "יהתיבון",
+      "gloss": "ka e weghachite"
+    },
+    {
+      "surface": "ויהך",
+      "gloss": "ma bugharịa gaa"
+    },
+    {
+      "surface": "להיכלא",
+      "gloss": "n'ụlọ nsọ"
+    },
+    {
+      "surface": "די",
+      "gloss": "dị na"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לאתרה",
+      "gloss": "n'ebe ya"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T15:36:57.459328141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ma ọ bụrụ na ị naghị anụ anyị ka ị ga-aka ozu, anyị ga-ewe ⟨את⟩ nwaanyị anyị ma pụọ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ị naghị anụ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "ka ị ga-aka ozu"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "anyị ga-ewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwaanyị anyị"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "nwaanyị anyị"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "ma pụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:50:33.028525572Z",
+  "model": "glm-5.3"
+}

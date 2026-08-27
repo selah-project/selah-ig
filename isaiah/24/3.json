@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "A ga-emighide ⟨the⟩ ụwa kpamkpam, a ga-ebipụkwa ya kpamkpam, n'ihi na Yahwe kwuru ⟨את⟩ okwu a.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "A ga-emighide"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "kpamkpam"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ ụwa"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "a ga-ebipụkwa"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "kpamkpam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ okwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T10:48:00.566240725Z",
+  "model": "glm-5.3"
+}

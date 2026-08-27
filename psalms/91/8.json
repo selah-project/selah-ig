@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "Naanị anya gị ka ị ga-ele, ma nweta ụgwọ nke ndị ajọ omume ị ga-ahụ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "anya gị"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "ị ga-ele"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "ụgwọ nke"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ị ga-ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:15.121807094Z",
+  "model": "glm-5.3"
+}

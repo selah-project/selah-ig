@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ma ha anụghị, kama ha kwụsịrị ⟨את⟩ olu-azụ ha siri ike, dịka olu-azụ nna ha, ndị ekwetaghị na Yahwe Elohim ha.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ma ha anaghị"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "anụ"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ha kwụsịrị siri ike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olu-azụ ha"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "olu-azụ ha"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "dịka olu-azụ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "nna ha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ekwetaghị"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:26:37.659106421Z",
+  "model": "glm-5.3"
+}

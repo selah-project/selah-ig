@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "N'ime gị, Yahwe, m na-ezoro ike; ka m ghara ihere ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "n'ime gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m na-ezoro ike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "m na-akpa ihere"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:01.628041057Z",
+  "model": "glm-5.3"
+}

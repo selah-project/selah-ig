@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 81,
+  "translation": "O! Ojuju m na-anụ m, Yisrael na-aga n'ụzọ m!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "O!"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ojuju m"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "na-anụ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "n'ụzọ m"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "na-aga"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:55.699739298Z",
+  "model": "glm-5.3"
+}

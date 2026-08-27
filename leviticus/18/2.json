@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Soro ụmụ Yisrael, gwa ha: Mụ bụ Yahwe, Elohim unu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Soro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "gwa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mụ bụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:56:47.073437647Z",
+  "model": "glm-5.3"
+}

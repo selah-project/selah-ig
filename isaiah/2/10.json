@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Banye n'⟨nkume⟩, zoo onwe gị n'⟨ájá⟩, n'ihu ụjọ nke Yahwe na ùgwù nke ebube ya.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "banye"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "n'nkume"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "zoo onwe gị"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "n'ájá"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ụjọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "na ùgwù"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "nke ebube ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:30:22.456118649Z",
+  "model": "glm-5.3"
+}

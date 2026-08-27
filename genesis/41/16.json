@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Yosef wee zaa ⟨את⟩ Paroh, na-ekwu, 'Ọ dịghị n'aka m; Elohim ga-aza ⟨את⟩ udo Paroh.'",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wee zaa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "ọ dịghị n'aka m"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ga-aza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udo Paroh"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-27T05:54:11.674530908Z",
+  "model": "glm-5.3"
+}

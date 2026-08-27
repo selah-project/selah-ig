@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Anyanwụ na-epụta, anyanwụ na-edaba, na-agbasi ike ịlaghachi n'ebe ọ pụtara, na-epụtakwa ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "na-epụta"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "na-edaba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ebe ya"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "na-eku ume (na-agbasi ike)"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "na-epụta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:13:45.011903487Z",
+  "model": "glm-5.3"
+}

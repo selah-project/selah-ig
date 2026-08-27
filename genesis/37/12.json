@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ụmumenne ya wee gaa ịzụ ⟨את⟩ ìgwè atụrụ nna ha na Shekhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ha gara"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ụmumenne ya"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ịzụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìgwè atụrụ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ìgwè atụrụ"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "nna ha"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "na Shekhem"
+    }
+  ],
+  "timestamp": "2026-08-27T05:50:46.950811050Z",
+  "model": "glm-5.3"
+}

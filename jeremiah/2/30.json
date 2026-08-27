@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "N'ihe efu ka m kụrụ ⟨את⟩ ụmụ unu; mụsara ha anabataghị; mma-ogwu unu riri ⟨את⟩ amụma unu, dịka ọdụm na-ebibi ihe.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "n'ihe efu"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "m kụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ unu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ụmụ unu"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mụsara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anabataghị"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ha anabataghị"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "riri"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "mma-ogwu unu"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "amụma unu"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "dịka ọdụm"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "na-ebibi ihe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:14:12.452119187Z",
+  "model": "glm-5.3"
+}

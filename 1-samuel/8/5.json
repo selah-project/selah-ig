@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 8:5",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma ha kwuru ya: Le, ị ka tọrọ, ma ụmụ gị anaghị aga n'ụzọ gị; ugbua were anyị eze ka ọ kpee anyị ikpe, dịka mba ⟨ndị ọzọ⟩ niile si dị.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha kwuru"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "זקנת",
+      "gloss": "ka tọrọ"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ma ụmụ gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "aga"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "n'ụzọ gị"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ugbua"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "were"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "לשפטנו",
+      "gloss": "ka ọ kpee anyị ikpe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dịka niile"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba ⟨ndị ọzọ⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T09:02:31.517393894Z",
+  "model": "glm-5.3"
+}

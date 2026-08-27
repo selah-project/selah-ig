@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ma Yahwe kwuru Moshe, sị: Ṓ aká Yahwe gwụla? Ugbu a ị ga-ahụ́ okwu m ga-eme gị, ma ọ bụ na ọ gaghị.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ma Yahwe kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "sị"
+    },
+    {
+      "surface": "היד",
+      "gloss": "aká"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "gwụla"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Ugbu a"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ị ga-ahụ́"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "ga-eme gị"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu m"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:23:19.973411445Z",
+  "model": "glm-5.3"
+}

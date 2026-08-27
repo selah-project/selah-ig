@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Unu agaghị eme ⟨את⟩ chi ndị ọchaọcha n'akụkụ m, ma ọ bụ chi ndị ọla edo; unu agaghị eme ⟨את⟩ nke unu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "unu ga-eme"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "chi ndị ọchaọcha n'akụkụ m"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "chi ndị"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọchaọcha (ọla ọcha)"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ma ọ bụ chi ndị"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "unu ga-eme"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:20:25.173796582Z",
+  "model": "glm-5.3"
+}

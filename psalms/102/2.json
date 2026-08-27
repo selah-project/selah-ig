@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Yahwe, nụ Ekpere m, ka mkpu m bịarute gị.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "nụ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "Ekpere m"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ma ka mkpu m"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bịa gị"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ọ ga-abịa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:01.814876516Z",
+  "model": "glm-5.3"
+}

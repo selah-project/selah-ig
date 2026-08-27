@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "N'ihi na Yahwe hụrụ ⟨את⟩ nhụjuanya nke Isrel, nke siri okpukpu ilu; ọ dịghị onye a tọrọ, ọ dịghịkwa onye a hapụrụ, enweghịkwa onye na-nyere Isrel aka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhụjuanya nke Isrel"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nhụjuanya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Isrel"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "siri okpukpu ilu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "onye a tọrọ"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ọ dịghịkwa"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "onye a hapụrụ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "enweghịkwa"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "onye na-nyere aka"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isrel"
+    }
+  ],
+  "timestamp": "2026-08-27T10:22:27.025145825Z",
+  "model": "glm-5.3"
+}

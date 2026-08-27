@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Mgbe ụzọ ndị nwoke masịrị Yahwe, Ọ na-eme ka ọbụna ndị iro ya dịrị na udo ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "Mgbe ... masịrị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndị nwoke"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọbụna"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ndị iro ya"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "Ọ na-eme ka ... dịrị na udo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (ya)"
+    }
+  ],
+  "timestamp": "2026-08-27T14:24:14.546489853Z",
+  "model": "glm-5.3"
+}

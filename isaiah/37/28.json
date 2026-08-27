@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ma nnọkọ gị, na mbanye gị, na mgbapụ gị, am mara; na ⟨את⟩ mkpasu iwe gị megide m.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ma nnọkọ gị"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "na mbanye gị"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "na mgbapụ gị"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "am mara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mkpasu iwe gị"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "mkpasu iwe gị"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "megide m"
+    }
+  ],
+  "timestamp": "2026-08-27T10:53:40.264319206Z",
+  "model": "glm-5.3"
+}

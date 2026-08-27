@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 24:1",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Yehoshua hakọtara ⟨את⟩ ndị ebo nile nke Yisrael na Shekhem, o wee kpọọ ndị okenye nke Yisrael, na ndị isi ha, na ndị ikpe ha, na ndị nche ha, ha wee guzo n'ihu Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "hakọtara"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ebo nile nke Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nile"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ndị ebo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o wee kpọọ"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "ndị okenye nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולראשיו",
+      "gloss": "na ndị isi ha"
+    },
+    {
+      "surface": "ולשפטיו",
+      "gloss": "na ndị ikpe ha"
+    },
+    {
+      "surface": "ולשטריו",
+      "gloss": "na ndị nche ha"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "ha wee guzo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T08:40:36.144351372Z",
+  "model": "glm-5.3"
+}

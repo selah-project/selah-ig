@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Na site n'aka agbụrụ Asher, ⟨את⟩ Mashal na ⟨את⟩ ala-ọhịa ya, na ⟨את⟩ Avdon na ⟨את⟩ ala-ọhịa ya.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na site n'aka agbụrụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashal"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Mashal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-ọhịa ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ala-ọhịa ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-ọhịa ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ala-ọhịa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:14.357672076Z",
+  "model": "glm-5.3"
+}

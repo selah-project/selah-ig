@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 96,
+  "translation": "N'ihi na Yahwe bụ ⟨onye⟩ ukwu, a na-eto Ya nke ukwuu; ọ bụ onye a na-atụ egwu karịa chi niile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "a na-eto Ya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "onye a na-atụ egwu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "karịa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:07.366238658Z",
+  "model": "glm-5.3"
+}

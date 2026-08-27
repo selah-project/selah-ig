@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Abimelekh wee nọrọ na Arumah, Zebul wee chụpọ ⟨את⟩ Gaal na ⟨את⟩ ụmụnne ya, ka ha ghara inọ na Shekhem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wee nọrọ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekh"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "na Arumah"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "wee chụpọ"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaal"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụmụnne ya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ụmụnne ya"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "ka ha ghara inọ"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "na Shekhem"
+    }
+  ],
+  "timestamp": "2026-08-27T08:46:51.225996668Z",
+  "model": "glm-5.3"
+}

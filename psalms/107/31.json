@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ka ha kelee Yahwe maka chesed ya, na ihe dị ịtụnanya ya nye ụmụ mmadụ.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Ka ha kelee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ya"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "na ihe dị ịtụnanya ya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "nye ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:34.571842101Z",
+  "model": "glm-5.3"
+}

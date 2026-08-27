@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ma onye ọ bụla — nwa amaala ma ọ bụ onye ọbịa — nke na-eri anụ nwụrụ n'onwe ya ma ọ bụ nke anụ gbara agbagọ, ga-asachapụ uwe ya, saa onwe ya n'ime mmiri, ọ ga-adị unọ ruo mgbe chi jiri, mgbe ahụ ọ ga-adị ọcha.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ma onye ọ bụla"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "onye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "na-eri"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "anụ nwụrụ n'onwe ya"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ma ọ bụ nke anụ gbara agbagọ"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "nwa amaala"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "ma onye ọbịa"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ga-asachapụ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uwe ya"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ma saa onwe ya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "n'ime mmiri"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ọ ga-adị unọ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mgbe chi jiri"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ọ ga-adị ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:59:43.824125122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ọ wee wee denye ⟨את⟩ ụmụ-ntakịrị ndị isi mpaghara aha, ha bụkwa narị abụọ na iri atọ na abụọ; ma ha gasịrị, ọ denyere ⟨את⟩ ndị niile aha, ụmụ Izrel niile, puku asaa.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Ọ wee denye ... aha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ-ntakịrị ndị isi mpaghara"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ụmụ-ntakịrị"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "mpaghara"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ha bụkwa"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "narị abụọ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na iri atọ"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "ma ha gasịrị"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ọ denyere ... aha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "puku asaa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "puku"
+    }
+  ],
+  "timestamp": "2026-08-27T10:08:11.603232201Z",
+  "model": "glm-5.3"
+}

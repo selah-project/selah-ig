@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Mgbe Adonai gbasasịrị ⟨את⟩ unyi nke ụmụnwaanyị Tsiyon, ma sachapụ ⟨את⟩ ọbara nke Yerushalayim n'etiti ya, site na mmụọ ikpe na mmụọ nke ọkụ na-ere.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "gbasasịrị"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unyi nke ụmụnwaanyị Tsiyon"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "unyi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "nke ụmụnwaanyị"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọbara nke Yerushalayim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "nke Yerushalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "sachapụ"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "n'etiti ya"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "site na mmụọ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "na mmụọ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nke ọkụ na-ere"
+    }
+  ],
+  "timestamp": "2026-08-27T10:36:13.468069505Z",
+  "model": "glm-5.3"
+}

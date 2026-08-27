@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma David kpọrọ ⟨את⟩ Elohim arịrị n'ihi nwa ahụ; David kwere ibu ọnwụ nri, bata n'ime ụlọ, nọrọ n'abalị, ma dị mkpu ọnwụ n'ala.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Ma ... kpọrọ arịrị"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nwa ahụ"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "kwere ibu ọnwụ nri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ọnwụ nri"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "bata"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "nọrọ n'abalị"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "dị mkpu ọnwụ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "n'ala"
+    }
+  ],
+  "timestamp": "2026-08-27T09:35:55.919791854Z",
+  "model": "glm-5.3"
+}

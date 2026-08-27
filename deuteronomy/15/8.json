@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Kama nke ahụ, ị ga-emeghe ⟨את⟩ aka gị nke ọma maka ya, ma gbazinye ya ihe zuru oke maka mkpa ọ na-enweghị, ihe ọ na-chezọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kama nke ahụ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ị ga-emeghe"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "nke ọma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka gị"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "ma gbazinye"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "די",
+      "gloss": "zuru oke"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "maka mkpa ọ na-enweghị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ọ na-chezọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:30:22.919366715Z",
+  "model": "glm-5.3"
+}

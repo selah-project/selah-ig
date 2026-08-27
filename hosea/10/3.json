@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "N'ihi na ugbu a ha ga-asị, 'Enweghị eze anyị, n'ihi na anyị atụghị ⟨את⟩ Yahwe egwu; ma eze — gịnị ka ọ ga-eme anyị?'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ha ga-asị"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "anyị atụghị egwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ma eze"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ọ ga-eme"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:43:29.587051639Z",
+  "model": "glm-5.3"
+}

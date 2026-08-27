@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 24:16",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Onye na-akụ Aha Yahwe akụ ga-anwụ ka o si kwuo; a ga-atụ ya nkume, nzukọ niile ga-atụ ya nkume; dịka onye ọbịa, otu ahu ka onye obodo: n'ịchụ Aha nsọ, a ga-egbu ya.",
+  "tokens": [
+    {
+      "surface": "ונקב",
+      "gloss": "Onye na-akụ akụ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ ka o si kwuo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ga-anwụ"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "nkume ka o si kwuo"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "ga-atụ nkume"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "dịka onye ọbịa"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "dịka onye obodo"
+    },
+    {
+      "surface": "בנקבו",
+      "gloss": "n'ịchụ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Aha nsọ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a ga-egbu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:04:41.063005556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 81,
+  "translation": "M wee hapụ ha n'ọchịchọ siri ike nke obi ha, ha na-aga ná atụmatụ nke ha.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "m wee hapụ ha"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "n'ọchịchọ siri ike"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "nke obi ha"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ha na-aga"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "ná atụmatụ nke ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:55.699518696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Na na Yerushalayim bụ ndị si n'ụmụ Yehuda, na n'ụmụ Binjamin, na n'ụmụ Efrayim na Manashe.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "na na Yerushalayim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bụ ndị bi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n'ụmụ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na si"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n'ụmụ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na si"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n'ụmụ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "na Manashe"
+    }
+  ],
+  "timestamp": "2026-08-27T15:58:09.811855732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 2:7",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ha zara ọzọ nke ugboro abụọ ma kwuo: Eze ọ ka ṅrọ ahụ nye ndị ohu ya, anyị ga-egosi nkọwa ya.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "ha zara"
+    },
+    {
+      "surface": "תנינות",
+      "gloss": "nke ugboro abụọ"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "ma kwuo"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "eze"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "ṅrọ ahụ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ọ ka"
+    },
+    {
+      "surface": "לעבדוהי",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "nkọwa ya"
+    },
+    {
+      "surface": "נהחוה",
+      "gloss": "anyị ga-egosi"
+    }
+  ],
+  "timestamp": "2026-08-27T15:23:16.643841345Z",
+  "model": "glm-5.3"
+}

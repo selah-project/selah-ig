@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Elkanah nwa ya, na Evyasaf nwa ya, na Asir nwa ya.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "na Evyasaf"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "na Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:54:23.920602971Z",
+  "model": "glm-5.3"
+}

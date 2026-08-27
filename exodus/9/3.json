@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "leenu, aka Yahwe ga-adị n'anụ ụlọ gị ndị dị n'ọhịa — n'ụmụọma, n'inyinya ibu, n'ụmụeyịrị, n'ehi, na n'Atụrụ — ọrịa na-egbu egbu nke ukwuu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "leenu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "n'anụ ụlọ gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "n'ọhịa"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "n'ụmụọma"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "n'inyinya ibu"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "n'ụmụeyịrị"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ehi"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "na n'Atụrụ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọrịa na-egbu egbu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "na-egbu egbu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:12:55.392581665Z",
+  "model": "glm-5.3"
+}

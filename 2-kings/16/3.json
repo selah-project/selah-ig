@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ọ gara n'ụzọ ndị eze Yisrael, ma mee ka ⟨את⟩ nwa ya gafee n'ọkụ, dịka ihe na-eru arọ nke mba ndị ahụ Yahwe chụpụrụ ⟨את⟩ ha n'ihu ụmụ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ọ gara"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ma (ọzọ)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "mee ka... gafee"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "dịka ihe na-eru arọ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba ndị ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(ndị) ahụ"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "chụpụrụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T10:25:34.596961484Z",
+  "model": "glm-5.3"
+}

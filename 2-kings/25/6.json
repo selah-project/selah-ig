@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ha jidere ⟨את⟩ eze ahụ, wee bulie ya gakwuru eze Babilon na Riblinga, ha kwuru ⟨את⟩ ya ikpe.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "Ha jidere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eze ahụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "wee bulie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (eze ahụ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gakwuru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Riblinga"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ha kwuru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (eze ahụ)"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe"
+    }
+  ],
+  "timestamp": "2026-08-27T10:32:13.802846229Z",
+  "model": "glm-5.3"
+}

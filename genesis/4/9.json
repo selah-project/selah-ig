@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Yahwe weere, ọ sị Kayin: \"Ebee ka Hevel nwanne gi nke nwoke no?\" O weere, ọ sị: \"M maaghị; m̄ bụ onye na-eche nwa nne m nche?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sị"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ebee ka"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gi nke nwoke"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "m maaghị"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "onye na-eche nche"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nwa nne m"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m̄ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:50.408793303Z",
+  "model": "glm-5.3"
+}

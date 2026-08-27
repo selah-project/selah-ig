@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ụzọ ezi-okwukwe m họọrọ; ikpe gị nọdọrọ m n'ihu.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ezi-okwukwe"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "m họọrọ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ikpe gị"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "nọdọrọ m n'ihu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:59.193195947Z",
+  "model": "glm-5.3"
+}

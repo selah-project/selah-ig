@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "David wee sị ya, Ọbara gị dị n'isi gị, n'ihi na ọnụ gị gbara gị akaebe, sị, M gburu ⟨את⟩ Mashiach nke Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "ọbara gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "dị na"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "isi gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ọnụ gị"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "gbara akaebe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "gburu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiach nke Yahwe"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T09:27:54.029747061Z",
+  "model": "glm-5.3"
+}

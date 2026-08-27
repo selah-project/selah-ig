@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Kuzie unu ha ⟨את⟩ ụmụ unu ka ha na-ekwu okwu ha, mgbe ị nọdụrụ n'ụlọ gị, mgbe ị na-eje ụzọ, mgbe ị dinara ala, na mgbe ị bilite.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "Kuzie unu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ unu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ụmụ unu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ka ha na-ekwu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "okwu ha"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "mgbe ị nọdụrụ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "n'ụlọ gị"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "mgbe ị na-eje"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "mgbe ị dinara ala"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "na mgbe ị bilite"
+    }
+  ],
+  "timestamp": "2026-08-27T07:58:19.846368226Z",
+  "model": "glm-5.3"
+}

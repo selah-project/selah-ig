@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 13:4",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Aviyah wee bilie n'elu ugwu Tsemarayim, nke dị na ugwu ndị Efrayim, wee sị: \"Nụrụ m, Yaravam na Yisrael niile —\"",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bilie"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyah"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "להר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "צמרים",
+      "gloss": "Tsemarayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke dị na"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ugwu ndị"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "Nụrụ m"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael niile"
+    }
+  ],
+  "timestamp": "2026-08-27T16:12:43.735045656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ha ga-atụ mkpọmkpọọ ma nọrọ n'ịchụ ihere n'ihi Kush, atụmanya ha, na n'ihi Mitsrajim, otuto ha.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "ha ga-atụ mkpọmkpọọ"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "ma nọrọ n'ịchụ ihere"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "atụmanya ha"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na n'ihi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "otuto ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:41:46.460027467Z",
+  "model": "glm-5.3"
+}

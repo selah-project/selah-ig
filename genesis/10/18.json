@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "na ⟨את⟩ ndị Arvadi, na ⟨את⟩ ndị Zemari, na ⟨את⟩ ndị Hamathi; mgbe nke ahụ gasịrị, ezinụlọ ndị Kenaan gbasasịrị",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Arvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ndị Arvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Zemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ndị Zemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Hamathi"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ndị Hamathi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mgbe nke ahụ gasịrị"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "gbasasịrị"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ezinụlọ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ndị Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:00.120008668Z",
+  "model": "glm-5.3"
+}

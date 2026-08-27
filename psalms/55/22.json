@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Okwu ọnụ ya dị miri emi karịa bọta, mana ime obi ya bụ agha; okwu ya dị nro karịa mmanụ, mana ha bụ mma a dọrọ adọ.",
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "dị miri emi"
+    },
+    {
+      "surface": "מחמאות",
+      "gloss": "bọta (okwu ụtọ)"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ọnụ ya"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "mana ime"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "obi ya"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "dị nro"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "okwu ya"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "karịa mmanụ"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "mana ha"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "mma a dọrọ adọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:28.440690822Z",
+  "model": "glm-5.3"
+}

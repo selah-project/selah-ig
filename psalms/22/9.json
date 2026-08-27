@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Tinye ya n'aka Yahwe, ka Ọ zọpụta ya; ka Ọ napụta ya, n'ihi na Ọ chọrọ ya.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Tinye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "ka Ọ zọpụta ya"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "ka Ọ napụta ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Ọ chọrọ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:29.494789684Z",
+  "model": "glm-5.3"
+}

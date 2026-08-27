@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ọ wee kpuchie ya elu ⟨את⟩ ọlaedo dị ọcha, wee mee ya mgbanaka ọlaedo gbara gburugburu.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Ọ wee kpuchie elu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ọ wee mee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mgbanaka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:40:08.265528550Z",
+  "model": "glm-5.3"
+}

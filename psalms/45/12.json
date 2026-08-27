@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Eze ahụ ga-achọ ịma mma gị, n'ihi na ọ bụ Adonai gị; mee ya nsọpụrụ.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "ga-achọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "ịma mma gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "Adonai gị"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "mee nsọpụrụ (na-efe ala)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:37.209314420Z",
+  "model": "glm-5.3"
+}

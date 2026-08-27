@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "N'aha gị ka ha na-agba Ọṅụ mmetụta ntọala ụbọchị niile, ma n'ịsị mmesị gị ka a na-eli ha ka elu.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "n'aha gị"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "ka ha na-agba Ọṅụ mmetụ ntọala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "ma n'ịsị mmesị gị"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ka a na-eli ha ka elu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:19.716931185Z",
+  "model": "glm-5.3"
+}

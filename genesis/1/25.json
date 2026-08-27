@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Elohim mere ⟨את⟩ anụ ọhịa nke ụwa dịka ụdị ya, na ⟨את⟩ anụ ụlọ dịka ụdị ya, na ⟨את⟩ ihe niile na-akpụ mkpọ nke ala dịka ụdị ya. Elohim hụrụ na ọ dị mma.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ọhịa nke ụwa"
+    },
+    {
+      "surface": "חית",
+      "gloss": "anụ ọhịa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ụwa"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "dịka ụdị ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "anụ ụlọ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "anụ ụlọ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "dịka ụdị ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihe niile na-akpụ mkpọ nke ala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "na-akpụ mkpọ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "nke ala"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "dịka ụdị ya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:11.630988251Z",
+  "model": "glm-5.3"
+}

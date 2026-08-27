@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Yahwe tara ⟨את⟩ ndị ahụ ahụhụ n’ihi na ha mere ⟨את⟩ nwa mgbada, nke Aharon mere.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "tara ahụhụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n’ihi na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ha mere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa mgbada"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "nwa mgbada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-27T06:35:39.135578944Z",
+  "model": "glm-5.3"
+}

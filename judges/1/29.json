@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 1:29",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Efrayim anaghị achụpụ ⟨את⟩ onye Kenaan nke bi na Gezer, ma onye Kenaan bi n'etiti ya na Gezer.",
+  "tokens": [
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "achụpụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye Kenaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "onye Kenaan"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "nke bi"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "na Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ma bi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "onye Kenaan"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "n'etiti ya"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "na Gezer"
+    }
+  ],
+  "timestamp": "2026-08-27T08:38:50.473387534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 120,
+  "translation": "Yahwe, napụtara ndụ m n'ọnụ ụgha, n'asụsụ aghụghọ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "napụtara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ndụ m"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "n'ọnụ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "n'asụsụ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "aghụghọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:34.046394171Z",
+  "model": "glm-5.3"
+}

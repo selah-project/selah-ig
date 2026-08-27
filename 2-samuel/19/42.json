@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 19:42",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Le, mmadụ niile nke Izrel bịara nye eze, ha wee sị eze: Gịnị mere ka ụmụnna anyị, ndị ikom Yehuda, ghọgbaa gị nzuzo? Ha butere ⟨את⟩ eze na ⟨את⟩ ụlọ ya gafee ⟨את⟩ Jọdan, na ndị ikom David niile na ya.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Izrel"
+    },
+    {
+      "surface": "באים",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha wee sị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "gịnị mere ka"
+    },
+    {
+      "surface": "גנבוך",
+      "gloss": "ghọgbaa gị nzuzo"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ụmụnna anyị"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ha butere gafee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eze"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma ⟨את⟩",
+      "marks": "ụlọ ya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jọdan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jọdan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ndị ikom niile"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:46:32.586871729Z",
+  "model": "glm-5.3"
+}

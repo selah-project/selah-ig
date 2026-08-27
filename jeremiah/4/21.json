@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ruo mgbe ole ka m ga-ahụ ọkọlọtọ? M ga-anụ ụda mpi ruo mgbe ole?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ruo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mgbe ole"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "m ga-ahụ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ọkọlọtọ"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "m ga-anụ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ụda"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "mpi"
+    }
+  ],
+  "timestamp": "2026-08-27T11:15:59.274757697Z",
+  "model": "glm-5.3"
+}

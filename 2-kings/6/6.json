@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Onye nke Elohim wee sị: Ebee ka ọ dara? Ọ gosikwara ya ⟨את⟩ ebe ahụ; ọ gbupụrụ osisi, wee tụba ya n'ebe ahụ, ma ígwè ahụ pụọ ka mmiri na-ese.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ebee"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ọ dara"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "ọ gosiri ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe ahụ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "ọ gbupụrụ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "wee tụba"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "na-ese"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ígwè ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:37:40.240445587Z",
+  "model": "glm-5.3"
+}

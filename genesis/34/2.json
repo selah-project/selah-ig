@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Shekem, nwa Hamor ndị Hivi, onye isi ala ahụ, hụrụ ⟨את⟩ ya; o were ⟨את⟩ ya, dinara ⟨את⟩ ya, ma mee ka ihere metụta ya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Dinah)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ndị Hivi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "onye isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o were"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Dinah)"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "dinara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Dinah)"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "mee ka ihere metụta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:36.246165180Z",
+  "model": "glm-5.3"
+}

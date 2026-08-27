@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "O kpe ikpe ⟨את⟩ Israael afọ iri abụọ na atọ; o nwụrụ, e lie ya na Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "o kpe ikpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na atọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o nwụrụ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e lie ya"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "na Shamir"
+    }
+  ],
+  "timestamp": "2026-08-27T08:49:19.161052020Z",
+  "model": "glm-5.3"
+}

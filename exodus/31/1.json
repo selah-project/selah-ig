@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ma Yahwe gwara Moshe okwu, si:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gwara okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "si"
+    }
+  ],
+  "timestamp": "2026-08-27T06:30:45.520813437Z",
+  "model": "glm-5.3"
+}

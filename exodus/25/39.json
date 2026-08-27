@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Talent́í ọla edo dị ọcha ka e ji mee ⟨את⟩ ya — ⟨את⟩ ngwá ndị a niile.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talent́í (arọ ọla)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ọ ga-eji mee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (menorah)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwá ndị a niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ngwá ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a (ndị a)"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:48.297308177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Dịka enweghị ịdị ọcha ha na dịka mmehie ha ka m mere ⟨את⟩ ha, m zozoro ihu m nye ha.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "dịka enweghị ịdị ọcha ha"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "na dịka mmehie ha"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ka m mere"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "m zozoro"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu m"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:28:53.932895649Z",
+  "model": "glm-5.3"
+}

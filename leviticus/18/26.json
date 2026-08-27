@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Unu ga-ejide ⟨את⟩ iwu m na ⟨את⟩ ikpe m, unu ewepụghị ime nke ihe ọjọọ ndị a, onye amụrụ n'ala na onye ọbịa bi n'etiti unu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ga-ejide"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu m"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikpe m"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ikpe m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ewepụghị"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ime"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nke"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "onye amụrụ n'ala"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "na onye ọbịa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "onye ọbịa bi"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "n'etiti unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:57:48.200270487Z",
+  "model": "glm-5.3"
+}

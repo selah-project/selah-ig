@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "Ị hụrụ n'anya okwu niile na-erigbu, O asụsụ aghụghọ!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ị hụrụ n'anya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "na-erigbu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "asụsụ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aghụghọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:56.194999269Z",
+  "model": "glm-5.3"
+}

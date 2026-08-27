@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "N'akụkụ nke oke ahụ ka mgbanaka ndị ahụ nọ, dịka ụlọ maka mkpọ ndị ahụ, iji bu ⟨את⟩ tebụl ahụ.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "oke ahụ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ka ... nọ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "mgbanaka ndị ahụ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "maka mkpọ ndị ahụ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "iji bu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tebụl ahụ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tebụl ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:40:38.444645499Z",
+  "model": "glm-5.3"
+}

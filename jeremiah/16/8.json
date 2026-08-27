@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ma ị gaghị abata n'ụlọ oriri na ọṅụṅụ ka ị nọrọ ha n'ọrụ, ka ị rie nri ma ṅọọ ihe ọṅụṅụ.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ma ụlọ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "oriri na ọṅụṅụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ị gaghị"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "abata"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ka ị nọrọ n'ọrụ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ha n'ọrụ (iri na ịṅụ)"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ka ị rie nri"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ma ṅọọ ihe ọṅụṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:24:42.233640208Z",
+  "model": "glm-5.3"
+}

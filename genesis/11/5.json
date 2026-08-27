@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ma Yahwe rịọrọ ala ka ọ hụ ⟨את⟩ obodo ahụ na ⟨את⟩ ụlọ elu ahụ, nke ụmụ Adam rụrụ.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "rịọrọ ala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ka ọ hụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ahụ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụlọ elu ahụ"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "ụlọ elu ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "rụrụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-27T05:31:18.809413386Z",
+  "model": "glm-5.3"
+}

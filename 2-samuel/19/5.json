@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ma eze ji mpụkpọ kpuchie ⟨את⟩ ihu ya, ma eze tiri mkpu olu ukwu: nwa m, Avshalom, Avshalom, nwa m, nwa m!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ma eze"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "ji mpụkpọ kpuchie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihu ya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ihu ya"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "ma ... tiri mkpu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    }
+  ],
+  "timestamp": "2026-08-27T09:46:38.478269031Z",
+  "model": "glm-5.3"
+}

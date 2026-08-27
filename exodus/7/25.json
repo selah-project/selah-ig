@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Mgbe ahụ ụbọchị asaa gbasara, ka Yahwe kụchara ⟨את⟩ osimiri Naịl.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "gbasara"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "kụchara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osimiri Naịl"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "osimiri Naịl"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:03.640808777Z",
+  "model": "glm-5.3"
+}

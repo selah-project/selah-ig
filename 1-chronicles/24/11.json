@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Nke itoolu maka Yeshua, nke iri maka Shekhanyahu.",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "maka Yeshua"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "nke itoolu"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "maka Shekhanyahu"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "nke iri"
+    }
+  ],
+  "timestamp": "2026-08-27T16:03:58.674096797Z",
+  "model": "glm-5.3"
+}

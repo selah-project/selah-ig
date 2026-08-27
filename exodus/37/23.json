@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ọ mekwara ⟨את⟩ ọkụ ya asaa, na mkpịsị ọkụ ya, na efere ntụ ya, ọla edo dị ọcha.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ọ mekwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkụ ya asaa"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ọkụ ya"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "na mkpịsị ọkụ ya"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "na efere ntụ ya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dị ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:38:40.542970338Z",
+  "model": "glm-5.3"
+}

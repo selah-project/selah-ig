@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ọdịnda maka ndị na-achụ nta ìgwè atụrụ na-ebibi ma na-ekụsasị ⟨את⟩ atụrụ n'ohia m, okwu nkwuwa nke Yahwe.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ọdịnda"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ndị na-achụ nta ìgwè atụrụ"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "na-ebibi"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "na na-ekụsasị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atụrụ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "ohia m"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "okwu nkwuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:30:19.658502619Z",
+  "model": "glm-5.3"
+}

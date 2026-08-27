@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Kɛ́ onye n'eluigwe nwere ike itụnyere Yahwe? Kɛ́ onye n'etiti ụmụ ndịike dịtụrụ Yahwe?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kɛ́"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "nwere ike itụnyere"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "dịtụrụ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "n'etiti ụmụ"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ndịike"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:52.700834444Z",
+  "model": "glm-5.3"
+}

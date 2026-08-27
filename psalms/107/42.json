@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ndị ziri ezi ga-ahụ ma ṅụrịa ọṅụ, na ajọ omume niile ga-emechi ọnụ ya.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ga-ahụ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ndị ziri ezi"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ma ṅụrịa ọṅụ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ajọ omume"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "ga-emechi"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ọnụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:24.543906018Z",
+  "model": "glm-5.3"
+}

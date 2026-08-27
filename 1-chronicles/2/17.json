@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Abigayil mụrụ ⟨את⟩ Amasa, na nna Amasa ⟨is⟩ Yeter onye Ishmael.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Abigayil"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "na nna"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "onye Ishmael"
+    }
+  ],
+  "timestamp": "2026-08-27T15:51:39.053371950Z",
+  "model": "glm-5.3"
+}

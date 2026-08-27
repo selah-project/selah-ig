@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 10:32",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ndị a bụ ezinụlọ ụmụ Noach, dịka ọmụmụ ha, n'etiti mba ha; ma site n'aka ndị a ka e kewara mba ndị ahụ n'ụwa ⟨ọzọ⟩ mgbe ihe idei mmiri ahụ gasịrị.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ezinụlọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "dịka ọmụmụ ha"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "n'etiti mba ha"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ma site n'aka ndị a"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "e kewara"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba ndị ahụ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mgbe ... gasịrị"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ihe idei mmiri ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:09.096425783Z",
+  "model": "glm-5.3"
+}

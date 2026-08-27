@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Giliad dị ⟨nke m⟩, na Menashe dị ⟨nke m⟩; Efrayim ⟨bụ⟩ ike nke isi m; Yehuda ⟨bụ⟩ onye na-ede iwu m.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "nke m"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giliad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "na nke m"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "na Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ike \/ ebe mgbachi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "isi m"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "onye na-ede iwu m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:14.982133880Z",
+  "model": "glm-5.3"
+}

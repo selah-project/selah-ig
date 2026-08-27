@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "M wee jụọ ya: Ị na-aga ebee? O zara m: Ị gа-atụ Yerushalayim ⟨את⟩, iji hụ otu o sị gbasaa na otu o sị dị ogologo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "m wee jụọ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ebee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o zara m"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "למד",
+      "gloss": "ị ga-atụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "iji hụ"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "otu o sị"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "gbasaa"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "na otu o sị"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "dị ogologo"
+    }
+  ],
+  "timestamp": "2026-08-27T13:04:01.749163460Z",
+  "model": "glm-5.3"
+}

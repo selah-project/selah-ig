@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ohere nke Shaúl kwuru ya: «Le, biko, ruach ọjọọ nke Elohim na-atụ gị egwu.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohere"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "na-atụ gị egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T09:11:12.187846930Z",
+  "model": "glm-5.3"
+}

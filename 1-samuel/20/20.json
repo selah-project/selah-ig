@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Maka m, m ga-atụ ụta atọ n'akụkụ, na-atụ zụọ maka m na ebe a na-achọ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "ụta"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "m ga-atụ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "na-atụ zụọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "na ebe a na-achọ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:15:18.354694007Z",
+  "model": "glm-5.3"
+}

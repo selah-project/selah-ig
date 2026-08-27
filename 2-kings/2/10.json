@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ọ wee sị: Ị rịọrọ ihe siri ike ka ị ga-ajụ; ma ọ bụrụ na ị hụ m ka a na-ewepụ ⟨את⟩ m n'aka gị, ọ ga-adị otu a maka gị; ma ọ bụrụ na ọ dịghị, ọ gaghị adị.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "ị rịọrọ ihe siri ike"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka ị ga-ajụ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ị hụ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m (Eliyahu a na-ewepụ)"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a na-ewepụ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ n'aka gị"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ọ ga-adị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:10:43.461209364Z",
+  "model": "glm-5.3"
+}

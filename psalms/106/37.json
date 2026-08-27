@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Ma ha chụrụ ⟨את⟩ ụmụ ha nwoke na ⟨את⟩ ụmụ ha nwaanyị n'aka Sheddai",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "ma ha chụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ha nwoke"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ụmụ ha nwoke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ha nwaanyị"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ụmụ ha nwaanyị"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "n'aka Sheddai"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:53.116980878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "n'ihi na ha ga-ewepụ ⟨את⟩ nwa gị nwoke n'azụ M, ha wee na-eje ozi chi ndị ọzọ; mkpọlite iwe Yahwe ga-ekwu ọkụ megide unu, Ọ wee bibie gị ngwa ngwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ha ga-ewepụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa gị nwoke"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nwa gị nwoke"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "n'azụ"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ha wee na-eje ozi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chi ndị"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ndị ọzọ"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "ga-ekwu ọkụ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "megide unu"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "Ọ wee bibie gị"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ngwa ngwa"
+    }
+  ],
+  "timestamp": "2026-08-27T07:55:06.608538813Z",
+  "model": "glm-5.3"
+}

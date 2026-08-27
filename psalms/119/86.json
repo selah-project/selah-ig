@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Iwu gị niile ⟨are⟩ ezi-okwu; na ⟨ihe⟩ ụgha ha na-achụ m; nyere m aka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "iwu gị"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ezi-okwu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "ha na-achụ m"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "nyere m aka"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:29.858410772Z",
+  "model": "glm-5.3"
+}

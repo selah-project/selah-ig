@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "⟨את⟩ ala ahụ enweghị ike ibu ha ka ha nọrọ ọnụ, maka na ihe onwunwe ha dị ukwuu, ha enweghịkwa ike ịnọkọ ọnụ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ike ibu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ala ahụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ka ha nọrọ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dị"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ihe onwunwe ha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ukwuu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enweghịkwa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ike"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ịnọkọ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:50.913737802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Yahwe, n'ụtụtụ ị ga-anụ olu m; n'ụtụtụ m ga-edobere ekpere m n'usoro nye gị, m ga-esochikwa anya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ị ga-anụ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "olu m"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "m ga-edobere ⟨ihe⟩ n'usoro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nye gị"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "m ga-esochikwa anya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:32.644225311Z",
+  "model": "glm-5.3"
+}

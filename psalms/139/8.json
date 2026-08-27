@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 139,
+  "translation": "Ọ bụrụ na m rịgoro eluigwe, gi nọ ebe ahụ; ọ bụrụ na m mebere akwa m na Sheol, lee, gi nọ ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "m rịgoro"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gi nọ"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "ma mebere akwa m"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "lee, gi nọ ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:08.075449067Z",
+  "model": "glm-5.3"
+}

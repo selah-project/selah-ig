@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "M dinara ala, m maara ụra, m tetara, n'ihi na Yahwe na-akwado m.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "dinara ala"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "maara ụra"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "tetara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "na-akwado m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:03.420308816Z",
+  "model": "glm-5.3"
+}

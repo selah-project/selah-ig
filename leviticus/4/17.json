@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ma onye-nsọ ahụ ga-etinye mkpịsị aka ya n'ụfọdụ n'ọbara ahụ, ma gbasaa ya ugboro asaa n'ihu Yahwe, ⟨את⟩ ihu ⟨nke⟩ akwa-mpịahịa ahụ.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ga-etinye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nsọ ahụ"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "mkpịsị aka ya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "n'ụfọdụ n'"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ọbara ahụ"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ma gbasaa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ugboro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihu akwa-mpịahịa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "akwa-mpịahịa ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:45:15.800728380Z",
+  "model": "glm-5.3"
+}

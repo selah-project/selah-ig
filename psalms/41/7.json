@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Ma ọ bụrụ na ⟨ọ⟩ bịarịa iji hụ m, ⟨ọ⟩ na-ekwu ụgha; obi ya na-achịkọta njọ n'onwe ya; mgbe ọ pụrụ n'èzí, ọ na-ekwu ya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bịarịa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "iji hụ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ọ na-ekwu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "obi ya"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "na-achịkọta"
+    },
+    {
+      "surface": "און",
+      "gloss": "njọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "n'onwe ya"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ọ pụrụ"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "n'èzí"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ọ na-ekwu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:24.559552374Z",
+  "model": "glm-5.3"
+}

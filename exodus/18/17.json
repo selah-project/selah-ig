@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ọgọ Moshe wee gwara ya: Ọ dịghị mma okwu ⟨nke⟩ ị na-eme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": " wee gwara"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "Ọgọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ọ dịghị"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mma"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨nke⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:33.939486442Z",
+  "model": "glm-5.3"
+}

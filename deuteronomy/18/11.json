@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "onye na-ekwu nkata mmụọ, onye na-ajụ omi ma ọ bụ onye ma-mmụọ, ma onye na-achọ ihe n'aka ndị nwụrụ anwụ.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "onye na-ekwu nkata"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "nkata"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "onye na-ajụ"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "omi"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "onye ma-mmụọ"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "onye na-achọ ihe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ndị nwụrụ anwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:04:31.971945881Z",
+  "model": "glm-5.3"
+}

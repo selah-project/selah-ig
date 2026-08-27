@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Eze ndị a niile gbakọtara ọnụ, ha wee bịa ma nọdụ ala ọnụ nso mmiri Merom, iji lụso Yisrael agha.",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "gbakọtara ọnụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "eze"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha wee bịa"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ha nọdụ ala (ogige)"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nso"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Merom"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "iji lụso ... agha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "megide"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T08:29:27.735337526Z",
+  "model": "glm-5.3"
+}

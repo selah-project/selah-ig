@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Ọ ga-akpọkuo ⟨את⟩ eluigwe site n'elu, na ⟨את⟩ ụwa, ka ọ maa ⟨את⟩ ndị ya ikpe.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Ọ ga-akpọkuo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "site n'elu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ka ọ maa ikpe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:00.024299880Z",
+  "model": "glm-5.3"
+}

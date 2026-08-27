@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ụbọchị ọtụtụ ka Yehoshua ji mee ⟨את⟩ ndị eze ndị a niile agha.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị eze ndị a niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "agha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:30:20.328351054Z",
+  "model": "glm-5.3"
+}

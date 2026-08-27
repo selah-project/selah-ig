@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 58,
+  "translation": "ma ị tinye ndụ gị maka onye agụụ na-agụ, ma mee ka onye na-emegbu emebu bụrụ nduju; mgbe ahụ ìhè gị ga-apụta n'ọchịchịrị, na ọchịchịrị gị ga-adị ka etiti ehihie",
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "ma ị tinye"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "maka onye agụụ na-agụ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ndụ gị"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ma onye"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "na-emegbu emebu"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "ga-eme ka ọ bụrụ nduju"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "ga-apụta"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "n'ọchịchịrị"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ìhè gị"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "na ọchịchịrị gị"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "ka etiti ehihie"
+    }
+  ],
+  "timestamp": "2026-08-27T11:09:35.541243359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ibu nke ọzara nke oké mmiri. Dịka ifufe na Negev na-agafe, si n'ọzara ⟨ọ⟩ na-abịa, si n'ala nke egwu.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Ibu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ọzara"
+    },
+    {
+      "surface": "ים",
+      "gloss": "oké mmiri"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "dịka ifufe"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "na Negev"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "si n'ọzara"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ọ na-abịa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "si n'ala"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "nke egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:43:12.700482415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Maka onye-ndú egwú; nkeji-abụ nke David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye-ndú egwú"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nkeji-abụ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:31.918078727Z",
+  "model": "glm-5.3"
+}

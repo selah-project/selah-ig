@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "M wee kwuo ná ndị a dọrọ n'agbụ ⟨את⟩ okwu niile nke Yahwe, ndị O gosịrị m.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "M wee kwuo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ná"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ndị a dọrọ n'agbụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "O gosịrị m"
+    }
+  ],
+  "timestamp": "2026-08-27T12:01:33.904177447Z",
+  "model": "glm-5.3"
+}

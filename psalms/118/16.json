@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "Aka nri Yahwe elitelago, aka nri Yahwe na-eme ike.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "aka nri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "elitelago"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "aka nri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ike"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:45.612452205Z",
+  "model": "glm-5.3"
+}

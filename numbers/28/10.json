@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "ọ bụ ọkụ-offrịng nke Shabbat, n'ọnọdụ Shabbat ya, n'elu ọkụ-offrịng na-adịgide adịde, na mmannya ya.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "ọkụ-offrịng"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "n'ọnọdụ Shabbat ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ọkụ-offrịng"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "na-adịgide adịde ⟨the⟩"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "na mmannya ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:38:37.315360991Z",
+  "model": "glm-5.3"
+}

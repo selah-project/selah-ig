@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Nri unu erughị, na mmanya na mmanya-na-eme-ọṅụ siri ike unu anọghị agụ; ka unu wee mara na m bụ Yahwe, Elohim unu.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "unu erughị"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "na mmanya"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "na mmanya-na-eme-ọṅụ siri ike"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "unu anọghị agụ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka unu wee"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:12:29.469297817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 63,
+  "translation": "Mgbe m chetara gị n'àkwà m, n'oge nche abalị ka m na-atụgharị gị n'obi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "m chetara gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "àkwà m"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "n'oge nche abalị"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "m na-atụgharị n'obi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:05.771139346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Yahwe Tsabaot, ⟨את⟩ ya ka unu ga-edo nsọ; ọ bụ ya bụ egwu gbagọrọ unu, ọ bụ ya bụ ụjọ tụrọ unu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Tsabaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsabaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya ka unu ga-edo nsọ"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "ka unu ga-edo nsọ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ọ bụ ya"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "egwu unu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ọ bụ ya"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "ụjọ unu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:34:45.629952658Z",
+  "model": "glm-5.3"
+}

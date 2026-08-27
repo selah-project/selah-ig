@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ọ bụghị na beere m anya maka onye siri ike ụbọchị ya? Nchegbu jidere mkpụrụ obi m maka onye ogbenye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụghị na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "beere m anya"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "nchegbu jidere"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "maka onye ogbenye"
+    }
+  ],
+  "timestamp": "2026-08-27T14:52:56.479471555Z",
+  "model": "glm-5.3"
+}

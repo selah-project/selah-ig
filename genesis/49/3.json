@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Reuven, ọkpụ nke m ka ị bụ, ike m na mmalite ike m, ọkachị elu na ọkachị ike.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "ọkpụ nke m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị bụ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ike m"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "na mmalite"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "ike m"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ọkachị elu"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "elu"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "na ọkachị"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ike"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:14.200739621Z",
+  "model": "glm-5.3"
+}

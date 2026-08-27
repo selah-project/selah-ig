@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "Ekpuchiri ekpere nke David, nwa Yishai.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "gwụrụ \/ ekpuchiri"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ekpere"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:46.670934090Z",
+  "model": "glm-5.3"
+}

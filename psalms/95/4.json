@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 95,
+  "translation": "Onye n'aka ya nwere ebe miri emiri nke ụwa, na ugwu ndị kacha elu bụ nke ya.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "ebe miri emiri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nke ụwa"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "na ugwu ndị kacha elu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bụ nke ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:20.736746983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Chụọ unu àjà nke ziri ezi, ma dabere na Yahwe.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "chụọ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "àjà"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "nke ziri ezi"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "ma dabere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:09.200306457Z",
+  "model": "glm-5.3"
+}

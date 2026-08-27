@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Gịnị ka David nwere ike ịgbakwunye gị maka nsọpụrụ ⟨את⟩ ohu gị? Ma ị maara ⟨את⟩ ohu gị.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "nwere ike ịgbakwunye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "maka nsọpụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohu gị"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ma ị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohu gị"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "maara"
+    }
+  ],
+  "timestamp": "2026-08-27T16:54:46.362320163Z",
+  "model": "glm-5.3"
+}

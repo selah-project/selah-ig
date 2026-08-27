@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Nke David. Gaa na gị, Yahwe, m na-eti mkpu; nkume m, e meela ka ị nụrụ na-aghara ihu m, ka ị ghara ịdị jiri mpama maka m, m na-atụ egwu ka m ghara ịdị ka ndị na-ada n'olulu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nke David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Gaa na gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m na-eti mkpu"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "nkume m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e meela ka ị"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "nụrụ na-aghara ihu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka ị ghara"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "ịdị jiri mpama"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "m na-atụ egwu ka m ghara ịdị ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "na-ada"
+    },
+    {
+      "surface": "בור",
+      "gloss": "n'olulu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:31.080049678Z",
+  "model": "glm-5.3"
+}

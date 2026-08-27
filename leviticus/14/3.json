@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Onye nchụàjà ga-apụ ⟨gaa⟩ ná mpụga ogige, onye nchụàjà ga-ele anya, ma ṅụaa, mmụba ọrịa akpụkpọ ahụ agwọla n'ahụ onye arara ọrịa ahụ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ga-apụ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Onye nchụàjà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨gaa⟩"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ná mpụga"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ogige"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ga-ele anya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ma ṅụaa"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "agwọla"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "mmụba"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ọrịa akpụkpọ ahụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "n'ahụ"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "onye arara ọrịa ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:52:23.782741540Z",
+  "model": "glm-5.3"
+}

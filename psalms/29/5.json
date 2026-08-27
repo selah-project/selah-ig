@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Olu Yahwe na-emebi osisi cedar; ee, Yahwe na-emebi ⟨את⟩ osisi cedar nke Lebanọn.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "na-emebi"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "osisi cedar"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ma na-emebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osisi cedar nke Lebanọn"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "osisi cedar nke"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanọn"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:44.106154801Z",
+  "model": "glm-5.3"
+}

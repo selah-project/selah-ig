@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Mitsraim nwere ọṅụ n'ihi ha pụrụ, maka na egwu ha dakwasara ha.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "nwere ọṅụ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ha pụrụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "dakwasara"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "egwu ha"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:28.806003234Z",
+  "model": "glm-5.3"
+}

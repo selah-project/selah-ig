@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 7:20",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Na ihe ndị ọzọ fọdụrụ maka ụlọ Eloah gị, nke ọ dakwasịrị gị inye, ga-enye gị site n'ụlọ akụ nke eze.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "na ihe ndị ọzọ fọdụrụ"
+    },
+    {
+      "surface": "חשחות",
+      "gloss": "mkpa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "Eloah gị"
+    },
+    {
+      "surface": "די",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "dakwasịrị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "למנתן",
+      "gloss": "inye"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ga-enye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "akụ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "nke eze"
+    }
+  ],
+  "timestamp": "2026-08-27T15:40:03.103512107Z",
+  "model": "glm-5.3"
+}

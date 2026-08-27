@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ma ọ bụrụ na onye ra-akpọ ⟨e⟩ dị nsọ chọrọ ịzọpụta ⟨את⟩ ụlọ ya, ọ ga-agbakwụnye otu n'ime ise nke ego ọnụahịa gi n'elu ya, ma ọ ga-abụ nke ya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "onye ra-akpọ dị nsọ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "chọrọ ịzọpụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ ya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ọ ga-agbakwụnye"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "otu n'ime ise"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ego"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ọnụahịa gi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ma ọ ga-abụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nke ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:10:08.235719618Z",
+  "model": "glm-5.3"
+}

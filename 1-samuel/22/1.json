@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Dawid si n'ebe ahụ gaa, ma gbanahụ ruo n'ọgba Adulam; ụmụnne ya na ụlọ nna ya nile nụrụ, ha wee rịọ ala ruo ya ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "si gaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "gbanahụrụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "ọgba"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulam"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ha nụrụ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ụmụnne ya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na nile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ha rịọrọ ala"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ruo ya"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:22:17.916865485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ma a ga-eweda gị ruo Sheol, ruo n'ime akụkụ olulu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "a ga-eweda gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "n'ime akụkụ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "olulu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:38:38.009499135Z",
+  "model": "glm-5.3"
+}

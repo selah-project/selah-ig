@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zephaniah 1:17",
+  "book": "zephaniah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "M ga-eme nsogbu maka mmadụ, ha ga-eje dịka ndị kpuru ìsì, n'ihi na ha mehiere Yahwe, a ga-awụfu ọbara ha dịka uzuzu, na anụ ha dịka nsị.",
+  "tokens": [
+    {
+      "surface": "והצרתי",
+      "gloss": "M ga-eme nsogbu"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "maka mmadụ"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "ha ga-eje"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "dịka ndị kpuru ìsì"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ha mehiere"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "a ga-awụfu"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ọbara ha"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "dịka uzuzu"
+    },
+    {
+      "surface": "ולחמם",
+      "gloss": "na anụ ha"
+    },
+    {
+      "surface": "כגללים",
+      "gloss": "dịka nsị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:59:33.243101741Z",
+  "model": "glm-5.3"
+}

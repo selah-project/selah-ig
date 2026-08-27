@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "David wee gara, ya na ndị ikom narị isii nọkọrọ ⟨את⟩ ya, ha rụkwara ruo n'osimiri Besor; ndị fọdụrụ guzoro.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wee gara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na narị isii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "nọkọrọ ya"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha rụkwara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "osimiri"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "ndị fọdụrụ"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "guzoro"
+    }
+  ],
+  "timestamp": "2026-08-27T16:34:11.734172121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "nke ndị iro gị kwara mkparị, Yahwe, nke ha kwakwasara mkparị nzọ ụkwụ nke Mashiach gị.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "kwara mkparị"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ndị iro gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "kwakwasara mkparị"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "nzọ ụkwụ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiach gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:12.470408347Z",
+  "model": "glm-5.3"
+}

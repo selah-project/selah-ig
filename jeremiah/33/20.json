@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Otú a ka Yahwe kwuru: Ọ bụrụ na unu nwere ike ịkwụsị ⟨את⟩ ọgbụgba-ndụ m nke ehihie na ⟨את⟩ ọgbụgba-ndụ m nke abalị, nke na ehihie na abalị agaghị adị n'oge ha,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "otú a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "unu na-akwụsị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ m nke ehihie"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nke ehihie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ m nke abalị"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nke abalị"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "nke na"
+    },
+    {
+      "surface": "היות",
+      "gloss": "adị"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ehihie"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na abalị"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "n'oge ha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:39:51.580934725Z",
+  "model": "glm-5.3"
+}

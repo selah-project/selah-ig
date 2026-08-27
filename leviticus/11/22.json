@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "⟨את⟩ Ndị a n'ime ha ka unu ga-eri: ⟨את⟩ arbeh dịka ụdị ya, na ⟨את⟩ solam dịka ụdị ya, na ⟨את⟩ chargol dịka ụdị ya, na ⟨את⟩ chagav dịka ụdị ya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị a"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "n'ime ha"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "unu ga-eri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arbeh"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "dịka ụdị ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "solam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "solam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "dịka ụdị ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "chargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "dịka ụdị ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chagav"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "chagav"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "dịka ụdị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:49:57.541582720Z",
+  "model": "glm-5.3"
+}

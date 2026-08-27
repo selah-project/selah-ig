@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Olee otu nwa okorobịa ga-esi kpọọ ⟨את⟩ ụzọ ya ọcha? Site n'ichekwa ya dịka okwu gị si dị.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Olee otu"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "ga-esi kpọọ ọcha"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nwa okorobịa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụzọ ya"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "ụzọ ya"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ichekwa"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "dịka okwu gị si dị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:05.152253763Z",
+  "model": "glm-5.3"
+}

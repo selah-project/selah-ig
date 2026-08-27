@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 14:8",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "ma mụ kewapụrụ ⟨את⟩ alaeze ahụ n'ụlọ Dawid, ma nye gị ya; ma ị abụghị dịka ohu m Dawid, onye nọgidere na-edebe iwu m, onye so m gaa na mmụọ zuru oke ya, ime naanị ihe ziri ezi n'anya m;",
+  "tokens": [
+    {
+      "surface": "ואקרע",
+      "gloss": "ma mụ kewapụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alaeze ahụ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "alaeze ahụ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ma nye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ị abụghị"
+    },
+    {
+      "surface": "היית",
+      "gloss": ""
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "dịka ohu m"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nọgidere na-edebe"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "so"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "m gaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mmụọ zuru oke"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ime"
+    },
+    {
+      "surface": "רק",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ihe ziri ezi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n'anya m"
+    }
+  ],
+  "timestamp": "2026-08-27T10:02:52.507117744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "A na-emenye Efrayim mmegbu, a na-emerụ ya ikpe mkpebi pụọ na ikpe ziri ezi; n'ihi na o kpebiri ịga ihe nzuzu.",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "a na-emenye mmegbu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "a na-emerụ ya pụọ na ikpe ziri ezi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "o kpebiri"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "iga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "צו",
+      "gloss": "nzuzu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:45:42.360279756Z",
+  "model": "glm-5.3"
+}

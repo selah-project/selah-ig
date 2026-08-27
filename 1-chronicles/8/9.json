@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ mụrụ site na Chodesh, nwunye ya, ⟨את⟩ Yovav na ⟨את⟩ Tsivya na ⟨את⟩ Mesha na ⟨את⟩ Malkam.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ọ mụrụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Chodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwunye ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsivya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mesha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:18.096087977Z",
+  "model": "glm-5.3"
+}

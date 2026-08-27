@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 25:5",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Mụ onwe m ga-enye ⟨את⟩ Rabbah dịka ebe obibi kamel, na ⟨את⟩ ụmụ Ammon dịka ebe atụrụ na-anọdụ ala; ụnụ ga-amara na m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Mụ onwe m ga-enye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "dịka ebe obibi"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "kamel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụmụ Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "למרבץ",
+      "gloss": "dịka ebe ana-anọdụ ala"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ụnụ ga-amara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T12:17:14.640984732Z",
+  "model": "glm-5.3"
+}

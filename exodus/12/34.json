@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "⟨Ndị⟩ ahụ risiri ⟨את⟩ ntụ ọka ha tupu ya abanye n'ịgba ntụ ọka; ngwa kpara ọka ha kekọrọ na uwe ha n'ubu ha.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ha risiri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ndị⟩ ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntụ ọka ya"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "ntụ ọka ya"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "tupu"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "ya abanye n'ịgba ntụ ọka"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "ngwa kpara ọka ha"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "kekọrọ"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "na uwe ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "ubu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:16:28.792332016Z",
+  "model": "glm-5.3"
+}

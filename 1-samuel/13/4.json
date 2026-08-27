@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Yisrael niile nụrụ na-ekwu na Shaúl akụla ⟨את⟩ ọrụ nche nke ndị Filistia, nakwa na Yisrael abụrụla ihe na-esi isi ọjọọ n'aka ndị Filistia; ndị ahụ wee tie mkpu n'azụ Shaúl na Gilgal.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "akụla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ nche"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "ọrụ nche"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "nke ndị Filistia"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "abụrụla ihe na-esi isi ọjọọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "n'aka ndị Filistia"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "wee tie mkpu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "n'azụ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "na Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-27T09:07:49.399597584Z",
+  "model": "glm-5.3"
+}

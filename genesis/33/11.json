@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Biko were ⟨את⟩ ngọzi m nke e wetere gị; n'ihi na Elohim emewo m ebere, nakwa na nwere m ihe niile. O wee mgba n'ahụ ya ruo mgbe o were ya.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "were"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngọzi m"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "ngọzi m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "e wetere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "emewo m ebere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "nakwa na"
+    },
+    {
+      "surface": "יש",
+      "gloss": "nwere m"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "o wee mgba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'ahụ ya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o were"
+    }
+  ],
+  "timestamp": "2026-08-27T05:50:02.575213845Z",
+  "model": "glm-5.3"
+}

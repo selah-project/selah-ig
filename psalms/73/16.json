@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "Mgbe m chere ichere iji mata ⟨את⟩ nke a, ọ bụ mmebi ike n'anya m.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "Mgbe m chere ichere"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "iji mata"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mmebi ike"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n'anya m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:11.076144854Z",
+  "model": "glm-5.3"
+}

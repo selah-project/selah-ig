@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ndagwurugwu ọ bụla ga-ebili, ugwu ọ bụla na mkpọda ugwu ga-adaba ala; e ga-atụgharị akụkụ ndị gbagọrọ agọọ ka ọ bụrụ ⟨ihe⟩ kwụ ọtọ, na ugwu ndị siri ike ka ọ bụrụ ala dị larịị.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Ndagwurugwu"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "ga-ebili"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ọ bụla"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "na mkpọda ugwu"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "ga-adaba ala"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "akụkụ ndị gbagọrọ agọọ"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "ihe kwụ ọtọ"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "na ugwu ndị siri ike"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "ala dị larịị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:58:14.230719430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma ⟨את⟩ ọnụ ụlọ nke ndị ogidi ka ọ rụrụ: ogologo ya iri ise amà, obosara ya iri atọ amà; na ọnụ ụlọ dị n'ihu ha, na ndị ogidi na elu ụlọ siri ike n'ihu ha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọnụ ụlọ nke ndị ogidi"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ọnụ ụlọ"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "nke ndị ogidi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ọ rụrụ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "iri ise"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amà"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ogologo ya"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na iri atọ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amà"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "obosara ya"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "na ọnụ ụlọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "na ndị ogidi"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "na elu ụlọ siri ike"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:55:09.513513554Z",
+  "model": "glm-5.3"
+}

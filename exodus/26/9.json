@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ị ga-ejikọ ⟨את⟩ akwa ise nanị, yana ⟨את⟩ akwa isii nanị; ọ bụrụ na ịgbagọọ ⟨את⟩ akwa nke isii n'ihu ihu nke ⟨the⟩ ụlọikwuu.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "ọ bụrụ na ị na-ejikọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwa ise"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ise"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "akwa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nanị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "yana ⟨את⟩",
+      "marks": "akwa isii"
+    },
+    {
+      "surface": "שש",
+      "gloss": "isii"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "akwa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nanị"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "ọ bụrụ na ị na-agbagọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwa nke isii"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "akwa"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "nke isii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nke"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ụlọikwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:29:28.817627282Z",
+  "model": "glm-5.3"
+}

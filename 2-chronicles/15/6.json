@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Mba dakwarara mba, obodo dakwarara obodo, n'ihi na Elohim mebiri ha site n'ụdị nsogbu niile.",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "dakwarara"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "Mba"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "mba"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "mebiri ha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "site n'ụdị niile"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nsogbu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:13:12.409078212Z",
+  "model": "glm-5.3"
+}

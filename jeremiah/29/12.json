@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Unu ga-akpọọ m ⟨את⟩ oku, unu ga-aga, unu ga-ekpe ekpere n'ihu m, m ga-anụkwa gị nzaghachi.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "unu ga-akpọọ oku"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ m"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "unu ga-aga"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "unu ga-ekpe ekpere"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n'ihu m"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "m ga-anụ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "gị nzaghachi"
+    }
+  ],
+  "timestamp": "2026-08-27T11:35:41.933233597Z",
+  "model": "glm-5.3"
+}

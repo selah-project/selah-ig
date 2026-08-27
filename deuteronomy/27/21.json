@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "A ṅụọ ya onye na-ehi ụra ya na anụmanụ ọ bụla; ma obodo niile ga-ekwu, Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "A ṅụọ ya"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "onye na-ehi ụra ya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "anụmanụ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ma ... ga-ekwu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "obodo ⟨the⟩"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-27T08:11:27.983211636Z",
+  "model": "glm-5.3"
+}

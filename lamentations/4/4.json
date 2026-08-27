@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Asụsụ nke nwatakịị na-amị ara dakwasịrị n'elu ọnụ ya n'ụnwụ; ụmụ ntakịrị rịọrọ nri achịcha, ma onye na-ekesa ha enweghị.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "dakwasịrị"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "asụsụ"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "nke nwatakịị na-amị ara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "ọnụ ya"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "n'ụnwụ"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ụmụ ntakịrị"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "rịọrọ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri achịcha"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "onye na-ekesa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T15:08:48.070296066Z",
+  "model": "glm-5.3"
+}

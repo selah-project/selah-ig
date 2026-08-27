@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Moshe, ohu m, anwụọla; ugbu a bilie, gafee ⟨את⟩ Jọdan a, gị na ndị mmadụ niile a, gaa n'ala nke m na-enye ha — ụmụ Yisrael.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu m"
+    },
+    {
+      "surface": "מת",
+      "gloss": "anwụọla"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bilie"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gafee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jọdan a"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jọdan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T08:23:04.879391971Z",
+  "model": "glm-5.3"
+}

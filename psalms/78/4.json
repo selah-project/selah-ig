@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Anyị agaghị ezozo ha n'ụmụ ha, na-akọwara ọgbọ na-abịa abịa otuto Yahwe, na ike ya, na ihe ebube ya ọ rụzuru.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "ezozo"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "n'ụmụ ha"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "na-abịa abịa"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "na-akọwara"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "otuto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "na ike ya"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "na ihe ebube ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ọ rụzuru"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:34.072014347Z",
+  "model": "glm-5.3"
+}

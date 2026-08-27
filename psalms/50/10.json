@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "N'ihi na nke m bụ anụ ọhịa niile nke ọhịa, na anụ ụlọ n'ugwu pụkụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nke m bụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "anụ ọhịa"
+    },
+    {
+      "surface": "יער",
+      "gloss": "nke ọhịa"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "anụ ụlọ"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "pụkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:27.541546009Z",
+  "model": "glm-5.3"
+}

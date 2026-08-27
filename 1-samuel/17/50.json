@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Dawid wee merie onye Pelisitia site na fụnda na nkume, kụọ ⟨את⟩ onye Pelisitia, gbuo ya; mma ọ dịghị n'aka Dawid.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wee merie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "onye Pelisitia"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "na fụnda"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "na nkume"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye Pelisitia"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "onye Pelisitia"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "gbuo ya"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "mma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-27T09:16:07.614142752Z",
+  "model": "glm-5.3"
+}

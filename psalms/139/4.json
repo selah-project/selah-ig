@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 139,
+  "translation": "N'ihi na okwu ọ dịghị n'asụsụ m; le, Yahwe, Ị maara ya niile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "n'asụsụ m"
+    },
+    {
+      "surface": "הן",
+      "gloss": "le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Ị maara"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ya niile"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:54.724877665Z",
+  "model": "glm-5.3"
+}

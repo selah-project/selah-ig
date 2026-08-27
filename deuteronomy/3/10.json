@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Obodo niile nke ⟨the⟩ mpaghara dị larịị, na Gillead niile, na Bashan niile, ruo Salka na Edrei — obodo ndị nke alaeze Og na Bashan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "nke mpaghara dị larịị"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gillead"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salka"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "na Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo ndị"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "alaeze"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "na Bashan"
+    }
+  ],
+  "timestamp": "2026-08-27T16:29:07.095372941Z",
+  "model": "glm-5.3"
+}

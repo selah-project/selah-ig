@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "M nyere unu iwu n'oge ahụ, ka e si: Yahwe, Elohim unu, enyela unu ⟨את⟩ ala a ka unu wee nwee ya; site n'ịchịkọta onwe unu ka agha, unu ga-agafe n'ihu ụmụnne unu, ụmụ Israel, ụmụ nwoke niile nwere ike agha.",
+  "tokens": [
+    {
+      "surface": "ואצו",
+      "gloss": "m nyere iwu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka e si"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "enyela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ka unu nwee ya"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "site n'ịchịkọta onwe ka agha"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "unu ga-agafe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ụmụnne unu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ike agha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:52:03.775889146Z",
+  "model": "glm-5.3"
+}

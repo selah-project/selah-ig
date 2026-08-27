@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Davịd tiwere ⟨את⟩ Hadadezer nwa Rehob, eze Zobah, mgbe ọ na-aga iweghachi aka ya n'Osimiri.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "tiwere"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zobah"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "mgbe ọ na-aga"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "iweghachi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "n'Osimiri"
+    }
+  ],
+  "timestamp": "2026-08-27T09:33:59.136839285Z",
+  "model": "glm-5.3"
+}

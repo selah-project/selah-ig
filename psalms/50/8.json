@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Ọ bụghị n'ihi àjà gị ka m na-ekpe gị ikpe, ma ọkụ-àjà gị nọ n'ihu m mgbe niile.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ọ bụghị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "àjà gị"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ka m na-ekpe gị ikpe"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "ma ọkụ-àjà gị"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "n'ihu m"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:55.903881498Z",
+  "model": "glm-5.3"
+}

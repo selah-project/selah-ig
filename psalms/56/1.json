@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 56,
+  "translation": "Maka onye nduzi egwu; banyere 'nduru ṅchi nke ndị dị anya'; Abụ nke Dawid; Miktam; mgbe ndị Filistia jidere ⟨את⟩ ya na Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye nduzi egwu"
+    },
+    {
+      "surface": "על",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "nduru"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ṅchi"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "nke ndị dị anya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "mgbe jidere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Filistia"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "na Gat"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:36.419399306Z",
+  "model": "glm-5.3"
+}

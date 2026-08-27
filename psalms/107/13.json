@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ha ha, ha tìrị Yahwe n'oge nsogbu ha; site na ihe mgbu ha, Ọ na-azọpụta ha.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ha tìrị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "n'oge nsogbu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "site na ihe mgbu ha"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "Ọ na-azọpụta ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:06.386082928Z",
+  "model": "glm-5.3"
+}

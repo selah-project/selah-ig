@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 73:27",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "N'ihi na le, ndị na-adị anya site na gị ga-efu; ịkụcharala onye na-agba akwụna niile ⟨ndị⟩ na-apụ site na gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "רחקיך",
+      "gloss": "ndị na-adị anya"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ga-efu"
+    },
+    {
+      "surface": "הצמתה",
+      "gloss": "ịkụcharala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "onye na-agba akwụna"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "site na gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:03.466008564Z",
+  "model": "glm-5.3"
+}

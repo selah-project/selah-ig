@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Eze David wee bụrụ onye agadi, bata n'ịbọchị, ha wee kpuchie ya uwe, ma okpomọkụ enweghị ike ịdọta ya.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "mara agadi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bata"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ha wee kpuchie ya"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "okpomọkụ dọta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:48:26.238478680Z",
+  "model": "glm-5.3"
+}

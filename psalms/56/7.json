@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 56,
+  "translation": "Ha ga-anọrọ n'akụkụ, ha ga-ezo; ha na-ele anya mkpịsị ụkwụ m anya, dịka ha na-atọchapụ ndụ m.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "ha ga-anọrọ n'akụkụ"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "ha ga-ezo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha onwe ha"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "akụkụ ụkwụ m"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ha na-ele anya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "ha na-atọchapụ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ndụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:45.237549294Z",
+  "model": "glm-5.3"
+}

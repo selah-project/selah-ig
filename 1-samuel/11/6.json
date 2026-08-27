@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Mmuọ nke Elohim dakwasịa n'elu Shaul nke ukwu mgbe ọ nụrụ ⟨את⟩ okwu ndị a, ma iwe were ya nke ukwu.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "dakwasịa nke ukwu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mmuọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "mgbe ọ nụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ndị a"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "iwe were"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwu"
+    }
+  ],
+  "timestamp": "2026-08-27T09:08:09.658748990Z",
+  "model": "glm-5.3"
+}

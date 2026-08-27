@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "David wee jide ⟨את⟩ ndị ikom ya site n'okwu, ma ghara ikwe ka ha bilie megide Shaul; Shaul wee bilie n'ọgba ahụ, wee gaa n'ụzọ ahụ.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "wee jide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ikom ya"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ndị ikom ya"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "site n'okwu"
+    },
+    {
+      "surface": "וילא",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ghara ikwe"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "bilee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "megide"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaul wee"
+    },
+    {
+      "surface": "קם",
+      "gloss": "bilee"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "n'ọgba ahụ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wee gaa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:19:17.924361639Z",
+  "model": "glm-5.3"
+}

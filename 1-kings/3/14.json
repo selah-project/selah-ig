@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma ọ bụrụ na ị na-aga n'ụzọ m, iji chebe iwu m na ihe m nyere n'iwu, dịka Davịd nna gị si aga, m ga-agbatị ⟨את⟩ ụbọchị gị.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ọ bụrụ na"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ị na-aga"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "n'ụzọ m"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "iji chebe"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ihe m nyere n'iwu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "si aga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "m ga-agbatị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụbọchị gị"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ụbọchị gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:51:32.679159194Z",
+  "model": "glm-5.3"
+}

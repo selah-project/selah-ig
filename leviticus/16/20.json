@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Mgbe ọ gwụchara ime mkpụrụ maka ⟨את⟩ ebe nsọ ahụ, na ⟨את⟩ ahụ mgbakọ, na ⟨את⟩ ebe ịchụàjà ahụ, ọ ga-ewetara ⟨את⟩ ewu dị ndụ.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "mgbe ọ gwụchara"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "ime mkpụrụ maka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe nsọ ahụ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ebe nsọ ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ahụ mgbakọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mgbakọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ebe ịchụàjà ahụ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụàjà ahụ"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ọ ga-ewetara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ewu dị ndụ"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ewu"
+    },
+    {
+      "surface": "החי",
+      "gloss": "dị ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:57.907852362Z",
+  "model": "glm-5.3"
+}

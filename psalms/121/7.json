@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 121,
+  "translation": "Yahwe ga-echebe gị pụọ na ihe ọjọọ niile; Ọ ga-echebe ⟨את⟩ mkpụrụ obi gị.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "ga-echebe gị"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "pụọ na ihe niile"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "Ọ ga-echebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpụrụ obi gị"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mkpụrụ obi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:11.543750102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Mụ nyekwara ⟨את⟩ gịụ iwu, n'oge ahụ, ⟨את⟩ okwu niile nke gịụ ga-eme.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Mụ nyekwara iwu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ gịụ",
+      "marks": "gịụ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "gịụ ga-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T07:50:28.173277296Z",
+  "model": "glm-5.3"
+}

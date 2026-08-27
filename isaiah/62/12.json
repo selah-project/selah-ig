@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 62:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 62,
+  "translation": "Ha ga-akpọ ha Ọha Nsọ, Ndị Egburu-azụ nke Yahwe; a ga-akpọ gịkwa Onye-a-chọrọ-achọ, Obodo a na-agbahapụghị.",
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "ha ga-akpọ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Ọha"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "Nsọ"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "Ndị Egburu-azụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nke Yahwe"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "gịkwa"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "a ga-akpọ"
+    },
+    {
+      "surface": "דרושה",
+      "gloss": "Onye-a-chọrọ-achọ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Obodo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "נעזבה",
+      "gloss": "a na-agbahapụghị"
+    }
+  ],
+  "timestamp": "2026-08-27T11:08:00.182107529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ọtọ nke nwa nwanyị nke nwa gị nwoke ma ọ bụ nke nwa nwanyị nke nwa nwanyị gị — gị agaghị ekpughe ọtọ ha, n'ihi na ọtọ gị ka ha bụ.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ọtọ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nke nwa nwanyị"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nke nwa gị nwoke"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nke nwa nwanyị"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "nke nwa nwanyị gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ịkpughe"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "ọtọ ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ọtọ gị"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ha bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:56:24.701208146Z",
+  "model": "glm-5.3"
+}

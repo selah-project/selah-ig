@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ma mkpụsị-ịnyịnya ọ bụla nke onye nwere ọpụpụ na-anya ya ga-adị arụ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ma ... ọ bụla"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "mkpụsị-ịnyịnya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "na-anya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "onye-nwere-ọpụpụ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ga-adị arụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:58:13.735052059Z",
+  "model": "glm-5.3"
+}

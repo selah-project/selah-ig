@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 90,
+  "translation": "N'ụtụtụ ọ na-amịpụta ma na-agafe; n'anyasị a na-egbukwa ya ma ọ na-akọ nkụ.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ọ na-amịpụta"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "ma na-agafe"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "n'anyasị"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "a na-egbu ya"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ma ọ na-akọ nkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:40.900933805Z",
+  "model": "glm-5.3"
+}

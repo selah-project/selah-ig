@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Maka ohu m ka ha bụ, ndị m wepụtara ⟨את⟩ ha n'ala Mitzrayim; a gaghị ere ha ka a na-ere ohu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu m"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "m wepụtara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a gaghị"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "ere ha"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "ka a na-ere"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ohu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:05:23.306430993Z",
+  "model": "glm-5.3"
+}

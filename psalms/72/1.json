@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "Nke Shelomoh. Elohim, nyere eze ikpe gị, na ikpe ziri ezi gị nye nwa eze.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Nke Shelomoh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ikpe gị"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "nye eze"
+    },
+    {
+      "surface": "תן",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "na ikpe ziri ezi gị"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "nye nwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:42.387374716Z",
+  "model": "glm-5.3"
+}

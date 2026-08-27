@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ugbu a meere unu ya, n'ihi na Yahwe gwara David, ka ọ kwuru, Site n'aka David, ohu m, ka m zọpụta ⟨את⟩ ndị m, Yisrael, n'aka ndị Felistim na n'aka ndị iro ha niile.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "meere unu ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ọ kwuru"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "site n'aka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu m"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "ka m zọpụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị m, Yisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Felistim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "na n'aka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "ndị iro ha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:31:00.625477827Z",
+  "model": "glm-5.3"
+}

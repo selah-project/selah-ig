@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Ka ugwu Tsiyon ṅụọ ọṅụ, ka ụmụ nwanyị Yehuda ṅụọrọ ọṅụ n'ihi mkpebi gị.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ka ... ṅụọ ọṅụ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ka ... ṅụọrọ ọṅụ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ụmụ nwanyị"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "mkpebi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:35.775380010Z",
+  "model": "glm-5.3"
+}

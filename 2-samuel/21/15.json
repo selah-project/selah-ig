@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ọ pụtakwara ọzọ na agha dị ndị Filistia na ⟨את⟩ Yisrael; Dawid wee daa, ya na ndị ohu ya, ha wee lụọ ⟨את⟩ ndị Filistia ọgụ, Dawid wee gwụọ ike.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ọ pụtakwara dị"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "agha"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "maka ndị Filistia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ọ wee daa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ya na ndị ohu ya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ha wee lụọ ọgụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Filistia"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Filistia"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ọ wee gwụọ ike"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-27T09:44:18.685353175Z",
+  "model": "glm-5.3"
+}

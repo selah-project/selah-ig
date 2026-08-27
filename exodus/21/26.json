@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma ọ bụrụ na nwoke kụrụ ⟨את⟩ anya ohu ya ma ọ bụ ⟨את⟩ anya odibo ya, ma ọ bibie ya, ọ ga-ahapụ ya n'ohere maka anya ya.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "kụrụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anya"
+    },
+    {
+      "surface": "עין",
+      "gloss": "anya"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ohu ya"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anya"
+    },
+    {
+      "surface": "עין",
+      "gloss": "anya"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "odibo ya"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "ma ọ bibie ya"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "n'ohere"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "ọ ga-ahapụ ya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "maka"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "anya ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:31.755149538Z",
+  "model": "glm-5.3"
+}

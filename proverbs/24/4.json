@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ma site na ihe ọmụma ka ọnụ ụlọ ndị dị n'ime na-eju mmiri, site na akụ na ụba niile dị oké ọnụ ahịa ma dịkwa mma.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "ma site na ihe ọmụma"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "ọnụ ụlọ ndị dị n'ime"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "na-eju mmiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הון",
+      "gloss": "akụ na ụba"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "dị oké ọnụ ahịa"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "ma dịkwa mma"
+    }
+  ],
+  "timestamp": "2026-08-27T14:29:40.641912611Z",
+  "model": "glm-5.3"
+}

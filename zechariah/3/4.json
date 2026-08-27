@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 3:4",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọ zaghachiri, wee sị ndị guzo n'ihu ya, sị: Wepụ uwe ndị rụrụ arụ n'elu ya. O wee sị ya: Le, m ewepụla njọ gị n'elu gị, m na-eyi gị ⟨את⟩ uwe mara mma.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ọ zaghachiri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sị"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ndị guzo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "wepụ"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "הצאים",
+      "gloss": "ndị rụrụ arụ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "le"
+    },
+    {
+      "surface": "העברתי",
+      "gloss": "m ewepụla"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "n'elu gị"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "njọ gị"
+    },
+    {
+      "surface": "והלבש",
+      "gloss": "m na-eyi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị",
+      "marks": "uwe mara mma"
+    },
+    {
+      "surface": "מחלצות",
+      "gloss": "uwe mara mma"
+    }
+  ],
+  "timestamp": "2026-08-27T13:05:27.107515053Z",
+  "model": "glm-5.3"
+}

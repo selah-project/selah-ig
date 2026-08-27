@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ndị niile bi n'ụwa na ndị na-ebi n'ala: mgbe a na-ebu ọkọlịtọ n'ugwu, unu ga-ele; nakwa mgbe a na-eku ọkpọ shofar, unu ga-anụ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ndị niile"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "bi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "na ndị na-ebi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "mgbe a na-ebu"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ọkọlịtọ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "unu ga-ele"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "nakwa mgbe a na-eku"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ọkpọ shofar"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "unu ga-anụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:44:30.188728724Z",
+  "model": "glm-5.3"
+}

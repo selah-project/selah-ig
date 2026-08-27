@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Unu ahụla ihe m mere Mitzrayim, m buru unu ⟨את⟩ n'ụzọ nke nsọpụ́ ndị ugo, m bịakwutere unu ⟨את⟩ ruo m.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ahụla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "m mere"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "m buru"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "nsọpụ́"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "ndị ugo"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "m bịakwutere"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ruo m"
+    }
+  ],
+  "timestamp": "2026-08-27T06:20:15.398190877Z",
+  "model": "glm-5.3"
+}

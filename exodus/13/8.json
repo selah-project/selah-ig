@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ị ga-agwa nwa gị nwoke n'ụbọchị ahụ, ka ọ na-asị: N'ihi nke a ka Yahwe mere m, mgbe m si na Mizraim pụta.",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "ị ga-agwa"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "nwa gị nwoke"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ọ na-asị"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "mgbe m si pụta"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mizraim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:17:11.200113376Z",
+  "model": "glm-5.3"
+}

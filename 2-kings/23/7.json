@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "O kwatuchara ⟨את⟩ ụlọ ndị kedeshim nke dị n'ụlọ Yahwe, ebe ụmụ nwanyị na-atụ akwa n'ebe ahụ maka Asherah.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "kwatuchara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ ndị kedeshim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ndị kedeshim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ụmụ nwanyị"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "na-atụ akwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "akwa"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "maka Asherah"
+    }
+  ],
+  "timestamp": "2026-08-27T10:29:56.101846291Z",
+  "model": "glm-5.3"
+}

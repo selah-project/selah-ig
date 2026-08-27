@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Yahwe, Adonai anyị, ka aha gị dị oke ukwuu n'ihe niile nke ụwa, onye debere ukpo gị n'elu eluigwe!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai anyị"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "dị oke ukwuu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ihe niile nke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "debere"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ukpo gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:54.688135285Z",
+  "model": "glm-5.3"
+}

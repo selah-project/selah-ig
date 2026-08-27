@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Mgbe Shaddai gbasasịrị eze ndị ahụ n'ime ya, ọ dị ka snow na-ada na Tsalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "mgbe ... gbasasịrị"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "eze ndị"
+    },
+    {
+      "surface": "בה",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "ọ dị ka snow"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "na Tsalmon"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:55.728051370Z",
+  "model": "glm-5.3"
+}

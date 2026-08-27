@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 39:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Chizkiyahu ṅụrụ ụtọ n'ihi gbasara ha, ma gosiri ha ⟨את⟩ ụlọ ihe bara uru, ⟨את⟩ ọla ọcha na ⟨את⟩ ọla edo na ⟨את⟩ ihe-esi ísì ụtọ na ⟨את⟩ mmanụ dị mma, na ⟨את⟩ ụlọ ngwá ya niile, na ⟨את⟩ ihe niile dị n'ọbá akụ ya; enweghị ihe ọ bụla Chizkiyahu eleghị ha n'ụlọ ya na n'ọchịchị ya niile.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "ṅụrụ ụtọ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "n'ihi gbasara ha"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויראם",
+      "gloss": "gosiri ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ ihe bara uru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "ihe bara uru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọla ọcha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ọla ọcha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ọla edo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihe-esi ísì ụtọ"
+    },
+    {
+      "surface": "הבשמים",
+      "gloss": "ihe-esi ísì ụtọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mmanụ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụlọ ngwá ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwá ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "dị"
+    },
+    {
+      "surface": "באצרתיו",
+      "gloss": "n'ọbá akụ ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨dị⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "eleghị ha"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "n'ụlọ ya"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ọchịchị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:55:49.235464837Z",
+  "model": "glm-5.3"
+}

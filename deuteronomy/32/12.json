@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Yahwe naanị-ya duziri ya, ma ọ dịghị chi mba ọzọ n'akụkụ-ya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "naanị-ya"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "duziri ya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma ọ dịghị"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'akụkụ-ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chi (El)"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "mba ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:18:09.963726543Z",
+  "model": "glm-5.3"
+}

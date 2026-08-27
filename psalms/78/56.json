@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ha nwara Ya, ha jụrụ ⟨את⟩ Elohim Elyon okwu, ma ha echedeghị ihe aka Ya aka.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "ha nwara Ya"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ha jụrụ okwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "ihe aka Ya aka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ha eche"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:16.348975498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "⟨את⟩ ọkwá nkume nke mbụ na-eguzo n'akuku ugwu, n'ihu Mikmash, ma nke ọzọ n'akuku ndịda, n'ihu Geba. (Mkpebi: nsonso mkpụrụ okwu: השן = crag ọkwá nkume, האחד = nke mbụ, מצוק = כּוֹבֶץ flat raised crag, מול = directly opposite n'ihu \/ מול.)",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "ọkwá nkume"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "na-eguzo elu"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "n'akuku ugwu"
+    },
+    {
+      "surface": "מול",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmash"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ma nke ọzọ"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "n'akuku ndịda"
+    },
+    {
+      "surface": "מול",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    }
+  ],
+  "timestamp": "2026-08-27T09:08:09.680111923Z",
+  "model": "glm-5.3"
+}

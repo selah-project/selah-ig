@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Baara Yahwe ukwu mụ na unu; ka anyị elata aha ya ọnụ.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "baara ukwu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mụ na unu"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "ka anyị elata"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:25.414542626Z",
+  "model": "glm-5.3"
+}

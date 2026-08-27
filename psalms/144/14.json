@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 144,
+  "translation": "Ehi anyị dị ike ibu arịa; enweghị mgbawa, enweghị onye na-apụ, enweghị tiwaa mkpu n'okporo ámá anyị.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "ehi anyị"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "dị ike ibu arịa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "mgbawa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "onye na-apụ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "tiwaa mkpu"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "n'okporo ámá anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:37.145119291Z",
+  "model": "glm-5.3"
+}

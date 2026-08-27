@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ruo mgbe ebighị ebi, Yahwe, okwu ⟨gị⟩ guzosiri ike na ⟨elu⟩igwe.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "okwu gị"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "guzosiri ike"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na eluigwe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:38.951293340Z",
+  "model": "glm-5.3"
+}

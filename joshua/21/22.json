@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Na ⟨את⟩ Kivtsayim na ⟨את⟩ mpaghara-ubi ya, na ⟨את⟩ Beit-Khoron na ⟨את⟩ mpaghara-ubi ya — obodo anọ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kivtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kivtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaghara-ubi ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mpaghara-ubi ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Beit-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaghara-ubi ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mpaghara-ubi ya"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:13.729216228Z",
+  "model": "glm-5.3"
+}

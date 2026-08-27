@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "N'ihi na aka Yahwe ga-ezu ike n'ugwu a, a ga-akụte Moab n'okpuru ya, dịka a na-akụte ahụhụ n'ime mmadịm na Madmenah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "ga-ezu ike"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "a ga-akụte"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "n'okpuru ya"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "dịka a na-akụte"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "ahụhụ mkpụrụ"
+    },
+    {
+      "surface": "במי",
+      "gloss": "n'ime mmadịm"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Madmenah"
+    }
+  ],
+  "timestamp": "2026-08-27T16:40:11.483012864Z",
+  "model": "glm-5.3"
+}

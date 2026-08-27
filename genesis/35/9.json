@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Elohim pụtara nye Yaakov ọzọ n'oge ọ na-esi na Padan-Aram lọta, wee gọzie ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "n'oge ọ na-esi... lọta"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "na Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ma gọzie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:50:42.097512348Z",
+  "model": "glm-5.3"
+}

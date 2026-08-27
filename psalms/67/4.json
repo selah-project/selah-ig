@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 67,
+  "translation": "Mba ga-ekere gị ule, Elohim, mba ga-ekere gị ule, ha niile.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ha ga-ekere gị ule"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ha ga-ekere gị ule"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:15.499872663Z",
+  "model": "glm-5.3"
+}

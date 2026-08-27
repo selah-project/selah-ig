@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 147,
+  "translation": "Onye na-ebu ọnụ ọgụgụ kpakpando, na-akpọ aha ha niile.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Onye na-ebu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ọnụ ọgụgụ"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "kpakpando"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "na-akpọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:08.964853296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "N'ụbọchị ihe mmerụ ahụ m, m chọrọ Adonai; aka m n'abalị a dọrọ adọ ma ghara ịkwụsụ; mmụọ m jụrụ inweta nkasi obi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "N'ụbọchị"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ihe mmerụ ahụ m"
+    },
+    {
+      "surface": "adonai",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "m chọrọ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "n'abalị"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "a dọrọ adọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ghara"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "ịkwụsụ"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "jụrụ"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "inweta nkasi obi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mmụọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:56.502861604Z",
+  "model": "glm-5.3"
+}

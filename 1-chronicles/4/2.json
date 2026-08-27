@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Reayah nwa Shoval mụrụ ⟨את⟩ Yachat, ma Yachat mụrụ ⟨את⟩ Achumai na ⟨את⟩ Lahad; ndị a bụ ezinụlọ ndị Tsereati.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "ma Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yachat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "ma Yachat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ezinụlọ"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "ndị Tsereati"
+    }
+  ],
+  "timestamp": "2026-08-27T15:54:31.411022691Z",
+  "model": "glm-5.3"
+}

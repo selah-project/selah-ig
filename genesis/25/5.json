@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Avraham nyere Yitschak ⟨את⟩ ihe niile nke ⟨ọ̀ nwere⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ọ̀ nwere⟩"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-27T05:40:13.859435222Z",
+  "model": "glm-5.3"
+}

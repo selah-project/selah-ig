@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Dawid biliri n'ụtụtụ, ya na ndị ikom ya, ịga n'ụtụtụ, ịlaghachi n'ala Peleshet; ndị Peleshet welu elu gaa Yizreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "biliri n'ụtụtụ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ndị ikom ya"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ịga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ịlaghachi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ndị Peleshet"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "welu elu gaa"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-27T09:22:57.742404527Z",
+  "model": "glm-5.3"
+}

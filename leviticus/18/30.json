@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Unu ga-echebara nche m nche, ka unu na-emeghị otu n'ime iwu ndị jọrọ njọ ndị e mere n'ihu unu, ka unu ghara imerụ onwe unu ahụ n'ime ha; m bụ Yahwe, Elohim unu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "unu ga-echebara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nche m"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "nche m"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ka unu na-emeghị"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ime"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "iwu ndị"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "jọrọ njọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "e mere"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "n'ihu unu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka unu ghara"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "imerụ onwe unu ahụ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'ime ha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m bụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:56:19.417215240Z",
+  "model": "glm-5.3"
+}

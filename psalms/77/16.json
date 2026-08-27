@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "Ọ zọpụtara ndị gị site na ogwe aka gị, ụmụ Yaakov na Yosef. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Ị zọpụtara"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "site na ogwe aka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndị gị"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "na Yosef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:12.681644468Z",
+  "model": "glm-5.3"
+}

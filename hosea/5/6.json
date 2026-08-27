@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ha ga-aga na atụrụ ha na ehi ha iji chọọ ⟨את⟩ Yahwe, ma ha agaghị ahụ ya; ọdapụla n'aka ha.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "na atụrụ ha"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "na ehi ha"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ga-aga"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "iji chọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma... agaghị"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ọdapụla"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "n'aka ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:39:17.982118762Z",
+  "model": "glm-5.3"
+}

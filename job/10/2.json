@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "M ga-asị Eloah: E kwela m ikpe; gwa m ihe kpatara na ị na-eme m ikpe.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "m ga-asị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "m ikpe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "gwa m"
+    },
+    {
+      "surface": "על",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "na ị na-eme m ikpe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:42:44.548282830Z",
+  "model": "glm-5.3"
+}

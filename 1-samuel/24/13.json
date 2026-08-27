@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 24:13",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Yahwe ka ọ kpebie ikpe n'etiti m na gị, ma Yahwe si n'aka gị meghara m, mana aka m agaghị adị́ n'elu gị.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "ka ọ kpebie ikpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "n'etiti m"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "na gị"
+    },
+    {
+      "surface": "ונקמני",
+      "gloss": "ma ... meghara m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "si n'aka gị"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "mana aka m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "adị́"
+    },
+    {
+      "surface": "בך",
+      "gloss": "n'elu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:18:23.762736132Z",
+  "model": "glm-5.3"
+}

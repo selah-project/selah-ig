@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 134,
+  "translation": "Abụ nke ndịna-elu. Lee, gọzie ⟨את⟩ Yahwe, hm, ohu niile nke Yahwe, ndị na-eguzo n'ụlọ Yahwe n'abalị.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nke ndịna-elu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lee"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "gọzie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ndị na-eguzo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "n'abalị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:04.490943162Z",
+  "model": "glm-5.3"
+}

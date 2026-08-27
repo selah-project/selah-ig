@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Mụ onwe m, Qohelet, bụrụla eze n'elu Yisrael na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mụ onwe m"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bụrụla"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T15:11:45.573228943Z",
+  "model": "glm-5.3"
+}

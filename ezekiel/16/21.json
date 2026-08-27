@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ị wee chụọ n'ọnwụ ⟨את⟩ ụmụ m, ma nye ha ka ha ga-efe gafee nye ha.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "Ị wee chụọ n'ọnwụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ m"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "ma nye ha"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "ka ha ga-efe gafee"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nye ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:06:46.241410576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ọ ga-akpụ ntutu ya, ma ⟨את⟩ ọrịa-akpụ ahụ ọ gaghị akpụ; ma onye-nchu-aja ga-emechi ⟨את⟩ onye nwere ọrịa-akpụ ahụ ụbọchị asaa nke abụọ.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "ọ ga-akpụ ntutu ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọrịa-akpụ ahụ"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ọrịa-akpụ ahụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "akpụ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ga-emechi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye nwere ọrịa-akpụ ahụ"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ọrịa-akpụ ahụ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "nke abụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:53:50.821056086Z",
+  "model": "glm-5.3"
+}

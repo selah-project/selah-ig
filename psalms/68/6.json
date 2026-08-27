@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Nna nke ndị mgbei na onye ọkaikpe nke ndị di ha nwụrụ — Elohim, n'ebe obibi dị nsọ ya.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "nke ndị mgbei"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "na onye ọkaikpe"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "nke ndị di ha nwụrụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "n'ebe obibi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "dị nsọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:33.487110582Z",
+  "model": "glm-5.3"
+}

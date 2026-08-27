@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Oge iji chọọ, na oge iji tụfuo; oge iji chekwuo, na oge iji tụfuo.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "iji chọọ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na oge"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "iji tụfuo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "iji chekwuo"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na oge"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "iji tụfuo"
+    }
+  ],
+  "timestamp": "2026-08-27T16:52:10.939177830Z",
+  "model": "glm-5.3"
+}

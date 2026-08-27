@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Lot wee pụta gaa ha n'ọnụ ụzọ, ma mee ka ọnụ ụzọ mechie n'azụ ya.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "gaa ha"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "n'ọnụ ụzọ"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "ma ọnụ ụzọ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "mee ka ọ mechie"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "n'azụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:33:03.893449145Z",
+  "model": "glm-5.3"
+}

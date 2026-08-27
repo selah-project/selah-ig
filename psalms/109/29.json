@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Ndị na-ebo m ebubo ka ha yiri ihere dịka uwe; ka ha kpuchie onwe ha n'ihe ihere ha dịka uwe elu.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "ka ha yiri"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "ndị na-ebo m ebubo"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ihere"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "ka ha kpuchie onwe ha"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "dịka uwe elu"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ihere ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:46.215683701Z",
+  "model": "glm-5.3"
+}

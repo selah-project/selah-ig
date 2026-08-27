@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Yahwe ga-eme ka ⟨את⟩ ọrịa na-efe efe ratakọọ n'ahụ gị, ruo mgbe ọ ga-eri gị ichie n'elu ⟨the⟩ ala nke ị na-abanye n'ebe ahụ iji nweta ya.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "ga-eme ka ... ratakọọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "n'ahụ gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrịa na-efe efe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ọrịa na-efe efe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ọ ga-eri gị ichie"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "בא",
+      "gloss": "na-abanye"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "iji nweta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:13:51.913246556Z",
+  "model": "glm-5.3"
+}

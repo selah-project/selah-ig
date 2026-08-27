@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ọ dịkwa n'echi ya, Moshe nọrọ ọdụ ka ọ kpee ⟨את⟩ ikpe ndị ahụ, ndị ahụ wee guzo n'akụkụ Moshe site n'ụtụtụ ruo n'anyasị.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dịkwa"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "n'echi ya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nọrọ ọdụ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ka ọ kpee ikpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikpe ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ha guzoro"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ụtụtụ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "anyasị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:21:40.041976070Z",
+  "model": "glm-5.3"
+}

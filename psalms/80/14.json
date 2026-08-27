@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Ezi ọhịa nke ọhịa na-ebibi ya, na anụ ọhịa nke ubi na-eri nri ya.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "na-ebibi ya"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ezi ọhịa"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "site n'ọhịa"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "na anụ ọhịa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "nke ubi"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "na-eri nri ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:10.537094288Z",
+  "model": "glm-5.3"
+}

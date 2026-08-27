@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "\"Ị na-agafe taa ⟨את⟩ ógbè Mọab, ⟨את⟩ Ar.\"",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ógbè Mọab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ógbè"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mọab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-27T16:29:02.775206839Z",
+  "model": "glm-5.3"
+}

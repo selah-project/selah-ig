@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ndị nchuaja kwenyere ịghara iwere ọlaọcha n'aka ⟨את⟩ ndị mmadụ, na ịghara idozi ⟨את⟩ mgbawa nke ụlọ ahụ.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "kwenyere"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchuaja"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ịghara"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "iwere"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọlaọcha"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "n'aka ndị mmadụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "na ịghara"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "idozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgbawa nke ụlọ ahụ"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "mgbawa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:22:31.952505357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "M ga-enye ⟨את⟩ Mitsraim n'aka ndị nnochị siri ike, eze nke ike ga-achị ha — nkwu Adonai, Yahwe nke ndị agha.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "M ga-enye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ndị nnochị"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nke ike"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "ga-achị"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkwu"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:44:22.453022943Z",
+  "model": "glm-5.3"
+}

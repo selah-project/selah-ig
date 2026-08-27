@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma gịnị mere na unu na-eme ⟨את⟩ obi unu ike, dịka Mitzrayim na Paroh si eme ⟨את⟩ obi ha ike? Ọ bụghị ya na mgbe ọ megburu ha, ha zipụrụ ha ma ha gara?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ma gịnị mere"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "na-eme ike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi unu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "obi unu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "si eme ike"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "na Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi ha"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "obi ha"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ọ bụghị ya na"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "megburu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "zipụrụ ha"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ha gara"
+    }
+  ],
+  "timestamp": "2026-08-27T09:05:04.625156499Z",
+  "model": "glm-5.3"
+}

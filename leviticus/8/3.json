@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma kpọkọta ⟨את⟩ nzukọ izugbe n'ọnụ ụzọ Ụlọikpe Nzukọ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nzukọ izugbe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izugbe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kpọkọta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ọnụ ụzọ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ụlọikpe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nzukọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:04.583777445Z",
+  "model": "glm-5.3"
+}

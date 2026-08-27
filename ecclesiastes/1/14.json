@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "M hụrụ ⟨את⟩ ọrụ niile a na-eme n'okpuru anyanwụ, lee, ihe niile bụ hevel na mmebi nke mmụọ.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "M hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "a na-eme"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lee"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "na mmebi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nke mmụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:12:05.891442108Z",
+  "model": "glm-5.3"
+}

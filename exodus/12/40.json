@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 12:40",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma oge ndụ nke ụmụ Yisrael, bụ́ ndị bi na Mitzrayim, ⟨bụ⟩ afọ iri atọ na narị anọ.",
+  "tokens": [
+    {
+      "surface": "ומושב",
+      "gloss": "Ma oge ndụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nke ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ́ ndị"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitzrayim"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "iri atọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na anọ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:16:51.604444985Z",
+  "model": "glm-5.3"
+}

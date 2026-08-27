@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Onye nwoke nke kwere nwanyị nkwa ọlụlụ ma achọghị ya, ka ọ gaa ma laghachi n'ụlọ ya, ka o meghị na ọ nwụọ n'agha, ma onye nwoke ọzọ were ya.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ma onye"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke nke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "kwere nkwa ọlụlụ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nwanyị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "achọghị ya"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ka ọ gaa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ma laghachi"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "n'ụlọ ya"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka o meghị na"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ọ nwụọ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "n'agha"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ma onye nwoke"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "were ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:06:08.446424705Z",
+  "model": "glm-5.3"
+}

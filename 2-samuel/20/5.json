@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Amasa wee gaa kpọkọta ⟨את⟩ Yehuda, ma ọ nọgidere karịrị oge a kara aka nke e nyere ya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ọ wee gaa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "kpọkọta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "ma ọ nọgidere karịrị"
+    },
+    {
+      "surface": "מן",
+      "gloss": "karịrị"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "oge a kara aka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "e nyere ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:44:56.718412879Z",
+  "model": "glm-5.3"
+}

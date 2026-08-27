@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "N'ihi ya, aka niile ga-adajị, obi mmadụ niile ga-agbapụ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "aka"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ga-adajị"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma niile"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "ga-agbapụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:38:24.543340075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Ma iwe Yahwe gbaa ọkụ megide ndị ya, ma ọ kpọọ ⟨את⟩ ihe nketa ya asị.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "gbaa ọkụ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "megide ndị ya"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "ma ọ kpọọ asị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe nketa ya"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ihe nketa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:53.117597746Z",
+  "model": "glm-5.3"
+}

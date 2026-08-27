@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Na onyunyo ekwela ịnata; n'ihi na onyunyo na-eme ka ndị nwere anya mpe ghara ịhụ, ma na-agbanwe okwu ndị ziri ezi.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "Na onyunyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ịnata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "onyunyo ⟨the⟩"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "na-eme ka ... ghara ịhụ"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "ndị nwere anya mpe"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ma na-agbanwe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ndị ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:24:20.595535299Z",
+  "model": "glm-5.3"
+}

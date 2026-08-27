@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Chebe onwe gị, ka ị ghara ihichapụ ⟨את⟩ Yahwe Elohim gị, site n'ịghara idebe iwu ya, na ikpe ya, na iwu ederede ya, nke m na-enye gị iwu taa.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "chebe onwe gị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka ị ghara"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ihichapụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "site n'ịghara"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "idebe"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "iwu ya"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "na ikpe ya"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "na iwu ederede ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "na-enye gị iwu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    }
+  ],
+  "timestamp": "2026-08-27T07:55:54.920547695Z",
+  "model": "glm-5.3"
+}

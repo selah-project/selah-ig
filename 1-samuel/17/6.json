@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ma ihe nchedo ụkwụ nke ọla nchara n'ụkwụ ya, na mma agha nke ọla nchara n'etiti ubu ya.",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "ihe nchedo ụkwụ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ọla nchara"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ụkwụ ya"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ọla nchara"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "ubu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:11:06.161779134Z",
+  "model": "glm-5.3"
+}

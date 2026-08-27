@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ihe efu nke ihe efu ndị ahụ, ka Qohelet kwuru; ihe niile bụ ihe efu.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ihe efu"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ihe efu ndị ahụ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ihe efu"
+    }
+  ],
+  "timestamp": "2026-08-27T15:19:15.557125868Z",
+  "model": "glm-5.3"
+}

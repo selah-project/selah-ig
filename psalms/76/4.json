@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 76,
+  "translation": "N'ebe ahụ ⟨⟨Ọ⟩⟩ gbajiri ọkụ-mmụọ nke ụta, mma agha, na mmaagha, na agha. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "N'ebe ahụ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "gbajiri"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "ọkụ-mmụọ nke"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ụta"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "na mmaagha"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "na agha"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:49.696543128Z",
+  "model": "glm-5.3"
+}

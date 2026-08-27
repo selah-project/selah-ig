@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Mgbe ahụ, ụbọchị Adam niile o bi bilièrụ̀ narị itoolu na afọ iri atọ, o wee nwụọ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ha bụ̀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חי",
+      "gloss": "o bi"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "itoolu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na iri atọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o wee nwụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:55.240853957Z",
+  "model": "glm-5.3"
+}

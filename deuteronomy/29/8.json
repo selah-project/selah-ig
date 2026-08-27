@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Unu ga-echebe ⟨את⟩ okwu nke ọgbụgba-ndụ a, unu wee mee ⟨את⟩ ha, ka unụ nwee ihe ịga nke ọma n'ihe niile unu na-eme.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "unu ga-echebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu nke ọgbụgba-ndụ a"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "nke ọgbụgba-ndụ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "unu wee mee"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka unụ"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "nwee ihe ịga nke ọma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile unu na-eme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "unu na-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T08:12:29.469854406Z",
+  "model": "glm-5.3"
+}

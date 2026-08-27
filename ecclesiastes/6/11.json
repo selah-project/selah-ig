@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "N'ihi na e nwere okwu ọtụtụ na-abawanye hevel; gịnị ka ọ bụ ihe fọdụrụ maka mmadụ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יש",
+      "gloss": "e nwere"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "na-abawanye"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ihe fọdụrụ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "maka mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:45.917949732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ma gị dee n'elu ⟨את⟩ nkume ndị ahụ okwu niile nke iwu a, dee ya nke ọma pụrụ iche.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "ma gị dee"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "nkume ndị ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu niile nke iwu a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "iwu a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "באר",
+      "gloss": "dee ya nke ọma"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "pụrụ iche"
+    }
+  ],
+  "timestamp": "2026-08-27T08:08:52.819881263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Ma ugbu a, ọ bụghị unu zitere m ⟨את⟩ n'ebe a, kama ⟨it was⟩ Elohim; o wee mee m bụrụ nna nye Pharaoh, na onyenwe nke ụlọ ya niile, na onye na-achị ala Mitzrayim niile.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ma ugbu a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "zitere"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "n'ebe a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "o wee mee m bụrụ"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "nna"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "nye Pharaoh"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "na onyenwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nke ... niile"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "na onye na-achị"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:01:29.386467975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ndị ga-akwanye onwe ha, nwoke na nwoke, na nwoke n'enyi ya; nwa okorobịa ga-ejide ibu ya n'okenye, na onye a na-le anya n'ala n'onye a na-asọpụrụ.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ga-akwanye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "na nwoke"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na nwoke"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "n'enyi ya"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "ga-ejide ibu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nwa okorobịa"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "n'okenye"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "na onye a na-le anya n'ala"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "n'onye a na-asọpụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:32:17.768460720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Gịnịmere m kpọrọ gị oku, Yahwe; ma gịnịmere m rịọrọ Adonai ebere.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "gịnịmere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m kpọrọ oku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma gịnịmere"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "m rịọrọ ebere"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:24.303004509Z",
+  "model": "glm-5.3"
+}

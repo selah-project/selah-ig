@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Shaul gwara Yonatanan nwa ya, na ndị ohu ya niile, ka ha gbuo ⟨את⟩ Dawid; ma Yonatanan, nwa Shaul, chọrọ Dawid nke ukwuu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatanan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ka ha gbuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ma Yonatanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chọrọ"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T09:16:53.212574765Z",
+  "model": "glm-5.3"
+}

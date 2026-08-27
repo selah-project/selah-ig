@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ha ga-eri ma ghara ịju afọ; ha na-akọ ihe rụrụ arụ ma ghara ịmụ nwa, n'ihi na ha hapụrụ ⟨את⟩ Yahwe ịgbaso ihe ọ gwara ha.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ha ga-eri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ghara"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ịju afọ"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "ha na-akọ ihe rụrụ arụ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ghara"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "ịmụ nwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ha hapụrụ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ịgbaso ihe ọ gwara ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:37:46.565729611Z",
+  "model": "glm-5.3"
+}

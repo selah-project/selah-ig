@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'ihi na uru ọ na-enweta ka azụmahịa ọlaọcha mma, na ihe ọ na-eweta ka ọla edo dị ọcha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ka ... mma"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "uru ọ na-enweta"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "azụmahịa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọlaọcha"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "ka ọla edo dị ọcha"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ihe ọ na-eweta"
+    }
+  ],
+  "timestamp": "2026-08-27T14:13:37.850259338Z",
+  "model": "glm-5.3"
+}

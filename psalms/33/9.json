@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "N'ihi na Yahwe kwuru, okwu ahụ ghọrọ ihe dị; Ọ nyere iwu, o guzoro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Yahwe (ọ)"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ghọrọ ihe dị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ọ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "guzoro"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:37.891130697Z",
+  "model": "glm-5.3"
+}

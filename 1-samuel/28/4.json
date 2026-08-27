@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ndị Pelishtim wee chịkọta ha, ha wee bịa, ha wee dozie ogige na Shunem. ShaUL wee chịkọta ⟨את⟩ Yisrael niile, ha wee dozie ogige na Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "wee chịkọta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Pelishtim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha wee bịa"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ha wee dozie ogige"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "na Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "wee chịkọta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ShaUL"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ha wee dozie ogige"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "na Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-27T09:25:27.987201399Z",
+  "model": "glm-5.3"
+}

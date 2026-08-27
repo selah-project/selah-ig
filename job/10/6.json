@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "n'ihi na ị na-achọ ajọjọ m, ma na-enyocha mmehie m?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "ị na-achọ"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "ajọjọ m"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "ma mmehie m"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "na-enyocha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:40:29.658364670Z",
+  "model": "glm-5.3"
+}

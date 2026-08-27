@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Zịrị m nzọ Yahwe, ụzọ gị; duru m na ụzọ kwụ ọtọ, n'ihi ndị iro m.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "zịrị m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ụzọ gị"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "duru m"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "na ụzọ"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "kwụ ọtọ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ndị iro m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:17.527257156Z",
+  "model": "glm-5.3"
+}

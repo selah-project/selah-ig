@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ọ wee chụọ ⟨את⟩ ndị nchụàjà niile nke ebe dị elu ndị nọ ebe ahụ n'elu ebe ịchụàjà ndị ahụ, ma gọọkwa ⟨את⟩ ọkpụkpụ mmadụ n'elu ha, ma laghachi Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ọ wee chụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị nchụàjà niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "ndị nchụàjà"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ebe dị elu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "ebe ịchụàjà ndị"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ọ wee gọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkpụkpụ mmadụ"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ọkpụkpụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "n'elu ha"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ọ wee laghachi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T10:30:21.625604456Z",
+  "model": "glm-5.3"
+}

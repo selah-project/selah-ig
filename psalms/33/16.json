@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Eze adịghị anapụta site n'ọtụtụ agha; dike anaghị enapụta site n'ọtụtụ ike.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "anapụta"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "site n'ọtụtụ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "agha"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "dike"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "enapụta"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "site n'ọtụtụ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ike"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:54.843944802Z",
+  "model": "glm-5.3"
+}

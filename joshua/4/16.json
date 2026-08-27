@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Nyere ndị nchụàjà — ndị na-ebu ụgbọ mmiri nsogbu ọmụma ihe — iwu na ha pụọ ma elu na Yurdan.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "nyere... iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị nchụàjà"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchụàjà"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ndị na-ebu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ihe akaebe"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ha pụọ ma elu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yurdan"
+    }
+  ],
+  "timestamp": "2026-08-27T16:30:35.775103714Z",
+  "model": "glm-5.3"
+}

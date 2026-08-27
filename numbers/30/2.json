@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 30:2",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ma Moshe gwara ndị isi nke agbụrụ ndị ahụ, ụmụ Yisrael, ka ha kwuo: Nke a bụ ⟨ihe⟩ okwu nke Yahwe nyere iwu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ma … gwara okwu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "agbụrụ ndị ahụ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ha kwuo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Nke a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:42:53.864060279Z",
+  "model": "glm-5.3"
+}

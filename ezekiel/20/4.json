@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ị ga-ekpe ⟨את⟩ ha ikpe, Ọ ga-ekpe ikpe, nwa madu? ⟨את⟩ ihe na-eru mmadụ ara nke ndị nna ha ka ha ma.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Ị ga-ekpe ... ikpe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "Ọ ga-ekpe ikpe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "madu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe na-eru mmadụ ara"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ihe na-eru mmadụ ara"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "nke ndị nna ha"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "ka ha ma"
+    }
+  ],
+  "timestamp": "2026-08-27T12:12:00.945257627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "N'ihi na Yahwe hụrụ ikpe ziri ezi n'anya, ọ gaghị ahapụ ⟨את⟩ ndị nsọ Ya; ruo mgbe ebighị ebi a na-echekwa ha, ma mkpụrụ ndị ajọ omume a kpụpụrụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hụrụ... n'anya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ahapụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị nsọ Ya"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ndị nsọ Ya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "a na-echekwa ha"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ma mkpụrụ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "a kpụpụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:07.000690377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Mgbe ahụ ụda njehie ga-abịa gị dịka onye njem, na ịda mbụ gị dịka nwoke agha.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "mgbe ahụ ga-abịa"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "dịka onye njem"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ụda njehie gị"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "na ịda mbụ gị"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "dịka nwoke"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "agha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:17:54.517159201Z",
+  "model": "glm-5.3"
+}

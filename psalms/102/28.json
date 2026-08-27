@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Ma ị bụ ⟨Onye⟩ n'ụzọ onwe gị, ma afọ gị agaghị akwụsị.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma ị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bụ ⟨Onye⟩ n'ụzọ onwe gị"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "ma afọ gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "akwụsị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:06.631206392Z",
+  "model": "glm-5.3"
+}

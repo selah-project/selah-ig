@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ha nyere ụmụ Binyamin iwu, sị: Ja, mezie mkpuchi n'ubi ndị vaịn.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ha nyere iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Binyamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ja"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "mezie mkpuchi"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "n'ubi ndị vaịn"
+    }
+  ],
+  "timestamp": "2026-08-27T08:58:00.694717568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Ọdịna onye na-asị nna: I mụrụ gịnị? ma nye nwanyị: I na-amụ gịnị?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ọdịna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "i mụrụ"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "ma nye nwanyị"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "i na-amụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:00:35.451249933Z",
+  "model": "glm-5.3"
+}

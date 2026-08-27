@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 144,
+  "translation": "Onye na-enye mgbapụta ndị eze, onye na-ewe ⟨את⟩ David ohu ya pụọ n'ụkwụ mmadụ nke ọjọọ.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Onye na-enye"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "mgbapụta"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "onye na-ewe pụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ohu ya"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "pụọ n'ụkwụ mmadụ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "nke ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:28.344696726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ịgba ọtọ nke nwunye nna gị ka ị ghara ikpughe; ọ bụ ịgba ọtọ nna gị.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ịgba ọtọ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ị ghara"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ikpughe"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ịgba ọtọ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:56:30.697396687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 116,
+  "translation": "N'ihi na ⟨ọ⟩ tugharịrị ntị ya nye m, n'ụbọchị m niile m ga-akpọ oku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "tugharịrị"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ntị ya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nye m"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "n'ụbọchị m"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m ga-akpọ oku"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:16.324885993Z",
+  "model": "glm-5.3"
+}

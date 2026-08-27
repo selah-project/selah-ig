@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Ka ha nọrọ n'ihu Yahwe mgbe niile; ka ọ wepụkwa ncheta ha n'ụwa.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ka ha nọrọ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ka ọ wepụ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ncheta ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:30.056112084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Yahwe ⟨is⟩ Eze ruo mgbe ebighị ebi na ruo mgbe ebighị ebi; mba ndị ahụla n'ala Ya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "ahụla"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "n'ala Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:37.735561202Z",
+  "model": "glm-5.3"
+}

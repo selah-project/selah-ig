@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Kpọtee ma bilie ka ⟨ị〉 kpee ikpe m, Elohim m na Adonai m, ka ⟨ị〉 gbachitere ọnụ m.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "Kpọtee"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "ma bilie"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "ka ikpe m"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "na Adonai m"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "ka ọnụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:29.066912271Z",
+  "model": "glm-5.3"
+}

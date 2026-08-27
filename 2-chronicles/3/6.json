@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọ kpuchikwara ⟨את⟩ ụlọ ahụ na nkume dị oké ụbara maka mma, ma ọla edo ahụ bụ ọla edo Parvaim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ọ kpuchiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ ahụ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "dị oké ụbara"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "maka mma"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ma ọla edo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parvaim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:08:18.465298679Z",
+  "model": "glm-5.3"
+}

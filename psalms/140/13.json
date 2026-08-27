@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 140,
+  "translation": "Amaara m na Yahwe ga-eme ikpe nke onye ntorobịa-nsọgharị, na ikpe ziri ezi maka ndị ogbenye.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Amaara m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "עני",
+      "gloss": "onye ntorobịa-nsọgharị"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ndị ogbenye"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:19.935177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "M ga-eme ka ị na-amụ ⟨את⟩ gị n'ụzọ dị ukwuu n'ezie, m ga-eme gị ka ị bụrụ mba ndị ọzọ, ma eze ndị ga-esi n'aka gị pụta.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "m ga-eme ka ị na-amụ ọtụtụ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị",
+      "marks": "gị"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dị ukwuu n'ezie"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "m ga-eme gị"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ka ị bụrụ mba ndị ọzọ"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ma eze ndị"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "si n'aka gị"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ga-apụta"
+    }
+  ],
+  "timestamp": "2026-08-27T05:35:57.591918070Z",
+  "model": "glm-5.3"
+}

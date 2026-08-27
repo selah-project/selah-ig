@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "O biliri mgbe ọ gasịrị Yair, onye Gilad; o kpe ikpe ⟨את⟩ Israael afọ iri abụọ na abụọ.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "o biliri"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mgbe ọ gasịrị"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "onye Gilad"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "o kpe ikpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "na abụọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:49:19.161180811Z",
+  "model": "glm-5.3"
+}

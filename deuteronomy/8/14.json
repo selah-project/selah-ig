@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "obi gị ebuli elu, ma ị chefuo ⟨את⟩ Yahwe, Elohim gị, Onye mere ka ọ pụọ gị n'ala Mitzrayim, n'⟨the⟩ ụlọ ndị ohu;",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "ebuli elu"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "obi gị"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "ma ị chefuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe, Elohim gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "Onye mere ka ọ pụọ gị"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ndị ohu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:56:27.670724285Z",
+  "model": "glm-5.3"
+}

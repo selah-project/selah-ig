@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "ọ ga-eweta ⟨את⟩ ha nye onye nchụàjà, onye ahụ ga-eweta ⟨את⟩ nke maka ọfferi mmehie mbụ, ma gbuo ⟨את⟩ isi ya n'ihu ukwu n'olu ya, ma ọ ghara ịkewapụ ya.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ọ ga-eweta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ọ ga-eweta dịka ọfferi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nke maka ọfferi mmehie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "maka ọfferi mmehie"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "mbụ"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ma gbuo (isi)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi ya"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "isi ya"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "ukwu n'olu ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ ghara"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ịkewapụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:47:30.192677786Z",
+  "model": "glm-5.3"
+}

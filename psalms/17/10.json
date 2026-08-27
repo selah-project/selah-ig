@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Abụba ha emechiela ha; ọnụ ha kwuwo okwu na olu mpako.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "abụba ha"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "emechiela"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ọnụ ha"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kwuwo okwu"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "na olu mpako"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:39.506710497Z",
+  "model": "glm-5.3"
+}

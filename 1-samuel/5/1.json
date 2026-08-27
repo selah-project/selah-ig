@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ndị Filistia we wereụba ⟨את⟩ igbe nke Elohim, ma zipụta ya site na Eben-ha-Ezer gaa Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ndị Filistia were"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "wereụba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igbe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ma zipụta ya"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Eben-ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "gaa Ashdod"
+    }
+  ],
+  "timestamp": "2026-08-27T09:03:03.046237430Z",
+  "model": "glm-5.3"
+}

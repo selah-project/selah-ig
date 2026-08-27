@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "⟨את⟩ abụba na-anọrọ iri, na ⟨את⟩ ajị na-eyi, nke buru ibu na-egbu; atụrụ ndị ahụ, ọ naghị anọrọ gbara nri.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abụba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "abụba"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "na-anọrọ iri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ajị"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "ajị"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "na-eyi"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "nke buru ibu"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "na-egbu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "atụrụ ndị ahụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ naghị"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "anọrọ gbara nri"
+    }
+  ],
+  "timestamp": "2026-08-27T16:44:25.568669327Z",
+  "model": "glm-5.3"
+}

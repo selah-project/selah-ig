@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 121,
+  "translation": "Ka ọ ghara inye ka ụkwụ gị na-agbada; ka Onye-na-echebe gị ghara itozu ụra.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ka ọ ghara"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "inye ka"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "na-agbada"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ụkwụ gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "itozu ụra"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "Onye-na-echebe gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:53.670115649Z",
+  "model": "glm-5.3"
+}

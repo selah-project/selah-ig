@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 75,
+  "translation": "M gwara ndị nzọ, sị: Ekwela nzọ; ma ndị ajọ omume, sị: E welieghị mpi.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "M gwara"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "ndị nzọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ekwela"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "nzọ"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "ma ndị ajọ omume"
+    },
+    {
+      "surface": "אל",
+      "gloss": "E welieghị"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "(ewelie)"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "mpi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:36.564197049Z",
+  "model": "glm-5.3"
+}

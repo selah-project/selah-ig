@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Eze Yisrael wee sọọ ndị ohu ya okwu, Ị maara na Ramot Gilad bu ⟨nke⟩ anyị, ma anyị na-edebe nzuzo na-eweghị ⟨את⟩ ya n'aka eze Aram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sọọ okwu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Ị maara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bu nke anyị"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ma anyị"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "na-edebe nzuzo"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "na-eweghị"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-27T10:10:37.020293758Z",
+  "model": "glm-5.3"
+}

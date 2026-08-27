@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ọ wee bụrụ na Yeshurun nwere ⟨the⟩ eze, n'oge a na-anakọta ndị isi ndị, ọnụ, agbụrụ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ wee bụrụ"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "na Yeshurun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "n'oge a na-anakọta"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "agbụrụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T08:19:10.879835632Z",
+  "model": "glm-5.3"
+}

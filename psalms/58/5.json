@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 58,
+  "translation": "Nsị ha dị ka nsị agwọ, dị ka agwọ dara ada nke na-emechi ntị ya.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "nsị"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "dị ka"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "nsị"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "agwọ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dị ka"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "agwọ dara ada"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ntị chiri"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "na-emechi"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ntị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:26.681126387Z",
+  "model": "glm-5.3"
+}

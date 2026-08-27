@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Farao nyere ụmụ nwoke iwu gbasara ya, ha zipụrụ ⟨את⟩ ya na ⟨את⟩ nwunye ya na ⟨את⟩ ihe niile nke ya.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "gbasara ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ha zipụrụ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwunye ya"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwunye ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:24.834721866Z",
+  "model": "glm-5.3"
+}

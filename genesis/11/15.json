@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Shelach wee dịrị ndụ, mgbe ọ mụsịrị ⟨את⟩ Ever, afọ atọ na narị anọ, ma mụọ ụmụ nwoke na ụmụ nwaanyị.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wee dịrị ndụ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ọ mụsịrị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na anọ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ma mụọ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ụmụ nwaanyị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:03.254790387Z",
+  "model": "glm-5.3"
+}

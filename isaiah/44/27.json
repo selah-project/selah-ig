@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 44:27",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Onye na-ekwu n'omimi mmiri, Kpọọ nkụ, ma M ga-eme ka osimiri gị kpọọ nkụ.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Onye na-ekwu"
+    },
+    {
+      "surface": "לצולה",
+      "gloss": "n'omimi mmiri"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "Kpọọ nkụ"
+    },
+    {
+      "surface": "ונהרתיך",
+      "gloss": "ma osimiri gị"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "M ga-eme ka ọ kpọọ nkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:00:15.818447504Z",
+  "model": "glm-5.3"
+}

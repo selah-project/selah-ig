@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ma n'ala niile nke ihe nnweta gịnụ, mgbapụta ka gịnụ ga-enyere ala ahụ.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Ma n'ala niile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "nke ihe nnweta gịnụ"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "mgbapụta"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "gịnụ ga-enyere"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ala ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:04:56.906773522Z",
+  "model": "glm-5.3"
+}

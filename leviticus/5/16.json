@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 5:16",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ihe o mehiere n'ihe nsọ ka ọ ga-akwụghachi, ma ⟨את⟩ ụgbọ nke ise nke ya ka ọ ga-agbakwunye, nyefee onye-nchu-aja ya; onye-nchu-aja ga-eme mkpụrụ maka ya site na nwa nke ọzọ nke mmehie, a ga-edo ya mgbapụta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe o mehiere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "o mehiere"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ihe nsọ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ọ ga-akwụghachi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụgbọ nke ise nke ya"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "ụgbọ nke ise nke ya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ọ ga-agbakwunye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "nyefee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "onye-nchu-aja"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "onye-nchu-aja"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "onye-nchu-aja"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ga-eme mkpụrụ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "site na nwa nke ọzọ"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "nke mmehie"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "a ga-edo mgbapụta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:46:20.644936787Z",
+  "model": "glm-5.3"
+}

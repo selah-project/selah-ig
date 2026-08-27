@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "David wee chikọta ⟨את⟩ ndị mmadụ niile, were gaa Rabbah, were lụọ ya ọgụ, were jidekwa ya.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "chikọta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị mmadụ niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "lụọ ọgụ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "jide ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:36:47.775622037Z",
+  "model": "glm-5.3"
+}

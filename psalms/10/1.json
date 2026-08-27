@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Maka gịnị, Yahwe, ka ị na-eguzo n'ebe dị anya? Gịnị kpatara na ị na-izo onwe gị anya n'oge nsogbu?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "gịnị kpatara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ị na-eguzo"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "n'ebe dị anya"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "ị na-izo onwe gị anya"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "nsogbu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:39.558109856Z",
+  "model": "glm-5.3"
+}

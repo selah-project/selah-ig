@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Ọ bụrụ na ụmụ ya hapụ Torat m, ma na iwu-ikpe m ha na-agaghi",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "ha hapụ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torat m"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "ma na iwu-ikpe m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "ha na-agaghi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:51.084698989Z",
+  "model": "glm-5.3"
+}

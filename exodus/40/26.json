@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "O tinyekwara ⟨את⟩ ebe ịchụàjà ọla edo n'ụlọikwu nzukọ, n'ihu akwa mpịahị ahụ.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "tinyekwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe ịchụàjà ọla edo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "n'ụlọikwu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "akwa mpịahị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:56.685373967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Yahwe Elohim kpọrọ ⟨את⟩ mmadụ ahụ, wee sị ya: \"Ị nọ ebee?\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ọ kpọrọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ ahụ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Ị nọ ebee?"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:26.365074126Z",
+  "model": "glm-5.3"
+}

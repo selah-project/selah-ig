@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Olu Yahwe dị n'elu mmiri; El nke otuto na-agba igwe; Yahwe dị n'elu mmiri ndị juola.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dị n'elu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "nke otuto"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "na-agba igwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dị n'elu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ndị juola"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:11.779769698Z",
+  "model": "glm-5.3"
+}

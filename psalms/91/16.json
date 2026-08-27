@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "Ogologo ụbọchị ka m ga-eji gbaa ya mbọ, m ga-egosikwa ya nzọpụta m.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ogologo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "m ga-eji gbaa ya mbọ"
+    },
+    {
+      "surface": "ואראהhu",
+      "gloss": "m ga-egosikwa ya"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "nzọpụta m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:14.502743022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "Ọnụ m ga-akọ ikpe ziri ezi gị, nzọpụta gị, ụbọchị niile; n'ihi na amaghị m ọnụọgụ ha.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ga-akọ"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ikpe ziri ezi gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "nzọpụta gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "amaghị m"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "ọnụọgụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:54.287965100Z",
+  "model": "glm-5.3"
+}

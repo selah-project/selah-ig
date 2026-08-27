@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ha wee chọọ nwa agbọghọ mara mma n'ókèala niile nke Yisrael, ha wee hụ ⟨את⟩ Avishag onye Shunem, ha wee bute ⟨את⟩ ya nye eze ahụ.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "ha wee chọọ"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "nwa agbọghọ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "mara mma"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "n'ókèala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ha wee hụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "onye Shunem"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha wee bute"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Avishag)"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "nye eze"
+    }
+  ],
+  "timestamp": "2026-08-27T09:48:26.239248898Z",
+  "model": "glm-5.3"
+}

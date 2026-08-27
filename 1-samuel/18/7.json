@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ma ụmụ nwanyị ndị na-egwu egwu zara ibe ha, ma kwuo, sị: Shaul kụrụ puku kwuru puku ya, ma Dawid kụrụ puku iri kwuru iri nke ya.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "ma ha zara"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ụmụ nwanyị"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "ndị na-egwu egwu"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "ma ha kwuo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "kụrụ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "puku kwuru puku ya"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ma Dawid"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "puku iri kwuru iri nke ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:14:55.252276352Z",
+  "model": "glm-5.3"
+}

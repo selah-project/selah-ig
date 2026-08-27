@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ya mere, ka m na-ewebata ⟨את⟩ gị n'ụlọ ikpe ọzọ, nkwupụta Yahwe sị, ma na-ewebata ⟨את⟩ ụmụ ụmụ ụmụ gị n'ụlọ ikpe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ka m na-ewebata n'ụlọ ikpe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ gị",
+      "marks": "gị"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkwupụta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ụmụ ụmụ gị"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ụmụ gị"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "m na-ewebata n'ụlọ ikpe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:12:25.179846140Z",
+  "model": "glm-5.3"
+}

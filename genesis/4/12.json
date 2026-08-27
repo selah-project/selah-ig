@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Mgbe ị na-arụ ⟨את⟩ ọrụ ala, agaghị ọzọ nye ike ya nye gị; onye na-agagharị na onye na-atụ n'iyi ka ị ga-abụ n'ụwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ị na-arụ ọrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "agaghị ọzọ"
+    },
+    {
+      "surface": "תת",
+      "gloss": "nye"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "ike ya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nye gị"
+    },
+    {
+      "surface": "נע",
+      "gloss": "onye na-agagharị"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "onye na-atụ n'iyi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ị ga-abụ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:50.409371806Z",
+  "model": "glm-5.3"
+}

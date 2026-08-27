@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 141,
+  "translation": "Ka ekpere m guzoro dịka esi isi-esi n'ihu gị; iwegheta aka m dịka onyinye arọ nke mgbede.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "ka ... guzoro"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ekpere m"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "dịka esi isi-esi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "iwegheta"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "dịka onyinye arọ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "nke mgbede"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:20.213518625Z",
+  "model": "glm-5.3"
+}

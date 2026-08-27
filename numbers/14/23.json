@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "ọ bụrụ na ha ga-ahụ ⟨את⟩ ⟨ala⟩ ahụ nke m ṅụrụ iyi nye nna nna ha — ma onye ọ bụla n'ime ndị na-akparị m agaghị ahụ ya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ha ga-ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ahụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "m ṅụrụ iyi"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "nna nna ha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma ndị niile"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "na-akparị m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "ahụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:23:15.731089565Z",
+  "model": "glm-5.3"
+}

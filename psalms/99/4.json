@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 99,
+  "translation": "Maka ike nke Eze ahụ hụrụ ikpe ziri ezi n'anya; Ị ka edozisị ihe ziri ezi; ikpe ziri ezi na ezi omume na Yaakov bụ Gị mere.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Maka ike"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nke Eze"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hụrụ n'anya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "ka edozisị"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ihe ziri ezi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na ezi omume"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Gị"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "mere"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:48.143063336Z",
+  "model": "glm-5.3"
+}

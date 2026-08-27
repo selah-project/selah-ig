@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ha ga-ewepụkwa ntụ ahụ n'⟨את⟩ ebe-ọkụ ahụ, ma na-ekpuchie ya uwe nke akpa-mmụọ-ogwu (ארגמן).",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "ha ga-ewepụ ntụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe-ọkụ ahụ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe-ọkụ ahụ"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ma na-ekpuchie"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "akpa-mmụọ-ogwu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:14:52.193459659Z",
+  "model": "glm-5.3"
+}

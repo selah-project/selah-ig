@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Site na Asher, nri ya ga-abụ nke abụba, ma ⟨ọ⟩ ga-enye ihe dị ụtọ nke eze.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "site na Asher"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "nke abụba"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "nri ya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma ọ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ga-enye"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "ihe dị ụtọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nke eze"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:03.010350833Z",
+  "model": "glm-5.3"
+}

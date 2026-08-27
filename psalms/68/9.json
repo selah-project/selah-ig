@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Ala rụrụ elu na mkpọtụ, eluigwe yikwa ṅụrụ mmiri n'ihu Elohim — nke a bụ Sinaị — n'ihu Elohim, Elohim nke Yisrael.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "rụrụ elu na mkpọtụ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yikwa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "ṅụrụ mmiri"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaị"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:40.921892848Z",
+  "model": "glm-5.3"
+}

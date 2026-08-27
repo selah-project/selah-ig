@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Dịka ebe ịta nri ha si dị, ha tozuru; ha tozuru, ma obi ha bulie elu; n'ihi ya, ha chefuola m.",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "dịka ebe ịta nri ha"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ha tozuru"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "ha tozuru"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "bulie elu"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "obi ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "ha chefuola m"
+    }
+  ],
+  "timestamp": "2026-08-27T12:42:10.790917496Z",
+  "model": "glm-5.3"
+}

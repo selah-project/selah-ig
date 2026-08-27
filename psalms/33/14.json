@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Site n'ebe obibi ya nke na-adịgide, ọ na-ele anya nke ọma na ndị bi n'ụwa niile.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "site n'ebe"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "obibi ya"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "na-ele anya nke ọma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n'ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:54.843638563Z",
+  "model": "glm-5.3"
+}

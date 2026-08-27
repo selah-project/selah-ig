@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ma agha dịrị n'etiti Asa na Baasha, eze Izrel, ụbọchị ndụ ha niile.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Ma agha"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "dịrị"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ụbọchị ndụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:03:25.956538302Z",
+  "model": "glm-5.3"
+}

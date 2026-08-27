@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Daivid maara na Shaul na-akpa mkpata ihe ọjọọ megide ya n'ekpere, o wee kwuo nye Evyatar onye nchuaja, sị: Bịakụta efod ahụ.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "maara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daivid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "megide ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "na-akpa mkpata"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee kwuo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchuaja"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Bịakụta"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:18:39.405231474Z",
+  "model": "glm-5.3"
+}

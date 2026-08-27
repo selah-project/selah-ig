@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ọ sịrị ha: Otú a ka Yahwe, Elohim nke Yisrael, si: Gwa unu ⟨the⟩ nwoke nke zitere ⟨את⟩ unu nye m.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ọ sịrị"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Otú a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "si"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Gwa unu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨the⟩ nwoke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zitere"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nye m"
+    }
+  ],
+  "timestamp": "2026-08-27T10:30:04.280034948Z",
+  "model": "glm-5.3"
+}

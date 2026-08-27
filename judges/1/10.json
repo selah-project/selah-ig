@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Yehuda wee gaa n'aka ⟨את⟩ Kanaan, onye bi na Chevron — aha Chevron mbụ bụ Kiryat-Arba — ha gbusịrị ⟨את⟩ Sheshai na ⟨את⟩ Achiman na ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ọ gara"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "onye bi"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "na Chevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "mbụ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ha gbusiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Achiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Achiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-08-27T08:38:07.099015292Z",
+  "model": "glm-5.3"
+}

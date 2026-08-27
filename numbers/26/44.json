@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 26:44",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ụmụ Asher dịka ezinụlọ ha si dị: Yimna, ezinụlọ ndị Yimnahi; Yishvi, ezinụlọ ndị Yishvihi; Beria, ezinụlọ ndị Beriahi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dịka ezinụlọ ha si dị"
+    },
+    {
+      "surface": "לימנה",
+      "gloss": "Yimna"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ezinụlọ"
+    },
+    {
+      "surface": "הימנה",
+      "gloss": "ndị Yimnahi"
+    },
+    {
+      "surface": "לישוי",
+      "gloss": "Yishvi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ezinụlọ"
+    },
+    {
+      "surface": "הישוי",
+      "gloss": "ndị Yishvihi"
+    },
+    {
+      "surface": "לבריעה",
+      "gloss": "Beria"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ezinụlọ"
+    },
+    {
+      "surface": "הבריעי",
+      "gloss": "ndị Beriahi"
+    }
+  ],
+  "timestamp": "2026-08-27T07:37:51.199907770Z",
+  "model": "glm-5.3"
+}

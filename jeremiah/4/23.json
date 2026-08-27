@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "M lelere ⟨את⟩ ⟨the⟩ ụwa, see ọ ghọọla ihe ọzara na ihe efu; m wee leba ⟨the⟩ eluigwe anya, ìhè ha adịghịkwa.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "M lelere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ו הנה",
+      "gloss": "see"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ihe ọzara"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "ihe efu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "m wee leba... anya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "adịghịkwa"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ìhè ha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:15:59.275351440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 137,
+  "translation": "Cheta, Yahwe, megide ụmụ Edom, ⟨את⟩ ụbọchị Yerushalayim; ndị na-ekwu, Bibie ya, bibie ya, ruo ntọala ya.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "cheta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "megide ụmụ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụbọchị Yerushalayim"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ndị na-ekwu"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "bibie ya"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "bibie ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "ntọala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:04.385117281Z",
+  "model": "glm-5.3"
+}

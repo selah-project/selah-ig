@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Menashsheh ⟨את⟩ Efrayim, na Efrayim ⟨את⟩ Menashsheh; ha niile ọnụ megide Yehudah. N'ihe niile a, iwe Ya akpọghachighị azụ, ma aka Ya ka dị mgbatị.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "na Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashsheh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ihe niile"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akpọghachighị"
+    },
+    {
+      "surface": "שב",
+      "gloss": "azụ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iwe Ya"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ma ka"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka Ya"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "dị mgbatị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:39:15.126549177Z",
+  "model": "glm-5.3"
+}

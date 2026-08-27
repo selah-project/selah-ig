@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Gịnị ị nyere m, obi m kwuru: chọọ ọnụ m; ⟨את⟩ ọnụ gị, Yahwe, m ga-achọ.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "gịnụ ị"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "chọọ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ọnụ m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọnụ gị"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ọnụ gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "m ga-achọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:05.049049407Z",
+  "model": "glm-5.3"
+}

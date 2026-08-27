@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Achịcha na-enweghị ntụ ọka ka a ga-eri ⟨את⟩ ụbọchị asaa niile; ihe ntụ ọka agaghị adị gị anya, ntụ ọka agaghịkwa adị gị anya n'ókèala gị niile.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "achịcha na-enweghị ntụ ọka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a ga-eri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụbọchị asaa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "agaghịkwa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "adị anya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ihe ntụ ọka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "agaghịkwa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "adị anya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ntụ ọka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'niile"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "ókèala gị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:17:11.199950207Z",
+  "model": "glm-5.3"
+}

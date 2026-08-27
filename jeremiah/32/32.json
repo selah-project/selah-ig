@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 32:32",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "N'ihi ihe ọjọọ niile nke ụmụ Yisrael na ụmụ Yehuda mere iji kpalite iwe m — ha, eze ha, ndị isi ha, ndị nchụàjà ha na ndị amụma ha, ndị ikom Yehuda na ndị bi na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ụmụ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ha mere"
+    },
+    {
+      "surface": "להכעסני",
+      "gloss": "iji kpalite iwe m"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "eze ha"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "ndị isi ha"
+    },
+    {
+      "surface": "כהניהם",
+      "gloss": "ndị nchụàjà ha"
+    },
+    {
+      "surface": "ונביאיהם",
+      "gloss": "na ndị amụma ha"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na ndị ikom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "na ndị bi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T11:41:34.975737898Z",
+  "model": "glm-5.3"
+}

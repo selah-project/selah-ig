@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "ọ belụkwa na Chizkiya mee ka unu ṅụkwasị obi na Yahwe, na-ekwu, 'Yahwe ga-ezọpụta anyị n'ezie, o wee mee na obodo a agaghị enye ⟨את⟩ n'aka eze Ashur.'",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ọ belụkwa na"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "ṅụkwasị obi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "ga-ezọpụta n'ezie"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ga-ezọpụta anyị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o wee mee na ... agaghị"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "a ga-enye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-27T10:26:46.734215221Z",
+  "model": "glm-5.3"
+}

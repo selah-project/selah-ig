@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 129,
+  "translation": "Abụ nke ndị na-eli. Ọtụtụ ugboro ha tara m ahụhụ site na nwata m — ka Yisrael kwuo, biko.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nke ndị na-eli"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ọtụtụ ugboro"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ha tara m ahụhụ"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "site na nwata m"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ka ... kwuo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:22.808506169Z",
+  "model": "glm-5.3"
+}

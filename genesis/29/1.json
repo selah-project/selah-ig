@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Yaakov welitere ụkwụ ya, gaa n'ala ụmụ ⟨nke⟩ ọwụwa anyanwụ.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "welitere"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ụkwụ ya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ọwụwa anyanwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:45:15.314159197Z",
+  "model": "glm-5.3"
+}

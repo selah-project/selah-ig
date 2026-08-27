@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 111,
+  "translation": "Mmalite nke amamihe bụ ịtụ Yahwe egwu; nghọta dị mma nwere ⟨⟨ndị niile⟩⟩ na-eme ihe ndị a; otuto ya guzosiri ike ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "mmalite"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "nke amamihe"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ịtụ ... egwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "nghọta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nke ndị niile"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "na-eme ihe ndị a"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "otuto ya"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "guzosiri ike"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:58.145422066Z",
+  "model": "glm-5.3"
+}

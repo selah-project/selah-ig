@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 133,
+  "translation": "Dịka mmiri igwe nke Chermon, nke na-agbadata n'ugwu Tsiyon; n'ihi na ebe ahụ Yahwe nyere iwu ⟨את⟩ ngọzi, ndụ ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Dịka mmiri igwe"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "nke na-agbadata"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngọzi"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ngọzi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:29.136326021Z",
+  "model": "glm-5.3"
+}

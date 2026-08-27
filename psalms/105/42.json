@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "N'ihi na Ọ chetara ⟨את⟩ okwu nsọ Ya, ⟨את⟩ Avraham ohu Ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Ọ chetara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu nsọ Ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nsọ Ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham ohu Ya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ohu Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:38.297450828Z",
+  "model": "glm-5.3"
+}

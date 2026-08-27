@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Mgbe ha banyere, ọ hụrụ ⟨את⟩ Eliab, o wee sị: N'ezie, n'ihu Yahwe ka Mashiach ya dị.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mgbe"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ha banyere"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ọ hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "אך",
+      "gloss": "N'ezie"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiach ya dị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:11:35.335976335Z",
+  "model": "glm-5.3"
+}

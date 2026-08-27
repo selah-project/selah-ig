@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ndị mmejọ — onye ga-esi ha pụta ìhè? Site na ihe ezozoro, ka m kwuo ihe ọjọọ dị ọcha.",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "ndị mmejọ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ga-esi pụta ìhè"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "site na ihe ezozoro"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "ka m kwuo ihe ọjọọ dị ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:23.562569801Z",
+  "model": "glm-5.3"
+}

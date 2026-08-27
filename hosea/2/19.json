@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "M ga-ewepụ ⟨את⟩ aha ndị Baalim n'ọnụ ya, a gaghị echetara ha ọzọ n'aha ha.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "M ga-ewepụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ndị Baalim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ndị Baalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "n'ọnụ ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a gaghị"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "echetara ha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "n'aha ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:39:53.916093490Z",
+  "model": "glm-5.3"
+}

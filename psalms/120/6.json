@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 120,
+  "translation": "Nduhu oge gara aga ka nkefranye, נפשi m nọkọrọ ya na onye na-akpọasị udo.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "oke oge"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ọ nọkọrọ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nkefranye"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "onye na-akpọasị"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:06.095822747Z",
+  "model": "glm-5.3"
+}

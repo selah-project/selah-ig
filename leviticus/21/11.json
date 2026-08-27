@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "ọ gaghị abịarị mmadụ ọ bụla nwụrụ anwụ; ọbụna n'ihi nna ya ma ọ bụ nne ya, ọ gaghị eme ya eme rụrụ arụ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "madụ ọ bụla"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nwụrụ anwụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "abịarị"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "n'ihi nna ya"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ma ọ bụ nne ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "eme ya eme rụrụ arụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:16.466754135Z",
+  "model": "glm-5.3"
+}

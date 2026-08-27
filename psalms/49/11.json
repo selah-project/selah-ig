@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "N'ihi na ⟨ọ⟩ na-ahụ na ndị mụrụ amamihe na-anwụ, ọnụ ndị nzuzu na ndị enweghị ntụgharị na-efu efu, ha na-ahapụ akụ na ụba ha maka ndị ọzọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ọ na-ahụ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ndị mụrụ amamihe"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "na-anwụ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ndị nzuzu"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "na ndị enweghị ntụgharị"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "na-efu efu"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "ha na-ahapụ"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "maka ndị ọzọ"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "akụ na ụba ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:49.982690704Z",
+  "model": "glm-5.3"
+}

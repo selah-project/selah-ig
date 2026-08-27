@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Ọ bịara mgbe ahụ, dịka o kọwara anyị, otu a ka ọ dị: ⟨את⟩ m ka o weghachitere n'ọkwa m, mana ⟨את⟩ ya ka a kwụgidere n'osisi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bịara mgbe ahụ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "o kọwara"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m (n'ọkwa m)"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "o weghachitere"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "כני",
+      "gloss": "ọkwa m"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (a kwụgidere)"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "a kwụgidere n'osisi"
+    }
+  ],
+  "timestamp": "2026-08-27T05:54:11.673691059Z",
+  "model": "glm-5.3"
+}

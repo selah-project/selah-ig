@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 143,
+  "translation": "Mmụọ m dara mbà n'elu m, n'ime m obi m nọ na njụtaghị echiche.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "dara mbà"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mmụọ m"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "n'ime m"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "nọ na njụtaghị echiche"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:51.132722684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Mgbe alaeze siri ike n'aka ya, o gburu ⟨את⟩ ohu ya nde gburu ⟨את⟩ eze nna ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dika"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "alaeze"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "o gburu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohu ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ohu ya"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "nde gburu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eze"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:17:20.275702427Z",
+  "model": "glm-5.3"
+}

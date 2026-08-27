@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ọgidaghị anụ ọgidala, ọ gwakọtala mmanya ⟨ya⟩, ma haziekwa tebụl ⟨ya⟩.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "ọgidaghị"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "anụ ọgidala"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ọ gwakọtala"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "mmanya ya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "haziekwa"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "tebụl ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:19:36.809270896Z",
+  "model": "glm-5.3"
+}

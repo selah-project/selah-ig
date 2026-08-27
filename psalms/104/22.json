@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Anyanwụ na-apụta, ha na-anakọta onwe ha, ma na-adaba n'olulu ebe obibi ha.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "na-apụta"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "ha na-anakọta onwe ha"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma na-aga na"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "olulu ebe obibi ha"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "ha na-adaba"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:25.605344627Z",
+  "model": "glm-5.3"
+}

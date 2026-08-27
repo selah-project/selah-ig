@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ya mere ha bilie wee gbaa ọsọ na ntụsị, ha hapụrụ ⟨את⟩ ahụ́ ha nhem, ⟨את⟩ ụnya ha na ⟨את⟩ ìnyinya ibu ha — ogige ahụ dịka ọ dị — wee gbaa ọsọ maka ndụ ha.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "ha bilie"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ha gbaa ọsọ"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "na ntụsị"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "ha hapụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahụ́ ha nhem"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "ahụ́ ha nhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụnya ha"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ụnya ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ìnyinya ibu ha"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ìnyinya ibu ha"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ogige ahụ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ha gbaa ọsọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maka"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ndụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:16:10.393677612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "N'ịha nhata gị zipụta m, ma zọpụta m; tinye ntị gị n'ebe m nọ, ma zọpụta m.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "n'ịha nhata gị"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "zipụta m"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "ma zọpụta m"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "tugharị"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n'ebe m nọ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ntị gị"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "ma zọpụta m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:01.628258111Z",
+  "model": "glm-5.3"
+}

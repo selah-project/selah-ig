@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 61,
+  "translation": "Ndị ọbịa ga-edo ⟨את⟩ anụ ụlọ gị, ma ụmụ ndị ọzaoji ga-abụ ndị ọrụ ugbo gị na ndị na-elekọta ubi vaịn gị.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "ga-edo"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ndị ọbịa"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "ga-azụ"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "anụ ụlọ gị"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ndị ọzaoji"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "ndị ọrụ ugbo gị"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "ndị na-elekọta ubi vaịn gị"
+    }
+  ],
+  "timestamp": "2026-08-27T11:10:24.598529516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Yahwe zara ⟨את⟩ Iyob n'ime ifufe ma kwuo,",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ma zara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "ifufe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma kwuo"
+    }
+  ],
+  "timestamp": "2026-08-27T14:58:08.788979361Z",
+  "model": "glm-5.3"
+}

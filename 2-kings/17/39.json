@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Kama Yahwe, Elohim unu, ka unu ga-atụ egwu; Ọ bụ́ ya ga-azọpụta ⟨את⟩ unu n'aka ndị iro unu niile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "unu ga-atụ egwu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "Ọ bụ́ ya"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ga-azọpụta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ndị iro unu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:23:56.100255194Z",
+  "model": "glm-5.3"
+}

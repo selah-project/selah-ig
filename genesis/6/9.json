@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ndị a bụ ọmụmụ Noach: Noach, nwoke nke ziri ezi, enweghị mmebi, nọ n'ọgbọ ya; ya na ⟨את⟩ Elohim na Noach na-eje ije.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ndị a"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ọmụmụ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nke ziri ezi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "enweghị mmebi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nọ"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "n'ọgbọ ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "na-eje ije"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    }
+  ],
+  "timestamp": "2026-08-27T05:27:55.674025591Z",
+  "model": "glm-5.3"
+}

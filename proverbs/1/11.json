@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ bụrụ na ha kwuo, sị: Bịa ⟨את⟩ anyị, ka anyị zoo anya awụjoọ maka ọbara, ka anyị zochie maka onye aka ya di ọcha, na-enweghị ihe kpatara ya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ha kwuo, sị"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Bịa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ anyị",
+      "marks": "anyị"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "ka anyị zoo anya awụjoọ"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "maka ọbara"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "ka anyị zochie"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "maka onye aka ya di ọcha"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "na-enweghị ihe kpatara ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:09.569711126Z",
+  "model": "glm-5.3"
+}

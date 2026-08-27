@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 66,
+  "translation": "Ndị afọ, too Elohim anyị, ma me ka olu otuto Ya nụrụ.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "too"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Ndị afọ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "ma me ka... nụrụ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "otuto Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:27.066353407Z",
+  "model": "glm-5.3"
+}

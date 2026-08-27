@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ndị e gburu ha ga-ahapụrịrị ka ha daa, yana anụ ọnwụ ha ga-ebili nsi ọnụ; ugwu ga-agbapụta n'ọbara ha.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "ndị e gburu ha"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "ga-ahapụrịrị ka ha daa"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "yana anụ ọnwụ ha"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ga-ebili"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "nsi ọnụ"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "ga-agbapụta"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "n'ọbara ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:52:51.737724441Z",
+  "model": "glm-5.3"
+}

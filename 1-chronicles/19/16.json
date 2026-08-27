@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 19:16",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Aram hụrụ na e meriri ha n'ihu Israel, ha zipụrụ ozi-ndi, ha wepụtara ⟨את⟩ Aram ndi nọ n'akụkụ ọzọ nke osimiri ahụ; Shofak onyeisi ndi agha Hadadezer nọ n'ihu ha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "e meriri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ha zipụrụ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ozi-ndi"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "ha wepụtara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "n'akụkụ ọzọ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "nke osimiri ahụ"
+    },
+    {
+      "surface": "ושופך",
+      "gloss": "Shofak"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ndi agha"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "n'ihu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:03:10.731007170Z",
+  "model": "glm-5.3"
+}

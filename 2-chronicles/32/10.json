@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Otú ka Sancherib, eze Ashur, kwuru: N'ihe gịnị ka unu na-elekwasị anya, unu na-anọkwa n'ọgba mbà na Yerushalayim?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Otú"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka o kwuru"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "na-elekwasị anya"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "na-anọkwa"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "n'ọgba mbà"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:19:09.139135898Z",
+  "model": "glm-5.3"
+}

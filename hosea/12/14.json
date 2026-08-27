@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Site n'onye-amụma, Yahwe welitere ⟨את⟩ Israel si na Misraim, ma site n'onye-amụma a na-echebe ya.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "Site n'onye-amụma"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "welitere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "si na Misraim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "ma site n'onye-amụma"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "a na-echebe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:40:25.212966185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "n'ihi na ọ bụrụ na ị ga-ege ntị nke ọma n'olu ya ma mee ihe niile m ga-ekwu, m ga-abụ onye iro nke ⟨את⟩ ndị iro gị, m ga-emikpu ⟨את⟩ ndị na-emikpu gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ege ntị nke"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ọma"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "n'olu ya"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "m ga-ekwu"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "m ga-abụ onye iro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị iro gị"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ndị iro gị"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "m ga-emikpu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị na-emikpu gị"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ndị na-emikpu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:26:02.865652885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ụmụ nke ndị ikom, ruo mgbe ole ka a ga-eme ka otuto m bụrụ ihere? Gịnị mere na ị na-ahụrụ ihe efu n'anya, na-achọkwa ụgha? Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ụmụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nke ndị ikom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ole"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "otuto m"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "ga-eme ka ọ bụrụ ihere"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "na-ahụrụ n'anya"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ihe efu"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:57.312600849Z",
+  "model": "glm-5.3"
+}

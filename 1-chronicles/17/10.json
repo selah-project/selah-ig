@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 17:10",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "site n'ụbọchị ndị m nyere iwu ka ndị ọkaikpe na-achị ndị m bụ Yisraël; m ga-ebelata ⟨את⟩ ndị iro gị niile, m gwara gị na ọ bụ Yahwe ga-ewu ụlọ maka gị.",
+  "tokens": [
+    {
+      "surface": "ולמימים",
+      "gloss": "site n'ụbọchị ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "m nyere iwu"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ndị ọkaikpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na-achị"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m bụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "והכנעתי",
+      "gloss": "m ga-ebelata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị iro gị niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ndị iro gị"
+    },
+    {
+      "surface": "ואגד",
+      "gloss": "m gwara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na ụlọ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ọ ga-ewu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:02:10.931572296Z",
+  "model": "glm-5.3"
+}

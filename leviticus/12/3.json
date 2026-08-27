@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma n'ụbọchị nke asatọ, a ga-emeso akpụkpọ anụ nke ọdụiche ya iwu mgbe ahụ.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Ma n'ụbọchị"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "nke asatọ"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "emeso iwu mgbe ahụ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "akpụkpọ anụ"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "nke ọdụiche ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:51:13.609709603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Maka gịnị ka ị gbajiri mgbidi ya, ka ndị niile na-agafe ụzọ na-amịpụta ya?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "maka gịnị"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "ị gbajiri"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "mgbidi ya"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "ka... na-amịpụta ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ụzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:10.536855120Z",
+  "model": "glm-5.3"
+}

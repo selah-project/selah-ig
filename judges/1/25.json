@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "O gosiri ha ⟨את⟩ ọnụ ụzọ mbata nke obodo ahụ, ha wee tie ⟨את⟩ obido ahụ —_correction— obodo ahụ site n'ọnụ nke mma agha, mana ⟨את⟩ nwoke ahụ na ⟨את⟩ ezinụlọ ya niile ha zigharịrị.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "ọ gosiri ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọnụ ụzọ mbata nke obodo ahụ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ọnụ ụzọ mbata"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "nke obodo ahụ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ha wee tie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ahụ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwoke ahụ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ezinụlọ ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "ezinụlọ ya"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ha zigharịrị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:38:57.426129047Z",
+  "model": "glm-5.3"
+}

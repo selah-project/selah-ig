@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Yoab wee zaa, wee sị: Chineke meghee, Chineke meghee maka m, na m ga-eri ma ọ bụ na m ga-emebi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wee zaa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Chineke meghee"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Chineke meghee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụ na"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ga-emebi"
+    }
+  ],
+  "timestamp": "2026-08-27T09:42:36.123921312Z",
+  "model": "glm-5.3"
+}

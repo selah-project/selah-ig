@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Ndị ọ bụla n'ụbọchị m ga-agọzi gị, m ga-eto aha gịkwa ruo mgbe ebighị ebi, ruo ọgwụụ.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ndị ọ bụla n'"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "m ga-agọzi gị"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "m ga-etokwa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo ọgwụụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:53.447221423Z",
+  "model": "glm-5.3"
+}

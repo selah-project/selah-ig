@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Soo nna gị ⟨את⟩ na nne gị ⟨את⟩, ka ụbọchị gị wee dị ogologo n'ala nke Yahwe, Elohim gị, na-enye gị",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Soo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna gị"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nne gị"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nne gị"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "wee dị ogologo"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ụbọchị gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:22:17.972560802Z",
+  "model": "glm-5.3"
+}

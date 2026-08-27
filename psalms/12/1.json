@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Maka onye na-eduzi egwu, n'ụda nke asatọ; abụ ekele nke Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye na-eduzi egwu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ụda nke asatọ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ ekele"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Dawid"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:03.085104162Z",
+  "model": "glm-5.3"
+}

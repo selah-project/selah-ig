@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "Ya mere, ndị m ga-amara aha m; ya mere, n'ụbọchị ahụ, na m bụ onye na-ekwu — le, m nọ ebe a.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ga-amara"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "aha m"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "onwe m"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "onye na-ekwu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "le, m nọ ebe a"
+    }
+  ],
+  "timestamp": "2026-08-27T11:05:52.883641940Z",
+  "model": "glm-5.3"
+}

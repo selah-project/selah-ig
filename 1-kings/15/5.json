@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "n'ihi na David mere ⟨את⟩ ihe ziri ezi n'anya Yahwe, ma ọ nọghị na mgbagha ruo n'ihe ọ bụla nke O nyere ya iwu, ụbọchị ndụ ya niile; naanị n'okwu nke Uriyah onye Hiti.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ziri ezi"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ihe ziri ezi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n'anya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ nọghị na mgbagha"
+    },
+    {
+      "surface": "סר",
+      "gloss": "na mgbagha"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ruo n'ihe ọ bụla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "O nyere ya iwu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ndụ ya"
+    },
+    {
+      "surface": "רק",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "n'okwu nke"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "onye Hiti"
+    }
+  ],
+  "timestamp": "2026-08-27T10:04:45.761928418Z",
+  "model": "glm-5.3"
+}

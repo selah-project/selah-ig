@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "M ga-eziga ya n'aka mba rụrụ arụ, ma nye ya iwu megide ndị bụ mmewere iwe m, ka ọ wepụbu ihe a zipụrụ, wee tọọbyte, ma mee ka ⟨ha⟩ bụrụ ihe a na-akụ̀ aka, dịka ụrọ n'okporo ụzọ.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "n'aka mba"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "rụrụ arụ"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "M ga-eziga ya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ma megide"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "mmewere iwe m"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "M ga-enye ya iwu"
+    },
+    {
+      "surface": "לשלל",
+      "loss": "",
+      "gloss": "ka ọ wepụbu"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ihe a zipụrụ"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "ma ka ọ tọọbyte"
+    },
+    {
+      "surface": "בז",
+      "gloss": "ihe a na-eri"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "ma mee ka ⟨ha⟩ bụrụ"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "ihe a na-akụ̀ aka"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "dịka ụrọ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "n'okporo ụzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:37:24.415076377Z",
+  "model": "glm-5.3"
+}

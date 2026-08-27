@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 64,
+  "translation": "Ha na-eme ka okwu ọjọọ sie ike maka onwe ha; ha na-akọ banyere izochi ọnyà; ha kwuru, Onye ga-ahụ ha?",
+  "tokens": [
+    {
+      "surface": "יְחַזְּקוּ",
+      "gloss": "ha na-eme ka ... sie ike"
+    },
+    {
+      "surface": "לָמוֹ",
+      "gloss": "maka onwe ha"
+    },
+    {
+      "surface": "דָּבָר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "רָע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "יְסַפְּרוּ",
+      "gloss": "ha na-akọ"
+    },
+    {
+      "surface": "לִטְמוֹן",
+      "gloss": "izochi"
+    },
+    {
+      "surface": "מוֹקְשִׁים",
+      "gloss": "ọnyà"
+    },
+    {
+      "surface": "אָמְרוּ",
+      "gloss": "ha kwuru"
+    },
+    {
+      "surface": "מִי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "יִרְאֶה",
+      "gloss": "ga-ahụ"
+    },
+    {
+      "surface": "לָמוֹ",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:17.538461614Z",
+  "model": "glm-5.3"
+}

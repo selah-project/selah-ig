@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 149,
+  "translation": "Yisrel ga-anụ ụtọ n'Onye mere ya, ụmụ Tsiyon ga-eri uri n'eze ha.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ga-anụ ụtọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrel"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "n'Onye mere ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ga-eri uri"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "n'eze ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:29.179575641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 92,
+  "translation": "Nwoke nzọ mbọ amaghị, onye nzọ ọjọọ amaghịkwa ⟨את⟩ ihe a.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nzọ mbọ (onye na-adị ka anụ ụlọ)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "amaghị"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "maara"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "onye nzọ ọjọọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "amaghịkwa"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ghọtaghị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe a"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ihe a"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:28.586202699Z",
+  "model": "glm-5.3"
+}

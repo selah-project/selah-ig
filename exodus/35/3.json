@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Unu ghara ịkụ ọkụ n'ụlọ obibi unu niile n'ụbọchị nke Shabat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "ịkụ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "n'ụlọ obibi unu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "nke Shabat"
+    }
+  ],
+  "timestamp": "2026-08-27T06:36:13.962042946Z",
+  "model": "glm-5.3"
+}

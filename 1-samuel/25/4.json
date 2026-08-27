@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "David nụrụ n'ọzara na Nabal na-akpụ ⟨את⟩ atụrụ ya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "na-akpụ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atụrụ ya"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "atụrụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:20:37.172058221Z",
+  "model": "glm-5.3"
+}

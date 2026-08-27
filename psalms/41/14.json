@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Kelee Yahwe, Elohim nke Yisrael, site na mmalite ruo n'ebighị ebi. Amin, na Amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Kelee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "site na mmalite"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "n'ebighị ebi"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "na Amin"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:23.880551273Z",
+  "model": "glm-5.3"
+}

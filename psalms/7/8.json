@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma nzukọ nke mba ndị ga-agbara Gị gburugburu, ma n'ihi ha laghachite n'ebe dị elu.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "ma nzukọ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "nke mba ndị"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "ga-agbara Gị gburugburu"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "ma n'ihi ha"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "n'ebe dị elu"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "laghachite"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:04.913467598Z",
+  "model": "glm-5.3"
+}

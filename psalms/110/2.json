@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 110,
+  "translation": "Yahwe ga-ezite mkpọ nke ike gị site na Tsiyon: chịwa ndị mmadụ n'etiti ndị iro gị.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "mkpọ"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "nke ike gị"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ga-ezite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "site na Tsiyon"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "chịwa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ndị iro gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:15.823690126Z",
+  "model": "glm-5.3"
+}

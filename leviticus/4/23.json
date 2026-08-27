@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ma ọ bụ ma a mara ya mmehie ya nke o mere, ọ ga-eweta ⟨את⟩ ọfrịn ya: mkpi nke ewu, nwoke, enweghị mmebi.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Ma ọ bụ"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "a mara ya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "mmehie ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ọ ga-eweta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọfrịn ya"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ọfrịn ya"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "mkpi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "nke ewu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "enweghị mmebi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:46:41.846275311Z",
+  "model": "glm-5.3"
+}

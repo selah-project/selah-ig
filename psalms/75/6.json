@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 75,
+  "translation": "E welieghị mpi unu n'elu; ekwula okwu nke nupụrụ isi n'olu siri ike.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "E welieghị"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "(ewelie)"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "mpi unu"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "ekwula okwu"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "n'olu"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "siri ike \/ nupụrụ isi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:36.564406368Z",
+  "model": "glm-5.3"
+}

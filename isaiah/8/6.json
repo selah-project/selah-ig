@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "N'ihi na ndị a jụrụ mmiri nke Shiloah na-asọ nwayọọ, ma na-anụ ụtọ na Retsin na nwa Remaljah;",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "jụrụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmiri nke Shiloah"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "nke Shiloah"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "na-asọ"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "nwayọọ"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "ma na-anụ ụtọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na nwa"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljah"
+    }
+  ],
+  "timestamp": "2026-08-27T10:36:20.585691530Z",
+  "model": "glm-5.3"
+}

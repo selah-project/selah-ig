@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 128,
+  "translation": "Nwunye gị dị ka osisi vaịn na-amị mkpụrụ n'akụkụ ụlọ gị; ụmụ gị dị ka mkpụrụ osisi oliv gbara tebụl gị gburugburu.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Nwunye gị"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "dị ka osisi vaịn"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "na-amị mkpụrụ"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ụlọ gị"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ụmụ gị"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "dị ka mkpụrụ osisi"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "oliv"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "tebụl gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:15.990154107Z",
+  "model": "glm-5.3"
+}

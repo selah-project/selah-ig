@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 9:5",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ndị Yehuda wee tie ụgbu ọ bụla ndị iro ha — mmanya nke mmaa na ogbugbu na mbibi — ma mee ka ndị kpọrọ ha asị dịka mmasị ha si dị.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ha wee tie ụgbu"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ndị Yehuda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "ndị iro ha"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "mmanya nke"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mmaa"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "na ogbugbu"
+    },
+    {
+      "surface": "ואבדן",
+      "gloss": "na mbibi"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ma ha mee"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "ka ndị kpọrọ ha asị"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "dịka mmasị ha si dị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:21:41.269194436Z",
+  "model": "glm-5.3"
+}

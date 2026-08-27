@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Unu ekweghị ka onye ọ bụla menye ⟨את⟩ onye ibe ya ihe; unu ga-atụ Elohim gị egwu; n'ihi na m bụ Yahwe, Elohim unu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ekweghị ka"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "menye ... ihe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye ibe ya"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "onye ibe ya"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ga-atụ ... egwu"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:06:07.432089490Z",
+  "model": "glm-5.3"
+}

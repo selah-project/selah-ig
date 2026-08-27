@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "O wee gbaa ọsọ ruo Eli, ma kwuo sị: Nnọmụ; n'ihi na ị kpọrọ m oku. O wee sị ya: M adịghị akpọ; laghachi, dinà ala. O wee gaa, wee dinà ala.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "o wee gbaa ọsọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma kwuo sị"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nnọmụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ị kpọrọ oku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "m na-akpọ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "laghachi"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "dinà ala"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o wee gaa"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "o wee dinà ala"
+    }
+  ],
+  "timestamp": "2026-08-27T09:01:40.467717954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "David wee gbakọta ⟨את⟩ Israel niile na Yerushalayim, i bulite ⟨את⟩ igbe nke Yahwe n'ebe ya, nke o kwadebere maka ya.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "o wee gbakọta"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ל העלות",
+      "gloss": "i bulite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igbe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ebe ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "o kwadebere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:01:09.728046467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 43:7",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Ha wee sị, 'Nwoke ahụ jụrụ anyị ajụjụ nke ọma banyere anyị na banyere òrùrù anyị, sị, \"Nna unu ka dị ndụ? Unu nwere nwanne ọzọ?\" Anyị gwara ya dịka okwu ndị a siri dị; anyị nwere ike ịma na ọ ga-asị, \"Dabata ⟨את⟩ nwanne unu?\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ha wee sị"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "jụrụ ajụjụ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "jụrụ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke ahụ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "ולמולדתנו",
+      "gloss": "na banyere òrùrù anyị"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "ka dị"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "Nna unu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dị ndụ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "nwere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "Unu"
+    },
+    {
+      "surface": "אח",
+      "gloss": "nwanne"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "Anyị gwara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ okwu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "הידוע",
+      "gloss": "nwere ike ịma"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "ịma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ga-asị"
+    },
+    {
+      "surface": "הורידו",
+      "gloss": "Dabata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwanne unu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "nwanne unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:00:34.324406416Z",
+  "model": "glm-5.3"
+}

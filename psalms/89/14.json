@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Gị nwere ogwe aka tinyere ike; aka gị siri ike, aka nri gị dị elu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "gị nwere"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ogwe aka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tinyere"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "ike"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "dị elu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "aka nri gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:21.581033983Z",
+  "model": "glm-5.3"
+}

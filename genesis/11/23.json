@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Serug wee dị ndụ, mgbe ọ mụsịrị ⟨את⟩ Nachor, afọ narị abụọ, wee mụ ụmụ nwoke na ụmụ nwanyị.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wee dị ndụ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ọ mụsịrị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "narị abụọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wee mụ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na ụmụ nwanyị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:58.684419749Z",
+  "model": "glm-5.3"
+}

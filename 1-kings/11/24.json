@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ọ wee gbakọta ụmụ nwoke n'elu ya, wee bụrụ onyeisi ụsụ ndị ohi n'oge Dawid na-egbu ⟨את⟩ ha; ha wee gaa Damask, wee bia bi na ya, wee chịa na Damask.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "wee gbakọta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wee bụrụ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ụsụ ndị ohi"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "n'oge ịgbu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ha wee gaa"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damask"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "wee bia bi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "wee chịa"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "na Damask"
+    }
+  ],
+  "timestamp": "2026-08-27T10:00:29.557728708Z",
+  "model": "glm-5.3"
+}

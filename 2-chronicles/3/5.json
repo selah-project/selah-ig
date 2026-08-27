@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọ kpuchikwara ⟨את⟩ ụlọ ukwu site na osisi junipa, ma kpuchie ya na ọla edo dị mma, ma dee kpọọ elu ya ọdọ nkwụ na jida jida.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ ukwu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "ọ kpuchiri"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "junipa"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "ma kpuchie ya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ma dee kpọọ elu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "elu ya"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "ọdọ nkwụ"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "na jida jida"
+    }
+  ],
+  "timestamp": "2026-08-27T16:08:18.465071406Z",
+  "model": "glm-5.3"
+}

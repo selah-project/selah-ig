@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ma ehi ma ọ bụ atụrụ — ya ⟨את⟩ na ⟨את⟩ nwa ya, unu ekwesịghị ịchụọ n'otu ụbọchị.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Ma ehi"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekwesịghị"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "ịchụọ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'otu ụbọchị"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:00:42.760923723Z",
+  "model": "glm-5.3"
+}

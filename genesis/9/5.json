@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma n'ezie, ⟨את⟩ ọbara unu, n'ihi ndụ unu, ka m ga-ajụ; aka nke anụmanụ dị ndụ ọ bụla ka m ga-ajụ ya; nakwa n'aka nke mmadụ — n'aka onye ọ bụla, nwanne ya — ka m ga-ajụ ⟨את⟩ ndụ mmadụ.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "Ma n'ezie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọbara unu"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "ọbara unu"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "n'ihi ndụ unu"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "m ga-ajụ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "anụmanụ dị ndụ"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "m ga-ajụ ya"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "nakwa n'aka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "m ga-ajụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndụ mmadụ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:28:10.444378461Z",
+  "model": "glm-5.3"
+}

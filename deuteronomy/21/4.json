@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ndị okenye nke obodo ahụ ga-eduga ⟨את⟩ nwa ehi ahụ ruo n'olulu mmiri na-asọ mgbe niile, nke a na-arụghị ọrụ na ya ma na-akụghịkwa mkpụrụ, ha ga-egbu ⟨את⟩ nwa ehi ahụ ebe ahụ n'olulu mmiri ahụ.",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "ha ga-eduga"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye nke"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ehi ahụ"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "nwa ehi ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "olulu mmiri"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "na-asọ mgbe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "a na-arụ ọrụ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghịkwa"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "a na-akụ mkpụrụ"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "ha ga-egbu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ehi ahụ"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "nwa ehi ahụ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "n'olulu mmiri ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:06:00.875142040Z",
+  "model": "glm-5.3"
+}

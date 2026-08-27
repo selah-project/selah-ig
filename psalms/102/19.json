@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Nke a ka a ga-ede maka ọgbọ na-abịa, ka otu ndị a ga-eketa bụrụ nke a kere, wee too Yah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "ka a ga-ede"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "maka ọgbọ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "na-abịa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ka otu ndị"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "nke a kere"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "wee too"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:46.467325952Z",
+  "model": "glm-5.3"
+}

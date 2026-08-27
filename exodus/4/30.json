@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Aharon kwuru ⟨את⟩ okwu niile nke Yahwe gwara Mose, wee rụọ ⟨את⟩ akara ndị ahụ n'ihu anya ndị mmadụ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(gwara)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wee rụọ"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "akara ndị ahụ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "n'ihu anya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:21.403175124Z",
+  "model": "glm-5.3"
+}

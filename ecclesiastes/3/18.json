@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 3:18",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "M kwukwara n'obi m maka ọnọdụ ụmụ mmadụ: ka Elohim nwale ha, ka ha wee hụ na ha n'onwe ha bụ anụmanụ.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "kwukwara"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "n'obi m"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ọnọdụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "לברם",
+      "gloss": "nwale"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "ka e hụ"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "na ha"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "anụmanụ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "n'onwe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T15:13:40.133545159Z",
+  "model": "glm-5.3"
+}

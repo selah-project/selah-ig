@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ihe anya na-ahụ ka mma karịa njem nke nefesh; nke a bụkwa hevel na mkpagharị nke ruach.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ka mma karịa"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ihe a na-ahụ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "anya"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "njem"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bụkwa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "na mkpagharị"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nke ruach"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:45.917558797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Onye na-ewe ihe ubi n'oge ọkọchị bụ nwa ama-ịma; onye na-ehi ụra n'oge owuwe ihe ubi bụ nwa na-eme ihere.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "na-ewe ihe ubi"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "n'oge ọkọchị"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ama-ịma"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "na-ehi ụra"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "n'oge owuwe ihe ubi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "na-eme ihere"
+    }
+  ],
+  "timestamp": "2026-08-27T14:19:43.654540263Z",
+  "model": "glm-5.3"
+}

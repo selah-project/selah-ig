@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma ndị nchuja wetara ⟨את⟩ ụgbọ nke ọgbụgba ndụ Yahwe n'ebe ya, na Devir nke ụlọ ⟨ahụ⟩, na ebe nsọ nke ndị nsọ, n'okpuru nku nke Kerubim.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ma wetara"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchuja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụgbọ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ụgbọ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ọgbụgba ndụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ebe ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ebe nsọ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "nke ndị nsọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "nku"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "Kerubim"
+    }
+  ],
+  "timestamp": "2026-08-27T09:56:52.538449732Z",
+  "model": "glm-5.3"
+}

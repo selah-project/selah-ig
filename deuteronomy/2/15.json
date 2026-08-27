@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "N'ezie, aka Yahwe nọkwa n'elu ha ka a kụsasị ha n'etiti ogige ahụ, ruo mgbe ha gwụsịrị.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "n'ezie, nọkwa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨nọ⟩"
+    },
+    {
+      "surface": "בם",
+      "gloss": "n'elu ha"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "ka a kụsasị ha"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ogige ahụ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ha gwụsịrị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:48:55.088037762Z",
+  "model": "glm-5.3"
+}

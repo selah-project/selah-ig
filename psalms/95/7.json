@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 95,
+  "translation": "N'ihi na ọ bụ Elohim anyị, anyị bụkwa ndị nke ebe ịta nri ya, na atụrụ nke aka ya; taa, ọ bụrụ na ọnụ olu ya ka ụnụ na-anụ,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "anyị bụkwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "nke ebe ịta nri ya"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "na atụrụ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "nke aka ya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ọnụ olu ya"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ka ụnụ na-anụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:09.160763956Z",
+  "model": "glm-5.3"
+}

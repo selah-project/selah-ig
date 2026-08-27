@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 143,
+  "translation": "Mepe ọsọ zaa m, Yahwe; mmụọ m na-ebiwnụ; ezochila ihu gị n'aka m, ka m ghara ịdị ka ndị na-ada n'olu. ",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "ọsọ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "zaa m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "na-ebiwnụ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mmụọ m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ezochila"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ihu gị"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "n'aka m"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "n'ebe m nọ"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ka m ghara ịdị ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ndị na-ada"
+    },
+    {
+      "surface": "בור",
+      "gloss": "n'olu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:34.120855010Z",
+  "model": "glm-5.3"
+}

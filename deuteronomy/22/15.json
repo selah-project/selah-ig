@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Nna nwa agbọghọ ahụ na nne ya ga-ewere, wepụta ⟨את⟩ akara amaghị nwoke nke nwa agbọghọ ahụ nye ndị okenye obodo n'ọnụ ụzọ ámá.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ga-ewere"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nwa agbọghọ ahụ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na nne ya"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "wepụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akara amaghị nwoke"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "akara amaghị nwoke"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nke nwa agbọghọ ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "n'ọnụ ụzọ ámá"
+    }
+  ],
+  "timestamp": "2026-08-27T08:09:30.737076548Z",
+  "model": "glm-5.3"
+}

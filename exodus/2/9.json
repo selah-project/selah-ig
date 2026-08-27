@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Nwa nwanyị Paroh kwuru ya: Jem ⟨את⟩ nwa a ma na-anyụ ya ara maka m, m ga-enye gwa ụgwọ gị. Nwaanyị ahụ were ⟨את⟩ nwa ahụ ma na-anyụ ya ara.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "jem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa a"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "ma na-anyụ ya ara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "m"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ga-enye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụgwọ gị"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "ụgwọ gị"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nwaanyị ahụ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "nwa ahụ"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "ma na-anyụ ya ara"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:12.629277060Z",
+  "model": "glm-5.3"
+}

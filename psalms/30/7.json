@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Mụ onwe m, n'udo m m kwuru sị, ọ gaghị m na-agbanwe agbanwe ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mụ onwe m"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "m kwuru sị"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "n'udo m"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "m na-agbanwe agbanwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:29.426738558Z",
+  "model": "glm-5.3"
+}

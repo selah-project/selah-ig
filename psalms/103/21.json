@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "Too Yahwe, ndị agha Ya niile; ndị na-ejere Ya ozi, ndị na-eme uche Ya.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Too"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "ndị agha Ya"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ndị na-ejere Ya ozi"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ndị na-eme"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "uche Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:56.035223961Z",
+  "model": "glm-5.3"
+}

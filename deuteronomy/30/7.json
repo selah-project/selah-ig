@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Yahwe, Elohim gị, ga-etinye ⟨את⟩ ntaram na nke ọjọọ ndị a niile n'elu ndị iro gị na ndị kpọọ gị asa, ndị na-achụsi gị.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ga-etinye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntaram na nke ọjọọ ndị a niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "ntaram na nke ọjọọ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ndị iro gị"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na n'elu"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ndị kpọọ gị asa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "na-achụsi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:30:15.503250274Z",
+  "model": "glm-5.3"
+}

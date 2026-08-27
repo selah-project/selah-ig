@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "⟨את⟩ ogwe nke ụlọikwu nsọ na ⟨את⟩ ogwe nke okwu mkpuchi ahụ, na ⟨את⟩ eriri ha",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogwe nke ụlọikwu nsọ"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ogwe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "nke ụlọikwu nsọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ogwe nke okwu mkpuchi ahụ"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ogwe"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "nke okwu mkpuchi ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "eriri ha"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "eriri ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:34:35.894855910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "N'ihi na Yahwe maara ụzọ ndị ezi omume, mana ụzọ ndị omempụ ga-efu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "maara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ndị ezi omume"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "mana ụzọ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị omempụ"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ga-efu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:09:32.973070492Z",
+  "model": "glm-5.3"
+}

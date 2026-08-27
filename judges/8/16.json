@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ wee were ⟨את⟩ ndị okenye nke obodo ahụ, na ⟨את⟩ ọka mkpọkpọ nke ọzara, na ⟨את⟩ ụhara mkpọkpọ, wee were ha mee ka ⟨את⟩ ndị Sukkot mata ihe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ọ wee were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị okenye nke obodo ahụ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọka mkpọkpọ nke ọzara"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "ọka mkpọkpọ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ọzara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụhara mkpọkpọ"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "ụhara mkpọkpọ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "mee ka ha mata"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Sukkot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    }
+  ],
+  "timestamp": "2026-08-27T08:48:26.258658177Z",
+  "model": "glm-5.3"
+}

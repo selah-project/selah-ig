@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 93,
+  "translation": "Ndị akaebe gị kwesịrị ntụkwasị nke ukwuu; n'ụlọ gị, nsọ dịkwara mma, Yahwe, ruo ogologo ụbọchị.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "ndị akaebe gị"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "kwesịrị ntụkwasị"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "n'ụlọ gị"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "dịkwara mma"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ruo ogologo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:49:43.471756260Z",
+  "model": "glm-5.3"
+}

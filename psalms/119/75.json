@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ama m, Yahwe, na ikpe ziri ezi ka ikpe gị dị, na n'ịdị nkwụsị ka ị tara m ahụhụ.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ama m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ikpe gị"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "na n'ịdị nkwụsị"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "ị tara m ahụhụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:40.483604013Z",
+  "model": "glm-5.3"
+}

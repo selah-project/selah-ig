@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 62,
+  "translation": "Maka onye-nduzi egwu, na nke Yedutun, abụ-egwu nke Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye-nduzi egwu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na nke"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ-egwu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Dawid"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:08.896451935Z",
+  "model": "glm-5.3"
+}

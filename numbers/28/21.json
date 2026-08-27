@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "decimal otu ọnụọgụ isi-ọnụọgụ iri ga-eme maka nwa atụrụ nke ⟨the⟩ otu, maka ọnụọgụ asaa nke ọnụọgụ anụmanụ-atụrụ",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "ọnụọgụ iri"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ọnụọgụ iri"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "maka nwa atụrụ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nke ⟨the⟩ otu"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "maka ọnụọgụ asaa"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "nke anụmanụ-atụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:39:08.113141081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ya mere ka unu rie ya: oke ukwu unu kekọrachara, obodo ukwu unu n'ụkwụ unu, na mkpọ unu n'aka unu; unu ga-eri ya ngwa ngwa. Ọ bụ Paschal nke Yahwe.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ka unu rie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "oke ukwu unu"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "kekọrachara"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "obodo ukwu unu"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "n'ụkwụ unu"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "na mkpọ unu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "n'aka unu"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "unu ga-eri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "ngwa ngwa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paschal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nke Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:35.306648269Z",
+  "model": "glm-5.3"
+}

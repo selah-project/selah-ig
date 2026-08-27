@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Mgbe a na-ekpe ya ikpe, ka ọ pụta dịka onye ikpe mara, ma ekpere ya bụrụ mmehie.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Mgbe a na-ekpe ya ikpe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ka ọ pụta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dịka onye ikpe mara"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "ma ekpere ya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bụrụ"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "mmehie"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:05.444526705Z",
+  "model": "glm-5.3"
+}

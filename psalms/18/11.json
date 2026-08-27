@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ọ rịgoro n'elu kerub, Ọ na-efe, Ọ na-efe n'elu nku nke ifufe.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "Ọ rịgoro"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "Ọ na-efe"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "Ọ na-efe (na ụkwụ oghere)"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "nku"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ifufe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:43.515872306Z",
+  "model": "glm-5.3"
+}

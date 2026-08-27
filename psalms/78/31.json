@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Wee iwe Elohim rịgoro ha elu, Ọ gburu ndị nwere abụba ha, ma mebie ndị ntoala nke Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Wee iwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "rịgoro elu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "Ọ gburu"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "ndị nwere abụba ha"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "ndị ntoala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Yisrael"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "mebie"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:01.025008026Z",
+  "model": "glm-5.3"
+}

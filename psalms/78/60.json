@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ọ we hapụ ebe obibi nke Shilo, ụlọikwuu ⟨ọ⟩ bi n'etiti mmadụ.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "Ọ we hapụ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ebe obibi"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "nke Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ụlọikwuu"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "⟨ọ⟩ bi"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "n'etiti mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:54.040871740Z",
+  "model": "glm-5.3"
+}

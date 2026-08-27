@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Hadad gbagara, ⟨ọ⟩ na ụfọdụ ndị Edom, n'etiti ndị ohu nna ya, ⟨את⟩ ya, iji bata Mitzrajim; Hadad bụ nwata nke obere.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "gbagara"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ọ⟩"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "na ụfọdụ ndị"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "n'etiti ndị ohu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "Hadad na ndị Edom"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "iji bata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrajim"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "ma Hadad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nwata"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "obere"
+    }
+  ],
+  "timestamp": "2026-08-27T10:01:34.166455650Z",
+  "model": "glm-5.3"
+}

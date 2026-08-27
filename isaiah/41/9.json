@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 41:9",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Onye nke m jidere gị site na nsọtụ ⟨the⟩ ụwa, ma site n'akụkụ ya kpọrọ gị, ma m gwara gị: Ọrụnka m bụ gị; m họrọla gị, ma anaghị m ajụ gị.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "החזקתיך",
+      "gloss": "m jidere gị"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "site na nsọtụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ו מאציליה",
+      "gloss": "ma site n'akụkụ ya"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "kpọrọ gị"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ma m gwara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ọrụnka m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "m họrọla gị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma anaghị"
+    },
+    {
+      "surface": "מאסתיך",
+      "gloss": "m ajụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:56:54.584064627Z",
+  "model": "glm-5.3"
+}

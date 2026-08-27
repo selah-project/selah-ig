@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 111,
+  "translation": "Ha kwụsiri ike ruo mgbe ebighị ebi, ruo ndụ ebighị ebi; e mere ha n'eziokwu na izuoke.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "ha kwụsiri ike"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo ndụ ebighị ebi"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "e mere ha"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "n'eziokwu"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "na izuoke"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:08.809825303Z",
+  "model": "glm-5.3"
+}

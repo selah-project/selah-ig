@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 45:14",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Ọ dara n'olu Binhyamin nwanne ya wee bee akwa; Binhyamin wekwa bee akwa n'olu ya.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ọ dara"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'olu"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "olu"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binhyamin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "wee bee akwa"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Binhyamin wekwa"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "bee akwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'olu"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "olu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:01:43.990975493Z",
+  "model": "glm-5.3"
+}

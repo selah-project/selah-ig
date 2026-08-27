@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "Ọ̀ gwụla ruo mgbe ebighị ebi chesed Ya? Okwu Ya gwụla maka ọgbọ na ọgbọ?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "ọ̀ gwụla"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed Ya"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "gwụla"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "maka ọgbọ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na ọgbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:22.797331339Z",
+  "model": "glm-5.3"
+}

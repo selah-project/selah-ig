@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 94,
+  "translation": "Ha na-egbu nwanyi di ya nwụrụ na onye ọbịa, ma na-egbu ụmụ mgbei igbu ọchụ.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "nwanyi di ya nwụrụ"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "na onye ọbịa"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "ha na-egbu"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "ma ụmụ mgbei"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "ha na-egbu igbu ọchụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:08.362674354Z",
+  "model": "glm-5.3"
+}

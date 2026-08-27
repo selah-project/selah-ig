@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 33:16",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ọ ga-ebi n'ebe dị elu; ebe mgbedo nke nkume ndị ga-abụ ebe nsọ ya; a ga-enye ya nri, mmiri ya ga-adịkwa ezi.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ọ"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "n'ebe dị elu"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ga-ebi"
+    },
+    {
+      "surface": "מצדות",
+      "gloss": "ebe mgbedo"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "nke nkume ndị"
+    },
+    {
+      "surface": "משגבו",
+      "gloss": "ga-abụ ebe nsọ ya"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "nri ya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a ga-enye"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "mmiri ya"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ga-adịkwa ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:49:22.026839153Z",
+  "model": "glm-5.3"
+}

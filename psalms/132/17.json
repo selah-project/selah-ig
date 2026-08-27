@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 132,
+  "translation": "N'ebe ahụ ka m ga-eme ka mpi David mịọ; ndòm ka m haziri maka Mashiach m.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "m ga-eme ka ọ mịọ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "mpi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "maka David"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "m haziri"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ndòm"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "maka Mashiach m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:25.230162335Z",
+  "model": "glm-5.3"
+}

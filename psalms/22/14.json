@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ha meghere ọnụ ha n'elu m, dịka ọdụm na-eri anụ na na-eti mkpu.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "Ha meghere"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ọnụ ha"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ọdụm"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "na-eri anụ"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "na na-eti mkpu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:54.418028804Z",
+  "model": "glm-5.3"
+}

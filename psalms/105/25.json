@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "⟨Ọ⟩ gbanwere obi ha ka ha kpọọ ndị ya asa, ka ha na-eme aghụghọ n'ụzọ ọjọọ megide ndị ohu ya.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "gbanwere"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "obi ha"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ka ha kpọọ asa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "ka ha na-eme aghụghọ n'ụzọ ọjọọ"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "megide ndị ohu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.722715311Z",
+  "model": "glm-5.3"
+}

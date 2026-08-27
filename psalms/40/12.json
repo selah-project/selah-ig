@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Gịnị na Onyenwe anyị — ịghara ime ya: Yahwe, ịaghara ikuchi ⟨את⟩ mmetụta-ọmịiko gị n'ebe m nọ; chesed gị na eziokwu gị ga-echebe m mgbe niile.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Gịnị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ịaghara"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "ikuchi"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "mmetụta-ọmịiko gị"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "n'ebe m nọ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed gị"
+    },
+    {
+      "surface": "ו",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "eziokwu gị"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ga-echebe m"
+    }
+  ],
+  "timestamp": "2026-08-27T17:20:37.362425208Z",
+  "model": "glm-5.3"
+}

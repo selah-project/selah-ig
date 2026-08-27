@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "M ga-eme ⟨את⟩ ugwu Seir ka ọ bụrụ ọzara na mmebi, ma m ga-ebipụ n'ime ya onye na-agafe na onye na-alaghachi.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "M ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugwu Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "ka ọ bụrụ ọzara"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "na mmebi"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ma m ga-ebipụ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "onye na-agafe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "na onye na-alaghachi"
+    }
+  ],
+  "timestamp": "2026-08-27T12:26:48.108571740Z",
+  "model": "glm-5.3"
+}

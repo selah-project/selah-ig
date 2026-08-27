@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 132,
+  "translation": "Yahwe ṅụrụ iyi n'eziokwu nye Davịd, ọ gaghị atụgharị azụ n'ebe ọ nọ: 'Site n'mkpụrụ afọ ime gị, m ga-edozi ocheeze maka gị.'",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ṅụrụ iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nye Davịd"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "n'eziokwu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "atụgharịa azụ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "n'ebe ọ nọ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "site na mkpụrụ"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "afọ ime gị"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "m ga-edozi"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "ocheeze"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:49.929489869Z",
+  "model": "glm-5.3"
+}

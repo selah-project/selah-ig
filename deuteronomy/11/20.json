@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Dee ha n'ogwe ọnụ ụzọ ụlọ gị na n'ọnụ ụzọ gị.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "Dee"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "ogwe ọnụ ụzọ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ụlọ gị"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "na n'ọnụ ụzọ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:58:19.846481889Z",
+  "model": "glm-5.3"
+}

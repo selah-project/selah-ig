@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 49:17",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Na-ahapụ ụmụ gị ngwa ngwa iwu gị elu; ndị na-emebi gị na ndị na-ebibi gị ga-apụ n'aka gị.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "ha na-eme ngwa ngwa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ụmụ gị"
+    },
+    {
+      "surface": "מהרסיך",
+      "gloss": "ndị na-emebi gị"
+    },
+    {
+      "surface": "ומחרביך",
+      "gloss": "na ndị na-ebibi gị"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ha ga-apụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:41:13.677453535Z",
+  "model": "glm-5.3"
+}

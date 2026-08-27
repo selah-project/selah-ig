@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ wee si n'ebe ahụ gaa n'aka ndị bi na Devir — aha Devir mbụ bụ Kiryat-Sefer.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ọ gara"
+    },
+    {
+      "surface": "משם",
+      "gloss": "si n'ebe ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "na Devir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "mbụ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-08-27T08:38:07.099200705Z",
+  "model": "glm-5.3"
+}

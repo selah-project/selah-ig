@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 19:8",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ma ọ bụrụ na Yahwe, Elohim gị, mebere ⟨את⟩ ókèala gị, dịka Ọ ṅụrụ ndị nna gị iyi, ma nye gị ⟨את⟩ ala niile Ọ kwuru na Ọ ga-enye ndị nna gị —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "mebere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ókèala gị"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "ókèala gị"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ṅụrụ iyi"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "ndị nna gị"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ma nye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "i inye"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "ndị nna gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:06:04.171643150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Mizrayim mụrụ ⟨את⟩ ndị Ludi, ⟨את⟩ ndị Anam, ⟨את⟩ ndị Lehavi, na ⟨את⟩ ndị Naftuchi.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mizrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Ludi"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "ndị Ludi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Anam"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "ndị Anam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Lehavi"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "ndị Lehavi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Naftuchi"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "ndị Naftuchi"
+    }
+  ],
+  "timestamp": "2026-08-27T15:50:36.175411739Z",
+  "model": "glm-5.3"
+}

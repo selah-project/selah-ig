@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "A mụrụ nye Aharon ⟨את⟩ Nadab na ⟨את⟩ Avihu, ⟨את⟩ Elazar na ⟨את⟩ Itamar.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "A mụrụ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "nye Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadab"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Avihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-08-27T07:37:52.236527462Z",
+  "model": "glm-5.3"
+}

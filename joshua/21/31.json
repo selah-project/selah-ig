@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "⟨את⟩ Chelkat na ⟨את⟩ ala-ọhịa ya, na ⟨את⟩ Rechov na ⟨את⟩ ala-ọhịa ya — obodo anọ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Chelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-ọhịa ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ala-ọhịa ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Rechov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-ọhịa ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ala-ọhịa ya"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:52.482862421Z",
+  "model": "glm-5.3"
+}

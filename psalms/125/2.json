@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 125,
+  "translation": "Yerushalayim — ugwu ndị gbara ya gburugbu; Yahwekwa gbara ndị ya gburugbu, site ugbu a ruo ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu ndị"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gba...gburugbu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwekwa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gba...gburugbu"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "site ugbu a"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:24.950506965Z",
+  "model": "glm-5.3"
+}

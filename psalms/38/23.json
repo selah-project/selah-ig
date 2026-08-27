@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Me ngwa ka ị nyere m aka, Adonai, nzọpụta m.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "me ngwa"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ka ị nyere m aka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "nzọpụta m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:47.933462523Z",
+  "model": "glm-5.3"
+}

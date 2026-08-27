@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ị gaghị za ⟨dịka⟩ onye agbata obi gị akaebe na-amaghị eziokwu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị \/ gaghị"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ịza"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "dịka onye agbata obi gị"
+    },
+    {
+      "surface": "עד",
+      "gloss": "akaebe"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "amaghị eziokwu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:19:06.415244825Z",
+  "model": "glm-5.3"
+}

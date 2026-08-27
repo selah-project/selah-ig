@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Otú a ka Yahwe si kwuo: N'ụzọ a ka m ga-emebi ⟨את⟩ ebube Yehuda na ⟨את⟩ ebube Yerushalayim, ukwu ahụ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Otú a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "si kwuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "N'ụzọ a"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "m ga-emebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebube"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ebube"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ebube"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ebube"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "ukwu ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:25:08.469455991Z",
+  "model": "glm-5.3"
+}

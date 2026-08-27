@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ọ wee sie ⟨את⟩ ⟨the⟩ mgbidi nche ike, o wee tinye n'ime ha ndị isi, na ebe nchekwa nri na mmanụ na mmanya",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Ọ wee sie ike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgbidi nche"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "⟨the⟩ mgbidi nche"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o wee tinye"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'ime ha"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "na ebe nchekwa"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "nri"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "na mmanụ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "na mmanya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:09:42.105833808Z",
+  "model": "glm-5.3"
+}

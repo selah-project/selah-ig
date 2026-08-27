@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "O wee mee, mgbe David na ⟨ndị⟩ nwoke ya rutere Tsiklag n'ụbọchị nke atọ, ndị Amalek batara n'akụkụ ndịda nakwa na Tsiklag, ha tie ⟨את⟩ Tsiklag, ha ghee ya ọkụ n'ime ọkụ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "o wee mee"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "mgbe ... rutere"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "na ndị nwoke ya"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nke atọ"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "ma ndị Amalek"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "batara (wakporo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ndịda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nakwa na"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ha tie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ha ghee ọkụ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ọkụ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ime ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:26:00.699248457Z",
+  "model": "glm-5.3"
+}

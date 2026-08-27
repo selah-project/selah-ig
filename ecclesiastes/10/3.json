@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ọzọkwa, mgbe onye nzuzu na-aga n'ụzọ, obi ya ezughị ezu, ma ọ na-agwa onye ọ bụla ⟨na⟩ ọ bụ onye nzuzu ⟨ọ⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ọzọkwa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "mgbe onye nzuzu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "obi ya"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ezughị ezu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ma ọ na-agwa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "onye nzuzu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:07.625179560Z",
+  "model": "glm-5.3"
+}

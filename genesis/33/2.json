@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ọ wee were ⟨את⟩ ụmụ ọrụ ụmụnwaanyị ahụ na ⟨את⟩ ụmụ ha n'ihu; ⟨את⟩ Lea na ụmụ ya n'azụ; ⟨את⟩ Rachel na ⟨את⟩ Yosef n'azụ ikpeazụ.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Ọ wee were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ọrụ ụmụnwaanyị ahụ"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ụmụ ọrụ ụmụnwaanyị ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ha"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ụmụ ha"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "na ụmụ ya"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "n'azụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "n'azụ ikpeazụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:49:35.425690440Z",
+  "model": "glm-5.3"
+}

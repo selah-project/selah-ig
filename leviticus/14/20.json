@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ma onye nchụàjà ga-ebuli ⟨את⟩ ọṅụṅụ-ọkụ ahụ na ⟨את⟩ ndị ọṅụṅụ-nta ahụ elu n’ịchụàjà ahụ, ma onye nchụàjà ga-eme ka mme ruo ya, ma ọ ga-adị ọcha.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "ga-ebuli elu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọṅụṅụ-ọkụ ahụ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ọṅụṅụ-ọkụ ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ọṅụṅụ-nta ahụ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ndị ọṅụṅụ-nta ahụ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "elu n’ịchụàjà ahụ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ga-eme ka mme ruo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ma ọ ga-adị ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:54:16.918756990Z",
+  "model": "glm-5.3"
+}

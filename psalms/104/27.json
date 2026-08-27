@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Ha niile na-eleda Gị anya, ka Ị nye ha nri n'oge ya.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Ha niile"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Gị"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "na-eleda anya"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ka Ị nye"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "nri ha"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "n'oge ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:29.311505496Z",
+  "model": "glm-5.3"
+}

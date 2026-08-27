@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ọ dị m mma na a tara m ahụhụ, ka m na-amụta iwu gị.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "a tara m ahụhụ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "m na-amụta"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "iwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:03:35.198115175Z",
+  "model": "glm-5.3"
+}

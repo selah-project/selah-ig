@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Yaakov wee zuru ⟨את⟩ obi Lavan, onye Aram, n'ihi na ọ gwaghị ya na ọ na-agbapụ.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "wee zuru"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "onye Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "na ọ gwaghị"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ọ gwaghị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "na-agbapụ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:15.038074665Z",
+  "model": "glm-5.3"
+}

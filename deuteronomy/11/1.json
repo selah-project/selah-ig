@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ya mere, ị ga-ahụ Yahwe Elohim gị n'ịhụnanya, ma na-edebe nchedo ya, na iwu ya, na ikpe ya, na iwu-nduzi ya, ụbọchị niile.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "ị ga-ahụ n'ịhụnanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ma na-edebe"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "nchedo ya"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "na iwu ya"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "na ikpe ya"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "na iwu-nduzi ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:58:10.211301725Z",
+  "model": "glm-5.3"
+}

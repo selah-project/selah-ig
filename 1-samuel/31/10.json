@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ha tinyere ⟨את⟩ ngwa agha ya n'ụlọ Ashtarot, ma mado ⟨את⟩ ahụ ya n'elu mgbidi Bet-Shan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ha tinyere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwa agha ya"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwa agha ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ahụ ya"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "ahụ ya"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ha madoro"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "n'elu mgbidi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "-Shan"
+    }
+  ],
+  "timestamp": "2026-08-27T09:28:14.460501899Z",
+  "model": "glm-5.3"
+}

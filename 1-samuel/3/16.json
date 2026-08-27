@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Eli wee kpọọ ⟨את⟩ Shemuel, o wee sị, Shemuel, nwa m. O wee sị, Nke a bụ m.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wee kpọọ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Nke a bụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T09:01:24.201081155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Ị na-eme anyị ka anyị bụrụ ilu na-etinye n'ọnụ ndị mba, isi na-ama anyị mmetụ n'etiti ndị nzuzo nile.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Ị na-eme anyị"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ilu na-etinye n'ọnụ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "n'etiti ndị mba"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "na-ama mmetụ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ndị nzuzo nile"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:54.612230156Z",
+  "model": "glm-5.3"
+}

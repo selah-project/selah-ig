@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Onye n'etiti unu ga-ege ntị n'ihe a? Onye ga-atụ anya ma nụ, maka ihe na-abịa n'azụ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "n'etiti unu"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "ga-ege ntị"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "n'ihe a"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "ga-atụ anya"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ma nụ"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "maka ihe na-abịa n'azụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:57:46.303924907Z",
+  "model": "glm-5.3"
+}

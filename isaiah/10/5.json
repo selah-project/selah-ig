@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ọdịnba nke Ashshur, bụ mkpọmkpọ ọkụ nke iwe m, na osisi aka ⟨ọ⟩ n'aka ha ka iwe mkpụrụ m dị.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ọdịnba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mkpọmkpọ ọkụ"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "nke iwe m"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "na osisi aka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ọ⟩"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "n'aka ha"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "iwe mkpụrụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T10:37:24.414853863Z",
+  "model": "glm-5.3"
+}

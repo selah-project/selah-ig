@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Nwanyị nwanne ya, HaMoleketh, mụrụ ⟨את⟩ Ishod, na ⟨את⟩ Aviezer, na ⟨את⟩ Machlah.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "nwanyị nwanne ya"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "HaMoleketh"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aviezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Machlah"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Machlah"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:57.475244713Z",
+  "model": "glm-5.3"
+}

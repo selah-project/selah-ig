@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Eber wee dịrị ndụ, mgbe ọ mụsịrị ⟨את⟩ Peleg, afọ iri atọ na narị anọ, ma mụọ ụmụ nwoke na ụmụ nwanyị.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": " wee dịrị ndụ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ọ mụsịrị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "iri atọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na anọ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ma mụọ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na ụmụ nwanyị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:23.989747112Z",
+  "model": "glm-5.3"
+}

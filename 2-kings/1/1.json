@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Moa bịakwara isi n'Israel n'ihu ọnwụ Ahab.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "bịakwara isi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "n'Israel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    }
+  ],
+  "timestamp": "2026-08-27T10:11:23.837549349Z",
+  "model": "glm-5.3"
+}

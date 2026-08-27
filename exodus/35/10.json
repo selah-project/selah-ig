@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Onye ọ bụla n'ime unu nwere obi amamihe ka ọ bịa ma mee ⟨את⟩ ihe niile nke Yahwe nyere iwu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nwere amamihe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "n'ime unu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ka ha bịa"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ma ha mee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile nke Yahwe nyere iwu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:34:43.951833468Z",
+  "model": "glm-5.3"
+}

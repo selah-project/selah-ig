@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "N'afọ ime ọ jidere ⟨את⟩ nwanne ya nwoke n'ụkwụ aka, na n'ike ya ọ lụrụ ⟨את⟩ Elohim ọgụ.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "n'afọ ime"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "jidere n'ụkwụ aka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwanne ya nwoke"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya nwoke"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "na n'ike ya"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "lụrụ ọgụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T12:42:58.824355125Z",
+  "model": "glm-5.3"
+}

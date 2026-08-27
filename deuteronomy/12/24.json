@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ị gaghị eri ya; n'ala ka ị ga-mwụsa ya dịka mmiri.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ị gaghị"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "eri ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ị ga-mwụsa ya"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "dịka mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T08:00:17.185814516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Yahwe mee ka obi Paroh siri ike, oge ọ nụghị okwu ha, dịka Yahwe si gwa Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "mee ka siri ike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ nụghị"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nụ okwu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "si"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:43.453069099Z",
+  "model": "glm-5.3"
+}

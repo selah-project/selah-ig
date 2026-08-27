@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "O wee sị: Kedu mmehie m mere, na ị na-enye ⟨את⟩ ohu gị n'aka Ahab, igbu m?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wee sị"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kedu"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mmehie m mere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohu gị"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "igbu m"
+    }
+  ],
+  "timestamp": "2026-08-27T10:05:48.472643044Z",
+  "model": "glm-5.3"
+}

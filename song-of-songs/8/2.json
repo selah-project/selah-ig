@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "M ga-eduga gị, m ga-eduga gị bata n'ụlọ nne m; ọ ga-akụziri m; m ga-enye gị ọṅụ nke mmanya na-esi ụtọ, nke mmiri ara nduku pọmigranet m.",
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "m ga-eduga gị"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "m ga-eduga gị bata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nne m"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "ọ ga-akụziri m"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "m ga-enye gị ọṅụ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "nke mmanya"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "na-esi ụtọ (ihe na-esi ụtọ)"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "mmiri ara"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "pọmigranet m"
+    }
+  ],
+  "timestamp": "2026-08-27T15:04:32.128747662Z",
+  "model": "glm-5.3"
+}

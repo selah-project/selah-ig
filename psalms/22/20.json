@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ma Ị, Yahwe, edebe na ị bụghị onye dị anya; ike m, bịa ngwa ngwa nye m enyemaka.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma Ị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "edebe na ị bụghị"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "onye dị anya"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "ike m"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "nye m enyemaka"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "bịa ngwa ngwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:46.653104942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 79,
+  "translation": "Ruo ogologo oge ole, Yahwe? Ka iwe gị dịruo ruo mgbe ebighị ebi? Ka mkpasu iwe gị gbaa dịka ọkụ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ruo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ogologo oge ole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ka iwe gị dịruo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ka ... gbaa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "mkpasu iwe gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:46:25.301298096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "Site na mmegbu na ime ihe ike ọ ga-azọpụta mkpụrụ ndụ ha, ma ọbara ha ga-adị oké uru n'anya ya.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "site na"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "na ime ihe ike"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ọ ga-azọpụta"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mkpụrụ ndụ ha"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "ma ga-adị oké uru"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ọbara ha"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "n'anya ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:37.891231339Z",
+  "model": "glm-5.3"
+}

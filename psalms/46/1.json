@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Maka onye na-eduzi egwu, maka ụmụ Korach, n'olu ụmụ agbọghọ, abụ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye na-eduzi egwu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "maka ụmụ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'olu"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ụmụ agbọghọ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:55.540440669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ndị na-atụ Yahwe egwu, kelere Ya; mkpụrụ Yaakov nile, tolite Ya; ụjọ jiri Ya mee nke ọma, mkpụrụ Yisrael nile.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Ndị na-atụ egwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "kelere Ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nile"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "tolite Ya"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "ụjọ jiri"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nile"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:26.809128512Z",
+  "model": "glm-5.3"
+}

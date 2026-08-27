@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ọgba aghara ruo n'igbu amirila emi; ma mụ bụ ọzụzụ maka ha niile.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "ruo n'igbu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ọgba aghara"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "amirila emi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma mụ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ọzụzụ"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "maka ha niile"
+    }
+  ],
+  "timestamp": "2026-08-27T12:40:32.085911285Z",
+  "model": "glm-5.3"
+}

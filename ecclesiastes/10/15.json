@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Mkpọ ọrụ nke ndị nzuzu na-eme ka ha mebie — n'ihi na ha amaghị otu e si aga n'obodo.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "mkpọ ọrụ"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "nke ndị nzuzu"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "na-eme ka ha mebie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "amaghị"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "e si aga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    }
+  ],
+  "timestamp": "2026-08-27T15:16:12.404016439Z",
+  "model": "glm-5.3"
+}

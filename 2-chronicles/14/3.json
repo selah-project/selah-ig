@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ọ gwara Yehuda ka ha chọọ ⟨את⟩ Yahwe, Elohim nna nna ha, ma mee ⟨את⟩ iwu na iwu nke iwu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ọ gwara"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ka ha chọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "nna nna ha"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "iwu nke iwu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:12:35.365091573Z",
+  "model": "glm-5.3"
+}

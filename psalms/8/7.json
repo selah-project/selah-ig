@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ị na-eme ka ọ na-achị ⟨את⟩ ọrụ aka gị; ihe niile Ị tinyere n'okpuru ụkwụ ya.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "Ị na-eme ka ọ na-achị"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "n'ime ọrụ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "Ị tinyere"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ụkwụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:34.325164842Z",
+  "model": "glm-5.3"
+}

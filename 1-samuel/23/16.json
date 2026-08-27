@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Yehonatan nwa Shaul bilie wee gaa na David na Horesha, wee sie ⟨את⟩ aka ya ike na Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bilie"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "Horesha"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "sie ike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka ya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "na Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T09:18:14.783258332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ha gafere ⟨את⟩ Osimiri Yarden, ma bido ogige na Aroer, n'akụkụ aka nri nke ⟨obodo⟩ ahụ nke dị n'etiti ndagwurugwu nke Gad, ruo na Yazer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "ha gafere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Osimiri Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Osimiri Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ma bido ogige"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "na Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "akụkụ aka nri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ndagwurugwu ahụ"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "nke Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ruo na"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    }
+  ],
+  "timestamp": "2026-08-27T09:48:07.762392916Z",
+  "model": "glm-5.3"
+}

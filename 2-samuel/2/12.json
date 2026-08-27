@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 2:12",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Abner nwa Ner na ndị ohu Ish-Boshet nwa Shaul pụtara si Machanayim gaa Givaon.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "na ndị ohu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ממחנים",
+      "gloss": "si Machanayim"
+    },
+    {
+      "surface": "גבעונה",
+      "gloss": "Givaon"
+    }
+  ],
+  "timestamp": "2026-08-27T09:27:42.886126826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Paroh agaghị ekwụsịrị na-anụ ⟨unu⟩ okwu, mụ ga-etinye ⟨את⟩ aka m n'elu Mitsrajim, mụ ga-ewepụ ⟨את⟩ ndị agha m, ⟨את⟩ ndị m, ụmụ Yisrael, n'ala Mitsrajim site n'ikpe ndị ukwu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "anụ... okwu"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "⟨unu⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mụ ga-etinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka m"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "n'elu Mitsrajim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "mụ ga-ewepụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị agha m"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "ndị agha m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị m"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "site n'ikpe ndị"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ukwu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:18.155349629Z",
+  "model": "glm-5.3"
+}

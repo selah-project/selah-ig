@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 130,
+  "translation": "Abụ nke ndị na-ebili elu. Site n'ọdị mmiri miri emi ka m kpọrọ gị oku, Yahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nke ndị na-ebili elu"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Site n'ọdị mmiri miri emi"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ka m kpọrọ gị oku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:47.223442471Z",
+  "model": "glm-5.3"
+}

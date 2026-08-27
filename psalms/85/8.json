@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 85,
+  "translation": "Gosị anyị, Yahwe, chesed gị, ma nyekwa anyị nzọpụta gị.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Gosị anyị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed gị"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "ma nzọpụta gị"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nyekwa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:35.520903776Z",
+  "model": "glm-5.3"
+}

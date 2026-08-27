@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 67,
+  "translation": "Elohim ga-emeghe anyị ngọ, mmadụ niile n'ụgwụ nsọtụ ⟨nke⟩ ụwa ga-atụsịa ya egwu",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "ga-emeghe anyị ngọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mmadụ niile... ga-atụsịa egwu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mmadụ niile n'ụgwụ nsọtụ nke ụwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ụgwụ nsọtụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:28.173062408Z",
+  "model": "glm-5.3"
+}

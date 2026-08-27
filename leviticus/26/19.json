@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "M ga-emebikwa ⟨את⟩ obi ike ike unu, m ga-enyekwa ⟨את⟩ eluigwe unu ka ígwè, na ⟨את⟩ ala unu ka ọla kọpa.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "M ga-emebikwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi ike ike unu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ebube ugwu"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "ike unu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "m ga-enyekwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eluigwe unu"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "eluigwe unu"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "ka ígwè"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala unu"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ala unu"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "ka ọla kọpa"
+    }
+  ],
+  "timestamp": "2026-08-27T07:09:25.983497284Z",
+  "model": "glm-5.3"
+}

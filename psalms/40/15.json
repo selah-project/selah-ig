@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ka ha ṅụọ ihere ma jụọ ihere ọnụ, ndị na-achọ ndụ m i bibie ya; ka ha laghachi azụ ma ṅụọ ihere ọzọ, ndị na-atọ ụtọ na ihe ọjọọ m.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Ka ha ṅụọ ihere"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ma jụọ ihere"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ndị na-achọ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ndụ m"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "i bibie ya"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ka ha laghachi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "azụ"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ma ṅụọ ihere ọzọ"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ndị na-atọ ụtọ"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "na ihe ọjọọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:14.576199909Z",
+  "model": "glm-5.3"
+}

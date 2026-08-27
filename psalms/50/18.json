@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Ọ bụrụ na ị hụrụ onye ohi, ị na-agba ọsọ ya, na ndị na-akwata ịkwa iko ka òkè gị dị.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ị hụrụ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "onye ohi"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ị na-agba ọsọ ya"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "ndị na-akwata ịkwa iko"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "òkè gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:37.128302286Z",
+  "model": "glm-5.3"
+}

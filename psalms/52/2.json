@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "N'ịbịa nke Doeg onye Edom, ọ gwaṛa Sha'ul, ma sia ya: David ebiaala n'ụlọ Achimelek.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "N'ịbịa nke"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "onye Edom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ọ gwaṛa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma sia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ebiaala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelek"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:12.962084079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Noach wee mezie ihe niile nke Elohim nyere ya ⟨את⟩ iwu ya; otu a ka o mere.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wee mezie"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Noach)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    }
+  ],
+  "timestamp": "2026-08-27T05:27:23.309873702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "N'ihi na otu a ka Yahwe siri kwuo: ⟨⟨נמכרתם⟩⟩ n'efu ka a na-ere gị, ma ọ bụghị ego ka a ga-ezụta gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siri kwuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "n'efu"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "a na-ere gị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ego"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "a ga-ezụta gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:41:26.308449241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Rechavam wee gaa Shekema, n'ihi na na Shekem ka ⟨את⟩ Izrel niile bịara iji tinye ya n'ọchịchị.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wee gaa"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "iji tinye n'ọchịchị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Rechavam)"
+    }
+  ],
+  "timestamp": "2026-08-27T16:37:32.794638751Z",
+  "model": "glm-5.3"
+}

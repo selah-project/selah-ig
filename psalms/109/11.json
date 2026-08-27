@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Onye na-achụ ụgwọ were ọnyà were ihe niile o nwere, ndị ọbịa kwakọọkwa ọrụ aka ya.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "ọ na-etinye ọnyà"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "onye na-achụ ụgwọ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o nwere"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ha kwakọọ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ndị ọbịa"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "ọrụ aka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:49.552522979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ya wee bụrụ na Yahwe kwuru maka Moshe: Okwu ⟨את⟩ a nke ị gwara, m ga-emekwa ya; n'ihi na ị hụla amara n'anya m, ma m maara gị aha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ya wee kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọbụna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ị gwara"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "m ga-eme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "ị hụla"
+    },
+    {
+      "surface": "חן",
+      "gloss": "amara"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n'anya m"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "ma m maara gị"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:35:38.305636115Z",
+  "model": "glm-5.3"
+}

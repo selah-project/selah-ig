@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Davịd dina ala ka nna nna ya, ha tikwara ya ili n'obodo Davịd.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "dina ala ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nna nna ya"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ha tikwara ya ili"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    }
+  ],
+  "timestamp": "2026-08-27T09:50:26.362926281Z",
+  "model": "glm-5.3"
+}

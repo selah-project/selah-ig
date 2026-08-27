@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Mgbe ọ gwụchara ịsụ ya okwu, Elohim rịgooro elu site n'aka Avraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Mgbe ọ gwụchara"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ịsụ okwu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "rịgooro elu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "site n'aka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-27T05:33:47.089447426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Iṅụ iyi na asịghị ezi, na igbu mmadụ, na izu ohi, na ime ihe rụrụ arụ — ha agbawaala; na ọbara ruru ọbara.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Iṅụ iyi"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "na asịghị ezi"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "na igbu mmadụ"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "na izu ohi"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "na ime ihe rụrụ arụ"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "ha agbawaala"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "na ọbara"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ruo ọbara"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "ruru"
+    }
+  ],
+  "timestamp": "2026-08-27T12:39:56.440769472Z",
+  "model": "glm-5.3"
+}

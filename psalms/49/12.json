@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Ime obi ha sịrị: ụlọ ha dị ruo mgbe ebighị ebi, ebe obibi ha ruo ọgbọ na ọgbọ; ha kpọrọ aha ha n'ala ala.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "ime obi ha"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "ụlọ ha"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "dị ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "ebe obibi ha"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ruo ọgbọ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na ọgbọ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ha kpọrọ"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "aha ha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "ala ala"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:49.982846158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Onye na-agagharị na-ekesa akụkọ ọjọọ na-ekpughe nzuzo, ma onye nwere ruach nke eziokwu na-ezo okwu.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "onye na-agagharị"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "onye na-ekesa akụkọ ọjọọ"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "na-ekpughe"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "nzuzo"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "ma onye nwere eziokwu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "na-ezo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:21:19.984470349Z",
+  "model": "glm-5.3"
+}

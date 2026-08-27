@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ekwela ka ị mebie ⟨את⟩ nwa gị nwanyị iji mee ka ọ na-agba akwụna, ka ala ghara ịgba akwụna, ka ala ejupụtakwa na ajọ mmemme.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "ị mebie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa gị nwanyị"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "nwa gị nwanyị"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "iji mee ka ọ na-agba akwụna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka ... ghara"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "ịgba akwụna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ka ... ejupụta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ajọ mmemme"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:55.066648095Z",
+  "model": "glm-5.3"
+}

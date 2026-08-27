@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "⟨את⟩ Hụnụ n'ịhụnanya ⟨את⟩ Yahwe, ndị nsọ Ya niile; Yahwe na-echebe ndị kwesịrị ntụkwasị obi, ma na-akwụ ọtọ onye na-eme ihe site n'ibu ike.",
+  "tokens": [
+    {
+      "surface": "אהבuo",
+      "gloss": "Hụnụ n'ịhụnanya",
+      "marks": ""
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "⟨את⟩ Hụnụ n'ịhụnanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ndị nsọ Ya"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ndị kwesịrị ntụkwasị obi"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "na-echebe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ma na-akwụ ọtọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "site"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "nke karịrị"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "onye na-eme"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ibu ike"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:03.788092961Z",
+  "model": "glm-5.3"
+}

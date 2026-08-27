@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 3:1",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ndị a bụ ụmụ Dawid ndị a mụrụ ya na Chevron: nwa mbụ Amnon, nke Achinoam nwaanyị Jezreel; nke abụọ Daniyel, nke Abigayil nwaanyị Karmel.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "a mụrụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "na Chevron"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "nwa mbụ"
+    },
+    {
+      "surface": "אמנן",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "nke Achinoam"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "nwaanyị Jezreel"
+    },
+    {
+      "surface": "שני",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "לאביגיל",
+      "gloss": "nke Abigayil"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "nwaanyị Karmel"
+    }
+  ],
+  "timestamp": "2026-08-27T15:53:35.744009168Z",
+  "model": "glm-5.3"
+}

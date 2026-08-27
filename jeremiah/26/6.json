@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 26:6",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "mgbe ahụ, m ga-eme ⟨את⟩ ụlọ a dịka Shiloh, ma ⟨את⟩ obodo a ka m ga-enye ka ọ bụrụ nkụcha nye mba niile nke ⟨the⟩ ụwa.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "m ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ a"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "dịka Shiloh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma ⟨את⟩",
+      "marks": "obodo a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "הזאתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "m ga-enye"
+    },
+    {
+      "surface": "לקללה",
+      "gloss": "ka ọ bụrụ nkụcha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nye niile"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "mba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T11:33:53.423964498Z",
+  "model": "glm-5.3"
+}

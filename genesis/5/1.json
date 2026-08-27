@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Nke a bu akwukwo nke mmuta nke Adam; na ubochi Elohim kere Adam, na onyinyo Elohim ka o mere ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "akwukwo"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nke mmuta"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na ubochi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "na onyinyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka o mere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:30.756003843Z",
+  "model": "glm-5.3"
+}

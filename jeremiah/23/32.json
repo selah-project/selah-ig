@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 23:32",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Lee, m na-anọ ná ndị na-amụ ama nrọ ụgha, nkwuputa Yahwe; ha na-akọ ha ma na-edu ⟨את⟩ ndị m n'ihi ụgha ha na enweghị isi ha; ma m, m ezitereghị ha, m enyekwara ha iwu ọ bụla — uru ọ bụla ha agaghị enye ndị a, nkwuputa Yahwe.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "lee, m dị"
+    },
+    {
+      "surface": "על",
+      "gloss": "ná"
+    },
+    {
+      "surface": "נבאי",
+      "gloss": "ndị na-amụ ama"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "nrọ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkwuputa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויספרום",
+      "gloss": "ha na-akọ ha"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "ma na-edu n'ụzọ hiere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị m"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "בשקריהם",
+      "gloss": "n'ihi ụgha ha"
+    },
+    {
+      "surface": "ובפחזותם",
+      "gloss": "na enweghị isi ha"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "m ezitere ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghịkwa"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "m nyere ha iwu"
+    },
+    {
+      "surface": "והועיל",
+      "gloss": "nakwa uru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụla…ọ bụghị"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ha agaghị enye"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkwuputa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:31:54.825266343Z",
+  "model": "glm-5.3"
+}

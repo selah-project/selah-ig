@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ma nke ndị kacha daa ogbenye n'ala ahụ ka onye-isi ndị-egbu-ehi hapụrụ, ka ha na-akọ mmanya na ihe ọkụkụ.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "nke ndị kacha daa ogbenye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n'ala ahụ"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "hapụrụ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "onye-isi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ndị-egbu-ehi"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "ka ha na-akọ mmanya"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "na ihe ọkụkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:32:10.915926713Z",
+  "model": "glm-5.3"
+}

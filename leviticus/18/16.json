@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ọṅụ ọṅụ nke nwunye nwanne gị ị gaghị ekpughe; ọṅụ ọṅụ nke nwanne gị ka ọ bụ.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ọṅụ ọṅụ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ị ga-ekpughe"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ọṅụ ọṅụ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ka ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:56:19.338218888Z",
+  "model": "glm-5.3"
+}

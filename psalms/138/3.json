@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 138,
+  "translation": "N'ụbọchị m kpọrọ oku, Ị zara m; Ị nyere m obi ike na ndụ m ike.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "N'ụbọchị"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "m kpọrọ oku"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "Ị zara m"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "Ị nyere m obi ike"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "na ndụ m"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ike"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:57.323714283Z",
+  "model": "glm-5.3"
+}

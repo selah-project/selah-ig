@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Unu zara m ⟨את⟩ ma unu kwuru, Okwu ọma ka ị ga-eme.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "Unu zara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "ma unu kwuru"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Okwu ọma"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "Okwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ị kwuru"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ga-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T16:29:19.029371805Z",
+  "model": "glm-5.3"
+}

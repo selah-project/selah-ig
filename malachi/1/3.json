@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ⟨את⟩ Esau ka m jụrụ iro; m mebere ⟨את⟩ ugwu ya ka ọ bụrụ mkpọfu, na ⟨את⟩ ihe nketa ya bụ ebe anụ ọhịa nke ọzara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "m jụrụ iro"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "m mebere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugwu ya"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "ugwu ya"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "mkpọfu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe nketa ya"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ihe nketa ya"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "maka anụ ọhịa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ọzara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:09:20.950487890Z",
+  "model": "glm-5.3"
+}

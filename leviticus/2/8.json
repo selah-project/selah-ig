@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ma ị ga-ewetara Yahwe ⟨את⟩ mincha nke a ga-eme site n'ụzọ ndị a; mmadụ ga-eweta ya n'aka nchụ-aja, ma ọ ga-eru ya n'ụsọ ebe ịchụ-aja.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Ma ị ga-ewetara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mincha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a ga-eme"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "site n'ụzọ ndị a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "ga-eweta ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "nchụ-aja"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "ga-eru ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ụsọ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụ-aja"
+    }
+  ],
+  "timestamp": "2026-08-27T06:43:40.441372519Z",
+  "model": "glm-5.3"
+}

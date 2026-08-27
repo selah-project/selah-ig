@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 88,
+  "translation": "A ga-akọ akụkọ banyere chesed gị n'ili? Eziokwu gị n'Abadọn?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "a ga-akọ akụkọ"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "n'ili"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed gị"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "eziokwu gị"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "n'Abadọn"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:26.618809249Z",
+  "model": "glm-5.3"
+}

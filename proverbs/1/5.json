@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Onye ama ama ga-anụ, ma gbakwunye ihe ọmụma, ma onye nghọta ga-enweta atụmatụ nduzi.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ga-anụ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "onye ama ama"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ma gbakwunye"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ihe ọmụma"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "ma onye nghọta"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "atụmatụ nduzi"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "ga-enweta"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:24.460158862Z",
+  "model": "glm-5.3"
+}

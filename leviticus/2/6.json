@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Chiri ya nke ọma n'iberibe, ma tinye mmanụ n'elu ya; mincha ka ọ bụ.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "chiri nke ọma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iberibe"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "n'iberibe"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ka ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:43:40.441087612Z",
+  "model": "glm-5.3"
+}

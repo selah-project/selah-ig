@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "M ga-asapụ aka m n'ịdị ọcha, m ga-agagharịrị gburugburu ⟨את⟩ ebe ịchụàjà gị, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "m ga-asapụ"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "n'ịdị ọcha"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "m ga-agagharịrị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe ịchụàjà gị"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "ebe ịchụàjà gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:39.318128275Z",
+  "model": "glm-5.3"
+}

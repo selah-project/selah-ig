@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Yaakov wee gwuo Yosef, sị: El Shaddai pụtara n'ihu m na Luz, n'ala Kenan, o wee gọzie ⟨את⟩ m.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee gwuo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-",
+      "gloss_note": "ruo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "pụtara n'ihu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "na Luz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "o wee gọzie"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ m",
+      "marks": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T06:02:34.383496642Z",
+  "model": "glm-5.3"
+}

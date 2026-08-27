@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ma mgbe atụrụ na-adịghị ike na-amịọ, ọ naghị etinye ha; ndị na-adịghị ike ahụ bụ nke Lavan, ndị ike ahụ bụkwa nke Yaakov.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "ma mgbe ọ na-adịghị ike"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ naghị"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "etinye"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ọ dị na"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "ndị na-adịghị ike ahụ"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "nke Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "ndị ike ahụ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "nke Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-27T05:47:21.184030105Z",
+  "model": "glm-5.3"
+}

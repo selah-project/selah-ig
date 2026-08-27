@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma ndị a ⟨bụ⟩ aha ụmụ Aharon: nwa mbụ Nadav, na Avihu, Elazar, na Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ma ndị a"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "nwa mbụ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "na Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "na Itamar"
+    }
+  ],
+  "timestamp": "2026-08-27T07:13:34.687757195Z",
+  "model": "glm-5.3"
+}

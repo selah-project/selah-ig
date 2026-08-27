@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 11:5",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Eze ⟨nke⟩ ndịda ga-esi ike, ya na otu n'ime ndị isi ya; ma otu ahụ ga-esi ike karịa ya, ga chịkwa ọchịchị; ọchịchị ukwu ka ọchịchị ya ga-abụ.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ga-esi ike"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "⟨nke⟩ ndịda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ya na otu n'ime"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ndị isi ya"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ga-esi ike karịa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "karịa ya"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ga chịkwa ọchịchị"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "ọchịchị"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ọchịchị ya ga-abụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:33:31.204679033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 88,
+  "translation": "Ha gbara m gburugburu dị ka mmiri, ụbọchị niile; ha dakọtara gburugburu m mgbe ọnụ.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "gbara m gburugburu"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "dị ka mmiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "dakọtara gburugburu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mgbe ọnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:55.298939722Z",
+  "model": "glm-5.3"
+}

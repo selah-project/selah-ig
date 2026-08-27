@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "O nyere ha ⟨את⟩ ebere, n'ihu ndị jidere ha niile n'agbụ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "o nyere"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "ebere"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "ndị jidere ha n'agbụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:48.237828803Z",
+  "model": "glm-5.3"
+}

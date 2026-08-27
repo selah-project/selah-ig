@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "O wee ruo mgbe alaeze siri ike n'aka ya, ọ gburu ⟨את⟩ ndị ohu ya, bụ ndị gburu ⟨את⟩ eze nna ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "O wee ruo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "alaeze"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ọ gburu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ohu ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "bụ ndị na-egbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eze"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:23:34.091259705Z",
+  "model": "glm-5.3"
+}

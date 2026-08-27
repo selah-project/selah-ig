@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 115,
+  "translation": "Ọ bụghị anyị, Yahwe, ọ bụghị anyị, kama nye aha gị otuto, n'ihi ịhụnanya-ọgbụgba-ndụ gị, n'ihi eziokwu gị.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kama\/n'ihi"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "תן",
+      "gloss": "nye"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "otuto"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ịhụnanya-ọgbụgba-ndụ gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "eziokwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:35.534514062Z",
+  "model": "glm-5.3"
+}

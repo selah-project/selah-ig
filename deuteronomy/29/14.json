@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "kama ⟨את⟩ onye nọ ebe a, anyị na ya, guzo taa n'ihu Yahwe Elohim anyị, nakwa ⟨את⟩ onye nọghị ebe a, anyị na ya, taa",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye nọ ebe a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "nọ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ebe a"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "anyị na ya"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "guzo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onye nọghị ebe a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nọghị"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ebe a"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "anyị na ya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    }
+  ],
+  "timestamp": "2026-08-27T08:13:15.758303662Z",
+  "model": "glm-5.3"
+}

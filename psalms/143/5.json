@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 143,
+  "translation": "Echetala m ụbọchị ndị oge gara-aga; m na-atụgharị uche n'ihe ndị ọ rụrụ niile; n'ihe aka gị rụrụ ka m na-agbasa uche.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "echetala m"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị ndị"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "oge gara-aga"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "m na-atụgharị uche"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ihe ndị ọ rụrụ niile"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "n'ihe"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "aka gị rụrụ"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "m na-agbasa uche"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:34.120258283Z",
+  "model": "glm-5.3"
+}

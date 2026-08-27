@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "M ga-etinye ebe obibi m n'etiti unu, ma mmụọ ndụ m agaghị ajụ unu Ọjọ.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "m ga-etinye"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "ebe obibi m"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "n'etiti unu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ... agaghị"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ajụ Ọjọ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mmụọ ndụ m"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:06:43.416771662Z",
+  "model": "glm-5.3"
+}

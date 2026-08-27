@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Mgbe ya gasịrị, ọ were ⟨את⟩ Maaka nwa Avshalom; ọ mụrọ ya ⟨את⟩ Aviya, ⟨את⟩ Attai, ⟨את⟩ Ziza, ⟨את⟩ Shlomit.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "mgbe ya gasịrị"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ọ were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaka"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ọ mụrọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Attai"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Attai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shlomit"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shlomit"
+    }
+  ],
+  "timestamp": "2026-08-27T16:10:57.994996289Z",
+  "model": "glm-5.3"
+}

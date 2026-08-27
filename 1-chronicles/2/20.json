@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Chur mụrụ ⟨את⟩ Uri, Uri mụrụkwa ⟨את⟩ Betsalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    }
+  ],
+  "timestamp": "2026-08-27T15:51:39.053943358Z",
+  "model": "glm-5.3"
+}

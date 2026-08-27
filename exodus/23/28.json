@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "M ga-eziga ⟨את⟩ ndanda n'ihu gị, ọ ga-achụ ⟨את⟩ ndị Hivi, ⟨את⟩ ndị Kenan, na ⟨את⟩ ndị Hiti n'ihu gị.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "m ga-eziga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndanda"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ndanda"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "ọ ga-achụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Hivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ndị Hivi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Kenan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ndị Kenan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndị Hiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ndị Hiti"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "n'ihu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:21.987662329Z",
+  "model": "glm-5.3"
+}

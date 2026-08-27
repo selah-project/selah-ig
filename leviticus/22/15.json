@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ha agaghị eme ⟨את⟩ ihe nsọ nke ụmụ Yisrael ka ọ bụrụ ihe rụrụ arụ, ⟨את⟩ ihe ha na-ebuli elu nye Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma ha agaghị"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "eme ka ọ bụrụ ihe rụrụ arụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe nsọ nke ụmụ Yisrael"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ihe nsọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ha na-ebuli elu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "ha na-ebuli elu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nnye Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:46.893909572Z",
+  "model": "glm-5.3"
+}

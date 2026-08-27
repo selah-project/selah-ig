@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ọ bụ ya kụrụ ⟨את⟩ Ndị-Pelishtị ruo Aza na ⟨את⟩ ókèala ya, site n'elu ili ndị nche ruo n'obodo e wusiri ike.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ ya"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "kụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ndị-Pelishtị"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ndị-Pelishtị"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ókèala ya"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ókèala ya"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "site n'elu ili"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "ndị nche"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "e wusiri ike"
+    }
+  ],
+  "timestamp": "2026-08-27T10:23:44.879636174Z",
+  "model": "glm-5.3"
+}

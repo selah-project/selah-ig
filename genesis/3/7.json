@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 3:7",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Anya nke ha abụọ mịpụtara, ha wee mata na ha gba ọtọ; ha wee jikọta akwụkwọ osisi akwụkwọ ndị enu enu ma mee ha ümü na-ekpuchi úkwù.",
+  "tokens": [
+    {
+      "surface": "ותפקחנה",
+      "gloss": "mịpụtara"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Anya"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "nke ha abụọ"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ha wee mata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עירמם",
+      "gloss": "ha gba ọtọ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ויתפרו",
+      "gloss": "ha wee jikọta"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "akwụkwọ"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "osisi akwụkwọ ndị enu enu"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "ihe na-ekpuchi úkwù"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:17.231445963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "N'ihi na Yahwe na-enye amamihe; site n'ọnụ ya ka amamihe-mara-ihe na nghọta na-esi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "site n'ọnụ ya"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "amamihe-mara-ihe"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "na nghọta"
+    }
+  ],
+  "timestamp": "2026-08-27T14:12:07.076071281Z",
+  "model": "glm-5.3"
+}

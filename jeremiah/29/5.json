@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Rụọ ụlọ ma bie na ha; kụọ ubi ma rie ⟨את⟩ mkpụrụ ha.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "rụọ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ma bie na ha"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "kụọ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ma rie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpụrụ ha"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "mkpụrụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:36:50.989626701Z",
+  "model": "glm-5.3"
+}

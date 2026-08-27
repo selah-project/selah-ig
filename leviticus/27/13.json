@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ma ọ bụrụ na ọ ga-azọpụta ya n'ezie, ọ ga-agbakwụnye otu n'ime ise ya n'elu ọnụahịa gi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ga-azọpụta"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "ọ ga-azọpụta ya"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ọ ga-agbakwụnye"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "otu n'ime ise ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ọnụahịa gi"
+    }
+  ],
+  "timestamp": "2026-08-27T07:10:08.235288373Z",
+  "model": "glm-5.3"
+}

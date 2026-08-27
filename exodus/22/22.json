@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ọ bụrụ na unu kwesịrị ime ha mkpagbu — n'ihi na ọ bụrụ na ha tie mkpu na-eru m, m ga-anụrị mkpu ha nke ọma.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ime mkpagbu"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "unú kwesịrị ime ha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "tie mkpu"
+    },
+    {
+      "surface": "יצעע",
+      "gloss": "ha ga-etie mkpu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na-eru m"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "anụrị"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "m ga-anụrị nke ọma"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "mkpu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:24:13.044383709Z",
+  "model": "glm-5.3"
+}

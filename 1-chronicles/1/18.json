@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Arpakhshad mụrụ ⟨את⟩ Shelakh, Shelakh wee mụọ ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpakhshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelakh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "Shelakh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-08-27T15:50:51.181878348Z",
+  "model": "glm-5.3"
+}

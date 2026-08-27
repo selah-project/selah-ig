@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ị gaghị ebi ⟨⟨mgba-ndụ⟩⟩ ha, na nke chi ndị ha, ọnụ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ị na-ebi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "na nke chi ndị ha"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "mgba-ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:59.764514545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Onye ọ bụla nne ya na nna ya ka ⟨ọ⟩ ga-atụ egwu, ma ⟨את⟩ ubọchi mgbazịume nke m ka unu ga-elekọta; m bụ Yahwe, Elohim unu.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nne ya"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "na nna ya"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "unu ga-atụ egwu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ubọchi mgbazịume nke m"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ubọchi mgbazịume nke m"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "unu ga-elekọta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:27:12.522779782Z",
+  "model": "glm-5.3"
+}

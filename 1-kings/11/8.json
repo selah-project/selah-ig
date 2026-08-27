@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Otụkwa nke ahụ ka o mere maka ụmụ nwunye ya niile ndị mba ọzọ, ndị na-ere ụgha na-echuaja chi ha.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "otụkwa nke ahụ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka niile"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ụmụ nwunye ya"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "ndị mba ọzọ"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "na-ere ụgha"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "na-echuaja"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "chi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:59:44.765823478Z",
+  "model": "glm-5.3"
+}

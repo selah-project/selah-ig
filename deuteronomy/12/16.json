@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Naanị ọbara, unu erighị ya; tinye ya n'ala dịka mmiri.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "erighị"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "unu ... ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "tinye ya"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "dịka mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T08:00:19.753742263Z",
+  "model": "glm-5.3"
+}

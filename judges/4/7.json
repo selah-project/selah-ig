@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 4:7",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "M ga-adọkwa gị were Sisera, onye-isi-ndị-agha nke Yavin, ⟨את⟩ ya na ⟨את⟩ ịnyịnya-ya-agha na ⟨את⟩ ọtụtụ-ya, rue mmiri asọ nke Kishon; m ga-enyegide ya n'aka gị.",
+  "tokens": [
+    {
+      "surface": "ומשכתי",
+      "gloss": "M ga-adọkwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rue"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mmiri asọ"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "nke Kishon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sisera"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onye-isi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ndị-agha"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "nke Yavin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ịnyịnya-ya-agha"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ịnyịnya-ya-agha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọtụtụ-ya"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "ọtụtụ-ya"
+    },
+    {
+      "surface": "ונתתיהו",
+      "gloss": "m ga-enyegide"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "n'aka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:44:16.873411237Z",
+  "model": "glm-5.3"
+}

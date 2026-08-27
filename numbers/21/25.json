@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ya akpo, Yisraël weere ⟨את⟩ obodo ndị a niile, ma Yisraël bikwa n'obodo niile nke HaEmori, na Cheshbon na n'obodo nwaanyị ya niile.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "weere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ndị a niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "obodo ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bikwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na...niile"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "nke HaEmori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "na Cheshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na...niile"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "obodo nwaanyị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:31:10.008561135Z",
+  "model": "glm-5.3"
+}

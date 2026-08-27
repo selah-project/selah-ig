@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 63,
+  "translation": "N'ihi na chesed gị dị mma karịa ndụ, mkpọrọ ọnụ m ga-eto gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dị mma karịa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed gị"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "karịa ndụ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mkpọrọ ọnụ m"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "ga-eto gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:33.750917562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "ka ala ghara igbọ ⟨את⟩ unu mgbe unu na-eru ya unyo, dịka ọ gbọrọ ⟨את⟩ mba bụ nọ n'ihu unu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ka... ghara"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "igbọ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "na-eru ya unyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "gbọrọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "mba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "nọ n'ihu unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:57:48.200568970Z",
+  "model": "glm-5.3"
+}

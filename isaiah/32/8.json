@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Ma onye nwere obiọma na-eche atụmatụ ndị nwere obiọma, ma ọ ga-eduzi n'ihi ihe ndị nwere obiọma.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "ma onye nwere obiọma"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "ihe ndị nwere obiọma"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "na-eche atụmatụ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma ọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "ihe ndị nwere obiọma"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ga-eduzi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:50:41.121100961Z",
+  "model": "glm-5.3"
+}

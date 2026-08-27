@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Akwà mma ndị dike gbachapụrụ, ma ndị dara ada kee ike ukwu.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "akwà mma"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "ndị dike"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "gbachapụrụ"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "ma ndị dara ada"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "kee ike ukwu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ike"
+    }
+  ],
+  "timestamp": "2026-08-27T08:59:34.681004913Z",
+  "model": "glm-5.3"
+}

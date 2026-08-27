@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "N'ihi na ndị ozi ya, ⟨ọ⟩ ga-enyere gị iwu ka ha chebe gị n'ụzọ gị niile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ndị ozi ya"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ga-enyere iwu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "ka ha chebe gị"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'... niile"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ụzọ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:01.971826860Z",
+  "model": "glm-5.3"
+}

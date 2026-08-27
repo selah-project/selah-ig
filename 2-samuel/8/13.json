@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma David nwetara aha mgbe ọ laghachiri site n'itiku ⟨את⟩ Aram na ndagwurugwu nnu — puku iri na asatọ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ma...nwetara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "mgbe ọ laghachiri"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "site n'itiku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "na ndagwurugwu"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "nnu"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "asatọ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    }
+  ],
+  "timestamp": "2026-08-27T09:32:18.978316036Z",
+  "model": "glm-5.3"
+}

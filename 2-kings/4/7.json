@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọ bịara, wee kọọrọ nwoke nke Elohim; ọ sịrị, 'Gaa, ree ⟨את⟩ mmanụ ahụ, kwụọ ⟨את⟩ ụgwọ gị; gị na ụmụ gị ga-adị ndụ site na nke fọdụrụ.'",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Ọ bịara"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "kọọrọ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sịrị"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Gaa"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "ree"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmanụ ahụ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mmanụ ahụ"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "kwụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụgwọ gị"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "ụgwọ gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gị"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "ụmụ gị"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "ga-adị ndụ"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "site na nke fọdụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:15:16.131183341Z",
+  "model": "glm-5.3"
+}

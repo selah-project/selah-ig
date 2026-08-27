@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Nwa m, Ọ bụrụ na ndị mmehie na-agbalịa gị ịchụ gị n'iyi, ọ dịla gị mma ịnakwere.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Nwa m"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "na-agbalịa gị ịchụ gị n'iyi"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ndị mmehie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ọ dịla"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "gị mma ịnakwere"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:09.569528759Z",
+  "model": "glm-5.3"
+}

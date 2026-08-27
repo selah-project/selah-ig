@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ya mere, a ga-ekwu ya n'akwụkwọ nke agha ndị Yahwe: ⟨את⟩ Vaheb na Suphah, na ⟨את⟩ iyi ndị Arnon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a ga-ekwu ya"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "n'akwụkwọ"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "nke agha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vaheb"
+    },
+    {
+      "surface": "והב",
+      "gloss": "Vaheb"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "na Suphah"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "yiyi ndị Arnon"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "yiyi ndị"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnon"
+    }
+  ],
+  "timestamp": "2026-08-27T07:31:25.040695117Z",
+  "model": "glm-5.3"
+}

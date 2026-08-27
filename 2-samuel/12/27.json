@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Yoab zitere ndị ozi ruo n'aka David, ma sị: Alụgoro m ọgụ na Rabbah, nakwa na mewo ⟨את⟩ obodo mmiri.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "zitere"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ndị ozi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo n'aka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma sị"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "alụgoro m ọgụ"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "na Rabbah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "mewo m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo mmiri"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T09:35:43.045668179Z",
+  "model": "glm-5.3"
+}

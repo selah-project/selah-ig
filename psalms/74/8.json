@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Ha kwuru n'obi ha sị, 'Ka anyị kwụsị ha ọnụ'; ha gbara ọkụrụ ebe nzukọ niile nke El n'ala.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ha kwuru"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "n'obi ha"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "ka anyị kwụsị ha"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ha gbara ọkụrụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "ebe nzukọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:07.104651575Z",
+  "model": "glm-5.3"
+}

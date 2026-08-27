@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ị ga-ekpuchikwa ya ⟨את⟩ ọlaedo dị ọcha, ma mee ya mgbanaka ọlaedo gburugburu.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "ị ga-ekpuchikwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mgbanaka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:28:59.278944556Z",
+  "model": "glm-5.3"
+}

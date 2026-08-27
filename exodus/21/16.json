@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Onye na-ezu mmadụ ma ree ya, ma a chọta ya n'aka ya, ọ ga-anwụ anwụ.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Onye na-ezu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "ma ree ya"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "ma a chọta ya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "anwụ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ọ ga-anwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:24:17.731458381Z",
+  "model": "glm-5.3"
+}

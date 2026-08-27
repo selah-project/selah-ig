@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ọ ga-abụ na ọ bụrụ na ọ bụ ndị mmehie n'otu n'ime ihe ndị a, ọ ga-ekwupụta mmehie ọ rụrụ n'ihe ahụ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "ọ bụ ndị mmehie"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "n'otu"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "n'ime ihe ndị a"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "ọ ga-ekwupụta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ọ rụrụ (mmehie)"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "n'ihe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:47:30.192053195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "O were ha, ma mee ka ha gafee ⟨את⟩ mmiri ahụ na-asọ, ma mee ka ihe niile ọ nwere gafee.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "o were ha"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "ma mee ka ha gafee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmiri ahụ na-asọ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "mmiri ahụ na-asọ"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ma mee ka ọ gafee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile ọ nwere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ọ nwere"
+    }
+  ],
+  "timestamp": "2026-08-27T05:47:58.429543904Z",
+  "model": "glm-5.3"
+}

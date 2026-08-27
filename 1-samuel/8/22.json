@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 8:22",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Yahwe wee sị Shemuël: Gụọ olu ha, ma mee ka eze dina ha. Shemuël wee sị ndị ikom Yisraël: Gaa, onye ọ bụla n'obodo ya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sị"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Gụọ"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "olu ha"
+    },
+    {
+      "surface": "והמלכת",
+      "gloss": "ma mee ka eze dina"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sị"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Gaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "n'obodo ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:00:48.899551051Z",
+  "model": "glm-5.3"
+}

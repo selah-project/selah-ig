@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ya bụ na Mitzrayim manyere ⟨את⟩ ụmụ Yisrael ịrụ ọrụ n'obi ike.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ha wee manye-ịrụ-ọrụ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "n'obi ike"
+    }
+  ],
+  "timestamp": "2026-08-27T06:06:38.577164590Z",
+  "model": "glm-5.3"
+}

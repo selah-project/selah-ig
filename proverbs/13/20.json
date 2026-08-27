@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Onye na-aga ⟨את⟩ ndị amamihe ga-amụ amamihe; ma onye na-ejere ndị nzuzu ibe ga-emebi.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "onye na-aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị amamihe"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ndị amamihe"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ga-amụ amamihe"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ma onye na-ejere ibe"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ndị nzuzu"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ga-emebi"
+    }
+  ],
+  "timestamp": "2026-08-27T16:50:46.576889511Z",
+  "model": "glm-5.3"
+}

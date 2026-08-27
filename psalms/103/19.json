@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "Yahwe n'eluigwe edoola ocheeze ya, na alaeze ya na-achị ihe niile",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "edoola"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ocheeze ya"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "na alaeze ya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "na-achị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:27.690964507Z",
+  "model": "glm-5.3"
+}

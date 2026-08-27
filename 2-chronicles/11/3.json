@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "\"Gwa Rehavam, nwa Shelomah, eze Yehuda, na ⟨את⟩ mmadụ niile nke Yisrael ndị nọ na Yehuda na Binyamin, na-ekwu:",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Gwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ruo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "madụ niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "na Binyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:11:15.624760180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Mizmor, abụ nke mmalite-eji-mmanụ nke ⟨את⟩ ụlọ ahụ, nke David.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "mmalite-eji-mmanụ (chanukat)"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ ahụ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:26.083273814Z",
+  "model": "glm-5.3"
+}

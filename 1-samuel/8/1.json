@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ dịkwa mkpa na mgbe Shemuël toro okenye, o dozi ⟨את⟩ ụmụ ya nwoke ka ha bụrụ ndị ikpe maka Yisraël.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dị mkpa na"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "toro okenye"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o dozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ya nwoke"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya nwoke"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ka ha bụrụ ndị ikpe"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "maka Yisraël"
+    }
+  ],
+  "timestamp": "2026-08-27T09:01:34.612675803Z",
+  "model": "glm-5.3"
+}

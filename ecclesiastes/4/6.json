@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọ dị mma mmaju otu akpa aka n'ihi izu ike, karị mmaju abụọ nke ọkpụ aka abụọ n'ihi ọrụ ike na mkpasu nke mmụọ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mmaju"
+    },
+    {
+      "surface": "כף",
+      "gloss": "akpa aka"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "izu ike"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "karị mmaju"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "ọkpụ aka abụọ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ọrụ ike"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "na mkpasu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mmụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:13:54.431294830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Osimiri, olu mmiri ya na-eme ka obodo Elohim nọrọ n'ọṅụ, ebe nsọ nke ebe obibi nke El Elyon.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "osimiri"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "olu mmiri ya"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "na-eme ka ... nọrọ n'ọṅụ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ebe nsọ"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "ebe obibi nke"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:48.811159502Z",
+  "model": "glm-5.3"
+}

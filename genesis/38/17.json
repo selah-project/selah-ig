@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "O kwuru, m ga-ezigara gị nwa ewu nke ìgwè atụrụ. O kwuru, ọ bụrụ na ịnye m ihe mgbapụta ruo mgbe ịzitere ya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o kwuru"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ga-ezi"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "nwa ewu"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "nke ewu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ìgwè atụrụ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o kwuru"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ịnye"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "ihe mgbapụta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "ịzitere ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:54:50.758569959Z",
+  "model": "glm-5.3"
+}

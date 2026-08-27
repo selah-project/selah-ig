@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 98,
+  "translation": "N'ihu Yahwe, n'ihi na ọ bịọla ikpe ⟨את⟩ ụwa; ọ ga-ikpe ⟨את⟩ tevel n'ụgwụ ziri ezi, na ⟨את⟩ mba ndị n'ịkwụwa ụkwụ.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ọ bịọla"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ ụwa",
+      "marks": "ụwa"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ọ ga-ikpe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨את⟩ tevel",
+      "marks": "tevel"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "n'ụgwụ ziri ezi"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "na ⟨את⟩ mba ndị",
+      "marks": "mba ndị"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "n'ịkwụwa ụkwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:34.948627090Z",
+  "model": "glm-5.3"
+}

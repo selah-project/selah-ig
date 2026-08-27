@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 128,
+  "translation": "Abụ nke ịrịgo. Oke ọṅụ nke onye ọ bụla na-atọ Yahwe ọjọ, onye na-aga n'ụzọ ya.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nke ịrịgo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Oke ọṅụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "na-atọ ọjọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "onye na-aga"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "n'ụzọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:15.989823950Z",
+  "model": "glm-5.3"
+}

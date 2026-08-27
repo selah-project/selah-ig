@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Yahwe Elohim wee sere ⟨את⟩ nwanyị ahụ: \"Gịnị ka i mere nke a?\" Nwanyị ahụ wee zaa: \"Agwọ ahụ ghọgbasiri m, m wee rie.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ere nwanyị ahụ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Gịnị"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i mere"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ọ wee zaa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Nwanyị ahụ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Agwọ ahụ"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "ọ ghọgbasiri m"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "m wee rie"
+    }
+  ],
+  "timestamp": "2026-08-27T17:09:43.437797653Z",
+  "model": "glm-5.3"
+}

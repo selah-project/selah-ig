@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "N'ihi iwe gị na ajọ iwe gị; n'ihi na ⟨ị⟩ welitere m ma tinye m gbadaa.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "iwe gị"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "na ajọ iwe gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "ị welitere m"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "ma tinye m gbadaa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:51.848661326Z",
+  "model": "glm-5.3"
+}

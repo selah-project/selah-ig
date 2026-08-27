@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 144,
+  "translation": "Yahwe, taa eluigwe gị ka ọ daa; metụ ugwu ndị ahụ ka ha na-esi ọkụ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "taa"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "eluigwe gị"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ka ọ daa"
+    },
+    {
+      "surface": "גע",
+      "gloss": "metụ"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "ugwu ndị ahụ"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ka ha na-esi ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:06.851636630Z",
+  "model": "glm-5.3"
+}

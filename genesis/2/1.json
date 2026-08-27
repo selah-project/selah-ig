@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Mgbe ahụ, a gwụchara ⟨⟩ eluigwe na ụwa, na ndị agha ha niile.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "a gwụchara"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨the⟩ eluigwe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na ụwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ndị agha ha"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:40.125695777Z",
+  "model": "glm-5.3"
+}

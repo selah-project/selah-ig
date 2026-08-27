@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 1:6",
+  "book": "habakkuk",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "N'ihi na le, m na-ebuli ⟨את⟩ ndị Kasdim, mba ahụ na-egbu mgbu na nke na-agba ọsọ nke ukwuu, nke na-eje n'obosala nke ụwa iji were ebe obibi ndị na-abụghị nke ha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "le, m"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "na-ebuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Kasdim"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "ndị Kasdim"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "mba ahụ"
+    },
+    {
+      "surface": "המר",
+      "gloss": "na-egbu mgbu"
+    },
+    {
+      "surface": "והנמהר",
+      "gloss": "na nke na-agba ọsọ nke ukwuu"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "nke na-eje"
+    },
+    {
+      "surface": "למרחבי",
+      "gloss": "n'obosala nke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "iji were"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "ebe obibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-abụghị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nke ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:57:54.801186834Z",
+  "model": "glm-5.3"
+}

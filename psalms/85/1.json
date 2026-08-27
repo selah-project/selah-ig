@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 85,
+  "translation": "Maka onye-nduzi egwu, maka ụmụ Korach, abụ-egwu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye-nduzi egwu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "maka ụmụ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ-egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:29.476153179Z",
+  "model": "glm-5.3"
+}

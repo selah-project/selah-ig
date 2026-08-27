@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Ndị nke Reuven wukwara ⟨את⟩ Cheshbon na ⟨את⟩ Eleale na ⟨את⟩ Kiryataim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndị nke"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wukwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Eleale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Eleale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryataim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryataim"
+    }
+  ],
+  "timestamp": "2026-08-27T07:42:24.662459400Z",
+  "model": "glm-5.3"
+}

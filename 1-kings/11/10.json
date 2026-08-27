@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "O nyechara ya iwu banyere okwu a — na ọ ga-ejide onwe ya ịgbaso chi ndị ọzọ — ma ọ echeghị ⟨את⟩ ihe Yahwe nyere iwu.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu ⟨a⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "na ọ ga-ejide onwe ya ịgbaghị"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "iso"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "gbaso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chi ndị"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ndị ọzọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ echeghị"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "echeghị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe Yahwe nyere iwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:36:54.811202671Z",
+  "model": "glm-5.3"
+}

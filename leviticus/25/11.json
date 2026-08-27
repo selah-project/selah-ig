@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Yovel ọ bụ — afọ nke iri na ise ka ọ ga-adị nye unu; unu agaghị akụ mkpụrụ, unu agaghị ekere ihe na-eto n'onwe ya ⟨את⟩, unu agaghị ekụkwa vaịn ndị a hapụrụ aka ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "nke iri na ise"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ọ ga-adị"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nye unu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "akụ mkpụrụ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma agaghị"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "ekere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe na-eto n'onwe ya"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "ihe na-eto n'onwe ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma agaghị"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "ekụ vaịn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaịn ndị a hapụrụ aka"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "vaịn ndị a hapụrụ aka"
+    }
+  ],
+  "timestamp": "2026-08-27T07:06:31.048150719Z",
+  "model": "glm-5.3"
+}

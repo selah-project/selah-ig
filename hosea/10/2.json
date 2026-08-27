@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Obi ha dị nkewa; ugbu a ha ga-enwe mmehie; Ọ ga-emebi ịchá ekpere ha, Ọ ga-emebikwa ihe oyiyi ha.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "dị nkewa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "obi ha"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ha ga-enwe mmehie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ọ"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "ga-emebi"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "ịchá ekpere ha"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "ga-emebikwa"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "ihe oyiyi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:43:29.586909401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ụmụ nwoke unu bụ maka Yahwe, Elohim nke unu; unu agaghị ebebe onwe unu, ma unu agaghị etinye agbaji isi n'etiti anya unu maka onye nwụrụ anwụ.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nke unu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "ebebe onwe unu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma aghị"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "etinye"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "agbaji isi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "anya unu"
+    },
+    {
+      "surface": "למת",
+      "gloss": "maka onye nwụrụ anwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:59:25.219278796Z",
+  "model": "glm-5.3"
+}

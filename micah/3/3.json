@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ndị riri anụ nke ndị m, ma yipụọ akpụkpọ ha n'elu ha, ha gbajiri ⟨את⟩ ọkpụkpụ ha, ha gbasaa ha dịka n'ite, dịka anụ n'etiti ite isi nri.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "riri"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "anụ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nke ndị m"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "akpụkpọ ha"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "n'elu ha"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "yipụọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọkpụkpụ ha"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ọkpụkpụ ha"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "gbajiri"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "gbasaa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "n'ite"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "dịka anụ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "ite isi nri"
+    }
+  ],
+  "timestamp": "2026-08-27T12:55:04.979017276Z",
+  "model": "glm-5.3"
+}

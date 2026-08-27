@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Tupu m ata ahụhụ, m na-ehi ụzọ; ma ugbu a, ejiri m nchebe chebe okwu gị.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "tupu"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "m ata ahụhụ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "na-ehi ụzọ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ma ugbu a"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "okwu gị"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ejiri m nchebe chebe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:27.723160833Z",
+  "model": "glm-5.3"
+}

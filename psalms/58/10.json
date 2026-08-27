@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 58,
+  "translation": "Tupu ite unu ghọta osisi ntu, dịka ihe dị ndụ, dịka ọkụ na-ere, ⟨Ọ⟩ na-efe ha pụọ.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "tupu"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ha ghọtara"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "ite unu"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "osisi ntu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ihe dị ndụ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ọkụ na-ere"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "ọ na-efe ha pụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:24.773895692Z",
+  "model": "glm-5.3"
+}

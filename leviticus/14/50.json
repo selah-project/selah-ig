@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ọ ga-egbu ⟨את⟩ nnụnụ ahụ otu n'ime ite ụrọ, n'elu mmiri dị ndụ.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ọ ga-egbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnụnụ ahụ otu"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "nnụnụ ahụ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ite"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ụrọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dị ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:53:32.104039715Z",
+  "model": "glm-5.3"
+}

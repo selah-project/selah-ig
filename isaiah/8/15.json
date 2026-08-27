@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọtụtụ ga-adakọ n'ime ha, ha ga-ada, ha ga-emebi, ha ga-atụọ n'ọnyà, ha ga-adaba n'aka.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "ha ga-adakọ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "n'ime ha"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ha ga-ada"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "ha ga-emebi"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "ha ga-atụọ n'ọnyà"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "ha ga-ejide"
+    }
+  ],
+  "timestamp": "2026-08-27T10:34:45.630434248Z",
+  "model": "glm-5.3"
+}

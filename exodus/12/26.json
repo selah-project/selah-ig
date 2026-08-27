@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ọ ga-abụkwa na ụmụ unu ga-ajụ unụ, sị: Gịnị bụ ọrụ a maka unu?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụkwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ha ga-asị"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ụmụ unu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị bụ"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:17:12.111627105Z",
+  "model": "glm-5.3"
+}

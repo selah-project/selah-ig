@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Le, m nyere ya ka ọ bụrụ onye akaebe nye mba ọ bụla, onye ndú na onye iwu nye mba ọ bụla.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "le"
+    },
+    {
+      "surface": "עד",
+      "gloss": "onye akaebe"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "mba ọ bụla"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "m nyere ya"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "onye ndú"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "na onye iwu"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mba ọ bụla"
+    }
+  ],
+  "timestamp": "2026-08-27T11:06:21.046411926Z",
+  "model": "glm-5.3"
+}

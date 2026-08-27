@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ya mere, na-ere gị uche nke ukwuu maka mkpụrụ obi gụ, ka hụnanya ⟨את⟩ Yahwe Elohim gị dịgide.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "na-ere gị uche"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "maka mkpụrụ obi gụ"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ka ịhụnanya dịgide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:38:20.173851904Z",
+  "model": "glm-5.3"
+}

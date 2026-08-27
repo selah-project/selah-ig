@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Chịkọtenu onwe unu, ọzọkwa chịkọtenu, ⟨mba⟩ a na-atụghị anya ya;",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "chịkọtenu onwe unu"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "ọzọkwa chịkọtenu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "mba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "a na-atụghị anya ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:01:11.130999134Z",
+  "model": "glm-5.3"
+}

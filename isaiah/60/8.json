@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Onye ndị a bụ, ndị na-efe dịka igwe ojii, dịka ndị nne nke ohere ụlọ ha si aga?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a bụ"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "dịka igwe ojii"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "na-efe"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "dịka ndị nne nke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si aga"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "ohere ụlọ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:09:03.694041278Z",
+  "model": "glm-5.3"
+}

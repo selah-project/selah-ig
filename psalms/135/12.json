@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 135,
+  "translation": "Ma nyere ala ha dị ka ihe ketara eketara, ihe ketara eketara nye Yisrael, ndị ya.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Ma nyere"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ala ha"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dị ka ihe ketara eketara"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ihe ketara eketara"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "nye Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:21.482314834Z",
+  "model": "glm-5.3"
+}

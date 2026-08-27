@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Lee, anya Yahwe dị n'akụkụ ndị na-atụ ya egwu, ndị na-echnụm atụ anya chesed ya.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lee"
+    },
+    {
+      "surface": "עין",
+      "gloss": "anya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dị n'akụkụ"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ndị na-atụ ya egwu"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "ndị na-atụ anya"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "maka chesed ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:14.387969352Z",
+  "model": "glm-5.3"
+}

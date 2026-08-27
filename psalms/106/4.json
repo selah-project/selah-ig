@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Cheta m, Yahwe, na mmasị ndị gị; leta m na nzọpụte gị.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Cheta m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "na mmasị"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndị gị"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "leta m"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "na nzọpụte gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:59.828060880Z",
+  "model": "glm-5.3"
+}

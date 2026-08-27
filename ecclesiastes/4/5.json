@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Onye nzuzu na-ejikọta ⟨את⟩ aka ya, ma na-eri ⟨את⟩ anụ ahụ ya.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "onye nzuzu"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "na-ejikọta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka ya"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ma na-eri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ahụ ya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "anụ ahụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:13:54.431019371Z",
+  "model": "glm-5.3"
+}

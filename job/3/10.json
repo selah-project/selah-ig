@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'ihi na ọ mechighị ọnụ ụzọ nke afọ ime m, ma zochikwa ihe mgbu n'anya m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "machaghị"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ọ mechighị"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "ọnụ ụzọ nke"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "afọ ime m"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ma zochikwa"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ihe mgbu"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "anya m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:50:18.755423531Z",
+  "model": "glm-5.3"
+}

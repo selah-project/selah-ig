@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 12:2",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ọtụtụ n'ime ndị na-ehi ụra n'ala uzọ ga-ete; ụfọdụ maka ndụ ruo mgbe ebighị ebi, ndị ọzọ maka ihere na ịkwa mkpu ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "ורבים",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "מישני",
+      "gloss": "n'ime ndị na-ehi ụra"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ala"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "uzọ"
+    },
+    {
+      "surface": "יקיצו",
+      "gloss": "ga-ete"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "לחיי",
+      "gloss": "maka ndụ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ma ndị a"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "maka ihere"
+    },
+    {
+      "surface": "לדראון",
+      "gloss": "na ịkwa mkpu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T15:34:05.808836993Z",
+  "model": "glm-5.3"
+}

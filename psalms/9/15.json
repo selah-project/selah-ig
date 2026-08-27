@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ka m nwee ike ịkọ otuto gị niile n'ọnụ ụzọ ada Zion; ka m jiri obi ụtọ dabanye na nzọpụta gị.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ka m nwee ike"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ịkọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "otuto gị"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "n'ọnụ ụzọ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ada"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "ka m jiri obi ụtọ dabanye"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "na nzọpụta gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:29.490200776Z",
+  "model": "glm-5.3"
+}

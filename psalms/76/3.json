@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 76,
+  "translation": "N'ebe Shalem ⟨⟨dị⟩⟩ ụlọikwuu Ya, na ebe obibi Ya na Tsiyon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dị"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "na Shalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "ụlọikwuu Ya"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "na ebe obibi Ya"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:49.696413685Z",
+  "model": "glm-5.3"
+}

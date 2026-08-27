@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ọ rụrụ ⟨את⟩ ụlọ ahụ ma mezue ya; ma ejiri osisi rụchaa ⟨את⟩ ụlọ ahụ, sụsụ na usoro osisi cedar.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Ọ rụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ ahụ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ ahụ"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "ma mezue ya"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "ma ejiri osisi rụchaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ ahụ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ ahụ"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "sụsụ"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "na usoro"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "osisi cedar"
+    }
+  ],
+  "timestamp": "2026-08-27T09:53:11.366715350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Onye nchụàjà ga-eme ⟨את⟩ ha — nke mbụ dịka onyinye mmehie, nke ọzọ dịka ọkụ-ọkụ; onye nchụàjà ga-eme mgbaghara maka ya n'ihu Yahwe n'ihi agbapụ ya.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "onyinye mmehie"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "nke ọzọ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ọkụ-ọkụ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ga-eme mgbaghara"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "agbapụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:59:43.726521137Z",
+  "model": "glm-5.3"
+}

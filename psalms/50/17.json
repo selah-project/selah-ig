@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Ma ị kpọrọ mmezịkọ nsọ n'ọnụ, ma tụfuo okwu m n'azụ gị.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma ị"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "kpọrọ nsọ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mmezịkọ nsọ"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ma tụfuo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu m"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "n'azụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:37.128087055Z",
+  "model": "glm-5.3"
+}

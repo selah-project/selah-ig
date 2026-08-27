@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ma n'ịda m aka, ha ṅụrị ụtọ ma chịkọta onwe ha; a chịkọtara ndị na-akụ m aka n'⟨elu⟩ m, m amaghị; ha dọwara m ma anaghị akwụsị.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "n'ịda m aka"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "ha ṅụrị ụtọ"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "ma chịkọta onwe ha"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "a chịkọtara"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "ndị na-akụ m aka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "m maghị"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "ha dọwara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "anaghị akwụsị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:06.630103999Z",
+  "model": "glm-5.3"
+}

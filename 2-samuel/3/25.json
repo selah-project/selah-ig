@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ị maara ⟨את⟩ Avner, nwa Ner, na ọ bịara ịghọgbu gị, ma ịmata ⟨את⟩ ịpụ gị na ⟨את⟩ ịbata gị, ma ịmata ⟨את⟩ ihe niile ⟨gị⟩ na-eme.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ị maara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "ịghọgbu gị"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ọ bịara"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ma ịmata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ịpụ gị"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "ịpụ gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ịbata gị"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "ịbata gị"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ma ịmata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨gị⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T09:31:07.730090021Z",
+  "model": "glm-5.3"
+}

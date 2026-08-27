@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 108,
+  "translation": "Nyere anyị enyemaka site n'ọgbaghara, maka na mwepụ nke mmadụ bụ ihe efu.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Nyere"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "enyemaka"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "site n'ọgbaghara"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "maka na ... ihe efu"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "mwepụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nke mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:24.867062690Z",
+  "model": "glm-5.3"
+}

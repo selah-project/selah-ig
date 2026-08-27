@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ma m ga-echeta ⟨את⟩ ọgbụgba-ndụ m na Yaakov, nakwa ⟨את⟩ ọgbụgba-ndụ m na Yitschak, nakwa ⟨את⟩ ọgbụgba-ndụ m na Avraham m ga-echeta, ma ⟨את⟩ ala ahụ m ga-echeta.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Ma m ga-echeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "m ga-echeta"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ma ala ahụ"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "m ga-echeta"
+    }
+  ],
+  "timestamp": "2026-08-27T07:10:41.190879384Z",
+  "model": "glm-5.3"
+}

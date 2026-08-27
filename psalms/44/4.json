@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Maka ọ bụghị site n'egbe ha ka ha jiri ala; ogwe aka ha ezọghị ha — maka aka nri gị, na ogwe aka gị, na ìhè nke ihu gị, maka ị masịrị ha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "site n'egbe ha"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "ha jiri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "na ogwe aka ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "zọpụtara"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "aka nri gị"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "na ogwe aka gị"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na ìhè"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nke ihu gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "ị masịrị ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:05.475222779Z",
+  "model": "glm-5.3"
+}

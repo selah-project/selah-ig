@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ma Ijipt agaghị enwe ọrụ ọ bụla nke isi ma ọ bụ ọdụ, mkpụrụ nkwụ ma ọ bụ ahịhịa mmiri, ga-eme.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ dịghị"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "maka Ijipt"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "ma ọ bụ ọdụ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "mkpụrụ nkwụ"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "ma ọ bụ ahịhịa mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T10:43:47.039707212Z",
+  "model": "glm-5.3"
+}

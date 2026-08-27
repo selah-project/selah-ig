@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 75,
+  "translation": "N'ihi na ọ bụghị site n'ọwụwa anyanwụ, ma ọ bụ site n'ọdịda anyanwụ, ma ọ bụghịkwa site n'ọzara ka a na-ebuli elu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "site n'ọwụwa anyanwụ"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ma ọ bụ site n'ọdịda anyanwụ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghịkwa"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "site n'ọzara"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ka a na-ebuli elu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:36.564547484Z",
+  "model": "glm-5.3"
+}

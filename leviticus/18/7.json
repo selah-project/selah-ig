@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ịgba ọtọ nna gị na ịgba ọtọ nne gị ka ị ghara ikpughe; ọ bụ nne gị bu, ị ghara ikpughe ịgba ọtọ ya.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ịgba ọtọ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "na ịgba ọtọ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nne gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ị ghara"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ikpughe"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nne gị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ị ghara"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ikpughe"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ịgba ọtọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:56:30.697280038Z",
+  "model": "glm-5.3"
+}

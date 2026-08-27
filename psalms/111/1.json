@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 111,
+  "translation": "Toorie Yah; m na-ekele Yahwe n'obi dum, n'ọgbakọ nzuzo nke ndị kwọ ọtọ, na na nzukọ.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Toorie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "m na-ekele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'obi dum"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "n'ọgbakọ nzuzo"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ndị kwọ ọtọ"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "na na nzukọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:08.564339861Z",
+  "model": "glm-5.3"
+}

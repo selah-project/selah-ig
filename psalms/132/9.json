@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 132,
+  "translation": "Ndị nchuaja gị ga-eyi uwe ikpe ziri ezi, ma ndị nsọ gị ga-abụ abụ Ịṅụ Ọṅụ.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "ndị nchuaja gị"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "ga-eyi uwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ma ndị nsọ gị"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ga-abụ abụ Ịṅụ Ọṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:49.929106509Z",
+  "model": "glm-5.3"
+}

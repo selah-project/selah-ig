@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Shelomoh werekọrọ na Paroh, eze Mitsrajim, were ⟨את⟩ nwa nwanyị Paroh, duzie ya n'obodo Dawid, ruo mgbe ọ gwụchara iwu ⟨את⟩ ụlọ ya na ⟨את⟩ ụlọ Yahwe na ⟨את⟩ mgbidi Yerushalayim gburugburu.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "werekọrọ (na alụmdi na nwunye)"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa nwanyị Paroh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "duzie ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ọ gwụchara"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ ya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụlọ Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mgbidi Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mgbidi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T09:52:15.063831931Z",
+  "model": "glm-5.3"
+}

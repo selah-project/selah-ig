@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ⟨את⟩ ụlọ Yehuda, m ga-enye ebere, m ga-ezọpụta ha site na Yahwe, Elohim ha, nakwa na m ga-aghara ihezọpụta ha site n'aka ụta, na mma agha, na agha, site n'aka ndị beanya na ndị na-agba beanya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "m ga-enye ebere"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "m ga-ezọpụta ha"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "site na Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nakwa na ọ bụghị"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "m ga-ezọpụta ha"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "site n'aka ụta"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "na mma agha"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "na agha"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "site n'aka ndị beanya"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "na ndị na-agba beanya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:45:16.866267177Z",
+  "model": "glm-5.3"
+}

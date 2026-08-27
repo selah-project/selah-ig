@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Shigaion nke David, nke ọ bụrụ abụ nye Yahwe, banyere okwu Kush, nwa Yemini.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigaion"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ọ bụrụ abụ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Yemini"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:05.420491844Z",
+  "model": "glm-5.3"
+}

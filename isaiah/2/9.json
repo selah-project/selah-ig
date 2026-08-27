@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Mmadụ rịrịrị ala, nwoke dịkwa ala; ma esiwo ha elu.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "rịrịrị ala"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "dịkwa ala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "esiwo ha elu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:30:22.455884643Z",
+  "model": "glm-5.3"
+}

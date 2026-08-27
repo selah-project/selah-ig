@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 84,
+  "translation": "Ṕkọ mgbachite anyị, le, Elohim, ma lee nkeonwe nke Mashiach gị.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Ṕkọ mgbachite anyị"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "ma lee"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nkeonwe nke"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiach gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:15.813786827Z",
+  "model": "glm-5.3"
+}

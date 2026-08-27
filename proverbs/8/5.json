@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ndị enyo anya na-amaghị ihe, ghọta amamihi nzụlite; ndị nzuzu, ghọta obi.",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "ghọta"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ndị enyo anya na-amaghị ihe"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "amamihi nzụlite"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "na ndị nzuzu"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "ghọta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:18:32.889955914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 4:24",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "N'ihi ya, ọrụ nke ụlọ nke El, nke dị na Yerushalayem, kwụsịrị, ma nọgide na-adị kwụsịrị ruo n'afọ nke abụọ nke ọchịchị Daryavesh, eze Peres.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "בטלת",
+      "gloss": "kwụsịrị"
+    },
+    {
+      "surface": "עבידת",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "El"
+    },
+    {
+      "surface": "די",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "dị na Yerushalayem"
+    },
+    {
+      "surface": "והות",
+      "gloss": "ma nọgide"
+    },
+    {
+      "surface": "בטלא",
+      "gloss": "na-adị kwụsịrị"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "תרתין",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "nke ọchịchị"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Daryavesh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Peres"
+    }
+  ],
+  "timestamp": "2026-08-27T15:36:41.948058602Z",
+  "model": "glm-5.3"
+}

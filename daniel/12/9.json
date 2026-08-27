@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "O wee sị: Gaa, Daniel, maka okwu ndị ahụ mechiri emechi ma kpuchie ruo ọge ngwụcha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "mechiri emechi"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "ma kpuchie"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị ahụ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ngwụcha"
+    }
+  ],
+  "timestamp": "2026-08-27T15:32:25.553079255Z",
+  "model": "glm-5.3"
+}

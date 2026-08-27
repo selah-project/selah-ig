@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọtụtụ na-ekwu maka mkpụrụ obi m, \"Ọ nweghị nzọpụta ya na Elohim.\" Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Ọtụtụ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "maka mkpụrụ obi m"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ọ nweghị"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "nzọpụta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:35.556062790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Adonai m jụrụ ⟨את⟩ ndị ohu ya, sị: Unù nwere nna ma ọ bụ nwanne?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai m"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "jụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ohu ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Ọ dị"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "n'unù"
+    },
+    {
+      "surface": "אב",
+      "gloss": "nna"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "אח",
+      "gloss": "nwanne"
+    }
+  ],
+  "timestamp": "2026-08-27T05:57:21.951185199Z",
+  "model": "glm-5.3"
+}

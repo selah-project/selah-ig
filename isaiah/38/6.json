@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "M ga-ewepụ gị site n'aka eze Ashur, na ⟨את⟩ obodo a; m ga-echebe obodo a.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "site n'aka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "m ga-ewepụ gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obodo a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "m ga-echebe"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T10:54:19.585006053Z",
+  "model": "glm-5.3"
+}

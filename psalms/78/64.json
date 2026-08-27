@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ndị nchụàjà ya daasịrị n'aka mmaa, ndị di ha nwụrụ anwụ agakwughị ákwá.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "ndị nchụàjà ya"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "n'aka mmaa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "daasịrị"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "ndị di ha nwụrụ anwụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agakwughị"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "ákwá"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:18.740677312Z",
+  "model": "glm-5.3"
+}

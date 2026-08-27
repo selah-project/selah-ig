@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Mkpụrụ obi m na-agụ agụ maka Elohim, maka El dị ndụ; mgbe ka m ga-abịa ma hụ ihu Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "na-agụ agụ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "maka Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "maka El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dị ndụ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mgbe ka"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "m ga-abịa"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ma hụ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:08.042624825Z",
+  "model": "glm-5.3"
+}

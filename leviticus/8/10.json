@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Moshe wee were ⟨את⟩ mmanụ ite-ete, o tee ⟨את⟩ ụlọikwú ahụ ⟨את⟩ nakwa ihe niile dị na ya, ma doo ya nsọ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "o wee were"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmanụ ite-ete"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "nke a na-eji ete"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "o tee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọikwú"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ụlọikwú"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nakwa",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dị na ya"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "o wee doo nsọ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:50:15.193705496Z",
+  "model": "glm-5.3"
+}

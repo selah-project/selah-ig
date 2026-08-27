@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Maka na ọ baara ⟨El⟩ uru ka nwoke baara uru, ma ọ bụ na ọ baara Ya uru ka onye amamihi baara onwe ya uru?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "baara uru"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "baara uru"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "onye amamihi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:48:08.788015876Z",
+  "model": "glm-5.3"
+}

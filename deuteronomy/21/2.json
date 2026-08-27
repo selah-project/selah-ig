@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ndị okenye gị na ndị ikpe gị ga-apụ, ha ga-atụkwa ruo n'obodo ndị gbara onye a gbụrụ gburugburu.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ha ga-apụ"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "ndị okenye gị"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "ndị ikpe gị"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "ha ga-atụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "n'obodo ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "gbaa gburugburu"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "onye a gbụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:06:00.874835119Z",
+  "model": "glm-5.3"
+}

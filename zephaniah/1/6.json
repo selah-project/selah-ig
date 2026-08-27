@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ ndị na-atụgharị azụ n'azụ Yahwe, ndị na-achọghị ⟨את⟩ Yahwe, ma na-achọghịkwa ya.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị na-atụgharị azụ"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "ndị na-atụgharị azụ"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "n'azụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-achọghị"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ha na-achọghị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma na-achọghịkwa"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:46:37.341188553Z",
+  "model": "glm-5.3"
+}

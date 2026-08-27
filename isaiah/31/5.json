@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 31:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Dịka nnụnụ na-efe efe, otu a Yahwe Tsabaot ga-echebe ⟨elu⟩ Yerushalayim: na-echebe, ma na-azọpụta, na-agafe, ma na-eme ka ha gbanahụ.",
+  "tokens": [
+    {
+      "surface": "כצפרים",
+      "gloss": "dịka nnụnụ"
+    },
+    {
+      "surface": "עפות",
+      "gloss": "na-efe efe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otú a"
+    },
+    {
+      "surface": "יגן",
+      "gloss": "ga-echebe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsabaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨elu⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "גנון",
+      "gloss": "na-echebe"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "ma na-azọpụta"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "והמליט",
+      "gloss": "ma na-eme ka ha gbanahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:51:25.773738569Z",
+  "model": "glm-5.3"
+}

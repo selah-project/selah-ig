@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "O kụrụ ọkụ mbụ niile n'ala ha, mmalite nke ike ha niile.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "O kụrụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ọkụ mbụ"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "n'ala ha"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mmalite"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nke ... ha niile"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ike ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:13.872405558Z",
+  "model": "glm-5.3"
+}

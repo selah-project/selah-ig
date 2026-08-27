@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ha nyekwara ⟨את⟩ ndị ahụ iwu, na-asị: Mgbe unu hụrụ ⟨את⟩ Igbe nke ọgbụgba-ndụ nke Yahwe, Elohim nke unu, na ndị nchụàjà, ndị Levi, na-ebu ⟨את⟩ ya, mgbe ahụ unu ga-esi n'ebe unu nọ pụọ, unu ga-aga n'azụ ya.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "ha nyekwara iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "mgbe unu hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Igbe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Igbe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nke unu"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "na ndị nchụàjà"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ndị Levi"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "na-ebu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "ga-esi pụọ"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "n'ebe unu nọ"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "unu ga-aga"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "n'azụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:22:26.561012534Z",
+  "model": "glm-5.3"
+}

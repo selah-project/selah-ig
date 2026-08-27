@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Onyenwe ọ bụ ya ruru ⟨את⟩ Elath ma weghachite ya na Yehuda, ka eze dara mmiri gwuchara ya na ndị nna ya.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ ya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ruru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elath"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Elath"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "ma weghachite"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ya na Yehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "dara mmiri gwuo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ndị nna ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:21:08.313594508Z",
+  "model": "glm-5.3"
+}

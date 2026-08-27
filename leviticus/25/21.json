@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "M ga-enye iwu na ngọzi m ga-adịgide n'ọnụnụ gịnụ n'afọ nke isii, ma o mee ⟨את⟩ ihe ọkụkụ ahụ maka afọ atọ.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "m ga-enye iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngọzi m"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "ngọzi m"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "n'ọnụnụ gịnụ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "n'afọ"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "nke isii"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "ma o mee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ọkụkụ"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "ihe ọkụkụ"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "maka atọ"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "afọ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:04:56.905818991Z",
+  "model": "glm-5.3"
+}

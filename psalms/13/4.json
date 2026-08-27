@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Lebacha anya, zaa m, Yahwe Elohim m; mee ka anya m pụta ìhè, ka m ghara ịra mmiri nke ọnwụ.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Lebacha anya"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "zaa m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "mee ka ... pụta ìhè"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka m ghara"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ịra"
+    },
+    {
+      "surface": "המות",
+      "gloss": "mmiri nke ọnwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:15.492209779Z",
+  "model": "glm-5.3"
+}

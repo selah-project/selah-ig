@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 149,
+  "translation": "Ime mkpesa mgbagha n'etiti ⟨mba ndị⟩, na mmeso ihe n'etiti ndị mmadụ.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "Ime"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "mkpesa mgbagha"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "n'etiti ⟨mba ndị⟩"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "mmeso ihe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ndị mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:38.816245513Z",
+  "model": "glm-5.3"
+}

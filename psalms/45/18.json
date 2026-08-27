@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "M ga-echeta aha gị ná mmadụ niile n'ọgbọ ọ bụla ná ọgbọ; ya mere, ndị mmadụ ga-eto gị ruo mgbe ebighị ebi na ruo taa ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "M ga-echeta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ná mmadụ niile"
+    },
+    {
+      "surface": "דר",
+      "gloss": "n'ọgbọ ọ bụla"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ná ọgbọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "ga-eto gị"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na ruo taa ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:21.742621259Z",
+  "model": "glm-5.3"
+}

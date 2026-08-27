@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Ma nye onye ajọ omume, Elohim kwuru, ihe gị kpatara ịkọwa iwu ndị m, ma iburu ọgbụgba-ndụ m n'ọnụ gị?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "ma nye onye ajọ omume"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ihe gị kpatara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "ịkọwa"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "iwu ndị m"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ma iburu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ọnụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:56.130169529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "site na Aram, na site na Moab, na site n'ụmụ Amọn, na ndị Filistia, na Amalek, na ihe e zuru n'aka Hadadezer nwa Rechob, eze Tsova.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "site na Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "na site na Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "na site n'ụmụ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amọn"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "na ndị Filistia"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "na Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "na ihe e zuru"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    }
+  ],
+  "timestamp": "2026-08-27T09:32:34.074721855Z",
+  "model": "glm-5.3"
+}

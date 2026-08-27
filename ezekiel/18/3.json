@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Dịka m dị ndụ, kwuru Adonai Yahwe, ilu a agaghị adịkwa unu ọzọ na Yisrael.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Dịka m dị ndụ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma ọ bụrụ na (agaghị)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adị"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unụ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "na-akọ"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "ilu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T12:09:17.320751187Z",
+  "model": "glm-5.3"
+}

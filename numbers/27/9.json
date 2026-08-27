@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ma ọ bụrụ na o enweghị nwa nwanyị, unu ga-enye ⟨את⟩ ihe nketa ya nye ụmumenne ya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "o enweghị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "unu ga-enye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe nketa ya"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ihe nketa ya"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "n'aka ụmumenne ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:39:10.892481278Z",
+  "model": "glm-5.3"
+}

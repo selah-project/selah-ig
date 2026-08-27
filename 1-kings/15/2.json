@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Afọ atọ ka ọ chịrị na Yerushalayim; aha nne ya bụ Maaka, nwa nwanyi Avishalom.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọ chịrị"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nne ya"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalom"
+    }
+  ],
+  "timestamp": "2026-08-27T10:04:47.274741632Z",
+  "model": "glm-5.3"
+}

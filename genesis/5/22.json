@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Chanok na-eje ije na ⟨את⟩ Elohim, mgbe ọ mụsịrị ⟨את⟩ Metushelah, afọ narị atọ, ma mụọ ụmụ nwoke na ụmụ nwanyị.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "na-eje ije"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ọ mụsịrị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelah"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelah"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ma mụọ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ụmụ nwanyị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:27:34.042301049Z",
+  "model": "glm-5.3"
+}

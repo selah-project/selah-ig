@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Saul wee tie mkpu, ya na ndị niile nọ ⟨את⟩ ya, ha wee ruo n'agha; ma lee, mmaọgụ nke onye ọ bụla dị n'akụkụ onye agbata obi ya, mgbagwoju anya dị ukwuu nke ukwuu.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "wee tie mkpu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ya na ndị niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ndị niile nọ ya"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha wee ruo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "n'agha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ma lee"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "dị"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mmaọgụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nke onye ọ bụla"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "n'akụkụ onye agbata obi ya"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "mgbagwoju anya"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "dị ukwuu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T09:12:13.752110749Z",
+  "model": "glm-5.3"
+}

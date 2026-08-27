@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Yahwe, Elohim m, n'ime gị ka m na-ezo mgbaba; zọpụta m n'aka ndị niile na-echụ m, ma napụta m.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "בך",
+      "gloss": "n'ime gị"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m na-ezo mgbaba"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "zọpụta m"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "n'aka ndị niile"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "na-echụ m"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ma napụta m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:05.420833112Z",
+  "model": "glm-5.3"
+}

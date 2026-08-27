@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma onye-nchụjà ga-eweta ya n'ebe-ichu-aja, ma gbuo ⟨את⟩ isi ya pụọ, ma gbasie ya n'elu ebe-ichu-aja; a ga-amịpụta ọbara ya n'akụkụ mgbidi ebe-ichu-aja.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "ga-eweta ya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchụjà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe-ichu-aja"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ma gbuo pụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi ya"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "isi ya"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ma gbasie"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "n'elu ebe-ichu-aja"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "a ga-amịpụta"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ọbara ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "mgbidi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe-ichu-aja"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:25.386446533Z",
+  "model": "glm-5.3"
+}

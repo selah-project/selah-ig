@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ha niile na-ekpo ọkụ ka iten, ha riri ⟨את⟩ ndị ikpe ha; eze ha niile dara; enweghị onye na-akpọku m n'etiti ha.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "na-ekpo ọkụ"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ka iten"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ha riri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ikpe ha"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "ndị ikpe ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "eze ha"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "dara"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "na-akpọku"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'etiti ha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T12:41:27.183603388Z",
+  "model": "glm-5.3"
+}

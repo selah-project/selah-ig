@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "Ọ ga-akpọkuo m, m ga-azakwa ya; m, onwe m, ga-adị ya na n'oge nsogbu; m ga-ọpụ ya, m ga-asọpụrwa ya.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "ọ ga-akpọkuo m"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "m ga-azakwa ya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "n'oge nsogbu"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "m ga-ọpụ ya"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "m ga-asọpụrwa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:14.502625592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Akụ na ùgwù dị ⟨את⟩ n'akụkụ m; ego na-adịgide adị, na ikpe ziri ezi.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Akụ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na ùgwù"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ n'akụkụ m",
+      "marks": "n'akụkụ m"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ego"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "na-adịgide adị"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na ikpe ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:19:38.410894047Z",
+  "model": "glm-5.3"
+}

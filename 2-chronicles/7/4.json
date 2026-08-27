@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma eze ahụ na ndị mmadụ nile na-egbu ajà n'ihu Yahwe.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ma eze ahụ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ya na nile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "na-egbu ajà"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ajà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:09:42.955761506Z",
+  "model": "glm-5.3"
+}

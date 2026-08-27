@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ha abụọ n'ime ha gba ọtọ, ⟨ha bụ⟩ ha-adam na nwunye ya, ma ha enweghị ihere.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ha bụ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ha abụọ n'ime ha"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "gba ọtọ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ha-adam"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "na nwunye ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "ha enweghị ihere"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:04.641217214Z",
+  "model": "glm-5.3"
+}

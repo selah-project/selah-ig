@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ha wee tinye ndị nche ọrụ mmanye n'elu ha, iji menye ha ahụhụ site na ibu ha; ha wee rụọ obodo nchekwa maka Fero, ⟨את⟩ Pitom na ⟨את⟩ Raamsese.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Ha wee tinye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị nche"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "ọrụ mmanye"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iji"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "menye ha ahụhụ"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "site na ibu ha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ha wee rụọ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "nchekwa"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "maka Fero"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Raamsese"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamsese"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:45.941298314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Onye a na-eto, m ga-akpọ Yahwe; ma a zọpụtara m n'aka ndị iro m.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Onye a na-eto"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m ga-akpọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ma n'aka"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "a zọpụtara m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:13.592541654Z",
+  "model": "glm-5.3"
+}

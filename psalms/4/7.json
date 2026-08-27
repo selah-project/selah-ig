@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọtụtụ na-ekwu, Onye ka ga-egosi anyị ọma? Bulie elu anyị ìhè nke ihu Gị, Yahwe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Ọtụtụ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Onye ka"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ga-egosi anyị"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọma"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Bulie elu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìhè"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nke ihu Gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:09.200437283Z",
+  "model": "glm-5.3"
+}

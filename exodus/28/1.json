@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Gị onwe gị, wetuọ nʼakụkụ gị ⟨את⟩ Aharon nwanne gị, na ⟨את⟩ ụmụ ya ⟨את⟩ ya, nʼetiti ụmụ Yisrael, ka ọ na-eje ọrụ nchụàjà nye M — Aharon, Nadav na Avihu, Elazar na Itamar, ụmụ Aharon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Gị onwe gị"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "wetuọ nʼakụkụ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "nʼetiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "ka ọ na-eje ọrụ nchụàjà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nye M"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "na Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "na Itamar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-27T06:29:59.377720936Z",
+  "model": "glm-5.3"
+}

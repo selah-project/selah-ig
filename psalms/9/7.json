@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma onye iro ahụ — agwụla, mbibi ruo ebighị; obodo ndị Ị kwatuchara, ihe ncheta ha la nwụọla ha onwe ha.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "onye iro ahụ"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "agwụla"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mbibi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ruo ebighị"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ma obodo ndị"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "kwatuchara"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "la nwụọla"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ihe ncheta ha"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha onwe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:06.811307655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ọ tiwokwa ⟨את⟩ Moab, ndị Moab wee bụrụ ohu nye Dawid, na-ebu onyinye ụtọ.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ọ tiwokwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "wee bụrụ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ndị Moab"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "nye Dawid"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "na-ebu"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "onyinye ụtọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:54:41.850320232Z",
+  "model": "glm-5.3"
+}

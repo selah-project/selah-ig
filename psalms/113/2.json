@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 113,
+  "translation": "Ka aha Yahwe bụrụ nke a gọziri agọzi, site ugbua rue mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ka ọ bụrụ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "nke a gọziri agọzi"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "site ugbua"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "rue"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:30.701466616Z",
+  "model": "glm-5.3"
+}

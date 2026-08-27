@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "N'ụbọchị izizi nke ọnwa izizi, n'ụbọchị mbụ nke ọnwa ahụ, ị ga-edozi ⟨את⟩ ebe obibi nke ahụ nnukwu nke nzukọ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "nke ọnwa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "izizi"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "n'ụbọchị mbụ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "nke ọnwa ahụ"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "ị ga-edozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe obibi"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ebe obibi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahụ nnukwu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nke nzukọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:48.357324780Z",
+  "model": "glm-5.3"
+}

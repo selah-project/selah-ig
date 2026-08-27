@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ọ wee webata ⟨את⟩ onyinye-ọfụrụ nke ndị mmadụ, were ⟨את⟩ mkpi nke echichite-dị-ndị mmadụ-ọ̀, gbuo ya, ma mee ka ọ bụrụ ihe-echichite dịka nke mbụ.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Ọ wee webata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onyinye-ọfụrụ nke ndị mmadụ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "onyinye-ọfụrụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nke ndị mmadụ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ọ wee were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpi echichite nke ndị mmadụ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "mkpi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "echichite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "maka ndị mmadụ"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "ọ wee gbuo ya"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "ma mee ka ọ bụrụ ihe-echichite"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "dịka nke mbụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:15.470333184Z",
+  "model": "glm-5.3"
+}

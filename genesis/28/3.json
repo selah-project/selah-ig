@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ma El Shaddai gọọ gị ⟨את⟩, ma mee ka ị mụọ nke ọma, ma mee ka ị bụrụ ọtụtụ, ka ị ghara ịbụ naanị gị mana ị bụrụ nzukọ nke ndị.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ma El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "gọọ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "ma mee ka ị mụọ nke ọma"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "ma mee ka ị bụrụ ọtụtụ"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ka ị ghara ịbụ naanị gị mana ị bụrụ"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "nke ndị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:45:23.652042738Z",
+  "model": "glm-5.3"
+}

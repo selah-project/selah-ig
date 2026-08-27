@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "M ga-asị Yahwe, ⟨Ị bụ⟩ ebe m gabigara na eligwu m; Elohim m, na Ya ka m na-adabere.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "M ga-asị"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ebe m gabigara"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "na eligwu m"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "m na-adabere"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:53.858788887Z",
+  "model": "glm-5.3"
+}

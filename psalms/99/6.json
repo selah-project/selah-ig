@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 99,
+  "translation": "Moshe na Aharon n'etiti ndị nchụ-aja ya, na Shemuel n'etiti ndị na-akpọ aha ya; ha na-akpọ Yahwe, ma ọ na-aza ha.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "n'etiti ndị nchụ-aja ya"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "na Shemuel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "n'etiti ndị na-akpọ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "ha na-akpọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma ọ"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "na-aza ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:44.629183605Z",
+  "model": "glm-5.3"
+}

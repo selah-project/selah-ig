@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Na ndị agha ya, na ọnụọgụ ha: otu puku anọ na iri anọ, ya bụ puku iri anọ na otu na narị ise.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "na ndị agha ya"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "na ọnụọgụ ha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na iri anọ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ise"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:13:32.972807773Z",
+  "model": "glm-5.3"
+}

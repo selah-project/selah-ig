@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Ndị niile wepụrụ ⟨את⟩ nsụpoke ọla edo ndị dị n'nti ha, wee bua ha nye Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "wepụrụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsụpoke ọla edo"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "nsụpoke"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "n'nti ha"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "wee bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-27T06:37:37.589772688Z",
+  "model": "glm-5.3"
+}

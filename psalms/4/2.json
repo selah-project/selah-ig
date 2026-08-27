@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Mgbe m na-akpọ oku, zaa m, Elohim nke ikpe ziri ezi m; ná mkpọda Ị gbasaala m; meere m ebere, ma nụ ekpere m.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "mgbe m na-akpọ oku"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "zaa m"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "nke ikpe ziri ezi m"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ná mkpọda"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "Ị gbasaala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "meere m ebere"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ma nụ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ekpere m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:57.312445195Z",
+  "model": "glm-5.3"
+}

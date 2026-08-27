@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 57,
+  "translation": "Nefesh m dị n'etiti ndị ule; m na-anọdụ ala n'etiti ndị na-ere ọkụ — ụmụ nke Adam, ha ṅịrị ha bụ mkpọ na akụ̄, ma ire ha bụ mmaa dị nkọ.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nefesh m"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "ndị ule"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "m na-anọdụ ala"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "ndị na-ere ọkụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nke Adam"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ha ṅịrị ha"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "mkpọ"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "na akụ̄"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ma ire ha"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mmaa"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "dị nkọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:06.905384258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Peleg wee dịrị ndụ, mgbe ọ mụsịrị ⟨את⟩ Reu, afọ itoolu na narị abụọ, ma mụọ ụmụ nwoke na ụmụ nwanyị.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": " wee dịrị ndụ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ọ mụsịrị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "itoolu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na narị abụọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ma mụọ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na ụmụ nwanyị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:23.990085143Z",
+  "model": "glm-5.3"
+}

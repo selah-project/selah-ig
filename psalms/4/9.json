@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Nnọọ m ga-ehi ụra n'udo, m ga-rahụ ọkụ; n'ihi na gị, Yahwe, naanị gị, ka ị na-eme m ibi n'enweghị atụmatụ.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "n'udo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "m ga-ehi ụra"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "m ga-rahụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "n'enweghị atụmatụ"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "ị na-eme m ibi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:09:14.356965962Z",
+  "model": "glm-5.3"
+}

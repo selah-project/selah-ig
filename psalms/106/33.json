@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "N'ihi na ha mebiri rohu ya, o wee kwuo ihe na-enweghị ndụmọdụ na mkpụrụ umu ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ha mebiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rohu ya"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "rohu ya"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "o wee kwuo ihe na-enweghị ndụmọdụ"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "na mkpụrụ umu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:26.595355308Z",
+  "model": "glm-5.3"
+}

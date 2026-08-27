@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "M ga-em, n'iwe na n'ọgịchịị, ịbọ ọbọ n'⟨את⟩ mba ⟨ndị⟩ ndị anaghị anụ ihe.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ga-em"
+    },
+    {
+      "surface": "באף",
+      "gloss": "n'iwe"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "na n'ọgịchịị"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ịbọ ọbọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba ⟨ndị⟩"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba ⟨ndị⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "anụ ihe"
+    }
+  ],
+  "timestamp": "2026-08-27T12:51:15.480629426Z",
+  "model": "glm-5.3"
+}

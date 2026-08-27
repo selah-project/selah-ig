@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Iwe m ga-ekupụta, ma m gbuo unu mma agha, ka ụmụ nwanyị unu bụrụ ọnọdụ ndị di ha nwụrụ na ụmụ unu bụrụ ndị nna ha nwụrụ.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "ga-ekupụta"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "iwe m"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ma m gbuo unu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ka ha bụrụ"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "ụmụ nwanyị unu"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "ọnọdụ ndị di ha nwụrụ"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "na ụmụ unu"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "ndị nna ha nwụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:24:13.044716560Z",
+  "model": "glm-5.3"
+}

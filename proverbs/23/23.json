@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Eziokwu zụta, ma ree ya bụghị; nakwa amamihe, ntụziaka, na nghọta.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "eziokwu"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "zụta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma ... bụghị"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "ree"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "nakwa ntụziaka"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "na nghọta"
+    }
+  ],
+  "timestamp": "2026-08-27T16:50:09.380409123Z",
+  "model": "glm-5.3"
+}

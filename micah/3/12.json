@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 3:12",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'ihi ya, n'ihi unu, Tsiyon ga-akụ dịka ubi, Yerushalayim ga-abụ mkpọda ugwu, ugwu nke ụlọ ahụ ga-abụ ebe elu nke ọhịa.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "n'ihi unu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ga-akụ (kụọ ala)"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "עיין",
+      "gloss": "mkpọda ugwu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "והר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nke ụlọ ahụ"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "ebe elu"
+    },
+    {
+      "surface": "יער",
+      "gloss": "nke ọhịa"
+    }
+  ],
+  "timestamp": "2026-08-27T12:52:08.627033560Z",
+  "model": "glm-5.3"
+}

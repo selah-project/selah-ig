@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "M ga-agakwa ọbụna m onwe m na unu n'ọnụ mmegide, ma m ga-atụ ⟨את⟩ unu ọzọkwa m onwe m, ugboro asaa maka mmehie unu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "M ga-agakwa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ọbụna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m onwe m"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "na unu"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "n'ọnụ mmegide"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ma m ga-atụ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọzọkwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m onwe m"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ugboro asaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "mmehie unu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:39.385033863Z",
+  "model": "glm-5.3"
+}

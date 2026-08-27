@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "⟨Onye⟩ na-ekwupụta njedebe site na mmalite, na site na mbụ ihe ndị a na-emebeghị, na-ekwu, atụmatụ m ga-edo, ma uche m niile m ga-emerịrị.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "na-ekwupụta"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "site na mmalite"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "njedebe"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "ma site na mbụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe ndị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abụghị"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "a na-emebeghị"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "atụmatụ m"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ga-edo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma niile"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "uche m"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "m ga-emerịrị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:59:50.312391218Z",
+  "model": "glm-5.3"
+}

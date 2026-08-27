@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "N'ihi na ebe okwu eze nọ, ⟨is⟩ ikike na-achị; onye nwere ike ikwu ya okwu, sị, 'Gịnị ka ị na-eme?'",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ikike na-achị"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nwere ike ikwu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ị na-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T16:52:26.653332158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ma ọ ga-asacha ahụ ya na mmiri n'ebe dị nsọ, ma yikwa ⟨את⟩ uwe ya, ma pụta, ma tee ⟨את⟩ offịa ya na ⟨את⟩ offịa nke ndị mmadụ, ma dozie ikpe maka ya na maka ndị mmadụ.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "ga-asacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahụ ya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ahụ ya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mmiri"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "dị nsọ"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ma yikwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe ya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uwe ya"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ma pụta"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ma tee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "offịa ya"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "offịa ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "offịa nke ndị mmadụ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "offịa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nke ndị mmadụ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ma dozie ikpe"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "na maka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:59:46.012508368Z",
+  "model": "glm-5.3"
+}

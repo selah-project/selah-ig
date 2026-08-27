@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma n'ihe a, unyere ekwere Yahwe, Elohim gị.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "Ma n'ihe a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "unyere"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "ekwere"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:49:39.600841818Z",
+  "model": "glm-5.3"
+}

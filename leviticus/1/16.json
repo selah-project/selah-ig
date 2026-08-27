@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ọ ga-ewepụ ⟨את⟩ olu-afọ ya na ntutu ya, ma tụga ⟨את⟩ ya n'akụkụ ebe-ichu-aja, n'akụkụ ọwụwa anyanwụ, n'ebe a na-atụ ntụ ọkụ.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "ga-ewepụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olu-afọ ya"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "olu-afọ ya"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "na ntutu ya"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ma tụga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe-ichu-aja"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "n'akụkụ ọwụwa anyanwụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "a na-atụ"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ntụ ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:25.386692955Z",
+  "model": "glm-5.3"
+}

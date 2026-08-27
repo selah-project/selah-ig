@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 136,
+  "translation": "Kelee Elohim nke ⟨ndị⟩ chi ndị ọzọ, n'ihi na ruo mgbe ebighị ebi chesed ya di.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Kelee"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨ndị⟩ chi ndị ọzọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ya di"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:45.763011823Z",
+  "model": "glm-5.3"
+}

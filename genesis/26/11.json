@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Avimelek nyere ⟨את⟩ ndị mmadụ niile iwu, ka ha wee sị: \"Onye ọ bụla na-emetụ nwoke a aka, ma ọ bụ nwunye ya, ga-anwụọ nwụ.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị mmadụ niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ha wee sị"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "na-emetụ aka"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "ma ọ bụ nwunye ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ga-anwụọ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "nwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:41:47.793143068Z",
+  "model": "glm-5.3"
+}

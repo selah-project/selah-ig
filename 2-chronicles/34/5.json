@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ma ọkpụkpụ nke ndị nchụjà, ọ gbara ọkụ n'elu ebe ịchụjà ha; o mere ka ⟨את⟩ Yehuda na ⟨את⟩ Yerushalayim dị ọcha.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "ma ọkpụkpụ"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "nke ndị nchụjà"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ọ gbara ọkụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "ebe ịchụjà ha"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "o mere ka ... dị ọcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וית",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:21:01.627286230Z",
+  "model": "glm-5.3"
+}

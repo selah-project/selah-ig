@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 127,
+  "translation": "Happiness nke nwoke ahụ nke mejupụtara ⟨את⟩ akpa mma ya site na ha; ha agaghị enwe ihere, n'ihi na ha ga-ekwuru ⟨את⟩ ndị iro n'ọnụ ụzọ ámá.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Happiness"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "nke nwoke ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mejupụtara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akpa mma ya"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "akpa mma ya"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "site na ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "enwe ihere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ha ga-ekwuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị iro"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "ndị iro"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "n'ọnụ ụzọ ámá"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:50.972801011Z",
+  "model": "glm-5.3"
+}

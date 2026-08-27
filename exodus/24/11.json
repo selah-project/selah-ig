@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Maọbụghị n'aka ndị isi nke ụmụ Yisrael ka o tinyere aka ya; ha lelere ⟨את⟩ Elohim anya, ha riri nri, ha ṅụrụ mmanya.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na banye"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "ndị isi nke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o tinyere\/zipụ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "ha lelere anya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ha riri nri"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ha ṅụrụ mmanya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:24:50.033811981Z",
+  "model": "glm-5.3"
+}

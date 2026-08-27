@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma ọ bụrụ na ihe ọjọọ mee, ị ga-enye ndụ maka ndụ,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ọ bụrụ na"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mee"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ị ga-enye"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "maka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:32.177402352Z",
+  "model": "glm-5.3"
+}

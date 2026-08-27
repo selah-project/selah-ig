@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Iwu Yahwe ziri ezi, na-eme ka obi dịrị ọṅụ; iwu nke Yahwe dị ọcha, na-enye ìhè anya.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "iwu (ihe nhọpụta)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ziri ezi"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "na-eme ka ọṅụ dị"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "na-enye ìhè"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "anya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:08.053439538Z",
+  "model": "glm-5.3"
+}

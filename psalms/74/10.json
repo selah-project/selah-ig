@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Ruo mgbe ole ka onye iro ga-akparị Elohim? Gaa ruo mgbe ebighị ebi ka ndị iro ya ga-eji mbụ na-ajụ aha gị?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mgbe ole"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "ga-akparị"
+    },
+    {
+      "surface": "צר",
+      "gloss": "onye iro"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "ga-eji mbụ na-ajụ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ndị iro"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:15.802340740Z",
+  "model": "glm-5.3"
+}

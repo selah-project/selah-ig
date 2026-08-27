@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Avraham agbụọla, bata n'ụbọchị ndị ahụ, ma Yahwe gọziri ⟨את⟩ Avraham n'ihe niile.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "ma Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "agbụọla"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bata"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "n'ụbọchị ndị ahụ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ma Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "gọziri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ihe niile"
+    }
+  ],
+  "timestamp": "2026-08-27T05:37:35.814061274Z",
+  "model": "glm-5.3"
+}

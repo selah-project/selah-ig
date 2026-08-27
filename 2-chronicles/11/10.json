@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ Tsorah, na ⟨את⟩ Ayalon, na ⟨את⟩ Chevron, ndị ⟨אשר⟩ nọ na Yehuda na na Binjamin, obodo ndị e wusiri ike",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị ⟨אשר⟩"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "na na Binjamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "ndị e wusiri ike"
+    }
+  ],
+  "timestamp": "2026-08-27T16:09:42.105639409Z",
+  "model": "glm-5.3"
+}

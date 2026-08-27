@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Kelee Yahwe na kinor; na nevel nke eriri iri, gụọ abụ ya.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "kelee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinor"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "na nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "nke eriri iri"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "gụọ abụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:23.662685972Z",
+  "model": "glm-5.3"
+}

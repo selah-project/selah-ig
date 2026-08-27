@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "nakwa maka ọbara ndị na-enweghị ihe ọjọ o dụrụ n'ala; n'ihi na o jupụtara ⟨את⟩ Yerushalayim nke ọbara ndị na-enweghị ihe ọjọ; ma Yahwe ekweghị ịgbanarị.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "ndị na-enweghị ihe ọjọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "o dụrụ n'ala"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "o jupụtara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ndị na-enweghị ihe ọjọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ekweghị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "ịgbanarị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:33:20.437923327Z",
+  "model": "glm-5.3"
+}

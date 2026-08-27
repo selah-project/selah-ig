@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Onye na-eme ⟨את⟩ Ash, ⟨את⟩ Kesil, na Kimah, na ọnụ ụlọ ndịda.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Onye na-eme"
+    },
+    {
+      "surface": "עש",
+      "gloss": "⟨את⟩ Ash"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "⟨את⟩ Kesil"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "na Kimah"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "na ọnụ ụlọ"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "ndịda"
+    }
+  ],
+  "timestamp": "2026-08-27T14:38:17.578465075Z",
+  "model": "glm-5.3"
+}

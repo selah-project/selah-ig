@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ma ọ bụrụ na mincha a na-eme na ite nke omụma bụ onyinye gị, ntị ọka na mmanụ ka a ga-eme ya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ọ bụrụ na"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "ite nke omụma"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "onyinye gị"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ntị ọka"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mmanụ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka a ga-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T06:43:40.441236233Z",
+  "model": "glm-5.3"
+}

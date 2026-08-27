@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ha ga-abịa, ha ga-ekwupụta ezi omume ya nye ndị a ga-amụ, n'ihi na ọ meela ya.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Ha ga-abịa"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ha ga-ekwupụta"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ezi omume ya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "nye ndị"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "a ga-amụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ọ meela"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:31.392310664Z",
+  "model": "glm-5.3"
+}

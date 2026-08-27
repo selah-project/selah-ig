@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ya mere, agaghị adị gị onye na-atụ ahịrị site na òkù, n'ọgbakọ Yahwe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ya mere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "adị"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "gị"
+    },
+    {
+      "surface": "מַשְׁלִיךְ",
+      "gloss": "onye na-atụ"
+    },
+    {
+      "surface": "חֶבֶל",
+      "gloss": "ahịrị"
+    },
+    {
+      "surface": "בְּגוֹרָל",
+      "gloss": "site na òkù"
+    },
+    {
+      "surface": "בִּקְהַל",
+      "gloss": "n'ọgbakọ"
+    },
+    {
+      "surface": "יְהֹוָה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T12:53:24.266778457Z",
+  "model": "glm-5.3"
+}

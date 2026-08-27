@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma onye-nchu-aja ahụ ga-ere ha ọkụ n'elu ebe-ichu-aja, ọkụ-aja nye Yahwe; ọ bụ àjà mmebi-iwu.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ma ọ ga-ere ọkụ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha (ihe a na-ere)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja ahụ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "n'elu ebe-ichu-aja ahụ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ọkụ-aja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "àjà mmebi-iwu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:45:06.021868471Z",
+  "model": "glm-5.3"
+}

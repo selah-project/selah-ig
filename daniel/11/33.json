@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 11:33",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ndị nwere nghọta n'etiti ndị mmadụ ga-eme ka ọtụtụ ghọta; ha ga-adaba n'agha na n'ọkụ ọkụ, n'ịbụ ndị a jidere na n'ihe ndị a tọrọ, ruo ụbọchị ọtụtụ.",
+  "tokens": [
+    {
+      "surface": "ומשכילי",
+      "gloss": "ma ndị nwere nghọta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n'etiti ndị mmadụ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ga-eme ka ha ghọta"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "ọtụtụ mmadụ"
+    },
+    {
+      "surface": "ונכשלו",
+      "gloss": "ha ga-adaba"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "n'agha"
+    },
+    {
+      "surface": "ובלהבה",
+      "gloss": "na n'ọkụ ọkụ"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "n'ịbụ ndị a jidere"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "na n'ihe ndị a tọrọ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị ọtụtụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:34:09.407439986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Ọ ga-akpọ m: Nna m gidigidi, El m, na nkume nzọpụta m.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "ga-akpọ m"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Nna m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gidigidi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El m"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "na nkume"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "nzọpụta m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:02.882849354Z",
+  "model": "glm-5.3"
+}

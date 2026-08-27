@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Iji zute onye agụụ mmiri na-agụ, ha wetara ⟨את⟩ mmiri; ndị bi n'ala Teima, na nri ya, ha gara n'ihu zute onye na-agba ọsọ.",
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "iji zute"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "onye agụụ mmiri na-agụ"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "ha wetara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmiri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Teima"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "na nri ya"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "ha gara n'ihu zute"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "onye na-agba ọsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:39:43.886771620Z",
+  "model": "glm-5.3"
+}

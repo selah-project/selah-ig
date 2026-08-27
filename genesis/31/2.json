@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Yaakov wee hụ ⟨את⟩ ihu Laban, ma le, o nọghị ya dịka ọ dị taa ụnyaahụ na ụnyaahụ tupu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wee hụ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ma le"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ọ nọghị"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "dịka ọ dị taa ụnyaahụ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "na ụnyaahụ tupu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:48:04.622140469Z",
+  "model": "glm-5.3"
+}

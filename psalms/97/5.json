@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 97,
+  "translation": "Ugwu ndị gbazuru ka ọwụwa n'ihi Yahwe, n'ihi Adonai nke ⟨ụwa⟩ niile.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Ugwu ndị"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "ka ọwụwa"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "gbazuru"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "n'ihi (ihu)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "n'ihi (ihu)"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ụwa⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:47.704718710Z",
+  "model": "glm-5.3"
+}

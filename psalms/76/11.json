@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 76,
+  "translation": "N'ihi na iwe nke mmadụ ga-eto gị; ihe fọdụrụ n'iwe, Ị ga-eji ya kee ⟨onwe gị⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "ga-eto gị"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ihe fọdụrụ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "n'iwe"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "Ị ga-eji ya kee"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:24.841649306Z",
+  "model": "glm-5.3"
+}

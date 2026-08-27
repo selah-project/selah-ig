@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ị ga-emekwa ⟨את⟩ uwe elu nke ephod, kpamkpam nke ákwà acha anụnụ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ị ga-emekwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe elu"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "uwe elu"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "nke ephod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "kpamkpam"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ákwà acha anụnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:33:40.406533857Z",
+  "model": "glm-5.3"
+}

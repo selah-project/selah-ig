@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Onye na-emepụta obi ha ha niile ọnụ; Onye na-aghọta Ọrụ ha niile.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Onye na-emepụta"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "obi ha"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "Onye na-aghọta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ọrụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:54.843795560Z",
+  "model": "glm-5.3"
+}

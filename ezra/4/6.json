@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "N'ime ọchịchị Akhashverosh, na mmalite nke ọchịchị ya, ha dere akwụkwọ mkpesa megide ndị bi na Yehuda na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "N'ime ọchịchị"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashverosh"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "na mmalite nke"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ọchịchị ya"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "ha dere"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "akwụkwọ mkpesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị bi na"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:52:58.919256715Z",
+  "model": "glm-5.3"
+}

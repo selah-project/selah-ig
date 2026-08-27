@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 13:3",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ma mmadụ-ozi Yahwe pụtara nye nwanyị ahụ, ma o kwuru ya: Le, biko, ⟨את⟩ nwunye na-amụghị nwa ka ị bụ, ma ị amụbeghị; ma ị ga-atụ ime, ma mụọ nwa nwoke.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mmadụ-ozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nwanyị ahụ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma o kwuru"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwunye na-amụghị nwa"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "nwunye na-amụghị nwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ị"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "amụbeghị"
+    },
+    {
+      "surface": "והרית",
+      "gloss": "ga-atụ ime"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "ga-amụ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    }
+  ],
+  "timestamp": "2026-08-27T08:51:45.078248835Z",
+  "model": "glm-5.3"
+}

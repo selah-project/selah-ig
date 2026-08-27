@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 64,
+  "translation": "Dịka ọkụ na-akụ ụka akọrọ, mmiri na-asọpụta n'ihi ọkụ, iji mee ka aha gị mara ndị iro gị, ka mba ndị na-ama jijiji n'ihi ọnụnọ gị.",
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "dịka ọkụ na-akụ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "ụka akọrọ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "na-asọpụta"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "iji mee ka a mara"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "ndị iro gị"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "n'ihi ọnụnọ gị"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ga-ama jijiji"
+    }
+  ],
+  "timestamp": "2026-08-27T11:10:11.013367512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Mkpụrụ ha Ị ga-ebibi site n'ụwa, na mkpụrụ ha site n'ụmụ mmadụ.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "Mkpụrụ ha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "site n'ụwa"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "Ị ga-ebibi"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "na mkpụrụ ha"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "site n'ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:45.307222303Z",
+  "model": "glm-5.3"
+}

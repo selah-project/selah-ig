@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 94,
+  "translation": "N'ihi na Yahwe agaghị ahapụ ⟨⟨ndị⟩⟩ ohu ya, ma ihe nketa ya ọ gaghị agbahapụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "ahapụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ohu ya"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "ma ihe nketa ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "agbahapụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:11.739173612Z",
+  "model": "glm-5.3"
+}

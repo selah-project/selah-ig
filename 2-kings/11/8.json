@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 11:8",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Unu ga-agba eze gburugburu, onye ọ bụla na ngwá agha ya n'aka ya; onye ọ bụla na-abanye n'ime ahịa a ga-egbu; unu ga-anọ ⟨את⟩ eze, mgbe ọ na-apụ na mgbe ọ na-abata.",
+  "tokens": [
+    {
+      "surface": "והקפתם",
+      "gloss": "unu ga-agba gburugburu"
+    },
+    {
+      "surface": "על",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "na ngwá agha ya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "onye na-abanye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "השדרות",
+      "gloss": "ahịa nche"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a ga-egbu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "unu ga-abụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eze"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "mgbe ọ na-apụ"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "mgbe ọ na-abata"
+    }
+  ],
+  "timestamp": "2026-08-27T10:16:48.866952254Z",
+  "model": "glm-5.3"
+}

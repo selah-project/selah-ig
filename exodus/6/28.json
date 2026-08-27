@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "O wee mee na ụbọchị Yahwe gwara Moshe okwu n'ala Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "o wee mee"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na ụbọchị"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gwara okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:09:20.426294828Z",
+  "model": "glm-5.3"
+}

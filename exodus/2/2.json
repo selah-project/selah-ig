@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Nwaanyị ahụ tụụrụ ime, ọ mụrụ nwa nwoke; ọ hụrụ ⟨את⟩ ya na ọ dị mma, o zoro ya ọnwa atọ.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ọ tụụrụ ime"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nwaanyị ahụ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ọ mụrụ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ọ hụrụ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "o zoro ya"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "ọnwa"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:54.170737869Z",
+  "model": "glm-5.3"
+}

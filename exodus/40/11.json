@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Were tee ⟨את⟩ ite-ọsịsa ahụ na ⟨את⟩ ọnụ ya, dọkwa ya ⟨את⟩ nsọ.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "tee-mmanụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ite-ọsịsa ahụ"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ite-ọsịsa ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọnụ ya"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ọnụ ya (ọdọ ya)"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "dọkwa nsọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ọ (ite-ọsịsa ahụ)"
+    }
+  ],
+  "timestamp": "2026-08-27T06:43:11.610656276Z",
+  "model": "glm-5.3"
+}

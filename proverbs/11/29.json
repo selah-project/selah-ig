@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 11:29",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Onye na-akpaghasị ụlọ ya ga-eketa ifufe, ma onye nzuzu ga-abụ ohu nye onye amamihe nke obi.",
+  "tokens": [
+    {
+      "surface": "עוכר",
+      "gloss": "na-akpaghasị"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "ga-eketa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ifufe"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ma ... ga-abụ ohu"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "onye nzuzu"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "nye onye amamihe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "nke obi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:21:31.230410299Z",
+  "model": "glm-5.3"
+}

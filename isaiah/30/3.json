@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ma ike nke Paroh ga-abụ⟨is⟩ ihere nye unu, na mgbaba n'ọnụ nmọọba nke Mitsraim ka ihere mgbasa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ma ọ ga-abụ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nye unu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ike"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "nke Paroh"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ihere"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "na mgbaba"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "n'ọnụ nmọọba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nke Mitsraim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "ihere mgbasa"
+    }
+  ],
+  "timestamp": "2026-08-27T10:51:08.680377744Z",
+  "model": "glm-5.3"
+}

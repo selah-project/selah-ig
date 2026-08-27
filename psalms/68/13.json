@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Eze ndị agha na-agba ọsọ, na-agba ọsọ; ma onye bi n'ụlọ na-ekewa ihe e nwetara n'agha.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "na-agba ọsọ"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "na-agba ọsọ"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "ma onye bi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "na-ekewa"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ihe e nwetara n'agha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:55.727575328Z",
+  "model": "glm-5.3"
+}

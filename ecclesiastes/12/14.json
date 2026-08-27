@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "N'ihi na Elohim ga-eweta ⟨את⟩ omume niile n'ikpe, tinyere ihe zoro ezo niile, ma ọ dị mma ma ọ bụ ọjọọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omume niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "omume"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ga-eweta"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "n'ikpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "tinyere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ihe zoro ezo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma ọ dị"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:18:16.699510649Z",
+  "model": "glm-5.3"
+}

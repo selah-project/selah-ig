@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "N'ihi na nke a bụ ⟨⟨⟩⟩ Elohim, Elohim anyị, ruo mgbe ebighị ebi na ruo mmụọ; ọ bụ ya na-edu anyị ruo ọnwụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na ruo mmụọ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ ya"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "na-edu anyị"
+    },
+    {
+      "surface": "על",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:23.384132518Z",
+  "model": "glm-5.3"
+}

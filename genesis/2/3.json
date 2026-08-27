@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Mgbe ahụ, Elohim gọziri ⟨את⟩ ụbọchị nke asaa, ma doo ya nsọ, n'ihi na n'ime ya Ọ nọrọ jụụ site na ọrụ Ya niile nke Elohim kere iji mee.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ma gọziri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụbọchị nke asaa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "nke asaa"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ma doo nsọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ụbọchị nke asaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Ọ nọrọ jụụ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "site na niile"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "ọrụ Ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "iji mee"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:40.126083546Z",
+  "model": "glm-5.3"
+}

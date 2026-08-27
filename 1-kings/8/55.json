@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ guzoro sikwa ike, gọzie ⟨את⟩ mmemme niile nke nzukọ Israel, olu dara ụda, na-ekwu.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ọ guzoro sikwa ike"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "gọziri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmemme niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "mmemme nke nzukọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dara ụda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    }
+  ],
+  "timestamp": "2026-08-27T09:57:39.024868327Z",
+  "model": "glm-5.3"
+}

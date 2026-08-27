@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "O zipuru nwoke n'ihu ha — Yosef, ka ọ bụrụ ohu ka e rere.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "zipuru"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "n'ihu ha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ka ọ bụrụ ohu"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "e rere"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:09.710865880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Ị na-atụgharị anyị azụ n'ihu onye iro anyị, ma ndị kpọrọ anyị asị na-eri anyị ihe maka onwe ha.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Ị na-atụgharị anyị azụ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "azụ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "onye iro"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "ma ndị kpọrọ anyị asị"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "na-eri anyị ihe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "maka onwe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:56.980720546Z",
+  "model": "glm-5.3"
+}

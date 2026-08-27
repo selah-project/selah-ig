@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "O we kwụsị inye Lo-Ruhamah ara; ọ tụgharị ime, ma mụọ nwa nwoke.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "o we kwụsị inye ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ọ tụgharị ime"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ọ mụọ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    }
+  ],
+  "timestamp": "2026-08-27T16:45:16.866481336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Mgbe ha lelere ⟨את⟩ ya anya, ha were ndị enyi iri atọ, ha wee nọrọ ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "mgbe ha lelere"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Shimshon)"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ha were"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "iri atọ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ndị enyi"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ha wee nọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (ha nọrọ ya)"
+    }
+  ],
+  "timestamp": "2026-08-27T08:52:45.336222210Z",
+  "model": "glm-5.3"
+}

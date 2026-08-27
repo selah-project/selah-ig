@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 101,
+  "translation": "Onye na-akwa izu n'ezozo nye enyi ya — ⟨את⟩ ya ka m ga-ebibigbu; onye nwere anya ndị dị elu na obi sara mbara — ⟨את⟩ ya enweghị m ike ịnabata.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "na-akwa izu"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "n'ezozo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "enyi ya"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (onye na-akwa izu)"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "m ga-ebibigbu"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "dị elu"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "anya"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "na sara mbara"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (onye nwere anya elu na obi sara mbara)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ike ịnabata"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:44.526943878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "⟨את⟩ mmalite-izu nke m unu ga-echebe, na ụlọ nsọ m unu ga-atụ egwu; m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmalite-izu nke m"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mmalite-izu nke m"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "unu ga-echebe"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "na ụlọ nsọ m"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "unu ga-atụ egwu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:07:19.814008366Z",
+  "model": "glm-5.3"
+}

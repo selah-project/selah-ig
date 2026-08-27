@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 84,
+  "translation": "Henhene onye nke ike ya dị na gị; ụzọ njem dị n'obi ha.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Henhene"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "onye"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "ike"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na gị"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ụzọ njem"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "n'obi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:52.482998545Z",
+  "model": "glm-5.3"
+}

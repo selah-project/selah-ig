@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ala nke Yahwe Elohim gị na-achọ ⟨את⟩ ya mgbe niile; anya Yahwe Elohim gị nọkwa n'elu ya, site na mmalite ⟨the⟩ afọ ruo na njedebe afọ.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya mgbe niile"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "בה",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "site na mmalite"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo na"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "njedebe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:57:49.679128465Z",
+  "model": "glm-5.3"
+}

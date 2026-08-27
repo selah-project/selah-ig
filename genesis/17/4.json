@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Maka m, le, ọgbụgba-ndụ m dị ⟨את⟩ gị, ị ga-abụ nna nke ìgwè mba.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Maka m"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ị ga-abụ"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "nna"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ìgwè \/ ọtụtụ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba"
+    }
+  ],
+  "timestamp": "2026-08-27T05:34:45.269539316Z",
+  "model": "glm-5.3"
+}

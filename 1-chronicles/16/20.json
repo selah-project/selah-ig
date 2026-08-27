@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ma ha na-eje ije site n'otu mba gaa n'otu mba, na site n'otu alaeze gaa n'otu ndị ọzọ.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ma ha na-eje ije"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "site n'otu mba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "n'otu mba"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "na site n'otu alaeze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n'otu ndị"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:00:33.144069730Z",
+  "model": "glm-5.3"
+}

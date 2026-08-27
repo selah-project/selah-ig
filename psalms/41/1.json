@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Maka onye-eduzi egwu; abụ e ji egwu mee nke Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye-eduzi egwu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ e ji egwu mee"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Dawid"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:18.916354091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ndị ohu eze ahụ, ndị nọ n'ọnụ ụzọ eze, wee sị Mordekai, 'Gịnị kpatara na ị na-emebi ⟨את⟩ iwu eze?'",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "n'ọnụ ụzọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "gburugburu gịnị kpatara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "na-emebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu eze"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    }
+  ],
+  "timestamp": "2026-08-27T15:20:15.976968078Z",
+  "model": "glm-5.3"
+}

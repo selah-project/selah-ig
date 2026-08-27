@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Olu Yahwe na-eme ka nne mgbada mụọ nwa, ma na-eme ka ọhịa gba ọtọ; ma n'ụlọ nsọ Ya, onye ọ bụla na-ekwu, \"Kavod!\"",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Olu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "na-eme ka ... mụọ nwa"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "nne mgbada"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "ma na-eme ka ... gba ọtọ"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "ọhịa"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "ma n'ụlọ nsọ Ya"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kavod"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:07.473156307Z",
+  "model": "glm-5.3"
+}

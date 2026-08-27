@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "M wee gaa, wee zoo ya na Perath, dịka Yahwe nyere ⟨את⟩ m iwu.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "m wee gaa"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "wee zoo ya"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "na Perath"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ m"
+    }
+  ],
+  "timestamp": "2026-08-27T11:24:17.777416271Z",
+  "model": "glm-5.3"
+}

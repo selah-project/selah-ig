@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ihe-cherem ọ bụla nke a ga-cherem n'etiti ụmụ mmadụ, agaghị ezụta ya azụ; ọnwụ ka a ga-efe ya ọnwụ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ihe-cherem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "a ga-cherem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ụmụ mmadụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ezụta ya azụ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a ga-efe ọnwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:10:26.521727622Z",
+  "model": "glm-5.3"
+}

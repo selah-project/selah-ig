@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Ọbụna nwoke udo m, onye m gbakere ntịkwasi obi n'aka ya, onye na-eri nri m, welitere ukwu-akpịrị megide m.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ọbụna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "udo m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "m gbakere ntịkwasi obi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "na-eri"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "nri m"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "welitere ukwu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "akpịrị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:37.150497904Z",
+  "model": "glm-5.3"
+}

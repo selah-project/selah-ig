@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Na mmanụ maka ìhè, na ihe na-esi ísì ụtọ maka mmanụ-ete, na maka ihe ụtọ nke ọkụ-àjà.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "maka ìhè"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "ihe na-esi ísì ụtọ"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "maka mmanụ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "-ete (mmanụ-ete)"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "maka ọkụ-àjà (esi ísì ụtọ)"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ihe ụtọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:34:44.384302879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "M ga-ewe ⟨את⟩unụ were mụ were dịka ndị m, m ga-abụ unụ Elohim; unụ ga-amata na mụ bụ Yahwe, Elohim unụ, Onye na-ewepụ ⟨את⟩unụ n'okpuru arọ Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "m ga-ewe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩unụ",
+      "marks": "unụ dịka ndị m"
+    },
+    {
+      "surface": "לי",
+      "gloss": "were mụ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dịka ndị"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "m ga-abụ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unụ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "unụ ga-amata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unụ"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "Onye na-ewepụ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩unụ",
+      "marks": "unụ n'okpuru arọ Mitzrayim"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "arọ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:10:50.830534410Z",
+  "model": "glm-5.3"
+}

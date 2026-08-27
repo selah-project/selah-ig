@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Mgbe ahụ ụmụ Yisrael wepụrụ ⟨את⟩ ngwa ịchọ mma ha n'Ugwu Horev.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "wepụrụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwa ịchọ mma ha"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ngwa ịchọ mma ha"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "site n'Ugwu"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horev"
+    }
+  ],
+  "timestamp": "2026-08-27T06:37:19.604990837Z",
+  "model": "glm-5.3"
+}

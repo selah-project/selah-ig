@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Site n'agbụrụ Asher: ⟨את⟩ Mishal na ⟨את⟩ ala-ọhịa ya, ⟨את⟩ Avdon na ⟨את⟩ ala-ọhịa ya.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "site n'agbụrụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-ọhịa ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ala-ọhịa ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-ọhịa ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ala-ọhịa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:52.482740683Z",
+  "model": "glm-5.3"
+}

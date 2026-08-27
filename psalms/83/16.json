@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "Otú a ka ịchụga ha n'oké ifufe gị, ma mee ka ha tụọ egwu n'ajọ ifufe gị.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "otú a ka"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "ịchụga ha"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "n'oké ifufe gị"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "n'ajọ ifufe gị"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "ma mee ka ha tụọ egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:16.233582286Z",
+  "model": "glm-5.3"
+}

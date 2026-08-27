@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "N'ebe ì nọ ka m dabara site n'afọ nne; site n'afọ dị n'ime nne m ka ì dọtara m; ⟨n'aka gị⟩ otuto m dị mgbe niile.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "n'ebe ì nọ"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "ka m dabara"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "site n'afọ"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "site n'afọ dị n'ime"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nne m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ì"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "dọtara m"
+    },
+    {
+      "surface": "בך",
+      "gloss": "n'aka gị"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "otuto m"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:15.078337985Z",
+  "model": "glm-5.3"
+}

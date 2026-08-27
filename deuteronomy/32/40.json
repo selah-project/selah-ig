@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "N'ihi na m na-ebu aka m eluigwe, m ga-ekwu, dịka m dị ndụ ruo mgbe ebighị ebi",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "m na-ebu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨ruo⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "m ga-ekwu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dịka m dị ndụ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T08:15:57.851873914Z",
+  "model": "glm-5.3"
+}

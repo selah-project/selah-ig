@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ugbu a, bịa, dee ya n'elu bọọdụ ⟨אתם⟩, were dee ya n'akwụkwọ, ka ọ wee bụrụ maka ụbọchị ikpeazụ, maka àkàngà ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Ugbu a"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "bịa"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "dee ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "bọọdụ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ha \/ n'ihu ha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "were dee ya n'"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "akwụkwọ"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "hapụ ya n'akwụkwọ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ka ọ wee bụrụ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "maka ụbọchị"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ikpeazụ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "maka àkàngà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:51:48.153346504Z",
+  "model": "glm-5.3"
+}

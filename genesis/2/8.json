@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Yahwe Elohim wee kụọ <n>ubì<\/n> na <n>Eden<\/n>, n'<n>akụkọ ọwụwa anyanwụ<\/n>, wee tinye <n>n'ebe ahụ<\/n> ⟨את⟩ <n>mmadụ<\/n> ahụ nke o <n>kee<\/n>.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "wee kụọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "ubì"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "na Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "n'akụkọ ọwụwa anyanwụ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wee tinye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmadụ ahụ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "o kee"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:01.917535393Z",
+  "model": "glm-5.3"
+}

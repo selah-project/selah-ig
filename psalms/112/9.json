@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 112,
+  "translation": "Ọ gbasasa, o nyere ndị ogbenye; ezi omume ya na-adịgide ruo mgbe ebighị ebi; mpi ya ga-ebuliri elu n'ọdịiche.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "gbasasa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "ndị ogbenye"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ezi omume ya"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "na-adịgide"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "mpi ya"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ga-ebuliri elu"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "n'ọdịiche"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:54.660484335Z",
+  "model": "glm-5.3"
+}

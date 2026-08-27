@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "M ga-ewelikwa aka m elu gaa n'iwu gị, nke m hụrụ n'anya, m ga-atụlekwa echiche na iwu ndị i dere.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "m ga-ewelikwa elu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "n'iwu gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "m hụrụ n'anya"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "m ga-atụlekwa echiche"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "na iwu ndị i dere"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:58.587523377Z",
+  "model": "glm-5.3"
+}

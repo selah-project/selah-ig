@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Shaul hụrụ ⟨את⟩ ogige ndị Filistia, o tụrụ egwu, obi ya makasịa njọ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogige ndị Filistia"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ogige"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistia"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "tụrụ egwu"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "makasịa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "obi ya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "njọ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:27:09.981442226Z",
+  "model": "glm-5.3"
+}

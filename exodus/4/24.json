@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ma n'ụzọ, n'ebe ọdụ ụlọ, Yahwe zutere ya, wee chọọ igbu ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ma o mere"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "n'ebe ọdụ ụlọ"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "zutere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "wee chọọ"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "igbu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:08:07.794048598Z",
+  "model": "glm-5.3"
+}

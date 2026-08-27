@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "N'oge nsogbu m, m kpọrọ Yahwe oku, m kpọkwara Elohim m oku; ọ nụrụ olu m site n'ụlọ nsọ ya, mkpu m ruru n'ime ntị ya.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "n'oge nsogbu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m kpọrọ oku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma kpọkwara"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "oku"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ọ nụrụ"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "site n'ụlọ nsọ ya"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "olu m"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "mkpu m"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "n'ime ntị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:43:13.144243804Z",
+  "model": "glm-5.3"
+}

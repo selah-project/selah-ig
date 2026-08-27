@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ha bụrụ mmá-nkú ndị dị na mgbawa nke eluigwe, ka ha na-ere ìhè n'elu ⟨⟀ụwa⟩⟩; o wee bụrụ otú ahụ.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ma ha bụrụ"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "maka mmá-nkú ndị"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "na mgbawa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nke eluigwe"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "ka ha na-ere ìhè"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨⟩ ụwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o wee bụrụ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otú ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:48.200214151Z",
+  "model": "glm-5.3"
+}

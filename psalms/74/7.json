@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Ha zipụrụ ọkụ n'ụlọ nsọ gị; ruo n'ala ha rụrụ ohorọ ebe obibi aha gị.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ha zipụrụ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "n'ụlọ nsọ gị"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ruo n'ala"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ha rụrụ ohorọ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ebe obibi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:07.104506020Z",
+  "model": "glm-5.3"
+}

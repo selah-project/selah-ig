@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Mgbakọ ahụ dum dị ka otu: puku iri anọ na abụọ, narị atọ na iri isii.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dum"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "Mgbakọ ahụ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "dị ka otu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "iri anọ"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "(puku dị iche iche)"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "puku abụọ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "narị atọ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(narị)"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "iri isii"
+    }
+  ],
+  "timestamp": "2026-08-27T15:35:39.465262538Z",
+  "model": "glm-5.3"
+}

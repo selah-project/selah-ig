@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "M ga-eme ọgbụgba-ndụ m n'etiti m na gị, ma mee ka ⟨את⟩ gị bawanye nke ukwuu n'ezie.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "M ga-eme"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "n'etiti m"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "na n'etiti gị"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "ma mee ka ... bawanye"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ gị",
+      "marks": "gị"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "n'ezie"
+    }
+  ],
+  "timestamp": "2026-08-27T05:34:45.269282964Z",
+  "model": "glm-5.3"
+}

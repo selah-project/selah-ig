@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ndị Midyan re ya nye Misraim, nye Potifar, odíaanyã nke Paroh, onyeisi ndị nche.",
+  "tokens": [
+    {
+      "surface": "ו המדנים",
+      "gloss": "ndị Midyan"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ha re"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Yosef)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo \/ nye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim (Ijipt)"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "Potifar"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "odíaanyã (saris)"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "ndị nche \/ ndị na-egbu anụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:53:49.432530035Z",
+  "model": "glm-5.3"
+}

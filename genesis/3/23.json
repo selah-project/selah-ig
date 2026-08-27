@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Yahwe Elohim wee zigara ya pụọ n'ogige Eden, ka ọ na-arụ ọrụ ⟨את⟩ ala nke a si na ya were ya.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "wee zigara ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "pụọ n'ogige"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ka ọ na-arụ ọrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a si na ya were ya"
+    },
+    {
+      "surface": "משם",
+      "gloss": "site n'ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:45.805696960Z",
+  "model": "glm-5.3"
+}

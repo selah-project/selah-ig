@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ọ ghalị ịghọ unyi dịka onye isi n'etiti ndị ya, iji merụọ onwe ya nsọ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ghalị"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ịghọ unyi"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "dịka onye isi"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "n'etiti ndị ya"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "iji merụọ onwe ya nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:01:37.117926030Z",
+  "model": "glm-5.3"
+}

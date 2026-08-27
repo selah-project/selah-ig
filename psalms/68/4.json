@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Ma ndị ezi omume ga-eto, ka ha ṅụlie n'ihu Elohim, ka ha ṅụlie na obi ụtọ.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "ma ndị ezi omume"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ga-eto"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ka ha ṅụlie"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "ka ha ṅụlie"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "na obi ụtọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:42.919068384Z",
+  "model": "glm-5.3"
+}

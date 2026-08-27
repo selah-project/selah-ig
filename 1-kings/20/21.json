@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Eze Yisrael pụtara, wee tie ⟨את⟩ ụnyinya na ⟨את⟩ ịnyanya-ọgba-gba, o mekwara ndị Aram ka mkpụrụ-obi dị ukwuu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wee tie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụnyinya"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ụnyinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ịnyanya-ọgba-gba"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ịnyanya-ọgba-gba"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "o mekwara ka"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "ndị Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mkpụrụ-obi"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "dị ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T17:14:55.497907915Z",
+  "model": "glm-5.3"
+}

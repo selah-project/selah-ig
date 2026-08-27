@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Amara m nnụnụ niile nke ugwu, na anụmanụ ọhịa nke mbadamba — ha nọ n'akụkụ m.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "amara m"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "nnụnụ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "nke ugwu"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "na anụmanụ ọhịa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "nke mbadamba"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "n'akụkụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:27.541711663Z",
+  "model": "glm-5.3"
+}

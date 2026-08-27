@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 10:5",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "na nri tebụlụ ya, na mgbakọ ndị ohu ya, na ndọrọ ndị na-ejere ya ozi, na uwe ha, na ndị na-eledo ya ihe ọṅụṅụ, na ọfụma-ọkụ ya nke ọ na-ebuli elu n'ụlọ Yahwe; ma mmụọ adịghịzi ya.",
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "na nri"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "tebụlụ ya"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "na mgbakọ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "na ndọrọ"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "ndị na-ejere ya ozi"
+    },
+    {
+      "surface": "ומלבשיהם",
+      "gloss": "na uwe ha"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "na ndị na-eledo ya ihe ọṅụṅụ"
+    },
+    {
+      "surface": "ועלתו",
+      "gloss": "na ọfụma-ọkụ ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ọ na-ebuli elu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma…adịghịzi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adịghịzi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mmụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:37:19.844726004Z",
+  "model": "glm-5.3"
+}

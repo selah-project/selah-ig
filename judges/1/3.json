@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 1:3",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Yehuda kwuru na Shimon, nwanne ya, sị, Rịgo m ⟨את⟩ n'okenke m, ka anyị wee lụọ ndị Kenanị ọgụ; m ga-aga m kwa ⟨את⟩ gị n'okenke gị. Shimon wee soro ya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לשמעון",
+      "gloss": "na Shimon"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "rịgo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ m",
+      "marks": "m"
+    },
+    {
+      "surface": "בגורלי",
+      "gloss": "n'okenke m"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ka anyị wee lụọ ọgụ"
+    },
+    {
+      "surface": "בכנעני",
+      "gloss": "ndị Kenanị"
+    },
+    {
+      "surface": "ויהלכתי",
+      "gloss": "m ga-aga"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m onwe m"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị",
+      "marks": "gị"
+    },
+    {
+      "surface": "בגורלך",
+      "gloss": "n'okenke gị"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wee soro"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    }
+  ],
+  "timestamp": "2026-08-27T08:40:26.955536476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "N'aka ha ka ha ga-ebuli gị elu, ka ụkwụ gị ghara ịkụ nkume.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "aka (nke aka dị larịị)"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "ha ga-ebuli gị elu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka ... ghara"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ịkụ"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ụkwụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:01.971937857Z",
+  "model": "glm-5.3"
+}

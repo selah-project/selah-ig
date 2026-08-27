@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 130,
+  "translation": "Ma Ọ ga-azọta ⟨את⟩ Yisrael site na mmehie ya niile.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Ma Ọ"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ga-azọta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "site na niile"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "mmehie ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:20.566508533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ọ wee ruo nso mgbe ahụ, obi David kụrụ ⟨את⟩ ya, n'ihi na ọ bepụla ⟨את⟩ akụkụ uwe nke Shaul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ wee ruo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "kụrụ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ọ bepụla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akụkụ uwe"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "akụkụ uwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-27T09:19:17.924042852Z",
+  "model": "glm-5.3"
+}

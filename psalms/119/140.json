@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Okwu gị ka a na-eme ka ọ dị ọcha nke ukwuu, ma ohu gị hụrụ ya n'anya.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "ka a na-eme ka ọ dị ọcha"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "okwu gị"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "ma ohu gị"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "hụrụ ya n'anya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:04.551065983Z",
+  "model": "glm-5.3"
+}

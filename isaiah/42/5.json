@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 42:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Otú a ka El, Yahwe, kwuru — Onye kere ⟨את⟩ eluigwe ma megbasa ha, Onye tụsasịrị ⟨את⟩ ụwa na ihe na-apụta na ya, Onye na-enye ume ìhè nye ndị mmadụ n'elu ya, na mmụọ nye ndị na-eje ije na ya:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Otú a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Onye kere"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨את⟩ eluigwe",
+      "marks": "eluigwe"
+    },
+    {
+      "surface": "ונוטיהם",
+      "gloss": "ma megbasa ha"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "Onye tụsasịrị"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ ụwa",
+      "marks": "ụwa"
+    },
+    {
+      "surface": "וצאצאיה",
+      "gloss": "na ihe na-apụta na ya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Onye na-enye"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ume ìhè"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "nye ndị mmadụ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na mmụọ"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "nye ndị na-eje ije"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:56:42.560468888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ikpe ziri ezi gị dị ka ugwu ndị El; ikpe gị bụ mmiri miri emi ukwu; mmadụ na anụ ụlọ ka Ị na-azọpụta, Yahwe.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ikpe ziri ezi gị"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "dị ka ugwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "ikpe gị"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "mmiri miri emi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "na anụ ụlọ"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "na-azọpụta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:25.342145040Z",
+  "model": "glm-5.3"
+}

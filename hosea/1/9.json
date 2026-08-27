@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ wee sị, kpọọ aha ya Lo-Ammi, n'ihi na unu abụghị ndị m, mụ akwa⟨את⟩ adịghịkwa maka unu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ọ wee sị"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kpọọ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (ndị m)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abụghị"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mụ akwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "adịghịkwa"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka unu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:44:45.425793556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 84,
+  "translation": "Henhene ndị nọ n'ụlọ gị; ha ga-na-aga n'ihu na-eto gị. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Henhene"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ndị nọ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "n'ụlọ gị"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ga-na-aga n'ihu"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "na-eto gị"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:52.482727113Z",
+  "model": "glm-5.3"
+}

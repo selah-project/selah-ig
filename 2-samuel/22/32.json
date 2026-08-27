@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "N'ihi na onye bụ El ma e wezụga Yahwe? Onye bụ nkume nkume ma e wezụga Elohim anyị?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ma e wezụga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "צור",
+      "gloss": "nkume nkume"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ma e wezụga"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:47:34.266461049Z",
+  "model": "glm-5.3"
+}

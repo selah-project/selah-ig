@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma site n'okpuru Yissaskar, ⟨את⟩ Kishyon na ⟨את⟩ ala-ógbè ya, ⟨את⟩ Daberath na ⟨את⟩ ala-ógbè ya.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ma site n'okpuru"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishyon"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-ógbè ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ala-ógbè ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberath"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-ógbè ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ala-ógbè ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:55.125849946Z",
+  "model": "glm-5.3"
+}

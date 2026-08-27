@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Nke a bụ iwu, ⟨iwu ndị⟩ e dere ede na ikpe ndị Yahwe, Elohim unu, nyere iji kuziere unu, ime ha n'ala nke unu na-agafe ebe ahụ iji we ya n'aka.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Nke a"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iwu ndị e dere ede"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "na ikpe ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "iji kuziere"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ime"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "iji we ya n'aka"
+    }
+  ],
+  "timestamp": "2026-08-27T07:53:00.702485753Z",
+  "model": "glm-5.3"
+}

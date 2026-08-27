@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 15:10",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ma ndị ikom Yehuda kwuru, «Maka gịnị ka unu rịgooro megide anyị?» Ha wee kwuo, «Iji kee ⟨את⟩ Shimshon ka anyị wee mee ya ihe ọ bụla o mere anyị, ka anyị rịgoro.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maka gịnị"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "unu rịgooro"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "megide anyị"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha kwuru"
+    },
+    {
+      "surface": "לאסור",
+      "gloss": "iji kee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimshon"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshon"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ime ya ihe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:52:51.772577480Z",
+  "model": "glm-5.3"
+}

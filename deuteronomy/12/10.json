@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma mgbe unu gafere ⟨את⟩ Yarden ma bie n'ala nke Yahwe Elohim unu na-ekere ⟨את⟩ unu, ma Ọ dọtachara unu n'aka ndị iro unu niile gbara gburugburu, unu ebikwa n'udo;",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "unu gafere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "unu bi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "na-ekere"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "ala nke Yahwe"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "dọtachara"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "n'aka ndị niile"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ndị iro unu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "unu ebikwa"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "n'udo"
+    }
+  ],
+  "timestamp": "2026-08-27T08:03:08.680647237Z",
+  "model": "glm-5.3"
+}

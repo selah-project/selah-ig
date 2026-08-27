@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "M kwụsịrị ikwu, n'udo nzuzo; m ejighị okwu, ọbụna okwu ọma; mmerụ ahụ m gbawara n'ime.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "m kwụsịrị ikwu"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "n'udo nzuzo"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "m ejighị okwu"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ọbụna okwu ọma"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "mmerụ ahụ m"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "gbawara n'ime"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:56.565602633Z",
+  "model": "glm-5.3"
+}

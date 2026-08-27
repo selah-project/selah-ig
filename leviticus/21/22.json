@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Nri nke Elohim ya — nke ihe-nsọ-ke-nsọ, na nke ihe-nsọ — ka ọ ga-eri.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "nke Elohim ya"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "nke ihe-nsọ-ke-nsọ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ihe-nsọ-ke-nsọ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na nke"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ihe-nsọ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ọ ga-eri"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:38.237448495Z",
+  "model": "glm-5.3"
+}

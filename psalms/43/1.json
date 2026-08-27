@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Kpee m ikpe, Elohim, ma gbachitere ọnụ m n'aka mba na-enweghị chesed; site n'aka nke aghụghọ na ihe na-ezighị ezi, zọpụta m.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Kpee m ikpe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "ma gbachitere"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ọnụm"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "n'aka mba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-enweghị"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "site n'aka nke"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aghụghọ"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "na ihe na-ezighị ezi"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "zọpụta m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:03.034806861Z",
+  "model": "glm-5.3"
+}

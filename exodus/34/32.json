@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Mgbe nke ahụ gasịrị, ụmụ Yisrel niile niile nụsịara; Moshe nyekwara ha iwu ⟨את⟩ ihe niile nke Yahwe kwuru ⟨את⟩ ya n'ugwu Sainaị.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nke ahụ gasịrị"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "ha nụsịara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrel"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "o nyekwara iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sainaị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:37:19.271014556Z",
+  "model": "glm-5.3"
+}

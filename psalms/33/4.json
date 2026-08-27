@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Maka ⟨okwu⟩ Yahwe kwụọ raara n'ụzọ ziri ezi, ma ọrụ ya niile dị na ezi nkwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "kwụọ raara n'ụzọ ziri ezi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨okwu⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma ... niile"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ọrụ ya"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "dị na ezi nkwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:23.662910362Z",
+  "model": "glm-5.3"
+}

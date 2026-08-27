@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Ọ bụrụ na agụọ m agụụ, agaghị m agwa gị; n'ihi na nke m bụ ụwa na iju ya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "agụọ m agụụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "m ga-agwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nke m bụ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "na iju ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:27.541821297Z",
+  "model": "glm-5.3"
+}

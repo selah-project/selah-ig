@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Nna nwa agbọghọ ahụ ga-agwa ndị okenye ahụ sị: ⟨את⟩ nwa m nwanyị ka m nyere nwoke a dịka nwunye, ma ọ kpọọla ya asọ.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ga-agwa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nwa agbọghọ ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "okenye ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa m nwanyị"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "nwa m nwanyị"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ka m nyere"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dịka nwunye"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "ma ọ kpọọla ya asọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:09:30.737203526Z",
+  "model": "glm-5.3"
+}

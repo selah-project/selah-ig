@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ha hapụrụ ⟨את⟩ chi ha n'ebe ahụ, ma Davịd nyere iwu, e ghere ha n'ọkụ.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ha hapụrụ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chi ha"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "chi ha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma Davịd nyere iwu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "e ghere ha"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:00:04.976207407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 59,
+  "translation": "Ka ha laghachi n'anyasị, na-eti mkpu dịka nkịta, na-agagharị gburugburu obodo.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ka ha laghachi"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "n'anyasị"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "na-eti mkpu"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "dịka nkịta"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "na-agagharị gburugburu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:08.965627362Z",
+  "model": "glm-5.3"
+}

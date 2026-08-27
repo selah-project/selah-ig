@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "N'ihi na ngwa ọgụ niile nke onye agha na-eti mkpọtụ ọgbaaghara, na uwe gbagọrọ agbagọ n'ọbara — ọ ga-abụ maka ọkụ ọkụ, ihe oriri nke ọkụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "ngwa ọgụ"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "nke onye agha"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "na-eti mkpọtụ ọgbaaghara"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "na uwe"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "gbagọrọ agbagọ"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "n'ọbara"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "maka ọkụ ọkụ"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "ihe oriri"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nke ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:37:11.087537589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 21:1",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Mgbe okwu ndị a gasịrị, ubi va dịrị Naebot onye Jezreel, nke ⟨adị⟩ na Jezreel, nso obí Ahab, eze Shomron.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mgbe…gasịrị"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ubi va"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dịrị"
+    },
+    {
+      "surface": "לנבות",
+      "gloss": "Naebot"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "onye Jezreel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "na Jezreel"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "nso"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "obí"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-08-27T10:08:56.158868471Z",
+  "model": "glm-5.3"
+}

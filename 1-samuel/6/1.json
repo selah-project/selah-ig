@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ark Yahwe nọrọ n'ala ndị Filistia ọnwa asaa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dị"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Filistia"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ọnwa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:33:13.688200037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "M gbupụtara ọgbụgba-ndụ maka onye m họpụtara; m ṅụrụ iyi maka David, ohu m.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "m gbupụtara"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "maka onye m họpụtara"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "m ṅụrụ iyi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "maka David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:40.703028158Z",
+  "model": "glm-5.3"
+}

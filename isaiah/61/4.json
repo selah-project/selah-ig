@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 61:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 61,
+  "translation": "Ha ga-ewu ihe mkpọfụ oge ochie, ha ga-ewelite mkpọkọ ndị mbụ, ha ga-emegharị obodo ndị gbara ọkọ, mkpọkọ nke ọgbọ na ọgbọ.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Ha ga-ewu"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ihe mkpọfụ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oge ochie"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "mkpọkọ"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ndị mbụ"
+    },
+    {
+      "surface": "יקוממו",
+      "gloss": "ha ga-ewelite"
+    },
+    {
+      "surface": "וחדשו",
+      "gloss": "ha ga-emegharị"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ndị gbara ọkọ"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "mkpọkọ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na ọgbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:10:30.543648417Z",
+  "model": "glm-5.3"
+}

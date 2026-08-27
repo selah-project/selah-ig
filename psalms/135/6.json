@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 135,
+  "translation": "Ihe niile Yahwe chọrọ, o mere ya n'eluigwe ma n'ụwa, n'oké mmiri na mmiri omimi niile.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chọrọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ma n'ụwa"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "n'oké mmiri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "mmiri omimi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:02.642890275Z",
+  "model": "glm-5.3"
+}

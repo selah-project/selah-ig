@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ị ga-eme ka ha dị nsọ, ha ga-abụkwa nsọ nke nsọ ndị; onye ọ bụla na-emetụ ha ga-adị nsọ.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "ị ga-eme ka ha dị nsọ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ha ga-abụkwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nke nsọ ndị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "na-emetụ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ga-adị nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:34.110086845Z",
+  "model": "glm-5.3"
+}

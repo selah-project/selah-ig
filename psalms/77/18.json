@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "Mmiri wụsara site na igwe ojii dị arọ; mbara igwe nyere ⟨olu⟩; ọbụna mma ọgụ gị na-agagharị.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "wụsara"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "igwe ojii dị arọ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mbara igwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ọbụna"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "mma ọgụ gị"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "na-agagharị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:25.925446486Z",
+  "model": "glm-5.3"
+}

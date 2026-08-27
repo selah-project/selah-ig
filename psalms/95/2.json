@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 95,
+  "translation": "Ka anyị bịa n'ihu ya n'ekele, ka anyị tie mkpu Ị ṅụ n'anya nye ya n'abụ ndị e ji Ịgba egwu.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "ka anyị bịa n'ihu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "n'ekele"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "n'abụ ndị e ji Ịgba egwu"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "ka anyị tie mkpu Ị ṅụ n'anya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nye ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:20.736446334Z",
+  "model": "glm-5.3"
+}

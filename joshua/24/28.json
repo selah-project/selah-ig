@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Yehoshua wee zipụta ⟨את⟩ ndị mmadụ, onye ọ bụla gaa ebe ihe nketa ya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "zipụta"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị mmadụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "gaa ebe ihe nketa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:39:35.572072539Z",
+  "model": "glm-5.3"
+}

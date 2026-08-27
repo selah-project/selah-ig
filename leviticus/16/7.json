@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ọ ga-ewere ⟨את⟩ abụọ ahụ ebunu ndị ahụ, were guzo ⟨את⟩ ha n'ihu Yahwe, n'ọnụ ụzọ àkwa nzukọ.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Ọ ga-ewere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abụọ ahụ ebunu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ ahụ"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "ebunu ndị ahụ"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "were guzo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "n'ọnụ ụzọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àkwa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:57:41.284344909Z",
+  "model": "glm-5.3"
+}

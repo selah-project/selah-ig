@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Betsalel wee mee ⟨את⟩ ụlọ-akpa ahụ site na osisi shittim — ogologo yа ама-atọ na ọkara, obosara аmа аbụọ na ọkara, elu аmа аbụọ na ọkara.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wee mee"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ-akpa ahụ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ụlọ-akpa ⟨the⟩"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "аmа аtọ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na ọkara"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ogologo ya"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na аmа"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na ọkara"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "obosara ya"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na аmа"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na ọkara"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "elu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:11.637028010Z",
+  "model": "glm-5.3"
+}

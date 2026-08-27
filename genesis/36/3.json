@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "na ⟨את⟩ Bosmat nwa nwanyị Yishmael, nwanne Newayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "nwanne"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Newayot"
+    }
+  ],
+  "timestamp": "2026-08-27T05:51:05.692969346Z",
+  "model": "glm-5.3"
+}

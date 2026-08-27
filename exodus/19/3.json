@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 19:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Moshe rịgoro ruo Elohim, Yahwe kpọrọ ya site na ugwu ahụ, na-asị: Otú a ka ị ga-ekwu maka ụlụ Yaakov, gwa ụmụ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "rịgoro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kpọrọ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ugwu ahụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otú a"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ị ga-ekwu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "maka ụlụ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ותגיד",
+      "gloss": "gwa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T06:20:15.398050162Z",
+  "model": "glm-5.3"
+}

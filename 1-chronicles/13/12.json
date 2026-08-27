@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "David jikwaa egwu tụọ ⟨את⟩ Elohim n'ụbọchị ahụ, na-asị: Olee otu m ga-esi bubata n'aka m ⟨את⟩ Igbe Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "jikwaa egwu tụọ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Olee otu"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "m ga-esi bubata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n'aka m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Igbe Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Igbe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:00:54.372790797Z",
+  "model": "glm-5.3"
+}

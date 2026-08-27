@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ị gaghị alụkọ ọnụ na ha; nwa gị nwanyị ị gaghị enye maka nwa ya nwoke, nwa ya nwanyị ị gaghị ewere maka nwa gị nwoke.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ dịghị"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "ị ga-alụkọ ọnụ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na ha"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "nwa gị nwanyị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ị ga-enye"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "maka nwa ya nwoke"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "na nwa ya nwanyị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ị ga-ewere"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "maka nwa gị nwoke"
+    }
+  ],
+  "timestamp": "2026-08-27T07:55:06.608382286Z",
+  "model": "glm-5.3"
+}

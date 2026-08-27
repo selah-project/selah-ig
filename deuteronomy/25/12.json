@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "mgbe ahụ ị ga-ebibi ⟨את⟩ aka ya; anya gị ekwesịghị imeto ya.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "ị ga-ebibi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka ya"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekwesịghị"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "imeto"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "anya gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:08:39.889713559Z",
+  "model": "glm-5.3"
+}

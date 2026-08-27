@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "M ga-ekwe gị nkwa ọlụlụ maka onwe m n'eziokwu; ị ga-amata ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "m ga-ekwe gị nkwa ọlụlụ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka onwe m"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "n'eziokwu"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ị ga-amata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T12:38:36.794027668Z",
+  "model": "glm-5.3"
+}

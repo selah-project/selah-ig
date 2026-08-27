@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Cheta ihe ndị dị ịtụnanya nke o mere, ihe mgbaàmà ya, na ikpe nke ọnụ ya",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Cheta"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ihe ndị dị ịtụnanya ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "ihe mgbaàmà ya"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "na ikpe"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "nke ọnụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:35.011468277Z",
+  "model": "glm-5.3"
+}

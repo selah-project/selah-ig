@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "N'ihe isi mgbu nke ụmụ mmadụ ⟨anaghị⟩ ha nọ, ma ṅụmmadụ anaghị eme ha ihe.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "n'ihe isi mgbu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nke ụmụ mmadụ"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "⟨anaghị⟩ ha nọ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ma ṅụmmadụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "eme ha ihe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:33.498687948Z",
+  "model": "glm-5.3"
+}

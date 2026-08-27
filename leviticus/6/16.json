@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma onye-ọnyụ ọ bụla nke onye nchụàjà ga-abụ nke a ga-agbanye niile n'ọkụ; a ga-erịghị ya.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ma ọ bụla"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "onye-ọnyụ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "nke onye nchụàjà"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "a ga-agbanye niile n'ọkụ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga-erịghị"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:45:16.115445931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ọ ga-abụkwa na mgbe unu batarịrị n'ala nke Yahwe ga-enye unu, dịka o kwuru, unu ga-echebe ⟨את⟩ ọrụ a;",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụkwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "unu batarịrị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ga-enye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o kwuru"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "unu ga-echebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ a"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T06:17:12.111398207Z",
+  "model": "glm-5.3"
+}

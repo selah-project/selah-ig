@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "M wee sọ onye nzisa ozi ahụ na-ekwu n'ime m okwu, sị, 'Ị na-aga ebee ndị a na-ebu ⟨את⟩ ahụ ephah?'",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "m wee sọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "onye nzisa ozi ahụ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "na-ekwu okwu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "n'ime m"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ọ na-aga ebee"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "na-ebu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahụ ephah"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ahụ ephah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:02:56.163034477Z",
+  "model": "glm-5.3"
+}

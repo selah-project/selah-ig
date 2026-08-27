@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Nnụnụ nke eluigwe, na azụ̀ nke ⟨the⟩ oké osimiri, ihe na-agafe ⟨the⟩ ụzọ ndị nke mmiri.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "nnụnụ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "na azụ̀ nke"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ụzọ ndị"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nke mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:22.115983281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 62,
+  "translation": "Ruo mgbe ole ka ụ ga-awakpo otu nwoke, na-achọ igbu ya, unu niile — dịka mgbidi na-adaba, mgbidi mmiri a kụrụ aka?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "mgbe ole"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "ụ ga-awakpo"
+    },
+    {
+      "surface": "על",
+      "gloss": "otu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "na-achọ igbu"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "unu niile"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "dịka mgbidi"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "na-adaba"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "mgbidi mmiri"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "a kụrụ aka"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:08.897096206Z",
+  "model": "glm-5.3"
+}

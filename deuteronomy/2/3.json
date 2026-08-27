@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ịgagharịla gburugburu ⟨את⟩ ugwu a ogologo zuọgị; unu gagharịa, pụọ unu gaa akụkụ ugwu.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ogologo zuọgị"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gị"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ịgagharịla gburugburu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugwu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "pụọ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "akụkụ ugwu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:49:22.560278685Z",
+  "model": "glm-5.3"
+}

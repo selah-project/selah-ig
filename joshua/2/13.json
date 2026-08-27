@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "ma mezie ka nna m na nne m na ụmụnne m na ụmụnne m ndị inyom na ihe niile nke ha dị ndụ, ma napụta ⟨את⟩ mkpụrụ obi anyị n'ọnwụ.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "ma mezie ka ha dị ndụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna m"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nne m"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nne m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụnne m"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ụmụnne m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụnne m ndị inyom"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "ụmụnne m ndị inyom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "ma napụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpụrụ obi anyị"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "mkpụrụ obi anyị"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "n'ọnwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:21:19.386043150Z",
+  "model": "glm-5.3"
+}

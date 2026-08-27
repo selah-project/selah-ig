@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ma Balak nwa Tzippor hụrụ ⟨את⟩ ihe niile nke Yisrael mere ndị Amori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ma Balak hụrụ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tzippor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ndị Amori"
+    }
+  ],
+  "timestamp": "2026-08-27T07:33:25.479088299Z",
+  "model": "glm-5.3"
+}

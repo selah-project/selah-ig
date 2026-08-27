@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Were tee ⟨את⟩ ebe-ịchụàjà-ọkụ na ⟨את⟩ ngwá ya niile, dọkwa ⟨את⟩ ebe-ịchụàjà ahụ nsọ, ebe-ịchụàjà ahụ ga-abụ ⟨is⟩ nsọ karịsịa nsọ.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "tee-mmanụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe-ịchụàjà-ọkụ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ebe-ịchụàjà"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ọkụ-ọffering"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngwá ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwá ya"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "dọkwa nsọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe-ịchụàjà ahụ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe-ịchụàjà ahụ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe-ịchụàjà ahụ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "karịsịa nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:43:11.610508587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Onye nchụàjà ga-nyekwu, mmadụ ga-egbu ⟨את⟩ nnnụhụ̄ nke mbụ n'ime ite ọla n'elu mmiri dị ndụ.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ga-nyekwu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ga-egbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnụ̄ anụ"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "nnụ̄ anụ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ite"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ọla"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dị ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:54:27.172331217Z",
+  "model": "glm-5.3"
+}

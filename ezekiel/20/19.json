@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 20:19",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "M bụ Yahwe Elohim unu; n'iwu m, na-agagharị, ma ⟨את⟩ ikpe ziri ezi m, na-edobe, ma na-emekwa ⟨את⟩ ha.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "M"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "בחקותי",
+      "gloss": "n'iwu m"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "na-agagharị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikpe ziri ezi m"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ikpe ziri ezi m"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "na-edobe"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ma na-emekwa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:11:59.379743067Z",
+  "model": "glm-5.3"
+}

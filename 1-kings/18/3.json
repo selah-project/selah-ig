@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ahab kpọrọ Ovadyahu, onye nwere ⟨ọchịchị⟩ n'ụlọ ahụ; Ovadyahu na-atụ Yahwe ⟨sọ⟩ nke ukwuu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kpọrọ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "על",
+      "gloss": "nwere ⟨ọchịchị⟩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "n'ụlọ ahụ"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "Ovadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "na-atụ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:05:22.092076932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ndị niile fọdụrụ site n'aka ndị Hiti, ndị Amori, ndị Perizi, ndị Hivi na ndị Yevusi, ndị na-abụghị site na Yisrael ha.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "fọdụrụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site n'aka"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ndị Hiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ndị Amori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ndị Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ndị Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ndị Yevusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-abụghị"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "site na Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:11:05.412821517Z",
+  "model": "glm-5.3"
+}

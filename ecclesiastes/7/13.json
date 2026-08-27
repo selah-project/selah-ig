@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Lelee ⟨את⟩ ọrụ Elohim, n'ihi na onye ka nwere ike ime ka ihe o gbagọrọ agbagọ bụrụ ihe kwụọ ọtọ?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lelee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ Elohim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "nwere ike"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ime ka ọ bụrụ ihe kwụọ ọtọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe o gbagọrọ agbagọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "gbagọrọ agbagọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:52:36.021128891Z",
+  "model": "glm-5.3"
+}

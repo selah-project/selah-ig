@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ha nke ọma bụ ndị ikom gị, ha nke ọma bụ ndị ohu gị ndị a, ndị na-eguzo n'ihu gị mgbe niile, na-ege ⟨את⟩ amamihe gị ntị.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ha nke ọma"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "ndị ikom gị"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "ha nke ọma"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ndị ohu gị"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ndị na-eguzo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "na-ege ntị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amamihe gị"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "amamihe gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:11:11.915398456Z",
+  "model": "glm-5.3"
+}

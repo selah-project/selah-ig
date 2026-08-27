@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 34:18",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ị ga-echebere ⟨את⟩ ememe nke achịcha na-enweghị ncha; ụbọchị asaa ị ga-eri achịcha na-enweghị ncha, nke m nyere gị iwu, n'oge a kara aka, n'ọnwa Abib; n'ihi na n'ọnwa Abib ka ị pụtara na Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ememe nke achịcha na-enweghị ncha"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ememe"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "nke achịcha na-enweghị ncha"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ị ga-echebere"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ị ga-eri"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "achịcha na-enweghị ncha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "m nyere gị iwu"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "n'oge a kara aka"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ọnwa"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "n'ọnwa"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "ị pụtara"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:35:57.624163648Z",
+  "model": "glm-5.3"
+}

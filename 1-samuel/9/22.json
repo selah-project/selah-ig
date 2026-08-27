@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 9:22",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Shemuwel weere ⟨את⟩ Shaul na ⟨את⟩ ohere ya, duzie ha n'ime ụlọ akụrụngwa, wee nyere ha ebe n'isi ndị e kpọrọ òkù; ma ha bụ́ ihe dị ka mmadụ iri atọ.",
+  "tokens": [
+    {
+      "surface": "וַיִּקַּח",
+      "gloss": "weere"
+    },
+    {
+      "surface": "שְׁמוּאֵל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שָׁאוּל",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ohere ya"
+    },
+    {
+      "surface": "נַעֲרוֹ",
+      "gloss": "na ohere ya"
+    },
+    {
+      "surface": "וַיְבִיאֵם",
+      "gloss": "duzie ha"
+    },
+    {
+      "surface": "לִשְׁכָּתָה",
+      "gloss": "n'ime ụlọ akụrụngwa"
+    },
+    {
+      "surface": "וַיִּתֵּן",
+      "gloss": "wee nye"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מָקוֹם",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "בְּרֹאשׁ",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "הַקְּרוּאִים",
+      "gloss": "ndị e kpọrọ òkù"
+    },
+    {
+      "surface": "וְהֵמָּה",
+      "gloss": "ma ha"
+    },
+    {
+      "surface": "כִּשְׁלֹשִׁים",
+      "gloss": "ihe dị ka iri atọ"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:07:54.816443076Z",
+  "model": "glm-5.3"
+}

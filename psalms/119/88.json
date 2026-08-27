@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Dịka chesed gị si dị, kpọọ ndụ m dịghachi; m ga-echebe ihe-ndekọ ⟨nke⟩ ọnụ gị.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "dịka chesed gị"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "kpọọ ndụ m dịghachi"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "m ga-echebe"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ihe-ndekọ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ọnụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:29.858719547Z",
+  "model": "glm-5.3"
+}

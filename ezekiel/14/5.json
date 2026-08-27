@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "ka a nwee ike ijide ⟨את⟩ ụlọ Yisrael n'obi ha, bụ́ ndị jere ozi n'ụzọ ọzọ pụọ n'ebe m nọ site n'arụsị ha — ha niile.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ka a nwee ike"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "ijide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "n'obi ha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ́ ndị"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "jere ozi n'ụzọ ọzọ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "pụọ n'ebe m nọ"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "site n'arụsị ha"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    }
+  ],
+  "timestamp": "2026-08-27T12:09:01.320771118Z",
+  "model": "glm-5.3"
+}

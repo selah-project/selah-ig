@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 63,
+  "translation": "Dịka abụba na-abụ n'ụtọ ka mkpụrụ obi m ga-eju afọ; ma ebè ọnụ m ga-abụ abụ otuto, ọnụ m ga-eto gị.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "abụba"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "ma ọ̀ n'ụtọ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ga-eju afọ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "ma ebè ọnụ m"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "abụ otuto"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "ga-eto"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:05.770990836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Onye kụrụ nwoke ruo ọnwụ, a ga-egbu ya ọnwụ.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Onye kụrụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ruo ọnwụ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a ga-egbu ya ọnwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:12.824760599Z",
+  "model": "glm-5.3"
+}

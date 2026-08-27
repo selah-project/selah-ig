@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Amaara m na ị nwere ike ime ihe niile, na atụmatụ ọ bụla agaghị egbochi gị.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "amaara m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ị nwere ike"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "egbochi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "atụmatụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:00:11.654172874Z",
+  "model": "glm-5.3"
+}

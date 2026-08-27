@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Ha kwadebere ⟨את⟩ onyinye ahụ ruo mgbe Yosef ga-abịa n'etiti ehihie, n'ihi na ha nụrụ na ha ga-eri nri ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "ha kwadebere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onyinye ahụ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "onyinye ahụ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ọbịbịa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "n'etiti ehihie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ha nụrụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ha ga-eri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:18.078805975Z",
+  "model": "glm-5.3"
+}

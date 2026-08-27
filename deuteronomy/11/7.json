@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "N'ihi na anya gị nile hụrụ ⟨את⟩ ọrụ ukwu niile nke Yahwe, nke o mebere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "anya gị nile"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ ukwu niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mebere"
+    }
+  ],
+  "timestamp": "2026-08-27T16:29:10.502948570Z",
+  "model": "glm-5.3"
+}

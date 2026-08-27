@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Kayin si n'ihu Yahwe pụọ, wee biri n'ala Nod, n'akụkọ ọwụwa anyanwụ nke Eden.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "si ... pụọ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wee biri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "n'akụkọ ọwụwa anyanwụ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:14.910195888Z",
+  "model": "glm-5.3"
+}

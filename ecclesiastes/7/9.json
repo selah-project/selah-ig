@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ebee ngwa ngwa n'imụọ gị ka iwe were gị, maka na iwe na-ezu n'obi ndị nzuzu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ebee"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "iwe ngwa ngwa"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "n'imụọ gị"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "ka iwe were gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "n'obi"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ndị nzuzu"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "na-ezu"
+    }
+  ],
+  "timestamp": "2026-08-27T15:15:19.494111275Z",
+  "model": "glm-5.3"
+}

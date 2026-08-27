@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Abụ ndị e ji ngwa egwu dee, nke Davide. Nyere Yahwe, ụmụ ndị El dị ike; nyere Yahwe otuto na ike.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "abụ ndị e ji ngwa egwu dee"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Davide"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ndị El dị ike"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "otuto"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "na ike"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:11.779345247Z",
+  "model": "glm-5.3"
+}

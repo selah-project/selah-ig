@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ọ ga-etinye aka ya n'elu ugwu, ma bibie ⟨את⟩ Ashshur, ma mee ⟨את⟩ Nineveh ka ọ bụrụ ebe mkpọfu, ala kpọrọ nkụ dịka ⟨the⟩ ọzara.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ọ ga-etinye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ma bibie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashshur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nineveh"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "ka ọ bụrụ ebe mkpọfu"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ala kpọrọ nkụ"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "dịka ọzara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:00:00.006414825Z",
+  "model": "glm-5.3"
+}

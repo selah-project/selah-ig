@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 81,
+  "translation": "Bụrụ abụ mkpu ruo Elohim, ike anyị; tie mkpu ruo Elohim nke Yaakov.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "bụrụ abụ mkpu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ruo Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "ike anyị"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "tie mkpu"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ruo Elohim nke"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:52.670743267Z",
+  "model": "glm-5.3"
+}

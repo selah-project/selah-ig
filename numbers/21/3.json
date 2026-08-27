@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Yahwe wee nụ olu Yisrael, nyefere ⟨את⟩ ndị Kenaan n'aka ha; ha raara ha na obodo ha nye dịka ihe ebisibisiri; ha kpọkwara aha ebe ahụ Ḥorma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nyefere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde Kenaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "nde Kenaan"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "raara ha nye ebibi"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "obodo ha"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "obodo ha"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ha kpọkwara aha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Ḥorma"
+    }
+  ],
+  "timestamp": "2026-08-27T07:31:24.278494525Z",
+  "model": "glm-5.3"
+}

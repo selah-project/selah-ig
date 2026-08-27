@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ha nyere ha ⟨את⟩ obodo mgbapu nke onye-gbu-mmadụ — ⟨את⟩ Shkhem na ⟨את⟩ mpaghara-ubi ya, n'elu ugwu Efrayim, na ⟨את⟩ Gezer na ⟨את⟩ mpaghara-ubi ya.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ha nyere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo mgbapu nke onye-gbu-mmadụ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "mgbapu"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "onye-gbu-mmadụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shkhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaghara-ubi ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mpaghara-ubi ya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'elu ugwu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaghara-ubi ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mpaghara-ubi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:13.729015796Z",
+  "model": "glm-5.3"
+}

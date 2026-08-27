@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Na Shuppim na Huppim, ụmụ Ir; Hashim, ụmụ Acher.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "na Shuppim"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "na Huppim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Hashim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Acher"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:30.361041229Z",
+  "model": "glm-5.3"
+}

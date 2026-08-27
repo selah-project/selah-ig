@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 67,
+  "translation": "Elohim, ka O wee dịrị anyị ebere, gọzie anyị, ka ọ chọrọ anyị ìhè site n'ihu Ya. Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ka O wee dịrị anyị ebere"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "ma gọzie anyị"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "ka o chọrọ ìhè"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ihu Ya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ anyị",
+      "marks": "anyị"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:15.499581433Z",
+  "model": "glm-5.3"
+}

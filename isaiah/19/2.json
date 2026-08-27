@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "M ga-eti Mitsraim ụka na Mitsraim, ha ga-alụọ onye ọ bụla nwanne ya, onye ọ bụla enyi ya; obodo megide obodo, alaeze megide alaeze.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "M ga-eti ụka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "ha ga-alụọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "enyi ya"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "megide obodo"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "alaeze"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "megide alaeze"
+    }
+  ],
+  "timestamp": "2026-08-27T10:44:22.452678359Z",
+  "model": "glm-5.3"
+}

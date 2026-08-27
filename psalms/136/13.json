@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 136,
+  "translation": "Onye kewara Yam Suf ka ọ bụ akụkụ abụọ, maka ruo mgbe ebighị ebi bụ ịhụnanya-ọgbụgba-ndụ ya.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Onye kewara"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Yam"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "ka ọ bụ akụkụ abụọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ịhụnanya-ọgbụgba-ndụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:42.663052672Z",
+  "model": "glm-5.3"
+}

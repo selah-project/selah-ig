@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 99,
+  "translation": "Yahwe Elohim anyị, ⟨gị⟩ zara ha; ⟨gị⟩ bụ El na-ebu ibu, nọkwa ha; ma na-aza ọha maka ọrụ aka ha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨gị⟩"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "zara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "na-ebu ibu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "⟨gị⟩ bụ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nọkwa ha"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "ma na-aza ọha"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "ọrụ aka ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:44.629478843Z",
+  "model": "glm-5.3"
+}

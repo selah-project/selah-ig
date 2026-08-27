@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "N'ihi na mmegbu na-eme ka onye amamihe tụrụ afo; na onyinye azi ihe na-emebi ⟨את⟩ obi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "mmegbu"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "na-eme ka ... tụrụ afo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "onye amamihe"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "na-emebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "onyinye azi ihe"
+    }
+  ],
+  "timestamp": "2026-08-27T15:15:25.296947417Z",
+  "model": "glm-5.3"
+}

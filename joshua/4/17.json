@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Yehoshua nyekwara ⟨את⟩ ndị nchụ-aja iwu, sị: Pụta elu site na Yardẹn.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nyekwara iwu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị nchụ-aja"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchụ-aja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "pụta elu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardẹn"
+    }
+  ],
+  "timestamp": "2026-08-27T08:20:14.293613239Z",
+  "model": "glm-5.3"
+}

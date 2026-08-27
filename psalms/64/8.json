@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 64,
+  "translation": "Mana Elohim gbagburu ha ụta; mberede ka ọnyá ha bụ.",
+  "tokens": [
+    {
+      "surface": "וַיֹּרֵם",
+      "gloss": "ọ gbagbura"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חֵץ",
+      "gloss": "ụta"
+    },
+    {
+      "surface": "פִּתְאוֹם",
+      "gloss": "mberede"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "מַכּוֹתָם",
+      "gloss": "ọnyá ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:17.538802090Z",
+  "model": "glm-5.3"
+}

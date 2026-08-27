@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Bịa, lelee ọrụ Yahwe, onye Tinyere mkpagbu n'ụwa.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Bịa"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "lelee"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Tinyere"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mkpagbu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:37.462651185Z",
+  "model": "glm-5.3"
+}

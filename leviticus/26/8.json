@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ndị ise n'etiti unu ga-achaso otu narị, ma otu narị n'etiti unu ga-achaso puku iri; ndị iro unu ga-adá n'ihu unu site na mma agha.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "ha ga-achaso"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "n'etiti unu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ise"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "otu narị"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ma otu narị"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "n'etiti unu"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "puku iri"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ga-achaso"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ga-adá"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ndị iro unu"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "n'ihu unu"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "site na mma agha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:07:05.226849595Z",
+  "model": "glm-5.3"
+}

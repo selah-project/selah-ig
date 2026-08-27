@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "O gwụchara ụbọchị ha n'ọghọgbọ, ma afọ ha na n'egwu mgbọ.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "O gwụchara"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "n'ọghọgbọ"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ụbọchị ha"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "ma afọ ha"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "na n'egwu mgbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:55.428142362Z",
+  "model": "glm-5.3"
+}

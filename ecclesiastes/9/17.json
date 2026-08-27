@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Okwu ndị oma-isi n'udo ka a na-anụ, karịa mkpu mgbe onye na-achị n'etiti ndị nzuzu.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ndị oma-isi"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "n'udo"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "ka a na-anụ"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "karịa mkpu"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "onye na-achị"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "n'etiti ndị nzuzu"
+    }
+  ],
+  "timestamp": "2026-08-27T15:15:00.411189715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "M ga-abụ abụ maka Yahwe ndụ m niile; m ga-egwu ngwa egwu maka Elohim m ka m ka dị ndụ.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "m ga-abụ abụ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ndụ m niile"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "m ga-egwu ngwa egwu"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "maka Elohim m"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "ka m ka dị ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:18.267542386Z",
+  "model": "glm-5.3"
+}

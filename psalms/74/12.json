@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Ma Elohim bụ Eze m site n'ọkara oge ochie, onye na-arụ ọrụ nzọpụta n'etiti ⟨ה⟩ụwa.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "ma Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Eze m"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "site n'ọkara oge ochie"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "na-arụ ọrụ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "nzọpụta"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:15.802625518Z",
+  "model": "glm-5.3"
+}

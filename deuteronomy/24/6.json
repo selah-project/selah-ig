@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Onye ọ bụla ghara iji nkume igwe ihe na nkume ya elu ya were dịka ịgba ndụmọdụ, maka na ọ bụ ndụ mmadụ ka ọ na-eba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "iji... were dịka ịgba ndụmọdụ"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "nkume igwe ihe"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "na nkume ya elu ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "na-eba dịka ịgba ndụmọdụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:09:49.193769069Z",
+  "model": "glm-5.3"
+}

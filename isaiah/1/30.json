@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "N'ihi na unu ga-adị ka osisi nke akwụkwọ ya na-amakụ, na ka ubi nke enweghị mmiri ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "unu ga-adị"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "ka osisi"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "na-amakụ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "akwụkwọ"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "dịka ubi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:31:05.960615958Z",
+  "model": "glm-5.3"
+}

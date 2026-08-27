@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọnya Elohim ka nọkwaghị akpọnwụ, Shemuël dinara n'ụlọ nsọ Yahwe, ebe igbe Ọnyinyo Elohim nọ.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "ọnya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ka nọkwaghị"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "akpọnwụ"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "dinara"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "n'ụlọ nsọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nọ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T08:58:37.307025010Z",
+  "model": "glm-5.3"
+}

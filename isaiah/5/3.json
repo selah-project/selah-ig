@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ugbu a, hmm, ndị bi na Yerushalayim na ndị ikom Yehuda, kpee ikpe, biko, n'etiti m na ubi vaịn m.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ugbu a"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ndị bi na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na ndị ikom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "kpee ikpe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "n'etiti m"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ubi vaịn m"
+    }
+  ],
+  "timestamp": "2026-08-27T10:36:00.625210708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Moshe na ndị okenye Yisrael nyere ⟨את⟩ ⟨the⟩ ndị ahụ iwu, na-ekwu, si: Jide n'aka iwu niile nke m na-enye unu iwu ⟨אתכם⟩ taa.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "na ndị okenye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "jide n'aka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "na-enye iwu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    }
+  ],
+  "timestamp": "2026-08-27T08:10:43.825752027Z",
+  "model": "glm-5.3"
+}

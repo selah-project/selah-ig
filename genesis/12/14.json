@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "O wee mee, mgbe Avram batarịrị na Mitsraim, ndị Mitsraim hụrụ ⟨את⟩ nwanyị ahụ, na ọ mara mma nke ukwuu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "O wee mee"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "mgbe ọ batarịrị"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ha hụrụ"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ndị Mitsraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwanyị ahụ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nwanyị ahụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ọ mara mma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:51.048712931Z",
+  "model": "glm-5.3"
+}

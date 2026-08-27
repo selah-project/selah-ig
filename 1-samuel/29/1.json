@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Ma ndị Pelishtim chịkọtara ⟨את⟩ ogụ ha niile na Afeaka, ma Izrel na-agba ọnụ n'iyi mmiri nke dị na Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ma chịkọtara"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogụ ha niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ogụ ha"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeaka"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ma Izrel"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "na-agba ọnụ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "n'iyi mmiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "na Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-27T09:25:56.741067058Z",
+  "model": "glm-5.3"
+}

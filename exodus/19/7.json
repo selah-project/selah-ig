@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Moshe bịara, kpọọ ndị okenye nke ⟨the⟩ mba ahụ, ma tinye n'ihu ha ⟨את⟩ okwu niile ndị a bụ Yahwe nyere ya iwu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kpọọ"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "ndị okenye nke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mba ahụ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "n'ihu ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu niile ndị a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(ndị)"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "nyere ya iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:20:45.416007402Z",
+  "model": "glm-5.3"
+}

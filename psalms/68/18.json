@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Ngwongwu ịnya Elohim bụ puku kwuru puku, otu puku nke ọtụtụ ugboro; Adonai dị n'etiti ha, dịka na Sinai, n'ebe dị nsọ.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "ngwongwu ịnya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "puku kwuru puku"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "otu puku"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "nke ọtụtụ ugboro"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "n'etiti ha"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "n'ebe dị nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:34.851000024Z",
+  "model": "glm-5.3"
+}

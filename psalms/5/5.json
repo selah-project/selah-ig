@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "N'ihi na ị bụghị El nke ọjọọ na-atọ ụtọ; ọjọọ agaghị-anọkwa gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "na-atọ ụtọ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "anọkwa gị"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:12.526917329Z",
+  "model": "glm-5.3"
+}

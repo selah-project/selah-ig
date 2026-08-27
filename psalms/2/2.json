@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ndị eze nke ụwa na-eguzo onwe ha, ndị ọchịchị na-ezukọta ọnụ, megide Yahwe na megide Mashiach ⟨nke Ya⟩.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "na-eguzo onwe ha"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nke ụwa"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "na ndị ọchịchị"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "na-ezukọta ọnụ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na megide"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiach ⟨nke Ya⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:53.486531572Z",
+  "model": "glm-5.3"
+}

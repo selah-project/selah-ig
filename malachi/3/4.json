@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma ihe-ọfụnye Yehuda na Yerushalayim ga-adụmịa adụmịa nye Yahwe, dịka ụbọchị nke oge gara aga, nakwa dịka afọ ndị oge ochie.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "ma ọ ga-adụmịa adụmịa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ihe-ọfụnye"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "dịka ụbọchị"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nke oge gara aga"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "nakwa dịka afọ"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "ndị oge ochie"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:56.655332360Z",
+  "model": "glm-5.3"
+}

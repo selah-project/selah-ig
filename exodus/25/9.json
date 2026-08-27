@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Dịka ihe niile m na-egosi ⟨את⟩ gị — ⟨את⟩ atụmatụ nke ụlọikwu, na ⟨את⟩ atụmatụ nke ngwá ya niile — otu a ka unu ga-eme.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "dịka ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "na-egosi"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ gị",
+      "marks": "gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atụmatụ nke ụlọikwu"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "atụmatụ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "nke ụlọikwu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "atụmatụ nke ngwá ya niile"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "atụmatụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "nke ngwá ya"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "unu ga-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T06:28:43.844713110Z",
+  "model": "glm-5.3"
+}

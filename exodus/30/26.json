@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Mụrụ tee ya ṅụọ n'⟨את⟩ ahụ ọma nke nzukọ, na ⟨את⟩ igbe nke ihe ndekọ ahụ.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Mụrụ tee ṅụọ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahụ ọma nke nzukọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahụ ọma"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nke nzukọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "igbe nke ihe ndekọ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "nke ihe ndekọ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:32:24.356536242Z",
+  "model": "glm-5.3"
+}

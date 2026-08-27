@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "N'ihi ya, n'ihi unu eluigwe gbochiriri mmiri igirigi, na ⟨⟨ala⟩⟩ gbochiri mmepụta ya.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "n'ihi unu"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "gbochiriri"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "mmiri igirigi"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na ⟨ala⟩"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "gbochiri"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "mmepụta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:02:13.224516223Z",
+  "model": "glm-5.3"
+}

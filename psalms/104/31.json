@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Ka uka nke Yahwe dịrị mgbe niile; ka Yahwe nwee obi ụtọ n'ọrụ aka ya.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ka ... dịrị"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "uka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ka ... nwee obi ụtọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "n'ọrụ aka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:42.310721821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "O wetara ⟨את⟩ ndị nchuaja na ⟨את⟩ ndị Levi, ma gbakọta ha n'ogige dị n'akụkụ ọwụwa anyanwụ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "O wetara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị nchuaja"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchuaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ndị Levi"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "ma gbakọta ha"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "n'ogige sara mbara"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "nke ọwụwa anyanwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:17:45.673242610Z",
+  "model": "glm-5.3"
+}

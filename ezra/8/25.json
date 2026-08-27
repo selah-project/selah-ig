@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma mụrọ ⟨את⟩ ọla ọcha na ⟨את⟩ ọla edo na ⟨את⟩ ihe ndị ahụ — ihe e ji elu dịka onyinye ụlọ Elohim anyị, nke eze na ndị ndụmọdụ ya na ndị isi ya na ndị Izrel niile nke na-ezute mere ka elu.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "ma mụrọ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọla ọcha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ọla ọcha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọla edo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ndị ahụ"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ihe ndị ahụ"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "onyinye e ji elu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "mere ka elu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "na ndị ndụmọdụ ya"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "na ndị isi ya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ndị niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ndị na-ezute"
+    }
+  ],
+  "timestamp": "2026-08-27T15:38:45.525456153Z",
+  "model": "glm-5.3"
+}

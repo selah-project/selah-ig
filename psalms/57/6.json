@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 57,
+  "translation": "Buli ⟨gị onwe⟩ elu, Elohim, karịa ⟨elu⟩ eluigwe; jiri ⟨kacha elu⟩ ùgwù gị kwụọ n'elu ⟨elu⟩ ụwa niile.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Buli elu"
+    },
+    {
+      "surface": "על",
+      "gloss": "karịa n'elu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨elu⟩ eluigwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨elu⟩ ụwa"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ùgwù gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:06.905643986Z",
+  "model": "glm-5.3"
+}

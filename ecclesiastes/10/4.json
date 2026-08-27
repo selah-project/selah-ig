@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ọ bụrụ na mmụọ nke onye na-achị rịgooro megide gị, ahapụla ebe ọdịnọ gị, n'ihi na ọdịmara na-eme ka mmehie ndị ukwuu dajụọ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mmụọ"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "nke onye na-achị"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "rịgooro"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "megide gị"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "ebe ọdịnọ gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ahapụla"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "(ahapụ)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ọdịmara"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "na-eme ka ... dajụọ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "mmehie ndị"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:07.625338811Z",
+  "model": "glm-5.3"
+}

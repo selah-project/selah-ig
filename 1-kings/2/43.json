@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "\"Gịnị mere na ị ketaghị ⟨את⟩ iyi n'àkwàsà Yahwe na ⟨את⟩ iwu ahụ m nyere gị n'elu gị?\"",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "gịnị mere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ị ketaghị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyi n'àkwàsà"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "iyi n'àkwàsà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iwu ahụ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "iwu ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "m nyere gị"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "n'elu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:52:20.871404202Z",
+  "model": "glm-5.3"
+}

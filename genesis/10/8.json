@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Kush mụrụ ⟨את⟩ Nimrod; ya bụ onye malitere ịbụ dibia-ike n'ụwa.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya bụ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "malitere"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ịbụ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "dibia-ike"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T05:28:48.019174431Z",
+  "model": "glm-5.3"
+}

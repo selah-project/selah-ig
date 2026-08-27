@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 75,
+  "translation": "⟨Na⟩ ụwa na-agbaze mmiri, ọnụnọ ya niile; m onwe m doziri ogwe ntụ ya. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "na-agbaze mmiri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na… niile"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ọnụnọ ya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m onwe m"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "doziri"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "ogwe ntụ ya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:44.838892324Z",
+  "model": "glm-5.3"
+}

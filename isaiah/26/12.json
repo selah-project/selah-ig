@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Yahwe, Ị ga-edozi udo maka anyị; n'ihi na Ịkwa mere ememe niile anyị maka anyị.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "Ị ga-edozi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "maka anyị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "ememe anyị"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "Ị mere"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "maka anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:45:57.841762110Z",
+  "model": "glm-5.3"
+}

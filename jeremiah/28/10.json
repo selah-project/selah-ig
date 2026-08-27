@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Maka Hananyah onye-amụma were ⟨את⟩ mkpọda-yok ahụ n'olu Yirmeyah onye-amụma, ma mebie ya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "maka were"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "onye-amụma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpọda-yok ahụ"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "mkpọda-yok ahụ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "olu"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "onye-amụma"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "ma mebie ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:35:15.009033598Z",
+  "model": "glm-5.3"
+}

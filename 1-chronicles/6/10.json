@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ndị nwa Elqana: Amashai na Achimot.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndị nwa"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Amashai"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "na Achimot"
+    }
+  ],
+  "timestamp": "2026-08-27T15:54:27.146464128Z",
+  "model": "glm-5.3"
+}

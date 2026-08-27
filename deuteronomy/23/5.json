@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "N'ihi okwu na ha ezuteghị unu n'achịcha na n'ime mmiri n'ụzọ ahụ, mgbe unu pụtara si Mitsrayim; na n'ihi na o were megide gị ⟨את⟩ Bilam nwa Beor nke Petor nke Aram-Naharayim, ka ọ gọọ gị.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "ha ezuteghị"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "n'achịcha"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "n'achịcha"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "na n'ime mmiri"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "mgbe unu pụtara"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "si Mitsrayim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na n'ihi na"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "o were"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "megide gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "nke Petor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "ka ọ gọọ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:09:52.543819173Z",
+  "model": "glm-5.3"
+}

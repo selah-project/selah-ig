@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Onye bara ọgaranya na onye ogbenye zutere; onye mere ha niile ⟨bụ⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "onye bara ọgaranya"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "na onye ogbenye"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "zutere"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "onye mere"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:27:59.500684830Z",
+  "model": "glm-5.3"
+}

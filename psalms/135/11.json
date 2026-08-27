@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 135,
+  "translation": "Sihọn eze ndị Emori, na Og eze Bashan, na alaeze niile nke Kenaan.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihọn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ndị Emori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "na Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "alaeze"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "nke Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:21.482190370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "N'ihi na ⟨את⟩ arọ nke ibu ya, na ⟨את⟩ okporo ụkwụ nke úkwù ya, mkpọ nke onye na-emenye ya — Ị kụrụ ya mbụ dịka ụbọchị Midyan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arọ nke ibu ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "arọ"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "nke ibu ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "okporo ụkwụ nke úkwù ya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "okporo ụkwụ"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "nke úkwù ya"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mkpọ"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "nke onye na-emenye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "Ị kụrụ mbụ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "dịka ụbọchị"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    }
+  ],
+  "timestamp": "2026-08-27T10:37:11.087400070Z",
+  "model": "glm-5.3"
+}

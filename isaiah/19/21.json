@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Yahwe ga-ama ya ama na Mitzrayim, ma Mitzrayim ga-amata ⟨את⟩ Yahwe n'ụbọchị ahụ; ha ga-efe ofufe site n'ịchụ àjà na inye onyinye, ha ga-ekwe nkwa nye Yahwe ma mezue ya.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "ga-ama ya ama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "na Mitzrayim"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ga-amata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ha ga-efe ofufe"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "àjà anụ"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "onyinye"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "ha ga-ekwe nkwa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "ma mezue ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:42:35.331552290Z",
+  "model": "glm-5.3"
+}

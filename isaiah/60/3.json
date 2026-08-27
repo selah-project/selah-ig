@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Mba ndị ga-eje na ìhè gị, ma ndị eze na ìtụ ọsịsa nke mgbanwu gị.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "ga-eje"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Mba ndị"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "na ìhè gị"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ma ndị eze"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "na ìtụ ọsịsa"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "nke mgbanwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T11:09:37.079866046Z",
+  "model": "glm-5.3"
+}

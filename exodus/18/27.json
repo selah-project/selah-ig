@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Moshe zigakwara ⟨את⟩ nna-ọlụ ya, o wee gaa n'ala ya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "zigakwara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna-ọlụ ya"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "nna-ọlụ ya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o wee gaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ọ̀⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ala ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:20:06.713796824Z",
+  "model": "glm-5.3"
+}

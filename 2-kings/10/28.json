@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ya mere Yehu bibisiri ⟨את⟩ Baal n'Izrel.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "ya mere o bibisiri"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "n'Izrel"
+    }
+  ],
+  "timestamp": "2026-08-27T10:17:16.082749308Z",
+  "model": "glm-5.3"
+}

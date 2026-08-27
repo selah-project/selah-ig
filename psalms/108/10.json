@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 108,
+  "translation": "Moab ⟨bụ⟩ ite nke m na-asá; n'elu Edom ka m na-atụ sandal m; na Peleshet ka m na-eti mkpu.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "ite"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "nke m na-asá"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ka m na-atụ"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandal m"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "ka m na-eti mkpu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:09.168877499Z",
+  "model": "glm-5.3"
+}

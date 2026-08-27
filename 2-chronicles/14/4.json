@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ọ wepụrụ n'obodo niile nke Yehuda ⟨את⟩ ebe ndị dị elu na ⟨את⟩ ihe oyiyi anyanwụ; alaeze ahụ zusara ike n'ihu ya.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Ọ wepụrụ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "n'obodo niile nke"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe ndị dị elu"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ebe ndị dị elu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihe oyiyi anyanwụ"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "ihe oyiyi anyanwụ"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "zuzara ike"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "alaeze ahụ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:12:35.365237477Z",
+  "model": "glm-5.3"
+}

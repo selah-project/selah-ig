@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "O zipụrụ n'etiti ha ọnụnụ anwụnta, ma rie ha; na mmaduma, ma mebie ha.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "O zipụrụ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'etiti ha"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ọnụnụ anwụnta"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "ma rie ha"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "na mmaduma"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "ma mebie ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:14.159528089Z",
+  "model": "glm-5.3"
+}

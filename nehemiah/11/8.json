@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ma mgbe ya gasịrị, Gabbai, Sallai — narị itoolu na iri abụọ na asatọ.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "Ma mgbe ya gasịrị"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "Gabbai"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "Sallai"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "itoolu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "na asatọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:47:39.372524686Z",
+  "model": "glm-5.3"
+}

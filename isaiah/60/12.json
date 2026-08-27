@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "N'ihi na mba na alaeze ndị na-adịghị ejere gị ozi ga-ebibi; mba ndị ahụ ga-emebi kpamkpam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "mba"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "na alaeze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "na-ejere gị ozi"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ga-ebibi"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "na mba ndị"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mbibi"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "ga-emebi kpamkpam"
+    }
+  ],
+  "timestamp": "2026-08-27T11:08:12.037462340Z",
+  "model": "glm-5.3"
+}

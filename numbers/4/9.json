@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 4:9",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ha ga-ewe uwe nke anụnụ-acha-acha, ma kpuchie ⟨את⟩ onyensa-ọkụ ahụ, na ⟨את⟩ anwụ ndị ya, na ⟨את⟩ ngwa-ewepụ-mkpụrụ-ọkụ ya, na ⟨את⟩ ite-ọkụ ya, na ⟨את⟩ ngwa mmanụ niile nke ha na-ejere ya ozi n'ime ha.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ha ga-ewe"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "anụnụ-acha-acha"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ma kpuchie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onyensa-ọkụ ahụ"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "onyensa-ọkụ"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ahụ na-ere ọkụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anwụ ndị ya"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "anwụ ndị ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngwa-ewepụ-mkpụrụ-ọkụ ya"
+    },
+    {
+      "surface": "מלקחיה",
+      "gloss": "ngwa-ewepụ-mkpụrụ-ọkụ ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ite-ọkụ ya"
+    },
+    {
+      "surface": "מחתתיה",
+      "gloss": "ite-ọkụ ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngwa mmanụ niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ngwa"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "ha na-ejere ya ozi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'ime ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:15:12.212073207Z",
+  "model": "glm-5.3"
+}

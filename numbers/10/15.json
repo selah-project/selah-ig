@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma onye na-eduzi ndị agha nke ngalaba ụmụ Yissaskar bụ Netanel nwa Tswar.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ma onye na-eduzi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ngalaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tswar"
+    }
+  ],
+  "timestamp": "2026-08-27T07:19:38.989024199Z",
+  "model": "glm-5.3"
+}

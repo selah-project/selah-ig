@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Ga-abụ ⟨את⟩ Aharon na ⟨את⟩ ụmụ ya n'ọnụ ụzọ àkụkụ nzukọ, ma asa ha na mmiri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "yana ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "yana ⟨את⟩",
+      "marks": "ụmụ ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "i ga-ebubata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "àkwà mwụba"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ma i ga-asa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha (Aharon na ụmụ ya)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T06:33:12.595595996Z",
+  "model": "glm-5.3"
+}

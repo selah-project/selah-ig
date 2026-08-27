@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Obi ndị na-agba ọsọ ga-aghọta ihe ọmụma, ma asụsụ ndị na-ezizi ezizi ga-agba ọsọ ikwu okwu doro anya.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "ndị na-agba ọsọ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ga-aghọta"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ihe ọmụma"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "ma asụsụ"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "ndị na-ezizi ezizi"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "ga-agba ọsọ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ikwu okwu"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "doro anya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:49:31.530457384Z",
+  "model": "glm-5.3"
+}

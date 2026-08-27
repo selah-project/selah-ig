@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "N'ihi na Aram atụọla ndụmọdụ ọjọọ megide gị — Efraim na nwa Remaljahu, na-asị:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "atụọla ndụmọdụ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "megide gị"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na nwa"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:38:42.445084946Z",
+  "model": "glm-5.3"
+}

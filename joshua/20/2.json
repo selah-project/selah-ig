@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Soro ụmụ Yisrael kwuo, sị: Kenye onwe gị ⟨את⟩ obodo ndị mgbapụ, bụ́ ndị m kwuru gịnụ site n'aka Moshe. (Gwa ụmụ Yisrael ka ha nye onwe ha obodo ndị mgbapụ, bụ́ ndị m gworo gị site n'aka Moshe.)",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Gwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "soro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "nye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "onwe gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ndị mgbapụ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "ndị mgbapụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ́ ndị"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "m kwuru"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "gịnụ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "site n'aka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:46.412175707Z",
+  "model": "glm-5.3"
+}

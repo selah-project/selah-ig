@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Yahwe agaghị ahapụ ka ndidi nke onye ziri ezi nụ agụụ, ma ọchịchọ nke ndị ajọ omume, ⟨ọ⟩ na-atụ ya n'akụkụ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "ahapụ ka ... nụ agụụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ndidi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ziri ezi"
+    },
+    {
+      "surface": "והות",
+      "gloss": "ma ọchịchọ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "na-atụ n'akụkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:20:10.236986333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 96,
+  "translation": "Nyere Yahwe ukwu aha ya; bulite onyinye, bịa n'ogige ya.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "bulite"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "onyinye"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "bịa"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "n'ogige ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:41.698171604Z",
+  "model": "glm-5.3"
+}

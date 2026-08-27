@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "isaiah 37:37",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Sancherib, eze Ashur, pụọ́ ma gaa ma laghachi, wee bia na Niniveh.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "pụọ́"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "laghachi"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bia"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "na Niniveh"
+    }
+  ],
+  "timestamp": "2026-08-27T10:55:07.536004730Z",
+  "model": "glm-5.3"
+}

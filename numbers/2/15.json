@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "na ndị agha ya, na ndị e gụrụ n'ọ̀tụ̀tụ̀ ha, ⟨is⟩ ise na iri anọ puku, na narị isii na iri ise.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "na ndị agha ya"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "na ndị e gụrụ n'ọ̀tụ̀tụ̀ ha"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ise"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na iri anọ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na isii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na iri ise"
+    }
+  ],
+  "timestamp": "2026-08-27T07:12:59.728458483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "M ga-enye gị ndịzụ-ọkụ dịka obi m si, ha ga-azụ ⟨את⟩ gị site na ịma na nghọta.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "m ga-enye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gị"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ndịzụ-ọkụ"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "dịka obi m si"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "ha ga-azụ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ịma"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "nghọta"
+    }
+  ],
+  "timestamp": "2026-08-27T16:41:48.043475700Z",
+  "model": "glm-5.3"
+}

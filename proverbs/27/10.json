@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Enyi gị na enyi nna gị, eledala ha ala; ma ụlọ nke nwanne gị, abịala n'ime ya n'ụbọchị nsogbu gị; mma bụ onye agbata obi dị nso karịa nwanne dị anya.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "enyi gị"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "na enyi nke"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eledala"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ala (ha)"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ma ụlọ nke"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "abịala"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "bịa n'ime"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "nsogbu gị"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mma bụ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "onye agbata obi"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dị nso"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "karịa nwanne"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "dị anya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:31:05.375215770Z",
+  "model": "glm-5.3"
+}

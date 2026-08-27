@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọ gara site n'aka ⟨את⟩ ya, wee mechie ọnụ ụzọ n'azụ ya na n'azụ ⟨את⟩ ụmụ ya; ha na-ewetara ⟨את⟩ ya, ọ na-akụcha.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Ọ gara"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "wee mechie"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "n'azụ ya"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "na n'azụ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "na-ewetara"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "na-akụcha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:15:16.130740945Z",
+  "model": "glm-5.3"
+}

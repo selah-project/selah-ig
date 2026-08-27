@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Lee, emela m ka ị dị ọcha, mana ọ bụghị site na ọla ọcha; ahọrọla m gị n'ọkụ nke mwute.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lee"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "emela m ka ị dị ọcha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana ọ bụghị"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "site na ọla ọcha"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "ahọrọla m gị"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "n'ọkụ nke"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mwute"
+    }
+  ],
+  "timestamp": "2026-08-27T11:00:29.028340664Z",
+  "model": "glm-5.3"
+}

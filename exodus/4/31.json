@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ndị mmadụ kwere okwu ahụ; ha nụrụ na Yahwe letara ⟨את⟩ ụmụ Izrel, nakwa na ọ hụrụ ⟨את⟩ nsogbu ha; ha kwụrụ isi ala wee na-efe ya ofufe.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ha nụrụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "letara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Izrel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "nakwa na"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsogbu ha"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "nsogbu ha"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "kwụrụ isi ala"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "na-efe ofupe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:21.403341500Z",
+  "model": "glm-5.3"
+}

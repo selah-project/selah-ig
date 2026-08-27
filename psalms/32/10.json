@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Ọnya nhụsị na-adịghị anya dị maka onye rụrụ arụ; mana onye na-edinye ntụkwasị obi na Yahwe — chesed ga-ezukwa ya gburugburu.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "na-adịghị anya"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "ọnya nhụsị"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "maka onye rụrụ arụ"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "mana onye na-edinye ntụkwasị obi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "ga-ezukwa ya gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:58.006305034Z",
+  "model": "glm-5.3"
+}

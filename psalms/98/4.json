@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 98,
+  "translation": "Ntị chiri Yahwe, tọọ ụwa niile; gbawaa olu, tie mkpu ọṅụ, ma bụrụ abụ.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Ntị chiri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "gbawaa olu"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "tie mkpu ọṅụ"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "ma bụrụ abụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:03.570093322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ndị a ka aha ndị nwa Israel, ndị bata Mitsrayim; ⟨את⟩ Yaakov na nwa nwoke nke ọ bụla na ụlọ ya bịara.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ma ndị a"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ndị nwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ndị na-abata"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim, bata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwa nwoke nke ọ bụla"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "na ụlọ ya"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bịara"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:01.670108337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 97,
+  "translation": "Ìhè kụrụ mkpụrụ maka ndị ezi omume, na obi ụtọ maka ndị nwero obi kwụ ọtọ.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Ìhè"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kụrụ mkpụrụ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "maka ndị ezi omume"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "na maka ndị nwero"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "obi ụtọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:54.477946763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "O ga-eweta ⟨את⟩ mmejọ ya nye Yahwe, n'ọnụ ụzọ ⟨nke⟩ ahụikwú nzukọ, nwụrụ-anya dị ka ọfụma mmejọ.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ga-eweta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmejọ ya"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "mmejọ ya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahụikwú"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "nwụrụ-anya"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "mmejọ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:00:30.487761798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Otuto Yahwe ka ọnụ m ga-ekwu, ma ka anụ niile gọzie aha nsọ ya ruo mgbe ebighị ebi na ruo mgbekwaa.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "otuto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ga-ekwu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ma ka ọ gọzie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "anụ (mmadụ niile)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nsọ ya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ma ruo mgbekwaa"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:21.236909080Z",
+  "model": "glm-5.3"
+}

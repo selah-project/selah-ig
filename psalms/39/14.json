@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Chee anya pụọ n'aka m, ka m nwee ike ịtọ ụtọ ọzọ, tupu m aga ma ghara ịdị.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "chee anya pụọ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "n'aka m"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "ka m nwee ike ịtọ ụtọ ọzọ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "tupu"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "m ga"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "ma ghara ịdị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:43.249723109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "O kọrọ ụlọ David okwu, na-asị, Aram adabere na Efrayim; obi ya gbanwere, na obi ndị ya, dịka osisi ọhịa na-atụgharị n'ihu ifufe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "O kọrọ okwu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "maka ụlọ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "adabere"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "gbanwere"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "obi ya"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "na obi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "dịka na-atụgharị"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "osisisi"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ọhịa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ifufe"
+    }
+  ],
+  "timestamp": "2026-08-27T10:37:49.602636590Z",
+  "model": "glm-5.3"
+}

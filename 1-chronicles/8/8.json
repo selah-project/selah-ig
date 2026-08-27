@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Shacharaim mụrụ ụmụ n'ọhịa Moab mgbe ọ zigosiri ha — ⟨את⟩ Chushim na ⟨את⟩ Baara, ndị nwunye ya.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Shacharaim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "n'ọhịa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ọ zigosiri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Chushim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ndị nwunye ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:46.971432679Z",
+  "model": "glm-5.3"
+}

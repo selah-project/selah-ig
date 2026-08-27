@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 79,
+  "translation": "Abụ eji edechi, nke Asaph. Elohim, mba ndị mba ọzọ abịago n'ihe nketa gị, ha rọrọ ⟨את⟩ ụlọ nsọ gị unyi, ha mebere ⟨את⟩ Yerushalayim mkpọmkpọ nkume.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "abụ eji edechi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "nke Asaph"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ha bịago"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị mba ọzọ"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "n'ihe nketa gị"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "ha rọrọ unyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ nsọ gị"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ụlọ (ukwu)"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "nsọ gị"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ha mebere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "mkpọmkpọ nkume"
+    }
+  ],
+  "timestamp": "2026-08-27T13:46:03.838053041Z",
+  "model": "glm-5.3"
+}

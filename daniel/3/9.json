@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ò zàkwara ma kwuo, sị Nevukadnetsar ⟨את⟩ eze: Eze, dịrị ndụ ruo ebighị ebi!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "zàkwara"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "ma kwuo"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "sị Nevukadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "ruo ebighị ebi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "dịrị ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:25:12.836171437Z",
+  "model": "glm-5.3"
+}

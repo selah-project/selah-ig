@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Iwe Yahwe gbakwunyere ọzọ ka ọ kụọ ọkụ megide Izrel, o wee kpụte Dovid n'ime ha, na-asị: Gaa, tụọ ⟨את⟩ Izrel na ⟨את⟩ Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "gbakwunyere ọzọ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "ka ọ kụọ ọkụ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "megide Izrel"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "o wee kpụte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dovid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovid"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'ime ha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "tụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-27T09:50:19.425325324Z",
+  "model": "glm-5.3"
+}

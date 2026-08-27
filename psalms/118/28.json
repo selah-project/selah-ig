@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "El m ⟨bụ⟩ gị, m ga-ekele gị; Elohim m, m ga-ebuli gị elu.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "m ga-ekele gị"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "m ga-ebuli gị elu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:00.434510343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Ị na-etinye ọchịchịrị, ọ na-abụ abalị; n'ime ya, anụ ọhịa niile nke ọhịa na-agbadata na-eje ije.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Ị na-etinye"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ọchịchịrị"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ na-abụ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "abalị"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "na-agbadata na-eje ije"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "anụ ọhịa"
+    },
+    {
+      "surface": "יער",
+      "gloss": "nke ọhịa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:18.125238744Z",
+  "model": "glm-5.3"
+}

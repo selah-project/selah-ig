@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "O ka mma ị gbaba n'ebe nchedo n'Yahwe karịa ịdabere na mmadụ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "o ka mma"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ị gbaba n'ebe nchedo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "n'Yahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "karịa ịdabere"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "na mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:30.678940884Z",
+  "model": "glm-5.3"
+}

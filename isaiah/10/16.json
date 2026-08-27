@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ya mere Adonai, Yahwe nke ndị agha, ga-eziga mkpọda n'etiti ndị abụba ya, ma n'okpuru ugwu ya ọkụ na-ere ga-ekụ, dịka ịre ọkụ nke ọkụ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ga-eziga"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "n'etiti ndị abụba ya"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "mkpọda"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ma n'okpuru"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "ugwu ya"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "ọkụ na-ere ga-ekụ"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "ọkụ ọzọ na-ere"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "dịka ịre ọkụ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nke ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:40:57.199330754Z",
+  "model": "glm-5.3"
+}

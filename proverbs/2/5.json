@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Mgbe ahụ, ị ga-amata ịtụ egwu Yahwe, ma chọta ịmata Elohim.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "mgbe ahụ"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ị ga-amata"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ịtụ egwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ma ịmata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ịchọta"
+    }
+  ],
+  "timestamp": "2026-08-27T14:12:07.075893874Z",
+  "model": "glm-5.3"
+}

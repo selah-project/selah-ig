@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "N'ihi ya, isi ike ṅtọṅọ ha dị ka mkpọkọ olu, iyi uwe nke ime ihe ike na-ekpuchi ha.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "ṅtọṅọ ha dị ka mkpọkọ olu"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "isi ike"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "na-ekpuchi"
+    },
+    {
+      "surface": "שית",
+      "gloss": "yiri uwe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ime ihe ike"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:33.498919672Z",
+  "model": "glm-5.3"
+}

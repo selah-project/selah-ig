@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 16:21",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ya mere, le, m na-eme ka ha mata n'oge a; m ga-eme ka ha mata ⟨את⟩ aka m na ⟨את⟩ ike m; ha ga-amara na aha m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ya mere"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "le"
+    },
+    {
+      "surface": "מודיעם",
+      "gloss": "m na-eme ka ha mata"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "אודיעם",
+      "gloss": "m ga-eme ka ha mata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka m"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ike m"
+    },
+    {
+      "surface": "גבורתי",
+      "gloss": "ike m"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ha ga-amara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "aha m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:22:33.432725973Z",
+  "model": "glm-5.3"
+}

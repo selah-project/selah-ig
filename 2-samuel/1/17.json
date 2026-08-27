@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Dawid wee na-akwa akwa-iri a maka Shaúl na maka Yehonatanan, nwa ya;",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "wee na-akwa akwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwa-iri"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "akwa-iri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na maka"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:28:03.959030464Z",
+  "model": "glm-5.3"
+}

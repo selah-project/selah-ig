@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ugbu a, Yahwe Elohim m, Ị emeela ka odibo gị ⟨את⟩ chịa n'ọnọdụ Dawid papa m; ma mụ onwe m bụ nwata nta, amaghị m ịpụ na ịbịanye.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ugbu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "emeela ka... chịa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odibo gị"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "odibo gị"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'ọnọdụ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa m"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ma mụ onwe m"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nwata"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "nta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "amaghị m"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ịpụ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "na ịbịanye"
+    }
+  ],
+  "timestamp": "2026-08-27T09:52:26.462276924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Nke David, abụ eji egwu: nke Yahwe ⟨bụ⟩ ụwa na ihe jupụtara na ya, ụwa ndị mmadụ na ndị bi na ya.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ eji egwu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nke Yahwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "na ihe jupụtara na ya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ụwa ndị mmadụ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "na ndị bi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:58.386683065Z",
+  "model": "glm-5.3"
+}

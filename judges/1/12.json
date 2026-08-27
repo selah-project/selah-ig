@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Kalev wee sị: Onye ọ bụla ga-akụ ⟨את⟩ Kiryat-Sefer ma jide ya, m ga-enye ya ⟨את⟩ Aksa ada m dịka nwunye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ga-akụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ma jide ya"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "m ga-enye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ada m"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dịka nwunye"
+    }
+  ],
+  "timestamp": "2026-08-27T16:31:47.606223173Z",
+  "model": "glm-5.3"
+}

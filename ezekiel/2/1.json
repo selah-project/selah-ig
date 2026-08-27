@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "O wee sị m: Nwa Adam, guzo n'ụkwụ gị, ka m na-gwa gị ⟨את⟩ okwu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wee sị"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Nwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "guzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ụkwụ gị"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "ka m na-gwa okwu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T11:58:11.366071723Z",
+  "model": "glm-5.3"
+}

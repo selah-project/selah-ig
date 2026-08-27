@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Mmekwa, m ga-eme ya ka ọ bụrụ nwa mbụ, kacha elu karịa ndị eze nke ⟨את⟩ ụwa.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "mmekwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "nwa mbụ"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ga-eme ya"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "kacha elu"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "karịa ndị eze"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:02.882979680Z",
+  "model": "glm-5.3"
+}

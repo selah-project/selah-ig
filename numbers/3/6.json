@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Dọta ⟨את⟩ agbụrụ nke Levi, were guzo ⟨את⟩ ha n'ihu Aharon onye-nchu-aja, ka ha na-ejere ya ozi.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Dọta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agbụrụ nke Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "agbụrụ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "were guzo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ha (n'ihu)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "ka ha na-ejere ozi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:13:05.629736156Z",
+  "model": "glm-5.3"
+}

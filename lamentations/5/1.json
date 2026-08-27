@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Cheta, Yahwe, ihe mere anyị; leba anya ma hụ ⟨את⟩ mmehie anyị.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Cheta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "leba anya"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ma hụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmehie anyị"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "mmehie anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:11:19.768052171Z",
+  "model": "glm-5.3"
+}

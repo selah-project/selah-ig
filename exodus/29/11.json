@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Ma ị ga-egbu ⟨את⟩ ehi ahụ n'ihu Yahwe, n'ọnụ ụzọ Ụlọ Nzukọ ahụ.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "ma ị ga-egbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ehi ahụ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ehi ahụ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ụlọ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nzukọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:32:46.046706363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Ị nọrọ na-ekwu okwu megide nwanne gị, na nwa nne gị, na-enye mkparị.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Ị nọrọ"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "megide nwanne gị"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "na-ekwu okwu"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "na nwa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nne gị"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "mkparị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:37.128582594Z",
+  "model": "glm-5.3"
+}

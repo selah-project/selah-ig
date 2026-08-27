@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 9:22",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Otu a ka Yahwe siri kwuo: onye amami ghara ịja mma n'amamihe ya, onye ike ghara ịja mma n'ike ya, onye ọgaranya ghara ịja mma n'akụnụba ya.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Otu a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka ... siri kwuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ịja mma"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "onye amami"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "n'amamihe ya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ịja mma"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "onye ike"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "n'ike ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ịja mma"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "onye ọgaranya"
+    },
+    {
+      "surface": "בעשרו",
+      "gloss": "n'akụnụba ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:20:54.531878037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Yahwe ga-echebe ya, ga-eme ka o dịrị ndụ; a ga-akpọ ya onye nke ọma n'ụwa; ọ nyeghị ya n'aka ọchịchọ ndị iro ya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "ga-echebe ya"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "ga-eme ka o dịrị ndụ"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "a ga-akpọ ya onye nke ọma"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma ọ nyeghị"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "nyefe ya"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "n'aka ọchịchọ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ndị iro ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:18.916753232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Le, Adonai Yahwe na-abịa na ike, ogwe aka ya na-achị maka ya; le, ụgwọ ọrụ ya dị ⟨את⟩ ya, na ihe o mere dị n'ihu ya.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "na ike"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ọ na-abịa"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "na ogwe aka ya"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "na-achị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "ụgwọ ọrụ ya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (na ya)"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "na ihe o mere"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:56:37.101655412Z",
+  "model": "glm-5.3"
+}

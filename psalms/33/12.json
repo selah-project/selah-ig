@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Obi ụtọ nke mba ahụ bụ nke Yahwe bụ Elohim ya, ndị ahụ Ọ họọrọ dị ka ihe nketa Ya.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "obi ụtọ nke"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "mba ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "bụ Elohim ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "Ọ họọrọ"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "dị ka ihe nketa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:37.891710662Z",
+  "model": "glm-5.3"
+}

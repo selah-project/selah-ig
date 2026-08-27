@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ị ga-emekwa efere nkedo na ọdọ nkedo ya maka ịsa ahụ, ma tinye ⟨את⟩ ya n'etiti ụlọ nzukọ na ebe ịchụàjà, ma tinye mmiri n'ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ga-emekwa"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "efere"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nkedo"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "ọdọ ya"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nkedo"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "maka ịsa ahụ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (efere ahụ)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na n'etiti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T06:30:46.681483219Z",
+  "model": "glm-5.3"
+}

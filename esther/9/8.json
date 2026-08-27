@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "na ⟨את⟩ Porata, na ⟨את⟩ Adalya, na ⟨את⟩ Aridata;",
+  "tokens": [
+    {
+      "surface": "ו",
+      "gloss": "⟨את⟩ na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Porata"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "⟨את⟩ Porata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Adalya"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "⟨את⟩ Adalya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aridata"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Aridata"
+    }
+  ],
+  "timestamp": "2026-08-27T15:21:41.269863646Z",
+  "model": "glm-5.3"
+}

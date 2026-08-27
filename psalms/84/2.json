@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 84,
+  "translation": "Eọ sị mma ebe obibi gị, Yahwe nke ndị agha!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "eọ sị"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "mma (a hụrụ n'anya)"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "ebe obibi gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:49:20.625335784Z",
+  "model": "glm-5.3"
+}

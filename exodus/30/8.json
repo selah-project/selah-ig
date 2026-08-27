@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Na mgbe Aharon na-ebulite ⟨את⟩ olụ-anya n'etiti abalị-abalị, ọ ga-esi ya — ihe-esi esi na-adịgide adịgide n'ihu Yahwe, maka ọgbọ ndị gị.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "mgbe ọ na-ebulite"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olụ-anya"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "olụ-anya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "abalị-abalị"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "ọ ga-esi ya"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ihe-esi esi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "na-adịgide adịgide"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "maka ọgbọ ndị gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:39.658236603Z",
+  "model": "glm-5.3"
+}

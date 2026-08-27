@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Isi ntọala ya ga-abụ nke a kụrisara, ndị niile na-eme ọrụ maka ụgwọ nwere obi mgbu.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "isi ntọala ya"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "nke a kụrisara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ọrụ maka ụgwọ"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "nwere obi mgbu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "obi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:42:41.031713441Z",
+  "model": "glm-5.3"
+}

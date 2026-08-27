@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ha tiere mkpu, mana enweghị onye nzọpụ; ruo na Yahwe ha kpọrọ, ma Ọ zaghịghị ha.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "ha tiere mkpu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana enweghị"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "onye nzọpụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ruo na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ zughị"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "zaghị ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:01.933511292Z",
+  "model": "glm-5.3"
+}

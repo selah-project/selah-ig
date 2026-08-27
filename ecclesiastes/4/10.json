@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "n'ihi na ọ bụrụ na ha daa, otu ga-eweli ⟨את⟩ enyi ya elu; ma otu ọzọ ada, enweghị onye nke abụọ iji welie ya elu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ha daa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "ga-eweli elu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enyi ya"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "enyi ya"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "ma otu ọzọ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ada"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ọ bụrụ na ọ dara"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "שני",
+      "gloss": "onye nke abụọ"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "iji welie ya elu"
+    }
+  ],
+  "timestamp": "2026-08-27T15:11:47.147628613Z",
+  "model": "glm-5.3"
+}

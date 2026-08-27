@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ha na-ekpe ⟨את⟩ ndị ahụ ikpe n'oge niile; ⟨את⟩ okwu siri ike, ha na-eweta ya nye Moshe, ma okwu ọ bụla nke nta, ha onwe ha na-ekpe ya ikpe.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "Ha na-ekpe ikpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'oge niile"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu siri ike"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "ha na-eweta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma ọ bụla"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nke nta"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "ha na-ekpe ikpe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha onwe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:20:06.713655768Z",
+  "model": "glm-5.3"
+}

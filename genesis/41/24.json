@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Ma shibolim ndị mkpụmkpụ riri ⟨את⟩ shibolim asaa ndị dị mma; m gwara ndị dibịa afa, ma onye ọ bụla enweghị ike ịkọwa ya nye m.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "Ma ... riri"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "shibolim"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "ndị mkpụmkpụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shibolim asaa ndị dị mma"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "shibolim"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "ndị dị mma"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "m gwara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-(nye)"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "ndị dibịa afa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma onye ọ bụla enweghị ike"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ịkọwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nya m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:06.868208085Z",
+  "model": "glm-5.3"
+}

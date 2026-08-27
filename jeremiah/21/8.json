@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Gwa ndị a: Otú a ka Yahwe siri kwuo: Le, m na-etinye n'ihu unu ⟨את⟩ ụzọ ndụ, na ⟨את⟩ ụzọ ọnwụ.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Gwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ị ga-asị"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Otú a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siri kwuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Le, m"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "na-etinye"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "n'ihu unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụzọ ndụ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụzọ ọnwụ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ọnwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:29:21.838748495Z",
+  "model": "glm-5.3"
+}

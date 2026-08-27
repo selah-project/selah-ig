@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Nke Dawid. Nkuzi. Oo obi ụtọ nke onye a na-eburu ⟨את⟩ mmehie, nke a na-ekpuchi ⟨את⟩ njọ.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nke Dawid"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Nkuzi"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Oo obi ụtọ"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "a na-eburu"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "a na-ekpuchi"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "njọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:58.164099627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ọ bụrụ na ọ bata naanị onwe ya, naanị onwe ya ka ọ ga-apụ̀; ọ bụrụ na ọ bụ di nke nwanyị, nwunye ya ga-apụ̀ ya na ya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "naanị onwe ya"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ọ bata"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "naanị onwe ya"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ọ ga-apụ̀"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "di"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nke nwanyị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "ga-apụ̀"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwunye ya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:12.730366514Z",
+  "model": "glm-5.3"
+}

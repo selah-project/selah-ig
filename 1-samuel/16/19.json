@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Shaul wee zipụ ozi ka ha gaa Yishai, na-asị: Zipụta m ⟨את⟩ Dawid, nwa gị, onye nọ ná atụrụ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wee zipụ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ozi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka ha gaa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "zipụta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nwa gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "ná atụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:11:59.783291808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Ọ were ha n'aka ha, wee kee ya mma ⟨את⟩ na ngwá ọrụ ise ihe, wee mee ya nwa ehi a tụrụ atụ n'ọla; ha wee sị: Ndị a bụ chi gị, O Yisrael, ndị welitere gị site n'ala Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "n'aka ha"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "kee ya mma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (nwa ehi)"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "na ngwá ọrụ ise ihe"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "wee mee ya"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "nwa ehi"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "a tụrụ atụ n'ọla"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha wee sị"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ndị a"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "chi gị"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "welitere gị"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "site n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:37:37.589906811Z",
+  "model": "glm-5.3"
+}

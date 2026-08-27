@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ha ga-ekele Yahwe maka ịhụnanya-ọgbụgba-ndụ ya, maka ihe ịtụnanya ya nye ụmụ ụmụ Adam.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ha ga-ekele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ịhụnanya-ọgbụgba-ndụ ya"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "maka ihe ịtụnanya ya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "nya ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:06.386380280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ugbu a, bilieunu, gafenuonu maka onwe unu ⟨את⟩ osimiri Zered; ⟨את⟩ anyị wee gafee ⟨את⟩ osimiri Zered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "bilieunu"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "gafenuonu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka onwe unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osimiri"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "osimiri"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "⟨את⟩ anyị wee gafee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osimiri"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "osimiri"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-08-27T07:48:55.087481522Z",
+  "model": "glm-5.3"
+}

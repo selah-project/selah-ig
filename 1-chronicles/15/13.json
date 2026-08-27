@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 15:13",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Maka n'ihi na n'ihe mbụ ọ bụghị unu, Yahwe Elohim anyị gbawara anyị mgbawa, maka na anyị chọghị ya dịka iwu si dị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka n'ihi na"
+    },
+    {
+      "surface": "למ",
+      "gloss": "n'"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "ihe mbụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "gbawara mgbawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ghị"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "anyị chọghị ya"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "dịka iwu si dị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:01:07.756513158Z",
+  "model": "glm-5.3"
+}

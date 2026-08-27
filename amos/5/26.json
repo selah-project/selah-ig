@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ma unu buru ⟨את⟩ Sikkut, eze unu, na ⟨את⟩ Kiyyun, ihe oyiyi unu, kpakpando chi unu, nke unu mere maka unu.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "ma unu buru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkut"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikkut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "eze unu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kiyyun"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiyyun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "ihe oyiyi unu"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "kpakpando"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "chi unu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "unu mere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka unu"
+    }
+  ],
+  "timestamp": "2026-08-27T12:48:26.385270184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ha si na Tsalmona pụọ, ma bia n'ụlọikwu na Funon.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Ha pụọ"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "si na Tsalmona"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ma bia n'ụlọikwu"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "na Funon"
+    }
+  ],
+  "timestamp": "2026-08-27T07:45:18.458087672Z",
+  "model": "glm-5.3"
+}

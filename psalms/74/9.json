@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Amaokra anyị anyị ahụghị; ọ dịghị onye-amụma ọzọ, ma ọ dịghịkwa onye ⟨את⟩ anyị na-ama ruo ogologo.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "amaokra anyị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "anyị ahụghị"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "onye-amụma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ dịghịkwa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ anyị",
+      "marks": "onye na-ama ruo ogologo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "na-ama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ogologo"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:15.802092805Z",
+  "model": "glm-5.3"
+}

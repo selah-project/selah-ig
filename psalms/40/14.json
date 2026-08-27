@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Yahwe, nwee mmasị n'izọpụta m; Yahwe, mee ngwa ngwa nyere m aka.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "nwee mmasị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "n'izọpụta m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "nyere m aka"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "mee ngwa ngwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:14.576065406Z",
+  "model": "glm-5.3"
+}

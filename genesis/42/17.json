@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "O wee chịkọta ha n'aka nche ụbọchị atọ.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "O wee chịkọta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "aka nche"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:35.228271829Z",
+  "model": "glm-5.3"
+}

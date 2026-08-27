@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 11:12",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ìgwè ahụ ga-eburu, obi ya ga-ebuli elu, ọ ga-akụda puku iri puku iri, ma ọ gaghị enwe ike.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "ga-eburu"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ìgwè ahụ"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ga-ebuli elu"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "obi ya"
+    },
+    {
+      "surface": "והפיל",
+      "gloss": "ọ ga-akụda"
+    },
+    {
+      "surface": "רבאות",
+      "gloss": "puku iri puku iri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ gaghị"
+    },
+    {
+      "surface": "יעוז",
+      "gloss": "enwe ike"
+    }
+  ],
+  "timestamp": "2026-08-27T15:32:43.972715541Z",
+  "model": "glm-5.3"
+}

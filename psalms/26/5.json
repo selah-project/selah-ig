@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ajụla m ọgbakọ ndị na-eme ihe ọjọọ, ma ndị ajọ omume agaghị m nọdụrọ ha.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ajụla m"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ọgbakọ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ndị na-eme ihe ọjọọ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "nọdụrọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:39.317870491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ọ ga-esi isi ya maara ihe n'egwu Yahwe; ọ gaghị ekpe ikpe dịka anya ya hụrụ, ma ọ gaghị amata dịka ntị ya nụrụ.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "ọ ga-esi isi ya maara ihe"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "n'egwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "dịka ihe"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "anya ya"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "na-ekpe ikpe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ gaghịkwa"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "dịka ihe"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "ntị ya"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "na-amata"
+    }
+  ],
+  "timestamp": "2026-08-27T16:38:25.309400955Z",
+  "model": "glm-5.3"
+}

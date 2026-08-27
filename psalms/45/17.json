@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "N'ọnọdụ nna gị ụmụ gị ga-adị; ị ga-eme ha ndị isi n'ụwa niile.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "n'ọnọdụ"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ụmụ gị"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "ga-eme ha"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ụwa niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨n'ụwa⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:21.742341502Z",
+  "model": "glm-5.3"
+}

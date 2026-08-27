@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Na ichere echiche ọrụ echiche, iji rụọ ya na ọlaedo, na ọlaọcha, na ọla kọpa.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "Na ichere echiche"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "ọrụ echiche"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "iji rụọ"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "na ọlaedo"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "na ọlaọcha"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "na ọla kọpa"
+    }
+  ],
+  "timestamp": "2026-08-27T06:39:02.094913494Z",
+  "model": "glm-5.3"
+}

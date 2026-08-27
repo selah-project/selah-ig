@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Nke David. Yahwe, nwèe ⟨את⟩ ndị na-asọ m ikpe; lụso ⟨את⟩ ndị na-alụ m ọgụ ọgụ.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nke David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "nwèe ikpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị na-asọ m ikpe"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "ndị na-asọ m ikpe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lụso ọgụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị na-alụ m ọgụ"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ndị na-alụ m ọgụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:14.823458338Z",
+  "model": "glm-5.3"
+}

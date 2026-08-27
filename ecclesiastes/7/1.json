@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Dị mma aha karịa mmanụ dị ọma, yana ụbọchị ọnwụ karịa ụbọchị a mụrụ ya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "karịa mmanụ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dị ọma"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "yana ụbọchị"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "karịa ụbọchị"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "a mụrụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:16:36.258673592Z",
+  "model": "glm-5.3"
+}

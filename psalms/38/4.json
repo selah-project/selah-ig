@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Enweghị ọdịmma n'ahụ m n'ihi mkpasu iwe gị; enweghị udo n'ọkpụkpụ m n'ihi mmehie m.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ọdịmma"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "n'ahụ m"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "mkpasu iwe gị"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "n'ọkpụkpụ m"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mmehie m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:29.702115307Z",
+  "model": "glm-5.3"
+}

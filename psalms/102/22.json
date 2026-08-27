@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Ka ha kọwaa aha Yahwe na Tsiyon, na otuto Ya na Yerushalayim;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "ka ha kọwaa"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Tsiyon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "na otuto Ya"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:55.770379977Z",
+  "model": "glm-5.3"
+}

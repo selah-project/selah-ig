@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ebe obibi gị dị n'etiti aghụghọ; site na aghụghọ ha jụrụ ịma ⟨את⟩ m, bụ okwu Yahwe.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "ebe obibi gị"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aghighọ"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "site na aghighọ"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ha jụrụ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ịma"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "bụ okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:20:13.778582048Z",
+  "model": "glm-5.3"
+}

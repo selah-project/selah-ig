@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 21:11",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma gị, nwa mmadụ, dali n'ọdịda-ukwu nke mgbawa, na na ịdị ilu gị na-dali n'ihu anya ha.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma gị"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "האנח",
+      "gloss": "dali"
+    },
+    {
+      "surface": "בשברון",
+      "gloss": "n'ọnọdụ mgbawa"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "ukwu ase"
+    },
+    {
+      "surface": "ובמרירות",
+      "gloss": "na na ịdị ilu"
+    },
+    {
+      "surface": "תאנח",
+      "gloss": "gị na-dali"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "n'ihu anya ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:10:18.876745581Z",
+  "model": "glm-5.3"
+}

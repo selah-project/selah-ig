@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Ka ndị mmehie gwụọ n'ụwa, ka ndị ọjọọ adịghịkwa ọzọ. Nne m, too Yahwe. Toonu Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "ka ha gwụọ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ndị mmehie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ka ndị ọjọọ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "adịghịkwa"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "too"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nne m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Toonu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:18.267932410Z",
+  "model": "glm-5.3"
+}

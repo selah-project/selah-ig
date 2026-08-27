@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Onye nchụàjà ga-emekwa ⟨את⟩ nke mbụ dị ka ọfferị mmehie, na ⟨את⟩ nke ọzọ dị ka ọfferị ọkụ; onye nchụàjà ga-edozi maka ya n'ihu Yahwe, n'ihi mmịpụta nke ikpo ọ na-adịghị ọcha.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ga-emekwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nke mbụ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ọfferị mmehie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nke ọzọ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nke ọzọ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ọfferị ọkụ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ga-edozi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "mmịpụta"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "ikpo ọ na-adịghị ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:43.596965703Z",
+  "model": "glm-5.3"
+}

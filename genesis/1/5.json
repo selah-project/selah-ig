@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Elohim kpọrọ ⟨את⟩ ìhè aha Ụbọchị, ma ⟨את⟩ ọchịchịrị ọ kpọrọ aha Abalị; ma ọ dịrị anyanwụ-awa ma ọ dịrị ụtụtụ — ụbọchị nke mbụ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kpọrọ ... aha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ìhè"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Ụbọchị"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ọchịchịrị"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ọ kpọrọ aha"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Abalị"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ma ọ dịrị"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "anyanwụ-awa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ma ọ dịrị"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ụtụtụ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nke mbụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:22:44.039078410Z",
+  "model": "glm-5.3"
+}

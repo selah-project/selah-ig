@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Moshe wee gwuo okwu n'ihu Yahwe, si: Le, ụmụ Yisrael anụghị m; otu a kwa ka Paroh ga-anụ m, bụ onye m nwere mpụkala anakọghị?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ọ gwuru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "si"
+    },
+    {
+      "surface": "הן",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "anụ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "otu a kwa ka"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "ga-anụ m"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "onye a nakoghị"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "mpụkala"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:52.316399237Z",
+  "model": "glm-5.3"
+}

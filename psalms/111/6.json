@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 111,
+  "translation": "Ike nke ọrụ ya ka o gosipụtara ndị ya, n'inye ha ihe nketa nke mba ndị ọzọ.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "ike"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "nke ọrụ ya"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ka o gosipụtara"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "n'inye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ihe nketa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nke mba ndị ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:08.809580844Z",
+  "model": "glm-5.3"
+}

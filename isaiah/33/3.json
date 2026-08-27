@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "N'olu ọgba agha, ndị mmadụ gbagara; n'ihe dị elu gị, mba ndị gbasaara.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "n'olu"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ọgba agha"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ha gbagara"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "n'ihe dị elu gị"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "ha gbasaara"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:51:13.568390453Z",
+  "model": "glm-5.3"
+}

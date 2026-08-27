@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "M gwara gị ka ọ na-asị: Zipụ ⟨את⟩ nwa m ka ọ jere m ozi; ma ị jụrụ izipụ ya — le, m na-egbu ⟨את⟩ nwa gị, nke mbụ amụrụ gị.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "m gwara"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zipụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ka ọ jere m ozi"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "ma ị jụrụ"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "izipụ ya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "na-egbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa gị"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nwa gị"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "nke mbụ amụrụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:08:07.793896350Z",
+  "model": "glm-5.3"
+}

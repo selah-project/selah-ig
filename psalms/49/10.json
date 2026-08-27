@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Ka ọ ga-anọgide na-adị ndụ ruo mgbe ebighị ebi, na ọ gaghị ahụ ⟨את⟩ olili.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ka ọ ga-anọgide na-adị ndụ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ka ọ na-anọgide"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "⟨את⟩ olili",
+      "marks": "olili"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:49.982467427Z",
+  "model": "glm-5.3"
+}

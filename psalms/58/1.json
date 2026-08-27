@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 58,
+  "translation": "Maka onye nduzi egwu; Ekwula mbibi; abụ nke David; Miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye nduzi egwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ekwula"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "mbibi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:32.554495235Z",
+  "model": "glm-5.3"
+}

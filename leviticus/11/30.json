@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "na mgbada-ala (gecko), na nkwọ-ala (monitor), na ngọlọbi (lizard), na agañaa (skink), na mmāgā (chameleon).",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "na mgbada-ala (gecko)"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "na nkwọ-ala (monitor)"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "na ngọlọbi (lizard)"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "na agañaa (skink)"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "na mmāgā (chameleon)"
+    }
+  ],
+  "timestamp": "2026-08-27T06:49:37.212096155Z",
+  "model": "glm-5.3"
+}

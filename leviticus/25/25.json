@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Mgbe nwanne gị dara ogbenye, ma ree ihe nketa ya, onye mgbapụta ya, onye kacha nso ya, ga-abịa, wee mgbapụta ⟨את⟩ ihe a rere nke nwanne ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "dara ogbenye"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "ma ree"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "ihe nketa ya"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ga-abịa"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "onye mgbapụta ya"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "onye kacha nso"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "wee mgbapụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe a rere nke nwanne ya"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "ihe a rere"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:07:43.833634877Z",
+  "model": "glm-5.3"
+}

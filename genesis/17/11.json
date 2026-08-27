@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Unu ga-ewepụ ⟨את⟩ anụ ahụ nke ibe unu, ọ ga-abụkwa akara ọgbụgba-ndụ n'etiti m na unu.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "Unu ga-ewepụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ahụ nke ibe unu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "anụ ahụ"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "nke ibe unu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụkwa"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "akara"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "n'etiti m"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "na unu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:35:19.323067036Z",
+  "model": "glm-5.3"
+}

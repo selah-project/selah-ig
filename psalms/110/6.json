@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 110,
+  "translation": "Ọ ga-ekpe ikpe n'etiti mba ndị, ga-ejupụta ⟨na⟩ ozu, ga-akụkọ isi n'elu ụwa buru ibu.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "ọ ga-ekpe ikpe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "n'etiti mba ndị"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ga-ejupụta"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "ozu"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ga-akụkọ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "buru ibu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:20.843420906Z",
+  "model": "glm-5.3"
+}

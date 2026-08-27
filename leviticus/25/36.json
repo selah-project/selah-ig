@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ekwela ka ị were ⟨את⟩ mmasị ụgwọ ma ọ bụ ⟨את⟩ ụgwọ ọzọ n'aka ya; tụrụ egwu Elohim gị, ka nwanne gị wee nwee ike idi ndụ ná ntakịrị gị.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ka ị were"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "mmasị ụgwọ na ụgwọ ọzọ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "mmasị ụgwọ"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "ụgwọ ọzọ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "tụrụ egwu"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ka ọ wee di ndụ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ná ntakịrị gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:27:30.360922865Z",
+  "model": "glm-5.3"
+}

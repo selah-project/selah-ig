@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 4:1",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ndị iro nke Yehudah na Binyamin nụrụ na ụmụ ⟨ndị⟩ a dọrọ n'agha na-ewu ụlọ nsọ maka Yahwe, Elohim nke Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ndị iro nke"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "na Binyamin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "a dọrọ n'agha"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "na-ewu"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ụlọ nsọ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T15:36:51.166039814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ndị mmadụ niile we hụrụ ⟨את⟩ olu ndị ahụ na ⟨את⟩ ọkụ ọsụsa ndị ahụ na ⟨את⟩ olu ọnụ mpi ahụ na ⟨את⟩ ugwu na-esi anwụ; ndị mmadụ we hụ, we na-ama jijiji, wee guzo n'ebe dị anya.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na ... niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "ha na-ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olu ndị ahụ"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "olu ndị ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọkụ ọsụsa ndị ahụ"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "ọkụ ọsụsa ndị ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olu ọnụ mpi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "ọnụ mpi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ugwu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "na-esi anwụ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "we hụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "we na-ama jijiji"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "wee guzo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "n'ebe dị anya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:22:26.293567208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 13:23",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "N'ụbọchị ndị ahụ kwa, m hụrụ ⟨את⟩ ndị Yehuda ka ha lụrụ ụmụ nwanyị ndị Ashdod, ndị Amon, na ndị Mọab.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "m hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Yehuda"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ndị Yehuda"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "ka ha lụrụ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ụmụ nwanyị"
+    },
+    {
+      "surface": "אשדודיות",
+      "gloss": "ndị Ashdod"
+    },
+    {
+      "surface": "עמוניות",
+      "gloss": "ndị Amon"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "ndị Mọab"
+    }
+  ],
+  "timestamp": "2026-08-27T15:51:08.779075365Z",
+  "model": "glm-5.3"
+}

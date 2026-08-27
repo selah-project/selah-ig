@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Yahwe gara n'ihu na-ekwu okwu n'{{aka|isolated}} m ọzọ, na-asị:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "gara n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "na-ekwu okwu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n'aka m"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:36:20.585407756Z",
+  "model": "glm-5.3"
+}

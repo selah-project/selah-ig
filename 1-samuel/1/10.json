@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ wee bụrụ onye nwụrụ anwụ n'obi ya, wee nye ekpere ruo Yahwe, na-ebe ákwá na-ebe ákwá ukwuu.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "nwere ọnwụ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "n'obi\/ndụ"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "wee nye ekpere"
+    },
+    {
+      "surface": "על",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "na-ebe ákwá"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "na-ebe ákwá ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:58:32.057411532Z",
+  "model": "glm-5.3"
+}

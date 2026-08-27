@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ya mere, Yahwe nụrụ ya, ma iwe were ya, ma ọkụ gbatara n'ime Yaakov, nakwa iwe biliri n'elu Isarel.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ya mere"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "ma iwe were ya"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ma ọkụ"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "gbatara"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "n'ime Yaakov"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "biliri"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "n'elu Isarel"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:09.397521490Z",
+  "model": "glm-5.3"
+}

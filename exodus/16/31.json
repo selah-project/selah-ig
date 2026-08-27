@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ụlụ Yisrael wee kpọa aha ya ⟨את⟩ Man; ọ dị ka mkpụrụ nke korianda, ọcha, ma ụtọ ya dị ka achịcha dịtụ mfe esi na mmanụ aṅụ.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "wee kpọa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Ụlụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "ka mkpụrụ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "nke korianda"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ọcha"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "ma ụtọ ya"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "ka achịcha dịtụ mfe esi"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "na mmanụ aṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:21:13.757591531Z",
+  "model": "glm-5.3"
+}

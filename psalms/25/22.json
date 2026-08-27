@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Zọọ ⟨את⟩ Yisrael, Elohim, site ná nsogbu ya niile.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "zọọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "site ná ... niile"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "nsogbu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:39.598275545Z",
+  "model": "glm-5.3"
+}

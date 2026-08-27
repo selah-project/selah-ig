@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "ka O wee were ⟨את⟩ gị guzosie taa maka Onwe Ya dịka ndị mmadụ, ma Ọ bụrụ gị Elohim, dịka O kwuru nye gị, na dịka O ṅụrụ iyi nye nna nna gị, nye Avraham, nye Yitschak, na nye Yaakov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "O wee guzosie"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka Onwe Ya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dịka ndị mmadụ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma Ọ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bụrụ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "O kwuru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nye gị"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "na dịka"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "O ṅụrụ iyi"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "nye nna nna gị"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "nye Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "nye Yitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "na nye Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-27T08:13:03.313945846Z",
+  "model": "glm-5.3"
+}

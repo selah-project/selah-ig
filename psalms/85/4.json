@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 85,
+  "translation": "Ị chịkọtara iwe gị niile; Ị tụgharịrị onwe gị site n'ọkụ nke imi gị.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Ị chịkọtara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "iwe gị"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "Ị tụgharịrị"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ọkụ ọkụ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nke imi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:29.476701441Z",
+  "model": "glm-5.3"
+}

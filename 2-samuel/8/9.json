@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Toi, eze Chamat, nụrụ na David kụrụ ⟨את⟩ ndị agha niile nke Hadadezer.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "kụrụ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị agha niile nke Hadadezer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    }
+  ],
+  "timestamp": "2026-08-27T09:32:34.074129525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Elohim wee gwa Moshe okwu, wee sị ya: Mụ bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wee gwa okwu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:10:15.969687214Z",
+  "model": "glm-5.3"
+}

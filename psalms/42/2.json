@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Dịka mgbada na-agụ agụ maka mmiri n'olulu mmiri, otu a ka mkpụrụ obi m na-agụ agụ maka gị, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "dịka mgbada"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "na-agụ agụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "olulu mmiri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "na-agụ agụ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:08.042435755Z",
+  "model": "glm-5.3"
+}

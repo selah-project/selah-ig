@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Moshe kwuru, sị: Otutu a ka Yahwe kwuru: N'etiti abalị ka m na-apụ n'etiti Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kwuru, sị"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otutu a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "n'etiti abalị dịka"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "abalị"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "na-apụ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:37.270202257Z",
+  "model": "glm-5.3"
+}

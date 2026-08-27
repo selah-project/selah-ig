@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Yahwe agaghị ahapụ ya n'aka ya, ma ọ ga-agbahapụghikwa ya ikpe n'ụzọ na-ezighị ezi mgbe a na-ekpe ya ikpe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "ahapụ ya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ gaaghịkwa"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "gbahapụ ya ikpe n'ụzọ na-ezighị ezi"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "mgbe a na-ekpe ya ikpe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:40.115959738Z",
+  "model": "glm-5.3"
+}

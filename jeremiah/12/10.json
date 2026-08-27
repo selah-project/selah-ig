@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ndị na-azụ atụrụ dị iche iche mebirila ubi vaịn m, ha gbadarasịrị ⟨את⟩ akụkụ ala m, ha nyere ⟨את⟩ akụkụ ala m hụrụ m n'anya ka ọ bụrụ ọzara na mbibi.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "ndị na-azụ atụrụ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dị iche iche"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "mebirila"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ubi vaịn m"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "ha gbadarasịrị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akụkụ ala m"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "akụkụ ala m"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ha nyere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akụkụ ala m hụrụ m n'anya"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "akụkụ ala"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "m hụrụ m n'anya"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ka ọ bụrụ ọzara"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "mbibi"
+    }
+  ],
+  "timestamp": "2026-08-27T11:23:30.292116003Z",
+  "model": "glm-5.3"
+}

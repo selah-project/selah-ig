@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ọ ga-ezo mkpụrụ ọkụ n'elu ndị ọjọọ; ọkụ na sulfur, na ikuku na-eri eri — ⟨nke a bụ⟩ òkè iko ha.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "ọ-ga-ezo"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị-ọjọọ"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "mkpụrụ-ọkụ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "na-sulfur"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na-ikuku"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "na-eri-eri"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "iko-ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:30.703604780Z",
+  "model": "glm-5.3"
+}

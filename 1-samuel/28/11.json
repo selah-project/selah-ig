@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Nwanyị ahụ wee sọ: ⟨את⟩ onye ka m ga-ewelite gị? Ọ wee sọ: ⟨את⟩ Shmuel, welite m ya.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ọ wee sọ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nwanyị ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ka m ga-ewelite"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shmuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "welite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T09:23:34.721137560Z",
+  "model": "glm-5.3"
+}

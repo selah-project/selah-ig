@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "M ga-ewusiri ⟨את⟩ ọgbụgba-ndụ m ike ⟨את⟩ gị; gị na ụmụ gị na nwunye gị na ndị nwunye ụmụ gị ga-abanye n'ụgbọ mmiri ⟨את⟩ gị.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "m ga-ewusiri ike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "gị ... ga-abanye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ụgbọ mmiri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ụmụ gị"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "nwunye gị"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ndị nwunye"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ụmụ gị"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:28.648913704Z",
+  "model": "glm-5.3"
+}

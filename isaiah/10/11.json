@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ọ bụghị́ ka m mere ⟨את⟩ Shomron na chi ndị ọzọ ya, otu a ka m ga-eme Yerushalayim na ihe oyiyi ya?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ọ bụghị́"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "m mere"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "na chi ndị ọzọ ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ka m ga-eme"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "na ihe oyiyi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:38:36.285466169Z",
+  "model": "glm-5.3"
+}

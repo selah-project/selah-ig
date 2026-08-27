@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Ọ̀ nwere ike ichefu nwa nke nọ n'obi ya nwaanyị, nwa nke si n'afọ ya? Ọ bụrụ na ha chefuo, mụ onwe m agaghị echefu gị.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "ọ̀ nwere ike ichefu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nwaanyị"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nwa n'obi ya"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "si n'afọ ya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "afọ ya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "chefuo"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ma mụ onwe m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "echefu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T11:01:32.759649363Z",
+  "model": "glm-5.3"
+}

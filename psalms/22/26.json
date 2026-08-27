@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Site n'aka gị ka otuto m dị, n'ụka ukwu; nkwa m ka m ga-emezu n'ihu ndị na-atụ egwu ya.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ site n'aka gị"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "otuto m"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "n'ụka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "nkwa m"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ka m ga-emezu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ndị na-atụ egwu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:08.239442037Z",
+  "model": "glm-5.3"
+}

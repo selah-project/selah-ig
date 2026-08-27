@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ụzọ gị, Yahwe, mere ka m mata; ụzọ nzọụkwọ gị, kuziere m.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Ụzọ gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "mere ka m mata"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "ụzọ nzọụkwọ gị"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "kuziere m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:22.421414864Z",
+  "model": "glm-5.3"
+}

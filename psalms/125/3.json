@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 125,
+  "translation": "Maka ngụsị nke ndị ajọ omume agaghị ezurụ ike n'akụkụ òkè nke ndị ezi omume, ka ndị ezi omume ghara ịdọrọ aka na ajọ omume aka ha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ezurụ ike"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ngụsụ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "nke ndị ajọ omume"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "nke ndị ezi omume"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "ịdọrọ aka"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "ndị ezi omume"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "na ajọ omume"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "aka ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:24.950763477Z",
+  "model": "glm-5.3"
+}

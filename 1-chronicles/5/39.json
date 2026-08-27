@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Shalum wee mụọ ⟨את⟩ Hilikiyah, Hilikiyah wee mụọ ⟨את⟩ Azaryah.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Shalum wee"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilikiyah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilikiyah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "Hilikiyah wee"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    }
+  ],
+  "timestamp": "2026-08-27T15:53:04.281426844Z",
+  "model": "glm-5.3"
+}

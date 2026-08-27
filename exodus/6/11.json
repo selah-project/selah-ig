@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Bata, gwuo Paroh, eze Mitzrayim, okwu, ka ọ hapụ ⟨את⟩ ụmụ Yisrael n'ala ya.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "bata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gwuo okwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "esi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ka ọ zipụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "n'ala ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:52.316241469Z",
+  "model": "glm-5.3"
+}

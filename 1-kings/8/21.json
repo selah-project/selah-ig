@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma m debere ebe ahụ maka igbe ahụ, bụ́ ⟨את⟩ igbe nke ọgbụgba-ndụ Yahwe, nke ọ kụpụrụ na nna nna anyị n'oge ọ na-ewepụ ha n'ala Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "ma m debere"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "maka"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "igbe ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ́"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nke dị"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ọ kụpụrụ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "nna nna anyị"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "n'oge ọ na-ewepụ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T09:56:55.704843811Z",
+  "model": "glm-5.3"
+}

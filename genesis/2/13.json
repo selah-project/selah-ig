@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Aha osimiri nke abụọ bụ Gichon; ọ ⟨hụ⟩ na-ekpu ⟨את⟩ ala dum nke Kush ugbu a.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "osimiri"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "na-ekpu ugbu a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala dum nke Kush"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dum"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "nke Kush"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:03.075228624Z",
+  "model": "glm-5.3"
+}

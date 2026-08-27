@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 100,
+  "translation": "Bata n'Ọnụ ụzọ Ya n'ekele, na n'Ulo Ọnọ Ya n'Otuto; kelee Ya, gọzie Aha Ya.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Bata"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "n'Ọnụ ụzọ Ya"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "n'ekele"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "na n'Ulo Ọnọ Ya"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "n'Otuto"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "kelee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "gọzie"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Aha Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:38.354194884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ọ̀ ga-abụ na ọtụtụ okwu agaghị azọpụta aziza, ma ọ bụ na nke ⟨⟨is⟩⟩ sepụtara ⟨⟨the⟩⟩ nwoke ọnụ ga-ekpe ikpe ziri ezi?",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "azọpụta aziza"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụ na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ga-ekpe ikpe ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:42:27.315306566Z",
+  "model": "glm-5.3"
+}

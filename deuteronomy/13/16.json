@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Gbukwa gbuo ⟨את⟩ ndị bi n'obodo ahụ site n'ọnụ mma agha; bibie ya kpamkpam ya na ⟨את⟩ ihe niile dị na ya na ⟨את⟩ anụ ụlọ ya, site n'ọnụ mma agha.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "gbukwa"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "gbuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị bi n'obodo ahụ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "site n'ọnụ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "bibie ya kpamkpam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ya",
+      "marks": "obodo ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dị"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "anụ ụlọ ya"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "anụ ụlọ ya"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "site n'ọnụ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mma agha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:00:31.881510602Z",
+  "model": "glm-5.3"
+}

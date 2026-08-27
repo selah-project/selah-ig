@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 94,
+  "translation": "Obi dị ⟨nwoke⟩ nke ị na-edozigharị,ọ Yah, site na Torah gị na-akụziri ya.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Obi dị"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "ị na-edozigharị ya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "site na Torah gị"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "na-akụziri ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:03.556182843Z",
+  "model": "glm-5.3"
+}

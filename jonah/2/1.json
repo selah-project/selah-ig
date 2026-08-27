@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Yahwe mere azụ ukwu ka ọ ṅụọ ⟨את⟩ Yonah; Yonah nọrọ n'afọ azụ ahụ ụbọchị atọ na abalị atọ.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "mere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "azụ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ka ọ ṅụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ nọrọ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "n'afọ"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "azụ ahụ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "na atọ"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "abalị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:52:27.661952073Z",
+  "model": "glm-5.3"
+}

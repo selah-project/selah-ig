@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Unu ga-ahapụghị ihe ọ bụla nke ya ruo ụtụtụ; ihe fọdụrụ nke ya ruo ụtụtụ, unu ga-ere ya n'ọkụ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ọ ga-ahapụghị"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "unu ga-ahapụ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nke ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ụtụtụ"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "ihe fọdụrụ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nke ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ụtụtụ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "unu ga-ere"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:35.306450442Z",
+  "model": "glm-5.3"
+}

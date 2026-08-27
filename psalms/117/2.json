@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 117,
+  "translation": "N'ihi na ịhụnanya ọgbụgba-ndụ ya siri ike n'elu anyị, na eziokwu Yahwe dịgide ruo mgbe ebighị ebi. Toonu Yah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "n'elu anyị"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ịhụnanya ọgbụgba-ndụ ya"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na eziokwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "toonu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:23.359394685Z",
+  "model": "glm-5.3"
+}

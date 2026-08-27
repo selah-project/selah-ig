@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ọjọọ ga-egbu onye rụrụ arụ, ma ndị na-akpaasị onye e kwuwo ike ga-enwe ⟨mmehie⟩.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "ga-egbu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye rụrụ arụ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "ma ndị na-akpaasị"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye e kwuwo ike"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ga-enwe mmehie"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:43.414435426Z",
+  "model": "glm-5.3"
+}

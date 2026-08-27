@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Ma m dị ka onye ntị chiri, anaghị m anụ; dịka onye ogbu ọnụ, ọnụ ya anaghị emeghe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ma m"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "dị ka onye ntị chiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "m anụ"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "dịka onye ogbu ọnụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ya emeghe"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ọnụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:26.533718371Z",
+  "model": "glm-5.3"
+}

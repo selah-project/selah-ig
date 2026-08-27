@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Avraham were ⟨את⟩ osisi nke ọkụ-ọfụfụ wee tinye ya n'elu Yitschak nwa ya, o werekwa n'aka ya ⟨את⟩ ọkụ na ⟨את⟩ mma; ha abụọ gara ọnụ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osisi nke ọkụ-ọfụfụ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nke ọkụ-ọfụfụ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wee tinye"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o werekwa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkụ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mma"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "mma"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ha gara"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ha abụọ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:39:01.228666489Z",
+  "model": "glm-5.3"
+}

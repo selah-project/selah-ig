@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "N'ihi na ha ekwerughị na Elohim, ma ndabeghịkwa na nzọpụta ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ha ekwerughị"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghịkwa"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ndabeghị"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "na nzọpụta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:09.397791548Z",
+  "model": "glm-5.3"
+}

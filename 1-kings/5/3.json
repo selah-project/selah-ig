@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "ehi iri abụọ ndị ara, na ehi iri abụọ ndị e gheziri n'ọhịa, na atụrụ narị; ná mgbakwunye nke mbe, nke mgbada, nke יחמור, na nnụnụ ndị a gbara abụba.",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "ndị ara"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "ndị e gheziri n'ọhịa"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "narị"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ná mgbakwunye"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "mbe"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "mgbada"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "יחמור"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "nnụnụ"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "ndị a gbara abụba"
+    }
+  ],
+  "timestamp": "2026-08-27T09:55:44.295646091Z",
+  "model": "glm-5.3"
+}

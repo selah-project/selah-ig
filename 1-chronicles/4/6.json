@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Naarah mụrụ ya ⟨את⟩ Akhuzzam, na ⟨את⟩ Khefer, na ⟨את⟩ Temeni, na ⟨את⟩ Akhashtari; ndị a bụ ụmụ Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhuzzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Akhuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Khefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Khefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Akhashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Akhashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-08-27T15:53:11.658385656Z",
+  "model": "glm-5.3"
+}

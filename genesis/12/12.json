@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ga-abụ na ndị Mitsrajim hụrụ ⟨את⟩ gị, ha ga-ekwu, «Nwanyị nke a ka ọ bụ,» ha ga-egbu ⟨את⟩ m, mana ⟨את⟩ gị ha ga-edo ndụ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ndị Mitsrajim"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ha ga-ekwu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwanyị"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "ha ga-egbu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ha ga-edo ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:09.172159799Z",
+  "model": "glm-5.3"
+}

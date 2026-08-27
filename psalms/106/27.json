@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Ka mkpụrụ ha daa n'etiti mba ndị ọzọ, ka a gbasa ha n'ala ndị ọzọ.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "ka ha daa"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "mkpụrụ ha"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "n'etiti mba ndị ọzọ"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "ka a gbasa ha"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "n'ala ndị ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:01.853611298Z",
+  "model": "glm-5.3"
+}

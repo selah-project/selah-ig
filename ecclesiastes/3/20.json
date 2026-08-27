@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ihe niile na-aga otu ebe; ihe niile si n'aja, ma ihe niile na-alaghachi n'aja.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "היה",
+      "gloss": "si"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "aja"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "na ihe niile"
+    },
+    {
+      "surface": "שב",
+      "gloss": "na-alaghachi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "aja"
+    }
+  ],
+  "timestamp": "2026-08-27T15:13:40.134011833Z",
+  "model": "glm-5.3"
+}

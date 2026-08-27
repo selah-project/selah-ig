@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 10:10",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Dịka m chọrọ, m ga-amị ha n'ọgbụgbọ; a ga-anakọta mba megide ha mgbe e jidere ha maka ajọ omume ha abụọ.",
+  "tokens": [
+    {
+      "surface": "באותי",
+      "gloss": "dịka m chọrọ"
+    },
+    {
+      "surface": "ו אסרם",
+      "gloss": "m ga-amị ha n'ọgbụgbọ"
+    },
+    {
+      "surface": "ואספו",
+      "gloss": "a ga-anakọta"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "megide ha"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "באסרם",
+      "gloss": "mgbe e jidere ha"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "maka abụọ"
+    },
+    {
+      "surface": "עינתם",
+      "gloss": "ajọ omume ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:44:53.478961218Z",
+  "model": "glm-5.3"
+}

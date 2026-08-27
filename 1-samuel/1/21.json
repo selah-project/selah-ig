@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma nwoke ahụ, Elkanah, na ⟨ụlọ⟩ ya niile, rịgooro ichụ ⟨את⟩ àjà nke ụbọchị ndị ahụ na ⟨את⟩ nkwa ya nye Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "rịgooro"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke ahụ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ichụ àjà"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àjà nke ụbọchị ndị ahụ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "àjà"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nke ụbọchị ndị ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nkwa ya"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "nkwa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:00:37.871646832Z",
+  "model": "glm-5.3"
+}

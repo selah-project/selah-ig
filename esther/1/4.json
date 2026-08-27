@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Mgbe ọ na-egosi ⟨את⟩ akụ na ụba nke ùgwù ọchịchị ya, na ⟨את⟩ oke ọnụ ahịa mma nke ukwuu ya — ụbọchị ndị adịghị agwụ agwụ, ụbọchị iri asatọ na narị.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "Mgbe ọ na-egosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akụ na ụba"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "akụ na ụba"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nke ùgwù"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "nke ọchịchị ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "oke ọnụ ahịa mma"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "oke ọnụ ahịa"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "mma"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "nke ukwuu ya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ndị adịghị agwụ agwụ"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "iri asatọ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na narị"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:19:51.396961180Z",
+  "model": "glm-5.3"
+}

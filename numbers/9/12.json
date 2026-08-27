@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ha ga-ahapụghị ihe ọ bụla n'ime ya ruo ụtụtụ, na ọkpụkpụ ha ga-emebighị na ya; dịka iwu niile nke Pesaach ha ga-eme ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ghị"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "ha ga-ahapụ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ihe ọ bụla n'ime ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ụtụtụ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "na ọkpụkpụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghị"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ha ga-emebi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dịka niile"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "nke Pesaach"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ha ga-eme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (Pesaach)"
+    }
+  ],
+  "timestamp": "2026-08-27T16:27:16.963145555Z",
+  "model": "glm-5.3"
+}

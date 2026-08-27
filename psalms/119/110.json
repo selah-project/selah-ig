@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ndị ọjọọ tinyere ọnyà maka m, ma site na iwu gị atụpụghị m ụzọ.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "tinyere"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Ndị ọjọọ"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ọnyà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "ma site na iwu gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "atụpụghị m ụzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:03:34.627455976Z",
+  "model": "glm-5.3"
+}

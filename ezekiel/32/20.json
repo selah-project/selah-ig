@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 32:20",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "N'etiti ndị e gburu site na mma agha ha ga-ada; a nyere ya n'aka mma agha; dọta ⟨את⟩ ya ala, ya na ọnụ ọgụgụ ya niile.",
+  "tokens": [
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ndị e gburu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ha ga-ada"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "a nyere ya"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "dọta ala"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (Mitzrayim)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ya na niile"
+    },
+    {
+      "surface": "המוניה",
+      "gloss": "ọnụ ọgụgụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:21:58.155698026Z",
+  "model": "glm-5.3"
+}

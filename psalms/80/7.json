@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Ị na-eme anyị agha esemokwu maka ndị agbata obi anyị, ndị iro anyị na-achị anyị ọchị n'etiti ha.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Ị na-eme anyị"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "agha esemokwu"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "maka ndị agbata obi anyị"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "ndị iro anyị"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "na-achị ọchị"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:21.217556390Z",
+  "model": "glm-5.3"
+}

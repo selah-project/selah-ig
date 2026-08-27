@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Ọ ga-abanye n'ọgbọ nna nna ya; ruo mgbe ebighị ebi ha agaghị ahụ ⟨à⟩ ìhè.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ọ ga-abanye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "n'"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "nna nna ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "mgbe ebighị ebi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha agaghị"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìhè"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:15.549500362Z",
+  "model": "glm-5.3"
+}

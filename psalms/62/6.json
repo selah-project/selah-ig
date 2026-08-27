@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 62,
+  "translation": "Naanị nye Elohim ka mkpụrụ obi m na-ejikọ nkịtị, n'ihi na n'aka ya ka olile anya m dị.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Naanị"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "nye Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "na-ejikọ nkịtị"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "olile anya m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:21.155841474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Mana n'ịkpọkọta ⟨את⟩ nzukọ ahụ, ụnụ na-eti mpi, mana ụnụ ghara ịtie mkpu ụgbọ-agha.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "ma n'ịkpọkọta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzukọ ahụ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "nzukọ ahụ"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "ụnụ na-eti mpi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana ụnụ ghara"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "ịtie mkpu ụgbọ-agha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:18:44.897567436Z",
+  "model": "glm-5.3"
+}

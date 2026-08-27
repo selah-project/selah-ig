@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "N'ihi na ikuku na-agafe ya, ọ naghị adịkwa; ebe ya ga-amatakwa ya ọ bụghị ọzọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ikuku"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ọ naghị adịkwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "ga-amata"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ebe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:42.983065717Z",
+  "model": "glm-5.3"
+}

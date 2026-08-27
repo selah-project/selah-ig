@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "⟨את⟩ Cheshbon na ⟨את⟩ ala-ọhịa ya, ⟨את⟩ Yazer na ⟨את⟩ ala-ọhịa ya; obodo anọ n'ozuzu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-ọhịa ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ala-ọhịa ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala-ọhịa ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ala-ọhịa ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "n'ozuzu"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:38.163932084Z",
+  "model": "glm-5.3"
+}

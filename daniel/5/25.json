@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Nke a bụ ihe odide ahụ e dere: MENE, MENE, TEKEL, UPARSIN.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ma nke a"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ihe odide"
+    },
+    {
+      "surface": "די",
+      "gloss": "nke"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "e dere"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "UPARSIN"
+    }
+  ],
+  "timestamp": "2026-08-27T15:25:10.784977706Z",
+  "model": "glm-5.3"
+}

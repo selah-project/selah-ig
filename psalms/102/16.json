@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Mgbe ahụ, mba agbụrụ ga-atụ ⟨את⟩ aha Yahwe egwu, na ndị eze niile nke ụwa ⟨את⟩ uka gị.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ga-atụ egwu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba agbụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ndị … niile"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ụwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uka gị"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "uka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:14.977126940Z",
+  "model": "glm-5.3"
+}

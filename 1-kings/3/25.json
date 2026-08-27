@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Eze wee sị: Bee nwa dị ndụ ⟨את⟩ ụzọ abụọ, nye otu ⟨את⟩ ọkara, na ⟨את⟩ ọkara nye nke ọzọ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ewe sị"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "Bee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa dị ndụ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "החי",
+      "gloss": "dị ndụ"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "ụzọ abụọ"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "nya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkara"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ọkara"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ọkara"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ọkara"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "nke ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:52:28.225912836Z",
+  "model": "glm-5.3"
+}

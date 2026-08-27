@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Anyas ndị na-ahụ ihe agaghị ezoro ezọ, ma ntị ndị na-anụ ihe ga-ege ntị nke ọma.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "ezoro ezọ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anyas"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "ndị na-ahụ ihe"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ma ntị"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "ndị na-anụ ihe"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "ga-ege ntị nke ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T10:49:31.530265579Z",
+  "model": "glm-5.3"
+}

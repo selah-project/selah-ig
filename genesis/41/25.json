@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Yosef wee gwara Paroh: Nrọ nke Paroh bụ́ otu; ⟨את⟩ ihe nke Elohim na-eme ka Ọ kọwara Paroh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee gwara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": " nye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Nrọ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "nke Paroh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bụ́"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe nke Elohim na-eme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe nke"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ka Ọ kọwara"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-27T05:54:52.168167920Z",
+  "model": "glm-5.3"
+}

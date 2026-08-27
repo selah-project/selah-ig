@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Yehoshua wee nụ ⟨את⟩ ụda nke ndị ahụ n'ịti mkpu, o wee sị Moshe okwu: ụda nke agha ka dị n'ogige.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ọ wee nụ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ụda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "n'ịti mkpu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ụda"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "agha"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "n'ogige"
+    }
+  ],
+  "timestamp": "2026-08-27T06:36:49.912546819Z",
+  "model": "glm-5.3"
+}

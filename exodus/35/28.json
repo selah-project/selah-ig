@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Na ⟨את⟩ ihe-esi ísì ọma na ⟨את⟩ mmanụ, maka ìhè, na maka mmanụ mmanụ-ete, na maka ihe ọkụ nke ihe-esi ísì ọma.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "ihe-esi ísì ọma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "maka ìhè"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "na maka mmanụ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mmanụ-ete"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "na maka ihe ọkụ"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "nke ihe-esi ísì ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T06:35:18.645748111Z",
+  "model": "glm-5.3"
+}

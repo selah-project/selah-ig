@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 32:16",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Abụ iru uju ka ọ bụ; ụmụ nwanyị mba ndị ga-e-eru uju ⟨את⟩ ya; maka Mitzrayim na maka ọtụtụ ya niile ha ga-e-eru uju ⟨את⟩ ya, nkwu nke Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "קינה",
+      "gloss": "abụ iru uju"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ka ọ bụ"
+    },
+    {
+      "surface": "וקוננוה",
+      "gloss": "ha ga-e-eru uju ya"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ụmụ nwanyị"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "תקוננה",
+      "gloss": "ha ga-e-eru uju"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ya",
+      "marks": "Mitzrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ma maka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "ọtụtụ ya"
+    },
+    {
+      "surface": "תקוננה",
+      "gloss": "ha ga-e-eru uju"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ya",
+      "marks": "Mitzrayim na ọtụtụ ya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkwu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T12:22:56.881171434Z",
+  "model": "glm-5.3"
+}

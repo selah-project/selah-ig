@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ị na-ekwu okwu ⟨?⟩ n'ihu m tebụl, n'ihu ndị iro m; Ị tinyela mmanụ n'isi m; iko m jupụtara.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Ị na-ahazite"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tebụl"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "Ị tinyela"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "isi m"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "iko m"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "jupụtara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:35.097147647Z",
+  "model": "glm-5.3"
+}

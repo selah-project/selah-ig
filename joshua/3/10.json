@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Yehoshua wee sị: Site n'ihe a ka unu ga-amara na ⟨את⟩ El dị ndụ n'etiti unu, nakwa na Ọ ga-achụpụ kpamkpam n'ihu unu ⟨את⟩ Kenani, ⟨את⟩ Hiti, ⟨את⟩ Hivi, ⟨את⟩ Perizi, ⟨את⟩ Girgashi, nakwa Emori na Yevusi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Site n'ihe a"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "unu ga-amara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dị ndụ"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "n'etiti unu"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "ga-achụpụ kpamkpam"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "ga-achụpụ"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "n'ihu unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Perizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashi"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-27T08:20:19.363241014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 19:14",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Joab na ndi nọ ya bịaru n'ihu Aram maka agha, ha gbagara n'ihu Ya.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "bịaru"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "na ndi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nọ ya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "maka agha"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ha gbagara"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "n'ihu Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:03:10.730667555Z",
+  "model": "glm-5.3"
+}

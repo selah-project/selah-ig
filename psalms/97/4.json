@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 97,
+  "translation": "Akpọlite ọkụ ya mere ka ụwa (nke mmadụ) pụta ìhè; ụwa ahụ hụrụ, ma na-atụ egwu ruo n'ala.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "mere ka pụta ìhè"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "akpọlite ọkụ ya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ụwa (nke mmadụ)"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ahụhụ"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "ma na-atụ egwu ruo n'ala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:00.248894466Z",
+  "model": "glm-5.3"
+}

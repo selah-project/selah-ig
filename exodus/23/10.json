@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ma afọ isii ị ga-akụ ⟨את⟩ ala gị, ma ị ga-eweta ⟨את⟩ ihe ọmụmaatụ ya.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "isii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ị ga-akụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala gị"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ala gị"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ma ị ga-eweta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ọmụmaatụ ya"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ihe ọmụmaatụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:24:13.930278653Z",
+  "model": "glm-5.3"
+}

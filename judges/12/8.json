@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Mgbe ya gasịrị, Ivtsan nke Bet-Lechem we kpee ⟨את⟩ Izrel ikpe.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "we kpee ikpe"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mgbe ya gasịrị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Lechem"
+    }
+  ],
+  "timestamp": "2026-08-27T08:51:53.753046363Z",
+  "model": "glm-5.3"
+}

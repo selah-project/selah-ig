@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 137,
+  "translation": "Ọ bụrụ na m chefuo gị, Yerushalayim, ka aka nri m chefuo ⟨ihe ọ ma⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "m chefuo gị"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ka ... chefuo"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "aka nri m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:04.384759601Z",
+  "model": "glm-5.3"
+}

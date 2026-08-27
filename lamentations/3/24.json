@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "\"Yahwe bụ ihe nketa m,\" ka nkeonwe m kwuru; ya mere, m ga-eche ya.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "ihe nketa m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ka ... kwuru"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nkeonwe m"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya maka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "m ga-eche"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:07:27.447217441Z",
+  "model": "glm-5.3"
+}

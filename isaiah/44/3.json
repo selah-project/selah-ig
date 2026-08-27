@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Maka m ga-amị mmiri n'elu onye na-agụ agụ, na iyi ndị na-asọ n'elu ala kpọrọ nkụ; m ga-amị ruach m n'elu mkpụrụ gị, na ngọzi m n'elu ụmụ ụmụ gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "ga-amị"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "onye na-agụ agụ"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "na iyi ndị na-asọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "ala kpọrọ nkụ"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "ga-amị"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruach m"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mkpụrụ gị"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "na ngọzi m"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "ụmụ ụmụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:40:24.562405847Z",
+  "model": "glm-5.3"
+}

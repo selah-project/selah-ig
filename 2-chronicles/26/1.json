@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ma ndị Yehuda niile were ⟨את⟩ Uziyahu, ma ọ bụ nwa afọ iri na isii, ma ha mere ya eze n'ọnọdụ nna ya Amatsiyahu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ma ha were"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uziyahu"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziyahu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "isii"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iri na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ma ha mere ya eze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'ọnọdụ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsiyahu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:16:08.738314285Z",
+  "model": "glm-5.3"
+}

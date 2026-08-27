@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma ⟨את⟩ akụkụ ọ bụla nke abụba ya ka ọ ga-ebute site na ya: ⟨את⟩ ọdụ-abụba, na ⟨את⟩ abụba nke na-ekpuchi ⟨את⟩ afọ dị n'ime.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ma ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akụkụ ọ bụla"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "nke abụba ya"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ọ ga-ebute"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "site na ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọdụ-abụba"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ọdụ-abụba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "abụba"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nke na-ekpuchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afọ dị n'ime"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "afọ dị n'ime"
+    }
+  ],
+  "timestamp": "2026-08-27T06:45:04.471107989Z",
+  "model": "glm-5.3"
+}

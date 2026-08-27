@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Mbụ, ụmụ nwoke nsọ ka unu ga-abụ maka M; anụ a dọọrọ n'ọhịa, unu eriɡhị ya; unu ga-atụ ya maka nkịta ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "mbụ, ụmụ nwoke"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "unu ga-abụ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka M"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "mbụ, anụ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "n'ọhịa"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "a dọọrọ n'agha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "unu ga-eri"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "maka nkịta"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "unu ga-atụ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (anụ ahụ)"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:13.092573903Z",
+  "model": "glm-5.3"
+}

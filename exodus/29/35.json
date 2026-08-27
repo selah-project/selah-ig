@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Ya mere ị ga-emeka Aharon ụmụ ya ihe dịka nke a, dịka ihe niile m nyere ⟨את⟩ gị iwu; ụbọchị asaa ka ị ga-eju aka ha.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ị ga-emekwa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "dịka nke a"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dịka ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "m nyere iwu"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ị ga-eju"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "aka ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:33:29.300879320Z",
+  "model": "glm-5.3"
+}

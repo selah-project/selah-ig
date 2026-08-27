@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ka ha bụrụ dịka aja n'ihu ikuku, ma onye-ozi Yahwe na-achụpụ ha.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Ka ha bụrụ"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "dịka aja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ikuku"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ma onye-ozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "na-achụpụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:57.696431354Z",
+  "model": "glm-5.3"
+}

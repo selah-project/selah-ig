@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Ha niile na-akpọ m asị na-agba izu ọnụ megide m; megide m ka ha na-atụte ọjọ maka m.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "ha na-agba izu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ndị na-akpọ m asị"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ha na-atụte"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ọjọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:24.559692889Z",
+  "model": "glm-5.3"
+}

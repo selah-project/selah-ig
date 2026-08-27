@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Okwu Yahwe bịara Yona nwa Amittai, na-ekwu,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amittai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:46:47.996962164Z",
+  "model": "glm-5.3"
+}

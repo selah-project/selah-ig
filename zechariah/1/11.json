@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 1:11",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ha wee zara ⟨את⟩ mmụọ-ozi Yahwe nke na-ezo n'etiti osisi hadas, ha sịkwa: Anyị na-agagharịla n'ụwa, lee, ụwa nile nọrọ ọdụ ma dị jụụ.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ha wee zara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmụọ-ozi Yahwe"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mmụọ-ozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "nke na-ezo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "osisi hadas"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha sịkwa"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "anyị na-agagharịla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "nọrọ ọdụ"
+    },
+    {
+      "surface": "ושקטת",
+      "gloss": "ma dị jụụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:01:45.156153478Z",
+  "model": "glm-5.3"
+}

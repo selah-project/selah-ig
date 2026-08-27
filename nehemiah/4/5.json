@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 4:5",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ndị iro anyị wee sị: Ha agaghị ama, ha agaghị ahụkwa, ruo mgbe anyị ga-abata n'etiti ha wee gbuo ha, wee kwụsị ⟨את⟩ ọrụ ahụ.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha wee sị"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ndị iro anyị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "agaghịkwa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "anyị ga-abata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "תוכם",
+      "gloss": "etiti ha"
+    },
+    {
+      "surface": "והרגנום",
+      "gloss": "gbuo ha"
+    },
+    {
+      "surface": "והשבתנו",
+      "gloss": "kwụsị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ ahụ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ọrụ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:43:31.571690038Z",
+  "model": "glm-5.3"
+}

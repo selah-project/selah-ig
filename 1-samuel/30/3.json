@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "David na ndị nwoke ya bịarutere ⟨n'⟩obodo ahụ, ghee nle — a gbaa ya ọkụ n'ime ọkụ; ụmụ nwanyị ha, ụmụ nwoke ha, na ụmụ nwanyị ha, a tọọrọ ha.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ọ bịarutere"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "na ndị nwoke ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ghee nle"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "a gbaa ọkụ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ime ọkụ"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "na ụmụ nwanyị ha"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "na ụmụ nwoke ha"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "na ụmụ nwanyị ha"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "a tọọrọ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:26:00.699734571Z",
+  "model": "glm-5.3"
+}

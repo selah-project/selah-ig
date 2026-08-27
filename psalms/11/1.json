@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Maka onye ndú-egwu, nke Dawid. Na Yahwe ka m zoro mgbaba; kedu ka ọ ga-esi ka ụnụ na-ekwu mkpụsị m: Gbapụ, gaa n'ugwu gị dị ka nnn?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye ndú-egwu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Dawid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "m zoro mgbaba"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kedu ka ọ ga-esi"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ụnụ na-ekwu"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "m kpụsị"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Gbapụ"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "ugwu gị"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "dị ka nnn"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:55.601795639Z",
+  "model": "glm-5.3"
+}

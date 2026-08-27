@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalon na ⟨את⟩ mpaghara-ubi ya, ⟨את⟩ Gat-Rimon na ⟨את⟩ mpaghara-ubi ya — obodo anọ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaghara-ubi ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mpaghara-ubi ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaghara-ubi ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mpaghara-ubi ya"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:13.729464694Z",
+  "model": "glm-5.3"
+}

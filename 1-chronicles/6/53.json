@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 6:53",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "na ⟨את⟩ Yokmeam na ⟨את⟩ ahịhịa ya, na ⟨את⟩ Bet-Horon na ⟨את⟩ ahịhịa ya;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yokmeam"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "Yokmeam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ahịhịa ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ahịhịa ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bet-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ahịhịa ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ahịhịa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:43.742331336Z",
+  "model": "glm-5.3"
+}

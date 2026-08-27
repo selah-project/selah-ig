@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "M na-achụsọ ndị iro m, m na-erute ha, m esoghị azọ ruo mgbe e gburu ha kpamkpam.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "M na-achụsọ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "m na-erute ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "m esoghị"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "azọ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "e gburu ha kpamkpam"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:27.313757787Z",
+  "model": "glm-5.3"
+}

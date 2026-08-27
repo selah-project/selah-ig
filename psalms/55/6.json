@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Ụjọ na mkpọkpọ ahụ batarakwa n'ime m, egwu egwu kpuchikwara m.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Ụjọ"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "na mkpọkpọ ahụ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "batarakwa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "n'ime m"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "kpuchikwara m"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "egwu egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:40.213969333Z",
+  "model": "glm-5.3"
+}

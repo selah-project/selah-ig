@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ma unu kwuru, 'Ụzọ Adonai adịghị ziri ezi.' Dịka ụzọ onye ọ bụla n'ime unu, ka m ga-ekpe ⟨אתכם⟩ ikpe, Ụlọ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "Ma unu kwuru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "ziri ezi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "dịka ụzọ ya"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "m ga-ekpe ikpe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "unu, Ụlọ Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Ụlọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T16:44:38.198959620Z",
+  "model": "glm-5.3"
+}

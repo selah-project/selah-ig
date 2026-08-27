@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Mgbe ahụ ha kpọrọ Yahwe oku n'ọgbụgbọ ha, ma O napụtara ha n'ọgbụgbọ ndị ha.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "ma ha kpọrọ oku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "n'ọgbụgbọ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "n'ọgbụgbọ ndị ha"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "O napụtara ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:19.759772580Z",
+  "model": "glm-5.3"
+}

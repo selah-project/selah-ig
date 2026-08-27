@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "N'ihi na site n'elu ebe nsọ ya o tụpụrụ isi leba anya, Yahwe, site n'eluigwe ruo n'ụwa, lere anya anya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "o tụpụrụ isi leba anya"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "site n'elu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ebe nsọ ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "site n'eluigwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "lere anya anya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:46.467450736Z",
+  "model": "glm-5.3"
+}

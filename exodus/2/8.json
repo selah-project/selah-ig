@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Nwa nwanyị Parọ gwara ya, \"Gaa.\" Nwaagbọghọ ahụ gara, wee kpọọ ⟨את⟩ nne nwa ahụ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parọ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Gaa"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "gara"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "nwaagbọghọ ahụ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "wee kpọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nne nwa ahụ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nne"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "nwa ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:03.527129098Z",
+  "model": "glm-5.3"
+}

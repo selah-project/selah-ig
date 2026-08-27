@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "ruo mgbe Yahwe ga-ele anya ma hụ site na eluigwe.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "ga-ele anya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ma hụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "site na eluigwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:51:58.135135773Z",
+  "model": "glm-5.3"
+}

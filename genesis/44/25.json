@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Ọpụrụ na nna anyị kwuru, \"Laghachite nu, zụta anyị obere nri.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ pụrụ na ọ kwuru"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "nna anyị"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "laghachite nu"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "zụta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "obere"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nri"
+    }
+  ],
+  "timestamp": "2026-08-27T06:01:33.726104954Z",
+  "model": "glm-5.3"
+}

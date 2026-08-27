@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Yahwe wee sị Moshe: Gaa nye ndị ahụ, dọọ ha nsọ taa na echi, ka ha sachakwa uwe ha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "dọọ ha nsọ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "na echi"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "ka ha sachakwa"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "uwe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:22:06.140785962Z",
+  "model": "glm-5.3"
+}

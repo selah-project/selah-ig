@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 19:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Mba niile zaghachiri ozigbo, ha kwuru, ihe niile Yahwe kwuru anyị ga-eme. Moshe weghachitere ⟨את⟩ okwu ndị mba ahụ rue Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "zaghachiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mba"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ozigbo \/ dịka otu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha kwuru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(ihe)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "anyị ga-eme"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "weghachitere"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ndị mba ahụ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu ndị"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mba ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:20:45.416140572Z",
+  "model": "glm-5.3"
+}

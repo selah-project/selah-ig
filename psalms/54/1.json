@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 54,
+  "translation": "Maka onye-nduzi egwu, na ngwá ndị eriri, abụ nkuzi nke Davịd.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye-nduzi egwu"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "na ngwá ndị eriri"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "abụ nkuzi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Davịd"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:30.277183757Z",
+  "model": "glm-5.3"
+}

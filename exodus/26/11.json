@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ị ga-eme mkpọ ọla kọpa iri ise, wee webata ⟨את⟩ mkpọ ndị ahụ n'ime ọgba ndị ahụ, ka ị jikọọ ⟨את⟩ ụlọikwuu ka ọ bụrụ otu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ị ga-eme"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "mkpọ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ọla kọpa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "iri ise"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ka ị webata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpọ ndị ahụ"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "mkpọ ndị ahụ"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "n'ime ọgba ndị ahụ"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "ka ị jikọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọikwuu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ụlọikwuu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ka ọ bụrụ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:29:28.818036101Z",
+  "model": "glm-5.3"
+}

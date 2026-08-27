@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 21:35",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Laghachi n'ime akpa mma gị; n'ebe a kere gị, n'ala ebe ị si, ka m ga-ekpe gị ikpe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "Laghachi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "תערה",
+      "gloss": "akpa mma gị"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נבראת",
+      "gloss": "kere gị"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מכרותיך",
+      "gloss": "ebe ị si"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ka m ga-ekpe ikpe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị",
+      "marks": "gị (mma agha)"
+    }
+  ],
+  "timestamp": "2026-08-27T12:11:53.403259954Z",
+  "model": "glm-5.3"
+}

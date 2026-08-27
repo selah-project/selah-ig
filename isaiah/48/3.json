@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 48:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Ihe ndị mbụ site n'oge ochie m kụpụtara, ha si n'ọnụ m pụta, m mekwara ha ka a mara; m mejupụtara ha mgbapụta, ha bịakwara rue.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "ihe ndị mbụ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "site n'oge ochie"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "m kụpụtara"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "ha si n'ọnụ m"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "pụta"
+    },
+    {
+      "surface": "ואשמיעם",
+      "gloss": "m mekwara ha ka a mara"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "mgbapụta"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "m mejupụtara"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "ha bịakwara rue"
+    }
+  ],
+  "timestamp": "2026-08-27T11:00:59.414556530Z",
+  "model": "glm-5.3"
+}

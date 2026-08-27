@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Kedu onye ka unu ga-atụnyere m, ma ha anya na m, ma tụnyere m, ka anyị wee yere onwe anyị?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "kedu onye ka"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "unu ga-atụnyere m"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "ma ha anya na m"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "ma tụnyere m"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "ka anyị wee yere onwe anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T11:02:04.891353983Z",
+  "model": "glm-5.3"
+}

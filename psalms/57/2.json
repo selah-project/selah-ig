@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 57,
+  "translation": "Meere m ebere, Elohim, meere m ebere, maka na na Gị ka nkefesh m na-ezo, ma n'okpuru nche nku Gị ka m ga-ezo, ruo mgbe ihe njọ ga-agafe.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Meere m ebere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "meere m ebere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na Gị"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "ka ... na-ezo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nkefesh m"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ma n'okpuru nche"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "nku Gị"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ka m ga-ezo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ga-agafe"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ihe njọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:14.176195434Z",
+  "model": "glm-5.3"
+}

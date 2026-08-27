@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Mgbakọ Israel niile ga-eme ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "mgbakọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:16:30.519535221Z",
+  "model": "glm-5.3"
+}

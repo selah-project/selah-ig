@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Ha na-agbadata, ha na-agbadata ọnụ; ha enweghị ike ịzọpụta ⟨את⟩ ibu ahụ, ma nefesh ha nọ n'agbụ ga-aga.",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "na-agbadata"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "na-agbadata"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enweghị ike"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": ""
+    },
+    {
+      "surface": "מלט",
+      "gloss": "ịzọpụta"
+    },
+    {
+      "surface": "משא",
+      "gloss": "⟨את⟩ ibu ahụ",
+      "marks": "ibu ahụ"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "ma nefesh ha"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "n'agbụ"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "ga-aga"
+    }
+  ],
+  "timestamp": "2026-08-27T16:40:10.564914082Z",
+  "model": "glm-5.3"
+}

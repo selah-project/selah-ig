@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "N'ihi na ndị ⟨O⟩ gọziri ga-eketa ala; ma ndị ⟨O⟩ kụrụ okwụ ga-ebepụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "ndị O gọziri"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ga-eketa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "ma ndị O kụrụ okwụ"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ga-ebepụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:54.263676844Z",
+  "model": "glm-5.3"
+}

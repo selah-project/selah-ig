@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 26:16",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Onye izu dị ka onye amamihe n'anya ya karịa mmadụ asaa na-aza azịza ziri ezi.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "onye amamihe"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "onye izu"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "n'anya ya"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "karịa mmadụ asaa"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "na-aza"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "azịza ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:30:36.952532980Z",
+  "model": "glm-5.3"
+}

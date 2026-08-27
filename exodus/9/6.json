@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Yahwe wee mee ⟨את⟩ okwu a n'echi ya, mmadụ anụmanụ niile nke Mitzrayim nwụrụ, ma n'anụmanụ ụmụ Yisrael enweghị nwụrụ otu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wee mee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "n'echi ya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wee nwụọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "anụmanụ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nke Mitzrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "ma n'anụmanụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nwụrụ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:11:44.803145658Z",
+  "model": "glm-5.3"
+}

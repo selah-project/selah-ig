@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "ka ha wee kwe na Yahwe, Elohim nke nna nna ha, pụtara ìhè n'ebe ị nọ — Elohim nke Avraham, Elohim nke Yitschak, na Elohim nke Yaakov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ka ha wee"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "pụtara ìhè"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "n'ebe ị nọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nna nna ha"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Elohim nke"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-27T06:09:24.677116021Z",
+  "model": "glm-5.3"
+}

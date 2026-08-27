@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "unu ga-agwa ⟨את⟩ ụmụ unu ka ha ma, na-ekwu, n'ala kpọọ nkụ ka Yisrael gafere ⟨את⟩ Yarden a.",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "unu ga-eme ka ha ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ unu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ụmụ unu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "n'ala kpọọ nkụ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gafere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden a"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T08:20:57.175798615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma ọnwa nke asaa rutere, ụmụ Yisrael nọ n'obodo ndị ahụ, ndị ahụ jikọtara onwe ha dịka otu nwoke ruo Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "rutere"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ọnwa"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "nke asaa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "n'obodo ndị ahụ"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "jikọtara onwe ha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "dịka otu nwoke"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T15:35:39.619457741Z",
+  "model": "glm-5.3"
+}

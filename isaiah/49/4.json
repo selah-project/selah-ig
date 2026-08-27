@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Ma m wee sị: M rụrụ ọrụ maka ihe efu; maka ihe ọchị na mmadụ izu ka m mebisịrị ike m; ma n'ezie, ikpe ziri ezi m dị ⟨את⟩ Yahwe, na ọrụ aka m dị ⟨את⟩ Elohim m.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "m wee sị"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "maka ihe efu"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "m rụrụ ọrụ rukwuo mgbu"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "maka ihe ọchị \/ enweghị ọdịdị"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "na mmadụ izu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ike m"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "m mebisịrị"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ma n'ezie"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ikpe ziri ezi m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "na ọrụ aka m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim m"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    }
+  ],
+  "timestamp": "2026-08-27T11:03:17.249391816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Sarah hụrụ ⟨את⟩ nwa Hagar, nwanyị Ijipt, nke ọ mụrụ nye Avraham, na-amo ihe ọchị.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "nwanyị Ijipt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ọ mụrụ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "nye Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "na-amo ihe ọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:36:55.180222456Z",
+  "model": "glm-5.3"
+}

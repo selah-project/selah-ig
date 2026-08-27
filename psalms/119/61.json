@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ụdọ nke ndị ajọ omume gbara m gburugbu, Torah gị anaghị m echefu.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "Ụdọ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nke ndị ajọ omume"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "gbara m gburugbu"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torah gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "m echefu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:42.916364944Z",
+  "model": "glm-5.3"
+}

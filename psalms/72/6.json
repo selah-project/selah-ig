@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "Ọ ga-adị ka mmiri ozuzo na-ada n'ahụ ahịhịa a kụrụ aka, dịka mmiri ozuzo na-asọ uzu na-emiri ụwa.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "ọ ga-adị na-ada"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "ka mmiri ozuzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ahụ"
+    },
+    {
+      "surface": "גז",
+      "gloss": "ahịhịa a kụrụ aka"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "dịka mmiri ozuzo na-asọ uzu"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "na-emiri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:59.557841992Z",
+  "model": "glm-5.3"
+}

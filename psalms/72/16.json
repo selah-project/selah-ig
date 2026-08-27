@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "Ka ọ dị ka ọka baa ụba n'ala, n'isi ugwu ndị ahụ; ka mkpụrụ ya na-ama jijiji dịka Lebanon, ka ha na-acha mmā site n'obodo, dịka ahịhịa nke ⟨ala⟩ ahụ.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ka ọ dị"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "ọka baa ụba"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ọka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu ndị ahụ"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "na-ama jijiji"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "dịka Lebanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "mkpụrụ ya"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ka ha na-acha mmā"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "site n'obodo"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "dịka ahịhịa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ⟨ala⟩ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:37.891572757Z",
+  "model": "glm-5.3"
+}

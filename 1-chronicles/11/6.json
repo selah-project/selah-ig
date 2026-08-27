@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 11:6",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Dawid kwuru: \"Onye ọ bụla na-akụ Yevusị nke mbụ ga-abụ onyeisi na onye-ndú.\" Yoav nwa Tserujah rịgooro nke mbụ, ma bụrụ onyeisi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "na-akụ"
+    },
+    {
+      "surface": "יבוסי",
+      "gloss": "Yevusị"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "ולשר",
+      "gloss": "na onye-ndú"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ọ rịgooro"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bụrụ"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "onyeisi"
+    }
+  ],
+  "timestamp": "2026-08-27T15:57:14.984827246Z",
+  "model": "glm-5.3"
+}

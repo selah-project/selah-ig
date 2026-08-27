@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ọ bụrụ na Ọ gafee ma mechie mkpọchi, ma kpọkọta ⟨maka ikpe⟩, onye ga-eweghachi ya?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "Ọ gafee"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "mechie mkpọchi"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "kpọkọta"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ga-eweghachi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:41:21.580512961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 63,
+  "translation": "Nefesh m na-ejikọrọ onwe ya n'azụ gị; n'ihi na aka nri gị na-edowe m.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "na-ejikọrọ onwe ya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh m"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "n'azụ gị"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na m"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "na-edowe"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "aka nri gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:25.630788636Z",
+  "model": "glm-5.3"
+}

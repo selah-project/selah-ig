@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ọ na-ahụ n'anya ikpe ziri ezị na ikpe; chesed nke Yahwe jupụtara ⟨the⟩ ụwa niile.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "na-ahụ n'anya"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ikpe ziri ezị"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na ikpe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "jupụtara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa niile"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:57.186836851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Maka onye ga-eri, ma onye ga-anụ ụtọ, n'èzí m?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ma onye"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ga-anụ ụtọ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "n'èzí"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T15:11:52.531697513Z",
+  "model": "glm-5.3"
+}

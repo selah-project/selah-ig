@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ka ndị nchuaja were ⟨את⟩ ya maka onwe ha, mmadụ site n'aka ⟨את⟩ onye ọ maara, ha wee mee ka mmebi nke ⟨ה⟩ ụlọ ahụ dịgide ike, ebe ọ bụla a hụrụ mmebi ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "ka ha were"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maka onwe ha"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchuaja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "site n'aka onye ọ maara"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "onye ọ maara"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "ga-eme ka ... dịgide ike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmebi nke ụlọ"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "mmebi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nke ụlọ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ebe ọ bụla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "a hụrụ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "mmebi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:21:23.273296014Z",
+  "model": "glm-5.3"
+}

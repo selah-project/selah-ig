@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Adịrị m ka ngwongwo nke ọzara; adịla m ka nkwọcha nke ebe ndị mebiri emebi.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "adịrị m ka"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "ngwongwo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "nke ọzara"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "adịla m ka"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "nkwọcha"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "nke ebe ndị mebiri emebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:57.401136960Z",
+  "model": "glm-5.3"
+}

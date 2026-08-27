@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 40:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "O wee mee na mgbe okwu ndị a gasịrị, onye na-aṅụ mmanya nke eze Mitzrayim na onye na-eme nri mehiere ha na-adọrọ ha, bụ eze Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "o wee mee na"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mgbe... gasịrị"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ⟨ndị⟩"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "mehiere"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "onye na-aṅụ mmanya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "והאפה",
+      "gloss": "na onye na-eme nri"
+    },
+    {
+      "surface": "לאדניהם",
+      "gloss": "ha na-adọrọ ha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bụ eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:07.004597529Z",
+  "model": "glm-5.3"
+}

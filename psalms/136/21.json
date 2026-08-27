@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 136,
+  "translation": "Ma nye ala ha dị ka nnata ṅketa, n'ihi na ruo mgbe ebighị ebi ka chesed Ya dị.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Ma nye"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ala ha"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "dị ka nnata ṅketa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed Ya dị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:27.614127184Z",
+  "model": "glm-5.3"
+}

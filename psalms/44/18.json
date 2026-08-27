@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Ihe niile a dakwatara anyị, ma anyị echefughị gị, anyị ejughi ndụ aghụghọ n'ọgbụgba-ndụ gị",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "dakwatara anyị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma anyị ... ghi"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "echefughị gị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "anyị ... ghi"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "ebughi ndụ aghụghọ"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "n'ọgbụgba-ndụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:02.522891808Z",
+  "model": "glm-5.3"
+}

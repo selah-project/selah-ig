@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ma m bụ Yahwe, Elohim gị, site n'ala Mitsrayim; chi ọzọ ma e wezụga m ị ga-amaghị, ma onye nzọpụta enweghị ma e wezụga m.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ma m bụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "site n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "ma chi"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ma e wezụga m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ̀ na-abụghị"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ị ga-ama"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "ma onye nzọpụta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ma e wezụga m"
+    }
+  ],
+  "timestamp": "2026-08-27T12:43:29.557344146Z",
+  "model": "glm-5.3"
+}

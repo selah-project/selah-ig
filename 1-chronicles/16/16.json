@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "O kwere ⟨את⟩ Avraham, na iyi Ya nye Yitschak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "כרת",
+      "gloss": "O kwere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "na iyi Ya"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "nye Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-27T16:01:04.997933474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Gịnị mere ka ị napụtara ⟨את⟩ nzukọ nke Yahwe bịa n'ọzara a, ka anyị na anụmanụ anyị nwụọ ebe ahụ?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Gịnị mere ka"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ị napụtara ... bịa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzukọ nke Yahwe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nke Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bịa na"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ọzara a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ka ... nwụọ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "na anụmanụ anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:31:53.149188688Z",
+  "model": "glm-5.3"
+}

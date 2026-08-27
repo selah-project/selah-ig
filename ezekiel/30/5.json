@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Kush, na Put, na Lud, na ndị a gwakọtara niile, na Chub, na ụmụ nke ala ọgbụgba-ndụ — ⟨את⟩ ha, site na mma ka ha ga-adа.",
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "na Put"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "na Lud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "⟨ndị⟩ a gwakọtara"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "na Chub"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ụmụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "nke ọgbụgba-ndụ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "site na mma"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ka ha ga-adа"
+    }
+  ],
+  "timestamp": "2026-08-27T12:20:21.868731486Z",
+  "model": "glm-5.3"
+}

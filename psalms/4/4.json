@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ma bie na-ama na Yahwe akpọpụlaala onye nsọ ⟨dị⟩ ya ⟨akpa⟩; Yahwe ga-anụ mgbe m na-akpọ Ya.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "ma bie na-ama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "akpọpụlaala òkù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "onye nsọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ga-anụ"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "mgbe m na-akpọ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:57.312759860Z",
+  "model": "glm-5.3"
+}

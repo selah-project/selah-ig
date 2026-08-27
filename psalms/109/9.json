@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Ka ụmụ ya bụrụ mgberi, ka nwunye ya bụrụkwa nwanyị di ya nwụrụ.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ka ha bụrụ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "mgberi"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ka nwunye ya"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "nwanyị di ya nwụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:49.552113257Z",
+  "model": "glm-5.3"
+}

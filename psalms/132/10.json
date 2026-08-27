@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 132,
+  "translation": "N'ihi Davịd, ohu gị, echerebla ihu nke Mashiach gị.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "echerebla"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "tụgharịa azụ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiach gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:49.929330497Z",
+  "model": "glm-5.3"
+}

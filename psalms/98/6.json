@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 98,
+  "translation": "Na ụbọ akwara ọla na olu shofar, ti mkpu n'ihu Eze Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "na ụbọ akwara ọla"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "na olu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ti mkpu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:00.755608248Z",
+  "model": "glm-5.3"
+}

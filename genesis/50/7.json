@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Yosef wee rigoro ili ⟨את⟩ nna ya, ma ndị ohu niile nke Paro, ndị okenye ụlọ ya, na ndị okenye niile nke ala Mitzraim rigoro ya ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wee rigoro"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ha rigoro"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzraim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:30.776443834Z",
+  "model": "glm-5.3"
+}

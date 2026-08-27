@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma n'etiti ndị na-abụ abụ: Elyashiv; ma n'etiti ndị ọnụ ụzọ: Shallum, na Telem, na Uri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ma n'etiti"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "ndị na-abụ abụ"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashiv"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ma n'etiti"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ndị ọnụ ụzọ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "na Telem"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "na Uri"
+    }
+  ],
+  "timestamp": "2026-08-27T15:39:50.255090508Z",
+  "model": "glm-5.3"
+}

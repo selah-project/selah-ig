@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "David chịrị n'elu Israel niile; David ⟨bụ⟩ onye na-eme ikpe na ezi omume nye ndị ya niile.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "chịrị"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨bụ⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ezi omume"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nye...niile"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:32:18.978812138Z",
+  "model": "glm-5.3"
+}

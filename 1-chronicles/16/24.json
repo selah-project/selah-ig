@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Kọwaa n'etiti mba ndị ọzọ ⟨את⟩ ukwu ya, n'etiti ndị niile ihe dị ịtụnanya o mere.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "kọwaa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "n'etiti mba ndị ọzọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukwu ya"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ukwu ya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'etiti ndị niile"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "ihe dị ịtụnanya o mere"
+    }
+  ],
+  "timestamp": "2026-08-27T15:59:34.621242607Z",
+  "model": "glm-5.3"
+}

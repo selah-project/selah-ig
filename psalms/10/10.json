@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ọ na-agbada, ọ na-atọkwasị onwe ya ala, ka ndị ihe mberede wee dara n'aka ike ya.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ọ na-akụ ala"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "ọ na-atọkwasị onwe ya ala"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ka ... wee dara"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "n'aka ike ya"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "ndị ihe mberede"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:47.698604555Z",
+  "model": "glm-5.3"
+}

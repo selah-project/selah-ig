@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "⟨את⟩ nwa atụrụ nke mbụ ka a ga-eme n'ụtụtụ, ma ⟨את⟩ nwa atụrụ nke abụọ ka a ga-eme n'etiti abalị abụọ ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa atụrụ nke mbụ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "nwa atụrụ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "nwa atụrụ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "abalị abụọ ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:39:26.131286066Z",
+  "model": "glm-5.3"
+}

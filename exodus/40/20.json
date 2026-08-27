@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ọ wee were, ma tinye ⟨את⟩ ihe-aka-ndị-ọzọ n'ime igbe-ndekwọsị ahụ, ma dee ⟨את⟩ mkpọ-osisi ya n'elu igbe ahụ, ma tinye ⟨את⟩ oche-ịgbaghara n'elu igbe ahụ site n'elu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ọ were"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe-aka-ndị-ọzọ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ihe-aka-ndị-ọzọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "igbe-ndekwọsị ahụ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ma dee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpọ-osisi ya"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mkpọ-osisi ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "igbe ahụ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oche-ịgbaghara"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "oche-ịgbaghara"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "igbe ahụ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "site n'elu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:43:24.920460289Z",
+  "model": "glm-5.3"
+}

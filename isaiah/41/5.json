@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Àkwà mmiri hụrụ ya ma taa ahụnahụna; nsọtụ ụwa maara jigide; ha gbatuturu ma bịa.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "àkwà mmiri"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ma taa ahụnahụna"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "nsọtụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "maara jigide"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "gbatuturu"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "ma bịa"
+    }
+  ],
+  "timestamp": "2026-08-27T10:56:21.611692624Z",
+  "model": "glm-5.3"
+}

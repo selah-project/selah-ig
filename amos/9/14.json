@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 9:14",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "M ga-atụgharị ⟨את⟩ ọnọdụ ndị a chụgara n'ala ọzọ nke ndị m, Yisrael, ha ga-ewu obodo ndị e mebiri, ha ga-anọrọ ebe ahụ, ha ga-kụ mkpụrụ vaịn, ha ga-aṅụ ⟨את⟩ mmanya ha, ha ga-eme ubi, ha ga-eri ⟨את⟩ mkpụrụ ya.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "M ga-atụgharị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọnọdụ ndị a chụgara n'ala ọzọ"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ọnọdụ ndị a chụgara n'ala ọzọ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "ha ga-ewu"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "obodo ndị"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "e mebiri"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ha ga-anọrọ"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ha ga-kụ mkpụrụ vaịn"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ubi vaịn"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "ha ga-aṅụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmanya ha"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "mmanya ha"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ha ga-eme"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ha ga-eri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpụrụ ya"
+    },
+    {
+      "surface": "פריהם",
+      "gloss": "mkpụrụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:49:18.708258694Z",
+  "model": "glm-5.3"
+}

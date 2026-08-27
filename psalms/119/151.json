@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ị ⟨is⟩ nso, Yahwe; ma iwu Gị niile bụ eziokwu.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma ... niile"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "iwu Gị"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "eziokwu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:36.414323275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "N'ihi na m welitere gị elu si n'ala Mitzrayim, ma si n'ụlọ ohu m tọhapụrụ gị, ma m zipụrụ n'ihu gị ⟨את⟩ Moshe, Aharon na Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "m welitere gị elu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "si n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ma si n'ụlọ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "m tọhapụrụ gị"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "ma m zipụrụ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe, Aharon na Miryam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "na Miryam"
+    }
+  ],
+  "timestamp": "2026-08-27T12:57:29.125996559Z",
+  "model": "glm-5.3"
+}

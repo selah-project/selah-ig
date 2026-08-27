@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ndị ozi ahụ laghachiri ⟨n'aka⟩ ya, o wee sị ha: Gịnị bụ nke a — unu alaghachila?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "laghachiri"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ndị ozi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o sị"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "unu laghachiri"
+    }
+  ],
+  "timestamp": "2026-08-27T10:12:13.300232312Z",
+  "model": "glm-5.3"
+}

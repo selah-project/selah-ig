@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 122,
+  "translation": "N'ebe ahụ ka ebo na-aga elu, ebo nke Yah, ⟨dịka⟩ ihe akaebe maka Israerụ, iji kelee Aha Yahwe.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "N'ebe ahụ"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "na-aga elu"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "ebo"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ebo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ihe akaebe"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "maka Israerụ"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "iji kelee"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:52.059297397Z",
+  "model": "glm-5.3"
+}

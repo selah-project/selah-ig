@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Le, nke Yahwe, Elohim gị, bụ ⟨the⟩ eluigwe na eluigwe nke ⟨the⟩ eluigwe, ⟨the⟩ ụwa na ihe niile dị na ya.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Le"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nke Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "na eluigwe nke"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dị na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:55:27.863113180Z",
+  "model": "glm-5.3"
+}

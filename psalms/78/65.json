@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Adonai wee tetee dịka onye na-ehi ụra, dịka dike na-eti mkpu site na mmanya.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "wee tetee"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "dịka onye na-ehi ụra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "dịka dike"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "na-eti mkpu"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "site na mmanya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:00.985967043Z",
+  "model": "glm-5.3"
+}

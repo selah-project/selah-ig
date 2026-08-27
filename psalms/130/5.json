@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 130,
+  "translation": "Nchebere m maka Yahwe, ndo; nchebere ka nchebere — nke ndu m (nefesh) na-echere, maka okwu Ya ka m na-echere.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "nchebere m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "nchebere ka nchebere"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ndu m (nefesh)"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "maka okwu Ya"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "m na-echere"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:20.565897667Z",
+  "model": "glm-5.3"
+}

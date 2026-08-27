@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Moshe mekwara dịka Yahwe nyere ya iwu, ⟨את⟩; nzukọ ahụ chịkọtasịkwara n'ọnụ ụzọ Ụlọikpe Nzukọ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mekwara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Moshe)"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "chịkọtasịkwara"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "nzukọ ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ọnụ ụzọ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ụlọikpe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nzukọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:04.584007645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "deuteronomy 28:60",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ọ ga-eweghachite ná gị ⟨את⟩ ọrịa niile nke Mitsrayim nke gị na-atụ ụjọ, ha ga-adọkwa ná gị.",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "ga-eweghachite"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ná gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrịa niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מדוה",
+      "gloss": "ọrịa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nke Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יגרת",
+      "gloss": "gị na-atụ ụjọ"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ודבקו",
+      "gloss": "ha ga-adọkwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ná gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:12:31.633371036Z",
+  "model": "glm-5.3"
+}

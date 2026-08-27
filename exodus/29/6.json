@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Tinyekwa ⟨את⟩ okpu-isi n'isi ya, ma tinye ⟨את⟩ okpu nsọ n'elu okpu-isi ahụ.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Tinyekwa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "okpu-isi"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "isi ya"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okpu nsọ"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "okpu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "okpu-isi ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:31:19.088243213Z",
+  "model": "glm-5.3"
+}

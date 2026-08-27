@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Nke David. Yahwe ⟨⟨⟩⟩ bụ ìhè m na nzọpụta m — onye m ga-atụ egwu? Yahwe ⟨⟨⟩⟩ bụ ebe mgbachi nke ndụ m — onye m ga-atụ egwu?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nke David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ìhè m"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "na nzọpụta m"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "onye m ga-atụ egwu?"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "atụ egwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ebe mgbachi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nke ndụ m"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "onye m ga-atụ egwu?"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "atụ ụjọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:39.328616096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Were isi nke ụmụ Gereshon, ha mkpụrụ, dịka ụlọ nna ha na ezinụlọ ha si dị;",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Were isi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi nke ụmụ Gereshon"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ha mkpụrụ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "dịka ụlọ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nna ha"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ezinụlọ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:14:00.637313261Z",
+  "model": "glm-5.3"
+}

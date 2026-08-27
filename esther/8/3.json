@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ester wee gbakwunye okwu n'ihu eze, wee daa n'ihu ụkwụ ya, wee bee akwa, wee rịọ ya arịrịọ, ka o wepụ ⟨את⟩ ihe ọjọọ Haman onye Agagi, yana ⟨את⟩ atụmatụ ọ tọrọ megide ndị Yehudi.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "gbakwunye"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "daa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ụkwụ ya"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "bee akwa"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "rịọ arịrịọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ka ọ wepụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ọjọọ Haman"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "onye Agagi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "yana ⟨את⟩"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "atụmatụ ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ọ tọrọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ndị Yehudi"
+    }
+  ],
+  "timestamp": "2026-08-27T15:22:33.622007479Z",
+  "model": "glm-5.3"
+}

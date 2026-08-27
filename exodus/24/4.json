@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Moshe dere ⟨את⟩ okwu niile nke Yahwe, bilie n'ụtụtụ, ma wuo ebe-ọkụ-ọfụfụ n'okpuru ugwu ahụ, na nkiri iri na abụọ maka agbụrụ iri na abụọ nke Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "dere"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "bilie n'ụtụtụ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wuo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ebe-ọkụ-ọfụfụ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ugwu ahụ"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iri na"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "nkiri"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "maka"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri na"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "agbụrụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:44.913058257Z",
+  "model": "glm-5.3"
+}

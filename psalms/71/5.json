@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "N'ihi na ì nwere, Adonai Yahwe, ⟨nke bụ⟩ olile anya m, ntụkwasị obi m site n'oge nwata m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ì"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "olile anya m"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "ntụkwasị obi m"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "site n'oge nwata m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:15.078046505Z",
+  "model": "glm-5.3"
+}

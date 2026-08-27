@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Gịnịkwa, nwa Adam, were brikụ maka gị, tinye ya n'ihu gị, ma dee n'elu ya obodo ⟨את⟩ Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "gịnịkwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "קח",
+      "gloss": "were"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "brikụ"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (brikụ ahụ)"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "ma dee"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T12:00:57.313821780Z",
+  "model": "glm-5.3"
+}

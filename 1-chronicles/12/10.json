@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ezer onye isi, Ovadyah onye nke abụọ, Eliav onye nke atọ.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "onye isi"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Ovadyah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "onye nke abụọ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "onye nke atọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:57:47.425495532Z",
+  "model": "glm-5.3"
+}

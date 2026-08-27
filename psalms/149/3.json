@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 149,
+  "translation": "Ka ha too aha ya n'ịgba egwu, na ọja na kinor ka ha kpọọ ya akpọ ngwá.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ka ha too"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "n'ịgba egwu"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "na ọja"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "na kinor"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ka ha kpọọ ngwá"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:29.179735644Z",
+  "model": "glm-5.3"
+}

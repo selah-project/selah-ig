@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ka ọ ghara ịbụ na onye nụrụ ya mehere gị ihere, na asịsị gị wee ghara ịlaghachi azụ.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ka ọ ghara ịbụ na"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "mehere gị ihere"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "onye nụrụ ya"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "na asịsị gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ịlaghachi azụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:28:47.691653794Z",
+  "model": "glm-5.3"
+}

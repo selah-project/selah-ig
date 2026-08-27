@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 36:4",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "N'ihi na n'ezie, okwu m abụghị ụgha; onye zuru okwu n'amamihe nọkwa gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abụghị"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "okwu m"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "zuru okwu"
+    },
+    {
+      "surface": "דעות",
+      "gloss": "n'amamihe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nọkwa gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:56:00.002241280Z",
+  "model": "glm-5.3"
+}

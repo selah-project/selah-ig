@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Yahwe wee kwuo, sị, Yehuda ga-aga elu; le, m enyewo ⟨את⟩ ala n'aka ya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee kwuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ga-aga elu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "m enyewo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "n'aka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:40:26.955382126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ma mmadụ iri na-eto eto na-ebu ngwá agha Yoav gburu gburu, wee tie Avshalom ⟨את⟩, wee gbuo ya.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "gburu gburu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mmadụ na-eto eto"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "na-ebu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ngwá agha"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wee tie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "wee gbuo ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:34:47.707201043Z",
+  "model": "glm-5.3"
+}

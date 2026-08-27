@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Merayot mụrụ ⟨את⟩ Amaraya, ma Amaraya mụrụ ⟨את⟩ Akitub.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaraya"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amaraya"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ma Amaraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akitub"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akitub"
+    }
+  ],
+  "timestamp": "2026-08-27T15:54:21.742674317Z",
+  "model": "glm-5.3"
+}

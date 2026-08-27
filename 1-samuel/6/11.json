@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ha tinyere ⟨את⟩ igbe Yahwe ná ụgbọ ahụ, yana ⟨את⟩ akpa ahụ, yana ⟨את⟩ oke ọlaedo ahụ, yana ⟨את⟩ ihe oyiyi ọrịa mgbụsị ha.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ha tinyere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igbe Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ná"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ụgbọ ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akpa ahụ"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "akpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oke ọlaedo ahụ"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "oke"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe oyiyi ọrịa mgbụsị ha"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "ihe oyiyi"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "ọrịa mgbụsị ha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:03:41.229820480Z",
+  "model": "glm-5.3"
+}

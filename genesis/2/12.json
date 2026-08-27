@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ọla edo nke ala ahụ dị mma; ebe ahụ ka bdolah na nkume shoham dị.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bdolah"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "na nkume"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:10.622838706Z",
+  "model": "glm-5.3"
+}

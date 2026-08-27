@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "⟨את⟩ ahụ ọma nke nzukọ, na ⟨את⟩ akpa nke ihe akaebe, na ⟨את⟩ mkpuchi mme ka ihe ọjọọ nke dị n'elu ya, na ⟨את⟩ ngwá niile nke ahụ ọma ahụ:",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahụ ọma nke nzukọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ahụ ọma"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nke nzukọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "akpa nke ihe akaebe"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "akpa"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "nke ihe akaebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mkpuchi mme ka ihe ọjọọ"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "mkpuchi mme ka ihe ọjọọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dị n'elu ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ngwá niile nke ahụ ọma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ngwá"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "nke ahụ ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T06:33:48.320090412Z",
+  "model": "glm-5.3"
+}

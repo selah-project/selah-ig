@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 143,
+  "translation": "Maka na onye iro na-achụso m nso, ọ kụdara ndụ m ala n'ụwa, o tinyere m n'ọchịchịrị, dịka ndị nwụrụ anwụ n'oge ochie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "na-achụso"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "onye iro"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "m"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "kụdara"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ala n'ụwa"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "ndụ m"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "o tinyere m"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "n'ọchịchịrị"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "dịka ndị nwụrụ anwụ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "n'oge ochie"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:51.132566078Z",
+  "model": "glm-5.3"
+}

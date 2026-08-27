@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Maka onye na-eduzi egwu, maka ohu Yahwe, maka David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye na-eduzi egwu"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "maka ohu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "maka David"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:57.851812153Z",
+  "model": "glm-5.3"
+}

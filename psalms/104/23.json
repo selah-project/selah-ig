@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Nwoke na-apụ maka ọrụ ya, na maka ọrụ nnọchite ya, ruo mgbe abalị na-eru.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "na-apụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "maka ọrụ ya"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "na maka ọrụ nnọchite ya"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "abalị na-eru"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:25.605451837Z",
+  "model": "glm-5.3"
+}

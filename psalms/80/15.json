@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Elohim Tsevaot, laghachi anyị na-arịọ gị; lelee site n'eluigwe ma hụ, wee lebara vaịn a anya.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "laghachi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "anyị na-arịọ gị"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "lelee"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "site n'eluigwe"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ma hụ"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "wee leba anya"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "vaịn"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:10.537228952Z",
+  "model": "glm-5.3"
+}

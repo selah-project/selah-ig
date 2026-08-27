@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Osimiri wee pụta na Eden iji nyefye mmiri ⟨את⟩ ⟨ahụ⟩ ubi, ma site n'ebe ahụ ọ kewara, wee bụrụ isi mmiri anọ.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "osimiri"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "pụta"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "na Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "iji nyefye mmiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ahụ⟩ ubi"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ma site n'ebe ahụ"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "kewara"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wee bụrụ"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "isi mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:10.622464223Z",
+  "model": "glm-5.3"
+}

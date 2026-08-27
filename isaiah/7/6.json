@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Anyị ga-ago elu megide Juda, anyị ga-akụ ya mkpọtụ, anyị ga-emebi ya maka onwe anyị, anyị ga-eme ka eze nọchiri ya n'etiti ya — ⟨את⟩ nwa Taveel.",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "anyị ga-ago elu"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "megide Juda"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "anyị ga-akụ ya mkpọtụ"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "anyị ga-emebi ya"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "maka onwe anyị"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "anyị ga-eme ka ... nọchiri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "n'etiti ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa Taveel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "Taveel"
+    }
+  ],
+  "timestamp": "2026-08-27T16:38:42.445313904Z",
+  "model": "glm-5.3"
+}

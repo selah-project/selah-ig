@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma onye etinyeghị obi ya n'okwu Yahwe hapụrụ ⟨את⟩ ohu ya na ⟨את⟩ anụ ụlọ ya n'ọhịa.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ma onye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ghị"
+    },
+    {
+      "surface": "שם",
+      "gloss": "etinyeghị"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "obi ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "hapụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohu ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ohu ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "anụ ụlọ ya"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "anụ ụlọ ya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "n'ọhịa"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:15.537958943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma Avraham debere ⟨את⟩ ntụrụ nke ụmụ atụrụ asaa n'anọ ha otu.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "debere"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntụrụ asaa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ntụrụ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ụmụ atụrụ"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "n'anọ ha otu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:36:47.395829174Z",
+  "model": "glm-5.3"
+}

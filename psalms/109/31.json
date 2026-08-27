@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "N'ihi na Ọ na-eguzo n'aka nri nke onye ogbenye, iji zọpụta ya n'aka ndị na-ekpe mkpebi megide ndụ ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ọ na-eguzo"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "n'aka nri"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "iji zọpụta"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ndị na-ekpe mkpebi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ndụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:46.216163881Z",
+  "model": "glm-5.3"
+}

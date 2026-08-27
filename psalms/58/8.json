@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 58,
+  "translation": "Ka ha gbasaa dịka mmiri, ka ha na-agagharị ⟨na⟩ njem ha; ka ọ na-edọba mma ọ gbara, ka a maa ya.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "ka ha gbasaa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ka ha na-agagharị"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ka ọ na-edọba"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "mma ọ gbara"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "ka a maa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:20.501911434Z",
+  "model": "glm-5.3"
+}

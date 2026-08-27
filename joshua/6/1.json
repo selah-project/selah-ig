@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Yeriko mechie ma kechie n'ihi ụmụ Yisrael; onye ọ bụla apụghị ịga-apụ, onye ọ bụla apụghị ịbata.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Yeriko"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "mechoo"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "ma kechie"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "onye na-apụ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma enweghị"
+    },
+    {
+      "surface": "בא",
+      "gloss": "onye na-abata"
+    }
+  ],
+  "timestamp": "2026-08-27T08:22:32.994436879Z",
+  "model": "glm-5.3"
+}

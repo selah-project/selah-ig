@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 140,
+  "translation": "Isi ⟨nke⟩ ndị gbara ⟨m⟩ gburugburu — nsogbu nke ọnụ ha ga-ekpuchi ha.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "ndị gbara ⟨m⟩ gburugburu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nsogbu"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ọnụ ha"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "ga-ekpuchi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:48.269384757Z",
+  "model": "glm-5.3"
+}

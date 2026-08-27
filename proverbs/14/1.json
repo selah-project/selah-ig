@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Amamihe ụmụnwaanyị ruru ụlọ ya rụọ, mana nzuzu na aka ya kụsasịa ya.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ụmụnwaanyị"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ruru rụọ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ụlọ ya"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "mana nzuzu"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "na aka ya"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "kụsasịa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:22:51.595116528Z",
+  "model": "glm-5.3"
+}

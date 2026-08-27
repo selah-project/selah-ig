@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "Onke na-eme ka ụda mkpu nke oké osimiri dị jụụ, ụda mkpu nke ebili mmiri ha, na ọgba aghara nke mba ndị.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "na-eme ka dị jụụ"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ụda mkpu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nke oké osimiri"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ụda mkpu"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "nke ebili mmiri ha"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "na ọgba aghara"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "nke mba ndị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:54.220863086Z",
+  "model": "glm-5.3"
+}

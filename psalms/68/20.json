@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Onye a gọziri agọzi bụ Adonai, ụbọchị ka ụbọchị Ọ na-ebu arọ anyị; El, nke nzọpụta anyị anyị. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Onye a gọziri agọzi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka ụbọchị"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "na-ebu arọ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "nke nzọpụta anyị"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:34.851291815Z",
+  "model": "glm-5.3"
+}

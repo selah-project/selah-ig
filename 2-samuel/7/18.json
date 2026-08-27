@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 7:18",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Eze Davịd batarakwa wee nọdụ n'ihu Yahwe, wee kwuo, Onye bụ m, Adonai Yahwe, nakwa onye bụ ụlọ m, ka i si du m ruo ebe a?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "batarakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nọdụ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kwuo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "nakwa onye"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ụlọ m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "i si du m"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ebe a"
+    }
+  ],
+  "timestamp": "2026-08-27T09:32:55.753756579Z",
+  "model": "glm-5.3"
+}

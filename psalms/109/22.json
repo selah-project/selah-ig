@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "N'ihi na onye ogbenye na onye mkpọbu ka m bụ, ma obi m merụrụ ahụ n'ime afọ m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "עני",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na onye mkpọbu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m bụ"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ma obi m"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "merụrụ ahụ"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "n'ime afọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:58.945865857Z",
+  "model": "glm-5.3"
+}

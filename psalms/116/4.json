@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 116,
+  "translation": "Ma n'aha Yahwe m kpọrọ oku: 'Biko, Yahwe, zọpụta mkpụrụ obi m.'",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "ma n'aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m kpọrọ oku"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "biko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "zọpụta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:16.325192844Z",
+  "model": "glm-5.3"
+}

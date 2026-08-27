@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 29:11",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "otu mkpi ewu dị ka mmehie (ḥatat); n'akụkụ nke mmehie nke mmechitagha ⟨the⟩ na ọkụ-ọfụfụ na-adịgide adịgide na ntinye-ọka ya na mmanya-ọṅụ ha.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "mkpi ewu"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ewu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "mmehie (ḥatat)"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "n'akụkụ nke"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "mmechitagha"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "na ọkụ-ọfụfụ"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "na-adịgide adịgide"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "na ntinye-ọka ya"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "na mmanya-ọṅụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:38:44.067483920Z",
+  "model": "glm-5.3"
+}

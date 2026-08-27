@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 2:10",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Yahwe — ndị na-emegide ya ga-adaba; site n'eluigwe ọ ga-agụ igwe na ha. Yahwe ga-ekpe ikpe ngwụcha nke ụwa, ma nye eze ya ike, ma bulie mpi nke Mashiach ya elu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "ga-adaba"
+    },
+    {
+      "surface": "מריבו",
+      "gloss": "ndị na-emegide ya"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "site na"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ọ ga-agụ igwe na ha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ga-ekpe ikpe"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ngwụcha nke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ma nye"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ike"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "eze ya"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "ma bulie elu"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "mpi"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiach ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:58:47.092754289Z",
+  "model": "glm-5.3"
+}

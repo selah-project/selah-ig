@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Nke a ka Yahwe, Elohim m, kwuru: Zụọ ⟨את⟩ atụrụ nke a ga-egbu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Nke a ka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Zụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atụrụ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "nke a ga-egbu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:06:40.948896010Z",
+  "model": "glm-5.3"
+}

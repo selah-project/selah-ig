@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ya wee hụ na Elohim hụrụ ⟨את⟩ ìhè n'ihi na ọ dị mma, ma Elohim kewapụrụ n'etiti ìhè na n'etiti ọchịchịrị.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ya wee hụ na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ìhè"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ìhè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ma ... kewapụrụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ìhè"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na n'etiti"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ọchịchịrị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:22:44.038829223Z",
+  "model": "glm-5.3"
+}

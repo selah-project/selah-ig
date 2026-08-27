@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ha agaghị ajụ ihere n'oge ọjọọ, ma n'ụbọchị ụkọ nri ha ga-eju afọ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ajụ ihere"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ma n'ụbọchị"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "ụkọ nri"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ha ga-eju afọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:54.631043353Z",
+  "model": "glm-5.3"
+}

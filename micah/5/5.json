@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ha ga-emebi ⟨את⟩ ala Ashur site na mmaa, na ⟨את⟩ ala Nimrod n'ọnụ ụzọ ya; a ga-eduga ⟨את⟩ nnapụta site na Ashur, mgbe ọ na-abata n'ala anyị, na mgbe ọ na-eti nzọụkwụ n'ókèala anyị.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "ha ga-emebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala Ashur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "site na mmaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "n'ọnụ ụzọ ya"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "a ga-eduga nnapụta"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "site na Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ọ na-abata"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "n'ala anyị"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na mgbe"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ọ na-eti nzọụkwụ"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "n'ókèala anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:55:04.142085721Z",
+  "model": "glm-5.3"
+}

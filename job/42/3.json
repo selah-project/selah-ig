@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Onye ka nke a bụ, onye na-ezo ndụmọdụ enweghị amamihe? N'ihi ya, ekwuola m ihe m na-aghọtaghị; ihe dị ịtụnanya karịa m, nke amaghị m.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "na-ezo"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ndụmọdụ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ekwuola m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na-aghọtaghị"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "aghọta"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ihe dị ịtụnanya"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "karịa m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "amaghị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:00:11.654343057Z",
+  "model": "glm-5.3"
+}

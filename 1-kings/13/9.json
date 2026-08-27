@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Maka otu a ka e nyere m iwu site n'okwu Yahwe, na-asị: Ị gaghi eri nri, ma ṅụọ mmiri, ma laghachi azụ n'ụzọ ị si bịa.\" N'ihi na otu a ka e nyere ⟨את⟩ m iwu site n'okwu Yahwe, na-asị: Ị gaghi eri nri, ma ṅụọ mmiri, ma laghachi azụ n'ụzọ ị si bịa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m (onye e nyere iwu)"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "site n'okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ị ga-eri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ị ga-aṅụ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ị ga-alaghachi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ị si bịa"
+    }
+  ],
+  "timestamp": "2026-08-27T10:00:21.661087854Z",
+  "model": "glm-5.3"
+}

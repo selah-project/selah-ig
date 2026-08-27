@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Weli ụkwụ gị elu gaa n'ebe mkpọfu ruo mgbe ebighị ebi; ihe ọjọọ niile bụ onye iro gị mere n'ebe nsọ.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Weli elu"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "ụkwụ gị (nzọụkwụ)"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "gaa n'ebe mkpọfu"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ihe ọjọọ ... mere"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "onye iro"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "n'ebe nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:52.818763283Z",
+  "model": "glm-5.3"
+}

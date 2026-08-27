@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Nke ahụ mere Leah kwuru, sị: \"Eziọma bịara!\" Ọ wee kpọọ ⟨את⟩ aha ya Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "eziọma bịara"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ọ wee kpọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:49.967219697Z",
+  "model": "glm-5.3"
+}

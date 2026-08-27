@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "N'ihi na Yahwe eweghachitela ⟨את⟩ ugwu Yaakov, dịka ugwu Israel; n'ihi na ndị ahụ na-atụfu ahụtụfuru ha, ma ha mebiekwuo alaka osisi vaịn ha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "שב",
+      "gloss": "eweghachitela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugwu Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "dịka ugwu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "ndị ahụ na-atụfu"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "ahụtụfuru ha"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "alaka osisi vaịn ha"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ha mebiekwuo"
+    }
+  ],
+  "timestamp": "2026-08-27T12:58:48.145948969Z",
+  "model": "glm-5.3"
+}

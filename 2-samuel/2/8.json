@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ma Avner nwa Ner, onyeisi ndị agha nke Shaúl nwere, were ⟨את⟩ Ish-Boshet nwa Shaúl, ma kpọga ya gafee Machanaim.",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "Ma Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaúl nwere"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ish-Boshet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "ma kpọga ya gafee"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Machanaim"
+    }
+  ],
+  "timestamp": "2026-08-27T09:29:26.680801867Z",
+  "model": "glm-5.3"
+}

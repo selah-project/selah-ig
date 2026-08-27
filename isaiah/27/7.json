@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Dịka nke ịkụ nke ndị kụrụ ya, ka ọ kụrụ ya? Ma ọ bụ dịka nke igbu nke ndị o gburu, ka ọ na-egbu?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "dịka nke ịkụ nke"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "ndị kụrụ ya"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ọ kụrụ ya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "dịka nke igbu nke"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "ndị o gburu"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ọ na-egbu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:46:51.176860345Z",
+  "model": "glm-5.3"
+}

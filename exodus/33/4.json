@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ndị ahụ wee nụ ⟨את⟩ okwu ọjọọ a, wee kwaa uju, onye ọ bụla ewepụtaghị nkịtị ya n'elu ya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wee nụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ọjọọ a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "wee kwaa uju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ewepụtaghị"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "tinyeghị"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "nkịtị ya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:34:52.092814099Z",
+  "model": "glm-5.3"
+}

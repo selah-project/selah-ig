@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 128,
+  "translation": "Le, n'ezie otu a ka a ga- gozi nwoke na-atọ Yahwe ọjọ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "a ga- gozi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "na-atọ ọjọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:15.990261888Z",
+  "model": "glm-5.3"
+}

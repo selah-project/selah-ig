@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ugbu a, m ga-ebilite, ka Yahwe sị; ugbu a, m ga-ebuli onwe m elu; ugbu a, m ga-eweli elu.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "m ga-ebilite"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ka ... sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "m ga-eweli elu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "m ga-ebuli onwe m elu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:48:47.872171449Z",
+  "model": "glm-5.3"
+}

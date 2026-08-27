@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "N'ihu isi ntọ-ocha ka ọ guzo mkpụrụ, ma too ihu onye okenye; tụọ Elohim gị egwu: m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "isi ntọ-ocha \/ agadi"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ka ọ guzo mkpụrụ"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "ma too"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "onye okenye"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ma tụọ egwu"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m bụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:27:34.493712410Z",
+  "model": "glm-5.3"
+}

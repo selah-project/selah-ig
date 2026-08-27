@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ wee rụọ ⟨את⟩ Tadmor n'ọzara, na ⟨את⟩ obodo nchekwa niile nke ọ rụrụ na Chamath.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ọ wee rụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "obodo nchekwa niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "nchekwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ọ rụrụ"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "na Chamath"
+    }
+  ],
+  "timestamp": "2026-08-27T16:10:06.344760809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ha chetara na Elohim bụ ⟨the⟩ nkume ha, na El Elyon bụ onye-nzọpụta ha.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "ha chetara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "nkume ha"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "onye-nzọpụta ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:01.770087451Z",
+  "model": "glm-5.3"
+}

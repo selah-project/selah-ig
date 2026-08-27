@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Ma Binnyamin, nwanne Yosef, Yaakov ezighị ya ⟨את⟩ ndị nwanne ya, n'ihi na ọ sị, O bee na mmejọ ọjọọ ezuteghị ya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binnyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binnyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nwanne"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ezighị"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "i zipụ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị nwanne ya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndị nwanne ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ọ sị"
+    },
+    {
+      "surface": "פן",
+      "gloss": "O bee na"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "ezuteghị"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "mmejọ ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:58:25.768745576Z",
+  "model": "glm-5.3"
+}

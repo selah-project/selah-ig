@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Maka ntụ ka achịcha m riri, na ihe ọṅụṅụ m na mmiri anya jikọtara m ọnụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "ntụ"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "ka achịcha"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "m riri"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "na ihe ọṅụṅụ m"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "na mmiri anya"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "jikọtara m ọnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:51.848485401Z",
+  "model": "glm-5.3"
+}

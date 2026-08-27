@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 5:33",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "N'ụzọ niile nke Yahwe, Elohim nke unu, nyere iwu ka unu na-aga, unu ga-aga ⟨את⟩, ka unu dịrị ndụ, ka ọ dịkwara mma maka unu, ka unu na-adịkwa ogologo ụbọchị n'ala nke unu ga-eketa.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "n'ụzọ niile"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nke unu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu (ndị a nyere iwu ịga)"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "unu ga-aga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "unu dịrị ndụ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ka ọ dịkwara mma"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka unu"
+    },
+    {
+      "surface": "והארכתם",
+      "gloss": "ka unu na-adịkwa ogologo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תירשון",
+      "gloss": "unu ga-eketa"
+    }
+  ],
+  "timestamp": "2026-08-27T07:51:30.029182304Z",
+  "model": "glm-5.3"
+}

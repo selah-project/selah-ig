@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ma ọ sụrụ ⟨את⟩ ha okwu, na-ekwu, Ọ bụrụ na ọ dị ⟨את⟩ unu mmasị na ⟨the⟩ aka m lie ⟨את⟩ onye nwụrụ anwụ m n'ihu m, nụ m, ma gbatịa aka maka m na Efron, nwa Tsochar;",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ma ọ sụrụ...okwu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmasị unu"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "mmasị unu"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "na...lie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye nwụrụ anwụ m"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "onye nwụrụ anwụ m"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "n'ihu m"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "nụ m"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "ma gbatịa aka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "na Efron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Tsochar"
+    }
+  ],
+  "timestamp": "2026-08-27T05:38:53.935580957Z",
+  "model": "glm-5.3"
+}

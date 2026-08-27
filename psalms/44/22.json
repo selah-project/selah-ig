@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Ọ bụghịkwa na Elohim ga-enyocha nke a? Ma ọ bụ na ⟨ọ⟩ ma ihe zoro ezo n'obi.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ọ bụghịkwa na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ga-enyocha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma ọ bụ na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ọ⟩"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "ihe zoro ezo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "n'obi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:00.777865079Z",
+  "model": "glm-5.3"
+}

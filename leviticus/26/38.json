@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Unu ga-ala n'izu n'etiti mba ndị, ala nke ndị iro unu ga-eri ⟨את⟩ unu.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "unu ga-ala n'izu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "n'etiti mba ndị"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ndị iro unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:09:06.974661045Z",
+  "model": "glm-5.3"
+}

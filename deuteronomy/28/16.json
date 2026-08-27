@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "A gọọla gị n'obodo, ma a gọọla gị n'ubi.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "a gọọla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ma a gọọla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "n'ubi"
+    }
+  ],
+  "timestamp": "2026-08-27T08:13:34.686332251Z",
+  "model": "glm-5.3"
+}

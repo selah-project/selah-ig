@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "M ga-eduga ⟨את⟩unụ bata n'ala nke m welitere ⟨את⟩aka m iyi na m ga-enye ⟨את⟩ ya Avraham, Yitschak na Yaakov; m ga-enyekwa ⟨את⟩ ya unụ dịka ihe nketa; mụ bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "m ga-eduga bata"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩unụ",
+      "marks": "unụ n'ala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bata n'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "m welitere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka m"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "iyi inye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "m ga-enyekwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya unụ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unụ"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "dịka ihe nketa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:10:50.830715715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ọ bụghị́ ka Karkemish nọ, ka anyị chịrị Kalno? Ọ dịghị ka Arpad nọ, ka Hamat? Ọ dịghị ka Damasek nọ, ka Shomron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ọ bụghị́"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "ka Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "ka Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "ka Damasek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-08-27T10:38:36.285085926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Mgbe ọ na-alụso Aram-naharaim na ⟨את⟩ Aram-Tsoba ọgụ, Yoab laghachiri wee tie Edom n'olulu mmiri nnu — pụkụ iri na abụọ.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "mgbe ọ na-alụso ọgụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-naharaim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "naharaim (nke osimiri abụọ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aram-Tsoba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wee laghachite"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wee tie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "n'olulu"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "nnu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "pụkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:33.967338820Z",
+  "model": "glm-5.3"
+}

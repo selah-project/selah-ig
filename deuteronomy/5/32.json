@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ya mere unu ga-echere idebe dịka Yahwe, Elohim unu, nyere ⟨את⟩ unu iwu; unu agaghị atụgharị aka nri ma ọ bụ aka ekpe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "unu ga-echere"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "idebe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "atụgharị"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "aka nri"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "ma ọ bụ aka ekpe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:53:51.884679305Z",
+  "model": "glm-5.3"
+}

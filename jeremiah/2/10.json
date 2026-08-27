@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 2:10",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "N'ihi ya, gafere n'àgwàetiti Kitiim ma hụ; zipu onye gaa Kedar ma leba anya nke ọma, hụkwa ma o dịla ihe dị ka nke a.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gafere"
+    },
+    {
+      "surface": "איי",
+      "gloss": "àgwàetiti"
+    },
+    {
+      "surface": "כתיים",
+      "gloss": "Kitiim"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ma hụ"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "Kedar"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "zipu onye gaa"
+    },
+    {
+      "surface": "והתבוננו",
+      "gloss": "ma leba anya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ọma"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "hụkwa"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ma"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "o dịla"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ihe dị ka nke a"
+    }
+  ],
+  "timestamp": "2026-08-27T11:12:25.180098936Z",
+  "model": "glm-5.3"
+}

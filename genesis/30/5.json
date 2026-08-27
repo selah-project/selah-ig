@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Bilha were ime, ma mụọ nwa nwoke maka Yaakov.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "were ime"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ma mụọ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "maka Yaakov"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    }
+  ],
+  "timestamp": "2026-08-27T05:44:12.232549266Z",
+  "model": "glm-5.3"
+}

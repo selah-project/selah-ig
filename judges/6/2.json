@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma aka Midian dinaaru Yisrael isi; n'ihi Midian, ụmụ Yisrael mere ha ⟨את⟩ ọgba mgbapụ ndị dị n'ugwu, na ⟨את⟩ ọgba nkume, na ⟨את⟩ ebe mgbachi.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "dinaaru isi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgba mgbapụ"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "ọgba mgbapụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ọgba nkume"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "ọgba nkume"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ebe mgbachi"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "ebe mgbachi"
+    }
+  ],
+  "timestamp": "2026-08-27T08:44:25.295039724Z",
+  "model": "glm-5.3"
+}

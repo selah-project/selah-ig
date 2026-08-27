@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ihe ⟨nke⟩ Ọ dị na mbụ bụ́ nke ga-adị, ma ihe ⟨nke⟩ a meela bụ́ nke a ga-eme; ma ọ dịghị ihe ọhụrụ ọ bụla n'okpuru anyanwụ.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ihe ⟨nke⟩ Ọ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "dị na mbụ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bụ́"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "nke ga-adị"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ma ihe ⟨nke⟩ a"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "meela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bụ́"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "nke a ga-eme"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma ọ dịghị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe ọ bụla"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ọhụrụ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:11:45.572745206Z",
+  "model": "glm-5.3"
+}

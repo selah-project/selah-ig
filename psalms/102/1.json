@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Ekpere nke onye nọ ná mgbawa, mgbe ọ na-ada mbà, n'ihu Yahwe ka ọ na-agbasa mkparịta obi ya.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Ekpere"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "nke onye nọ ná mgbawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "ọ na-ada mbà"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ọ na-agbasa"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "mkparịta obi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:01.814662296Z",
+  "model": "glm-5.3"
+}

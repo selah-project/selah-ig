@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 114,
+  "translation": "N'oge Yisrael pụtara n'Ijipt, ụlọ Yaakov n'aka ndị na-asụ asụsụ ọzọ,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "n'oge ... pụtara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "n'Ijipt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "n'aka ndị"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "na-asụ asụsụ ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:19.597229837Z",
+  "model": "glm-5.3"
+}

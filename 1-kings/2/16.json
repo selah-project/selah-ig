@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "\"Ugbu a, arịrịọ otu ka m na-ayọ ⟨את⟩ gị; tụgharịghị ihu m azụ.\" Ya wee sị ya, \"Gwa m.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "arịrịọ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "na-ayọ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tụgharịla"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "azụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihu m"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu m"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ya wee sị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Gwa m"
+    }
+  ],
+  "timestamp": "2026-08-27T09:50:12.865953612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 14:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ma n'afọ nke iri na anọ, Kedorlaomer bịara, na ndị eze ndị nọ ⟨את⟩ ya, ha kụrụ ⟨את⟩ ndị Refaim na Ashterot-Karnaim, na ⟨את⟩ ndị Zuzim na Ham, na ⟨את⟩ ndị Emim na Shaveh-Kirjataim.",
+  "tokens": [
+    {
+      "surface": "ובארבע",
+      "gloss": "Ma n'afọ nke iri na anọ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "na anọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "na ndị eze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ha kụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Refaim"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ndị Refaim"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "na Ashterot"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "Karnaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Zuzim"
+    },
+    {
+      "surface": "הזוזים",
+      "gloss": "ndị Zuzim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Emim"
+    },
+    {
+      "surface": "האימים",
+      "gloss": "ndị Emim"
+    },
+    {
+      "surface": "בשוה",
+      "gloss": "na Shaveh"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kirjataim"
+    }
+  ],
+  "timestamp": "2026-08-27T05:32:22.984317770Z",
+  "model": "glm-5.3"
+}

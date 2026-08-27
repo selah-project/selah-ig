@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Zichri, dike nke Ephrayim, gburu ⟨את⟩ Maaseyahu nwa eze ahụ, na ⟨את⟩ Azrikam onyeisi ụlọ ahụ, na ⟨את⟩ Elkana nke abụọ n'eze ahụ.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "gburu"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zichri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "dike"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaseyahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Azrikam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elkana"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:17:21.431539236Z",
+  "model": "glm-5.3"
+}

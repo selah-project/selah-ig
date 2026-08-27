@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "N'ihi na mmehie nke ịgba afa bụ nnupụ isi, na ajọ omume na ⟨arụsị⟩ terafim bụ ọgbaghara; n'ihi na ị jụrụ ⟨את⟩ okwu Yahwe, Ọ ajụkwala gị ka ị ghara ịbụ eze.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "nke ịgba afa"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "nnupụ isi"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "na ajọ omume"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "na terafim"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "ọgbaghara"
+    },
+    {
+      "surface": "יען",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "ị jụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "Ọ ajụkwala gị"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "ka ị ghara ịbụ eze"
+    }
+  ],
+  "timestamp": "2026-08-27T09:11:16.397768280Z",
+  "model": "glm-5.3"
+}

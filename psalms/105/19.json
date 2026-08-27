@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Ruo mgbe okwu ya bịara; okwu Yahwe nwetere ya n'ọkụ.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ruo mgbe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "okwu ya"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "nwetere ya n'ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:09.711165817Z",
+  "model": "glm-5.3"
+}

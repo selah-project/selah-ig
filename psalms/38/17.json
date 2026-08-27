@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Maka m kwuru, ka ha ghara ịnụ ụtọ n'aka m; mgbe ụkwụ m na-agbagharị, ha buru onwe ha ibu megide m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "m kwuru"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka ha ghara"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ịnụ ụtọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n'aka m"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "mgbe ... na-agbagharị"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ụkwụ m"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "ha buru onwe ha ibu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:19.061195806Z",
+  "model": "glm-5.3"
+}

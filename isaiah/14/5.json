@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Yahwe gbajiri ⟨את⟩ mkpọ nke ndị ajọ omume, ⟨את⟩ ọchịchị nke ndị na-achị.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "gbajiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpọ nke ndị ajọ omume"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mkpọ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ọchịchị"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "ndị na-achị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:37:49.737151066Z",
+  "model": "glm-5.3"
+}

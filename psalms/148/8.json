@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 148,
+  "translation": "Ọkụ na nkụ mmiri, snow na anwụ; ikuku ifufe siri ike na-eme okwu Ya.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Ọkụ"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "na nkụ mmiri"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "snow"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "na anwụ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ikuku"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ifufe siri ike"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "okwu Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:22.404610063Z",
+  "model": "glm-5.3"
+}

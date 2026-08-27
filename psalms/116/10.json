@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 116,
+  "translation": "M kwere nkwa, n'ihi na m na-ekwu okwu; m tara ahụhụ nke ukwuu.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "m kwere nkwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "m na-ekwu okwu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "m tara ahụhụ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:17.347357967Z",
+  "model": "glm-5.3"
+}

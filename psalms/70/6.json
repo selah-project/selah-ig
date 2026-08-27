@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 70,
+  "translation": "Maka m bụ onye ogbenye na onye nọ ná mkpa; Elohim, me ngwa ruo n'aka m; Gị bụ onye nnyere m aka na onye nzọpụta m; Yahwe, echela ichere.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maka m bụ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "onye nọ ná mkpa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "me ngwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ruo n'aka m"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "onye nnyere m aka"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "na onye nzọpụta m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Gị bụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "echela"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ichere"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:43.126459105Z",
+  "model": "glm-5.3"
+}

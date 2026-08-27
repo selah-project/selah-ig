@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 79,
+  "translation": "Ha wusara ọbara ha ka mmiri dị, gburugburu Yerushalayim, ma ọ nweghị onye na-eli ozu.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "ha wusara"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ọbara ha"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ka mmiri dị"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma ọ nweghị"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "onye na-eli ozu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:46:03.838504344Z",
+  "model": "glm-5.3"
+}

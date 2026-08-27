@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 60:20",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Anwụ gị agaghị adaba ọzọ, ma ọnwa gị agaghị anakọtachazi; n'ihi na Yahwe ga-abụ maka gị ìhè ruo mgbe ebighị ebi, ma ụbọchị iru ujọ gị ga-ezupe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ga-adaba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "שמשך",
+      "gloss": "anwụ gị"
+    },
+    {
+      "surface": "וירחך",
+      "gloss": "ma ọnwa gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "ga-anakọta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ìhè"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "ga-ezupe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "אבלך",
+      "gloss": "iru ujọ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T11:09:26.047906018Z",
+  "model": "glm-5.3"
+}

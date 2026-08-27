@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ndị ajọ omume na-agagharị gburugburu, mgbe ekwurịchara ọrụjọ n'etiti ụmụ ụmụ Adam.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "na-agagharị"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "ọrụjọ ekwuriri elu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "n'etiti ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ụmụ Adam"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:20.311944073Z",
+  "model": "glm-5.3"
+}

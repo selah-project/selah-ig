@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "N'ihi na ọ na-efe onwe ya mfe n'anya ya, ka a ga-achọta mmehie ya ka a kpọọ asị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "na-efe onwe ya mfe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "n'anya ya"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ka a ga-achọta"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "mmehie ya"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ka a kpọọ asị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:57.852154303Z",
+  "model": "glm-5.3"
+}

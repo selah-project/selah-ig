@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Bat-Sheba gbajiri azụ, wee na-agbu ịkwọsara eze ahụ; eze ahụ wee sị: Gịnị ka ị na-achọ?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "gbajiri azụ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa-nwaanyị"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "na-agbu ịkwọsara"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:49:14.532281292Z",
+  "model": "glm-5.3"
+}

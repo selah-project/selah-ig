@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 134,
+  "translation": "Welite aka unu dị nsọ, ma gọzie ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Welite"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "aka unu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "dị nsọ"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ma gọzie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:04.491303347Z",
+  "model": "glm-5.3"
+}

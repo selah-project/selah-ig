@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Ma ha mere mkpado ọlaedo abụọ na mgbeobi ọlaedo abụọ, ma tinye ⟨את⟩ mgbeobi abụọ ahụ n'ọnụ nsọtụ abụọ nke hoshen.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ma ha mere"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "mkpado"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "mgbeobi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgbeobi abụọ ahụ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "mgbeobi ahụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ọnụ nsọtụ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "nsọtụ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshen"
+    }
+  ],
+  "timestamp": "2026-08-27T06:40:48.150919340Z",
+  "model": "glm-5.3"
+}

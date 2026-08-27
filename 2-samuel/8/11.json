@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 8:11",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ihe ndị a nakwa ka eze David raara nye Yahwe, tinyere ⟨את⟩ ọlaọcha na ⟨את⟩ ọlaedo ndị o wepụtara dị ka ihe nsọ site n'aka mba niile ndị o meriri.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ndị a"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "raara dị ka ihe nsọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tinyere"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ọlaọcha"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "na ọlaedo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "wepụtara dị ka ihe nsọ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "site n'aka niile"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "meriri"
+    }
+  ],
+  "timestamp": "2026-08-27T09:32:34.074561601Z",
+  "model": "glm-5.3"
+}

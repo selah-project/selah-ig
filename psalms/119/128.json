@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "N'ihi ya, m kwuru na iwu niile gị dị ziri ezi n'ihe niile; ụzọ ụgha niile ka m kpọrọ asị.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "dị ziri ezi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "m kpọrọ asị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:56.156148034Z",
+  "model": "glm-5.3"
+}

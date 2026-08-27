@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Mkpụrụ akwụkwọ ⟨nke⟩ ifufe na-efe gaa, ka ị ga-atụ egwu? Na ⟨את⟩ ahụhụ kpọrọ nkụ ka ị ga-na na-achụso?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "mkpụrụ akwụkwọ"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "nke ifufe na-efe gaa"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "ka ị ga-atụ egwu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ahụhụ kpọrọ nkụ"
+    },
+    {
+      "surface": "קש",
+      "gloss": "ahụhụ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kpọrọ nkụ"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ka ị ga-na na-achụso"
+    }
+  ],
+  "timestamp": "2026-08-27T14:42:07.041178031Z",
+  "model": "glm-5.3"
+}

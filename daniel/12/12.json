@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Obi dị onye na-chere ma na-eru ụbọchị puku otu, narị atọ na iri atọ na ise mma.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "obi dị... mma"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "onye na-chere"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "ma na-eru"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku otu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "iri atọ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "na ise"
+    }
+  ],
+  "timestamp": "2026-08-27T15:32:25.553503014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọ dịrị Yona ajọ ihe, ihe ọjọọ ukwu, ọkụ ọኧኧ wee gbaa ya.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ọ dịrị ya ajọ ihe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo na"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ọkụ gbara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:52:39.866102059Z",
+  "model": "glm-5.3"
+}

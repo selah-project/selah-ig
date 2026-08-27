@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 12:7",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Yahwe ga-azọpụta ⟨את⟩ ụlọikwu ndị Yehuda na mbụ, ka ebube ụlọ David na ebube onye bi na Yerushalayim ghara ịba ukwu karịa Yehuda.",
+  "tokens": [
+    {
+      "surface": "והושיע",
+      "gloss": "ga-azọpụta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọikwu ndị Yehuda"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "ụlọikwu ndị"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "na mbụ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "תגדל",
+      "gloss": "ịba ukwu"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ebube"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "na ebube"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "onye bi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "karịa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-27T13:08:57.668487977Z",
+  "model": "glm-5.3"
+}

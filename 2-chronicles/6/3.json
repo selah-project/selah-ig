@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Eze ahụ tụgharịrị ⟨את⟩ ihu ya, wee gọzie ⟨את⟩ nzukọ niile nke Yisrael; ma nzukọ niile nke Yisrael guzoro.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "tụgharịrị"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihu ya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ihu ya"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wee gọzie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzukọ niile nke Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma niile"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "guzoro"
+    }
+  ],
+  "timestamp": "2026-08-27T16:09:07.887768638Z",
+  "model": "glm-5.3"
+}

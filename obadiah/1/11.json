@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "obadiah 1:11",
+  "book": "obadiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "N'ụbọchị ị nọrọ n'ebe dị anya, n'ụbọchị ndị ọzọ kpọọrọ ihe agha ya n'agha, ma ndị ọbịa banyere n'ọnụ ụzọ ya, ma tụọ ọsọ maka Yerushalayim — gị kwa, dịka otu n'ime ha.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "עמדך",
+      "gloss": "ị nọrọ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "n'ebe dị anya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "kpọọrọ n'agha"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ndị ọzọ"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ihe agha ya"
+    },
+    {
+      "surface": "ונכרים",
+      "gloss": "ma ndị ọbịa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "n'ọnụ ụzọ ya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "maka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tụọ ọsọ"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ọsọ (lọtu)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "dịka otu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "n'ime ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:50:27.030983650Z",
+  "model": "glm-5.3"
+}

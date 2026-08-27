@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 135,
+  "translation": "Onye kụrụ mba ndị dị ọtụtụ, ma gbuo ndị eze siri ike.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Onye kụrụ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ndị dị ọtụtụ"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "ma gbuo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "siri ike"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:21.482039966Z",
+  "model": "glm-5.3"
+}

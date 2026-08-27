@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma nwa nwanyị nke nna-nsọ, ọ bụrụ na ọ na-emebi onwe ya site na ikọ ọchịchọ, ⟨את⟩ nna ya ka ọ na-eme bi; n'ọkụ ka a ga-ere ya.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Ma nwa nwanyị"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nke nwoke"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "nna-nsọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "na-emebi onwe ya"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "site na ikọ ọchịchọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna ya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "היא",
+      "gloss": "onye na-"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "na-eme bi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "ka a ga-ere ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:16.466192974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ọnụ onye ezi omume na-amụmụ ọnụ ọṅụ amamihe, ma asụsụ ya na-ekwu ikpe ziri ezi.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ezi omume"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "na-amụmụ ọnụ ọṅụ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ma asụsụ ya"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:29.734486761Z",
+  "model": "glm-5.3"
+}

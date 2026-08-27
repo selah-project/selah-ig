@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 45:13",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Gwa nna m ⟨את⟩ nnukwu ugwu m niile n'Mitzrayim, na ⟨את⟩ ihe niile unu hụrụ; mee ngwa ma debe nna m bata ọnụnụ.",
+  "tokens": [
+    {
+      "surface": "והגדתם",
+      "gloss": "gwa"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "nna m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnukwu ugwu m niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "nnukwu ugwu m"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "n'Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "unu hụrụ"
+    },
+    {
+      "surface": "ומהרתם",
+      "gloss": "mee ngwa"
+    },
+    {
+      "surface": "והורדתם",
+      "gloss": "debe bata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna m"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna m"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ọnụnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:01:43.990722719Z",
+  "model": "glm-5.3"
+}

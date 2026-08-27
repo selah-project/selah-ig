@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Eze ahụ nwụrụ, akpọghachi ya Shomeron, ha lekwara ⟨את⟩ eze ahụ ili na Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "nwụrụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "a kpọghachi ya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ha lekwara ili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eze ahụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "na Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-27T10:09:43.472094802Z",
+  "model": "glm-5.3"
+}

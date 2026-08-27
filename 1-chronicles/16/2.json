@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Dawid mechiri ọdia nke ọfia na-elu na ndị udo, o wee gọzie ⟨את⟩ ndị ahụ n'aha Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "mechiri"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "ọdia"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ọfia na-elu"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "na ndị udo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "o wee gọzie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "n'aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:54:40.358620283Z",
+  "model": "glm-5.3"
+}

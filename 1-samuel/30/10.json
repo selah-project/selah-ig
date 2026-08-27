@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "David wee chụkwara, ya na ndị ikom narị anọ; ndị ikom narị abụọ guzoro, ndị ṅụrụ ike na-agafe ⟨את⟩ osimiri Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "wee chụkwara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na narị anọ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "guzoro"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "narị abụọ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "ṅụrụ ike"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "na-agafe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osimiri Besor"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "osimiri"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-08-27T16:34:11.734406680Z",
+  "model": "glm-5.3"
+}

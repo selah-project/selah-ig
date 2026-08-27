@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Okwu Yahwe bụ okwu dị ọcha, dịka ọlaọcha a gbazere n'ite ala, a na-eme ka ọ dị ọcha ugboro asaa.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dịka ọlaọcha"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "a gbazere"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "n'ite"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "a na-eme ka ọ dị ọcha"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ugboro asaa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:20.491878012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 62,
+  "translation": "Naanị ⟨Ọ⟩ bụ nkume m na nzọpụta m, ebe m gabigachiri m; agaghị m ebulapụ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Naanị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ọ⟩"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "nkume m"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "na nzọpụta m"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ebe m gabigachiri m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "m ebulapụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:21.155946730Z",
+  "model": "glm-5.3"
+}

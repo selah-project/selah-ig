@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 12:13",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Eze Debir, otu; eze Geder, otu;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Geder"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:28:13.236132753Z",
+  "model": "glm-5.3"
+}

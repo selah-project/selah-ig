@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Chanok na-eje ije na ⟨את⟩ Elohim, ọ dịghịzi, n'ihi na Elohim weere ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "na-eje ije"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ọ dịghịzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "weere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (Chanok)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T05:27:34.042616406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Mkpụrụ obi m nwekwara nsogbu nke ukwuu; ma gị, Yahwe, ruo mgbe ọ bụla?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Mkpụrụ obi m nwekwara"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "nsogbu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mgbe ọ bụla"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:48.459609928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Noach tetara mmanya ya ṅụrụ, wee mata ⟨את⟩ ihe nwa ya nke ọdụ mere ya.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "tetara"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "mmanya ya ṅụrụ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "wee mata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe nwa ya nke ọdụ mere ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nke ọdụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:27:57.865165539Z",
+  "model": "glm-5.3"
+}

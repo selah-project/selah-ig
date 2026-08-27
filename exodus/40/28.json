@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "O wee tinye ⟨את⟩ mkpuchi ọnụ ụzọ nke ụlọikwu ahụ.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpuchi ọnụ ụzọ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "mkpuchi"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "nke ụlọikwu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:56.685624126Z",
+  "model": "glm-5.3"
+}

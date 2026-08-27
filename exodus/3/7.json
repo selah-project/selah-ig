@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Yahwe wee sị: N'ezie, hụ m hụrụ ⟨את⟩ mmegbu nke ndị m, ndị nọ na Mitzrayim; ⟨את⟩ mkpu ha ka m nụrụ n'ihu ndị na-emegbu ha, n'ihi na m maara ⟨את⟩ ihe mgbu ha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ọ wee sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hụ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "m hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmegbu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mmegbu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "nọ na Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mkpu ha"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "mkpu ha"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "m nụrụ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "ndị na-emegbu ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "m maara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe mgbu ha"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "ihe mgbu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:31.600485306Z",
+  "model": "glm-5.3"
+}

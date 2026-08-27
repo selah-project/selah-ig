@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ziri ezi, ziri ezi ka ị ga-agbaso, ka i nwee ike ịdị ndụ, ma ketọkwa ⟨את⟩ ⟨ala⟩ nke Yahwe Elohim gị na-enye gị.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ziri ezi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ziri ezi"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ị ga-agbaso"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "i nwee ike ịdị ndụ"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "ma ketọkwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:01:30.206244204Z",
+  "model": "glm-5.3"
+}

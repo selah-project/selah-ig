@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 43:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Yehuda zara ya: nwaanyị ahụ dọrọ aka ná ntị siri ike, na-agwa anyị: ọnụ unọ anaghị ụnụ ihu m ma ọ bụrụ na nwanne unọ nọ ⟨את⟩ unọ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "zara"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "העד",
+      "gloss": "dọrọ aka ná ntị"
+    },
+    {
+      "surface": "העד",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke ahụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-agwa anyị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ọnụ unọ ụnụ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu m"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "nwanne unọ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unọ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:59:12.376094504Z",
+  "model": "glm-5.3"
+}

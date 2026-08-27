@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Maka Israel niile ga-anụ, ga-atụkwa egwu, ha gaghịkwa agbakwunye ime ihe ọjọọ dị ka nke a n'etiti gị.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "maka ... niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ga-anụ"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "ga-atụkwa egwu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gaghịkwa"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "agbakwunye"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ime"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ihe dị ka"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "n'etiti gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:59:34.638616280Z",
+  "model": "glm-5.3"
+}

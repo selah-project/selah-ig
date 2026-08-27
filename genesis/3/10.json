@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọ wee sị: \"⟨את⟩ olu gị ka m nụrụ n'ogige ahụ, m wee tụọ egwu n'ihi na m gba ọtọ, m wee zọọ onwe m.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ọ wee sị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olu gị"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "olu gị"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "m nụrụ"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "n'ogige ahụ"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "m wee tụọ egwu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "gba ọtọ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "m wee zọọ onwe m"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:26.365332181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "na ⟨את⟩ mkpuchi nke akpụkpọ anụ ndị aturu ndị a chaasịrị ọbara ọcha, na ⟨את⟩ mkpuchi nke akpụkpọ anụ tachash, na ⟨את⟩ paroket nke ⟨mgbuchi⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mkpuchi nke akpụkpọ anụ"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "mkpuchi"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "akpụkpọ anụ"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "ndị aturu"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "ndị a chaasịrị ọbara ọcha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mkpuchi nke akpụkpọ anụ tachash"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "mkpuchi"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "akpụkpọ anụ"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "tachash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "paroket"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "paroket"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "mgbuchi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:15.020355317Z",
+  "model": "glm-5.3"
+}

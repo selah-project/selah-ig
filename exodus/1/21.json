@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ dịkwa n'ihi na ndị na-amụ nwa sọrọ ⟨את⟩ Elohim, ka o wee mee ha ụlọ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dịkwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sọrọ"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ndị na-amụ nwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "o wee mee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ụlọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:04:39.082646405Z",
+  "model": "glm-5.3"
+}

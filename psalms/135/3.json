@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 135,
+  "translation": "Tọsie Yah, n'ihi na Yahwe dị mma; dee abụ maka aha Ya, n'ihi na ọ dị ṅụsị.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "tọsie"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "dee abụ"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "maka aha Ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ọ dị ṅụsị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:54.458855727Z",
+  "model": "glm-5.3"
+}

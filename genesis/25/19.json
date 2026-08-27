@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ma ndị a bụ ọmụmụ Yitschak, nwa Avraham: Avraham mụrụ ⟨את⟩ Yitschak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ma ndị a"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ọmụmụ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-27T05:41:25.361141535Z",
+  "model": "glm-5.3"
+}

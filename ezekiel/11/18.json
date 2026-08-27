@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ha ga-abịa ebe ahụ, ma ha ga-ewepụ ⟨את⟩ ihe jọrọ njọ ya niile na ⟨את⟩ ihe ihere ya niile site na ya.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "ha ga-abịa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "ha ga-ewepụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe jọrọ njọ ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "ihe jọrọ njọ ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ihere ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "ihe ihere ya"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "site na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:05:03.383289607Z",
+  "model": "glm-5.3"
+}

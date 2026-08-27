@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 76,
+  "translation": "Site n'ọnụ nkwulu gị, Elohim nke Yaakov, ịnyịnya igwe na ịnyịnya dina n'ụra nkịtị.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "site n'ọnụ nkwulu gị"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "dina n'ụra nkịtị"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ịnyịnya igwe"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "na ịnyịnya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:34.889595067Z",
+  "model": "glm-5.3"
+}

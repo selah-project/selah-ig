@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 23:6",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "N'ụbọchị ya, a ga-azọpụta Yehudah, Yisrael ga-ebi n'enweghị egwu; nke a bụ aha nke ha ga-akpọ ya: Yahwe Ziri Ezi Anyị.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "N'ụbọchị ya"
+    },
+    {
+      "surface": "תושע",
+      "gloss": "a ga-azọpụta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ga-ebi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "n'enweghị egwu"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "bụ aha ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ha ga-akpọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדקנו",
+      "gloss": "Ziri Ezi Anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:42:52.071935440Z",
+  "model": "glm-5.3"
+}

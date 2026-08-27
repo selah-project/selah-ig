@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 65:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "Ndị na-ekwu, \"Zere onwe gị, ọ nwere ike ịbịaru m nso, n'ihi na m dị nsọ karịa gị\" — ndị a bụ anwụrụ ọkụ n'imi m, ọkụ na-ere ṅụụtụ ụbọchị niile.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "ndị na-ekwu"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ọ nwere ike ịbịaru"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "nwere ike ịbịaru nso"
+    },
+    {
+      "surface": "בי",
+      "gloss": "m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "קדשתיך",
+      "gloss": "m dị nsọ karịa gị"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "anwụrụ ọkụ"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "n'imi m"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "יקדת",
+      "gloss": "na-ere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:41:24.192376395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Mkpụrụ obi ha jọrọ nri niile, ha ruru ruo ọnụ ụzọ ọnwụ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nri"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "jọrọ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mkpụrụ obi ha"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "ha ruru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:14.244262074Z",
+  "model": "glm-5.3"
+}

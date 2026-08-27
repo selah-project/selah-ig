@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 58,
+  "translation": "Ee, n'obi ka ụ na-eme ihe na-ezighị ezi; n'ụwa ka ụ na-atụ arọ aka ike unu.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "n'obi"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ihe na-ezighị ezi"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "ka ụ na-eme"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ike ike"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "aka unu"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "ka ụ na-atụ arọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:32.554985525Z",
+  "model": "glm-5.3"
+}

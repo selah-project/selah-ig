@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ha wee jere ozi arụsị ndị ahụ, ndị Yahwe gwara, sị: 'Unu agaghị eme ⟨את⟩ okwu a.'",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ha wee jere ozi"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "arụsị ndị ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T10:24:25.715290058Z",
+  "model": "glm-5.3"
+}

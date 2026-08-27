@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Gịnị mere m ji atụ egwu n'ụbọchị ndị ọjọọ, mgbe mmehie n'ụkwụ m gbara m gburugburu?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "gịnị mere"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ji atụ egwu"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "n'ụkwụ m"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "gbara m gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:01.386474924Z",
+  "model": "glm-5.3"
+}

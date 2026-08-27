@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Satan wee zaa Yahwe ⟨את⟩ sị: O n'efu ka Iyob na-atụ ụfọ Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "zaa"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "n'efu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "na-atụ ụfọ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:50:33.822786599Z",
+  "model": "glm-5.3"
+}

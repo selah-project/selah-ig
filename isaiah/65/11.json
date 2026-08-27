@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "Ma unu bụ ndị na-ahapụ Yahwe, ndị na-echefu ⟨את⟩ ugwu nsọ m, ndị na-edozi tebụl maka Gad, na ndị na-ejupụta mmiri-atọrọ maka Meni.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ma unu"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "ndị na-ahapụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "ndị na-echefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugwu nsọ m"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "nsọ m"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "ndị na-edozi"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "maka Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tebụl"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "na ndị na-ejupụta"
+    },
+    {
+      "surface": "למני",
+      "gloss": "maka Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "mmiri-atọrọ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:11:34.472274189Z",
+  "model": "glm-5.3"
+}

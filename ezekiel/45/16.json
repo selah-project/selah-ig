@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Ndị niile nke ala ahụ ga-abụ ⟨ndị⟩ na-ewepụta n'òkè a maka onyeisi na Yisrael.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Ndị"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ala"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "n'òkè"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "maka onyeisi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T12:32:36.550708847Z",
+  "model": "glm-5.3"
+}

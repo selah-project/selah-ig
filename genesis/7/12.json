@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Mmiri ozuzo dakwasịrị n'elu ụwa ụbọchị iri anọ na abalị iri anọ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ wee dakwasị"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "mmiri ozuzo ⟨ahụ⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "iri anọ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na iri anọ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "abalị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:27:48.425405589Z",
+  "model": "glm-5.3"
+}

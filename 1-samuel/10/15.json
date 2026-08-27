@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Nwanne-nna Shaụl wee sị, 'Gwa m biko, Shemuël kwuru gịnị?'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "nwanne-nna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaụl"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "gwa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    }
+  ],
+  "timestamp": "2026-08-27T09:06:12.939199144Z",
+  "model": "glm-5.3"
+}

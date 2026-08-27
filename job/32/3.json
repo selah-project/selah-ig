@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Iwe ya gbakwara ọkụ megide ndị enyi ya atọ, n'ihi na ha enweghị ike ịchọta azịza, ma tụọ Ajọb ⟨את⟩ mmehie.",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "megide atọ"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "ndị enyi ya"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "gbakwara ọkụ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iwe ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ha chọtaghị"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "azịza"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "ha tụrụ mmehie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ajọb"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ajọb"
+    }
+  ],
+  "timestamp": "2026-08-27T14:53:39.999793632Z",
+  "model": "glm-5.3"
+}

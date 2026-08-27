@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "na ⟨את⟩ Ndịda, na ⟨את⟩ ala dị larịị — ndagwurugwu Yericho, obodo nke udala nkwụ, ruo Tsoar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ndịda"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Ndịda (Negev)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala dị larịị"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ala dị larịị"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "ndagwurugwu"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "nke udala nkwụ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-27T08:18:59.515709125Z",
+  "model": "glm-5.3"
+}

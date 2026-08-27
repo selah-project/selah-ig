@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "O na-agba égbè eluigwe Yahwe, na Elyon na-enye olu ya; mmiri nkụ na mkpụrụ ọkụ nke ọkụ.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "O na-agba égbè eluigwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "na Elyon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "olu ya"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "mmiri nkụ"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "na mkpụrụ ọkụ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nke ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:02.418751448Z",
+  "model": "glm-5.3"
+}

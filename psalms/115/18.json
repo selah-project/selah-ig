@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 115,
+  "translation": "Ma anyị ga-ekele Yah site ugbu a ruo ruo mgbe ebighị ebi. Toonu Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Ma anyị"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "ga-ekele"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "site ugbu a"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Toonu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:13.985517005Z",
+  "model": "glm-5.3"
+}

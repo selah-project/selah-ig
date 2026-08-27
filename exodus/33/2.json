@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "M ga-ezite ozi-ọma n'ihu gị, ma chụọ ⟨את⟩ Kenaani, ha-Emori, ha-Hiti, ha-Perizi, ha-Hivi na ha-Yevusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "M ga-ezite"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ozi"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "ma chụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ha-Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ha-Hiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ha-Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ha-Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ha-Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:34:52.092446019Z",
+  "model": "glm-5.3"
+}

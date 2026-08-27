@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Nwoke hụrụ amamihe n'anya na-eme ka nna ya ṅụrịọ; ma onye na-esonyere ụmụ nwanyị akwụna na-emebi akụ na ụba.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hụrụ ... n'anya"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "na-eme ka ... ṅụrịọ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ma onye na-esonyere"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "ụmụ nwanyị akwụna"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "na-emebi"
+    },
+    {
+      "surface": "הון",
+      "gloss": "akụ na ụba"
+    }
+  ],
+  "timestamp": "2026-08-27T14:31:59.159294009Z",
+  "model": "glm-5.3"
+}

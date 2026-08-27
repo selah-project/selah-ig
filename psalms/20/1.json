@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Maka onye-eduzi egwu. Abụ Ọma nke David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye-eduzi egwu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Abụ Ọma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:32.719360306Z",
+  "model": "glm-5.3"
+}

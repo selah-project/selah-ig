@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Avshalom na ndị mmadụ niile, ndị izrel, bata na Yerushalayim, ma Achitofel nọ ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "ma Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ndị niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nke ndị mmadụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ nke ọma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "izrel"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ha batara"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "ma Achitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:38:50.975015271Z",
+  "model": "glm-5.3"
+}

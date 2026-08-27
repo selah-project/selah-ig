@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ha wee kwuo na ndị mmadụ, sị: Gafee ma gbaa ⟨את⟩ ⟨obodo⟩ ahụ gburugburu, ma ndị agha ahụ gafee n'ihu Igbe Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha wee kwuo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ndị⟩ mmadụ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gafee"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "ma gbaa gburugburu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨obodo⟩ ahụ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨obodo⟩ ahụ"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "ma ndị agha ahụ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "gafee"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Igbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:30:39.738836144Z",
+  "model": "glm-5.3"
+}

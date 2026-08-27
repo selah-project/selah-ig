@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ị ghara ịkpọasapasị ⟨את⟩ nwanne gị n'obi gị; mata nke ọma ga-mata gị ⟨את⟩ onye gị dịkọrọ, ka ị ghara iburu mmehie n'ihi ya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "ịkpọasapasị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwanne gị"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "n'obi gị"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "mata nke ọma"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "ga-mata gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye gị dịkọrọ"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "onye gị dịkọrọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka ị ghara"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "iburu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "mmehie"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:17.876580741Z",
+  "model": "glm-5.3"
+}

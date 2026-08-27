@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Yahwe ga-eguzo gị dị ka ⟨ndị⟩ ya nsọ, dịka o ṅụrụ iyi nye gị, ma ọ bụrụ na ị na-echebe ⟨את⟩ iwu nke Yahwe Elohim gị, ma na-aga n'ụzọ ya.",
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "ga-eguzo gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dị ka ndị"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "o ṅụrụ iyi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nye gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ị na-echebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu nke Yahwe Elohim gị"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ma na-aga"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "n'ụzọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:12:40.370049486Z",
+  "model": "glm-5.3"
+}

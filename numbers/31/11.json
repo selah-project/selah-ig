@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ha wee were ⟨את⟩ ihe a kwakọbara niile na ⟨את⟩ ihe ha jidere niile — n'etiti mmadụ na anụmanụ.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ha wee were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe a kwakọbara niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "ihe a kwakọbara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihe ha jidere niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "ihe ha jidere"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "n'etiti mmadụ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "na n'etiti anụmanụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:42:41.097368256Z",
+  "model": "glm-5.3"
+}

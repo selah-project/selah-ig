@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Avraham wee sọ ya: chekwube onwe gị ka ị ghara iweghachi ⟨את⟩ nwa m ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sọ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "chekwube"
+    },
+    {
+      "surface": "לך",
+      "gloss": "onwe gị"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka ị ghara"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "iweghachi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:38:16.681454698Z",
+  "model": "glm-5.3"
+}

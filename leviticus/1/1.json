@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ kpọrọ ⟨ruo⟩ Moshe, Yahwe wee gwa ya site n'ụlọikuku ⟨nke⟩ nzukọ, na-ekwu,",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ọ kpọrọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ruo⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wee gwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "site n'ụlọikuku"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:43:52.548770847Z",
+  "model": "glm-5.3"
+}

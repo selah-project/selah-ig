@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma ọ bụrụ na ị jụrụ ịhapụ ha, le, m na-agba ⟨את⟩ ókèala gị niile awọ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ọ bụrụ na"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "jụrụ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ịhapụ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "na-agba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ókèala gị niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ókèala gị"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "awọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:03.641208589Z",
+  "model": "glm-5.3"
+}

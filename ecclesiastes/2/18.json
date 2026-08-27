@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "M kpọkwara m onwe m asị ⟨את⟩ mkpụrụ ndụ m niile nke m na-arụsi ọrụ n'okpuru anyanwụ, n'ihi na m ga-ahapụ ya maka nwa mmadụ nke ga-abụ mgbe m gasịrị.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "m kpọkwara asị"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m onwe m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpụrụ ndụ m niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "mkpụrụ ndụ m"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "nke m"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "na-arụsi ọrụ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "m ga-ahapụ ya"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "maka nwa mmadụ"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "nke ga-abụ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe m gasịrị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:13:15.805967357Z",
+  "model": "glm-5.3"
+}

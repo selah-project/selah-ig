@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 76,
+  "translation": "Gị ⟨bụ⟩ onye na-ṅụ ìhè, onye ike karịa ugwu ndị nke oriri.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "onye na-ṅụ ìhè"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ike karịa \/ onye ike"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "ugwu ndị"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "oriri"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:34.889181618Z",
+  "model": "glm-5.3"
+}

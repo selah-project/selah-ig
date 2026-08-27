@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "N'otu aka ahụ ka El ga-akụbisi gị ruo mgbe ebighị ebi; O ga-ewe gị, O dọrọ gị pụọ n'ụlọikwuu gị, O mịkọrọ gị mgbizi site n'ala ndị dị ndụ. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "n'otu aka ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "ga-akụbisi gị"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "ga-ewe gị"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "O dọrọ gị pụọ"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "n'ụlọikwuu gị"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "O mịkọrọ gị mgbizi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "site n'ala"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ndị dị ndụ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:56.195145595Z",
+  "model": "glm-5.3"
+}

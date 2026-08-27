@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Ọ yiri ọnọ dịka uwe ya, ọnọ banyere dịka mmiri n'ime afọ ya, na dịka mmanụ n'ọkpụkpụ ya.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "ọ yiri"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "ọnọ"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "dịka uwe ya"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ọ banyere"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "dịka mmiri"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "na dịka mmanụ"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "n'ọkpụkpụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:04.867883400Z",
+  "model": "glm-5.3"
+}

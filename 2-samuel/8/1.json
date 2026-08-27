@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "O mechara nke a, Davịd tiwere ⟨את⟩ ndị Filistịa, ma mee ka ha na-agu; Davịd we were ⟨את⟩ Metheg-Ammah n'aka ndị Filistịa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "O mechara"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "n'azụ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "tiwere"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Filistịa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Filistịa"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ma mee ka ha na-agu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "we were"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metheg-Ammah"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "Metheg-Ammah"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "nke obodo-ukwu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Filistịa"
+    }
+  ],
+  "timestamp": "2026-08-27T09:33:59.136383383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 44:11",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Lee, ndị òtù ya niile ga-ejoo mwute; ma ndị ọrụ aka, ⟨ha bụ⟩ ụmụ mmadụ; ka ha niile gbakọọ ọnụ, ka ha guzo; ha ga-atụ egwu, ha ga-ejoo mwute ọnụ.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Lee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חבריו",
+      "gloss": "ndị òtù ya"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ga-ejoo mwute"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "ma ndị ọrụ aka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ụmụ mmadụ"
+    },
+    {
+      "surface": "יתקבצו",
+      "gloss": "ka ha gbakọọ ọnụ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ka ha guzo"
+    },
+    {
+      "surface": "יפחדו",
+      "gloss": "ha ga-atụ egwu"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ha ga-ejoo mwute"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:40:48.363480621Z",
+  "model": "glm-5.3"
+}

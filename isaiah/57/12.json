@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 57,
+  "translation": "M ga-ekwupụta ezi omume gị, na ⟨את⟩ ọrụ gị; ha agaghị enye gị ọdịmma.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ga-ekwupụta"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ezi omume gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ gị"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ọrụ gị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "ha ga-enye gị ọdịmma"
+    }
+  ],
+  "timestamp": "2026-08-27T11:07:11.882701022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Nachor wee dị ndụ afọ itoolu na iri abụọ, wee mụ ⟨את⟩ Terach.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wee dị ndụ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "itoolu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na iri abụọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wee mụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:58.684539143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "imepe anya ndị isi mkpụ, iwepụta onye a na-ekedu n'ụlọ mkpọrọ, ndị nọkwasị n'ọchịchịrị n'ụlọ nkedu.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "imepe"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "anya"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "ndị isi mkpụ"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "iwepụta"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "n'ụlọ nkedu"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "onye a na-ekedu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "mkpọrọ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị nọkwasị"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "n'ọchịchịrị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:56:42.560986119Z",
+  "model": "glm-5.3"
+}

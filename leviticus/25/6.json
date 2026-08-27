@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ma ihe izu ike nke ala ahụ ga-abụ nri maka unu — maka gị, maka odibo gị nwoke na odibo gị nwaanyị, maka onye ị goro ọrụ, na maka onye bi nso gị, ndị ọbịa na-anọ na gị.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ma ọ ga-abụ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "izu ike"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka unu"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "maka nri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "maka odibo gị nwoke"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "maka odibo gị nwaanyị"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "maka onye ị goro ọrụ"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "maka onye bi nso gị"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "ndị ọbịa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:04:59.993943943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 10:3",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ndị Kerub nọkwa ọtọ n'akụkụ aka nri nke ⟨the⟩ ụlọ mgbe nwoke ahụ bataruru, ma igwe ojii wee mejupụta ⟨את⟩ ulo ikpe ahụ dị n'ime.",
+  "tokens": [
+    {
+      "surface": "והכרבים",
+      "gloss": "ndị Kerub"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nọ ọtọ"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "n'akụkụ aka nri"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nke ụlọ"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "mgbe ọ bataruru"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke ahụ"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "ma igwe ojii"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mejupụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulo ikpe ahụ dị n'ime"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ulo ikpe ahụ"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "dị n'ime"
+    }
+  ],
+  "timestamp": "2026-08-27T12:04:09.495801933Z",
+  "model": "glm-5.3"
+}

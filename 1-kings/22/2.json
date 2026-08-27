@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ọ wee bụrụ na n'afọ nke atọ, Yehoshafat eze Yehuda daara mbà nye eze Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ wee bụrụ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "na n'afọ"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "nke atọ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ọ daara mbà"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T10:10:37.020122723Z",
+  "model": "glm-5.3"
+}

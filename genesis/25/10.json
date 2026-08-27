@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "⟨ה⟩ọhịa nke Avraham zụrụ site na ⟨את⟩ ụmụ Heti; ebe ahụ ka e bara Avraham na Sarah nwunye ya.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "ọhịa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "zụrụ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Heti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heti"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "bara"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwunye ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:41:30.887433473Z",
+  "model": "glm-5.3"
+}

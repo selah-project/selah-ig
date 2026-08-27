@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 133,
+  "translation": "Abụ nke ọnwụgo, nke David. Le, otu o si mma, otu o si dị ụtọ, ịnọkọ ọnụ nke ụmumenne, ọbụnadị n'ịdị n'otu.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nke ọnwụgo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "מה",
+      "gloss": "otu o si"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ọzọkwa otu o si"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "dị ụtọ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ịnọkọ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "nke ụmumeen582nnenne"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọbụnadị"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "n'ịdị n'otu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:29.135862794Z",
+  "model": "glm-5.3"
+}

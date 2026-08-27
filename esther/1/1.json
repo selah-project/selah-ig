@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ bịara nke ndị mmadụ n'ụbọchị ndị Achashverosh — ọ bụ Achashverosh na-achị, site na Hodu ruo Kush, mpaghara ⟨ndị⟩ ruru narị na iri abụọ na asaa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ bịara nke ndị mmadụ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "n'ụbọchị ndị"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "na-achị"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "site na Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na iri abụọ"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na narị"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "mpaghara"
+    }
+  ],
+  "timestamp": "2026-08-27T15:19:51.396430692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 30:8",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ha ga-amata na m bụ Yahwe, mgbe m nyere ọkụ n'Mitzrayim, na a gbajiri ndị nyere ya aka niile.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ha ga-amata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "mgbe m nyere"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "n'Mitzrayim"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "a gbajiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ndị nyere ya aka"
+    }
+  ],
+  "timestamp": "2026-08-27T12:20:21.869325588Z",
+  "model": "glm-5.3"
+}

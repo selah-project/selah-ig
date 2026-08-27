@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Aharon na ụmụ ya ga-eri ⟨את⟩ anụ mmetụta ahụ na ⟨את⟩ achịcha nke dị n'ime nkata ahụ, n'ọnụ ụzọ ịlụọ mgbakọ.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na ụmụ ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anụ mmetụta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "anụ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "nke mmetụta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "achịcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "n'ime nkata"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ịlụọ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mgbakọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:30:46.829098966Z",
+  "model": "glm-5.3"
+}

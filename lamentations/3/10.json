@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ndu ọchụ nta ọ bụ maka m, ọdụm n'ebezina ebe zoro ezo.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "ndu"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ọchụ nta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ọdụm"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "n'ebezina ebe zoro ezo"
+    }
+  ],
+  "timestamp": "2026-08-27T15:06:51.528262073Z",
+  "model": "glm-5.3"
+}

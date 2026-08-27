@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ọ ga-efe ⟨את⟩ omere ahụ n'ihu Yahwe, ka e nwee nnabata maka unu; n'echi nke Shabbat ka onye-nchu-aja ga-efe ya.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "ga-efe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omere ahụ"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omere ahụ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "maka nnabata unu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "n'echi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "ga-efe ya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:42.457645902Z",
+  "model": "glm-5.3"
+}

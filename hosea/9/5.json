@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Gịnị ka unu ga-eme n'ụbọchị e kara aka, na n'ụbọchị oriri nke Yahwe?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Gịnị"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ka unu ga-eme"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "e kara aka"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "na n'ụbọchị"
+    },
+    {
+      "surface": "חג",
+      "gloss": "oriri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T12:43:33.233190906Z",
+  "model": "glm-5.3"
+}

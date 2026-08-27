@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "Ọ bụrụ na m kwuru na m ga-ekwu otú a, lee, m gaara ọgbọ nke ụmụ gị aka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "m kwuru"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "m ga-ekwu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "otú a"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lee"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "nke ụmụ gị"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "m gaara ... aka"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:18.948606688Z",
+  "model": "glm-5.3"
+}

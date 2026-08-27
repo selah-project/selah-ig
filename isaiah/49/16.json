@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Le, n'elu ntị aka m ka m dere gị; mgbidi gị dị n'ihu m mgbe niile.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "le"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ntị aka"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "ka m dere gị"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "mgbidi gị"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "dị n'ihu m"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    }
+  ],
+  "timestamp": "2026-08-27T11:01:32.759812524Z",
+  "model": "glm-5.3"
+}

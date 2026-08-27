@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 2:20",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ma n'akụkụ ya ga-dina agbụrụ Menashé; onyeisi ụmụ Menashé ⟨bụ⟩ Gamliel nwa Pedahsur.",
+  "tokens": [
+    {
+      "surface": "ועליו",
+      "gloss": "ma n'akụkụ ya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "agbụrụ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "na onyeisi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "maka ụmụ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashé"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedahsur"
+    }
+  ],
+  "timestamp": "2026-08-27T07:12:51.536456512Z",
+  "model": "glm-5.3"
+}

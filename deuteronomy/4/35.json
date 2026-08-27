@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Gịnị mere gị ka a gosiri ka ị mata na Yahwe ọ bụ Elohim; enweghị ọzọ ma e wezụga Ya.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "a gosiri"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ka ị mata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "ma e wezụga Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:29:24.926779103Z",
+  "model": "glm-5.3"
+}

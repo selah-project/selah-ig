@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "O wee sị ndị ya okwu: Le, ndị nke ụmụ Yisraël aghọwo ọtụtụ, ma sie ike karị anyị.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ma sie ike"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "karịa anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:45.940887371Z",
+  "model": "glm-5.3"
+}

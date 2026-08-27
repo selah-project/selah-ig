@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ụlọ nche ga-adị dịka onyinyo n'ehihie, iji zere okpomọkụ, na dịka ebe mgbaba na ebe zozo, iji zere mmiri ozuzo siri ike na mmiri ozuzo.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "Ụlọ nche"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "dịka onyinyo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "n'ehihie"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "iji zere okpomọkụ"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "na dịka ebe mgbaba"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "na ebe zozo"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "iji zere mmiri ozuzo siri ike"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "na mmiri ozuzo"
+    }
+  ],
+  "timestamp": "2026-08-27T10:33:58.756394812Z",
+  "model": "glm-5.3"
+}

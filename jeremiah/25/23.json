@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "na ⟨את⟩ Dedan, na ⟨את⟩ Tema, na ⟨את⟩ Buz, na ⟨את⟩ mmadụ niile na-ebibi ntụ́ ọnụ ntutu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mmadụ niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "ndị na-ebibi ntụ́"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "ọnụ ntutu"
+    }
+  ],
+  "timestamp": "2026-08-27T11:31:30.219688990Z",
+  "model": "glm-5.3"
+}

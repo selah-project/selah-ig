@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ọ sịrị Avraham: Chụọ ohu nwanyị a na ⟨את⟩ nwa ya, n'ihi na nwa ohu nwanyị a agaghị eketa ihe nketa ọnụ na nwa m, na Yitschak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ọ sịrị"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "chụọ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ohu nwanyị"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "eketa ihe nketa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ohu nwanyị"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ọnụ na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-27T05:36:55.180641757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ọbụna mgbe m na-aga n'ọdọ ndò-ọnwụ, agụọghị m ihe ọjọọ, n'ihi na Ị nọ na m; mkpụrụ osisi ịtụ mgbagha gị na mkpa-azụ gị, ha ka na-atụ m uche.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Ọbụna"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "אֵלֵךְ",
+      "gloss": "m na-aga"
+    },
+    {
+      "surface": "בְּגֵיא",
+      "gloss": "n'ọdọ"
+    },
+    {
+      "surface": "צַלְמָוֶת",
+      "gloss": "ndò-ọnwụ"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "agụọghị"
+    },
+    {
+      "surface": "אִירָא",
+      "gloss": "m (-atụ egwu)"
+    },
+    {
+      "surface": "רָע",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "עִמָּדִי",
+      "gloss": "nọ na m"
+    },
+    {
+      "surface": "שִׁבְטְךָ",
+      "gloss": "mkpụrụ osisi ịtụ mgbagha gị"
+    },
+    {
+      "surface": "וּמִשְׁעַנְתֶּךָ",
+      "gloss": "na mkpa-azụ gị"
+    },
+    {
+      "surface": "הֵמָּה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יְנַחֲמֻנִי",
+      "gloss": "ka na-atụ m uche"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:19.918990733Z",
+  "model": "glm-5.3"
+}

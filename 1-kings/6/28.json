@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ọ wee kee ⟨את⟩ kerub ahụ akwa ọlaedo.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ọ wee kee akwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerub ahụ"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerub ahụ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    }
+  ],
+  "timestamp": "2026-08-27T09:54:07.287974202Z",
+  "model": "glm-5.3"
+}

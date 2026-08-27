@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Achab nwa Omri mere ihe ọjọọ n’anya Yahwe karịa ndị niile bịara n’ihu ya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mere"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n’anya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "karịa ndị niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "bịara n’ihu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:04:02.868041576Z",
+  "model": "glm-5.3"
+}

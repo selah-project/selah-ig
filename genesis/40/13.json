@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 40:13",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "N'ime ụbọchị atọ Parhao ga-eweli ⟨את⟩ isi gị, ma ga-eweghachi gị n'ọnọdụ gị, ị ga-enyekwa iko Parhao n'aka ya, dịka omenala mbụ ahụ mgbe ị bụ onye na-eṅomi ya mmanya.",
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ga-eweli"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parhao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi gị"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "isi gị"
+    },
+    {
+      "surface": "והשיבך",
+      "gloss": "ma ga-eweghachi gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "כנך",
+      "gloss": "ọnọdụ gị"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ị ga-enyekwa"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "iko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parhao"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "dịka omenala"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "mbụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ị bụ"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "onye na-eṅomi ya mmanya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:55:28.067867141Z",
+  "model": "glm-5.3"
+}

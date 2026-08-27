@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "Ndị e ziri ezi ga-ahụkwa, ha ga-atụkwa egwu, ha ga-achịkwa ọchị nye ya.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ga-ahụkwa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ndị e ziri ezi"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ha ga-atụkwa egwu"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "nye ya"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ha ga-achịkwa ọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:56.195265900Z",
+  "model": "glm-5.3"
+}

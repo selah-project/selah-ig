@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Ọ kpọrọ Yochanan nwa Kareach, na ⟨את⟩ ndị isi ọgụgụ ha niile nke ⟨את⟩ nọ ya, na ndị mmadụ niile, site na obere ruo nnukwu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ọ kpọrọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kareach"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "ọgụgụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nọ",
+      "marks": "ya (Yochanan)"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na ndị... niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "site na obere"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nnukwu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:42:39.274175218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Okwu nke ọnụ ya bụ ajọ omume na aghụghọ; ọ kwụsịrị ịkpachara anya, ime ihe ọma.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "nke ọnụ ya"
+    },
+    {
+      "surface": "און",
+      "gloss": "ajọ omume"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "na aghụghọ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ọ kwụsịrị"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "ịkpachara anya"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ime ihe ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:57.852268466Z",
+  "model": "glm-5.3"
+}

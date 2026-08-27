@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Yahwe wee sị Moshe: Bata n'aka Paroh, n'ihi na m mere obi ya ibu, na ⟨את⟩ obi ndị ohu ya, ka m nwee ike itinye ⟨את⟩ akara m ndị a n'etiti ha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "mere ibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi ya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "obi ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "obi ndị ohu ya"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka m nwee ike"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "itinye"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "akara m"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "n'etiti ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:14:24.726643337Z",
+  "model": "glm-5.3"
+}

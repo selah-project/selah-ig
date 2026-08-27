@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ma ọ mụrụ nwa nke bụ onye ike ike, onye na-awụpụ ọbara, ma mee otu n'ime ụmụnna otu n'ime ihe ndị a —",
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "ma ọ mụrụ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "onye ike ike"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "onye na-awụpụ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "אח",
+      "gloss": "nwanne"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "otu n'ime"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ihe ndị a"
+    }
+  ],
+  "timestamp": "2026-08-27T12:08:33.479285594Z",
+  "model": "glm-5.3"
+}

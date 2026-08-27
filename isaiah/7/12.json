@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma Ahaz kwuru, sị: M ga-anaghị eju, m ga-anaghị anwale ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "eju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "m ga-anaghịkwa"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "anwale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T10:35:01.734275294Z",
+  "model": "glm-5.3"
+}

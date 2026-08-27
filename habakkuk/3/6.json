@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 3:6",
+  "book": "habakkuk",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "O guzoro, wee tụọ ⟨the⟩ ụwa ahụ; o leere anya, wee kụfịa mba ndị ahụ; ugwu ndị nke ruo mgbe ebighị ebi gbajiri, ugwu nta ndị nke oge ochie daara ala; ụzọ nke ruo mgbe ebighị ebi bụ nke ya.",
+  "tokens": [
+    {
+      "surface": "עמד",
+      "gloss": "o guzoro"
+    },
+    {
+      "surface": "וימדד",
+      "gloss": "wee tụọ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "o leere anya"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "wee kụfịa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "ויתפצצו",
+      "gloss": "gbajiri"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "ugwu ndị"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "שחו",
+      "gloss": "daara ala"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ugwu nta ndị"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oge ochie"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nke ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bụ nke ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:00:36.437335351Z",
+  "model": "glm-5.3"
+}

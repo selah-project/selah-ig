@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "O duziri ha n'ụzọ kwụ ọtọ, ka ha nwee ike ịga n'obodo ebe obibi.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "O duziri ha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "kwụ ọtọ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ka ha nwee ike ịga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ebe obibi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:19.759906633Z",
+  "model": "glm-5.3"
+}

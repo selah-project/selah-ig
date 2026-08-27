@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ha were ya, wee tụba ⟨את⟩ ya n'olulu ahụ; olulu ahụ dị flatịru, enweghị mmiri na ya.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ha were ya"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "wee tụba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "n'olulu ahụ"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "olulu ahụ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "dị flatịru"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T05:55:24.652365923Z",
+  "model": "glm-5.3"
+}

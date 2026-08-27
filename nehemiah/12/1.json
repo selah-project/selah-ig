@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 12:1",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ndị a bụ ndị nchuaja na ndị Levai bụ ndị rịgooro ya na Zerubbabel nwa Shealtiel na Yeshua: Serayah, Yirmeyah, Ezra.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchuaja"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ndị Levai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "rịgooro"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Shealtiel"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "Yeshua"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeyah"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    }
+  ],
+  "timestamp": "2026-08-27T15:48:13.882924320Z",
+  "model": "glm-5.3"
+}

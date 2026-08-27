@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 120,
+  "translation": "Abụ nke ịrịgo. Ruo Yahwe, n'ime nsogbu nke m, m kpọrọ oku, ma Ọ zaghịrị m.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nke ịrịgo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ruo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "n'ime nsogbu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nke m"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "m kpọrọ oku"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ma Ọ zaghịrị m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:34.046184100Z",
+  "model": "glm-5.3"
+}

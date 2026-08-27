@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 115,
+  "translation": "Ha ha na-eme ha ga-adị ka ha; onye ọ bụla ⟨nke⟩ na-atụkwasị obi n'ime ha.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "ka ha"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ha na-eme ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨nke⟩"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "na-atụkwasị obi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'ime ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:10.861451389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Maka gịnị mere na ikpere nabatara m, na ara ndị ahụ ka m na-amị?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "maka gịnị mere"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "nabatara m"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "ikpere"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na maka gịnị"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "ara ndị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "m na-amị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:50:06.731188003Z",
+  "model": "glm-5.3"
+}

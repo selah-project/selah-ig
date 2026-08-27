@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma ugbu a, dịka akwụkwọ ozi a na-abata n'aka gị nụ, ụmụ ndị nwe gị nọkwa ⟨את⟩ n'aka gị, ⟨את⟩ ịnyịnya-warawa na ⟨את⟩ ịnyịnya nọkwa n'aka gị, na obodo e wusiri ike, na ngwá agha.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ma ugbu a"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "dịka ọ na-abata"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "akwụkwọ ozi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "n'aka gị nụ"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "n'aka gị"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ndị nwe gị nụ"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "n'aka gị"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ịnyịnya-warawa"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "na ịnyịnya"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "na obodo"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "e wusiri ike"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "na ngwá agha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:18:23.376821668Z",
+  "model": "glm-5.3"
+}

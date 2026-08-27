@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Oge ịkpọ ákwá, na oge ịkwa ọchị; oge iru uju, na oke ịgba egwu.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ịkpọ ákwá"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na oge"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "ịkwa ọchị"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "iru uju"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na oge"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "ịgba egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T15:12:43.562737074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ogba aghara nke ọtụtụ mba, na-eme mkpọtụ dịka mkpọtụ nke oké osimiri! Na ịgbawa nke mba ndị, na-agbawa dịka ịgbawa nke mmiri ndị siri ike!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ọ̀!"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ọgba aghara"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "dịka mkpọtụ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "na-eme mkpọtụ"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "na ịgbawa"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "dịka ịgbawa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "na-agbawa"
+    }
+  ],
+  "timestamp": "2026-08-27T10:42:19.255841906Z",
+  "model": "glm-5.3"
+}

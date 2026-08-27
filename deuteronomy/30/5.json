@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Yahwe Elohim gị ga-ewetara gị n'⟨ala⟩ nke nna ndị gị ketara, gịkwa ga-eketa ya; Ọ ga-eme gị ọma ma gbasawanye gị karịa nna ndị gị.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "ga-ewetara gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ala⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "ketara"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "nna ndị gị"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "gị ga-eketa ya"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "ga-eme gị ọma"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "ga-agbasawanye gị"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "karịa nna ndị gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:30:41.418612625Z",
+  "model": "glm-5.3"
+}

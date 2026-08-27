@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Osisi nke Yahwe ṅụrụ okọ; osisi cedar nke Lebanon, bụ ndị ⟨o⟩ kụrụ.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "ṅụrụ okọ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "osisi nke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedar nke"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ ndị"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "kụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:44.458743685Z",
+  "model": "glm-5.3"
+}

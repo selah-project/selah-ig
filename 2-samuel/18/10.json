@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Otu nwa okoro hụrụ ya, gwara Yoav, o kwuru, Le, m hụrụ ⟨את⟩ Avshalom nwere n'elu terebinth.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwa okoro"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "Otu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o kwuru"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "m hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "nwere n'elu"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "terebinth"
+    }
+  ],
+  "timestamp": "2026-08-27T09:40:15.369909926Z",
+  "model": "glm-5.3"
+}

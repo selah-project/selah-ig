@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Shemuel mere ihe Yahwe gwara, wee bịa Bet-lehem; ndị okenye nke obodo ahụ na-atụ ụjọ n'izute ya, o wee sị: 'Udo ka m bịara.'",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mere"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe Yahwe gwara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wee bịa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "na-atụ ụjọ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "nke obodo ahụ"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "n'izute ya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Udo"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ka m bịara"
+    }
+  ],
+  "timestamp": "2026-08-27T09:12:09.980555543Z",
+  "model": "glm-5.3"
+}

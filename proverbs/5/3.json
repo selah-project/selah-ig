@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "N'ihi na mpi ọnụ nwanyị a na-amaghị na-asọ asa dịka mmiri asa, ma ime ọnụ ya dị nro karịa mmanụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "asa dịka mmiri asa"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "na-asọ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mpi ọnụ"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "nwanyị a na-amaghị"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "ma dị nro karịa"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "ime ọnụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:14:35.072311124Z",
+  "model": "glm-5.3"
+}

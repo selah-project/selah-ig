@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Ka tebụl ha nke dị n'ihu ha bụrụ ọnyà, na maka ndị udo—ọgba.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ka ọ bụrụ"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "tebụl ha"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "n'ihu ha"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "ọnyà"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "na maka ndị udo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "ọgba"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:53.233934678Z",
+  "model": "glm-5.3"
+}

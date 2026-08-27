@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ọ wee hapụ ⟨את⟩ ndụmọdụ ndị okenye ndị nyere ya, wee jụọ ⟨את⟩ ụmụ okorobịa ndị tolitere ⟨את⟩ ya, ndị na-eguzo n'ihu ya.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "ọ wee hapụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndụmọdụ ndị okenye"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ndụmọdụ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "nyere ya"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ọ wee jụọ ndụmọdụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ okorobịa"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ụmụ okorobịa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "tolitere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "na-eguzo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:59:55.190861738Z",
+  "model": "glm-5.3"
+}

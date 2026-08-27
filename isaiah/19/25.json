@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Nke Yahwe Tsevaot gọziri, na-ekwu, ka a gọzie Mitsrayim ndị m bụ, na Ashur ọrụ aka m, na Yisrael ihe nketa m.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "gọziri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ka a gọzie"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "na ọrụ aka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "na ihe nketa m"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T10:41:13.589925116Z",
+  "model": "glm-5.3"
+}

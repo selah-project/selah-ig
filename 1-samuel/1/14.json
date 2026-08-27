@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ wee sị ya, Eli: ruo mgbe ka ị ga-aga n'ihu na-aṅụ mmanya ṅụ? Wepụ ⟨את⟩ mmanya gị n'ahụ gị.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ọ wee sị"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mgbe ole"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "ị ga-aṅụ mmanya ṅụ"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Wepụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmanya gị"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "mmanya gị"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "n'ahụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:59:41.456871168Z",
+  "model": "glm-5.3"
+}

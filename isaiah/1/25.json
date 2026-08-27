@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "M ga-atụghachi aka m n'elu gị, ma m na-ekwo mkpọ gị ruo mgbe ọ dị ọcha, ma m wepụ ọla-tin gị niile.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "ma m na-atụghachi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "n'elu gị"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "ma m na-ekwo ruo ọcha"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "dịka ihe na-eme ka ọ dị ọcha"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "mkpọ gị"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "ma m na-ewepụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "ọla-tin gị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:30:37.291862406Z",
+  "model": "glm-5.3"
+}

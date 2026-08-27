@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Mgbe Yahwe Elohim gị gbachichara mba ndị ahụ, bụ ndị Yahwe Elohim gị na-enye gị ala ha, ị ga-eketa ha, ma bibie n'obodo ha na n'ụlọ ha;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "gbachicha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba ndị ahụ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba ndị ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ ndị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ha"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ala ha"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ga-eketa ha"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ma bibie"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "n'obodo ha"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "n'ụlọ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:05:02.493308383Z",
+  "model": "glm-5.3"
+}

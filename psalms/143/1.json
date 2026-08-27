@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 143,
+  "translation": "Abụ eji egwu edeere Davịd. Yahwe, nụ ekpere m, gee ntị n'ọnọdụ arịrịọ m; n'okwukwe gị zaa m, n'ịkpe ziri ezi gị.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "abụ eji egwu edeere"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nụ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ekpere m"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "gee ntị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ọnọdụ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "arịrịọ m"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "n'okwukwe gị"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "zaa m"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "n'ịkpe ziri ezi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:51.132117770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Mgbe ha guzoro, ndị a guzoro; mgbe ha buliri onwe ha elu, ndị a buliri ⟨את⟩ onwe ha elu kwa; n'ihi na muo nke ihe dị ndụ nọ n'ime ha.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "mgbe ha guzoro"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ndị a guzoro"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "mgbe ha buliri onwe ha elu"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ndị a buliri elu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "onwe ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "muo"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nke ihe dị ndụ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'ime ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:02:55.407393354Z",
+  "model": "glm-5.3"
+}

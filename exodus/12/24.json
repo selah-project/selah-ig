@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Unu ga-echebe ⟨את⟩ okwu a dịka iwu-nduzi maka gị na maka ụmụ gị, ruo ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "unu ga-echebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "dịka iwu-nduzi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "na maka ụmụ gị"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:16:45.023731496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ha bụ ndị na-ekwu okwu ruo Paroh eze Mitzrayim, iji pụta ⟨את⟩ ụmụ Yisrael site na Mitzrayim; ⟨ọ bụ⟩ Moshe na Aharon.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "ndị na-ekwu okwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "iji pụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "site na Mitzrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ọ bụ⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    }
+  ],
+  "timestamp": "2026-08-27T06:09:20.426156788Z",
+  "model": "glm-5.3"
+}

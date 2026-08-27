@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ha ga-eso Yahwe; Ọ ga-eti mkpu dịka ọdụm, n'ihi na Ọ ga-eti mkpu, ụmụ ga-atụ ọsọ site n'akụkụ ọdịda anyanwụ.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "eso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ga-aga"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "dịka ọdụm"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ga-eti mkpu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ọ"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ga-eti mkpu"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "ga-atụ ọsọ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "site n'akụkụ ọdịda anyanwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:40:42.381903475Z",
+  "model": "glm-5.3"
+}

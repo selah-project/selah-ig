@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "Ị hụrụ n'anya ihe ọjọọ karịa ihe ọma, ụgha karịa ikwu okwu ziri ezi. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ị hụrụ n'anya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "karịa ihe ọma"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "karịa ikwu okwu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ziri ezi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:56.194581792Z",
+  "model": "glm-5.3"
+}

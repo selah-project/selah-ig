@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "O wee nyekwa ⟨את⟩ nri ndị na-atọ ụtọ na ⟨את⟩ achịcha nke ọ mere n'aka Yaakov, nwa ya.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "o wee nyekwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nri ndị na-atọ ụtọ"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "nri ndị na-atọ ụtọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "achịcha"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "achịcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ọ mere"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nwa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:43:47.323758213Z",
+  "model": "glm-5.3"
+}

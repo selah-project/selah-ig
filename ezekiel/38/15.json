@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 38:15",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Ị ga-esi n'ebe gị bịa, site n'akụkụ kacha n'ebe ugwu, gị na mba ndị dị ọtụtụ ⟨את⟩ na gị, ndị niile na-agba ịnyịnya, mgbakọ ukwuu na ndị agha dị ukwuu.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "ga-esi … bịa"
+    },
+    {
+      "surface": "ממקומך",
+      "gloss": "site n'ebe gị"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "site n'akụkụ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "na mba ndị"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dị ọtụtụ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "na gị"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "ndị na-agba"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ịnyịnya"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "mgbakọ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwuu"
+    },
+    {
+      "surface": "וחיל",
+      "gloss": "na ndị agha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dị ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T12:28:23.307844838Z",
+  "model": "glm-5.3"
+}

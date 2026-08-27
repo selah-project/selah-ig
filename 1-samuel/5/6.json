@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ma aka Yahwe dị arọ n'elu ndị Ashdod, o mekwara ka ha taa ahụhụ, o tie ha mmetụta ọzịza, ⟨את⟩ Ashdod na ⟨את⟩ ókèala ya.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "dị arọ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "ndị Ashdod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "o mekwara ka ha taa ahụhụ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "o tie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "mmetụta ọzịza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ókèala ya"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ókèala ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:04:08.531110018Z",
+  "model": "glm-5.3"
+}

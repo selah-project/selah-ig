@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "N'aka gị ka oge m ndị a nọ; napụta m aka ndị iro m, na nke ndị na-achụso m.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "n'aka gị"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "oge m ndị a"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "napụta m"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "na nke ndị na-achụso m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:16.991547442Z",
+  "model": "glm-5.3"
+}

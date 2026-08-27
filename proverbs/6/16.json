@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ihe isii ka Yahwe kpọrọ asị, ma ihe asaa ka bụ ihe mkparị nke נפש ya;",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "isii"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ha (ihe ndị ahụ)"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "kpọrọ asị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ma asaa"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ihe mkparị (ndị a na-akpọ nsọpụrụ ọjọ)"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "נפש ya (mmụọ ndụ ya)"
+    }
+  ],
+  "timestamp": "2026-08-27T14:17:43.853534519Z",
+  "model": "glm-5.3"
+}

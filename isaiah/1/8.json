@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ada Zịọn a hapụrụ dị ka ụlọ nkwụsị n'ubi vaịn, dị ka ụlọ nche n'ubi ogiri, dị ka obodo a gbara gburugburu.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "ma ... a hapụrụ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ada"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zịọn"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "dị ka ụlọ nkwụsị"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "n'ubi vaịn"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "dị ka ụlọ nche"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "n'ubi ogiri"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "dị ka obodo"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "a gbara gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:31:45.191413346Z",
+  "model": "glm-5.3"
+}

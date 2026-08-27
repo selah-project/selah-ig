@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 136,
+  "translation": "O wee kụchasị Par'o na ndị agha ya na Yam Suf, maka ruo mgbe ebighị ebi bụ ịhụnanya-ọgbụgba-ndụ ya.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "O wee kụchasị"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "na ndị agha ya"
+    },
+    {
+      "surface": "בים",
+      "gloss": "na Yam"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ịhụnanya-ọgbụgba-ndụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:42.663392557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ndị isi nke ⟨ndị⟩ mmadụ: Parosh, Pachat-Moav, Elam, Zattu, Bani,",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "isi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nke ⟨ndị⟩ mmadụ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Pachat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Zattu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    }
+  ],
+  "timestamp": "2026-08-27T15:47:12.569110793Z",
+  "model": "glm-5.3"
+}

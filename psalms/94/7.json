@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 94,
+  "translation": "Ha na-asị na Yah agaghị ahụ, na Elohim nke Yaakov agaghị aghọta.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha na-asị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ọ ga-ahụ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ọ ga-aghọta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:08.362851571Z",
+  "model": "glm-5.3"
+}

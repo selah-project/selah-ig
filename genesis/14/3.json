@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ha niile ndị a jikọtara ọnụ na ⟨Ndịdọ⟩ Emek ⟨nke⟩ ha-Siddim — ọ bụ Nnukwu Mmiri Nnu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ha jikọtara ọnụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "Emek (ndịdọ)"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "ha-Siddim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Nnukwu Mmiri"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Nnu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:31:59.058966458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "Eze Tarshish na ⟨ה⟩agwaetiti ga-atụgharị ⟨את⟩ ihe ọtụtụ; eze Sheba na Sba ga-edọta ⟨את⟩ onyinye ọnụahịa.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "na agwaetiti"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ihe ọtụtụ"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "ga-atụgharị"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "na Sba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "onyinye ọnụahịa"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ga-edọta"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:18.980250725Z",
+  "model": "glm-5.3"
+}

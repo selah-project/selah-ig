@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma ugwu Izrel gbara aka n'ihu ya, ma ha alaghịghị azụ na Yahwe, Elohim ha, ma ha chọghịkwa ya n'ihe ndị a niile.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ma ọ zaghachiri"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ugwu (mpako)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ha anaghị"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "laghachi azụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ha anaghịkwa"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "chọọ ya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ihe niile"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ndị a"
+    }
+  ],
+  "timestamp": "2026-08-27T12:40:46.377402247Z",
+  "model": "glm-5.3"
+}

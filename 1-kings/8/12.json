@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "N'oge ahụ ka Shelomoh sịrị: Yahwe kwuru na Ọ ga-ebi n'ọchịchịrị ejupụtara.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "N'oge ahụ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sịrị"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ga-ebi"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "n'ọchịchịrị ejupụtara"
+    }
+  ],
+  "timestamp": "2026-08-27T09:56:55.978604327Z",
+  "model": "glm-5.3"
+}

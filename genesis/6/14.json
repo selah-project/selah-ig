@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Meepụ gị onwe ụgbọ mmiri nke osisi gofer; ọnụ ụlọ ka ị ga-eme ⟨את⟩ ụgbọ mmiri ahụ, ma tee ya ákwá siri ike n'ime ya na mèrè ya na kofer.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "meepụ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị onwe"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "ụgbọ mmiri"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ọnụ ụlọ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụgbọ mmiri ahụ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ụgbọ mmiri ahụ"
+    },
+    {
+      "surface": "ווכפרת",
+      "gloss": "ma tee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "na mèrè ya"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "na kofer"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:18.681182209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Ka anya ha gbaa ọchịchịrị ka ha ghara ịhụ, na igu ha na-ama jijiji mgbe niile.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "ka ọ gbaa ọchịchịrị"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "anya ha"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ịhụ"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "na igu ha"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "na-ama jijiji"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:53.234067237Z",
+  "model": "glm-5.3"
+}

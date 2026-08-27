@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 98,
+  "translation": "Yahwe mere ka a mata nzọpụta ya; n'anya ndị mba ọzọ ka ọ kpughere ikpe ziri ezi ya.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "mere ka a mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "nzọpụta ya"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "n'anya"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ndị mba ọzọ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ọ kpughere"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ikpe ziri ezi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:03.569782603Z",
+  "model": "glm-5.3"
+}

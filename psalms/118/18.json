@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "Yah tere m ntị nke ukwuu, ma ọ bụghị na ọ nwụghị, ọ nyeghị m aka.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "tere ntị"
+    },
+    {
+      "surface": "ייסרני",
+      "gloss": "tere m ntị nke ukwuu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "ma ọ bụghị na ọ nwụghụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ nyeghị"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "m aka"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:41.927314153Z",
+  "model": "glm-5.3"
+}

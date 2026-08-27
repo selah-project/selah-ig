@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ma ọ ga-eweta ⟨את⟩ mwute-ezi ihe ya (mkpụrụ iwepụ ya) nye Yahwe — nwa-atụrụ nke dị mma na-enweghị ntụpọ, site n'èzi ìgwè atụrụ, dịka ọnụahịa ị nyoro, dịka onyinye mwute-ezi ihe, ruo n'aka onye-nchu-aja.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mwute-ezi ihe ya"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "mwute-ezi ihe ya"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "ọ ga-eweta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "nwa-atụrụ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "dị mma na-enweghị ntụpọ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "èzi ìgwè atụrụ"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "dịka ọnụahịa ị nyoro"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "dịka onyinye mwute-ezi ihe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo na"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    }
+  ],
+  "timestamp": "2026-08-27T06:45:27.643032220Z",
+  "model": "glm-5.3"
+}

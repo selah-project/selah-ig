@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "N'ihi na Ị bụ Onye mụpụtara m si n'afọ; Ị mere ka m nwee ⟨ihe⟩ ⟨ndabere⟩ n'elu ara nne m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "mụpụtara m"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "si n'afọ"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "mere ka m nwee ⟨ihe⟩ ⟨ndabere⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nne m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:29.494998242Z",
+  "model": "glm-5.3"
+}

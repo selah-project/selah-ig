@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Nyere m nghọta, m ga-edobe ⟨את⟩ Torah gị, m ga-elebara ya anya na ⟨n'⟩obi m niile.",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "Nyere m nghọta"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "m ga-edobe"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "⟨את⟩ Torah gị"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "m ga-elebara ya anya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:42.303103605Z",
+  "model": "glm-5.3"
+}

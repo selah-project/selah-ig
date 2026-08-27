@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Dịka ajọ ifufe na-agafe, onye ọjọọ adịghịzi; mana onye eziomume ⟨is⟩ ntọala ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "dịka … na-agafe"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "ajọ ifufe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "adịghịzi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ọjọọ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "mana onye eziomume"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "ntọala"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:20:08.161699462Z",
+  "model": "glm-5.3"
+}

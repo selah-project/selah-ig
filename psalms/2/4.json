@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Onye nọdụrụ n'eluigwe na-achị ụkwara ọchị, Adonai na-akwa cha emo ha.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Onye nọdụrụ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "na-achị ụkwara ọchị"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "na-akwa cha emo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:53.486798804Z",
+  "model": "glm-5.3"
+}

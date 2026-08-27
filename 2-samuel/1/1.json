@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ bịara rue n'oge mgbe Shaul nwụsịrị, mgbe Dawid laghachiri site n'igbu ⟨את⟩ Amalek, Dawid nọkwasịrị na Tsiklag ụbọchị abụọ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ bịara rue n'oge"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nwụsịrị"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "mgbe Dawid"
+    },
+    {
+      "surface": "שב",
+      "gloss": "laghachiri"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "site n'igbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nọkwasịrị"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "na Tsiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "abụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:29:55.017700475Z",
+  "model": "glm-5.3"
+}

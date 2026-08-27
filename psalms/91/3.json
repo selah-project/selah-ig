@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "N'ihi na Ọ ga-ewe ⟨gị⟩ napụta n'ọnyà nke onye na-achụ nta, site na ọrịa na-ebute ọnwụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ọ"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "ga-ewe gị napụta"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "n'ọnyà"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "nke onye na-achụ nta"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "site na ọrịa"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "na-ebute ọnwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:53.858905365Z",
+  "model": "glm-5.3"
+}

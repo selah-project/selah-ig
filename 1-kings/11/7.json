@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 11:7",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Mgbe ahụ Shelomah wuru ebe elu-elu maka Kemosh, ihe jọrọ njọ nke Moav, n'ugwu dị n'ihu Yerushalayim, na maka Molekh, ihe jọrọ njọ nke ụmụ Amon.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "mgbe ahụ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "wuru"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ebe elu-elu"
+    },
+    {
+      "surface": "לכמוש",
+      "gloss": "maka Kemosh"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ihe jọrọ njọ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "על",
+      "gloss": "dị"
+    },
+    {
+      "surface": "פני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "na maka Molekh"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ihe jọrọ njọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    }
+  ],
+  "timestamp": "2026-08-27T09:59:44.765696929Z",
+  "model": "glm-5.3"
+}

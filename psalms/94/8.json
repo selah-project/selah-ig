@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 94,
+  "translation": "Nuele anya, ndị nzuzu n'etiti ⟨ndị⟩ omume, ndị ogbenye n'uche, mgbe ole ka unu ga-amara amamihe?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "nuele anya"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "ndị nzuzu"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "n'etiti ndị omume"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ndị ogbenye n'uche"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mgbe ole"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "unu ga-amara amamihe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:08.363009591Z",
+  "model": "glm-5.3"
+}

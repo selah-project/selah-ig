@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ndị ikom ahụ tụrụ egwu — egwu ukwuu — ⟨את⟩ Yahwe, wee chụọ àjà nye Yahwe, ma tụọ nkwa ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "wee tụrụ egwu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ndị ikom ahụ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "egwu"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ukwuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "wee chụọ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "àjà"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "ma tụọ"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "nkwa ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T17:20:20.128695522Z",
+  "model": "glm-5.3"
+}

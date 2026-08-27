@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "M ga-eme ⟨את⟩ obodo gị ka ọ ghara ihe ọ bụla, m ga-emebi ⟨את⟩ ebe nsọ gị, m ga-esighị ṅụọ ụtọ nke ihe na-atọ ụtọ nke gị.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "m ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo gị"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "obodo gị"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ka ọ ghara ihe ọ bụla"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "m ga-emebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe nsọ gị"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "ebe nsọ gị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "m ga-esighị ṅụọ ụtọ"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "ụtọ"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "ihe na-atọ ụtọ nke gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:27:25.750653997Z",
+  "model": "glm-5.3"
+}

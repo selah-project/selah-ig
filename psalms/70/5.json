@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 70,
+  "translation": "Ka ndị niile na-achọ Gị ṅụọ ọṅụ ma ṅụrị ọṅụ na Gị, ma ka ndị hụrụ nzọpụta Gị n'anya na-ekwu na mgbe niile, ka Elohim buru oke.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "ka ha ṅụọ ọṅụ"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ma ṅụrị ọṅụ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na Gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ndị na-achọ Gị"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ma ka ha na-ekwu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "na mgbe niile"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "ka ọ buru oke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ndị hụrụ ... n'anya"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "nzọpụta Gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:43.126173215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ma Moshe ga-anụsọkwu naanị ya ruo Yahwe; ma ha agaghị anụsọkwu; ma ⟨the⟩ ndị mmadụ agaghị elu ya.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ma ga-anụsọkwu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "naanị ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ma ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "anụsọkwu"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ma ⟨the⟩ ndị mmadụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "eli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T17:11:13.633070885Z",
+  "model": "glm-5.3"
+}

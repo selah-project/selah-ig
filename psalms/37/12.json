@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Onye ajọ omume na-eme atụmatụ megide onye ezi omume, ma na-ehụ aka ya megide ya.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "na-eme atụmatụ ajọ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ajọ omume"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "megide onye ezi omume"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "ọ na-ekụ aka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "megide ya"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "aka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:30.435373764Z",
+  "model": "glm-5.3"
+}

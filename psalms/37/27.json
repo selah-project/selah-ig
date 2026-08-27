@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Pụọ n'ọjọọ, mee ihe ọma, wee biko ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Pụọ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "n'ọjọọ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mee"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "wee biko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:07.000546956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Maka onye na-eduzi egwu; nke David. Onye nzọ nzọ sịrị n'obi ya, 'Ọ nweghị Elohim.' Ha mebiela, ha rụrụ arụ; ọ nweghị onye na-eme ihe ọma.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye na-eduzi egwu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sịrị"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "onye nzọ nzọ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "n'obi ya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ nweghị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ha mebiela"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "ha rụrụ arụ"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ nweghị"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "onye na-eme"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:16.283410458Z",
+  "model": "glm-5.3"
+}

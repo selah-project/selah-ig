@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 2:1",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ma ndị a bụ ụmụ ⟨nke⟩ mpaghara ahụ, ndị si n'agbụ ndị chụpụrụ n'ala ọzọ rịgooro, ndị Nevukhadnetstsar, eze Bavel, dọọrọ n'agbụ ruọ Bavel, ha wee laghachi na Yerushalayim na Yehuda, onye ọ bụla n'obodo ⟨ya⟩.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ma ndị a bụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "המדינה",
+      "gloss": "mpaghara ahụ"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "ndị rịgooro"
+    },
+    {
+      "surface": "משבי",
+      "gloss": "si n'agbụ"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ndị chụpụrụ n'ala ọzọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "dọọrọ n'agbụ"
+    },
+    {
+      "surface": "נבוכדנצור",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "ruọ Bavel"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "ha wee laghachi"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "n'obodo ⟨ya⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T15:34:26.176433554Z",
+  "model": "glm-5.3"
+}

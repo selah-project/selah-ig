@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Ọ bụrụ na anyị elela aha Elohim anyị n'echefu, ma ọ bụ na anyị mụọsịrị aka anyị maka El ọzọ;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "anyị echefuola"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "anyị mụọsịrị"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "aka anyị"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "maka El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:00.777571444Z",
+  "model": "glm-5.3"
+}

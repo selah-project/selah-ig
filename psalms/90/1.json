@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 90,
+  "translation": "Ntụala nke Moshe, nwoke nke Elohim. Adonai, ⟨⟨ebee⟩⟩ mụọnụ ịbụ ebe obibi anyị, Ọgbọ ruo n'ọgbọ.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Ntụala"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "nke Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ebe obibi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ịbụ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mụọnụ anyị"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ruo n'ọgbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:14.455111990Z",
+  "model": "glm-5.3"
+}

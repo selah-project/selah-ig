@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "See, m ga-agbapụ gaa ebe dị anya, m ga-enọ abalị n'ọzara. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "See"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ga-aga ebe dị anya"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "mgbapụ njem"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ga-enọ abalị"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:40.214207659Z",
+  "model": "glm-5.3"
+}

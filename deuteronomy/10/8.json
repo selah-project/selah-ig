@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 10:8",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "N'oge ahụ Yahwe kewapụrụ ⟨את⟩ agbụrụ nke Levi, iji buo ⟨את⟩ igbe ndekọ nke ọgbụgba-ndụ nke Yahwe, ịguzo n'ihu Yahwe iji jeere ya ozi, na ịgọzi ndị ọzọ n'Aha ya, ruo taa.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "kewapụrụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agbụrụ nke Levi"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "agbụrụ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "nke Levi"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "iji buo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igbe ndekọ nke ọgbụgba-ndụ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe ndekọ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "nke ọgbụgba-ndụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "ịguzo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "iji jeere ya ozi"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "na ịgọzi ndị ọzọ"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "n'Aha ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T07:56:11.711513920Z",
+  "model": "glm-5.3"
+}

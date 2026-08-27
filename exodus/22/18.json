@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Onye ọ bụla na-ehi ụra ya na anụmanụ — ọnwụ, a ga-egbu ya n'ọnwụ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "na-ehi ụra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "anụmanụ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a ga-egbu ya n'ọnwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:17.276994416Z",
+  "model": "glm-5.3"
+}

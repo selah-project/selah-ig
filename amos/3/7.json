@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 3:7",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'ihi na Adonai Yahwe anaghị eme ihe ọ bụla, ma ọ bụghị na ọ kpughere nzuzo ya nye ndị ohu ya, ndị amụma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "eme"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụghị na"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ọ kpughere"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "nzuzo ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ndị amụma"
+    }
+  ],
+  "timestamp": "2026-08-27T12:46:46.142508622Z",
+  "model": "glm-5.3"
+}

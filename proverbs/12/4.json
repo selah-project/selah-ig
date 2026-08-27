@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Nwunye nke ike bụ okpueze di ya, mana dịka mmebi n'ọkpụkpụ ya bụ ⟨onye⟩ na-eme ihere.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nke ike"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "okpueze"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "di ya"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "mana dịka mmebi"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "n'ọkpụkpụ ya"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "onye na-eme ihere"
+    }
+  ],
+  "timestamp": "2026-08-27T14:22:17.929087228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Chanok dịrị ndụ afọ ise na iri isii, ma mụọ ⟨את⟩ Metushelah.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dịrị ndụ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ise"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "na iri isii"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ma mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelah"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelah"
+    }
+  ],
+  "timestamp": "2026-08-27T05:27:34.042051760Z",
+  "model": "glm-5.3"
+}

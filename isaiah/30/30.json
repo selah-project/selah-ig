@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 30:30",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Yahwe ga-eme ka a nụ ⟨את⟩ ukwu nke olu ya, ma gosi mgbada nke aka ya n'iwe iwe, na ọkụ nke ọkụ na-eri, mgbasa na oké ifufe, na nkume mmiri nkụ.",
+  "tokens": [
+    {
+      "surface": "והשמיע",
+      "gloss": "ga-eme ka a nụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukwu nke olu ya"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "nke olu ya"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "na mgbada"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "nke aka ya"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ma gosi"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "n'iwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "na ọkụ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nke ọkụ"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "na-eri"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "mgbasa"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "oké ifufe"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "na nkume"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "mmiri nkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:51:35.276013359Z",
+  "model": "glm-5.3"
+}

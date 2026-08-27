@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "ha gara, ha jere ịsọpụrụ chi ndị ọzọ, ha na-efe ha ofufe, chi ndị ha maghị, ndị ⟨ọ⟩ gaghi abụ nke e kewara ha;",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ha gara"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ha jere ịsọpụrụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ndị ọzọ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ha na-efe ofufe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ha maghị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ bụghịkwa"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "e kewara"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:11:57.313752800Z",
+  "model": "glm-5.3"
+}

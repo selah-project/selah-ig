@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ndị nnupụisi ka unu bụ na-emegide Yahwe, site n'ụbọchị m matara ⟨את⟩ unu.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "ndị nnupụisi"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "unu bụ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na-emegide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "site n'ụbọchị"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "m matara"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:56:22.499883319Z",
+  "model": "glm-5.3"
+}

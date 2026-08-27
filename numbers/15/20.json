@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Nke mbụ nke unyi unụ, achịcha unụ ga-ebulite dịka onyinye-ejiri-ebuli; dịka onyinye nke ụzọ ọka a na-akụ, otu a ka unụ ga-ebuli ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "nke unyi unụ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "achịcha"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "unụ ga-ebulite"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "onyinye-ejiri-ebuli"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "dịka onyinye"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "nke ụzọ ọka a na-akụ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "unụ ga-ebuli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (achịcha ahụ)"
+    }
+  ],
+  "timestamp": "2026-08-27T07:27:37.032912514Z",
+  "model": "glm-5.3"
+}

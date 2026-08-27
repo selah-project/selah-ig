@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Mgbe ahụ, eze ahụ mere ka Shadrakh, Meyshakh na Abed-Nego nwee ọganihu na mpaghara Babilọn.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "mgbe ahụ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "mere ka ... nwee ọganihu"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meyshakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "na Abed"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "na mpaghara"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilọn"
+    }
+  ],
+  "timestamp": "2026-08-27T15:26:08.103147355Z",
+  "model": "glm-5.3"
+}

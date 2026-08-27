@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 16:6",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ọ bụrụ na m na-ekwu, mwute m anaghị agbachi; ma ọ bụrụ na m kwụsị, ihe na-esi n'ebe m na-aga?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "m na-ekwu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "agbachi"
+    },
+    {
+      "surface": "כאבי",
+      "gloss": "mwute m"
+    },
+    {
+      "surface": "ואחדלה",
+      "gloss": "ma ọ bụrụ na m kwụsị"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "מני",
+      "gloss": "si n'ebe m"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "na-aga"
+    }
+  ],
+  "timestamp": "2026-08-27T14:44:08.881417809Z",
+  "model": "glm-5.3"
+}

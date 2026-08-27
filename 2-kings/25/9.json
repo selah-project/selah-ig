@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ọkpụkpara ⟨את⟩ ụlọ Yahwe na ⟨את⟩ ụlọ eze, na ⟨את⟩ ụlọ niile nke Yerushalayim; ọ kpụkpụrara ⟨את⟩ ụlọ ọ bụla dị ukwu n'ọkụ.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "ọkpụkpara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ eze"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ ọ bụla dị ukwu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dị ukwu"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ọ kpụkpụrara"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:32:10.915398833Z",
+  "model": "glm-5.3"
+}

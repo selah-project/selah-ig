@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "N'ihi na m maara mmejọ m, mmehie m wee dị n'ihu m mgbe niile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mmejọ m"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "maara"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "mmehie m"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "n'ihu m"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:03.452943789Z",
+  "model": "glm-5.3"
+}

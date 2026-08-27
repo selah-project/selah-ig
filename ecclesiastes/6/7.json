@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Mgbalị niile nke mmadụ bụ maka ọnụ ya; ma ⟨nefesh⟩ agwụghịkwa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mgbalị"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nke mmadụ"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "maka ọnụ ya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨nefesh⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agwụghịkwa"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ejupụtaghị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:00.336961394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Yahwe bịara, guzo ogologo, wee kpọọ dịka oge ọzọ n'oge, Shemuël, Shemuël. Shemuël wee sị: Biko gwa okwu, n'ihi na ohu gị na-ege ntị.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "guzo ogologo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wee kpọọ"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "dịka oge"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "n'oge ọzọ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "biko gwa okwu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "na-ege ntị"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:02:07.918812223Z",
+  "model": "glm-5.3"
+}

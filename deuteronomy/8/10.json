@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ị ga-eri ka juo, ma gọzie ⟨את⟩ Yahwe Elohim gị maka ⟨the⟩ ala dị mma nke o nyere gị.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "ma ị rie"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ma jụọ"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "ma gọzie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ ala"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:55:54.920404014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Elijahu wee gaa iji gosipụta onwe ya n'aka Ahab; agụụ ahụ siri ike na Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ewe gaa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "iji gosipụta onwe ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "agụụ ahụ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "na Shomron"
+    }
+  ],
+  "timestamp": "2026-08-27T10:05:22.091940003Z",
+  "model": "glm-5.3"
+}

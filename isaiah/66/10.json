@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 66,
+  "translation": "Nụrụ ọṅụ maka ⟨את⟩ Yerushalayim, ṅụrụ ọṅụ na ya, unu niile na-ahụ ya n'anya; ṅụrụ ọṅụ na ⟨את⟩ ya na obi ụtọ, unu niile na-eru ákwá maka ya.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "nụrụ ọṅụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ma ṅụrụ ọṅụ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "unu niile"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "na-ahụ ya n'anya"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "nụrụ ọṅụ ọzọ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ na ya"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "obi ụtọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "unu niile"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "na-eru ákwá"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "maka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:12:24.080111794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "ha gbakọrọ ọnụ ka ha na Yehoshua na ndị Izrel agha, otu ọnụ ⟨ha niile⟩.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "ha gbakọrọ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ka ha agha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ndị Izrel"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:25:41.702069669Z",
+  "model": "glm-5.3"
+}

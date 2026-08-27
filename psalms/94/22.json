@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 94,
+  "translation": "Ma Yahwe ḿ ghọrọ ebe m si elu, na Elohim m bụ nkume m na-ezo n'ime ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ma ọ ghọrọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "ebe m si elu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Elohim m"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "m na-ezo n'ime ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:25.028993175Z",
+  "model": "glm-5.3"
+}

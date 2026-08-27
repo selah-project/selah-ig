@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ndị a bụ ụmụ Seir, onye Hori, ndị bi n'⟨ala⟩ ahụ: Lotan, Shobal, Tsibon, na Ana.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ndị a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "onye Hori"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n'⟨ala⟩ ahụ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "Shobal"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "Tsibon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "Ana"
+    }
+  ],
+  "timestamp": "2026-08-27T05:52:07.673780143Z",
+  "model": "glm-5.3"
+}

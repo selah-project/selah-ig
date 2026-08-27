@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ebee ka ndị amamihe gị nọ ugbu a? Ka ha gwa gị, biko, ka ha wee mata ihe Yahwe nke ndị agha dọtara maka Ijipt.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "ebee ka"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "ndị amamihe gị"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ka ha gwa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ka ha mata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "dọtara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ijipt"
+    }
+  ],
+  "timestamp": "2026-08-27T10:42:41.032022034Z",
+  "model": "glm-5.3"
+}

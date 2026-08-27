@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Alaeze ⟨nke⟩ ụwa, ruo abụ maka Elohim, suọ egwu Adonai. Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "alaeze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ruo abụ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "maka Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "suọ egwu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:26.527182442Z",
+  "model": "glm-5.3"
+}

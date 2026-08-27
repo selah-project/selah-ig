@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 144,
+  "translation": "Yahwe, gịnị bụ mmadụ ka Ị ma ya? nwa nke enọshị, ka Ị were ya dị mkpa?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "ka Ị ma ya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nke enọshị"
+    },
+    {
+      "surface": "וותחשבהו",
+      "gloss": "ka Ị were ya dị mkpa"
+    },
+    {
+      "surface": "",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:29.665597697Z",
+  "model": "glm-5.3"
+}

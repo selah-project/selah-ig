@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "N'elu ọdụm na agwọ olulu ka ị ga-aka nzọ; ị ga-eti nwata ọdụm na agwọ ukwu n'ala.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ọdụm"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "na agwọ olulu"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ị ga-aka nzọ"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "ị ga-eti n'ala"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "nwata ọdụm"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "na agwọ ukwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:14.502279144Z",
+  "model": "glm-5.3"
+}

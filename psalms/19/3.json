@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ụbọchị na-ṅomi ⟨את⟩ okwu maka ụbọchị, na abalị na-egosi ⟨את⟩ ihe-ọmụma maka abalị.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "maka ụbọchị"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "na-ṅomi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na abalị"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "maka abalị"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "na-egosi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ihe-ọmụma"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:11.524830831Z",
+  "model": "glm-5.3"
+}

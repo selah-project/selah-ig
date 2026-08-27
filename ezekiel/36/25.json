@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 36:25",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "M ga ṅụrịsa gị mmiri dị ọcha, gịkwa ga-adị ọcha; site na unyi niile gị na site n'arụsị gị niile ka m ga-eme ka gị dị ọcha ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "וזרקתי",
+      "gloss": "m ga ṅụrịsa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "gị"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "gịkwa ga-adị ọcha"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "site na niile"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "unyi gị"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "na site na niile"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "arụsị gị"
+    },
+    {
+      "surface": "אטהר",
+      "gloss": "m ga-eme ka dị ọcha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:25:29.114828226Z",
+  "model": "glm-5.3"
+}

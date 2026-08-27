@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "unu hụrụ ⟨את⟩ ihe arụrụ-ala ha na ⟨את⟩ arụsị ha, osisi na nkume, ọlaọcha na ọlaedo, ndị nọ ha",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "unu hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe arụrụ-ala ha"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "ihe arụrụ-ala ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "arụsị ha"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "arụsị ha"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "na nkume"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọlaọcha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na ọlaedo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "nọ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:13:15.758599541Z",
+  "model": "glm-5.3"
+}

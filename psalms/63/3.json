@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 63,
+  "translation": "Otú ahụ ka m lelere gị n'ebe dị nsọ, iji hụ ike gị na nsọpụrụ gị.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "otú ahụ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "n'ebe dị nsọ"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "ka m lelere gị"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "iji hụ"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ike gị"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "na nsọpụrụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:33.750796675Z",
+  "model": "glm-5.3"
+}

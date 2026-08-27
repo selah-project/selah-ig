@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ezigbo okwu, Yahwe, ndị eze Ashur bibiri ⟨את⟩ mba niile na ⟨את⟩ ala ha.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Ezigbo okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "bibiri"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "mba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala ha"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ala ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:39:59.936859271Z",
+  "model": "glm-5.3"
+}

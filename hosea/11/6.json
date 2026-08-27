@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Mma agha ga-adaba n'obodo ya, ga-eri mgbochi ọnụ ụzọ ya, ga-eri ha — site na atụmatụ ha.",
+  "tokens": [
+    {
+      "surface": "וְחָלָה",
+      "gloss": "ga-adaba"
+    },
+    {
+      "surface": "חֶרֶב",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "בְּעָרָיו",
+      "gloss": "n'obodo ya"
+    },
+    {
+      "surface": "וְכִלְּתָה",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "בַּדָּיו",
+      "gloss": "mgbochi ọnụ ụzọ ya"
+    },
+    {
+      "surface": "וְאָכֲלָה",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "מִמֹּעֲצֹתֵיהֶם",
+      "gloss": "site na atụmatụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:43:02.807465357Z",
+  "model": "glm-5.3"
+}

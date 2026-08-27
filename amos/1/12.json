@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 1:12",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "M ga-eziga ọkụ na Teman, ọ ga-eri obí elu nke Botzra.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "M ga-eziga"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "בתימן",
+      "gloss": "na Teman"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ọ ga-eri"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "obí elu"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "nke Botzra"
+    }
+  ],
+  "timestamp": "2026-08-27T12:44:43.625672996Z",
+  "model": "glm-5.3"
+}

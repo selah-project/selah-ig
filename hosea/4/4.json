@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ma ọ dịghị onye ga-azụ ụka, onye ọ bụla ghara ịma mmadụ ikpe; n'ihi na ndị gị dị ka ndị na-azụ ụka na onye-nchu-aja.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ga-azụ ụka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "ịma ikpe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ndị gị"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "dị ka ndị na-azụ ụka na"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "onye-nchu-aja"
+    }
+  ],
+  "timestamp": "2026-08-27T12:39:56.441104967Z",
+  "model": "glm-5.3"
+}

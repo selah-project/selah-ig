@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Obi Paroh siri ike, ọ zighịkwa ⟨את⟩ ụmụ Israel n'efu, dịka Yahwe siri kwuo site n'aka Moses.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ zighịkwa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zighịkwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "siri kwuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "site n'aka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moses"
+    }
+  ],
+  "timestamp": "2026-08-27T06:12:19.907127276Z",
+  "model": "glm-5.3"
+}

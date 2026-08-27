@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Eze zipuru, o tọhapụrụ ya; onye na-achị mba ndị, o meghere ya ụzọ mma.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "zipuru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "tọhapụrụ ya"
+    },
+    {
+      "surface": "משל",
+      "gloss": "na-achị"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "meghere ya ụzọ mma"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:09.711288628Z",
+  "model": "glm-5.3"
+}

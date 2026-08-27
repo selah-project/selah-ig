@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Eze Mitzrayim wepụrụ ya na Yerushalayim, ma kwụọ ⟨את⟩ ala ụgwọ narị talent ọlaọcha na talent ọlaedo.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "ọ wepụrụ ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "ma kwụọ ụgwọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "narị"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talent"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọlaọcha"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "na talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    }
+  ],
+  "timestamp": "2026-08-27T16:21:24.187066553Z",
+  "model": "glm-5.3"
+}

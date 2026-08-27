@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "Site na ⟨את⟩ Yahwe ka nke a bịara; ọ dị ebube n'anya anyị.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "Site na ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "dị ebube"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "n'anya anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:24.072253259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Va Shaul na-ele anya ⟨את⟩ David site n'ụbọchị ahụ gaa n'ihu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ bụ na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "site n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "gaa n'ihu"
+    }
+  ],
+  "timestamp": "2026-08-27T09:14:17.245045928Z",
+  "model": "glm-5.3"
+}

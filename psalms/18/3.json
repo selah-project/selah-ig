@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Yahwe, nkume m, na ebe mgbapụ m, na onye nzọpụta m; El m, nkume m, m na-ezobe na ya; ọta m, na mpi nke nzọpụta m, ebe dị elu m.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "nkume m"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "na ebe mgbapụ m"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "na onye nzọpụta m"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El m"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "nkume m"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "m na-ezobe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ọta m"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "na mpi"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "nke nzọpụta m"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ebe dị elu m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:13.592401079Z",
+  "model": "glm-5.3"
+}

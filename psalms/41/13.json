@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Ma m maka m, n'ihi ịdị ọcha m ka i kwadoro m, wee duru m guzo n'ihu gị ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma m maka m"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "n'ihi ịdị ọcza m"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "i kwadoro"
+    },
+    {
+      "surface": "בי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "wee duru m guzo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:23.880269932Z",
+  "model": "glm-5.3"
+}

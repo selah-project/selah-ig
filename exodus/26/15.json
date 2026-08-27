@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ma ị ga-eme ⟨את⟩ ⟨the⟩ bọọdụ ndị ahụ maka ⟨the⟩ ebe obibi ahụ — osisi shittim, na-eguzo ọtọ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ma ị ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ bọọdụ ndị ahụ"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "⟨the⟩ bọọdụ ndị ahụ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "maka ⟨the⟩ ebe obibi ahụ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "na-eguzo ọtọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:29:10.473952118Z",
+  "model": "glm-5.3"
+}

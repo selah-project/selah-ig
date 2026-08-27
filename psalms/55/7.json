@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Ma m kwuru, sị: Onye ga-enye m nku dịka nke uvo? M ga-efee pụọ, ma zuru ike.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ma m kwuru, sị"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ga-enye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "nku"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "dịka nke uvo"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "M ga-efee pụọ"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "ma zuru ike"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:40.214099928Z",
+  "model": "glm-5.3"
+}

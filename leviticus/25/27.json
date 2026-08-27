@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "wee gbakọọ ⟨את⟩ afọ nke ire ya, wee weghachi ⟨את⟩ ihe fọdụrụ nye onye ọ rere ya, wee laghachi n'ihe nketa ya.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "wee gbakọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afọ nke ire ya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "nke ire ya"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "wee weghachi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe fọdụrụ"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "ihe fọdụrụ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nye onye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "rere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "wee laghachi"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "n'ihe nketa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:07:43.834008860Z",
+  "model": "glm-5.3"
+}

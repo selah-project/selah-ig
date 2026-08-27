@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma m kwuru: Nụ olu, biko, ndị isi nke Yaakov, na ndị ọchịchị nke ụlọ Yisraël; ọ̀ bụghị na unu ka ọ dị ịmata ⟨את⟩ ikpe?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ma m kwuru"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Nụ olu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ndị isi nke"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "na ndị ọchịchị nke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ọ̀ bụghị"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na unu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ịmata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikpe"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ikpe"
+    }
+  ],
+  "timestamp": "2026-08-27T12:55:04.978522319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 81,
+  "translation": "Obere oge ka m ga-adọpụta ndị iro ha, megide ndị mkpasu ha ka m ga-atụgharị aka m.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "obere oge ka"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ndị iro ha"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "m ga-adọpụta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "megide"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ndị mkpasu ha"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ka m ga-atụgharị"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:55.699874051Z",
+  "model": "glm-5.3"
+}

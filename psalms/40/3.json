@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ọ dọkpụrụ m elu site na olulu mkpọmkpọ, site n'ụsọrọ ụrọ, wee duru ụkwụ m guzo n'elu nkume, wee guzosiri nzọụkwụ m ike.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "ọ dọkpụrụ m elu"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "site na olulu"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "mkpọmkpọ"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "site n'ụsọrọ"
+    },
+    {
+      "surface": "היון",
+      "gloss": "ụrọ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "wee duru guzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ụkwụ m"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "guzosiri ike"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "nzọụkwụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:13.734936717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ị ga-eri naanị ihe na-enweghị ụtara ọ bụla; n'ebe obibi unu niile ka unu ga-eri achịcha na-enweghị ihe ụtara.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ihe ọ bụla"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "ihe na-enweghị ụtara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ebe obibi"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "unu niile"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "achịcha na-enweghị ihe ụtara"
+    }
+  ],
+  "timestamp": "2026-08-27T06:15:46.594183893Z",
+  "model": "glm-5.3"
+}

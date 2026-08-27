@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Sha ul bilikwa wee daa ruo ọzara Zif, ya na ⟨את⟩ ya ụmụ nwoke pụrụ ichere atọ pụkụ nke Isrel, iji chọọ ⟨את⟩ Dawid na ọzara Zif.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bilikwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha ul"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wee daa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ọzara"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "pụkụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "pụrụ ichere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Isrel"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "iji chọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na ọzara"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    }
+  ],
+  "timestamp": "2026-08-27T09:23:04.793788869Z",
+  "model": "glm-5.3"
+}

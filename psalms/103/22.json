@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "Too Yahwe, ọrụ Ya niile, n'ebe ọ bụla n'ọchịchị Ya; mmụọ m, too ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Too"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ọrụ Ya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ebe ọ bụla"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ọchịchị Ya"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "too"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mmụọ m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:56.035480794Z",
+  "model": "glm-5.3"
+}

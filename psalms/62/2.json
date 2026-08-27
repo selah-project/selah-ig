@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 62,
+  "translation": "Naanị na Elohim ka mkpụrụ obi m na-anọ jiri nwayọọ; site n'aka ya ka nzọpụta m na-esi bịa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "na-anọ jiri nwayọọ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "site n'aka ya"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "nzọpụta m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:08.896760138Z",
+  "model": "glm-5.3"
+}

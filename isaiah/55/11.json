@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 55:11",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Otu a ka okwu m ga-adị, nke na-apụ n'ọnụ m: ọ gaghị alọghachi n'ebe m nọ n'efu, kama ọ ga-eme ⟨את⟩ ihe m chọrọ, ma ga-enwe ọgaranya n'ihe zitere ya.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "na-apụ"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "n'ọnụ m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "na-alọghachi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n'ebe m nọ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "n'efu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ ga-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe m chọrọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "m chọrọ"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "ga-enwe ọgaranya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "n'ihe"
+    },
+    {
+      "surface": "שלחתיו",
+      "gloss": "zitere ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:06:38.772933198Z",
+  "model": "glm-5.3"
+}

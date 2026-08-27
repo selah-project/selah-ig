@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Kush mụrụ ⟨את⟩ Nimrod; ⟨ọ⟩ bụ onye mbụ ghọrọ dibịa agha n'⟨ala⟩ ahụ.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "malitere"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ghọrọ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "dibịa agha ike"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    }
+  ],
+  "timestamp": "2026-08-27T15:50:36.175246145Z",
+  "model": "glm-5.3"
+}

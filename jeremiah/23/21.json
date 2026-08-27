@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ịdịghị m izipu ⟨את⟩ ndị amụma, ma ha gbagara; adịghị m ekwuo ha okwu, ma ha buru amụma.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "m izipu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị amụma"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "ndị amụma"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ma ha"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "gbagara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "m ekwuo"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ha okwu"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ma ha"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "buru amụma"
+    }
+  ],
+  "timestamp": "2026-08-27T11:31:52.924978010Z",
+  "model": "glm-5.3"
+}

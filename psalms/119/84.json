@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ọtụtụ ole ka ụbọchị ohu gị dị? Kedu mgbe ka ị ga-emere ndị na-eso m ikpe?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "ọtụtụ ole"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kedu mgbe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ị ga-emere"
+    },
+    {
+      "surface": "ברודפי",
+      "gloss": "ndị na-eso m"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:03:18.256005388Z",
+  "model": "glm-5.3"
+}

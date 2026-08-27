@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "mgbe ahụ, ị ga-anụ site n'eluigwe ⟨את⟩ ekpere ha na ⟨את⟩ arịrịọ ha, ma mee ikpe ha.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ị ga-anụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekpere ha"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ekpere ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arịrịọ ha"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "arịrịọ ha"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ikpe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:08:29.592274873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ị ga-ewetara ⟨את⟩ ụmụ ya, wee yie ha ⟨את⟩ uwe ogologo ana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ga-ewetara"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "wee yi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ụmụ ya"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "uwe ogologo ana"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:58.854257203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Gbatịa ịhụnanya ọgbụgba-ndụ gị (chesed) ruo ndị na-amara gị, na ikpe ziri ezi gị ruo ndị kwụ ọtọ nke obi.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "gbatịa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ịhụnanya ọgbụgba-ndụ gị (chesed)"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "ruo ndị na-amara gị"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "na ikpe ziri ezi gị"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "ruo ndị kwụ ọtọ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "nke obi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:20.410854084Z",
+  "model": "glm-5.3"
+}

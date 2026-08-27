@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọgbọ na-aga, na ọgbọ na-abịa, ma ⟨ala⟩ ụwa na-adịgide ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na ọgbọ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "na-abịa"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ma ụwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "na-adịgide"
+    }
+  ],
+  "timestamp": "2026-08-27T15:12:05.726637667Z",
+  "model": "glm-5.3"
+}

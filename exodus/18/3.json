@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Na ⟨את⟩ ụmụ nwoke abụọ ya, nke aha nke otu bụ Gershom, n'ihi na ọ sịrị, 'Onye ọbịa ka m bụ na ala mba ọzọ.'",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụmụ nwoke abụọ ya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ụmụ nwoke ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nke otu"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ọ sịrị"
+    },
+    {
+      "surface": "גר",
+      "gloss": "onye ọbịa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ka m bụ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na ala"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "mba ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:19:56.113701786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "N'ihi na Yahwe na-anụ olu ndị ogbenye, ma ⟨את⟩ ndị a tụrụ mkpọrọ ya agọnahụghị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "na-anụ olu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ndị ogbenye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị a tụrụ mkpọrọ ya"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "ndị a tụrụ mkpọrọ ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agọnahụghị"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ọgwaghị nta"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:52.699218316Z",
+  "model": "glm-5.3"
+}

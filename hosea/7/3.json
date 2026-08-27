@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "N'ajọ omume ha ha na-atọ eze ụtọ, na n'ụgha ha ha na-atọkwa ndị isi ụtọ.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "n'ajọ omume ha"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ha na-atọ ụtọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "na n'ụgha ha"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ndị isi"
+    }
+  ],
+  "timestamp": "2026-08-27T12:40:33.918979645Z",
+  "model": "glm-5.3"
+}

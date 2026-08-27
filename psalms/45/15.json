@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Na uwe ndị e ji ọtụtụ agba mee, a ga-edu ⟨ya⟩ bịa n'eze; ụmụ agbọghọ na-eso ya, ndị enyi ya nwanyị, a ga-edu ha bịa gị.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "na uwe ndị e ji ọtụtụ agba mee"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "a ga-edu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bịa n'eze"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "ụmụ agbọghọ"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "na-eso ya"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "ndị enyi ya nwanyị"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "a ga-edu ha bịa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:30.767161561Z",
+  "model": "glm-5.3"
+}

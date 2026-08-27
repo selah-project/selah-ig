@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "naanị ⟨את⟩ ọlaedo na ⟨את⟩ ọlaäfọ, ⟨את⟩ ọla kọpa, ⟨את⟩ ígwè, ⟨את⟩ tin, na ⟨את⟩ lead.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọlaedo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ọlaäfọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọla kọpa"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ọla kọpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ígwè"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ígwè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tin"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "tin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "lead"
+    }
+  ],
+  "timestamp": "2026-08-27T07:41:35.303463365Z",
+  "model": "glm-5.3"
+}

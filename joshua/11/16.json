@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Yehoshua weghaara ⟨את⟩ ala niile a: ugwu ndị ahụ, na ⟨את⟩ Negev niile, na ⟨את⟩ ala Goshen niile, na ⟨את⟩ ala dị larịị, na ⟨את⟩ Arabah, na ⟨את⟩ ugwu Israel na ala dị larịị ya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ọ weghaara"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala niile a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ugwu ndị ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Negev niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala Goshen niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala dị larịị"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "ala dị larịị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Arabah"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arabah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ugwu Israel"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "na ala dị larịị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:31:13.383986591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "iji kee ndị isi ya dịka o chere n'obi ya, ma kụziere ndị okenye ya amamihe.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "iji kee"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ndị isi ya"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "dịka o chere n'obi ya"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "ma ndị okenye ya"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "ọ kụziiri amamihe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:31.807062638Z",
+  "model": "glm-5.3"
+}

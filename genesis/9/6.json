@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Onye na-awụfu ọbara mmadụ, site n'aka mmadụ ka a ga-awụfu ọbara ya; n'ihi na n'onyunyo Elohim ka O mere ⟨את⟩ mmadụ.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Onye na-awụfu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "site n'aka mmadụ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ọbara ya"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "a ga-awụfu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "n'onyunyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "O mere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmadụ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:28:10.444599033Z",
+  "model": "glm-5.3"
+}

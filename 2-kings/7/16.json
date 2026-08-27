@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ndị mmadụ pụtara wee buso ⟨את⟩ ogige Aram ọsọ. Otu seah nke ntụ ọka dị otu shekel, seah abụọ nke ọka bọọlị dị otu shekel, dịka okwu Yahwe siri.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "wee buso ọsọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogige Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ogige"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "otu seah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ntụ ọka"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "dị otu shekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "seah abụọ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ọka bọọlị"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "dị otu shekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dịka okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T10:19:10.169207354Z",
+  "model": "glm-5.3"
+}

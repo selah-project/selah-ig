@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "David wekwara ⟨את⟩ ọta ndị ọla edo nke nọ n'aka odibo Hadadezer, wee buga ha bịa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wekwara"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọta ndị ọla edo"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ọta"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ndị ọla edo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "odibo"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "buga ha bịa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:03:25.772650657Z",
+  "model": "glm-5.3"
+}

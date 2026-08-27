@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "(Iru njem ụbọchị iri na otu site na Chorev, n'ụzọ ugwu Seir, ruo Kadesh-Barnea.)",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri na"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "site na Chorev"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-27T07:50:08.721335645Z",
+  "model": "glm-5.3"
+}

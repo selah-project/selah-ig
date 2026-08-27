@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Ụmụ ya mere ya otu a, dịka o nyere ha iwu.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mere"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "Ụmụ ya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צום",
+      "gloss": "o nyere ha iwu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:06:42.768242179Z",
+  "model": "glm-5.3"
+}

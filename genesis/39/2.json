@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Yahwe nọkwa ⟨את⟩ Yosef, ọ ghọkwara nwoke na-aga nke ọma; ọ nọkwa n'ụlọ onye nwe ya, onye Mitsri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ nọkwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ ghọkwara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "na-aga nke ọma"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ nọkwa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "onye nwe ya"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "onye Mitsri"
+    }
+  ],
+  "timestamp": "2026-08-27T05:55:28.064518063Z",
+  "model": "glm-5.3"
+}

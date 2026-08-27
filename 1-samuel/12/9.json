@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ha wee chefuo ⟨את⟩ Yahwe, Elohim ha; ọ wee re ha n'aka Sisera, onyeisi ndị agha nke Hatzor, ma n'aka ndị Filistia, ma n'aka eze Moav; ha wee lụọ ha ọgụ.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ha wee chefuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ha"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "ọ wee re"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatzor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ma n'aka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Filistia"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ma n'aka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ha wee lụọ ọgụ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:07:50.867479966Z",
+  "model": "glm-5.3"
+}

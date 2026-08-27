@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Shmuel kpebikwara ⟨את⟩ Yisrel ikpe ụbọchị ndụ ya niile.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "kpebikwara ikpe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ndụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:02:54.776222445Z",
+  "model": "glm-5.3"
+}

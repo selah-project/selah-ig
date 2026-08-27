@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "ọ gaghị apụ n'ebe nsọ, ọ gaghị emebi ⟨את⟩ ebe nsọ nke Elohim ya, n'ihi na ihe e kewapụrụ — mmanụ nke mte nke Elohim ya — dị n'elu ya; m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ebe nsọ ahụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "apụ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ gaghịkwa"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "emebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe nsọ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ebe nsọ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "nke Elohim ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ihe e kewapụrụ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "nke mte"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "nke Elohim ya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dị n'elu ya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m bụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:16.466923176Z",
+  "model": "glm-5.3"
+}

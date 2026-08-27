@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "⟨את⟩ unu naanị ka m maara n'etiti ezinụlọ niile nke ụwa; ya mere m ga-eleta unu ⟨את⟩ mmehie unu niile.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "m maara (ihe a maara)"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "m maara"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "n'etiti niile"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ezinụlọ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "nke ụwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "m ga-eleta"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmehie unu niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "mmehie unu"
+    }
+  ],
+  "timestamp": "2026-08-27T12:46:41.069316840Z",
+  "model": "glm-5.3"
+}

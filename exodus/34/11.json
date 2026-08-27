@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Chekwaa onwe gị ⟨את⟩ ihe m na-enye gị n'iwu taa; lee, m na-achụpụ n'ihu gị ⟨את⟩ ndị Amori, na ndị Kenani, na ndị Hiti, na ndị Perizi, na ndị Hivi, na ndị Yebusi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Chekwaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "onwe gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe m na-enye gị n'iwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "na-enye gị n'iwu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lee m"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "m na-achụpụ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Amori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ndị Amori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "na ndị Kenani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "na ndị Hiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "na ndị Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "na ndị Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "na ndị Yebusi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:35:59.750060784Z",
+  "model": "glm-5.3"
+}

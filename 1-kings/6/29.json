@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 6:29",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "O wee kpụọ ⟨את⟩ mgbidi niile nke ụlọ ahụ gburugburu, ihe a kpụrụ akpụ n'elu ihe a kpụrụ akpụ: kerubim, na osisi nkwụ, na ifuru ndị mepere emepe, n'ime na n'elu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mgbidi niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "mgbidi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nke ụlọ ahụ"
+    },
+    {
+      "surface": "מסב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "o kpụrụ"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ihe a kpụrụ akpụ"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "elu ihe a kpụrụ akpụ"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "ותמרת",
+      "gloss": "na osisi nkwụ"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "na ifuru ndị mepere emepe"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "ifuru"
+    },
+    {
+      "surface": "מלפנים",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "na n'aka"
+    }
+  ],
+  "timestamp": "2026-08-27T09:53:55.816125981Z",
+  "model": "glm-5.3"
+}

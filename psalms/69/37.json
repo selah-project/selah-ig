@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Ma mkpụrụ nke ndị ohu Ya ga-eketa ya; ndị hụrụ Aha Ya n'anya ga-ebe ndụ n'ime ya.",
+  "tokens": [
+    {
+      "surface": "וְזֶ֣רַע",
+      "gloss": "Ma mkpụrụ"
+    },
+    {
+      "surface": "עֲ֭בָדָיו",
+      "gloss": "nke ndị ohu Ya"
+    },
+    {
+      "surface": "יִנְחָל֑וּהָ",
+      "gloss": "ga-eketa ya"
+    },
+    {
+      "surface": "וְאֹהֲבֵ֥י",
+      "gloss": "ndị hụrụ"
+    },
+    {
+      "surface": "שְׁ֝מ֗וֹ",
+      "gloss": "Aha Ya n'anya"
+    },
+    {
+      "surface": "יִשְׁכְּנ֗וּ",
+      "gloss": "ga-ebe ndụ"
+    },
+    {
+      "surface": "בָּֽהּ",
+      "gloss": "n'ime ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:36.115972439Z",
+  "model": "glm-5.3"
+}

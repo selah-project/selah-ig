@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 11:20",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Kzezịsị: ka ha na-eso iwu m, ka ha na-echebe ⟨את⟩ ikpe ziri ezi m ma ha na-eme ha; ha ga-abụrụ m ndị, ma m ga-abụrụ ha Elohim.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ha na-eso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikpe ziri ezi m"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ikpe ziri ezi m"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ha na-echebe"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ma ha na-eme"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ha ga-abụrụ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ga-abụrụ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T12:05:03.383641676Z",
+  "model": "glm-5.3"
+}

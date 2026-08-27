@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Na ⟨את⟩ Ain na ⟨את⟩ ahịa-ọzara ya, na ⟨את⟩ Yutta na ⟨את⟩ ahịa-ọzara ya, ⟨את⟩ Bet-Shemesh na ⟨את⟩ ahịa-ọzara ya; obodo itoolu site n'aka ⟨את⟩ ụmụ abụọ nke ndị ebo ndị a.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ain"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yutta"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "Yutta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "itoolu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "site n'aka ⟨את⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ụmụ abụọ"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "nke ndị ebo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:33.845343412Z",
+  "model": "glm-5.3"
+}

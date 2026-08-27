@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "M ga-etinyekwa aka m n'elu Yehuda na ndị niile na-anọrọ na Yerushalayim; m ga-ebikwa ⟨את⟩ ihe fọdụrụ nke Baal site n'ebe a, ⟨את⟩ aha ndị kemarim tinyere ndị nchuaja.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "M ga-etinyekwa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "na-anọrọ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "m ga-ebikwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe fọdụrụ nke Baal"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ihe fọdụrụ"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "nke Baal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ndị kemarim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "ndị kemarim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tinyere"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchuaja"
+    }
+  ],
+  "timestamp": "2026-08-27T13:02:12.354197219Z",
+  "model": "glm-5.3"
+}

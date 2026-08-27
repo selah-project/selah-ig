@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Egbula mmụọ n'ihu ya;  gaa; ejikọla onwe gị n'okwu ọjọọ, n'ihi na ihe niile ọ chọrọ ka ọ na-eme.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "egbula"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "mmụọ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ejikọla"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "onwe gị"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "n'okwu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ọ chọrọ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ọ na-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T16:52:26.653136916Z",
+  "model": "glm-5.3"
+}

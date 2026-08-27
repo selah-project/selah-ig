@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 48:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Dịka anyị nụrụ, otu a ka anyị hụrụ n'obodo Yahwe nke ndị agha, n'obodo Elohim anyị: Elohim ga-edozi ya ruo mgbe ebighị ebi. Selah.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "anyị nụrụ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "anyị hụrụ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ga-edozi ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:35.774853801Z",
+  "model": "glm-5.3"
+}

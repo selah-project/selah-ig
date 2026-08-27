@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ọ dịghị mma ka onye nzuzu nwee okomoko; otu a ka ọ ka njọ ka ohu chị ndị isi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "mma"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ka onye nzuzu"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "nwee okomoko"
+    },
+    {
+      "surface": "אף",
+      "gloss": "otu a ka ọ ka njọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ka ohu"
+    },
+    {
+      "surface": "משל",
+      "gloss": "chị"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ndị isi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:25:33.628795970Z",
+  "model": "glm-5.3"
+}

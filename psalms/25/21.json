@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Mmezu-ọma na izuziri-ezi ⟨ha⟩ na-echebe m, n'ihi na m na-eche gị anya.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "mmezu-ọma"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "na izuziri-ezi"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "na-echebe m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "m na-eche gị anya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:39.598059282Z",
+  "model": "glm-5.3"
+}

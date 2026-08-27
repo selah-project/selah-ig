@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ndị a bụ ụmụ nna ⟨nke⟩ Etam: Yizreel, Yishma na Yidbash; aha nwanne ha nwaanyị bụ Hatselelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ma ndị a"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna ⟨nke⟩"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "na Yishma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "na Yidbash"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "nwanne ha nwaanyị"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Hatselelponi"
+    }
+  ],
+  "timestamp": "2026-08-27T15:54:31.411188416Z",
+  "model": "glm-5.3"
+}

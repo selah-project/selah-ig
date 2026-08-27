@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "N'ihi na gị, Yahwe, ka ⟨bụ⟩ mgbaba m; Elyon ka ị mere ebe obibi gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mgbaba m"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ị mere"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "ebe obibi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:01.971363231Z",
+  "model": "glm-5.3"
+}

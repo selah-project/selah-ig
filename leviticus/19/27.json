@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Unu agaghị na-ebipụ akụkụ isi gị, unu erughịkwa na-emebi ⟨את⟩ akụkụ agbà gị.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "unu ga-ebipụ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "akụkụ"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "isi gị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ dịghị"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "unu ga-emebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akụkụ agbà gị"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "akụkụ"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "agbà gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:00:33.099153437Z",
+  "model": "glm-5.3"
+}

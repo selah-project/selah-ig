@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 56,
+  "translation": "N'elu m, Elohim, ka nkwa gị nọ; m ga-akwụ ekele nye gị.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nkwa gị"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ga-akwụ"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "ekele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:06.592470370Z",
+  "model": "glm-5.3"
+}

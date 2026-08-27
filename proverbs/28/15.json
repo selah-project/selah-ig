@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Odum na-akwa ọnụ, na osisi na-achụ nta — onye ọjọọ na-achị ⟨ndị⟩ ogbenye ⟨dị ka⟩ ndị a.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "odum"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "na-akwa ọnụ"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "na osisi"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "na-achụ nta"
+    },
+    {
+      "surface": "משל",
+      "gloss": "na-achị"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ọjọọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨dị ka⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ogbenye"
+    }
+  ],
+  "timestamp": "2026-08-27T14:32:05.070147571Z",
+  "model": "glm-5.3"
+}

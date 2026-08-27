@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Eze bịara, ya na Haman, ịṅụ mmanya-ọṅụ ya na Ester eze nwanyị.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ya na Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ịṅụ mmanya-ọṅụ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "eze nwanyị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:22:33.606075709Z",
+  "model": "glm-5.3"
+}

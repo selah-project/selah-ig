@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Elasah mụrụ ⟨את⟩ Sismai, Sismai mụrụ ⟨את⟩ Shallum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Elasah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismai"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismai"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "Sismai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-08-27T15:50:44.796058590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Onye aka rụrụ arụ na-ada mbà n'ihe ọ na-eme, mana aka nke ndị na-agba ụsọ na-eme ka mmadụ baa ọgaranya.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "na-ada mbà n'ihe ọ na-eme"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "כף",
+      "gloss": "aka"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "rụrụ arụ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "mana aka"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "nke ndị na-agba ụsọ"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "na-eme ka ... baa ọgaranya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:20:10.237143852Z",
+  "model": "glm-5.3"
+}

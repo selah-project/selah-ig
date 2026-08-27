@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "mmịnya, na mgbada, na yachmur, na akko, na dishon, na te'o, na zamere",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "mmịnya (anụ ọhụrụ nwere mpi)"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "na mgbada"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "na yachmur"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "na akko"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "na dishon"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "na te'o"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "na zamere"
+    }
+  ],
+  "timestamp": "2026-08-27T08:00:19.907410134Z",
+  "model": "glm-5.3"
+}

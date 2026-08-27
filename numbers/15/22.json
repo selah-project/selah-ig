@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 15:22",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ma ọ bụrụ na unu ghara ụzọ ma na-emebighị ⟨את⟩ iwu niile ndị a, bụ́ nke Yahwe gwara Moshe,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "תשגו",
+      "gloss": "unu ghara ụzọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma na-...-bụghị"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "unu na-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu niile ndị a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ́ nke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:29:38.787156023Z",
+  "model": "glm-5.3"
+}

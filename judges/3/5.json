@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ndị Yisrael biri n'etiti ⟨ndị⟩ Kenaan, ⟨ndị⟩ Hiti, ⟨ndị⟩ Emori, ⟨ndị⟩ Perizi, ⟨ndị⟩ Hivi na ⟨ndị⟩ Yebusi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ma ndị"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "biri"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "⟨ndị⟩ Kenaan"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "⟨ndị⟩ Hiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "⟨ndị⟩ Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "⟨ndị⟩ Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "⟨ndị⟩ Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "na ⟨ndị⟩ Yebusi"
+    }
+  ],
+  "timestamp": "2026-08-27T08:40:37.207035316Z",
+  "model": "glm-5.3"
+}

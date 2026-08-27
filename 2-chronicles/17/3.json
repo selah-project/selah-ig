@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Yahwe nọkwa na Yeḥoshafat, n'ihi na ọ na-aga n'ụzọ ndị mbụ nke Dawid nna ya, o chọghịkwa ndị Baal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ nọkwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yeḥoshafat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ọ na-aga"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ndị mbụ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o chọghịkwa"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "chọghị"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ndị Baal"
+    }
+  ],
+  "timestamp": "2026-08-27T16:12:31.131025760Z",
+  "model": "glm-5.3"
+}

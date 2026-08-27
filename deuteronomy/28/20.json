@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Yahwe ga-ezitere gị ⟨את⟩ nkọcha, ⟨את⟩ mgbagwoju anya, na ⟨את⟩ ụta n'ihe niile nke aka gị na-edo n'ime, ruo mgbe a ga-ebibi gị, ruo mgbe ị ga-efu ngwa ngwa, n'ihi ihe ọjọọ nke ọrụ gị bụ ndị gị hapụrụ m.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ga-ezitere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkọcha"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "nkọcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgbagwoju anya"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "mgbagwoju anya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụta"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "ụta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ihe niile"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ndozi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ị na-eme"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "a ga-ebibi gị"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na ruo mgbe"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "ị ga-efu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ngwa ngwa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ihe ọjọọ nke"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "ọrụ gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "gị hapụrụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T08:15:05.117125531Z",
+  "model": "glm-5.3"
+}

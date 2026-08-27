@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Bịa, ka anyị laghachi na Yahwe, n'ihi na Ọ kụdara anyị, Ọ ga-agwọ anyị; Ọ kụrụ anyị, Ọ ga-aji anyị.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Bịa"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ka anyị laghachi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ọ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "kụdara anyị"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "Ọ ga-agwọ anyị"
+    },
+    {
+      "surface": "יך",
+      "gloss": "Ọ kụrụ"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "Ọ ga-aji anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:39:42.959306192Z",
+  "model": "glm-5.3"
+}

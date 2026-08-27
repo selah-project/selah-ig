@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Mgbe ọ na-ehi ụra, ị ga-mara ⟨את⟩ ebe ọ ga-ehi ụra n'ebe ahụ, ị ga-abịakwa, mepee ụkwụ ya, dakwa ná; mgbe ahụ, ọ ga-agwa gị ⟨את⟩ ihe ị ga-eme.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mgbe ahụ"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "mgbe ọ na-ehi ụra"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ị ga-mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ọ ga-ehi ụra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ị ga-abịakwa"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "mepee"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "ụkwụ ya"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "dakwa ná"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mgbe ahụ, ọ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ga-agwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ị ga-eme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "ị ga-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T15:04:55.599826668Z",
+  "model": "glm-5.3"
+}

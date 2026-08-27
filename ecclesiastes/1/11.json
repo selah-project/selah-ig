@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Enweghị ncheta maka ndị mbụ; ma mmadụ maka ndị ga-abịa n'ọdịnihu agaghị enwe ncheta ha, nye ndị ga-abịa n'ikpeazụ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Enweghị"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ncheta"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "maka ndị mbụ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ma mmadụ"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "maka ndị ga-abịa n'ọdịnihu"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "⟨ga-abịa⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "enwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ncheta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nye"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ndị ga-abịa"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "n'ikpeazụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:11:45.573114949Z",
+  "model": "glm-5.3"
+}

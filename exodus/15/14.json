@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ndị mba nụrụ, ha na-atụ ọjọ; mgbu-amụ ghọgburu ndị bi na Peleshet.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndị mba"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "ha na-atụ ọjọ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mgbu-amụ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ghọgburu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị bi na"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    }
+  ],
+  "timestamp": "2026-08-27T06:16:14.159311307Z",
+  "model": "glm-5.3"
+}

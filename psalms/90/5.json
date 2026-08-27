@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 90,
+  "translation": "Ị gbadaworo ha dị ka idei mmiri; ha dị ka onye na-ehi ụra; n'ụtụtụ ha na-eto dịka ahịhịa ⟨na-agafe ngwa ngwa⟩.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Ị gbadaworo ha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ehi ụra"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ha dị ka"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "dịka ahịhịa"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "na-agafe ngwa ngwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:40.900671671Z",
+  "model": "glm-5.3"
+}

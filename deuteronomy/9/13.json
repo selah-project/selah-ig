@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma Yahwe siri m ka m kwuo: \"Ahụla m ⟨את⟩ ndị a, ​na le, ndị siri ike n'olu-azụ ka ha bụ.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ma ... siri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka m kwuo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ahụla m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "n'olu-azụ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ka ha bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:58:23.058575619Z",
+  "model": "glm-5.3"
+}

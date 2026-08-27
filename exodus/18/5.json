@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 18:5",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Yitro, nna-ukwu nke Moshe, bịara, ọnụ ya na ụmụ ya na nwunye ya, gakwuru Moshe, gaa n'ọzara ebe ⟨ọ⟩ na-eyi uwe mgbe ahụ — ugwu nke Elohim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "nna-ukwu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "nke Moshe"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ya na ụmụ ya"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "na nwunye ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gakwuru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "na-eyi uwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "nke Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:05.488366642Z",
+  "model": "glm-5.3"
+}

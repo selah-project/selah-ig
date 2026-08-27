@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 146,
+  "translation": "Yahwe ga-achị ruo mgbe ebighị ebi, Elohim gị, Zion, ruo ọgbọ na ọgbọ. Toonu Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "ga-achị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ruo ọgbọ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na ọgbọ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Toonu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:33.558793749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Ahịhịa a mịrị amị, ọ gaghị emebi ya; obi ọkụ na-ese uzuzu, ọ gaghị agbacha ya; dịka eziokwu si dị, ọ ga-ewepụta ikpe ziri ezi.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "ahịhịa"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "a mịrị amị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "emebi"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "ọ gaghịkwa"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "na-ese uzuzu \/ na-ehulata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "agbacha"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "dịka eziokwu si dị"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ọ ga-ewepụta"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:59:19.650724113Z",
+  "model": "glm-5.3"
+}

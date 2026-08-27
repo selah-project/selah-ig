@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Sị Hokma, 'Nwanne m nwanyị gị ⟨את⟩'; ma dịka onye ikwu gị, kpọọ Bina.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Sị"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "Hokma"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Nwanne m nwanyị"
+    },
+    {
+      "surface": "את",
+      "gloss": "gị ⟨את⟩",
+      "marks": "Nwanne m nwanyị"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ma dịka onye ikwu"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "Bina"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "kpọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:19:42.881324881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Nke m bụ ọla ọcha, ma nke m bụ ọla edo — nkwu Yahwe nke ndị agha.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "nke m"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ọla ọcha"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ma nke m"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:00:31.244442654Z",
+  "model": "glm-5.3"
+}

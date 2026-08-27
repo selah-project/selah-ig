@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Gwa Zerubbabel, onyeisi nke Yehudha, ka ọ gu, sị: M m na-ama ⟨את⟩ eluigwe na ⟨את⟩ ụwa mkpọtụ;",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Gwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rụọ"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ọ gu, sị"
+    },
+    {
+      "surface": "אני",
+      "gloss": "M"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "na-ama mkpọtụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eluigwe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:01:19.993833995Z",
+  "model": "glm-5.3"
+}

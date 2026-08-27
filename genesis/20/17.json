@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ma Avraham rịọrọ Elohim ekpere, ma Elohim gwọrọ ⟨את⟩ Avimelek na ⟨את⟩ nwunye ya na odibo-ndị ya nwanyị, ha wee mụọ ụmụ.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "rịọrọ ekpere"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "gwọrọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwunye ya"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwunye ya"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "odibo-ndị ya nwanyị"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ha wee mụọ ụmụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:36:20.950210576Z",
+  "model": "glm-5.3"
+}

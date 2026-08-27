@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "Maka lee, ndị iro gị na-ama ụda mkpọ, ma ndị kpọrọ gị asị welitere isi elu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lee"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ndị iro gị"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "na-ama ụda mkpọ"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "ma ndị kpọrọ gị asị"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "welitere elu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:29.463311934Z",
+  "model": "glm-5.3"
+}

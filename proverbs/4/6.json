@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ahapụla ya, ma ọ ga-echebe gị; hụrụ ya n'anya, ma ọ ga-eleda gị anya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "hapụ ya"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "ma ọ ga-echebe gị"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "hụrụ ya n'anya"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "ma ọ ga-eleda gị anya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:13:32.021596891Z",
+  "model": "glm-5.3"
+}

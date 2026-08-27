@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Tinye ajọ omume n'elu ajọ omume ha, ekwela ka ha banye n'ịzianzi gị.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Tinye"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ajọ omume"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ajọ omume ha"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ka ha banye"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "n'ịzianzi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:35.704958371Z",
+  "model": "glm-5.3"
+}

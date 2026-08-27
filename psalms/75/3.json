@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 75,
+  "translation": "Mgbe m na-ewere oge akara aka, m onwe m ga-ekpe ikpe ziri ezi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "m na-ewere"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "oge akara aka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m onwe m"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ziri ezi"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ga-ekpe ikpe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:44.838759634Z",
+  "model": "glm-5.3"
+}

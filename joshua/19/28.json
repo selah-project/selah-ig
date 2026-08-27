@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "na Evron, na Rechov, na Chamon, na Kanah, ruo Tzidon Rabbah.",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "na Evron"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "na Rechov"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "na Chamon"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "na Kanah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tzidon"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "Rabbah (ukwu)"
+    }
+  ],
+  "timestamp": "2026-08-27T08:34:39.225461921Z",
+  "model": "glm-5.3"
+}

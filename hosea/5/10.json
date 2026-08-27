@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ndị isi ndị Yehuda bụ̀ dịka ndị na-akpụga ala-akara; m ga-amịpụta iwe m n'elu ha dịka mmiri.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "bụ̀"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Ndị isi ndị"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "dịka ndị na-akpụga"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ala-akara"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "n'elu ha"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "m ga-amịpụta"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "dịka mmiri"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "iwe m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:44:50.124127783Z",
+  "model": "glm-5.3"
+}

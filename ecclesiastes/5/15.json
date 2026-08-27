@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Nke a bụkwa njọ na-eru mmụọ: dịka ọ bịara, otu a ka ọ ga-aga; ma uru ole ka ọ nwere — na ọ na-arụsi ọrụ maka ikuku?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "bụkwa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "njọ"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "na-eru mmụọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ọ bịara"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ọ ga-aga"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ma ole ka"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "uru"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ọ nwere"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "na ọ na-arụsi ọrụ"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "maka ikuku"
+    }
+  ],
+  "timestamp": "2026-08-27T15:15:25.008073217Z",
+  "model": "glm-5.3"
+}

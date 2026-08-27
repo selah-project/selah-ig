@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "M ga-ere ⟨את⟩ ụmụ nwoke unu na ⟨את⟩ ụmụ nwanyị unu n'aka ụmụ Yehuda, ha ga-erekwa ha n'aka ndị Sheva, bụ mba dị anya; n'ihi na Yahwe ekwuola.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "m ga-ere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ nwoke unu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ụmụ nwoke unu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ nwanyị unu"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "ụmụ nwanyị unu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "ha ga-erekwa ha"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "n'aka ndị Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mba"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "dị anya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ekwuola"
+    }
+  ],
+  "timestamp": "2026-08-27T12:44:53.800681846Z",
+  "model": "glm-5.3"
+}

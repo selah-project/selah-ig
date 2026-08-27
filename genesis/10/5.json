@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Site n'aka ndị a, àgwàetiti ndị mba kewapụrụ n'ala ha, onye ọ bụla dịka asụsụ ya, dịka ezinụlọ ha, n'ime mba ha.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Site n'aka ndị a"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "kewapụrụ"
+    },
+    {
+      "surface": "איי",
+      "gloss": "àgwàetiti ndị"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "n'ala ha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "dịka asụsụ ya"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dịka ezinụlọ ha"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "n'ime mba ha"
+    }
+  ],
+  "timestamp": "2026-08-27T05:28:48.018468569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "O nyere ha mkpụrụ-mmiri ozuzo dịka nkụ mmanụ, ọkụ na-ere n'ala ha.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "O nyere"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "mkpụrụ-mmiri ozuzo ha"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "nkụ mmanụ (mmaji) igwe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "na-ere (ọkụ na-agbasa)"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "n'ala ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:53.638539642Z",
+  "model": "glm-5.3"
+}

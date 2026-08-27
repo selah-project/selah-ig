@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ma ị ga-etinye n'ebe ahụ ⟨את⟩ igbe nke ihe ndekọ, ma ị ga-ekpuchi igbe ahụ ⟨את⟩ ákwà mpụga.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ma ị ga-etinye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igbe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "nke ihe ndekọ"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "ma ị ga-ekpuchi"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "igbe ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ákwà mpụga"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "ákwà mpụga"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:48.357444655Z",
+  "model": "glm-5.3"
+}

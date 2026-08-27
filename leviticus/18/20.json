@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ma nye nwunye onye jikọọ gị ị ga-anaghị enye mkpakọ gị ka ọ bụrụ mkpụrụ, iji kpuru ya n'ime ya.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ma nye"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "onye jikọọ gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ị ga-anaghị enye"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "mkpakọ gị"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ka ọ bụrụ mkpụrụ"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "iji kpuru"
+    },
+    {
+      "surface": "בה",
+      "gloss": "n'ime ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:56:57.292723691Z",
+  "model": "glm-5.3"
+}

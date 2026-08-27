@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Otu talent ọla edo dị ọcha ka o ji mee ⟨את⟩ ya, na ⟨את⟩ ngwá ya niile.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ka o ji mee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (ọnụmmanụ ọkụ ahụ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngwá ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ngwá ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:38:40.543103288Z",
+  "model": "glm-5.3"
+}

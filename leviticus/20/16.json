@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Và nwanyị nke ga-abịaru nso ná anụ ụlọ ọ bụla iji hie ná ya — ⟨את⟩ nwanyị ahụ na ⟨את⟩ anụ ụlọ ahụ ka ị ga-egbu; ọnwụ ka a ga-egbu ha; ọbara ha dịkwa ná ha.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "nwanyị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ga-abịaru nso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ná"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "anụ ụlọ"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "iji hie ná ya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (anụ ụlọ)"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "ị ga-egbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwanyị ahụ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nwanyị ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ụlọ ahụ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "anụ ụlọ ahụ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "a ga-egbu ha"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ọbara ha"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ná ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:03:16.871258568Z",
+  "model": "glm-5.3"
+}

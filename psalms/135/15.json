@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 135,
+  "translation": "Ihe ndị e kere arọ nke mba ndị ahụ ⟨bụ⟩ ọla ọcha na ọlaedo, ọrụ aka ụmụ mmadụ.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "ihe ndị e kere arọ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nke mba ndị ahụ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọla ọcha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na ọlaedo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ụmụ mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:44.928232361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 21:9",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Yehoram gafere ya na ndị isi ya, na ụgbọ-ndị-agha niile dịkwa ya; ọ bụ n'abalị ka o bilite, wee tie ⟨את⟩ Edom, ndị gbara ya gburugburu, na ⟨את⟩ ndị isi ụgbọ-ndị-agha.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "gafere"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ndị isi ya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na … niile"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ụgbọ-ndị-agha"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dịkwa ya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "קם",
+      "gloss": "bilite"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "n'abalị"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "tie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "ndị gbara ya gburugburu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndị isi ụgbọ-ndị-agha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ụgbọ-ndị-agha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:14:40.383892263Z",
+  "model": "glm-5.3"
+}

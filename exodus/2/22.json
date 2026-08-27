@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "O wee mụọ nwa nwoke, o kpọkwara aha ya ⟨את⟩ Gershom, n'ihi na o kwuru, sị: Onye ọbịa m bụ n'ala mba ọzọ.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "o wee mụọ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o kpọkwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o kwuru, sị"
+    },
+    {
+      "surface": "גר",
+      "gloss": "onye ọbịa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "m bụ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "mba ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:06:50.828784975Z",
+  "model": "glm-5.3"
+}

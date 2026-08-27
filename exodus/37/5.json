@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "O tinyere ⟨את⟩ mkpọma ahụ n'ime mgbaaka ndị dị n'akụkụ Ark ahụ, iji buo ⟨את⟩ Ark ahụ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "o tinyere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpọma ahụ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mkpọma ahụ"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "n'ime mgbaaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "akụkụ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Ark ahụ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "iji buo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ark ahụ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Ark ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:39:40.341241190Z",
+  "model": "glm-5.3"
+}

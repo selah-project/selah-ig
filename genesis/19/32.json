@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Bịa, ka anyị mee ka nna anyị ṅụrie mmanya vaịn, anyị wee dinaa ya, ka anyị wee kpọsaa mkpụrụ site n'aka nna anyị.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "bịa"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "ka anyị mee ka ọ ṅụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna anyị"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "nna anyị"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mmanya vaịn"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "anyị wee dinaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "ka anyị wee dịgide"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "site n'aka nna anyị"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkpụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:33:06.804114017Z",
+  "model": "glm-5.3"
+}

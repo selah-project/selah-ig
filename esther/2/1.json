@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Mgbe ihe ndị a gasịrị, mgbe iwe nke eze Achashverosh dịjụrụ laa, ọ chetara ⟨את⟩ Vashti, na ⟨את⟩ ihe ọ mere, na ⟨את⟩ ihe e kpebiri n'elu ya.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "mgbe...gasịrị"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ihe ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "mgbe...dịjụrụ laa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nze"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ọ chetara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihe ọ mere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ọ mere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihe e kpebiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "e kpebiri"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "n'elu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:20:06.423446869Z",
+  "model": "glm-5.3"
+}

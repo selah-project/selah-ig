@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ruo mgbe ị ga-anọgide na-ekwu okwu ndị a, okwu nke ọnụ gị bụ́ ife siri ike?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אן",
+      "gloss": "mgbe ole"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "na-ekwu okwu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ife"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "nke ọnụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:38:44.284478951Z",
+  "model": "glm-5.3"
+}

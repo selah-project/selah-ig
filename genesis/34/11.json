@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 34:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Shekem wee sị nna ya na ụmụnne ya ka ọ na-ekwu: Ka m chọta mmesi obi n'anya unu; ihe ọ bula unu ga-asị m, m ga-enye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ụmụnne ya"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ka m chọta"
+    },
+    {
+      "surface": "חן",
+      "gloss": "mmesi obi"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "n'anya unu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ihe ọ bula nke"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "unu ga-asị"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "m ga-enye"
+    }
+  ],
+  "timestamp": "2026-08-27T05:50:44.022301888Z",
+  "model": "glm-5.3"
+}

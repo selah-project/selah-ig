@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Nke ahụ bụ mgbe Adam maara ⟨את⟩ Chavvah nwunye ya; wee were ime, wee mụọ ⟨את⟩ Kayin, wee kwuo sị: Enwetala m nwoke site na Yahwe.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "maara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chavvah"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwunye ya"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "wee were ime"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wee mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wee kwuo sị"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "Enwetala m"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:35.509498703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Mgbe anyanwụ badara, ọ ga-adị ọcha, mgbe nke ahụ gasịrị ka ọ ga-eri nke ihe dị nsọ, n'ihi na nri ya ka ọ bụ.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "mgbe ọ badara"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ọ ga-adị ọcha"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mgbe nke ahụ gasịrị"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ọ ga-eri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ihe dị nsọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "nri ya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ka ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:01:07.970231329Z",
+  "model": "glm-5.3"
+}

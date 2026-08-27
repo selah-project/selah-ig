@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 92,
+  "translation": "Olee otu nnukwu si bụrụ ihe ndị Ị rụrụ, Yahwe; echiche Gị miri emi nke ukwuu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Olee otu… si"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "nnukwu ka ha bụ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ihe ndị Ị rụrụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "miri emi ka ha dị"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "echiche Gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:28.586063586Z",
+  "model": "glm-5.3"
+}

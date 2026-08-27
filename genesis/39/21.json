@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Yahwe nọkwa ⟨את⟩ Yosef, o gbatara ya chesed, ma nye ya amara n'anya onyeisi ụlọ mkpọrọ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bịara bụrụ na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "gbatara"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "amara"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n'anya"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "mkpọrọ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:55:06.403829969Z",
+  "model": "glm-5.3"
+}

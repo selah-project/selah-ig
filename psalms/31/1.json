@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Maka onye-nduzi egwu. Abụ nke Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye-nduzi egwu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Dawid"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:43.319918838Z",
+  "model": "glm-5.3"
+}

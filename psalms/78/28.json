@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "O mere ka ha daa n'etiti ogige ha, gburugburu ebe obibi ha.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "o mere ka ha daa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "ogige ha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "ebe obibi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:42.518715382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "N'ihi na Dawid kwuru, sị: Yahwe, Elohim nke Yisrael, enyerela ndị ya izu ike, ma Yahwe bi na Yerushalayim ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "enyerela izu ike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "ma bi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T16:04:29.689091557Z",
+  "model": "glm-5.3"
+}

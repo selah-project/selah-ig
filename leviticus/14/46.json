@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Onye na-abanye n'ụlọ ahụ n'ụbọchị niile e mechiri ya ⟨את⟩ ga-adịghị ọcha ruo mgbe anyanwụ na-edo.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "onye na-abanye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ ahụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "e mechiri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "onye na-abanye"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ga-adịghị ọcha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mgbe anyanwụ na-edo"
+    }
+  ],
+  "timestamp": "2026-08-27T06:55:18.377014912Z",
+  "model": "glm-5.3"
+}

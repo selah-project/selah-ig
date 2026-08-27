@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma Dauid achọghị ibugharị ⟨את⟩ ark nke Yahwe gaa n'ebe ya, n'obodo Dauid; kama Dauid gbafere ya n'ụlọ Oved-Edom onye Giti.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma-ọ bụghị"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "chọrọ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauid"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "ibugharị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "gaa-n'ebe-ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "banye"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauid"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "ma-ọ-gbafere-ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "onye-Giti"
+    }
+  ],
+  "timestamp": "2026-08-27T09:33:11.788022503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 84,
+  "translation": "Ha na-aga site n'ike gaa n'ike; ha ga-apụta n'ihu Elohim na Tsiyon.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Ha na-aga"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "site n'ike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "n'ike"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ha ga-apụta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:52.483322200Z",
+  "model": "glm-5.3"
+}

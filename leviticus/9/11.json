@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma ⟨את⟩ anụ ahụ na ⟨את⟩ akpụkpọ ahụ, ka ọ gbarasịrị n'ọkụ, n'èzí ogige ahụ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ahụ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "anụ ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akpụkpọ ahụ"
+    },
+    {
+      "surface": "העור",
+      "gloss": "akpụkpọ ahụ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ka ọ gbarasịrị"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "n'èzí"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ogige ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:50:23.432037006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ụmọ Shem: Elam, na Ashur, na Arpakhshad, na Lud, na Aram.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ụmọ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "וַאשּׁוּר",
+      "gloss": "na Ashur"
+    },
+    {
+      "surface": "וְאַרְפַּכְשַׁד",
+      "gloss": "na Arpakhshad"
+    },
+    {
+      "surface": "וְלוּד",
+      "gloss": "na Lud"
+    },
+    {
+      "surface": "וַאֲרָם",
+      "gloss": "na Aram"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:59.331780139Z",
+  "model": "glm-5.3"
+}

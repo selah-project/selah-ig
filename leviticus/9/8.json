@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Aharon ruru nso n'ịchụàjà ahụ, wee chụ ⟨את⟩ nwa ehi mmehie ahụ, nke bụ nke ya.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wee rute nso"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ịchụàjà ahụ"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "wee chụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ehi mmehie ahụ"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "nwa ehi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "mmehie ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bụ nke ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:51:18.522827557Z",
+  "model": "glm-5.3"
+}

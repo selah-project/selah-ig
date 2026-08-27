@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 21:3",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Nna ha nyere ha onyinye ukwuu nke ọlaọcha na ọlaedo na ihe dị oké ọnụ, ya na obodo e wusiri ike na Yehudah; ma ⟨את⟩ alaeze ahụ ọ nyere Yehoram, n'ihi na ọ bụ nwa mbụ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "Nna ha"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "onyinye"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ukwuu"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "nke ọlaọcha"
+    },
+    {
+      "surface": "ולזהב",
+      "gloss": "na ọlaedo"
+    },
+    {
+      "surface": "ולמגדנות",
+      "gloss": "na ihe dị oké ọnụ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "e wusiri ike"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "na Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alaeze ahụ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "alaeze ahụ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ọ nyere"
+    },
+    {
+      "surface": "ליהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "nwa mbụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:15:21.558905874Z",
+  "model": "glm-5.3"
+}

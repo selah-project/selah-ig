@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Maka akụkụ nke abụọ nke ụlọikwu, n'akụkụ ugwu, o mere bọọdụ iri abụọ.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "maka akụkụ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "nke ụlọikwu"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "bọọdụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:38:17.472165216Z",
+  "model": "glm-5.3"
+}

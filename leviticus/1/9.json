@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "eriri afọ ya na ụkwụ ya ka a ga-asá n'ime mmiri; ma onye nchụajaja ga-ere ⟨את⟩ ihe niile n'elu ebe ịchụàjà — ọlu, ọlu-ọkụ, isi na-atọ ụtọ nye Yahwe.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "eriri afọ ya"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "ụkwụ ya"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ọ ga-asá"
+    },
+    {
+      "surface": "במים",
+      "gloss": "n'ime mmiri"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ọ ga-ere"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụajaja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "n'elu ebe ịchụàjà"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ọlu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ọlu-ọkụ"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "na-atọ ụtọ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:00.121403571Z",
+  "model": "glm-5.3"
+}

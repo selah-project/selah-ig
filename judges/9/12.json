@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Osisi ahụ wee sọpụrụ vaịn, sị: Bịa gị, chị anyị.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha wee sị"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "osisi ahụ"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "sọpụrụ vaịn"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "bịa"
+    },
+    {
+      "surface": "את",
+      "gloss": "gị",
+      "marks": "chị anyị"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "chị"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:47:19.349695807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ilụ ọnụ nke Shelomoh. Nwa nke ma ihe na-eme ka nna nwee ọṅụ, ma nwa nke nzuzu bụ ihe mmetụta uju nke nne ya.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Ilụ ọnụ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "nke Shelomoh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nke ma ihe"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "na-eme ka ... nwee ọṅụ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ma nwa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nke nzuzu"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "ihe mmetụta uju"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nne ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:20:10.236572343Z",
+  "model": "glm-5.3"
+}

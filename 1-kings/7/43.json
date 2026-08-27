@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "na ⟨את⟩ ntọala iri, na ⟨את⟩ efere iri n'elu ntọala ndị ahụ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ntọala iri"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ntọala ndị"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "efere iri"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "efere ndị"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ntọala ndị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:54:51.196062523Z",
+  "model": "glm-5.3"
+}

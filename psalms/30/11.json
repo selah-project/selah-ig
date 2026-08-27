@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Nụ, Yahwe, gbaghara m ebere; Yahwe, bụ ⟨Onye⟩ enyem m.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Nụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "gbaghara m ebere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "enyem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:24.630629336Z",
+  "model": "glm-5.3"
+}

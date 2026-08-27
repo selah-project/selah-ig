@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Efron zara ⟨את⟩ Avraham, sị ya:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "zara"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:38:05.606603003Z",
+  "model": "glm-5.3"
+}

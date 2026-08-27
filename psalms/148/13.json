@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 148,
+  "translation": "Ka ha too ⟨את⟩ aha Yahwe, maka na aha ya dịgoro elu — naanị ya; ukè ya dị elu karịa ụwa na eluigwe.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Ka ha too"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "dịgoro elu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "naanị ya"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ukè ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "karịa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "na eluigwe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:59.069984133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Yosef matara ⟨את⟩ ụmụnne ya, ma ha amaghị ya.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "matara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụnne ya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ụmụnne ya"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ma ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "amaghị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:58:46.316538864Z",
+  "model": "glm-5.3"
+}

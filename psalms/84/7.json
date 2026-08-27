@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 84,
+  "translation": "Ndị na-agafe ndagwurugw nke Baka na-eme ya isi mmiri; mmiri ozuzo na-ekpuchikwa ya ngọzi.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Ndị na-agafe"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "n'ndagwurugw"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "nke Baka"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "isi mmiri"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "ha na-eme ya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na-ekpuchikwa"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ngọzi"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "na-ekpuchi"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "mmiri ozuzo"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:52.483174179Z",
+  "model": "glm-5.3"
+}

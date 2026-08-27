@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "N'ihi na ohu gị kwere ekwèlite mgbe m nọ na Geshur, na Aram, na-asị: Ọ bụrụ na Yahwe weghachitere m n'ezie na Yerushalayim, m ga-ejere ⟨את⟩ Yahwe ozi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ekwèlite"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "kwere"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "mgbe m nọ"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "na Geshur"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "na Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "weghachitere m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "m ga-ejere ozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:34:51.810487496Z",
+  "model": "glm-5.3"
+}

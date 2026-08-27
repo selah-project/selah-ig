@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ma asụsụ m ga na-ekwugharị ezi-ikpe gị, otuto gị ụbọchị niile.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "Ma asụsụ m"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "ga na-ekwugharị"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ezi-ikpe gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "otuto gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:07.718138879Z",
+  "model": "glm-5.3"
+}

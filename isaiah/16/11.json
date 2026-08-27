@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 16:11",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ya mere, ahụ ime m ga-eme ụda dịka ngwá egwu ede maka Mọab, akụkụ ime m maka Kihr-Heresh.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "כן",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "ahụ ime m"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "maka Mọab"
+    },
+    {
+      "surface": "ככנור",
+      "gloss": "dịka ngwá egwu ede"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ga-eme ụda"
+    },
+    {
+      "surface": "וקרבי",
+      "gloss": "akụkụ ime m"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "maka"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Kihr-Heresh"
+    }
+  ],
+  "timestamp": "2026-08-27T10:41:54.531760903Z",
+  "model": "glm-5.3"
+}

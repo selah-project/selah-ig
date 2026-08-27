@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "N'ụnwụ ọgba agha ọ ga-azọpụta gị site n'aka ọnwụ, ma na agha site n'aka mma agha.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "n'ụnwụ ọgba agha"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "ọ ga-azọpụta gị"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "site n'aka ọnwụ"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "ma na agha"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "site n'aka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mma agha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:38:31.062187920Z",
+  "model": "glm-5.3"
+}

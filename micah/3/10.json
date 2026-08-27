@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ndị na-ewu Tsiyon site n'ọbara, na Yerushalayim site n'ọjọọ.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "na-ewu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "site n'ọbara"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "site n'ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:52:08.626695850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "M ga-echeta ọrụ Yah; n'ihi na m ga-echeta ihe ịtụnanya Gị nke oge gara aga.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "m ga-echeta"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "m ga-echeta"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "nke oge gara aga"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ihe ịtụnanya Gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:22.797830886Z",
+  "model": "glm-5.3"
+}

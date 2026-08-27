@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 146,
+  "translation": "Mmuọ ya na-apụ, ọ na-alaghachi n'ala ya; n'ụbọchị ahụ ka atụmatụ ya na-efu.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "na-apụ"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "Mmuọ ya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ọ na-alaghachi"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "n'ala ya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "na-efu"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "atụmatụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:32.901665864Z",
+  "model": "glm-5.3"
+}

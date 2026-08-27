@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Obi m na-ama jijiji n'ime m, ma ụjọ nke ọnwụ dakwasịrị m.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Obi m"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "na-ama jijiji"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "n'ime m"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "ma ụjọ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "dakwasịrị"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:40.213723261Z",
+  "model": "glm-5.3"
+}

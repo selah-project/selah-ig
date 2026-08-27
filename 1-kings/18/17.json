@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ọ dịkwa na mgbe Achab hụrụ ⟨את⟩ Eliyahu, Achab wee sị ya: Ị bụ onye na-enye Israelite nsogbu?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dịkwa"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "mgbe ọ hụrụ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "זה",
+      "gloss": "onye a"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "na-enye nsogbu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelite"
+    }
+  ],
+  "timestamp": "2026-08-27T10:06:33.491291881Z",
+  "model": "glm-5.3"
+}

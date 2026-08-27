@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Maka n'ihi ya, m ga-ekweta Gị ekele n'etiti mba ndị, Yahwe, ma nye aha Gị m ga-abụ abụ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "m ga-ekweta Gị ekele"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "n'etiti mba ndị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "ma nye aha Gị"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "m ga-abụ abụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:39.775374590Z",
+  "model": "glm-5.3"
+}

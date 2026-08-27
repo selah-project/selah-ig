@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Mgbe Efrayim na-asụ okwu, mkparịta dị; ọ buliri ya n'Israel, ma o mehiere ihe na Baal, ma nwụọ.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "mgbe ... na-asụ okwu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "mkparịta"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ọ buliri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "n'Israel"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "ma o mehiere ihe"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "na Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ma nwụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:43:29.556679448Z",
+  "model": "glm-5.3"
+}

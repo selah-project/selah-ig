@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Elisha zara ya, sị, Gaa, sị ya, Ị ga-adị ndụ; ma Yahwe egosila m na ọ ga-anwụ n'ezie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gaa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ọ bụghị⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ga-adị ndụ"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "ma ... egosila m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מות",
+      "gloss": "anwụ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ga-anwụ n'ezie"
+    }
+  ],
+  "timestamp": "2026-08-27T10:18:10.672832135Z",
+  "model": "glm-5.3"
+}

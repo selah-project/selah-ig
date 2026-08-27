@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 88,
+  "translation": "Iwe gị dị elu n'elu m, mmiri mkpụmuobi gị niile mebiri m. Sela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "dị elu"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "iwe gị"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mmiri mkpụmuobi gị"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "mebiri m"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:59.554518528Z",
+  "model": "glm-5.3"
+}

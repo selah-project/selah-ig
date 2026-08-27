@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Onye hụrụ m n'anya zara ma gwa m: Bilie, gaa, ihunanya m, mma m, bịa gaa.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "zara"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "onye hụrụ m n'anya"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ma gwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "bilie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ihunanya m"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "mma m"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "ịa gaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaa"
+    }
+  ],
+  "timestamp": "2026-08-27T15:00:14.326199773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ozi nke Yahwe wee gwuo Eliya: Gaa ya; egwu ya egwu. Ọ wee bilie, gaa ya ruo ⟨n'ebe⟩ eze ahụ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wee gwuo"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Ozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Gaa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (onyeisi nke atọ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "atụla"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "egwu"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ya egwu"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Ọ wee bilie"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:12:47.698501184Z",
+  "model": "glm-5.3"
+}

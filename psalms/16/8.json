@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ahazịtala m Yahwe n'ihu m na mgbe niile, n'ihi na site n'akụkụ aka nri m, agaghị m atụgharị.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Ahazịtala m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "n'ihu m"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "na mgbe niile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "site n'akụkụ aka nri m"
+    },
+    {
+      "surface": "בל",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "atụgharị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:46:13.050446668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 128,
+  "translation": "Yahwe gọzie gị site na Tsiyon, ka ị hụọ ọma nke Yerushalayim, ụbọchị niile nke ndụ gị.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "gọzie gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "site na Tsiyon"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ka ị hụọ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ọma nke"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị nke"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ndụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:56.949040151Z",
+  "model": "glm-5.3"
+}

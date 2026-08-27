@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 47:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "Ha kwuru, Ị dọọla anyị ndụ; anyị hụrụ amara n'anya Adonai anyị, anyị wee bụrụ ohu Farao.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ha kwuru"
+    },
+    {
+      "surface": "החיתנו",
+      "gloss": "Ị dọọla anyị ndụ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "anyị hụrụ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "amara"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n'anya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai anyị"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "anyị wee bụrụ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-08-27T06:02:29.574378986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "M zipụrụ n'ihu unị ⟨את⟩ àzà, o chụpụkwara ⟨את⟩ ha n'ihu unị — ndị eze abụọ nke Haemori — ọ bụghị site n'mmaagha gị, ọ dịghịkwa site n'ụta gị.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "m zipụrụ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "n'ihu unị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àzà"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "àzà"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "o chụpụrụ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha (eze abụọ ndị ahụ)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "n'ihu unị"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Haemori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "site n'mmaagha gị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ dịghịkwa"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "site n'ụta gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:39:53.890152414Z",
+  "model": "glm-5.3"
+}

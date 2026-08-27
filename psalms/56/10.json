@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 56,
+  "translation": "Mgbe ahụ, ndị iro m ga-alaghachi azụ n'ụbọchị m na-eku —— nke a ka m maara: na Elohim dị maka m.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Mgbe ahụ"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ga-alaghachi azụ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "azụ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m na-eku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ka m maara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dị maka m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:26.041068213Z",
+  "model": "glm-5.3"
+}

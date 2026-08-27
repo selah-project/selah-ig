@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "na nkume shoham na nkume a na-etinye n'ọla, maka ephod na maka choshen.",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "na nkume"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "na nkume"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "a na-etinye n'ọla"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "maka ephod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "na maka choshen"
+    }
+  ],
+  "timestamp": "2026-08-27T06:34:43.951613267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ọ zara wee sị: Ọ dighị onyine m nwere m ga-elebara anya ịsụ ma ọ bụghị ⟨את⟩ ihe Yahwe na-etinye n'ọnụ m?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ọ zara"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ọ dighị onyine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe Yahwe na-etinye n'ọnụ m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "na-etinye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "n'ọnụ m"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "m ga-elebara anya ịsụ"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "m ga-elebara anya"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ịsụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:34:41.160195676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Moshe wee kọwara Aharon ⟨את⟩ okwu niile nke Yahwe nke ⟨ọ⟩ zitere ya, na ⟨את⟩ ngọzi ndị ahụ niile nke ⟨ọ⟩ nyere iwu.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "wee kọwara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nke Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "zitere ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngọzi ndị ahụ niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ngọzi ndị ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "nyere iwu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:39.805502430Z",
+  "model": "glm-5.3"
+}

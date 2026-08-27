@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "ala ọka wit na ọka bali, na vaịn na udala-fiki na pọmigranet; ala oliv-mmanụ na mmanụ aṅụ.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ọka wit"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "na ọka bali"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "na vaịn"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "na udala-fiki"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "na pọmigranet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oliv"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na mmanụ aṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:56:09.712226369Z",
+  "model": "glm-5.3"
+}

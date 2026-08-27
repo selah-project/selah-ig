@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Gị kere ⟨את⟩ ókèala niile nke ụwa; oge okpomọkụ na oge oyi — gị kụrụ ha ọdịdị.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "guzosiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "ókèala"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nke ụwa"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "oge okpomọkụ"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "na oge oyi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "kụrụ ha ọdịdị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:07.606243527Z",
+  "model": "glm-5.3"
+}

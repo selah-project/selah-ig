@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ha ga-erikwa ⟨את⟩ anụ ahụ n'abalị a — ihe a siri n'ọkụ — ya na achicha na-enweghị ihe na-ebupụ; ya na akwụkwọ ndị ilu ha ga-eri ya.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ha ga-erikwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ahụ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "anụ ahụ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "n'abalị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "ihe a siri"
+    },
+    {
+      "surface": "אש",
+      "gloss": "n'ọkụ"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "ya na achicha na-enweghị ihe na-ebupụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "akwụkwọ ndị ilu"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ha ga-eri ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:48.124160895Z",
+  "model": "glm-5.3"
+}

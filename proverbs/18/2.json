@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Onye nzuzu anaghị acho ighota ihe, kama na-ekwupụta ihe dị n'obi ya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ọ na-acho"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "onye nzuzu"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ighota ihe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אם",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "na-ekwupụta"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "obi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:25:03.056013869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Ma mgbe nke ahụ gasịrị, m ga-eweghachite ⟨את⟩ ndọpụ nke ụmụ Ammon, nkwu Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Ma mgbe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nke ahụ gasịrị"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "m ga-eweghachite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndọpụ"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ndọpụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:52:22.090306215Z",
+  "model": "glm-5.3"
+}

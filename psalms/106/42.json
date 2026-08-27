@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Ndị iro ha megidere ha, ha wee nwee nkwarụ n'okpuru aka ha.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "megidere ha"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ndị iro ha"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "ha wee nwee nkwarụ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "aka ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:14.664145510Z",
+  "model": "glm-5.3"
+}

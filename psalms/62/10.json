@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 62,
+  "translation": "N'ezie, ndị adam bụ ⟨ihe⟩ efu; ụmụ mmadụ bụ ⟨ihe⟩ ụgha; n'ọnụ nkà ha ga-ebili; ha niile dị larịị karịa ihe efu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ihe efu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "n'ọnụ nkà"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "ha ga-ebili"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "karịa ihe efu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ha niile"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:55.842141853Z",
+  "model": "glm-5.3"
+}

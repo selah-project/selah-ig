@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 2:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ọ ga-adị n'ikpeazụ nke ụbọchị na ugwu nke ụlọ Yahwe ga-edozi n'isi ugwu ndị ahụ, a ga-eweli ya elu karịa ndida, mba ndị niile ga-asọba ya.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ọ ga-adị"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "n'ikpeazụ nke"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ga-edozi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ugwu ndị ahụ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "a ga-eweli ya elu"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "karịa ndida"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "ga-asọba"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:33:37.318530158Z",
+  "model": "glm-5.3"
+}

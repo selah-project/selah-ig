@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 28:15",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Mee ⟨את⟩ choshen nke mkpebi, ọrụ nke onye na-atụ uzu; dịka ọrụ nke efod ka ị ga-eme ya; site n'ọlaedo, na-acha anụnụ anụnụ, na-acha ọbara ọbara, na ọbara-uhie nke ụkwụ-nsi, na linen e kọtara agbakọ ị ga-eme ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mee"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "choshen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "nke mkpebi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "nke onye na-atụ uzu"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "dịka ọrụ"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "nke efod"
+    },
+    {
+      "surface": "תעשנו",
+      "gloss": "ka ị ga-eme ya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "site n'ọlaedo"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "na-acha anụnụ anụnụ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "na-acha ọbara ọbara"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "na ọbara-uhie nke"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ụkwụ-nsi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na linen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "e kọtara agbakọ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ị ga-eme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (choshen)"
+    }
+  ],
+  "timestamp": "2026-08-27T06:30:13.278262046Z",
+  "model": "glm-5.3"
+}

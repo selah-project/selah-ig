@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Onye ka ga-edu m banye n'obodo e wubere? Onye ka ga-edu m ruo Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ga-edu m"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "e wubere \/ mgbidi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ga-edu m"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:14.982518282Z",
+  "model": "glm-5.3"
+}

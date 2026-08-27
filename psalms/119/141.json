@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Nke ọma m dị obere ma jụrụ ya; ọdịiche gị anaghị m echefu.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "obere"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "ma jụrụ ya"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ọdịiche gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "m echefu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:38.186892628Z",
+  "model": "glm-5.3"
+}

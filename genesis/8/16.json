@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Pụọ n'ụgbọ mmiri ahụ, gị na nwunye gị, ụmụ gị, na ụmụ nwanyị ụmụ gị ⟨את⟩ onwe gị.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Pụọ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "n'"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ụgbọ mmiri ahụ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "na nwunye gị"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ụmụ gị"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "na ụmụ nwanyị"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "(ụmụ) gị"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ onwe gị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:28:46.681773267Z",
+  "model": "glm-5.3"
+}

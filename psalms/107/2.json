@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ndị a gbapụtara nke Yahwe ka ha kwuo ya, ndị ⟨Ọ⟩ gbapụtara n'aka onye mkpagbu.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ka ha kwuo"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "ndị a gbapụtara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "Ọ gbapụtara"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "צר",
+      "gloss": "onye mkpagbu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:33.684455241Z",
+  "model": "glm-5.3"
+}

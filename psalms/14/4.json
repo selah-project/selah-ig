@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ọ dịghị ka ha ma? Ndị niile na-eme ihe nzọ mbụ, ndị na-eri ⟨את⟩ ndị m, ha erila nri dịka ha na-eri; Yahwe ha akpọghị.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ọ dịghị ka"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ha ma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "און",
+      "gloss": "ihe nzọ mbụ"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ndị na-eri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ha erila"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ha akpọghị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:16.283925907Z",
+  "model": "glm-5.3"
+}

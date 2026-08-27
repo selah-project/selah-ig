@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Eze David wee bịa, nọdụrụ ala n'ihu Yahwe, wee sị: Onye bụ m, Yahwe Elohim, ma onye bụ ụlọ m, na I duela m ruo ebe a?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wee bịa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nọdụrụ ala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Onye bụ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ma onye bụ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ụlọ m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "I duela m"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ebe a"
+    }
+  ],
+  "timestamp": "2026-08-27T16:02:33.332277821Z",
+  "model": "glm-5.3"
+}

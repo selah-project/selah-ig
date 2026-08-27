@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Avram wee daa n'ihu ya, Elohim wee sọ ⟨את⟩ ya okwu, na-asị:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "wee daa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ihu ya"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wee sọ okwu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:34:45.269413760Z",
+  "model": "glm-5.3"
+}

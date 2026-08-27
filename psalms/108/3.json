@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 108,
+  "translation": "Mee mkpu! Hebụ-ụbọ, na ụdà-ife, m ga-eme ka chi ọbụbọ tetakwaa.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Mee mkpu!"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "⟨the⟩ Hebụ-ụbọ"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "na ụdà-ife"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "m ga-eme ka... tetakwaa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "chi ọbụbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:17.631288083Z",
+  "model": "glm-5.3"
+}

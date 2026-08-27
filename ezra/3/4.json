@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ha mere ⟨את⟩ emume nke Sukkot dịka e dere ya, na ọ́fụ̀ a na-egbu kwa ụbọchị n'ọnụ ọgụgụ, dịka iwu si dị, okwu nke ụbọchị ọ bụla n'ụbọchị ya.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ha mere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emume"
+    },
+    {
+      "surface": "חג",
+      "gloss": "emume"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "nke Sukkot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "dịka e dere ya"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "na ọ́fụ̀ a na-egbu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kwa ụbọchị"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "n'ọnụ ọgụgụ"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "dịka iwu si dị"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "n'ụbọchị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:35:39.620238900Z",
+  "model": "glm-5.3"
+}

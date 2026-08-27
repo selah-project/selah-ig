@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "N'ihi na Ahụ gị bụ ifo nke ike nke ndi ahu, ma site na obi ụtọ gị ka edoro mpi anyị elu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ifo"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "nke ike ha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị bụ"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "ma site na obi ụtọ gị"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "ka edoro elu"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "mpi anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:19.717139933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 86,
+  "translation": "Mba niile nke i mere ga-abịa, ha ga-atụ aka gị n'ihu gị, Adonai, ma kelee aha gị.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i mere"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "ga-abịa"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ha ga-atụ aka gị"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "ma kelee"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "aha gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:04.431405996Z",
+  "model": "glm-5.3"
+}

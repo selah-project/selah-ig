@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 81,
+  "translation": "Ọ debere ya dị ka akaebe na Yosef, n'ọpụpụ ya n'elu ala Mitzrayim; asụsụ m na-amaghị — ana m anụ.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "akaebe"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "na Yosef"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ọ debere"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "n'ọpụpụ ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "asụsụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "amaghị m"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ana m anụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:46:18.678075816Z",
+  "model": "glm-5.3"
+}

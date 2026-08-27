@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Mgbe ahụ Iyob biliri, yigharịrị ⟨את⟩ uwe elu ya, kpụrụkwa ⟨את⟩ isi ya, dara n'ala, ma na-efe ihe n'ala.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "biliri"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "yigharịrị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe elu ya"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "uwe elu ya"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "kpụrụkwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi ya"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "isi ya"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dara"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "na-efe ihe n'ala"
+    }
+  ],
+  "timestamp": "2026-08-27T14:36:08.073946413Z",
+  "model": "glm-5.3"
+}

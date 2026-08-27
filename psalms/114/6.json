@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 114,
+  "translation": "Ugwu ndị, na ụnụ na-awụli elu dịka atụrụ-ndị-nwoke? Ugwu ntakịrị, dịka ụmụ atụrụ?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Ugwu ndị"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "na-awụli elu"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "dịka atụrụ-ndị-nwoke"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "Ugwu ntakịrị"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "dịka ụmụ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "atụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:40.157950515Z",
+  "model": "glm-5.3"
+}

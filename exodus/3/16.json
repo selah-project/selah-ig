@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Gaa, wee chịkọta ⟨את⟩ ndị okenye Yisrael, ha gwa ha: Yahwe, Elohim nke ndị nna unu, pụtara ⟨na⟩ m — Elohim nke Avraham, Yitschak na Yaakov — ⟨na-ekwu⟩: Nlebara anya ka m nlebara anya unu ⟨את⟩ na ⟨את⟩ ihe a na-eme unu na Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Gaa"
+    },
+    {
+      "surface": "ו אספת",
+      "gloss": "wee chịkọta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị okenye Yisrael"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ha gwa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "nke ndị nna unu"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨na⟩ m"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "nke Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨na-ekwu⟩"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "nlebara anya"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "ka m nlebara anya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na",
+      "marks": "ihe a na-eme unu na Mitzrayim"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "ihe a na-eme"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:10:40.297684592Z",
+  "model": "glm-5.3"
+}

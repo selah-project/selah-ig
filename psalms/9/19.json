@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Maka onye-ogbenye agaghị echefu ruo mgbe ebighị ebi; olile anya nke ndị di ntakịrị obi agaghị efu ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "echefu"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "onye-ogbenye"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "olile anya"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ndị di ntakịrị obi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "agaghị efu"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:14.693402715Z",
+  "model": "glm-5.3"
+}

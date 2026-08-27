@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Na nwunye-ọkpara ya nke aha ya bụ Reuma, ọ mụkwara ⟨את⟩ Teva na ⟨את⟩ Gacham na ⟨את⟩ Tachash na ⟨את⟩ Maaka.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "na nwunye-ọkpara ya"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ọ mụkwara"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọzọkwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Teva"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Teva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gacham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gacham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tachash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tachash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Maaka"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    }
+  ],
+  "timestamp": "2026-08-27T05:37:23.860339683Z",
+  "model": "glm-5.3"
+}

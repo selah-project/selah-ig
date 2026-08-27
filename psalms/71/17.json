@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "Elohim, site n'oge ọ bụ nwata ruo taa, ị kụziiri m; m ga-akọ akụkọ ihe ndị dị ebube nke ị mere.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "ị kụziiri m"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "site n'oge ọ bụ nwata"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo taa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ruo ugbu a"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "m ga-akọ akụkọ"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ihe ndị dị ebube nke ị mere"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:09.895453821Z",
+  "model": "glm-5.3"
+}

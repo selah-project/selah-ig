@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Mgbe a na-ata onye na-achụ ọchị ahụhụ, onye nzuzu amatakwuo amata; mgbe a na-akụziri onye gbasara ihe ọmụma, ọ ga-anata amamihe.",
+  "tokens": [
+    {
+      "surface": "בענש",
+      "gloss": "Mgbe a na-ata ... ahụhụ"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "onye na-achụ ọchị"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "amatakwuo amata"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "onye nzuzu"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "mgbe a na-akụziri"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "onye gbasara ihe ọmụma"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ọ ga-anata"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "amamihe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:25:51.681074925Z",
+  "model": "glm-5.3"
+}

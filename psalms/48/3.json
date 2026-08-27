@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Okomoko n'ịdị elu, obi ụtọ nke ala niile, ⟨ bụ⟩ ugwu Tsiyon, nsọtọ ugwu ugwu-ọdịda anyanwụ-obodo ukwu nke eze ukwu.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Okomoko"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "n'ịdị elu"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "obi ụtọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "nsọtọ ugwu ugwu-ọdịda anyanwụ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ugwu-ọdịda anyanwụ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "obodo ukwu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ukwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:32:12.173485232Z",
+  "model": "glm-5.3"
+}

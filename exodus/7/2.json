@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Gị ka ga-ekwu ⟨את⟩ ihe niile m nyere gị iwu; Aharon nwanne gị ga-ekwu ya nye Pharaoh, ka o zipụ ⟨את⟩ ụmụ Yisrael site n'ala ya.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Gị"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ga-ekwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "m nyere gị iwu"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ga-ekwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ka o zipụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "site n'ala ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:01.746031728Z",
+  "model": "glm-5.3"
+}

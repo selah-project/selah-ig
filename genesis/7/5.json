@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Noach mekwara ihe niile Yahwe nyere ya iwu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mekwara"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ihe niile dịka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "nyere ya iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:22:54.694902548Z",
+  "model": "glm-5.3"
+}

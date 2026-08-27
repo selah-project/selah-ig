@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ma ọ bụrụ na ọ nụghị asachapụ ⟨uwe ya⟩, ma ọ dọghị ahụ ya n'ime mmiri, ọ ga-ibu mmehie ya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ọ bụrụ na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ nụghị"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "asachapụ"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "ahụ ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dọghị"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "saa n'ime mmiri"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ọ ga-ibu"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "mmehie ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:59:43.824263012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "M ga-emebi ⟨את⟩ ala ahụ, ndị iro gị ndị bi na ya ga-atụ nnukwu ụjọ n'ihi ya.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "m ga-emebi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m onwe m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ahụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "ha ga-atụ nnukwu ụjọ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ndị iro gị"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:27:25.750903154Z",
+  "model": "glm-5.3"
+}

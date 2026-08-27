@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Adonai kwuru: Site na Bashan, m ga-eweghachi, m ga-eweghachi site n'omimi nke oké mmiri.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "site na Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "m ga-eweghachi"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "m ga-eweghachi"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "site n'omimi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "oké mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:19.466534966Z",
+  "model": "glm-5.3"
+}

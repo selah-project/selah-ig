@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "M ga-atụgharịkwa ihu m megide unu, unu ga-ada n'ihu ndị iro unu, ndị kpọrọ unu asị ga-achị unu, unu ga-agba ọsọ ma ọ dịghị onye na-achụ ⟨את⟩ unu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "M ga-etụgharịkwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu m"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "megide unu"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "unu ga-ada"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ndị iro unu"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "ga-achị"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "ndị kpọrọ unu asị"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "unu ga-agba ọsọ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma ọ dịghị"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "onye na-achụ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:09:25.983095407Z",
+  "model": "glm-5.3"
+}

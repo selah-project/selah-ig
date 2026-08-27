@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Nke a ka ọnụ ọgụgụ ha dị: ite ọla edo otu narị iri atọ na ⟨את⟩ ite ọla ọcha otu puku, mma ajụ mpụ nke itoolu na iri abụọ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "nke a ka"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "ọnụ ọgụgụ ha"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "ite"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "iri atọ"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "⟨את⟩ ite",
+      "marks": "ite"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọla ọcha"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "otu puku"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "mma ajụ mpụ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nke itoolu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na iri abụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:32:44.636513998Z",
+  "model": "glm-5.3"
+}

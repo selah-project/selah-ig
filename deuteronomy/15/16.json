@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ọ ga-abụkwa na ọ sị gị, Sị m m apụọ n'akụkụ gị, n'ihi na ọ hụrụ gị n'anya, na ⟨את⟩ ụlọ gị, n'ihi na ọ dịkwa ya mma ịnọkọ gị.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ọ ga-abụkwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ọ sị"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Sị m"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "apụọ"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "n'akụkụ gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "ọ hụrụ gị n'anya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ gị"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ụlọ gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "n'akụkụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:30:15.878103891Z",
+  "model": "glm-5.3"
+}

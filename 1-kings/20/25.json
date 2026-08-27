@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ma gị, were ṅụta maka gị ndị agha, dịka ndị agha ndị dara si ⟨את⟩ n'aka gị, na ịnyịnya dịka ịnyịnya, na ụgbọ agha dịka ụgbọ agha; anyị ga-alụso ⟨את⟩ ha ọgụ n'ala dị larịị — ọ̀ anyị agaghị adị ike karịa ha? O gee ntị n'olu ha, wee mee otu a.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma gị"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "were ṅụta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "dịka ndị agha"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "ndị dara"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩ n'aka gị",
+      "marks": "n'aka gị"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "na ịnyịnya"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "dịka ịnyịnya"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "na ụgbọ agha"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "dịka ụgbọ agha"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "anyị ga-alụso ọgụ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "n'ala dị larịị"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "adị ike"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "karịa ha"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "o gee ntị"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "n'olu ha"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wee mee"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    }
+  ],
+  "timestamp": "2026-08-27T10:09:27.292166499Z",
+  "model": "glm-5.3"
+}

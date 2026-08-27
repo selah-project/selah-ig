@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "nwa Amaryah, nwa Azaryah, nwa Merayot",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amaryah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    }
+  ],
+  "timestamp": "2026-08-27T15:37:10.710518475Z",
+  "model": "glm-5.3"
+}

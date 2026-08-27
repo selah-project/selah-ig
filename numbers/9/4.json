@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Moshe wee soro ụmụ Yisrael okwu ka ha mee ⟨את⟩ Pesach",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wee soro okwu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "soro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ka ha mee"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    }
+  ],
+  "timestamp": "2026-08-27T07:19:36.362171392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Mkpụrụ obi anyị echere Yahwe: ⟨ ọ bụ ⟩ onye enyemaka anyị na ọta anyị.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "mkpụrụ obi anyị"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "echere"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "onye enyemaka anyị"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "na ọta anyị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ ọ bụ ⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:14.388199813Z",
+  "model": "glm-5.3"
+}

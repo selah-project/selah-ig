@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Ọ gbapụtara na udo mkpụrụ obi m n'aka ndị soro m nso, maka na ha bụ ọtụtụ, ha nọkọrọ m.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Ọ gbapụtara"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "na udo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "n'aka ndị soro m nso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ha bụ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ha nọkọrọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:36.583690805Z",
+  "model": "glm-5.3"
+}

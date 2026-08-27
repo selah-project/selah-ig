@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "A ma ya dị ka onye na-eweli elu n'ọhịa osisi siri siri — mma ọgụ.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "a ma ya"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "dị ka onye na-eweli"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "elu"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "n'ọhịa osisi siri siri"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "mma ọgụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:07.104136658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Elohim mere ndị na-amụ nwa ihe ọma, ndị wee bụrụ ọtụtụ, wee sịkwuo ike nke ukwuu.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "mere ihe ọma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ndị na-amụ nwa"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "bụrụ ọtụtụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "sịkwuo ike"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:06:11.253765501Z",
+  "model": "glm-5.3"
+}

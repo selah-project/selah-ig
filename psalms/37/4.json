@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ma nweta obi ụtọ na Yahwe, ma ọ ga-enyere gị ihe obi gị na-achọ.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Ma nweta obi ụtọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ma ọ ga-enyere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "ihe a na-achọ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "obi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:46.119757108Z",
+  "model": "glm-5.3"
+}

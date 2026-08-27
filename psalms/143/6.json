@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 143,
+  "translation": "Epebelam aka m n'ụzọ gị; nchekwube ndụ m dị ka ala nwụrụ anwụ na-achọsi gị ike. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "epebelam"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "n'ụzọ gị"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ndụ m"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "dị ka ala"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "nwụrụ anwụ na-achọsi ike"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:34.120606955Z",
+  "model": "glm-5.3"
+}

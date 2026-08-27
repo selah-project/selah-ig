@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ala ruru unyo, m wee nyochaa mmehie ya n'elu ya, ala wee gbọ ⟨את⟩ ndị bi na ya.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "ruo unyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "m wee nyochaa"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "mmehie ya"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "gbọ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị bi na ya"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ndị bi na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:57:48.199971832Z",
+  "model": "glm-5.3"
+}

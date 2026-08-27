@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ọ gwara Moshe: \"Mụ, Yitro, nna-ukwu gị, na-abịakwute gị, na nwunye gị na ụmụ ya abụọ n'akụkụ ya.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ọ gwara"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mụ"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "nna-ukwu gị"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "בא",
+      "gloss": "na-abịa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gakwute gị"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "na nwunye gị"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na ụmụ abụọ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "nke ya"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ya na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:05.488624676Z",
+  "model": "glm-5.3"
+}

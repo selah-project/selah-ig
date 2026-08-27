@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọdịghị anyị! Onye ga-ezọpụta anyị n'aka chi ndị a dike ndị a? Ndị a bụ ha, chi ndị kụrụ ⟨את⟩ Mitzrayim akpa niile n'ọzara.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Ọdịghị anyị!"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ga-ezọpụta anyị"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "chi ndị"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "dike"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ndị a"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bụ ha"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "chi ndị"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "kụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitzrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "akpa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    }
+  ],
+  "timestamp": "2026-08-27T09:02:32.606883945Z",
+  "model": "glm-5.3"
+}

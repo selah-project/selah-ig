@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "N'ihi na obi m gbara aga mkpa, na akụrụ m m gbapụrụ m agbọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "gbara aga mkpa"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "akụrụ m"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "gbapụrụ m agbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:17.417791944Z",
+  "model": "glm-5.3"
+}

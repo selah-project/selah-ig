@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "M mekwara ọrụ m ukwu; m ruru m ⟨עצמי⟩ ụlọ, m kụkwara m ubi vaịn.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "M mekwara... ukwu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ọrụ m"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "m ruru"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "m kụkwara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ubi vaịn"
+    }
+  ],
+  "timestamp": "2026-08-27T15:13:18.310852636Z",
+  "model": "glm-5.3"
+}

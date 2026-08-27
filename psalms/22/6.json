@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ha tiere gị mkpu, ma gbapụọ; ha tinyere ntịkwe n'aka gị, ma ha enweghị ihere.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "gaa gị"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "ha tiere mkpu"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "ma gbapụọ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "n'aka gị"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ha tinyere ntịkwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma enweghị"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "ihere"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:19.625281516Z",
+  "model": "glm-5.3"
+}

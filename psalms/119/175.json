@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ka ndu m dị ndụ, otu a ka ọ ga-eto gị, na ikpe ziri ezi gị ga-enyere m aka.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "ka ọ dị ndụ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ndu m"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "ọ ga-eto gị"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "na ikpe ziri ezi gị"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "ga-enyere m aka"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:53.471332988Z",
+  "model": "glm-5.3"
+}

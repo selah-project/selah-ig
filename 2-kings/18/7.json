@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 18:7",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ya mere Yahwe nọ ya nso; n'ebe ọ bụla o si pụọ, ọ na-aga nke ọma; o jụrụ ịbụ onye isi n'aka eze nke Ashur, ma ghara ije ozi ya.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ya mere ọ bụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nọ ya nso"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ebe ọ bụla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o si pụọ"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "ọ na-aga nke ọma"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "o jụrụ ịbụ onye isi n'aka"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "eze nke"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ghara"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ije ozi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:23:44.879466705Z",
+  "model": "glm-5.3"
+}

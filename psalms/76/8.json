@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 76,
+  "translation": "Gị, ee gị, bụ onye a na-efe ofụ; onye ga-ezo guzo n'ihu gị site n'oge iwe gị malitere?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "onye a na-efe ofụ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ma onye"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ga-ezo guzo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "site n'oge ahụ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "iwe gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:34.889717246Z",
+  "model": "glm-5.3"
+}

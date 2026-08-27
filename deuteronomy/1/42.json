@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Yahwe wee sị m: Sị ha, Unu agaghị agwu elu, unu agaghị alụso agha, n'ihi na m adịghị n'etiti unu; ka unu ghara ịda n'ihu ndị iro unu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "unu ga-agwu elu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ dịghịkwa"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "unu ga-alụso agha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "m adịghị"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "n'etiti unu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "unu ida"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ndị iro unu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:29:29.447038104Z",
+  "model": "glm-5.3"
+}

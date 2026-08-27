@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Okwu ndị a nke m na-enyere gị iwu taa ga-adị n'obi gị.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "na-enyere gị iwu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "obi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:51:56.146566238Z",
+  "model": "glm-5.3"
+}

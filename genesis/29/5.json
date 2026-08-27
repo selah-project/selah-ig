@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Ọ sịrị ha, Ọ̀ ka unu maara Lavan nwa Nachor? Ha sịrị, Anyị maara ya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sịrị"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "ọ̀ ka unu maara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha sịrị"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "anyị maara"
+    }
+  ],
+  "timestamp": "2026-08-27T05:43:35.629724581Z",
+  "model": "glm-5.3"
+}

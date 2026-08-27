@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Na-ekele ọṅụ, ndị ezigbo, nye Yahwe; maka ndị kwụọ ọtọ, otuto dị mma.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "na-ekele ọṅụ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ndị ezigbo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "maka ndị kwụọ ọtọ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "otuto"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:23.662461052Z",
+  "model": "glm-5.3"
+}

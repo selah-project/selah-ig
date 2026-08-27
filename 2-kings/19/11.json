@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Le, ị nụla ⟨את⟩ ihe ndị eze Ashur mere mba niile, i bibie ha kpamkpam; ma gị, a ga-azọpụta gị?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ị nụla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ndị eze Ashur mere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mere"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze ndị"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mba niile"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "mba ndị ahụ"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "i bibie ha kpamkpam"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ma gị"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "a ga-azọpụta gị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:24:32.758806740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Mụ onwe m ga-edozi mkpụrụ ya ruo mgbe ebighị ebi, na oche-eze ya dịka ụbọchị eluigwe.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ma mụ ga-edozi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mkpụrụ ya"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "na oche-eze ya"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "dịka ụbọchị"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:51.084491062Z",
+  "model": "glm-5.3"
+}

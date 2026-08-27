@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ọ wee tara ya mgbasa n'ihu m, o buru ⟨the⟩ nke edere n'ihu na n'azụ; edere ya: iru uju, mkpu uju, na ọdachi.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "ọ wee tara mgbasa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (mpịakọta akwụkwọ)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu m"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "o buru"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "nke edere"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "na n'azụ"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "edere ya"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "iru uju"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "mkpu uju"
+    },
+    {
+      "surface": "והי",
+      "gloss": "ọdachi"
+    }
+  ],
+  "timestamp": "2026-08-27T11:58:23.475824055Z",
+  "model": "glm-5.3"
+}

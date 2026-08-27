@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ma ị ga-eme mpi anọ ya n'akụkụ anọ ya; site n'olu ya ka mpi ya ga-⟨bụ⟩; ma ị ga-ekpuchi ⟨את⟩ ya na ọla nchara.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ị ga-eme"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "mpi ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "akụkụ ya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "site n'olu ya"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ha ga-adị"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "mpi ya"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ị ga-ekpuchi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ọla nchara"
+    }
+  ],
+  "timestamp": "2026-08-27T06:27:58.800100437Z",
+  "model": "glm-5.3"
+}

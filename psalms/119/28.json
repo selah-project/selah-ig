@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Mkpụrụ obi m na-agbapụta mmiri nsọ mbala n'ihi mwute; guzosie m ike dịka okwu gị si dị.",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "na-agbapụta mmiri nsọ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "n'ihi mwute\/nsogbu"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "guzosie m ike"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "dịka okwu gị si dị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:34.655290058Z",
+  "model": "glm-5.3"
+}

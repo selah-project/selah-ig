@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ma ọ bụrụ na n'ọhịa nwoke hụrụ ⟨את⟩ nwa agbọghọ a kwere nkwa ọlụlụ, ma nwoke jide ya ma dina ya, mgbe ahụ naanị nwoke ahụ dina ya ka ga-anwu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ọ bụrụ na"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "n'ọhịa"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa agbọghọ a kwere nkwa ọlụlụ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nwa agbọghọ"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "a kwere nkwa ọlụlụ"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "ma jide"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ma dina"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ga-anwu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "dina"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "naanị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:09:42.679847172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Mana ndị na-amụ nwa tụrụ ⟨את⟩ Elohim egwu, ha emeghị ihe dịka eze Mitsrajim gwara ha, kama ha mere ka ⟨את⟩ ụmụ nwoke dị ndụ.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "tụrụ egwu"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ndị na-amụ nwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha emeghị"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mere"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "ha mere ka ha dị ndụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ nwoke"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ụmụ nwoke"
+    }
+  ],
+  "timestamp": "2026-08-27T06:06:11.253240545Z",
+  "model": "glm-5.3"
+}

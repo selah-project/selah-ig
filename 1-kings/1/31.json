@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 1:31",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Bat-Sheba wee daa n'ihu ya ruo n'ala, wee kelee eze ahụ, ma kwuo, sị: Ka Adonai m, Eze David, dịndị ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "wee daa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ruo n'ala"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "wee kelee"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "eze ahụ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ma kwuo, sị"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Ka ... dịndị"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai m"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T09:50:09.432178248Z",
+  "model": "glm-5.3"
+}

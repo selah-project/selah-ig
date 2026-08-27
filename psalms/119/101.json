@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ụzọ ọjọọ niile ka m gbochiri ụkwụ m, ka m wee chebe okwu gị.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "site na … niile"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "m gbochiri"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ụkwụ m"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka m wee"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "chebe"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "okwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:32.163921601Z",
+  "model": "glm-5.3"
+}

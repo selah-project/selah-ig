@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "N'ihi na ọ bụrụ na ị jụrụ ịzipụ ⟨את⟩ ndị m, lee, m na-eweta echi ⟨את⟩ nnụnụ-achụcha n'ókèala gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ị jụrụ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ịzipụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị m"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lee"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "m na-eweta"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "echi"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "nnụnụ-achụcha"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "n'ókèala gị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:14:24.727191138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 82,
+  "translation": "M, m kwuru: Unu bụ chi, ụmụ nke Elyon ka unu niile bụ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "M"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "m kwuru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ma ụmụ nke"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "unu niile"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:54.236472268Z",
+  "model": "glm-5.3"
+}

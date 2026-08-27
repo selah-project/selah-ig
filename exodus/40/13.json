@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ị ga-yi Aharon ⟨את⟩ uwe ⟨the⟩ nsọ, wee tee ya mmanụ, wee doo ya nsọ, ka ọ na-ejere m ⟨את⟩ ọrụ nchụ-aja.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "ọ ga-yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe nsọ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "wee tee mmanụ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "wee doo nsọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "ka ọ na-ejere ọrụ nchụ-aja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:58.854071430Z",
+  "model": "glm-5.3"
+}

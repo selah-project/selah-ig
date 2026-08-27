@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ Ofir, na ⟨את⟩ Chavilah, na ⟨את⟩ Yovav; ndị a niile bụ ụmụ Yoktan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ofir"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktan"
+    }
+  ],
+  "timestamp": "2026-08-27T15:50:07.786521Z",
+  "model": "glm-5.3"
+}

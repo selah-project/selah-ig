@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ha ga-elekọta ⟨את⟩ ngwa niile nke ụlọikwu nke nzụkọ, na ⟨את⟩ ọrụ nke ụmụ Yisrael, iji rụọ ⟨את⟩ ọrụ nke ebe-nsọ-ahụ.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ha ga-elekọta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwa niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ngwa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ụlọikwu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nke nzụkọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ọrụ nke ụmụ Yisrael"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "iji rụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ nke ebe-nsọ-ahụ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "nke ebe-nsọ-ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:13:05.630048839Z",
+  "model": "glm-5.3"
+}

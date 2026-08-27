@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Mụ onwe m ga-alụ ⟨את⟩ unu ọgụ site n'aka nke a na-ezuru, na n'aka ike, na n'iwe, na n'ọdịdị iwe, na n'iwe ukwu.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "m ga-alụ ọgụ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mụ onwe m"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "site n'aka"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "nke a na-ezuru"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "na n'aka ike"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ike"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "na n'iwe"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "na n'ọdịdị iwe"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "na n'iwe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwu"
+    }
+  ],
+  "timestamp": "2026-08-27T11:29:21.832334285Z",
+  "model": "glm-5.3"
+}

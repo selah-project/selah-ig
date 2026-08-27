@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Mkụnye-amamihe nke Asaf: Maka gịnị, Elohim, ka i jụrụ anyị ruo mgbe ebighị ebi? Maka gịnị ka iwe gị na-ese anwụrụ megide ùmù atụrụ nke ebe ịta nri gị?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Mkụnye-amamihe"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "nke Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Maka gịnị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ka i jụrụ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "na-ese anwụrụ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "iwe gị"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "megide ùmù atụrụ"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "nke ebe ịta nri gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:52.818409882Z",
+  "model": "glm-5.3"
+}

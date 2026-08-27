@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Mkpụrụ osisi ga-apụta n'ọtụ nke Yishai, na Mashiach-isi ga-eme mkpụrụ n'ọgbọrọgbọ ya.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ga-apụta"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "mkpụrụ osisi"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "n'ọtụ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "isi-ogbene"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "n'ọgbọrọgbọ ya"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "ga-eme mkpụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:38:43.500672968Z",
+  "model": "glm-5.3"
+}

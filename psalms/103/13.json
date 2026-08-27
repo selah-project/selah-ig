@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 103,
+  "translation": "Dịka nna na-eru mmụọ n'ụmụ ya, otu a Yahwe na-eru mmụọ n'ịchere Ya.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "dịka nna na-eru mmụọ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "nna"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "na-eru mmụọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ịchere Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:42.982505880Z",
+  "model": "glm-5.3"
+}

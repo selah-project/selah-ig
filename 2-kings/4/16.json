@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 4:16",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "O wee sị ya: N'oge a, dịka oge ndụ, gị ga-amụ nwa nwoke. O wee sị: Eeh, nna m, nwoke Elohim, ekwula ụgha nye odibo gị.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wee sị"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "N'oge"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "dịka oge"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "gị"
+    },
+    {
+      "surface": "חבקת",
+      "gloss": "ga-amụ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eeh, ekwula"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nna m"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekwula"
+    },
+    {
+      "surface": "תכזב",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "בשפחתך",
+      "gloss": "odibo gị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:14:22.230845601Z",
+  "model": "glm-5.3"
+}

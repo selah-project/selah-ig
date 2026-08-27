@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "M wee tinye uwe m bụ saịk, m wee bụrụ okwu aha ama maka ha.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "m wee nyefee"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "uwe m"
+    },
+    {
+      "surface": "שק",
+      "gloss": "saịk"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "m wee bụrụ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maka ha"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "okwu aha ama"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:30.687392287Z",
+  "model": "glm-5.3"
+}

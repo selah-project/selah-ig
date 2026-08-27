@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 6:12",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma a kọrọ eze Dauid okwu, ka a sị: Yahwe gọzila ⟨את⟩ ụlọ Oved-Edom na ihe niile nke ya, n'ihi ark nke Elohim. N'ihi ya Dauid gara, wee bulie ⟨את⟩ ark nke Elohim site n'ụlọ Oved-Edom gaa n'obodo Dauid n'ọṅụ.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ma-a-kọrọ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka-a-sị"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "gọziri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Oved-Edom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile nke ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ma-ọ-gara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauid"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ma-ọ-buliri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ark nke Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "site-n'ụlọ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauid"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "n'ọṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:33:11.788341789Z",
+  "model": "glm-5.3"
+}

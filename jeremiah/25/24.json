@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "na ⟨את⟩ eze niile nke Arabia, na ⟨את⟩ eze niile nke ndị agwakọtara bi n'ọzara",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "eze niile nke Arabia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arabia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "eze niile nke ndị agwakọtara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ndị agwakọtara"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "na-ebi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    }
+  ],
+  "timestamp": "2026-08-27T11:31:30.220031018Z",
+  "model": "glm-5.3"
+}

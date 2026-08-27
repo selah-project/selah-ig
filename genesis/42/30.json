@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Onye nke ahụ, onye nwe ⟨את⟩ ala ahụ, sụrụ anyị okwu siri ike, were anyị were dịka ndị nledo ⟨את⟩ ala ahụ:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sụrụ okwu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "onye nke ahụ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "onye nwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "anyị"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "were anyị were"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ anyị"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "dịka ndị nledo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ahụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:59:09.956128732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Shemuwel gwara onye na-esi nri, sị: Nyefere ⟨את⟩ òkè ahụ m nyere gị, nke m gwara gị, sị: Tinye ⟨את⟩ ya n'akụkụ gị.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "שְׁמוּאֵל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "לַטַּבָּח",
+      "gloss": "onye na-esi nri"
+    },
+    {
+      "surface": "תְּנָה",
+      "gloss": "nyefere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òkè ahụ"
+    },
+    {
+      "surface": "הַמָּנָה",
+      "gloss": "òkè ahụ"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נָתַתִּי",
+      "gloss": "m nyere"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אָמַרְתִּי",
+      "gloss": "m gwara"
+    },
+    {
+      "surface": "אֵלֶיךָ",
+      "gloss": "gị"
+    },
+    {
+      "surface": "שִׂים",
+      "gloss": "tinye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "עִמָּךְ",
+      "gloss": "n'akụkụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:07:54.816599372Z",
+  "model": "glm-5.3"
+}

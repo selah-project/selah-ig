@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 63,
+  "translation": "M tụrụ ọ̀kụ̀ ndị mmadụ n'iwe m, m mee ka ha ṅụ́ rụọ afọ na ndidi m, ma m kụọ ọbara ha ala.",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "m tụrụ ọ̀kụ̀"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "n'iwe m"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "m mee ka ha ṅụ́ rụọ afọ"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "na ndidi m"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "ma m kụọ ala"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "ọbara ha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:09:52.455814842Z",
+  "model": "glm-5.3"
+}

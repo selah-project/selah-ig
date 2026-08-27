@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ma ọ na-ewepụta iyi na-asọ site na nkume, ma na-eme ka mmiri dakoro dịka osimiri.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ma ọ na-ewepụta"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "iyi na-asọ"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "site na nkume"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "ma na-eme ka dakoro"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "dịka osimiri ndị"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:39.468839376Z",
+  "model": "glm-5.3"
+}

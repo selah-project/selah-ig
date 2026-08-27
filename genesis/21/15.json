@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Mmiri ahụ n'ime akpa ahụ gwụrụ, o wee tee ⟨את⟩ nwa ahụ n'okpuru otu n'ime osisi ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "ha gwụrụ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri ahụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "akpa ahụ"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "o tee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ahụ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "nwa ahụ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "osisi ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:38:07.654175800Z",
+  "model": "glm-5.3"
+}

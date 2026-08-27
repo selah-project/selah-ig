@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Maka mgbe m na-ejide ọnụ, ọkpụkpụ m na-agwụ ike, n'iiti m mkpu oyi n'ọsọ ụbọchị niile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "m na-ejide ọnụ"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "na-agwụ ike"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ọkpụkpụ m"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "n'iiti m mkpu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:58.164409443Z",
+  "model": "glm-5.3"
+}

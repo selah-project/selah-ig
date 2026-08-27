@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "M ga-ejide ⟨את⟩ iwu-nduzi gị; ahapụla m ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu-nduzi gị"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "iwu-nduzi gị"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "m ga-ejide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ahapụla"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "m"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:53.923785096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "N'abali, na ụtụtụ, na etiti ehihie, m ga-agwa onwe m oku wee nwụte olu, ọ ga-anụkwa olu m.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "N'abali"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "na ụtụtụ"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "na etiti ehihie"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "m ga-agwa onwe m oku"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "wee nwụte olu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ọ ga-anụkwa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "olu m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:36.583477879Z",
+  "model": "glm-5.3"
+}

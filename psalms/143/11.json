@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 143,
+  "translation": "Maka aha gị, Yahwe, kpọlite m ndụ; n'ihe ziri ezi nke gị, wepụ mkpụrụ obi m n'ọnyịma.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "kpọlite m ndụ"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "n'ihe ziri ezi nke gị"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "wepụ"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "n'ọnyịma"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:53.571068220Z",
+  "model": "glm-5.3"
+}

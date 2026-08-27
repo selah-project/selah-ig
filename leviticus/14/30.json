@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ọ ga-eme ⟨את⟩ otu n'ime ụmụ nke turtle-dove ma ọ bụ n'ime ụmụ nke nduru, site na ihe aka ya nwere ike iru.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ọ ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "ụmụ nke turtle-dove"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ nke"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "nduru"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "site na ihe"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "nwere ike iru"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:53:40.632003307Z",
+  "model": "glm-5.3"
+}

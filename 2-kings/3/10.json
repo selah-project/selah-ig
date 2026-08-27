@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Eze Yisrael wee si: Ewo! n'ihi na Yahwe akpọala ⟨את⟩ ndị eze atọ a, ka e nyefe ha n'aka Moab.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee si"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ewo!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "akpọla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "maka"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "atọ a"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ka e nyefe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ha (ndị eze atọ a)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-27T10:11:40.456158848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Mee egwu maka Yahwe, ndị-nsọ ya, kelee ⟨את⟩ ncheta nsọ ya.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Mee egwu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ndị-nsọ ya"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "kelee"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "⟨את⟩ ncheta"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nsọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:29.426339036Z",
+  "model": "glm-5.3"
+}

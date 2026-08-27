@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'ụbọchị ahụ, m ga-eme ka ndozite ⟨את⟩ ihe niile nke m kwuru banyere ụlọ ya ruo ⟨n'aka⟩ Eli — malite ma mechaa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "m ga-eme ka ndozite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo ⟨n'aka⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "m kwuru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    },
+    {
+      "surface": "החל",
+      "gloss": "malite"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ma mechaa"
+    }
+  ],
+  "timestamp": "2026-08-27T09:02:07.919120035Z",
+  "model": "glm-5.3"
+}

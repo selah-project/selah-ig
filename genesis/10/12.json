@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "na ⟨את⟩ Resen, n'etiti Nineve na Kalah; ⟨ọ⟩ bụ obodo ukwu ahụ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ọ⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ukwu ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:06.128360912Z",
+  "model": "glm-5.3"
+}

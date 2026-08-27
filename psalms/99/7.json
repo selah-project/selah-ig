@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 99,
+  "translation": "N'osisi igwe ojii ọ na-ekwu okwu ha; ha chekwara ihe akaebe ya, ma nyekwa ha iwu.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "N'osisi"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "igwe ojii"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ọ na-ekwu okwu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ha chekwara"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ihe akaebe ya"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ma iwu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o nyere"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:44.629351133Z",
+  "model": "glm-5.3"
+}

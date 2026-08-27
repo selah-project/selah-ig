@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Yahwe, Ị nụla ihe ndị di-nwụrụ-n'onwe-ha na-achọ; Ị na-edozi obi ha, Ị na-etụ ⟨the⟩ ntị gị ala ige.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ihe a na-achọ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ndị di-nwụrụ-n'onwe-ha"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Ị nụla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "Ị na-edozi"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "obi ha"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "Ị na-etụ ala ige"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ntị gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:38.898636459Z",
+  "model": "glm-5.3"
+}

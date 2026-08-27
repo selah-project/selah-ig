@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "Ha bibiri na En-Dor; ha ghọrọ nsị maka ala.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Ha bibiri"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "na"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "En-Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ha ghọrọ"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "nsị"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "maka ala"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:53.099912380Z",
+  "model": "glm-5.3"
+}

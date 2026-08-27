@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 5:2",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ọ dịkwa, mgbe eze hụrụ ⟨את⟩ Ester eze-nwanyi guzo n'ogige ahụ, ọ nwetara amara n'anya ya; eze wee megide aka nye Ester ⟨את⟩ mkpọ mkpọ ọchịchị ọla edo ahụ naka aka ya; Ester wee bịa nso, wee mikpuọ aka n'isi mkpọ mkpọ ahụ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dịkwa"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "mgbe ọ hụrụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ester"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "eze-nwanyi"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "guzo"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "n'ogige ahụ"
+    },
+    {
+      "surface": "נשאה",
+      "gloss": "ọ nwetara"
+    },
+    {
+      "surface": "חן",
+      "gloss": "amara"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "n'anya ya"
+    },
+    {
+      "surface": "ויושט",
+      "gloss": "ma ọ megide aka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "nye Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpọ mkpọ ọchịchị ọla edo"
+    },
+    {
+      "surface": "שרביט",
+      "gloss": "mkpọ mkpọ ọchịchị"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "naka aka ya"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "ma ọ bịa nso"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "ma ọ mikpuọ aka"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "השרביט",
+      "gloss": "mkpọ mkpọ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:21:10.819491725Z",
+  "model": "glm-5.3"
+}

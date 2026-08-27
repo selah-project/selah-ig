@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Anyị na-echeta ⟨את⟩ azụ̄ nke anyị na-eri na Mitzrayim n'efu: ⟨את⟩ kụkamba, na ⟨את⟩ melon, na ⟨את⟩ esịsa akwụkwọ, na ⟨את⟩ yabasị, na ⟨את⟩ esịsa.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Anyị na-echeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azụ̄"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "azụ̄"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "anyị na-eri"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitzrayim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "n'efu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kụkamba"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "kụkamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "melon"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "melon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "esịsa akwụkwọ"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "esịsa akwụkwọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "yabasị"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "yabasị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "esịsa"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "esịsa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:28:38.588345465Z",
+  "model": "glm-5.3"
+}

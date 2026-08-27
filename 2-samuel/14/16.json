@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Maka eze ga-ege ntị iji napụta ⟨את⟩ odibo ya n'aka nwoke ahụ, n'ime ka a kwụpụ ⟨את⟩ m na ⟨את⟩ nwa m ọnụ, site na ihe nketa nke Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ga-ege ntị"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "iji napụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odibo ya"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "odibo ya"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke ahụ"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "n'ime ka a kwụpụ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nwa m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "site na ihe nketa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T09:38:16.717830521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 66,
+  "translation": "N'ihi na Ị nwalere anyị, Elohim; Ị kacha anyị dịka a na-akacha ọlaọcha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "Ị nwalere anyị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "Ị kacha anyị"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "dịka a na-akacha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọlaọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:18.963136444Z",
+  "model": "glm-5.3"
+}

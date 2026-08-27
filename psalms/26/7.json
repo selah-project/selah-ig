@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ịnụ olu ekele, na ịkọwapụta ihe dị ịtụnanya gị niile.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ịnụ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ekele"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "na ịkọwapụta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ihe dị ịtụnanya gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:39.318282177Z",
+  "model": "glm-5.3"
+}

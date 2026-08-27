@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "N'ihi na onye ọ bụla na-eme ihe ndị a bụ ihe-ọjọọ nye Yahwe; maka ihe-ọjọọ ndị a, Yahwe, Elohim gị, na-achụpụ ⟨את⟩ ha n'ihu gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ihe-ọjọọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ihe ndị a"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "maka"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "ihe-ọjọọ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "na-achụpụ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha (mba ndị ahụ)"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "n'ihu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:04:31.972104392Z",
+  "model": "glm-5.3"
+}

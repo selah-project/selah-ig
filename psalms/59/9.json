@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 59,
+  "translation": "Ma gị, Yahwe, ga-achị ha ọchị; Ị ga-enyo enyo maka mba niile.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "ga-achị ọchị"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "ga-enyo enyo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka niile"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:58.444871569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Agbagọwo m, adalarịwo m ruo nke ukwuu; ụbọchị niile m na-aga na-eru uju.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "agbagọwo m"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "adalarịwo m"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "na-eru uju"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "m na-aga"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:28.445963898Z",
+  "model": "glm-5.3"
+}

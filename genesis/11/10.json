@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ndị a bụ ọmụmụ Shem: Shem bụ nwa afọ otu narị mgbe ọ mụrụ ⟨את⟩ Arpakshad, afọ abụọ mgbe ihe mmetụta ahụ gasịrị.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ọmụmụ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "narị"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "afọ abụọ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mgbe...gasịrị"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ihe mmetụta ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:24.929315119Z",
+  "model": "glm-5.3"
+}

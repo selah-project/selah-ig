@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Onye na-amịnye nkume ga-emerụ ya ahụ; onye na-ebe osisi ga-emikpu n'ihi ha.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "na-amịnye"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "ga-emerụ ya ahụ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'ihi ha"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "na-ebe"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "osisi"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ga-emikpu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "n'ihi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T15:15:35.977754762Z",
+  "model": "glm-5.3"
+}

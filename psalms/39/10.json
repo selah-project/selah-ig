@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "A rụgidere m, m megheghị ọnụ m; n'ihi na gị mere ya.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "a rụgidere m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "m meghe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "mere"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:34.049086361Z",
+  "model": "glm-5.3"
+}

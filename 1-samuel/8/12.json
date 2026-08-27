@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "ọ ga-edobekwa ndị isi pukukụ na ndị isi ọgụ ise ise maka onwe ya, ndị ga-akọ ubi ya, ndị ga-ewe ihe ubi ya, ndị ga-emepụta ngwá agha ya na ngwá ụgbọchariá ya.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "ga-edobe maka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka onwe ya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "puku"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na ndị isi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ise ise"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "ga-akọ"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "ubi ya"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "ga-ewe"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "ihe ubi ya"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ga-emepụta"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ngwá"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "agha ya"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "na ngwá"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ụgbọchariá ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:02:23.992135680Z",
+  "model": "glm-5.3"
+}

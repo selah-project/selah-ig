@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 56,
+  "translation": "Na Elohim ka m ga-eto okwu Ya; na Elohim ka m tụkwasịrị obi; aga m atụghị egwu — ihe ka anụ ahụ nwere ike ime m?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "m ga-eto"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "okwu Ya"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "m tụkwasịrị obi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "m ga-atụ egwu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ihe gịnị"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nwere ike ime"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "anụ ahụ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:45.237166375Z",
+  "model": "glm-5.3"
+}

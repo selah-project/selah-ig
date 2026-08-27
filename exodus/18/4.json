@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ma aha nke nke ọzọ bụ Eliezer, n'ihi na ọ sịrị, 'Elohim nke nna m bụ ⟨nọ⟩ n'enyem m, ma ọ napụtara m n'aka mmaa Parʿo.'",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nke ọzọ"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nke nna m"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "dị ka onye inye m aka"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "ma ọ napụtara m"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "n'aka mmaa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parʿo"
+    }
+  ],
+  "timestamp": "2026-08-27T06:19:56.113884845Z",
+  "model": "glm-5.3"
+}

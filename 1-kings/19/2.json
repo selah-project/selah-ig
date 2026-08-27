@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Izebel wee ziga ozi gaa Eliya, sị: Chi ndị nwee ike ime m otu a, ha gbakwunyekwa, n'ihi na n'oge a echi, m ga-eme ⟨את⟩ ndụ gị ka ndụ otu n'ime ha.",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "ziga"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ozi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "mee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chi ndị"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "gbakwunyekwa otu a"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "gbakwunye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "n'oge a"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "echi"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "m ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndụ gị"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ndụ gị"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "ka ndụ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "n'ime ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:08:14.617802412Z",
+  "model": "glm-5.3"
+}

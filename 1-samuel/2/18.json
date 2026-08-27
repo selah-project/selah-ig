@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ma Shmuel na-ejere ozi n'ihu Yahwe, okorobịa, o kegidere ephod dị nke linin.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ma Shmuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "na-ejere ozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "okorobịa"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "o kegidere"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "nke linin"
+    }
+  ],
+  "timestamp": "2026-08-27T09:00:35.321181917Z",
+  "model": "glm-5.3"
+}

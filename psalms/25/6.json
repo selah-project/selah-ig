@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Cheta ⟨את⟩ ebere gị, Yahwe, na chesed gị, n'ihi na kemgbe ebighị ebi ka ha dị.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Cheta"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ebere gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "na chesed gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kemgbe ebighị ebi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:35.891020931Z",
+  "model": "glm-5.3"
+}

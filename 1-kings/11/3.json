@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "O nwere ụmụnwaanyị ndị isi, narị asaa, na ndị mkpakọ ndị nwunye, narị atọ; ụmụnwaanyị ya wee tụgharịa ⟨את⟩ obi ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "O nwere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ụmụnwaanyị"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "ndị mkpakọ ndị nwunye"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "wee tụgharịa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ụmụnwaanyị ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi ya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "obi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:01:16.823221203Z",
+  "model": "glm-5.3"
+}

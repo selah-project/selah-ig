@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ma nwa nwoke otu nke Achimelek nwa Achitub gbapụrụ, aha ya bụ Evyatar, ma ọ gbagara n'azụ David.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "gbapụrụ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "Achimelek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Achitub"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "aha ya bụ"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "gbagara"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "n'azụ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-27T09:21:31.295449431Z",
+  "model": "glm-5.3"
+}

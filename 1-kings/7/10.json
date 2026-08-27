@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ala ntọala ahụ bụkwa nkume dị oké ọnụ ahịa, nkume ukwu, nkume nke ama iri, na nkume nke ama asatọ.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "ala ntọala ahụ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "dị oké ọnụ ahịa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "nkume nke"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "na nkume nke"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "asatọ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    }
+  ],
+  "timestamp": "2026-08-27T09:53:15.490533749Z",
+  "model": "glm-5.3"
+}

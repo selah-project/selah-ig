@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 140,
+  "translation": "Dọta m pụọ, Yahwe, n'aka mmadụ ọjọọ, chebe m n'aka nke ime ike.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "dọta m pụọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YAHWE"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "n'aka mmadụ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "n'aka onye"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "nke ime ike"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "chebe m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:56.245743445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ugbu a nwa m, gee ntị n'olu m, maka ihe m na-nyere gị ⟨את⟩ iwu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ugbu a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gee ntị"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "n'olu m"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "maka ihe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "na-nyere iwu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:22:25.534075274Z",
+  "model": "glm-5.3"
+}

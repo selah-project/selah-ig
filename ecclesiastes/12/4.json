@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "ma ọnụ ụzọ mechaa n'okporo ụzọ ama, mgbe ụda nke igwe na-atụ ụka dara ada, mmee nke ụda olu nnụnụ, ma ụmụ nwaanyị abụọ daa mbà;",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "ma ... mechaa"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "n'okporo ụzọ ama"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "mgbe ... dara ada"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ụda"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "nke igwe na-atụ ụka"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "mmee"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "nke ụda olu"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "nnụnụ"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "daa mbà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ụmụ nwaanyị niile"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "nwaanyị"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "abụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:18:48.607701150Z",
+  "model": "glm-5.3"
+}

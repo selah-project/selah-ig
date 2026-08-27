@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "N'ihi na ị ga-eme ka ha tọghata ⟨azụ⟩, mgbe ị na-edozi ụdọ ụta gị elu megide ihu ha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "ị ga-etinye ha"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ubu-azụ"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "n'ụdọ ụta gị"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "ị ga-edozi"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu megide"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ihu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:27.214028647Z",
+  "model": "glm-5.3"
+}

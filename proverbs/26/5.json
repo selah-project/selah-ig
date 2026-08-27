@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Zaa onye nzuzu dịka nzuzu ya, ka ọ ghara ịbụ onye amamiya n'anya ⟨nke⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Zaa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "onye nzuzu"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "dịka nzuzu ya"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ịbụ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "onye amamiya"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "n'anya ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:30:54.525759373Z",
+  "model": "glm-5.3"
+}

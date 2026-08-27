@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 86,
+  "translation": "Mejuo obi ohu gị Ụtọ, n'ihi na gị ka, Adonai, m na-ewelite ndụ m.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Mejuo obi ... Ụtọ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "obi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ndụ m"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "m na-ewelite"
+    }
+  ],
+  "timestamp": "2026-08-27T13:49:02.658378201Z",
+  "model": "glm-5.3"
+}

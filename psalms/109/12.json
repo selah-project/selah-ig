@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Arọla ka e nwee onye na-agbatị chesed nye ya, ma arọla ka e nwee onye na-egosi ebere maka ụmụ mgberi ya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "arọla"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ka ọ dị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "משך",
+      "gloss": "onye na-agbatị"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma arọla"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ka ọ dị"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "onye na-egosi ebere"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "maka ụmụ mgberi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:49.552736247Z",
+  "model": "glm-5.3"
+}

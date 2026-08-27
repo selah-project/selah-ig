@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "⟨את⟩ mmalite-izu nke m ka unu chekwaa, ⟨את⟩ ebe nsọ m ka unu jụọ egwu; m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmalite-izu nke m"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mmalite-izu nke m"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ka unu chekwaa"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ebe nsọ m"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ka unu jụọ egwu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:55.066852755Z",
+  "model": "glm-5.3"
+}

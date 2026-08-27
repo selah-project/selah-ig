@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Elohim chetara ⟨את⟩ Noach, na ⟨את⟩ mkpụrụobi ndị dị ndụ niile, na ⟨את⟩ anụmanụ ụlọ niile nke ⟨את⟩ nọ ya n'ụgbọ mmiri ahụ, Elohim wee mee ka ifufe gafere n'elu ⟨the⟩ ụwa, mmiri ahụ wee dakasị",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "chetara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mkpụrụobi ndị dị ndụ niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "mkpụrụobi ndị dị ndụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "anụmanụ ụlọ niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "anụmanụ ụlọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nọ ya"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "n'ụgbọ mmiri"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "mee ka ọ gafere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ifufe"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "dakasị"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:25.794392183Z",
+  "model": "glm-5.3"
+}

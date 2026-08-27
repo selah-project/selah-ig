@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 67,
+  "translation": "ka a mata n'ụwa ụzọ Gị, n'etiti mba niile nzọpụta Gị.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ka a mata"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ụzọ Gị"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'etiti niile"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "nzọpụta Gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:15.499763149Z",
+  "model": "glm-5.3"
+}

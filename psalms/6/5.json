@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Laghachi, Yahwe, tinye aka napụta ⟨את⟩ ndụ m; zọpụta m n'ihi chesed gị.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Laghachi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "tinye aka napụta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ndụ m"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "zọpụta m"
+    },
+    {
+      "surface": "למען",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:22.150764231Z",
+  "model": "glm-5.3"
+}

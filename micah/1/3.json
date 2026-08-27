@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "N'ihi na le, Yahwe na-apụ n'ebe obibi ya, ga-adakwa, ga-agakwa n'elu ndagwurugwu dị elu nke ụwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "na-apụ"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "n'ebe obibi ya"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ga-adakwa"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ga-agakwa n'elu"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "ndagwurugwu dị elu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nke ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T12:53:41.663487449Z",
+  "model": "glm-5.3"
+}

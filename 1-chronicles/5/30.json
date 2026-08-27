@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Elazar mụrụ ⟨את⟩ Pinchas; Pinchas mụrụ ⟨את⟩ Avishua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishua"
+    }
+  ],
+  "timestamp": "2026-08-27T15:53:51.147989496Z",
+  "model": "glm-5.3"
+}

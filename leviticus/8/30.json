@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 8:30",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma Moshe were nke mmanụ nsọ nke ite mmanụ, na nke ọbara nke dị n'elu ebe àjà, ma ṅụfie ya n'elu Aharon, n'elu uwe ya, na n'elu ụmụ ya, na n'elu uwe ụmụ ya ya ⟨את⟩; ma doo ya nsọ ⟨את⟩ Aharon ⟨את⟩ uwe ya, ⟨את⟩ ụmụ ya, na ⟨את⟩ uwe ụmụ ya ya ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "nke mmanụ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "nsọ nke ite mmanụ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na nke"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "על",
+      "gloss": "dị n'elu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe àjà"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "ma ṅụfie ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uwe ya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na n'elu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na n'elu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ya ⟨את⟩"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ma doo nsọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe ya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uwe ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uwe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ya ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T06:51:27.575484960Z",
+  "model": "glm-5.3"
+}

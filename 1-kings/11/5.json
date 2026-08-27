@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Shelomah soro ⟨את⟩ Ashtoret, chi nke ụmụ Tsidon, na Milkom, ihe jọrọ njọ nke ụmụ Amon.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "soro"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "gaa-azụ"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "ụmụ Tsidon"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na gaa-azụ"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ihe jọrọ njọ"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "ụmụ Amon"
+    }
+  ],
+  "timestamp": "2026-08-27T09:59:44.765347314Z",
+  "model": "glm-5.3"
+}

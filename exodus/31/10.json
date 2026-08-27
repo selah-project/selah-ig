@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "na ⟨את⟩ uwe nke ọrụ, na ⟨את⟩ uwe nsọ maka Aharon onye-nchu-aja, na ⟨את⟩ uwe ụmụ ya, iji na-eme nchụ-aja;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uwe nke ọrụ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "nke ọrụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uwe nsọ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "maka Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uwe ụmụ ya"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "iji na-eme nchụ-aja"
+    }
+  ],
+  "timestamp": "2026-08-27T06:32:39.338786463Z",
+  "model": "glm-5.3"
+}

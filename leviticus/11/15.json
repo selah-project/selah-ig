@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "⟨את⟩ mmadụ nke oraṅgụ́ ọ bụla, dịka ụdị ya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmadụ nke oraṅgụ́ ọ bụla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "oraṅgụ́"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "dịka ụdị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:48:21.555447865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ndị ukwu nke ụwa ga-eri nri ma na-efe ya ofufe; ndị niile na-ada n'ime uzụ ga-amụkọ ikpere n'ihu ya; ọbụnadị onye enweghị ike idobe ndụ ya.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "ga-eri nri"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ma na-efe ya ofufe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "ndị ukwu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nke ụwa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ga-amụkọ ikpere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "na-ada"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "n'ime uzụ"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ndụ ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enweghị ike"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "idobe ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:31.391982843Z",
+  "model": "glm-5.3"
+}

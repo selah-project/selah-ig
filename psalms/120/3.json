@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 120,
+  "translation": "Gịnị ka a ga-enye gị, ma gịnị ka a ga-agbakwunye gị, ⟦ọ⟩ asụsụ aghụghọ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Gịnị"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ka a ga-enye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ma gịnị"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ka a ga-agbakwunye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "asụsụ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "aghụghọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:34.046536089Z",
+  "model": "glm-5.3"
+}

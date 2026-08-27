@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Torah ⟨⟨otu⟩⟩ ga-adị maka nwa amaala, na maka onye ọbịa bi n'etiti unu.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "maka nwa amaala"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "na maka onye ọbịa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "na-ebi"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "n'etiti unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:15:15.736848217Z",
+  "model": "glm-5.3"
+}

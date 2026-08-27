@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ekpere nke David. Nụọ, Yahwe, okwu ziri ezị; tụgharịa ntị na mkpu m; nye ntị n'ekpere m — ⟨na ọ bụ⟩ na-enweghị imi na-aghọ aghọ.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Ekpere"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Nụọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "okwu ziri ezị"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "tụgharịa ntị"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "na mkpu m"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "nye ntị"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "n'ekpere m"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "na-enweghị"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "na-aghọ aghọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:30.430747955Z",
+  "model": "glm-5.3"
+}

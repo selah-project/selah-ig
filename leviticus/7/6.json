@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Nwoke ọ bụla n'etiti ndị nchu-aja ga-eri ya; n'ebe dị nsọ ka a ga-eri ya; ọ bụ nsọ nke ndị nsọ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "n'etiti ndị nchu-aja"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ga-eri ya"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "dị nsọ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a ga-eri"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nke ndị nsọ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:45:06.022104082Z",
+  "model": "glm-5.3"
+}

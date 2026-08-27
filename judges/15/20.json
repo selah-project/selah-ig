@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ọ wee kpee ⟨את⟩ Isrel ikpe n'ụbọchị ndị Filistia, afọ iri abụọ.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Ọ wee kpee ikpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isrel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isrel"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Filistia"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:52:39.052075515Z",
+  "model": "glm-5.3"
+}

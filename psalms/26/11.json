@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ma m ga-aga n'ụzọ m zuru okè:ọzụpụta m ma nwee obiọọ n'ebe m nọ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "n'ụzọ m zuru okè"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ga-aga"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ọzụpụta m"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ma nwee obiọọ n'ebe m nọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:08.077630875Z",
+  "model": "glm-5.3"
+}

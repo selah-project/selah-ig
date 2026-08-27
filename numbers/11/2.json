@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ndị ahụ wee tie mkpu na Moshe; Moshe wee rịọ Ya ekpere nye Yahwe, nakwa na ọkụ ahụ kwụsịrị.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ha wee tie mkpu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ọ wee rịọ ekpere"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "ọkụ kwụsịrị"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:21:06.085666907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "⟨את⟩ igbe nke aka akaebe, na ⟨את⟩ mkpara ya, na ⟨את⟩ kapporet.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igbe nke aka akaebe"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "aka akaebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mkpara ya"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mkpara ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:15.020474830Z",
+  "model": "glm-5.3"
+}

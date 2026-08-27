@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 115,
+  "translation": "Eluigwe, n'ezie eluigwe, bụ nke Yahwe; mana ụwa ọ nyeworo ụmụ Adam.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "n'ezie eluigwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nke Yahwe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mana ụwa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ọ nyeworo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:19.231416539Z",
+  "model": "glm-5.3"
+}

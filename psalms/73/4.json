@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "N'ihi na enweghị ntaramkpọ n'ọnwụ ha, ma ahụ ha dị ike ma bụrụkwa nke siri ike.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "ntaramkpọ"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "n'ọnwụ ha"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "ma dị ike"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ahụ ha siri ike"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:59.043712826Z",
+  "model": "glm-5.3"
+}

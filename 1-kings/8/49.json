@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "ma nụọ Gị n'eluigwe, ebe obibi Gị, ⟨את⟩ ekpere ha na ⟨את⟩ arịrịọ ha, ma mee ikpe ha.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ma nụọ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ebe obibi"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "Gị nọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekpere ha"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ekpere ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arịrịọ ha"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "arịrịọ ha"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ikpe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:57:24.351914586Z",
+  "model": "glm-5.3"
+}

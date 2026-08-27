@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "M wee welie anya m, wee hụ, gbasaa, mpi anọ.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "m wee welie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anya m"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "m wee hụ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gbasaa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "mpi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:04:44.423713723Z",
+  "model": "glm-5.3"
+}

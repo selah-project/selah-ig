@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Nwa m, chebe okwu m, ma gbakọọ iwu m ⟨את⟩ gị.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Nwa m"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "chebe"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "okwu m"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ma iwu m"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "gbakọọ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị",
+      "marks": "iwu m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:19:42.880879209Z",
+  "model": "glm-5.3"
+}

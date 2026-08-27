@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Elohim m, m na-akpọ oku n'ehihie, ma Ị zaghịghị; ma n'abalị, enweghị nnọkịtị maka m.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "m na-akpọ oku"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "n'ehihie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma Ị zaghịghị"
+    },
+    {
+      "surface": "תענה",
+      "gloss": ""
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ma n'abalị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "nnọkịtị"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:28.636119362Z",
+  "model": "glm-5.3"
+}

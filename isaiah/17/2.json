@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "A gbahapụrụ obodo ndị nke Aroer; ha ga-abụ maka ìgwè atụrụ, ha ga-ezu ike ma enweghị onye na-atụ egwu.",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "a gbahapụrụ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroer"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "maka ìgwè atụrụ"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ha ga-abụ"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "ha ga-ezu ike"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma enweghị"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "onye na-atụ egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:44:00.132049451Z",
+  "model": "glm-5.3"
+}

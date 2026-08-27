@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Maka nsọpụrụ aha gị, Yahwe, gbaghara mmehie m, n'ihi na ọ buru ibu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "maka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nsọpụrụ aha gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "gbaghara"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "mmehie m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "רב",
+      "gloss": "buru ibu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:10.086103025Z",
+  "model": "glm-5.3"
+}

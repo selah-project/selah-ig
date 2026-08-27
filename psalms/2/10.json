@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Nnɗo ugbu a, ndị eze, were ụkwụ n'ụzọ amamihe; ndị ọkaikpe nke ụwa, nakwere mmụta nzụzi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Nnɗo ugbu a"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "were ụkwụ n'ụzọ amamihe"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "nakwere mmụta nzụzi"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "ndị ọkaikpe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nke ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:46:18.355797803Z",
+  "model": "glm-5.3"
+}

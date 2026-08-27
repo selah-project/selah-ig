@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Eze nyere iwu ⟨את⟩ Chilkiya onye nchuaka, na ⟨את⟩ Akikam nwa Shafan, na ⟨את⟩ Akbor nwa Mikhaya, na ⟨את⟩ Shafan odeakwụkwọ, na ⟨את⟩ Asaya ohu eze, sị:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chilkiya onye nchuaka"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilkiya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchuaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Akikam"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Akikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Akbor"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akbor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "Mikhaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shafan odeakwụkwọ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "odeakwụkwọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Asaya ohu eze"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asaya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:27:58.692304706Z",
+  "model": "glm-5.3"
+}

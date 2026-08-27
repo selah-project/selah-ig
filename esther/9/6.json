@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Na ⟨the⟩ obí Shushan, ndị Yehuda gburu ma bibie ụmụ nwoke narị ise.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "na na Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "obí ⟨the⟩"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ha gburu"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ndị Yehuda"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ma bibie"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ise"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ụmụ nwoke"
+    }
+  ],
+  "timestamp": "2026-08-27T15:21:41.269486848Z",
+  "model": "glm-5.3"
+}

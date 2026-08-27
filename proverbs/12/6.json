@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Okwu ndị ajọ omume bu izu ohi nke ọbara; mana ọnụ ndị kwụ ọtọ ga-eketa ha.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "izu ohi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "mana ọnụ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ndị kwụ ọtọ"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "ga-eketa ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:20:57.741939565Z",
+  "model": "glm-5.3"
+}

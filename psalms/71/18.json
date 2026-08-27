@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 71:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "Ruokwa n'ọkọ nká na ntọ ntọ, Elohim, ejịla m hapụ; ruo mgbe m ga-akọ ọkwá gị nye ọgbọ a, ike gị nye onye ọ bụla ga-abịa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ruokwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ọkọ nká"
+    },
+    {
+      "surface": "ושיבה",
+      "gloss": "na ntọ ntọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ejịla"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "hapụ m"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "m ga-akọ"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "ọkwá gị"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "nye ọgbọ a"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nye onye ọ bụla"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ga-abịa"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "ike gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:09.895746604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Ọ ga-abịa ma kụọ ⟨את⟩ ala Mitsrajim: nke ọnwụ — ọnwụ; na nke a chụgara mba ọzọ — a chụgara mba ọzọ; na nke mma agha — mma agha.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "ọ ga-abịa"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ma kụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala Mitsrajim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na nke"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "a chụgara mba ọzọ"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "a chụgara mba ọzọ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na nke"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "mma agha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:49:56.067823936Z",
+  "model": "glm-5.3"
+}

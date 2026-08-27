@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Ka ha na-edebe iwu-nsi ya, ma na-echebe tora ya nke ọma. Toonu Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ka ha na-edebe"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ha na-edebe"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "iwu-nsi ya"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "ma tora ya"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ha na-echebe nke ọma"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Toonu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:58.378533873Z",
+  "model": "glm-5.3"
+}

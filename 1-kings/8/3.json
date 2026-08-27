@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ndị okenye Yisrael niile bịara, ma ndị nchụàjà buliri ⟨את⟩ arọkọ ahụ elu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ma ha bịara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ma ha buliri elu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchụàjà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arọkọ ahụ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arọkọ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:56:40.885916028Z",
+  "model": "glm-5.3"
+}

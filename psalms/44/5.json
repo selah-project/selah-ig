@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Ị bụ ⟨Eze m⟩, Elohim; nye iwu ka mgbapụta dịrị Yaakov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ị bụ⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Eze m"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nye iwu"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "mgbapụta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:22.794935039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Maka ụbọchị m agwụla dịka anwụrụ, ma ọkpụkpụ m gbara ọkụ dịka ọkụ na-ere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "agwụla"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "dịka anwụrụ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị m"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "ma ọkpụkpụ m"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "קד",
+      "gloss": "ọkụ na-ere"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "gbara ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:01.815140433Z",
+  "model": "glm-5.3"
+}

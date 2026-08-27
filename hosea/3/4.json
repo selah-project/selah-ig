@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'ihi na ụmụ Yisrael ga-anọkwa ụbọchị ọtụtụ enweghị eze, enweghị onyeisi, enweghị ịchafọ, enweghị olulu nkume nsọ, enweghị ẹfọd, enweghị terafim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ha ga-anọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na enweghị"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onyeisi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na enweghị"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ịchafọ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na enweghị"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "olulu nkume nsọ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na enweghị"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ẹfọd"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "terafim"
+    }
+  ],
+  "timestamp": "2026-08-27T12:39:11.542014233Z",
+  "model": "glm-5.3"
+}

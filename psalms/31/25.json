@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ka anyị sie ike, ma obi unu ga-emesiri ike, unu niile na-atụ anya Yahwe.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Ka anyị sie ike"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "ma ọ ga-emesi obi ike"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "obi unu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "ndị na-atụ anya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:21.709941330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Yahwe lekọtara ⟨את⟩ Sarah dịka o kwuru, Yahwe wee mee maka Sarah dịka o kwuru okwu.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "lekọtara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o kwuru"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wee mee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "maka Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o kwuru okwu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:36:53.869977363Z",
+  "model": "glm-5.3"
+}

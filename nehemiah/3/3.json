@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ha wurukwa ⟨את⟩ ọnụ ụzọ azụ̀; ụmụ Hasenaah kekọtara ya, ha guzobekwara ọnụ ọnụ ụzọ ya, mkpọchi ya, na ụtarụ mmechi ya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọnụ ụzọ azụ̀"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "azụ̀"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ha wuru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenaah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "kekọtara ya"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "ha guzobere"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "ọnụ ọnụ ụzọ ya"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "mkpọchi ya"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "na ụtarụ mmechi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:43:03.121996679Z",
+  "model": "glm-5.3"
+}

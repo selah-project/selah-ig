@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma Elohim kwuru ⟨na⟩ Moshe: Ehyeh dịka Ehyeh. Ọ gwazikwara, Otụ a ka ị ga-ekwu ⟨na⟩ ụmụ Yisrael: Ehyeh zitere m bịara unu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ọ gwazikwara"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Otụ a"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ị ga-ekwu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨na⟩ ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ehyeh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "zitere m"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "bịara unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:10:40.297244862Z",
+  "model": "glm-5.3"
+}

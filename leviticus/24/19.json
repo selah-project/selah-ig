@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ma onye ọ bụla na-etinye nsọpụ n'ọfị onye ya na ya dịkọrọ ndụ, dịka o mere ka ọ dị, otu a ka a ga-eme ya.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ma onye ọ bụla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "na-etinye"
+    },
+    {
+      "surface": "מום",
+      "gloss": "nsọpụ"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "n'ọfị onye ya na ya dịkọrọ ndụ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a ga-eme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:04:16.654204725Z",
+  "model": "glm-5.3"
+}

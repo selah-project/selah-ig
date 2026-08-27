@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "ee, ọ bụrụ na ị kpọrọ nkà oku, ma bulie olu gị elu maka nghọta;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ee, ọ bụrụ na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "nkà"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ị kpọrọ oku"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "maka nghọta"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bulie"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "olu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:14:15.034077970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Yahwe ka ⟨את⟩ nzọpụte dị; elu ndị gị ka ngọzi gị dị. Sela.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "nzọpụte"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndị gị"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "ngọzi gị"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-27T13:09:12.371200444Z",
+  "model": "glm-5.3"
+}

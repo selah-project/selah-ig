@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Nwanne Tachpenes mụrụ nwa nwoke ⟨ọ⟩, ⟨את⟩ Genubath nwa ya; Tachpenes wepụrụ ara ya n'etiti ụlọ Farao, Genubath nke ụlọ Farao nọkwa n'etiti ụmụ Farao.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ọ⟩"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "Nwanne"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tachpenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubath"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubath"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "wepụrụ ara ya"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tachpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nọkwa"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubath"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-08-27T10:01:34.167042250Z",
+  "model": "glm-5.3"
+}

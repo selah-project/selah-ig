@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Mgbe Rachel mụsịrị ⟨את⟩ Yosef, Yaakov sịrị Lavan, Zipụ m ka m gaa n'ebe m na n'ala m.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "(mgbe)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "mụsịrị"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sịrị"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ru"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "zipụ m"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ka m gaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(na)"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "ebe m"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "na ala m"
+    }
+  ],
+  "timestamp": "2026-08-27T05:45:21.478810614Z",
+  "model": "glm-5.3"
+}

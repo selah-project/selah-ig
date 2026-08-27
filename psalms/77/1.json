@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "Maka Onye Na-eduzi Egwu, dịka Yedutun, nke Asaf. Abụ e dere akara.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka Onye Na-eduzi Egwu"
+    },
+    {
+      "surface": "על",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "nke Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Abụ e dere akara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:56.502460399Z",
+  "model": "glm-5.3"
+}

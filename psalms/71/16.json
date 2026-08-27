@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "M ga-abịa n'ike Adonai Yahwe; m ga-echeta ikpe ziri ezi gị, gị naanị gị.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "m ga-abịa"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "n'ike"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "m ga-echeta"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ikpe ziri ezi gị"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "gị naanị gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:54.288106376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 150,
+  "translation": "Toonuo ya n'ụda ọkpọ shofar; toonuo ya na nevel na kinor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Toonuo ya"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "n'ụda ọkpọ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Toonuo ya"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "na nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "na kinor"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:53.069522091Z",
+  "model": "glm-5.3"
+}

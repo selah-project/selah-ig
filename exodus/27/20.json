@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ma gị, ga-enyere ⟨את⟩ ụmụ Yisrael iwu, ha wee were bịakwute gị mmanụ oliv dị ọcha, a kụrụ akụ, maka ìhè, iji mee ka ọkụ na-ere mgbe niile.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma gị"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "ga-enye ... iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ha ga-ewere"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "bịakwute gị"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oliv"
+    },
+    {
+      "surface": "זך",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "a kụrụ akụ"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "maka ìhè"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "iji bulite"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    }
+  ],
+  "timestamp": "2026-08-27T06:30:36.391418128Z",
+  "model": "glm-5.3"
+}

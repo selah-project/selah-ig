@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Hụ, etinyerem m n'ihu gị taa ⟨את⟩ ndụ na ⟨את⟩ ihe ọma, na ⟨את⟩ ọnwụ na ⟨את⟩ ihe ọjọ.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Hụ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "etinyerem"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndụ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ọma"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọnwụ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ọjọ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ihe ọjọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:30:58.849528353Z",
+  "model": "glm-5.3"
+}

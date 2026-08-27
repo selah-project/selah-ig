@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 97,
+  "translation": "Ọkụ na-aga n'ihu ya, ma na-ere ndị iro ya gburugbu.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Ọkụ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "ma na-ere"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugbu"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ndị iro ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:00.248791143Z",
+  "model": "glm-5.3"
+}

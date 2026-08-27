@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Yahwe ga-abụ ebe mgbaba maka onye a dagbidarịrị, ebe mgbaba n'oge nsogbu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ebe mgbaba"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "maka onye a dagbidarịrị"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ebe mgbaba"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "nsogbu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:38.358134758Z",
+  "model": "glm-5.3"
+}

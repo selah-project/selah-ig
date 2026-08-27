@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Dawid were ⟨את⟩ isi nke onye Filistia, wetara ya na Yerushalayim, ma ⟨את⟩ ngwá ya ọ debere n'ụlọikwe ya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi nke onye Filistia"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "nke onye Filistia"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "wetara ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngwá ya"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwá ya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "debere"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "n'ụlọikwe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:14:18.455911816Z",
+  "model": "glm-5.3"
+}

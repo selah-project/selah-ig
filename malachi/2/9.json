@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Mụ onwe m kwa enyela unu ka a na-ele anya n'ala, ka ndị a na-ele n'ala n'ihu ndị niile nke ⟨the⟩ mmadụ, dịka ụzọ m si dị nke unu na-echebe na nke unu na-ebu ⟨the⟩ ihu n' Torah.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ onwe m"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "enyela m"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "ndị a na-ele anya n'ala"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "ndị a na-ele n'ala"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "n'ihu ndị niile nke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ mmadụ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "ọnaghị"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "na-echebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụzọ m"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ụzọ m"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "na-ebu"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "n' Torah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:09:10.005888200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma Natan laghachiri n'ụlọ ya. Ma Yahwe tiere ⟨את⟩ nwa ahụ nke nwunye Uriya mụrụ David, mmekọrịta ọria dakwasịrị ya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ma ... laghachiri"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "Ma ... tiere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ahụ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "nwa ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "mmekọrịta ọria dakwasịrị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:35:55.919561513Z",
+  "model": "glm-5.3"
+}

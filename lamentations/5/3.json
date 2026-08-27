@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Anyị aghọọla ụmụ mgbei, enweghị nna; nne anyị dị ka ndị di ha nwụrụ.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "ụmụ mgbei"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "aghọọla"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "אב",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "nne anyị"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "dị ka ndị di ha nwụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:11:19.768379742Z",
+  "model": "glm-5.3"
+}

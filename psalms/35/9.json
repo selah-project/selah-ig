@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Nkeonwe ya, mkpụrụ obi m ga-eji ṅụnie na Yahwe, ọ ga-asi ọṅụ na nzọpụta ya.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "ga-eji ṅụnie"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "ga-asi ọṅụ"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "na nzọpụta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:49.916547782Z",
+  "model": "glm-5.3"
+}

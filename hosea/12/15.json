@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 12:15",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Efrayim kpasuru iwe n'ụzọ na-atụ egwu; ọbara ya ga-adakwasịrị ya, na mkparị ya Adonai ya ga-agbanye ya.",
+  "tokens": [
+    {
+      "surface": "הכעיס",
+      "gloss": "kpasuru iwe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "תמרורים",
+      "gloss": "n'ụzọ na-atụ egwu"
+    },
+    {
+      "surface": "ודמיו",
+      "gloss": "ọbara ya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "ga-adakwasịrị"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "mkparị ya"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ga-agbanye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Adonai ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:40:25.213141477Z",
+  "model": "glm-5.3"
+}

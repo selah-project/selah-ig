@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 88,
+  "translation": "Maka gịnị, Yahwe, ka i na-achụpụ mmụọ m? I na-ezobe ihu gị n'ebe m nọ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "maka gịnị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ka i na-achụpụ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mmụọ m"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "i na-ezobe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ihu gị"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "n'ebe m nọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:28.739264762Z",
+  "model": "glm-5.3"
+}

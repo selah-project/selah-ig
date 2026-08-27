@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ma <n>uzu mmiri<\/n> na-ebili si n'<n>ụwa<\/n> ahụ, wee ṅụọ ⟨את⟩ <n>ihu<\/n> nke <n>ala<\/n> ahụ niile.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "ma uzu mmiri"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "na-ebili"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n'ụwa ahụ"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "wee ṅụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihu nke ala ahụ niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "nke ala ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:01.917205858Z",
+  "model": "glm-5.3"
+}

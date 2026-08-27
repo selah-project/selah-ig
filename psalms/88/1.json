@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 88,
+  "translation": "Abụ, abụ-ọjị nke ụmụ Korach, maka onye ndú ndị ukwe, na \"Machalat Leannoth\", abụ ntụziaka nke Heman onye Ezraiti.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ-ọjị"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "nke ụmụ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye ndú ndị ukwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "\"Machalath\""
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannoth (maka ịza mkpu)"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "abụ ntụziaka"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "nke Heman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "onye Ezraiti"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:03.038166791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Yahwe ga-enye ya nkwado n'akwa ọrịa; Ị gbanwere àkwà ya niile n'ọrịa ya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "ga-enye ya nkwado"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "akwa"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ọrịa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "àkwà ya"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "Ị gbanwere"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "n'ọrịa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:18.916879249Z",
+  "model": "glm-5.3"
+}

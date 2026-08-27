@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Yahwe ga-achụpụ ⟨את⟩ mba ndị a niile n'ihu unu, unu ga-echikwara mba ndị buru ibu ma sie ike karịa unu.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "ga-achụpụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mba ndị a niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "n'ihu unu"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "unu ga-echikwata"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "buru ibu"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "ma sie ike"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "karịa unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:58:34.480350824Z",
+  "model": "glm-5.3"
+}

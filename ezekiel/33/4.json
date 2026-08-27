@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "onye ọ bụla nke ntị ya nụrụ ụda nke ụgbọ ojii ma ghara ịdọọ onwe ya ọdụ — mma agha bịara were ya, ọbara ya ga-adị n'isi ⟨his⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "onye nụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụda nke ụgbọ ojii"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ụda"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "nke ụgbọ ojii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ghara"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ịdọọ onwe ya ọdụ"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "were ya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ọbara ya"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "n'isi ya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-adị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:22:01.530128487Z",
+  "model": "glm-5.3"
+}

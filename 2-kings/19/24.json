@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 19:24",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "M gwuru olulu ma ṅụọ mmiri ndị ọzọ, ma mee ka mmiri kpọọ nkụ n'isikwu ụkwụ m, iyi niile nke Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "gwuru olulu"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "ma ṅụọ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ndị ọzọ"
+    },
+    {
+      "surface": "ואחרib",
+      "gloss": "ma mee ka kpọọ nkụ",
+      "note": "typo-fix"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "n'isikwu"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ụkwụ m"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "yiyi"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "nke Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T10:27:35.173544288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 140,
+  "translation": "Ndị mpako zoro ụgbụ m, na eriri; ha gbasasịrị net n'akụkụ ụzọ; ha tinyere m ọnyà. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "zoro"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "Ndị mpako"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ụgbụ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "na eriri"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ha gbasasịrị"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "net"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "ọnyà"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ha tinyere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:48.757446110Z",
+  "model": "glm-5.3"
+}

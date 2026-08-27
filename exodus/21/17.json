@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma onye na-akụ̀ nna ya ma ọ bụ nne ya, a ga-anwụ ya n'ọnwụ.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "Ma onye na-akụ̀"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ma ọ bụ nne ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "n'ọnwụ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a ga-anwụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:20.591877565Z",
+  "model": "glm-5.3"
+}

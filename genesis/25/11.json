@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Mgbe Avraham nwụsịrị, Elohim gọziri ⟨את⟩ Yitschak nwa ya, ma Yitschak biri nso Beer-Lachai-Roi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dị mere"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nwụsịrị"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "gọziri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "biri"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nso"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lachai"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-08-27T05:41:30.887596071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "A ghara ịchọta onye ọ bụla n'etiti gị na-eme ka nwa nke ya ma ọ bụ nwa nwanyị ya gafee n'ọkụ, onye na-eme ọsọ-ama, onye na-agụ igwe ojii, onye na-akọwa ọmụma, ma ọ bụ onye na-eji ọgwụ ọjọọ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a ghara"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ịchọta"
+    },
+    {
+      "surface": "בך",
+      "gloss": "n'etiti gị"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "na-eme ka... gafee"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa nke ya"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ma ọ bụ nwa nwanyị ya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "onye na-ekesa"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "ọsọ-ama"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "onye na-agụ igwe ojii"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "onye na-akọwa ọmụma"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "onye na-eji ọgwụ ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:04:31.971789936Z",
+  "model": "glm-5.3"
+}

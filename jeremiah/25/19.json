@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "⟨את⟩ Parao eze Mitzrayim, na ⟨את⟩ ohu ndị ya, na ⟨את⟩ ndị isi ya, na ⟨את⟩ ndị ya niile;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ohu ndị ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ohu ndị ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndị isi ya"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ndị isi ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndị ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:34:22.327962092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "M ga-eme ka ị bụrụ mba ukwu, m ga-egosipụta gị ọbara ọma, m ga-eme ka aha gị bụrụ ukwu; ma gị onwe gị, bụrụ ọbara ọma.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "M ga-eme ka ị bụrụ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "mba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "m ga-egosipụta gị ọbara ọma"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "m ga-eme ka ... bụrụ ukwu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ma ... bụrụ"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ọbara ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T05:31:24.602610860Z",
+  "model": "glm-5.3"
+}

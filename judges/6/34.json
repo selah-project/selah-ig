@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 6:34",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma ruach Yahwe mikpuru ⟨את⟩ Gideon uwe, ọ ti mpi ògwù, ma Abiezer kpọọ oku soro ya.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "ma ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "mikpuru uwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gideon"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "ויתקע",
+      "gloss": "ọ ti"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "mpi ògwù"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "ma kpọọ oku"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiezer"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "soro ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:43:16.842823547Z",
+  "model": "glm-5.3"
+}

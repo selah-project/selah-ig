@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "N'ihi ohu m Yaakov, na Yisrael onye m họrọ, m kpọrọ gị aha gị, m nyere gị aha ọzọ, ma ị maghị m.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "N'ihi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu m"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "onye m họrọ"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "m kpọrọ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "m nyere gị aha ọzọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ị ma m"
+    }
+  ],
+  "timestamp": "2026-08-27T11:02:18.729289789Z",
+  "model": "glm-5.3"
+}

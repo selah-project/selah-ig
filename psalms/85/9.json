@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 85,
+  "translation": "M ga-anụ gịnị El Yahwe ga-ekwu, n'ihi na ⟨ọ⟩ ga-ekwu udo nye ndị ya na nye ndị nsọ ya, ka ha ghara ilaghachi na nzuzu.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "M ga-anụ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ga-ekwu"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ga-ekwu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "אל",
+      "gloss": " nye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na nye"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ndị nsọ ya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ha ghara ilaghachi"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "na nzuzu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:31.410635499Z",
+  "model": "glm-5.3"
+}

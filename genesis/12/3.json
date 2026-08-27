@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "M ga-egosipụta ọbara ọma ndị na-egosipụta gị ọbara ọma, ma onye na-asọ gị ngosi, m ga-ekọ ya ọkọ; ma site na gị, ihe ndị mmadụ niile nke ⟨the⟩ ụwa ga-enweta ọbara ọma.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "M ga-egosipụta ọbara ọma"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "ndị na-egosipụta gị ọbara ọma"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "ma onye na-asọ gị ngosi"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "m ga-ekọ ya ọkọ"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "ga-enweta ọbara ọma"
+    },
+    {
+      "surface": "בך",
+      "gloss": "site na gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ihe ndị mmadụ \/ ezinụlọ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "nke ⟨the⟩ ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T05:31:24.602843505Z",
+  "model": "glm-5.3"
+}

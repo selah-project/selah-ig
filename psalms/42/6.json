@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Gịnị ka ị na-adaba, mkpụrụ obi m? Gịnị ka ị na-akpọ mkpu n'ime m? Chere Elohim, maka m ga-eto ya ọzọ, mmesi ahụ ihu ya.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "ị na-adaba"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "na-akpọ mkpu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'ime m"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "chere"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "m ga-eto ya"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "mmesi ahụ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ihu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:04.103948860Z",
+  "model": "glm-5.3"
+}

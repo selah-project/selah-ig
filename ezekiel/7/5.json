@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Otú ka Adonai Yahwe si kwu: Ọjọọ dị, otu Ọjọọ naanị ya, le, ọ na-abịa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "otú ka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "si kwu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Ọjọọ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu naanị ya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Ọjọọ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ọ na-abịa"
+    }
+  ],
+  "timestamp": "2026-08-27T12:00:26.641086016Z",
+  "model": "glm-5.3"
+}

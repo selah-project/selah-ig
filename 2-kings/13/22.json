@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ma Hazael, eze Aram, megidere ⟨את⟩ Izrelụ n'ụbọchị niile nke Yehoahaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Ma Hazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "megidere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrelụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrelụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "nke Yehoahaz"
+    }
+  ],
+  "timestamp": "2026-08-27T10:21:54.106579622Z",
+  "model": "glm-5.3"
+}

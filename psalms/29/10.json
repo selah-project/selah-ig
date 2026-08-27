@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Yahwe nọrọ chiri oche n'elu idei mmiri ukwu; ma Yahwe na-anọ dịka Eze ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "n'elu idei mmiri ukwu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nọrọ chiri oche"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ma na-anọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dịka Eze"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:07.473377019Z",
+  "model": "glm-5.3"
+}

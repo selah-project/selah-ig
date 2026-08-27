@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Nzukọ dum nke ụmụ Yisrael wee fụọ narịrịrị megide Moshe na megide Aharon n'ọzara ahụ.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "fụọ narịrịrị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dum"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na megide"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    }
+  ],
+  "timestamp": "2026-08-27T06:19:02.753049850Z",
+  "model": "glm-5.3"
+}

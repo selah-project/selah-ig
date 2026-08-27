@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Ọ katọrọ Ọdọ Mmiri nke Suph, ruo mgbe ọ kpọrọ nkụ, duuru ha gafee omimi dịka ọzara.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "Ọ katọrọ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "n'Ọdọ Mmiri"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "nke Suph"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "ruo mgbe ọ kpọrọ nkụ"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "duuru ha gafee"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "omimi"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "dịka ọzara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.888004285Z",
+  "model": "glm-5.3"
+}

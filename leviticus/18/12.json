@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ọtọ nke nwanne nwanyị nke nna gị gị agaghị ekpughe, n'ihi na ọbara nna gị ka ọ bụ.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ọtọ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "nke nwanne nwanyị"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nke nna gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ịkpughe"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nke nna gị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:56:24.701449538Z",
+  "model": "glm-5.3"
+}

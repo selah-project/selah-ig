@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Yosef na-atụsi ⟨את⟩ nrọ, ma gwa ụmụnne ya, ha wee gbakwunye ịkpọ ya asị.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "na-atụsi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "nrọ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ma gwa"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ụmụnne ya"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "ha wee gbakwunye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ịkpọ asị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:12.835302457Z",
+  "model": "glm-5.3"
+}

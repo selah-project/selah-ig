@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 2:31",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ọgbọ ahụ, leenu okwu Yahwe: M ọ̀ ghọrọ ọzara nye Yisrael, ma ọ bụ ala ọchịchịrị? Maka gịnị ka ndị m kwuru, sị: Anyị na-agagharị n'efu; anyị agaghị abịa gị ọzọ?",
+  "tokens": [
+    {
+      "surface": "הדור",
+      "gloss": "Ọgbọ ahụ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "leenu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ọzara"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "m ghọrọ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "nye Yisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מאפליה",
+      "gloss": "ọchịchịrị"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "maka gịnị ka"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ha kwuru, sị"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "רדנו",
+      "gloss": "anyị na-agagharị n'efu"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "anyị abịa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T11:14:12.452391Z",
+  "model": "glm-5.3"
+}

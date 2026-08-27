@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Onye-ọrụ ahụ wee kọwara Yitschak ⟨את⟩ ihe niile ọ rụrụ.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "ọ wee kọwaa"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "onye-ọrụ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:40:39.604596195Z",
+  "model": "glm-5.3"
+}

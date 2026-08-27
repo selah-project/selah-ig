@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Banyere ya, gwa ụmụ unu, ma ụmụ unu gwa ụmụ ha, ma ụmụ ha gwa ọgbọ ọzọ.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Banyere ya"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "gwa ụmụ unu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "kọwaa"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ma ụmụ unu"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "gwa ụmụ ha"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ma ụmụ ha"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "gwa ọgbọ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:43:32.479150634Z",
+  "model": "glm-5.3"
+}

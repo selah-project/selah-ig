@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "M na m maara na eze nke Mitsrayim agaghị ekwe ka unu jee — ọ bụghịkwa ruo mgbe ⟨aka⟩ siri ike gasịrị.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "maara m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ekwe ka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nke Mitsrayim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ije"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ bụghịkwa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "site n'aka"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "siri ike"
+    }
+  ],
+  "timestamp": "2026-08-27T06:10:49.000801125Z",
+  "model": "glm-5.3"
+}

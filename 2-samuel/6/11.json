@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma ark nke Yahwe nọrọ n'ụlọ Oved-Edom onye Giti ọnwa atọ; ma Yahwe gọziri ⟨את⟩ Oved-Edom na ⟨את⟩ ụlọ ya niile.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ma-ọ-nọrọ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "onye-Giti"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ọnwa"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ma-ọ-gọziri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved-Edom"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ-ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:33:11.788169982Z",
+  "model": "glm-5.3"
+}

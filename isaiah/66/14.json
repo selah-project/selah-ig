@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 66:14",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 66,
+  "translation": "Unu ga-ahụ, obi unu ga-eri ụtọ, ma ọkpụkpụ unu ga-amị mkpụrụ dịka ahịhịa ọhụrụ; aka Yahwe ga-amata ⟨את⟩ ndị ohu ya, ma iwe ya ga-adaba n'⟨את⟩ ndị iro ya.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "unu ga-ahụ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ga-eri ụtọ"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "obi unu"
+    },
+    {
+      "surface": "ועצמותיכם",
+      "gloss": "ọkpụkpụ unu"
+    },
+    {
+      "surface": "כדשא",
+      "gloss": "dịka ahịhịa ọhụrụ"
+    },
+    {
+      "surface": "תפרחנה",
+      "gloss": "ga-amị mkpụrụ"
+    },
+    {
+      "surface": "ונודעה",
+      "gloss": "ga-amata"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ohu ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "iwe ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị iro ya"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ndị iro ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:13:28.247218180Z",
+  "model": "glm-5.3"
+}

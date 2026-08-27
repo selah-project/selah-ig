@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "N'ihe gbasara obosara nke ụlọikuku ahụ, n'akụkụ ọwụwa anyanwụ, n'iwo anyanwụ, ga-abụ cubit iri ise.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "ma obosara"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "nke ụlọikuku ahụ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "n'iwo anyanwụ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "iri ise"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    }
+  ],
+  "timestamp": "2026-08-27T06:29:08.140112990Z",
+  "model": "glm-5.3"
+}

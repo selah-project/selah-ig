@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "M hụla onye ajọ omume, onye ike gwụrụ, na-esa mkpụrụ onwe ya dị ka osisi ala a mụrụ n'ala ya, na-acha akwụkwọ ndụ.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "M hụla"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ajọ omume"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "onye ike gwụrụ (onye na-eti ndị ọzọ egwu)"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "na-esa mkpụrụ onwe ya"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "dị ka osisi ala a mụrụ n'ala ya"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "na-acha akwụkwọ ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:40.116365502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ọ ga-ewepụ ùgwù gị pụta dịka ìhè, na ikpe ziri ezi gị dịka etiti ehihie.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ọ ga-ewepụ pụta"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "dịka ìhè"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ùgwù gị"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "na ikpe ziri ezi gị"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "dịka etiti ehihie"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:37.378267753Z",
+  "model": "glm-5.3"
+}

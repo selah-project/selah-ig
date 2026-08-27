@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 53,
+  "translation": "Maka onye nduzi nke ukwe, dịka akpọrọ 'Machalath', abụ ntụziaka nke David dere.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye nduzi nke ukwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dịka akpọrọ"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "'Machalath'"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "abụ ntụziaka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David dere"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:19.975243251Z",
+  "model": "glm-5.3"
+}

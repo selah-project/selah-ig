@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 59,
+  "translation": "Enweghị ajọjọ ha na-agba ọsọ ma na-akwadebe onwe ha; kpọlite onwe gị ka ị zute m, ma le anya.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ajọjọ"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "ha na-agba ọsọ"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "ma na-akwadebe onwe ha"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "kpọlite onwe gị"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "ka ị zute m"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ma le anya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:39.695136900Z",
+  "model": "glm-5.3"
+}

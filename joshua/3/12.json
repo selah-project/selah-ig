@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ugbu a, were maka onwe unu ụmụ nwoke iri na abụọ n'agbụrụ ndị Yisrael — nwoke otu, nwoke otu maka otu agbụrụ ọ bụla.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ugbu a"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "were"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka onwe unu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "n'agbụrụ ndị"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "maka otu agbụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:20:19.363559186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Echiche ndị ikpe ziri ezi bu ikpe ziri ezi; atụmatụ ndị ajọ omume bu aghụghọ.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "echiche"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ndị ikpe ziri ezi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "atụmatụ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aghụghọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:20:57.741754403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Site na Elohim, anyị ga-eme ike ndị agha, ma ⟨ọ⟩ bụ onye ga-azọ ụkwụ ndị iro anyị.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "site na Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "anyị ga-eme"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ike ndị agha"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma ⟨ọ⟩"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "ga-azọ ụkwụ"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ndị iro anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:45.344969214Z",
+  "model": "glm-5.3"
+}

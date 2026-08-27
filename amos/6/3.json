@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 6:3",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ndị na-achụpụ ụbọchị ọjọọ pụọ, ma na-ewetara oche nke ime ihe ike ná nso.",
+  "tokens": [
+    {
+      "surface": "המנדים",
+      "gloss": "Ndị na-achụpụ pụọ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "ותגישון",
+      "gloss": "na-ewetara ná nso"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "oche"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ime ihe ike"
+    }
+  ],
+  "timestamp": "2026-08-27T12:49:40.983885260Z",
+  "model": "glm-5.3"
+}

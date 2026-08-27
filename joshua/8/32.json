@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "O dee ebe ahụ n'elu ⟨את⟩ nkume ihe odide nke Torah nke Moshe, nke o dere n'ihu ụmụ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "O dee"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe odide nke Torah nke Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ihe odide"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "nke Torah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "nke Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "o dere"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T08:26:21.233266580Z",
+  "model": "glm-5.3"
+}

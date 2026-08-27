@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Maka Ozni, ezinụlọ nke ndị Ozni; maka Eri, ezinụlọ nke ndị Eri.",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "maka Ozni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ezinụlọ"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "nke ndị Ozni"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "maka Eri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ezinụlọ"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "nke ndị Eri"
+    }
+  ],
+  "timestamp": "2026-08-27T07:33:42.469924432Z",
+  "model": "glm-5.3"
+}

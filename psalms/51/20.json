@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Mee ihe ọma n'ọchịchọ gị nye ⟨את⟩ Tsiyon;_ji nke gị mee ka mgbidi nke Yerushalayim bilie.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "mee ihe ọma"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "n'ọchịchọ gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "mepụta\/mee ka ọ bilie"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mgbidi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:02.752829710Z",
+  "model": "glm-5.3"
+}

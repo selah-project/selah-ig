@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Ma nwa nwanyị Tsor, na onyinye, ga-arịọ ⟨ihu⟩ gị; ndị bara ọgaranya n'etiti ⟨ndị⟩ mmadụ.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Ma nwa nwanyị"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "na onyinye"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ihu gị"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "ga-arịọ"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "ndị bara ọgaranya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨ndị⟩ mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:30.766785406Z",
+  "model": "glm-5.3"
+}

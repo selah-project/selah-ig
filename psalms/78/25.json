@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Achịcha nke ndị ike ka nwoke ọ bụla riri; ọ zipụrụ ha nri ruo ịju afọ.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "achịcha"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "nke ndị ike"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "riri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke ọ bụla"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "nri"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zipụrụ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ruo ịju afọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:42.518234992Z",
+  "model": "glm-5.3"
+}

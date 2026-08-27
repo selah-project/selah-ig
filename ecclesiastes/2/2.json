@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "M kwuru maka ọchị, ọ bụ isi mgbaka; maka ọṅụ, Kedu ihe nke a na-eme?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "maka ọchị"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "M kwuru"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "ọ bụ isi mgbaka"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "maka ọṅụ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kedu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T15:13:18.310454667Z",
+  "model": "glm-5.3"
+}

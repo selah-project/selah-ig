@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 107:36",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ọ na-eme ka ndị agụụ na-agụ bi n'ebe ahụ, ha wee guzobe obodo ebe obibi.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "Ọ na-eme ka...bi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "ndị agụụ na-agụ"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "ha wee guzobe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ebe obibi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:35.208057959Z",
+  "model": "glm-5.3"
+}

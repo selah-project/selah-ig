@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ndin a bụ ntọala Shelomoh tọrọ maka iwu ⟨את⟩ ụlọ Elohim — ogologo ya, site na otu nke mbụ, ogologo ruru ámà iri isii, obosara ruru ámà iri abụọ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ndin a bụ"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "tọrọ ntọala"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "maka iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "ogologo ya"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ámà"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "site na otu"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ámà"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "iri isii"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "obosara"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ámà"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:08:23.240259609Z",
+  "model": "glm-5.3"
+}

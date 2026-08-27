@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Elohim, mee ka anyị laghachi; ka ihu gị na-egbawanye ìhè; anyị ga-azọpụta.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "mee ka anyị laghachi"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ka ... na-egbawanye ìhè"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ihu gị"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "anyị ga-azọpụta"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:29.163421682Z",
+  "model": "glm-5.3"
+}

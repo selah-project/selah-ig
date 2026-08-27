@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ugbu a gaa, m ga-adịkwa gị na-esoọnụ gị, ma m ga-akuziere gị ihe ị ga-ekwu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ugbu a"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "m ga-adịkwa"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na-eso"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ọnụ gị"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "m ga-akuziere gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ị ga-ekwu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:09:55.072796123Z",
+  "model": "glm-5.3"
+}

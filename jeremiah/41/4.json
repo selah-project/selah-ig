@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Ọ dịkwa n'ụbọchị nke abụọ ka e gbusịrị ⟨את⟩ Gedalyahu, ma onye ọ bụla amaghị ihe ahụ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dịkwa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ka e gbusịrị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "ו איש",
+      "gloss": "ma onye ọ bụla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "amaghị ihe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:46:37.543212067Z",
+  "model": "glm-5.3"
+}

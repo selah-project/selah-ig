@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Site na ọdịnjo gị ka ⟨ha⟩ na-agba ọsọ; site na ụda ọgụ igwe gị ka ⟨ha⟩ na-ama ọsọ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "ọdịnjo gị"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "ha na-agba ọsọ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ụda"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "ọgụ igwe gị"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "ha na-ama ọsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:23.919895388Z",
+  "model": "glm-5.3"
+}

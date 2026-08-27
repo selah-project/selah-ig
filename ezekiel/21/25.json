@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ị ga-ewepụta ⟨the⟩ ụzọ ka mmaọbụbụ wee bata, Rabbah nke ụmụ Ammon, na ⟨את⟩ Yehuda na ⟨the⟩ Yerushalayim e wusiri ike.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ị ga-etinye"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ka ọ bata"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah nke ụmụ Ammon"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "e wusiri ike"
+    }
+  ],
+  "timestamp": "2026-08-27T12:11:52.580178021Z",
+  "model": "glm-5.3"
+}

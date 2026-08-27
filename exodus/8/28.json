@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Paroh wee mee ka ⟨את⟩ obi ya dị arọ ọzọ n'oge a, ma hapụghị ⟨את⟩ ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "wee mee ka ọ dị arọ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi ya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "obi ya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma anaghị"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hapụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:12:27.277598031Z",
+  "model": "glm-5.3"
+}

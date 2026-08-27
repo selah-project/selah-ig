@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ma i ga-eme ọnya ntutu ewu ka ọ bụrụ ụlọikwu n'elu ụlọnsọ; ọnya iri na otu ka i ga-eme ⟨את⟩ ha.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ma i ga-eme"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ọnya"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ntutu ewu"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ka ọ bụrụ ụlọikwu"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ụlọnsọ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "iri na otu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ọnya"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka i ga-eme"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:28:25.439881895Z",
+  "model": "glm-5.3"
+}

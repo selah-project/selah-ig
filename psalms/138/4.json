@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 138,
+  "translation": "Eze ndị niile nke ụwa ga-ekere Yahwe mma, n'ihi na ha nụrụ okwu ndị nke ọnụ Gị.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ha ga-ekere Gị mma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nke ụwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ha nụrụ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "okwu ndị"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "nke ọnụ Gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:57.323879205Z",
+  "model": "glm-5.3"
+}

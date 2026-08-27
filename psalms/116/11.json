@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 116,
+  "translation": "M kwuru, n'ọsọ ụjọ m, na mmadụ nile bụ ndị na-aghụ ọghọ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "m kwuru"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "n'ọsọ ụjọ m"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nile"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ndị na-aghụ ọghọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:17.347526868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ezi-ezigbo gị ⟨⟨bụ⟩⟩ ezigbo ruo mgbe ebighị ebi, na iwu gị ⟨⟨bụ⟩⟩ eziokwu.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ezi-ezigbo gị"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ezigbo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "na iwu gị"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "eziokwu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:38.187075285Z",
+  "model": "glm-5.3"
+}

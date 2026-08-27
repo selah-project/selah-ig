@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 126,
+  "translation": "Abụ nke ọrụ ngo (mbilite n'ọnwụ). Mgbe Yahwe welaghachiri ⟨את⟩ nlaghachi nke Tsiyon, anyị bụ́ ka ndị nrọ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nke ọrụ ngo (mbilite n'ọnwụ)"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "mgbe…welaghachiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nlaghachi nke Tsiyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "nlaghachi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "anyị bụ́"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "ka ndị nrọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:27.425783040Z",
+  "model": "glm-5.3"
+}

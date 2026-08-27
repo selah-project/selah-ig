@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 108,
+  "translation": "N'ihi na ukwu karịa eluigwe bụ chesed gị, ma ruo ìrì-elu bụ eziokwu gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "karịa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed gị"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ma ruo"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ìrì-elu"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "eziokwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:04.656612273Z",
+  "model": "glm-5.3"
+}

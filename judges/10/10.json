@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ụmụ Isrel wee tie mkpu ruo Yahwe, na-ekwu, Anyị mehiere gị, maka na anyị ahapụla ⟨את⟩ Elohim anyị, anyị wee na-efe ⟨את⟩ ndị Baal ofufe.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "wee tie mkpu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isrel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Anyị mehiere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "anyị ahapụla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim anyị"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "anyị wee na-efe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Baal ofufe"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ndị Baal ofufe"
+    }
+  ],
+  "timestamp": "2026-08-27T08:46:21.121717121Z",
+  "model": "glm-5.3"
+}

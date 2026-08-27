@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma ọ bụrụ na nwa nwoke ree ⟨את⟩ nwa ada ya ka ọ bụrụ odibe nwaanyị, ọ gaghị apụ dịka ụzọ ndị odibe nwoke si apụ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "ree"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwa nwoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ada ya"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "nwa ada ya"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "ka ọ bụrụ odibe nwaanyị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gaghị"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "apụ"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "dịka ụzọ si apụ"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ndị odibe nwoke"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:25.383540473Z",
+  "model": "glm-5.3"
+}

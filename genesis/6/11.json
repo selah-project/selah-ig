@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "⟨⟨Ala⟩⟩ ahụ tara ahụhụ n'ihu Elohim, ma jupụta n'ihe ike ala ahụ.",
+  "tokens": [
+    {
+      "surface": "וtsishachet",
+      "gloss": "tara ahụhụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ma jupụta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "n'ihe ike"
+    }
+  ],
+  "timestamp": "2026-08-27T05:27:55.674408491Z",
+  "model": "glm-5.3"
+}

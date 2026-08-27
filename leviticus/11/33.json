@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ma ite ọ bụla nke ụrọ, nke ihe ọ bụla n'ime ha daa n'ime ya, ihe niile dị n'ime ya ga-adịghị ọcha, na ⟨את⟩ ya ka unu ga-emebi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ma ite ọ bụla"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ite"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "nke ụrọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "daa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "site n'ime ha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "ime ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "dị n'ime ya"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ga-adịghị ọcha"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (ite ụrọ ahụ)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ka unu ga-emebi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:48:51.912799212Z",
+  "model": "glm-5.3"
+}

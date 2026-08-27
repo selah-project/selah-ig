@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ọ dị anya, ihe ndị bụ ya; ma ihe miri emi, miri emi — onye ka nwere ike ịchọta ya?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "ọ dị anya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ndị bụ ya"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ma ihe miri emi"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "miri emi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "ga-achọta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:15:46.488604782Z",
+  "model": "glm-5.3"
+}

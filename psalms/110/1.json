@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 110,
+  "translation": "Abụ ọgụ nke Davide. Okwu nkwupụta nke Yahwe nye Adonai m: Nọdụ ala n'aka nri m, ruo mgbe m ga-eme ka ndị iro gị bụrụ oche ụkwụ n'okpuru ụkwụ gị.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "nke Davide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ ọgụ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "okwu nkwupụta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "nye Adonai m"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nọdụ ala"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "n'aka nri m"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "m ga-eme ka"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ndị iro gị"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "oche ụkwụ"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "n'okpuru ụkwụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:15.823356093Z",
+  "model": "glm-5.3"
+}

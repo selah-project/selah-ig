@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "O wee mee, mgbe Achab nwụsịrị, na eze Moab mehiela iwu megide eze Izrel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "O wee mee"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "mgbe ọ nwụsịrị"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "mehie iwu megide"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    }
+  ],
+  "timestamp": "2026-08-27T10:12:29.493879208Z",
+  "model": "glm-5.3"
+}

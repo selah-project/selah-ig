@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma ugbu a, le, mkpu nke ụmụ Yisrael erutewo m, m hụkwara ⟨את⟩ mmegbu nke ndị Mitzrayim na-emenụ ha.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ma ugbu a"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "mkpu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באה",
+      "gloss": "erutewo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "m hụkwara"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "m hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmegbu"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "mmegbu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ndị Mitzrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "na-emegbu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:09:51.970413812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Elohim gọziri ⟨את⟩ ha, na-asị: Mụọ ụmụ, mụbaakwa, mejupụta ⟨את⟩ mmiri n'ime oké osimiri, ma nnụnụ ṅụba n'ụwa.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "gọziri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "mụọ ụmụ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mụbaakwa"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "mejupụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmiri"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "n'ime oké osimiri"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ma nnụnụ"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ṅụba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:11.630461269Z",
+  "model": "glm-5.3"
+}

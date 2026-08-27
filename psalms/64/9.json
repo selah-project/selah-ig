@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 64,
+  "translation": "Ha mekwara ka ⟨ọ⟩ daa; otule ha dị megide ha; onye ọ bụla na-ahụ ha na-atụ ⟨isi⟩.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "ha mekwara ka ọ daa"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "megide ha"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "otule ha"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "na-atụ ⟨isi⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "na-ahụ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:56.636835916Z",
+  "model": "glm-5.3"
+}

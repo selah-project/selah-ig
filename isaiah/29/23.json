@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "N'ihi na mgbe ọ hụrụ ụmụ ya — ọrụ aka m — n'etiti ya, ha ga-adọrọ aha m nsọ, ma ha ga-adọrọ ⟨את⟩ Onye Nsọ nke Yaakov nsọ, ma ⟨את⟩ Elohim nke Yisrael ha ga-atụ ụfọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "mgbe ọ hụrụ"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "n'etiti ya"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "ha ga-adọrọ ... nsọ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "aha m"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "ma ha ga-adọrọ ... nsọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Onye Nsọ nke Yaakov"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Onye Nsọ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim nke Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "ha ga-atụ ụfọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:50:15.824858897Z",
+  "model": "glm-5.3"
+}

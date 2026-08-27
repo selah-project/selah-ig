@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Nyere m azụ m nye ndị na-akụ, na agbara m nye ndị na-agbọ ntutu; zoghị m ihu m na mkpari na ịfụ ọfụm.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "azụ m"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nyere m"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "ndị na-akụ"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "na agbara m"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "ndị na-agbọ ntutu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "zoghị m"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "na mkpari"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "na ịfụ ọfụm"
+    }
+  ],
+  "timestamp": "2026-08-27T11:05:34.473632286Z",
+  "model": "glm-5.3"
+}

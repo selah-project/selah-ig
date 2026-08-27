@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 144,
+  "translation": "Obi ụtọ ndị mmadụ nwere ihe dị otú ahụ; obi ụtọ ndị mmadụ nke Yahwe bụ Elohim ha.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "obi ụtọ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "nwere ihe dị otú ahụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "obi ụtọ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "nke Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "bụ Elohim ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:37.145244075Z",
+  "model": "glm-5.3"
+}

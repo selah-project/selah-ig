@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Zụọ nwata n'ụzọ ọ ga-eso; ọbụna mgbe ọ tooro okenye, ọ gaghị apụ na ya.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "zụọ"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "nwata"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ụzọ ya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọbụna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "ọ tooro okenye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghị"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ọ ga-apụ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:27:37.280793314Z",
+  "model": "glm-5.3"
+}

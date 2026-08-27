@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "M gwara unu n'oge ahụ, na-asị: M nwere ike ịjụ — ọ bụghị naanị m onwe m ka m nwere ike ibu unu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "M gwara"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "m nwere ike"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "naanị m onwe m"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:48:44.184665441Z",
+  "model": "glm-5.3"
+}

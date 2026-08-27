@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Mmụọ ọcha nke ndị kwụ ọtọ ga-eduzi ha, ma mbụ a rụrụ arụ nke ndị na-eri ihe ga-ebibi ha.",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "mmụọ ọcha"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ndị kwụ ọtọ"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "ga-eduzi ha"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "ma mbụ a rụrụ arụ"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "ndị na-eri ihe"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "ga-ebibi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:21:36.717054502Z",
+  "model": "glm-5.3"
+}

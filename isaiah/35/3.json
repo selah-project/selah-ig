@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Mezie aka ndị dara mbà, ma kwusikwuo ike ikpere ndị na-adadike.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Mezie"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "aka"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "ndị dara mbà"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "ma ikpere"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "ndị na-adadike"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "kwusikwuo ike"
+    }
+  ],
+  "timestamp": "2026-08-27T10:52:30.209497673Z",
+  "model": "glm-5.3"
+}

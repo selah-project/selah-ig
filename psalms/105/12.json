@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Mgbe ha bụ ndị ikpe ole na ole n'ọnụ ọgụgụ, mmadụ ole na ole n'ezie, na ndị ```ọnọ``` obodo therè na ya.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "Mgbe ha bụ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ndị ikpe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "n'ọnụ ọgụgụ"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "mmadụ ole na ole n'ezie"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "na ndị ọnọ obodo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:31.217623874Z",
+  "model": "glm-5.3"
+}

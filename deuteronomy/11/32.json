@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Unu ga-elezie anya ime ⟨את⟩ iwu ndị niile na ⟨את⟩ ikpe ndị nke m na-etinye n'ihu unu taa.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "unu ga-elezie anya ime"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu ndị niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iwu ndị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ikpe ndị"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ikpe ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "na-etinye"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "n'ihu unu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    }
+  ],
+  "timestamp": "2026-08-27T07:58:26.625216023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Yehonatan wepụrụ ⟨את⟩ uwe elu nke dị n'elu ya, nyekwa ya David, yana uwe ya, ruo na mma agha ya, ruo na ụta ya, ruo na eriri úkwù ya.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "wepụrụ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe elu"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "uwe elu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dị n'elu ya"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "nyekwa ya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "yana uwe ya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo na"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "mma agha ya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo na"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ụta ya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo na"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "eriri úkwù ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:16:11.194654714Z",
+  "model": "glm-5.3"
+}

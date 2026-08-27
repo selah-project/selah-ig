@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Yahwe wee sị: Dịka ohu m Yeshayahu na-agagharị n'akpaghị aka na n'ụkwụ ọtụ, oge ụma atọ ga-abụ akara na ihe ịtụnanya megide Mitzrayim na megide Kush.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "na-agagharị"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu m"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "n'akpaghị aka"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "na n'ụkwụ ọtụ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "oge ụma"
+    },
+    {
+      "surface": "אות",
+      "gloss": "akara"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "na ihe ịtụnanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na megide"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-27T17:17:05.238623405Z",
+  "model": "glm-5.3"
+}

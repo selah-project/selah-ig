@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Echefula olu ndị iro gị; mkpọtụ ndị na-ebili megide gị na-ago elu mgbe niile.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Echefula"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "echefu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ndị iro gị"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "mkpọtụ"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "ndị na-ebili megide gị"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "na-ago elu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:47.642147887Z",
+  "model": "glm-5.3"
+}

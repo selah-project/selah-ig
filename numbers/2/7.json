@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ebo Zevulun; ma onye-isi ụmụ Zevulun ⟨bụ⟩ Eliav nwa Kelon.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "ebo"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ma onye-isi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Kelon"
+    }
+  ],
+  "timestamp": "2026-08-27T07:12:17.676298523Z",
+  "model": "glm-5.3"
+}

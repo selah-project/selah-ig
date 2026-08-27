@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "N'ihi na n'ebe Yahwe nọ ka obi anyị na-atọ ⟨the⟩ ụtọ, n'ihi na n'⟨the⟩ aha nsọ ya ka anyị adabewo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'ebe ya nọ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "na-atọ ụtọ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "obi anyị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "n'aha"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nsọ ya"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "anyị adabewo"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:39.058819539Z",
+  "model": "glm-5.3"
+}

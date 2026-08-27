@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 137,
+  "translation": "Ka ire m rịkọọ n'elu ọnụ m, ma ọ bụrụ na echefaghị gị, ma ọ bụrụ na m ebughị ⟨את⟩ Yerushalayim elu dị ka isi obi ụtọ m.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "ka ... rịkọọ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ire m"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "n'elu ọnụ m"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "echefughị gị"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "m ebughị elu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "dị ka"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "obi ụtọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:04.384979041Z",
+  "model": "glm-5.3"
+}

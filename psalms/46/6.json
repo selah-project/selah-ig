@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Elohim nọ n'etiti ⟨ya⟩, ọ gaghị agbaji; Elohim ga-enyere ⟨ya⟩ aka site na mgbe ụtụtụ na-acha.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "nọ n'etiti ⟨ya⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "agbaji"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "ga-enyere ⟨ya⟩ aka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "site na mgbe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ụtụtụ na-acha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:48.811370765Z",
+  "model": "glm-5.3"
+}

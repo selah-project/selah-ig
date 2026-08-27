@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ha amaghị etu si eme ihe ziri ezi, kwuru Yahwe; ha na-echekwa ike ike na mbupụ n'ime ogbugbe ha.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ha amaghị"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ịma"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "eme ihe"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "ziri ezi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "ha na-echekwa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ike ike"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "na mbupụ"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "n'ime ogbugbe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:45:31.910555370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọ bụrụ na ị dinara ala, ị ga-atụghị egwu; ee, ị ga-edina, ma ụra gị ga-adị ụtọ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ị dinara ala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "atụ egwu"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "ị ga-edina"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "ga-adị ụtọ"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "ụra gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:12:22.889895320Z",
+  "model": "glm-5.3"
+}

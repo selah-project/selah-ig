@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "na ⟨את⟩ Yeuts na ⟨את⟩ Shekhya na ⟨את⟩ Mirmah; ndị a ụmụ ya, ndị isi nke ⟨ndị⟩ nna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shekhya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Shekhya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "nke nna"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:18.096331664Z",
+  "model": "glm-5.3"
+}

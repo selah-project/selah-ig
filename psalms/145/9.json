@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Yahwe dị mma nye ⟨ndị⟩ niile, ma ọmịiko ya dị n'elu ọrụ ya niile.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nye ⟨ndị⟩ niile"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "ma ọmịiko ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "dị n'elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ọrụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:10.695840971Z",
+  "model": "glm-5.3"
+}

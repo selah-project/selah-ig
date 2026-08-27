@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 11:5",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ka e nwee ike izube ⟨את⟩ iṅụ ase nke m ṅụrụ nye nna nna unu, i nyere ha ala na-asọ mmiri na mmanụ aṅụ, dịka ụbọchị a si dị; m zaghịrị, m wee kwuo: Amen, Yahwe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ka e nwee ike"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "izube"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṅụ ase"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "iṅụ ase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "m ṅụrụ"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "nna nna unu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "i nyere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "na-asọ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na mmanụ aṅụ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "dịka ụbọchị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ואען",
+      "gloss": "m zaghịrị"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "m wee kwuo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:22:24.621115141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Onye na-ezute mmimi n'ime ndagwurugwu; n'etiti ugwu ha na-aga.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Onye na-ezute"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "mmimi"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "n'ime ndagwurugwu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ha na-aga"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:19.970320292Z",
+  "model": "glm-5.3"
+}

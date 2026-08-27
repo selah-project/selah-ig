@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Moshe na Aharon bịara n'ihu ụlọikwu nzukọ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ụlọikwu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:28:40.749792894Z",
+  "model": "glm-5.3"
+}

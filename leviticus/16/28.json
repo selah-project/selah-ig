@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ma onye na-ere ⟨את⟩ ha ga-asà uwe ya, ma saa ⟨את⟩ ahụ ya n'ime mmiri, ma mgbe nke ahụ gasịrị, ọ ga-abata n'ogige ahụ.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "ma onye na-ere"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ga-asà"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uwe ya"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ma saa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahụ ya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ahụ ya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "n'ime mmiri"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ma mgbe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nke ahụ gasịrị"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ọ ga-abata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ogige ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:58:58.864956149Z",
+  "model": "glm-5.3"
+}

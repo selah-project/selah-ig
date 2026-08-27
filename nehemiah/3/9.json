@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'aka ha siri ike Rəfayah nwa Chur, onye-isi nke ọkara nke mpaghara Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "Rəfayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onye-isi"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ọkara"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "mpaghara"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T15:41:42.327927166Z",
+  "model": "glm-5.3"
+}

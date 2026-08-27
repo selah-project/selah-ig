@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "N'ihi na Yahwe letara ⟨את⟩ Hannah, o tụrụ ime, wee mụọ ụmụ nwoke atọ na ụmụ nwanyị abụọ; nwa ahụ bụ Shmuel tolitere ya na Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "letara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hannah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hannah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "o tụrụ ime"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wee mụọ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "na abụọ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ụmụ nwanyị"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "tolitere"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nwa ahụ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T09:00:31.058620239Z",
+  "model": "glm-5.3"
+}

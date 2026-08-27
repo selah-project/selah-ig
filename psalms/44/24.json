@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Mee! Gịnị kpatara na ị na-ehi ụra, Adonai? Bilie! Echefula anyị ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Mee!"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Gịnị kpatara"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "na-ehi ụra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Bilie!"
+    },
+    {
+      "surface": "אל",
+      "gloss": "echefula"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:00.778161028Z",
+  "model": "glm-5.3"
+}

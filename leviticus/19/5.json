@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ma ọ bụrụ na unu na-echụ anụ ịchafọ nke udo nye Yahwe, maka nnabata unu ka unu ga-echụ ya.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "unu na-echụ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "anụ ịchafọ"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "nke udo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "maka nnabata unu"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "unu ga-echụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:58:13.109555634Z",
+  "model": "glm-5.3"
+}

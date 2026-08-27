@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Na ⟨את⟩ ⟨the⟩ isi okpu nke ahụ nkata, na ⟨את⟩ ihe ịchọ mma isi nke ahụ nkata, na ⟨את⟩ uwe ọ dị n'okpuru nke ahụ nkata nke a gbajiri agbaji.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "isi okpu"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "isi okpu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ahụ nkata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihe ịchọ mma isi"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "ihe ịchọ mma isi"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "okpu ndị ahụ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ahụ nkata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "uwe ọ dị n'okpuru"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "uwe ọ dị n'okpuru"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "ahụ ln"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ahụ nkata"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "nke a gbajiri agbaji"
+    }
+  ],
+  "timestamp": "2026-08-27T06:41:39.390244976Z",
+  "model": "glm-5.3"
+}

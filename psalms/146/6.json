@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 146,
+  "translation": "Onye na-eme eluigwe na ụwa, ⟨את⟩ oké osimiri na ⟨את⟩ ihe niile dị n'ime ha; Onye na-echebe eziokwu ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Onye na-eme"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na ụwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oké osimiri"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dị n'ime ha"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Onye na-echebe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "eziokwu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:26.256608046Z",
+  "model": "glm-5.3"
+}

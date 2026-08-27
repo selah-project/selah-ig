@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Atalia, nne Ahazia, hụrụ na nwa ya nwoke anwụọla; wee bilie, wee bibie ⟨את⟩ mkpụrụ niile nke alaeze ahụ.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Atalia"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nne"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazia"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מת",
+      "gloss": "anwụọla"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nwa ya nwoke"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "wee bilie"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "wee bibie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpụrụ niile nke alaeze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "nke alaeze"
+    }
+  ],
+  "timestamp": "2026-08-27T10:19:29.660579298Z",
+  "model": "glm-5.3"
+}

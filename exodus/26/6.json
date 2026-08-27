@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ma i ga-eme ọgịrịga iri ise nke ọlaedo, ma jikọọ ⟨את⟩ ọnya ndị ahụ otu nwanne nwanyị ⟨na⟩ nwanne ya nwanyị site na ọgịrịga ndị ahụ; ma ọ ga-abụ otu ụlọnsọ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ma i ga-eme"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "iri ise"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ọgịrịga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nke ọlaedo"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "ma jikọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọnya ndị ahụ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ọnya ndị ahụ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "otu nwanne nwanyị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "nwanne ya nwanyị"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "site na ọgịrịga ndị ahụ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ma ọ ga-abụ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ụlọnsọ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:28:25.439673247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Chụọàja Elohịm ekele, ma kwụọ Elyon nkwa ndị ị kwere",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "chụọ àja"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohịm"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ekele"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "ma kwụọ"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nkwa ndị ị kwere"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:56.129943637Z",
+  "model": "glm-5.3"
+}

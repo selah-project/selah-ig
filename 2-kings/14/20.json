@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ha buru ⟨את⟩ ya n'elu ịnyịnya, e liekwara ya na Yerushalayim ya na ndị nna nna ya, n'obodo Dawid.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Ha buru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "ịnyịnya"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e liekwara ya"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ndị nna nna ya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-27T10:20:25.154526635Z",
+  "model": "glm-5.3"
+}

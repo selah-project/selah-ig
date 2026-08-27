@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Nke a bụ ⟨the⟩ ngọzi nke Moshe, nwoke nke Elohim, gọziri ⟨את⟩ ụmụ Yisraẹl tupu ọnwụ ya.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ma nke a bụ"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ngọzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "gọziri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisraẹl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹl"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tupu"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "ọnwụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:16:44.318707298Z",
+  "model": "glm-5.3"
+}

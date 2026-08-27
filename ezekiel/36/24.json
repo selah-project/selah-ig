@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 36:24",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "M ga-ewe ⟨את⟩ unu n'aka site n'etiti mba ndị ọzọ, m ga-ewekọta ⟨את⟩ unu site n'ala niile, m ga-edu ⟨את⟩ unu banye n'ala unu.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "m ga-ewe ... n'aka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu n'aka site n'etiti mba ndị ọzọ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "etiti mba ndị ọzọ"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "m ga-ewekọta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu site n'ala niile"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "site na ihe niile nke"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ala"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "m ga-edu ... banye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu banye n'ala unu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "banye na"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ala unu"
+    }
+  ],
+  "timestamp": "2026-08-27T12:25:49.465851441Z",
+  "model": "glm-5.3"
+}

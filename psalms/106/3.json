@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Obi dị ⟨ndị⟩ na-edebe ikpe, onye na-eme izi na oge niile.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Obi dị"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "na-edebe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "onye na-eme"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "izi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na oge niile"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:59.827954182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "⟨העם⟩ ndị na-ewe iwe m n'ihu m n'oge niile, na-egbu anụ ọfụma n'olulu ubi, na-esi ite ọṅụ n'elu brik.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "⟨העם⟩ ndị"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "na-ewe iwe"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "m"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "n'oge niile"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "na-egbu anụ ọfụma"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "n'olulu ubi"
+    },
+    {
+      "surface": "ו מקטרים",
+      "gloss": "na-esi ite ọṅụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "brik"
+    }
+  ],
+  "timestamp": "2026-08-27T11:12:08.585937747Z",
+  "model": "glm-5.3"
+}

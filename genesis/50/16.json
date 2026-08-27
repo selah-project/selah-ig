@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Ha nyere ndị ozi iwu gaa Yosef, ka ha wee sị: 'Nna gị nyere iwu tupu ọnwụ ya, ka a sị:'",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "ha nyere iwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ha wee sị"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tupu"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "ọnwụ ya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka a sị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:06:21.396491028Z",
+  "model": "glm-5.3"
+}

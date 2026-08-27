@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Maka ọ na-agọzi mkpụrụ obi ya n'oge ndụ ya; ha ga-eto gị, maka ị na-emere onwe gị ọma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mkpụrụ obi ya"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "n'oge ndụ ya"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "na-agọzi"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "ha ga-eto gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "na-emere ọma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "onwe gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:15.549389235Z",
+  "model": "glm-5.3"
+}

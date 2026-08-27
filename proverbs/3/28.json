@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Agwala enyi gị, 'Gaa ma laghachite, echi ka m ga-enye gị,' mgbe ihe dị n'aka gị.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "agwala"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "gwa"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "enyi gị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ma laghachite"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "echi"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ka m ga-enye"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "mgbe ihe dị"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ n'aka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:13:48.415052969Z",
+  "model": "glm-5.3"
+}

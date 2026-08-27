@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Ma ha gwakọtara n'etiti ndị mba ọzọ, wee mụta ọrụ aka ha.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "ha gwakọtara"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "n'etiti ndị mba ọzọ"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "wee mụta"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ọrụ aka ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:26.595744690Z",
+  "model": "glm-5.3"
+}

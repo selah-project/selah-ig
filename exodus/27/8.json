@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "O gbawara ọ̀họ́ n'ime ya, bọọdụ ka ị ga-eme ⟨את⟩ ya; dịka e gosiri ⟨את⟩ gị n'ugwu, otu a ka ha ga-eme ya.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "O gbawara ọ̀họ́"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "bọọdụ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ka ị ga-eme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "e gosiri"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ha ga-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T06:30:02.365420620Z",
+  "model": "glm-5.3"
+}

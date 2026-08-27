@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Ị hụrụ ikpe ziri ezi n'anya ma kpọọ ajọ omume asị; ya mere Elohim, Elohim gị, tee gị mmanụ ṅụrị ọṅụ karịa ndị otu gị.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ị hụrụ n'anya"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "ma kpọọ asị"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ajọ omume"
+    },
+    {
+      "surface": "על",
+      "gloss": "ya mere (n'ihi)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "tee gị mmanụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ṅụrị ọṅụ"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "karịa ndị otu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:32:31.916382823Z",
+  "model": "glm-5.3"
+}

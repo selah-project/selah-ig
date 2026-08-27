@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Okwu nke ịkpọasị gbara m gburugburu, ha lụsoro m ọgụ n'efu",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "nke ịkpọasị"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "gbara m gburugburu"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "ha lụsoro m ọgụ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "n'efu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:54.047087988Z",
+  "model": "glm-5.3"
+}

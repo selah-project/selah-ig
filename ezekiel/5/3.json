@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ma ị ga-ewe site n'ebe ahụ ole na ole n'ọnụọgụ, ma kee ha n'akụkụ uwe gị.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ma ị ga-ewe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "site n'ebe ahụ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ole na ole"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "n'ọnụọgụ"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ma kee"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha (ole na ole ahụ)"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "n'akụkụ uwe gị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:01:22.026676270Z",
+  "model": "glm-5.3"
+}

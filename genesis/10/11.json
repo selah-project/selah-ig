@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Site n'ala ahụ Ashur pụtaghachiri, ma guzọ ⟨את⟩ Nineve, na ⟨את⟩ Rehovot-Ir, na ⟨את⟩ Kalah.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "pụtaghachiri"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ma guzọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nineve"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Rehovot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir (obodo)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kalah"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalah"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:06.128213574Z",
+  "model": "glm-5.3"
+}

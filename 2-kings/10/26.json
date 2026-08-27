@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ha wepụtaghachiri ⟨את⟩ nkewa-nsọ nke ụlọ Baal, ma gbaa ya ọkụ.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ha wepụtara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkewa-nsọ"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "nkewa-nsọ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "ma gbaa ya ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:17:16.082478708Z",
+  "model": "glm-5.3"
+}

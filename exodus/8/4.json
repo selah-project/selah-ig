@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Paroh wee kpọọ Moshe na Aharon, wee sị: Chinekwuo nọrọ na Ya ka unu nọrọ, ka ọ wepụ awọ ndị ahụ n'ebe m nọ na n'ebe ndị m nọ; m ga-ahapụ ⟨את⟩ ndị ahụ, ka ha chụọ àjà nye Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wee kpọọ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "Chinekwuo nọrọ na Ya ka unu nọrọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ka ọ wepụ"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "awọ ndị ahụ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "n'ebe m nọ"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "na n'ebe ndị m nọ"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "m ga-ahapụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ka ha chụọ àjà"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:11:54.611224030Z",
+  "model": "glm-5.3"
+}

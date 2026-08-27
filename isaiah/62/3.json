@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 62:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 62,
+  "translation": "Gị na ⟨ịga⟩ bụ okpu ndị mma n'aka Yahwe, na diadém eze uche n'aka Elohim gị.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "gị na ⟨ịga⟩ bụ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "okpu"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ndị mma"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצנוף",
+      "gloss": "diadém"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "eze uche"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "n'aka (akpụkpọ)"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    }
+  ],
+  "timestamp": "2026-08-27T11:10:18.420353777Z",
+  "model": "glm-5.3"
+}

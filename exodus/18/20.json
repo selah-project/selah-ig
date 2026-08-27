@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ma gị na-akụzi ha ⟨את⟩ iwu ndị ahụ na ⟨את⟩ ntụziaka ndị ahụ, ma mekpọsara ha ⟨את⟩ ụzọ ha ga-eji ga, na ⟨את⟩ ọrụ ahụ nke ha ga-eme.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "ma gị na-akụzi"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu ndị ahụ"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iwu ndị ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ntụziaka ndị ahụ"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "ntụziaka ndị ahụ"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "ma gị na-eme ka ha mara"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụzọ ahụ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ụzọ ahụ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ha ga-aga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ọrụ ahụ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ọrụ ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ha ga-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:19.577263556Z",
+  "model": "glm-5.3"
+}

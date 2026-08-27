@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "O duru ha n'urukpu n'ehihie, ma abalị niile n'ìhè ọkụ.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "o duru ha"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "n'urukpu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "n'ehihie"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma nke nile"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "abalị"
+    },
+    {
+      "surface": "באור",
+      "gloss": "n'ìhè"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:39.468577304Z",
+  "model": "glm-5.3"
+}

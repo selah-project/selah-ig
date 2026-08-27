@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Yaakov fọdụrụ naanị ya, ma nwoke lụsịrị ya ọgụ ruo mgbe ịpụ nke ⟨the⟩ ùtùtụ.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "fọdụrụ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "naanị ya"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "ma ... lụsịrị ọgụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ịpụ"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "nke ùtùtụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:47:21.093185590Z",
+  "model": "glm-5.3"
+}

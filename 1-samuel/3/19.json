@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 3:19",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Samuel tolitere, Yahwe wee nọrọ ya, ma daa ọ dịghị okwu ọ bụla n'ime okwu ya ala.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "tolitere"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nọrọ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma daa"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "da"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "okwu ya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ala"
+    }
+  ],
+  "timestamp": "2026-08-27T09:02:09.992579480Z",
+  "model": "glm-5.3"
+}

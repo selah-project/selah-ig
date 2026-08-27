@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Yonatan kụrụ ⟨את⟩ ọrụ nche nke ndị Filistia nke dị na Geba, ndị Filistia wee nụ ya; Shaúl tiere mpi n'ala niile, na-ekwu ka ndị Hibru nụ.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ọ kụrụ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ nche"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "ọrụ nche"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "nke ndị Filistia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "dị na Geba"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "wee nụ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Filistia"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ma Shaúl"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "tiere mpi"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "mpi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ka … nụ"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ndị Hibru"
+    }
+  ],
+  "timestamp": "2026-08-27T09:07:49.399441589Z",
+  "model": "glm-5.3"
+}

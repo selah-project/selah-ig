@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Adonai ga-achị ọchị maka ya, n'ihi na Ọ hụla na ụbọchị ya na-eru abịa.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ga-achị ọchị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ọ hụla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "na-eru abịa"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ụbọchị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:31.997259952Z",
+  "model": "glm-5.3"
+}

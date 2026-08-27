@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Israel emeela mmehie, ha gafekwara ⟨את⟩ ọgbụgba-ndụ m nke m nyere ha iwu; ha wekwara ihe n'ihe e kpenduru, ha zuru, ha ghaara, ha tinyekwara n'ihe ha.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "emeela mmehie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha gafekwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "⟨את⟩ ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "m nyere iwu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "⟨את⟩ kwa"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ha were"
+    },
+    {
+      "surface": "מן",
+      "gloss": "n'ihe"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ihe e kpenduru"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "ha zuru"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "ha ghaara"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ha tinyere"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "n'ihe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:31:27.200374491Z",
+  "model": "glm-5.3"
+}

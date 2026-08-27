@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ọ dịkwa mfe na ⟨the⟩ ụwa niile nwere otu asụsụ, na okwu ole na ole.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dịkwa mfe na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ ụwa"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "asụsụ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "na okwu"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ole na ole"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:43.513696631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ha ga-ekwupụta ⟨את⟩ ihe mmejọ ha na ⟨את⟩ ihe mmejọ nke nna nna ha, n'ọghụgha ha mere megide m, ma ọ bụkwa nke ha gara n'ọnọdụ mmegide ya na m.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "ha ga-ekwupụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe mmejọ ha"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ihe mmejọ ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihe mmejọ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ihe mmejọ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nna nna ha"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "n'ọghụgha ha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ha mere ọghụgha"
+    },
+    {
+      "surface": "בי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ma ọ bụkwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ha gara"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya na m"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "n'ọnọdụ mmegide"
+    }
+  ],
+  "timestamp": "2026-08-27T07:09:06.975098062Z",
+  "model": "glm-5.3"
+}

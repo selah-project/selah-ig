@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Nyere onye na-ere ujọ shekar, na vaịn maka onye nke mmụọ ya dị ilu.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Nyere"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "shekar"
+    },
+    {
+      "surface": "לאובד",
+      "gloss": "maka onye na-ere ujọ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "na vaịn"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "maka onye nke"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mmụọ ya dị ilu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:34:14.305641637Z",
+  "model": "glm-5.3"
+}

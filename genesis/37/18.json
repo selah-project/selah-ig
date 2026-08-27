@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ha hụrụ ya site na anya-mara, ⟨את⟩ na tupu ọ erute n'ebe ha nọ, ha nwara ime atụmatụ izu ⟨את⟩ ya igbu ya.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ha hụrụ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Yosef)"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "site na anya-mara"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "na tupu"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ọ erute"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "n'ebe ha nọ"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "ha nwara ime atụmatụ izu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Yosef)"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "igbu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T17:10:29.915155162Z",
+  "model": "glm-5.3"
+}

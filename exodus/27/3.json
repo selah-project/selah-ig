@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 27:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ma ị ga-eme ite ya maka iwepụ ntụ ya, na nkụ-aka ya, na efere ya, na mma-nkụ ya, na ite-ọkụ ya; maka ngwaọrụ ya niile ka ị ga-eme site na ọla nchara.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ị ga-eme"
+    },
+    {
+      "surface": "סירתיו",
+      "gloss": "ite ya"
+    },
+    {
+      "surface": "לדשנו",
+      "gloss": "maka iwepụ ntụ ya"
+    },
+    {
+      "surface": "ויעיו",
+      "gloss": "na nkụ-aka ya"
+    },
+    {
+      "surface": "ומזרקתיו",
+      "gloss": "na efere-mkụnye ya"
+    },
+    {
+      "surface": "ומזלגתיו",
+      "gloss": "na mma-nkụ ya"
+    },
+    {
+      "surface": "ומחתתיו",
+      "gloss": "na ite-ọkụ ya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka ihe niile"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwaọrụ ya"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ị ga-eme"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ọla nchara"
+    }
+  ],
+  "timestamp": "2026-08-27T06:27:58.800309746Z",
+  "model": "glm-5.3"
+}

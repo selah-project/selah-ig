@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "N'ihi ụkọ na agụụ, ha na-anọ naanị ha — na-agbapụ n'ebe gbara ọchịchịrị, n'ebe ọzara ahụ dịkpọrọ nkụ kemgbe ọtụtụ afọ, nke mbibi na nke ịgbapụ.",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "n'ihi ụkọ"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "na agụụ"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "ha na-anọ naanị ha"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "na-agbapụ"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ebe gbara ọchịchịrị na ọzara"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "kemgbe ọtụtụ afọ"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "mbibi"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "na ịgbapụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:52:52.099036595Z",
+  "model": "glm-5.3"
+}

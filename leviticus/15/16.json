@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ma nwoke, mgbe mkpụrụ mmadụ pụọrọ n'ime ya, ọ ga-asachi na mmiri ⟨את⟩ anụ ahụ ya niile, ma dinaa adịghị ọcha ruo mgbede.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ma nwoke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "pụọ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ga-asachi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mmiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ahụ ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "anụ ahụ ya"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dinaa adịghị ọcha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mgbede"
+    }
+  ],
+  "timestamp": "2026-08-27T06:59:43.726693275Z",
+  "model": "glm-5.3"
+}

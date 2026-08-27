@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ma chịkọta ha si n'ala ndị ahụ, site n'Ọwụwa Anyanwụ na site n'Ọdịda Anyanwụ, site n'Ugwu na site n'Oké Osimiri.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "ma si n'ala ndị"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "chịkọta ha"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "site n'Ọwụwa Anyanwụ"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "na site n'Ọdịda Anyanwụ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "site n'Ugwu"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "na site n'Oké Osimiri"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:33.684576699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Elohim nke ndị agha, tugharịa anyị azụ, ma mee ka ihu gị na-ama mma, anyị ga-abụ ndị a zọpụtara.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "tugharịa anyị azụ"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ma mee ka ... na-ama mma"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ihu gị"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "anyị ga-abụ ndị a zọpụtara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:21.217793133Z",
+  "model": "glm-5.3"
+}

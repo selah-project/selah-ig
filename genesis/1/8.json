@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Were Elohim kpọọ mmepe ahụ Eluigwe; mgbede adịkwara, ụtụtụ adịkwara — ụbọchị nke abụọ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Were Elohim kpọọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "mmepe ahụ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Eluigwe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "adịkwara"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mgbede"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "adịkwara"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ụtụtụ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "שני",
+      "gloss": "nke abụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:06.723265708Z",
+  "model": "glm-5.3"
+}

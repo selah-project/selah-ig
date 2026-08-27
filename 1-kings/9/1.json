@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Mgbe Shelomah gwuchara iwu ⟨את⟩ ụlọ Yahwe, na ⟨את⟩ ụlọ eze, na ⟨את⟩ ihe niile Shelomah chọrọ n'obi ya ime,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mgbe ọ dina"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "mgbe o gwuchara"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ụlọ eze"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ihe o chọrọ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ọ chọrọ n'obi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ime"
+    }
+  ],
+  "timestamp": "2026-08-27T09:58:35.261232928Z",
+  "model": "glm-5.3"
+}

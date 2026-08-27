@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "N'ihi na nna m, le, buru unu arọ nke ọkpọ dị arọ, m ga-agbakwunye n'ọkpọ unu; nna m tiri unu ihe ⟨את⟩ na mmaja, ma m ga-adziikwa unu ⟨את⟩ na akpịrị ikpị.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "n'ihi na ugbu a"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna m"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "buru arọ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ọkpọ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "dị arọ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ga-agbakwunye"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ọkpọ unu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna m"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "tiri ihe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "na mmaja"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "mmaja"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ga-adziikwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "na akpịrị ikpị"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "akpịrị ikpị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:00:21.217925986Z",
+  "model": "glm-5.3"
+}

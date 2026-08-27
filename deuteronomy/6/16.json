@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Unu agaghị anwale ⟨את⟩ Yahwe Elohim unu, dịka unu nwetara nwale na Massah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "anwale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim unu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "unu nwetara nwale"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "na Massah"
+    }
+  ],
+  "timestamp": "2026-08-27T07:52:34.497266646Z",
+  "model": "glm-5.3"
+}

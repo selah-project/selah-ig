@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Mụ nyekwara gị ⟨את⟩ ụlọ nke ndị nna-ukwu gị, na ⟨את⟩ ụmụ-nwanyị nke ndị nna-ukwu gị n'akwakwa ọnụ gị; mụ nyekwara gị ⟨את⟩ ụlọ Yisrel na Yehuda; ma ọ bụrụ na nke a bụ obere ihe, m ga-agbakwunye gị n'ụdị a na n'ụdị a.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Mụ nyekwara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ nke ndị nna-ukwu gị"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "nke ndị nna-ukwu gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ-nwanyị nke ndị nna-ukwu gị"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "ụmụ-nwanyị"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "nke ndị nna-ukwu gị"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "n'akwakwa ọnụ gị"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mụ nyekwara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Yisrel na Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "obere ihe"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "m ga-agbakwunye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "n'ụdị a"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "na n'ụdị a"
+    }
+  ],
+  "timestamp": "2026-08-27T09:37:02.672487672Z",
+  "model": "glm-5.3"
+}

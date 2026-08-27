@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Nke a bụ ndeba gị, òkè nke nlekota gị, ⟨את⟩ si n'aka m, okwu nke Yahwe sị, n'ihi na ị chefuola ⟨את⟩ m, ma daberekwa gị n'ụgha.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Nke a"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "ndeba gị"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "òkè"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "nke nlekota gị"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ si n'aka m",
+      "marks": "okwu Yahwe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "okwu nke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "ị chefuola"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ m",
+      "marks": "m"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "ma daberekwa gị"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "n'ụgha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:23:40.482733134Z",
+  "model": "glm-5.3"
+}

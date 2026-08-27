@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ka m gafaa, biko, ka m hụ ⟨את⟩ ala ahụ ezi omume dị n'akụkụ ọzọ nke Jọdan, ugwu a dị mma, na Lebanọn.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Ka m gafaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ka m hụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ahụ ezi omume"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ezi omume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dị"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "n'akụkụ ọzọ nke"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jọdan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "na Lebanọn"
+    }
+  ],
+  "timestamp": "2026-08-27T07:51:24.066377205Z",
+  "model": "glm-5.3"
+}

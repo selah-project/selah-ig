@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 19:15",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "na Katat, na Nahalal, na Shimron, na Yidala, na Bet-Lechem; obodo iri na abụọ na obodo nta ha.",
+  "tokens": [
+    {
+      "surface": "וקטת",
+      "gloss": "na Katat"
+    },
+    {
+      "surface": "ונהלל",
+      "gloss": "na Nahalal"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "na Shimron"
+    },
+    {
+      "surface": "וידאלה",
+      "gloss": "na Yidala"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "na obodo nta ha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:32:48.593550811Z",
+  "model": "glm-5.3"
+}

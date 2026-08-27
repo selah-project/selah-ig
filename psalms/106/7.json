@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Nna nna anyị na Mitzrayim amaghị ihe dị ịtụnanya gị, ha echeghị ⟨את⟩ ọtụtụ chesed gị, ha jụrụ iguzo ọzọ n'oké osimiri, na Oké Osimiri Suf.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Nna nna anyị"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitzrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "amaghị"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ịghọta"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ihe dị ịtụnanya gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "echeghị"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ha chetara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọtụtụ chesed gị"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "chesed gị"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ha jụrụ iguzo ọzọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "בים",
+      "gloss": "na Oké Osimiri"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.298166016Z",
+  "model": "glm-5.3"
+}

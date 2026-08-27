@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma onye-nchu-aja nke na-ebu ⟨את⟩ àjà ọkụ nke nwoke ọ bụla, akpọkpọ nke àjà ọkụ ahụ ọ buru ga-abụ nke onye-nchu-aja ahụ.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "ma onye-nchu-aja"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "nke na-ebu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "àjà ọkụ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "àjà ọkụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nke nwoke ọ bụla"
+    },
+    {
+      "surface": "עור",
+      "gloss": "akpọkpọ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nke àjà ọkụ ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ọ bu"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "maka onye-nchu-aja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-abụ nke"
+    }
+  ],
+  "timestamp": "2026-08-27T06:45:06.022469176Z",
+  "model": "glm-5.3"
+}

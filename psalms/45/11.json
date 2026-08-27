@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Nụ, nwa nwanyị, lesee, tụgharịa ntị gị; ma chefuo ndị gị na ụlọ nna gị.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Nụ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "ma lesee"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "ma tụgharịa"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ntị gị"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "ma chefuo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndị gị"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na ụlọ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:37.209203553Z",
+  "model": "glm-5.3"
+}

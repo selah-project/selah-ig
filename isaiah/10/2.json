@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "iji gbanahụ ikpe ndị ogbenye, na iji zuo ikpe ndị nwụrụ ime ụmụ ndị m, ka ndị di ha nwụrụ bụrụ ihe kwaturu ha, ma na ⟨את⟩ ụmụ mgbei ha ga-eharakwụ",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "iji gbanahụ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ndị ogbenye"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "na iji zuo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ndị nwụrụ ime ụmụ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ka ha bụrụ"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "ndị di ha nwụrụ"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "ihe kwaturu ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ mgbei"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ụmụ mgbei"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "ha ga-eharakwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:39:14.308633252Z",
+  "model": "glm-5.3"
+}

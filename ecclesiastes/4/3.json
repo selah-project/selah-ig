@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ma onye ka ha abụọ nke ọma bụ ⟨את⟩ onye ahụ nke ruo ugbu a enwebeghị ọ dị, onye ahụ nke hụbeghị ⟨את⟩ ọrụ ọjọọ a na-eme n'okpuru anyanwụ.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "ma onye ka ha nke ọma"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ha abụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye ahụ nke"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ruo ugbu a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enwebeghị"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye ahụ nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hụbeghị"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ ọjọọ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "a na-eme"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:13:41.385893821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ⟨elu⟩-ụwa nọ n'ọnọdụ ihe efu na ihe na-enweghị ọdịdị, ma ọchịchịrị nọ n'elu ihu omimi; ma ruach Elohim na-efe n'elu ihu mmiri.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Ma ụwa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nọ n'ọnọdụ"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ihe efu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "na ihe na-enweghị ọdịdị"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ma ọchịchịrị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "omimi"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ma ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "na-efe"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T16:22:26.441784435Z",
+  "model": "glm-5.3"
+}

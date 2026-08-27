@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 7:20",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ndị nwa Efrayim: Shuthelach, na Bered nwa ya, na Tachath nwa ya, na Eladah nwa ya, na Tachath nwa ya.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ndị nwa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "Shuthelach"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "na Bered"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na Tachath"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "ואלעדה",
+      "gloss": "na Eladah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na Tachath"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:57.475566563Z",
+  "model": "glm-5.3"
+}

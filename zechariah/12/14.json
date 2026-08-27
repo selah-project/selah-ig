@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ọnụ ụlọ ndị fọdụrụ niile, ọnụ ụlọ n'ọnụ ụlọ, ga-adị nanị ya, ụmụ nwanyị ha ga-adị nanị ya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "ọnụ ụlọ ndị"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "fọdụrụ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ọnụ ụlọ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "n'ọnụ ụlọ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nanị ya"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ụmụ nwanyị ha"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "nanị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:05:58.536877966Z",
+  "model": "glm-5.3"
+}

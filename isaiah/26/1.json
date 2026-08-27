@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "N'ụbọchị ahụ, a ga-abụ abụ a n'ala Yehuda: obodo ike anyị nwere; mgbapụta ka ⟨את⟩ ọ ga-eguzo dịka mgbidi na rampaat.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "a ga-abụ"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ike"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị nwere"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "mgbapụta"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "ọ ga-eguzo"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "dịka mgbidi"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "na rampaat"
+    }
+  ],
+  "timestamp": "2026-08-27T10:46:37.385840529Z",
+  "model": "glm-5.3"
+}

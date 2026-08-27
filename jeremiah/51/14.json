@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 51:14",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Yahwe nke ndị ọgbaghara ṅụrụ iyi site na ⟨את⟩ nnefesh ya, sị: Ezie okwu, a ga-eju m gị mmadụ ju ka ukwuma, ha ga-etikwa mkpu hedad megide gị.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ṅụrụ iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị ọgbaghara"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "site na nnefesh ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ezie okwu"
+    },
+    {
+      "surface": "מלאתיך",
+      "gloss": "aga-eju m gị"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "כילק",
+      "gloss": "ka ukwuma"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "ha ga-etikwa mkpu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "megide gị"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "hedad"
+    }
+  ],
+  "timestamp": "2026-08-27T11:55:30.729758808Z",
+  "model": "glm-5.3"
+}

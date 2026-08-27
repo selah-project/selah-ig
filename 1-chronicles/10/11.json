@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ndị Yavesh Gilad nile nụrụ ⟨את⟩ ihe nile nke Pelishtim mere maka Shaúl,",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ha nụrụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nile"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe nile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ha mere"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "maka Shaúl"
+    }
+  ],
+  "timestamp": "2026-08-27T15:57:53.513037432Z",
+  "model": "glm-5.3"
+}

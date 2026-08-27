@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Parọ mechara gwa ọsọ kpọọ Moshe na Aharon, ma kwuo sị: Emewo m njọ megide Yahwe, Elohim unu, na megide unu.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "gwa ọsọ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parọ"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "kpọọ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma kwuo sị"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Emewo m njọ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "megide Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "na megide unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:14:47.990735888Z",
+  "model": "glm-5.3"
+}

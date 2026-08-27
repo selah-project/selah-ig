@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "bilie, Yahwe, zọpụta m, Elohim m, n'ihi na ị kụrụ ⟨את⟩ ndị iro m niile n'akpa; ịgbajiri ezé ndị ajọ omume.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bilie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "zọpụta m"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ị kụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị iro m niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "n'akpa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezé"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ịgbajiri"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:03.420615195Z",
+  "model": "glm-5.3"
+}

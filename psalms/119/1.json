@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Kelee ndị zuuru okwu n'ụzọ ha, ndị na-aga n'iwu Yahwe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kelee"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "ndị zuuru okwu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ndị na-aga"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "n'iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T17:20:44.876110904Z",
+  "model": "glm-5.3"
+}

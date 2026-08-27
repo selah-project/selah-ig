@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "N'ihi na i mere ya n'ezozo, Ma M ga-eme ⟨את⟩ okwu a n'ihu Izrel niile na n'ihu anyanwụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i mere"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "n'ezozo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Ma M"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrel"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "na n'ihu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:36:16.343220530Z",
+  "model": "glm-5.3"
+}

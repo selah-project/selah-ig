@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Obi ọcha kee m, Elohim, ma mmụọ kwụsiri ike megharịa n'ime m.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ọcha"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ma mmụọ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kwụsiri ike"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "megharịa"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "n'ime m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:22.520564506Z",
+  "model": "glm-5.3"
+}

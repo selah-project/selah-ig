@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "O wee dị ndụ, a ga-enye ya ọla edo nke Sheba, mmadụ ga-ekpe ekpere maka ya mgbe niile, ụbọchị niile ha ga-eme ka o ruo ọla.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "o wee dị ndụ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a ga-enye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ọla edo nke"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ga-ekpe ekpere"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ụbọchị niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "ha ga-eme ka o ruo ọla"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:37.891387144Z",
+  "model": "glm-5.3"
+}

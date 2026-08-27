@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "aka abụọ maka bọọdụ ahụ nke ọ bụla, ejikọrọ otu nye otu; otu a ka o mere maka bọọdụ niile nke ụlọikwu ahụ.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "aka"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "maka bọọdụ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ahụ nke ọ bụla"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "ejikọrọ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka niile"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "bọọdụ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "nke ụlọikwu ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:39:19.314146659Z",
+  "model": "glm-5.3"
+}

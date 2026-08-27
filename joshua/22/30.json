@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 22:30",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Mgbe Pinechas onye nchuàjà, na ndị isi nke nzukọ ahụ, na ndị isi nke puku ndị nke Yisrael ndị nọ ya ⟨את⟩ okwu ndị ahụ nke ụmụ Reuven, ụmụ Gad, na ụmụ Menashhe kwuru nụrụ, ọ dị mma n'anya ha.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchuàjà"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "na ndị isi"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "nke nzukọ ahụ"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "na ndị isi"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "puku ndị"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "nọ ⟨את⟩ ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ndị"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ụmụ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ụmụ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashhe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "n'anya ha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:37:40.848694559Z",
+  "model": "glm-5.3"
+}

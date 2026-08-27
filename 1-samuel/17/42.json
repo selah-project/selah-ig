@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ma obe Filistia leere anya wee hụ ⟨את⟩ Divid, wee leere ya anya n'ókè, n'ihi na ọ bụ nwa okorobịa, ma ọbara-ọbara n'ihu, ya na ịdị mma n'ọdịdị.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "leere anya"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "obe Filistia"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "wee hụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Divid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Divid"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "wee leere ya anya n'ókè"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nwa okorobịa"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "ọbara-ọbara n'ahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ịdị mma"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "n'ọdịdị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:13:57.049466648Z",
+  "model": "glm-5.3"
+}

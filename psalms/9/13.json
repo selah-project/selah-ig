@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Maka onye na-achọ ⟨את⟩ ọbara chetara ha; ọ chefughị mkpu nke ndị ogbenye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chetara ha"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "chetara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ chefughị"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "chefughị"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "mkpu"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ndị ogbenye"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:29.489814941Z",
+  "model": "glm-5.3"
+}

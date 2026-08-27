@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ọ ga-abụ na mmadụ abụọ na-aga ọnụ, ma ọ bụghị na ha ekwekọrọ izute?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "ọ ga-abụ na ha na-aga"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mmadụ abụọ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ha ekwekọrọ izute"
+    }
+  ],
+  "timestamp": "2026-08-27T12:46:41.069437556Z",
+  "model": "glm-5.3"
+}

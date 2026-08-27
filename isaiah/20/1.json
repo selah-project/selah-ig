@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "N'afọ Tartan bịara Ashdod, mgbe Sargon, eze Ashur, zitere ⟨את⟩ ya, ọ lụsịrị Ashdod ọgụ, ma jide ya.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "n'afọ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "mgbe ọ zitere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Sargon)"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ọ lụsịrị ọgụ"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ma jide ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:40:24.059721768Z",
+  "model": "glm-5.3"
+}

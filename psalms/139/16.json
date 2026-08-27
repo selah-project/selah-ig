@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 139,
+  "translation": "Anya gị hụrụ ọdịdị m na-amaghị ama, na na akwụkwọ gị ka a ga-edepụta ha niile — ụbọchị ndị e kere, mgbe ọ dịghị otu n'ime ha ka dị.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "ọdịdị m na-amaghị ama"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "anya gị"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na na"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "akwụkwọ gị"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "a ga-edepụta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị ndị"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "e kere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ dịghị"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'ime ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:23.739940792Z",
+  "model": "glm-5.3"
+}

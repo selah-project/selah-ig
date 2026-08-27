@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ihe gasam fọdụrụ, arba riri; ihe arba fọdụrụ, yalek riri; ihe yalek fọdụrụ, hasịl riri.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Ihe fọdụrụ"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "gasam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "riri"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arba"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ihe fọdụrụ"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arba"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "riri"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yalek"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ihe fọdụrụ"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yalek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "riri"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "hasịl"
+    }
+  ],
+  "timestamp": "2026-08-27T12:43:32.479275968Z",
+  "model": "glm-5.3"
+}

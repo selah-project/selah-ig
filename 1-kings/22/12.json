@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 22:12",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ndị amụma niile na-amụ ama otu a, na-ekwu: Ga elu Ramot Gilad, wee nwee ihe ịga nke ọma; Yahwe ga-enye ya n'aka eze.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na ndị niile"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "ndị amụma"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "na-amụ ama"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ga elu"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "והצלח",
+      "gloss": "wee nwee ihe ịga nke ọma"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ga-enye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    }
+  ],
+  "timestamp": "2026-08-27T10:10:21.080211491Z",
+  "model": "glm-5.3"
+}

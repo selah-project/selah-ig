@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ọ makwaara ⟨את⟩ Tofet, nke dị na ndagwurugwụ nke ụmụ Hinnom, ka ọ dị ọcha njọ, ka mmadụ ghara ịgafe ⟨את⟩ nwa ya nwoke na ⟨את⟩ nwa ya nwanyị n'ime ọkụ maka Molek.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Ọ makwaara ka ọ dị ọcha njọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "na ndagwurugwụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nke ụmụ"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ka mmadụ ghara"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ịgafe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ya nwoke"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya nwoke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ya nwanyị"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "nwa ya nwanyị"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ime ọkụ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "maka Molek"
+    }
+  ],
+  "timestamp": "2026-08-27T10:29:25.168750714Z",
+  "model": "glm-5.3"
+}

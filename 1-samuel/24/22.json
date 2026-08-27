@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ma ugbu a, ṅụọ iyi m na Yahwe na ị gaghị ewepụ ⟨את⟩ mkpụrụ m mgbe m gasịrị, na ị gaghị ebibi ⟨את⟩ aha m n'ụlọ nna m.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ma ugbu a"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "ṅụọ iyi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na ị gaghị"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "ewepụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpụrụ m"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "mkpụrụ m"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe m gasịrị"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na ị gaghị"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "ebibi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha m"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "aha m"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna m"
+    }
+  ],
+  "timestamp": "2026-08-27T09:17:35.501491905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ma Yitro, onye-nchụàjà nke Midyan, ọgọ Moshe, nụrụ banyere ⟨את⟩ ihe niile nke Elohim mere maka Moshe na maka Yisrael, ndị ya, bụ́ na Yahwe kpọgara ⟨את⟩ Yisrael pụọ na Misraim.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "onye-nchụàjà"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ọgọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "maka Moshe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "na maka Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bụ́ na"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "kpọgara pụọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Misraim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:19:56.113086904Z",
+  "model": "glm-5.3"
+}

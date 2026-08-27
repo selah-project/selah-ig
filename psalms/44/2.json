@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Elohim, n'ntị anyị anyị nụrụ; nna nna anyị kọrọ anyị ⟨ọrụ⟩ ọ rụrụ n'ụbọchị ha, n'ụbọchị oge gara-aga.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "n'ntị anyị"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "anyị nụrụ"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "nna nna anyị"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "kọrọ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ọ rụrụ"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "n'ụbọchị ha"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "oge gara-aga"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:05.474880349Z",
+  "model": "glm-5.3"
+}

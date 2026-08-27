@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Onye ọ bụla a hụrụ ga-egbu ya mma n'ahụ; ma onye ọ bụla e jidere ga-adaba ná mma agha.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "a hụrụ"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "ga-egbu ya mma n'ahụ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma onye ọ bụla"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "e jidere"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ga-adaba"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ná mma agha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:38:22.983933279Z",
+  "model": "glm-5.3"
+}

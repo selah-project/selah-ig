@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma ⟨את⟩ nwa atụrū ahụ, ọ kewara ya n'akụkụ ya, ma Moshe gbara ⟨את⟩ isi ya, na ⟨את⟩ akụkụ ya, na ⟨את⟩ abụba ya ọkụ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwa atụrū ahụ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "nwa atụrū ahụ"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "ọ kewara"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "n'akụkụ ya"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "gbaara ọkụ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi ya"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "isi ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akụkụ ya"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "akụkụ ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abụba ya"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "abụba ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:50:31.662522637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 86,
+  "translation": "N'ihi na Adonai, ⟨ị⟩ nwere mma ma na-agbaghara, ma jupụta n'ịhụnanya ọgbụgba-ndụ nye ndị niile na-akpọ gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ị⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nwere mma"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "ma na-agbaghara"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ma jupụta"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "n'ịhụnanya ọgbụgba-ndụ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nye ndị niile"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "na-akpọ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:31.570371556Z",
+  "model": "glm-5.3"
+}

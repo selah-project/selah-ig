@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Unu ga-ejere Yahwe, Elohim nke unu, ozi, Ọ ga-agọzie ⟨את⟩ nri gị na ⟨את⟩ mmiri gị, m wee wepụ ọrịa n'etiti gị.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "unu ga-ejere ozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nke unu"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ọ ga-agọzie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nri gị"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "nri gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mmiri gị"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "mmiri gị"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "m wee wepụ"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ọrịa"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "n'etiti gị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:21.987153706Z",
+  "model": "glm-5.3"
+}

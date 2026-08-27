@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Onye ọjọọ na-eme ọrụ ụgha; ma onye na-kụ ⟨את⟩ ziri-ezi ⟨ga-enweta⟩ ụgwọ ọrụ nke eziokwu.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "onye ọjọọ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ma onye na-kụ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ziri-ezi"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ụgwọ ọrụ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "eziokwu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:21:04.740575267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Ndị Kashdu wee gbaa ⟨את⟩ ụlọ eze ahụ na ⟨את⟩ ụlọ ndị mmadụ ahụ n'ọkụ; ma ⟨את⟩ mgbidi Yerushalayim ha kwaturu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ eze ahụ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma ⟨את⟩",
+      "marks": "ụlọ ndị mmadụ ahụ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "gbaa n'ọkụ"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Ndị Kashdu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma ⟨את⟩",
+      "marks": "mgbidi Yerushalayim"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "mgbidi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "kwaturu"
+    }
+  ],
+  "timestamp": "2026-08-27T11:44:00.267329014Z",
+  "model": "glm-5.3"
+}

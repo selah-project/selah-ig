@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Elohim we nọkọta ⟨את⟩ nwa ahụ, ọ wee tolite, bie n'ọzara, wee bụrụ onye na-eto eto n'ịgba ụta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ahụ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nwa ahụ"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "tolite"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bie"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "na-eto eto"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "onye na-agba ụta"
+    }
+  ],
+  "timestamp": "2026-08-27T05:39:04.709714968Z",
+  "model": "glm-5.3"
+}

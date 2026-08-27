@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 45:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Lee, anya g na-ahụ, na anya nwanne m Binyamin, na ọnụ m bụ nke na-ekwu okwu a na gị.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "lee"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "anya g"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "na-ahụ"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "anya"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nwanne m"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "na-ekwu okwu"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "na gị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:02:28.221564643Z",
+  "model": "glm-5.3"
+}

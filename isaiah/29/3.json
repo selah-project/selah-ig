@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "M ga-ezo dịka okirikiri gbara gị gburugburu, m ga-eme ka ndị agha guzo gị gburugburu, m ga-ewukwa mgbidi mkpọchi elu gị.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "M ga-ezo"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "dịka okirikiri"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "gị gburugburu"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "m ga-eme ka... guzo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "gị gburugburu"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "ndị agha guzosiri"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "m ga-ewukwa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "elu gị"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "mgbidi mkpọchi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:50:16.138796082Z",
+  "model": "glm-5.3"
+}

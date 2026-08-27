@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "N'ọnọdụ ịhụnanya m ha boro m ebubo; ma m, ekpere",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "N'ọnọdụ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ịhụnanya m"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "ha boro m ebubo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ekpere"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:54.047187523Z",
+  "model": "glm-5.3"
+}

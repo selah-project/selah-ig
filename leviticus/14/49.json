@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ọ ga-ewere iji dọọ ⟨את⟩ ụlọ ahụ {: nnụnụ abụọ, na osisi cedar, na waya ọbara-na-acha ọzọzọ, na hyssop.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ọ ga-ewere"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "iji dọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ ahụ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ ahụ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "nnụnụ"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "na osisi"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "cedar"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na waya ọzọzọ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ọnụ-ọbara-ọzọzọ"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "na hyssop"
+    }
+  ],
+  "timestamp": "2026-08-27T06:53:32.103790888Z",
+  "model": "glm-5.3"
+}

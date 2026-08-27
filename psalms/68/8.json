@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Elohim, mgbe Ị pụrụ n'ihu ndị gị, mgbe Ị na-agagharị n'ọzara-jhisimọn — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "mgbe Ị pụrụ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndị gị"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "mgbe Ị na-agagharị"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "n'ọzara-jhisimọn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:33.487407292Z",
+  "model": "glm-5.3"
+}

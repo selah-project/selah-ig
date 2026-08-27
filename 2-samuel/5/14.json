@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 5:14",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ma aha ụmụ ndị a mụrụ ya na Yerushalayim bụ ndị a: Shammua, na Shovav, na Natan, na Shelomo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ma ndị a"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ụmụ ndị a mụrụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Shammua"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "na Shovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "na Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-27T09:31:05.384287484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ewoo maka gi, ala, mgbe eze gi ⟨bụ⟩ nwata, ma ndị isi gi na-eri n'ụtụtụ!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Ewoo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "eze gi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nwata"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "na ndị isi gi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "na-eri"
+    }
+  ],
+  "timestamp": "2026-08-27T15:16:12.404158196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 137,
+  "translation": "O nwa nwanyị Babilọn, onye a na-ebibiga mbibi, onye ọ dị mma maka ya onye na-akwụ gị ⟨את⟩ ụgwọ ọrụ gị, nke ọ rụrụ anyị.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "o nwa nwanyị"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilọn"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "onye a na-ebibiga mbibi"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "onye ọ dị mma maka ya"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "onye na-akwụ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụgwọ ọrụ gị"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "ụgwọ ọrụ gị"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "nke ọ rụrụ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:04.385252305Z",
+  "model": "glm-5.3"
+}

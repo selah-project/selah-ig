@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Balak wee chụọ àjà ehi na atụrụ, o wee zipụta ⟨את⟩ nye Bilam na nye ndị isi ndị nọ ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "chụọ àjà"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "zipụta"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "nye Bilam"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "na nye ndị isi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:27:54.404702607Z",
+  "model": "glm-5.3"
+}

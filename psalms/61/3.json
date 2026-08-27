@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 61,
+  "translation": "Site ná ngwụsị ⟨nke⟩ ụwa ka m ga-akpọ gị; mgbe obi m na-ada ada, duga m n'elu nkume dị elu karịa m.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "site ná ngwụsị"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨nke⟩ ụwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gaa gị"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ka m ga-akpọ"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "mgbe ... na-ada ada"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "n'elu nkume"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "dị elu karịa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "m"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "duga m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:46.398638543Z",
+  "model": "glm-5.3"
+}

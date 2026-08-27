@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 63,
+  "translation": "N'ihi na ị̀ bụ̀ onye nnyemaka m; n'okpuru ncheanwụ nke nku gị ka m ga-abụ abụ ọṅụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ị̀ bụ̀"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "onye nnyemaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ma n'okpuru ncheanwụ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "nke nku gị"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ka m ga-abụ abụ ọṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:05.771287626Z",
+  "model": "glm-5.3"
+}

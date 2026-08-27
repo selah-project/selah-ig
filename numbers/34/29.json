@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ndị a bụ ndị Yahwe nyere iwu ka ha kesaa ⟨את⟩ ụmụ Yisrael ihe nketa n'ala Kenan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ndị a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "ka ha kesaa ihe nketa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-08-27T07:45:05.614416969Z",
+  "model": "glm-5.3"
+}

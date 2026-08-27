@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ọzọkwa na Chorev unu kpasuru Yahwe iwe, ma Yahwe nwere iwe n'unu ruo n'ókè ibibi ⟨את⟩ unu.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "ọzọkwa na Chorev"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "unu kpasuru iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "ma Yahwe nwere iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "n'unu"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ruo n'ókè ibibi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:57:49.703088138Z",
+  "model": "glm-5.3"
+}

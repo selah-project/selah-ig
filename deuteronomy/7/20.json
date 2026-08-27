@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ọzọkwa, Yahwe, Elohim gị, ga-ezite ⟨את⟩ anwụnta ahụ n'etiti ha, ruo mgbe ndị fọdụrụ na ndị zoro ezute n'ihu gị ga-efu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ọzọkwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anwụnta ahụ"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "anwụnta ahụ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ga-ezite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "בם",
+      "gloss": "n'etiti ha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ga-efu"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ndị fọdụrụ"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "na ndị zoro ezute"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "n'ihu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:56:09.333045469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Obodo nta, ma ndị ikom na-anọ n'ime ya bụ obere; eze ukwu bịara megide ya, gbagburu ya gburugburu, ma wuo ⟨את⟩ ya nnukwu ebe mkpọchi.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "nta"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ma ndị ikom"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "obere"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ma bịara"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "megide ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "ma gbagburu gburugburu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (obodo)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "ma wuo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "megide ya"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "ebe mkpọchi"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nnukwu"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:00.163679694Z",
+  "model": "glm-5.3"
+}

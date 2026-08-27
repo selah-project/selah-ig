@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "N'ihi na òké Yahwe bụ́ ndị ya; Yaakov bụ́ eriri ihe-nketa-ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "òké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "eriri (òké ntụlite)"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ihe-nketa-ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:18:09.963161468Z",
+  "model": "glm-5.3"
+}

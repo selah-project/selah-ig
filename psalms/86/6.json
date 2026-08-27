@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 86,
+  "translation": "Tụgharịa ntị, Yahwe, ná ekpere m, ma gé ntị n'olu arịrịọ m.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "tụgharịa ntị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ná ekpere m"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "ma gé ntị"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "n'olu"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "arịrịọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:31.570558632Z",
+  "model": "glm-5.3"
+}

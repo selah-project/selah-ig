@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "N'ihi na onye nke gị kụrụ, ha na-achụ, banyere mgbu nke ndị gị méré ntụpọ, ha na-ekwurịta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "gị kụrụ"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ha na-achụ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "mgbu"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "ndị gị méré ntụpọ"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ha na-ekwurịta"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:35.704834689Z",
+  "model": "glm-5.3"
+}

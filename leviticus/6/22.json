@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Nwoke ọ bụla n'etiti ndị nchuaja ga-eri ⟨את⟩ ya; nsọ nke ihe nsọ ka ọ bụ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Nwoke"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "n'etiti ndị nchuaja"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (ọfụ̄ ahụ)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nke ihe nsọ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ka ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:44:53.577431729Z",
+  "model": "glm-5.3"
+}

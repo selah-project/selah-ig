@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ya mere, ndị siri ike ga-asọpụrụ gị, obodo mba ndị na-eme ihe ike ga-atụ gị egwu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ya mere (n'ihi)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "ha ga-asọpụrụ gị"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "עז",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ndị na-eme ihe ike"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "ha ga-atụ gị egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:47:07.563803683Z",
+  "model": "glm-5.3"
+}

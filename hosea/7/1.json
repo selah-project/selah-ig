@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 7:1",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Mgbe m na-achọ ịgwọ Yisrael, mmehie Efrayim pụtara ìhè, na ajọkwa omume Shomron, n'ihi na ha na-eme ụgha; na onye ohi na-abata, ìgwè ndị ohere na-ebupụkwa ihe n'èzí.",
+  "tokens": [
+    {
+      "surface": "כרפאי",
+      "gloss": "mgbe m na-achọ ịgwọ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "pụtara ìhè"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ajọ omume"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ha na-eme"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "onye ohi"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "na-abata"
+    },
+    {
+      "surface": "פשט",
+      "gloss": "na-ebupụ ihe"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ìgwè ndị ohere"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "n'èzí"
+    }
+  ],
+  "timestamp": "2026-08-27T12:40:33.918541500Z",
+  "model": "glm-5.3"
+}

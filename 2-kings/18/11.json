@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Eze Asshur bu Yisrael ga Asshur, o wee dozie ha na Halakh, na Havor, osimiri Gozan, na n'obodo ndị Madai.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "o wee bu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ga Asshur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "o wee dozie ha"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "na Halakh"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "na Havor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "osimiri"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "na n'obodo"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    }
+  ],
+  "timestamp": "2026-08-27T16:38:20.528762495Z",
+  "model": "glm-5.3"
+}

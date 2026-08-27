@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "Elohim m, tinye ha ka ihe na-agbagharị, ka ọka mkpụrụ akọrọ n'ihu ikuku.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "tinye ha"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "ka ihe na-agbagharị"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ka ọka mkpụrụ akọrọ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ikuku"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:16.233309894Z",
+  "model": "glm-5.3"
+}

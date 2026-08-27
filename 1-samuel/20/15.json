@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "bepụla kwa chesed gị n'ụlọ m ruo mgbe ebighị ebi, ọbụnadị mgbe Yahwe bepụsịrị ⟨את⟩ ndị iro Dọvid, nwoke ọ bụla n'elu ihu ⟨the⟩ ụwa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "bepụla kwa"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ị bepụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chesed gị"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed gị"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ụlọ m"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọbụnadị"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "mgbe ... bepụsịrị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị iro Dọvid"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ndị iro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dọvid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke ọ bụla"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T09:17:28.679649364Z",
+  "model": "glm-5.3"
+}

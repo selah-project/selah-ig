@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Yahwe, duzie m n'ihe-ziri-ezi gị, n'ihi ndị iro m; mee ka ụzọ gị dina larịị n'ihu m.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "duzie m"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "n'ihe-ziri-ezi gị"
+    },
+    {
+      "surface": "למען",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "mee ka ọ dina larịị"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu m"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ụzọ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:06.383068900Z",
+  "model": "glm-5.3"
+}

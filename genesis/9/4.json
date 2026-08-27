@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Mana anụ, ya na nefesh ya — ọbara ya — unu erighị.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "anụ"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ya na nefesh ya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ọbara ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "erighị"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "unu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:28:11.302679036Z",
+  "model": "glm-5.3"
+}

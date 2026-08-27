@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 121,
+  "translation": "Abụ maka ndị na-ago elu. M na-ebuli anya m gaa n'ugwu ⟨ndị⟩ ahụ — site n'ebee ka enyemaka m ga-abịa?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "maka ndị na-ago elu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "M na-ebuli"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "n'ugwu ⟨ndị⟩ ahụ"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "site n'ebee"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ga-abịa"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "enyemaka m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:53.669736236Z",
+  "model": "glm-5.3"
+}

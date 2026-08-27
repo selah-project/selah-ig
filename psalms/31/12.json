@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ọ bụ ihere m bụrụ n'ihi ndị iro m niile, ọbụnadị karịa maka ndị agbata obi m; m bụrụ ụjọ nye ndị maara m; ndị hụrụ m n'èzí gbagara m.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "n'ihi ndị niile"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "m bụrụ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ihere"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "maka ndị agbata obi m"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "karịa"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "ụjọ"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "nye ndị maara m"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ndị hụrụ m"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "n'èzí"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "gbagara"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:10.746903150Z",
+  "model": "glm-5.3"
+}

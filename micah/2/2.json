@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ha na-achọsi ihe ubi ma na-eti ya ike, na ụlọ ndị ha na-eburu pụọ; ha na-emegbu nwoke na ụlọ ya, mmadụ na ihe nketa ya.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "Ha na-achọsi ihe"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "ma na-eti ike"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "na ụlọ ndị"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "ha na-eburu pụọ"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "ha na-emegbu"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "na ụlọ ya"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "na ihe nketa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:53:45.364804848Z",
+  "model": "glm-5.3"
+}

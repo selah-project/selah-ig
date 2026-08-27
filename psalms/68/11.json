@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Ìgwè mmadụ gị bi n'ime ya; n'ọma gị ka Ị kwadebere ya maka ndị ogbenye, Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "ìgwè mmadụ gị"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "Ị kwadebere"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "n'ọma gị"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "maka ndị ogbenye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:40.922287289Z",
+  "model": "glm-5.3"
+}

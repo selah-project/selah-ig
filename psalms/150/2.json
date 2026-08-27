@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 150,
+  "translation": "Toonuo ya n'ụgba ike ya; toonuo ya dịka oke ukwu ya si buru ibu.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Toonuo ya"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "n'ụgba ike ya"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Toonuo ya"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "dịka oke ukwu ya si"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "buru ibu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:53.069413969Z",
+  "model": "glm-5.3"
+}

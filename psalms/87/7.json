@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 87,
+  "translation": "Ndị na-abụ abụ dịka ndị na-agba egwu: isi iyi m niile dị n'ime gị.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "Ndị na-abụ abụ"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "dịka ndị na-agba egwu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "isi iyi m"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dị n'ime gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:04.594261107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma ⟨את⟩ anyị ka o kpọpụtara n'ebe ahụ, iji webata anyị, inye anyị ala nke o ṅụrụ iyi na nna nna anyị.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ anyị"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "o kpọpụtara"
+    },
+    {
+      "surface": "משם",
+      "gloss": "site n'ebe ahụ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iji"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "webata"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ anyị"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "inye"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "o ṅụrụ iyi"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "na nna nna anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:52:28.133134749Z",
+  "model": "glm-5.3"
+}

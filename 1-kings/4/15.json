@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Achimaats, na Naftali; ọ bụkwa ya were ⟨את⟩ Bosmat, nwa nwanyị Shelomoh, dịka nwunye.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "na Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọ bụkwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dịka nwunye"
+    }
+  ],
+  "timestamp": "2026-08-27T09:50:53.985509612Z",
+  "model": "glm-5.3"
+}

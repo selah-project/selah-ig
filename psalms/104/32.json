@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Onye na-ele ⟨n'⟩ụwa anya, ọ na-ama jijiji; ọ na-akụ ugwu ndị ahụ, ha na-ese anwụrụ.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Onye na-ele ... anya"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "ọ na-ama jijiji"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ọ na-akụ"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "ugwu ndị ahụ"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ha na-ese anwụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:42.310841225Z",
+  "model": "glm-5.3"
+}

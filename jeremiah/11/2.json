@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Nụwo ⟨את⟩ okwu nke ọgbụgba-ndụ a, ma kwuo ha ru n'aka ndị Yehuda na ndị bi na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Nụwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ndị a"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "ma kwuo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ru n'aka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T11:22:42.628705517Z",
+  "model": "glm-5.3"
+}

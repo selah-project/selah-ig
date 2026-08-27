@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Mkpụrụ unu na ulo-mkpụrụ vaịn unu ka ọ ga-ewere akụkụ-iri, ma nye ndị ọrụ-ọchị ya na ndị ohu ya.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "mkpụrụ unu"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "ulo-mkpụrụ vaịn unu"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ọ ga-ewere akụkụ-iri"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ma nye"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "ndị ọrụ-ọchị ya"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "ndị ohu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:01:16.334531691Z",
+  "model": "glm-5.3"
+}

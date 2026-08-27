@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Nụrụ nke a, ⟨ndị⟩ mmadụ niile; tinye ntị, ndị niile bi na ⟨ụwa⟩ ahụ na-agafe ngwa ngwa.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Nụrụ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "⟨ndị⟩ mmadụ"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "tinye ntị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bi"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "na ⟨ụwa⟩ ahụ na-agafe ngwa ngwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:32:10.719275014Z",
+  "model": "glm-5.3"
+}

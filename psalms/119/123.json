@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Anya m gwụrụ n'ihi nzọpụta gị na okwu eziokwu gị.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Anya m"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "gwụrụ"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "n'ihi nzọpụta gị"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "na okwu"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "eziokwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:03:36.878358130Z",
+  "model": "glm-5.3"
+}

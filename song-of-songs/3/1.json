@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'elu akwa mkpọrọ m n'abalị, achọrọ m ⟨את⟩ onye nke mmasị njide mkpụrụ obi m; achọrọ m ya, mana achọtabeghị m ya.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "akwa mkpọrọ m"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "n'abalị"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "achọrọ m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye nke mmasị njide mkpụrụ obi m"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "onye nke mmasị njide"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "achọrọ m ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana ọ bụghị"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "achọtabeghị m ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:01:26.969402610Z",
+  "model": "glm-5.3"
+}

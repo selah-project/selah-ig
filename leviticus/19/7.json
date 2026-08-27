@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ma ọ bụrụ na a na-eri ya ma ọlị n'ụbọchị nke atọ, ọ bụ ihe rụrụ arụ; a ga-anabataghị ya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "a na-eri"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a ga-eri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nke atọ"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "ihe rụrụ arụ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "a nabata"
+    }
+  ],
+  "timestamp": "2026-08-27T06:58:13.110089954Z",
+  "model": "glm-5.3"
+}

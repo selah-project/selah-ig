@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "A katala nkwe-ọbụbọ unu na ⟨את⟩ ọnwụ, na echiche unu na ⟨את⟩ Sheol agaghị edo; mgbe mma-ọjọ na-ajụba na-efe, unu ga-abụ ya ihe a na-agbaziga.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "a katala"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "nkwe-ọbụbọ unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọnwụ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "na echiche unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "edo"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "mma-ọjọ"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "na-ajụba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ọ na-efe"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "unu ga-abụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "ihe a na-agbaziga"
+    }
+  ],
+  "timestamp": "2026-08-27T10:48:29.333269363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 146,
+  "translation": "Onye na-eme ikpe ziri ezi maka ndị a na-emegbu, onye na-enye nri ndị agụụ na-agụ; Yahwe na-atọhapụ ndị a mkpọrọ.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Onye na-eme"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "maka ndị a na-emegbu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "onye na-enye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "ndị agụụ na-agụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "na-atọhapụ"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "ndị a mkpọrọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:26.256794732Z",
+  "model": "glm-5.3"
+}

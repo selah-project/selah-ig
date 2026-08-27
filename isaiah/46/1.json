@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Bel na-agbadata, Nebo na-agbadata; ihe oyiyi ha bụrụ ⟨ihe nke⟩ anụ ọhịa na ⟨ihe nke⟩ anụ ụlọ; ibu unọ gbara gburugbu, ibu dị arọ nye ⟨anụ⟩ ahụ gwụrụ agwụ.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "na-agbadata"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Bel"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "na-agbadata"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bụrụ"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ihe oyiyi ha"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "⟨ihe nke⟩ anụ ọhịa"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "na ⟨ihe nke⟩ anụ ụlọ"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "ibu unọ"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "gbara gburugbu"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "nye ⟨anụ⟩ ahụ gwụrụ agwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:40:10.564642931Z",
+  "model": "glm-5.3"
+}

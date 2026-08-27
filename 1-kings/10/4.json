@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Nwunye-eze nke Sheba hụrụ ⟨את⟩ amamihe niile nke Shelomom, na ⟨את⟩ ụlọ ọ rụrụ.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "nwunye-eze"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amamihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomom"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "rụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:58:17.338177907Z",
+  "model": "glm-5.3"
+}

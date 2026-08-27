@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Ha jikọrọ onwe ha na Baal-Peor, ha riri ihe achụrụ ara ndị nwụrụ anwụ.",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "ha jikọrọ onwe ha"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "na Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ha riri"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ihe achụrụ ara"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "ndị nwụrụ anwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:01.853844755Z",
+  "model": "glm-5.3"
+}

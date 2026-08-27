@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 1:24",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Maka ụmụ Gad, ọmụmụ ha, maka ezinụlọ ha, maka ụlọ nna ha, n'ọnụọgụ ⟨nke⟩ aha, site n'afọ iri abụọ ruo elu, onye ọ bụla na-apụ ⟨n'⟩ọgụ:",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "maka ụmụ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "ọmụmụ ha"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "maka ezinụlọ ha"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "maka ụlọ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nna ha"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "n'ọnụọgụ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "site n'afọ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ruo elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "na-apụ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ọgụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:10:16.948642636Z",
+  "model": "glm-5.3"
+}

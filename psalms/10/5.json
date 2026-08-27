@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ụzọ ya na-adịgide n'oge niile; ịkwubiga ihe ubara gị dị elu karịa ya; ndị iro ya niile, ọ na-ife ha ikuku.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "na-adịgide"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ụzọ ya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'oge niile"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "dị elu"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ikpe ziri ezi gị"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "karịa ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "ndị iro ya"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "ọ na-ife ikuku"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:17.535062307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "O nyekwara iwu ⟨את⟩ nke abụọ nakwa ⟨את⟩ nke atọ nakwa ⟨את⟩ ndị niile na-eso ìgwè atụrụ ndị ahụ, ka ha kwuo: Dịka okwu a ka unu ga-ekwu Esav, mgbe unu zutere ⟨אתו⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "o nyekwara iwu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nke abụọ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nke atọ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nke atọ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "na-eso"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "n'azụ"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "ìgwè atụrụ ndị ahụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ha kwuo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dịka okwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "unu ga-ekwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "mgbe unu zutere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Esav)"
+    }
+  ],
+  "timestamp": "2026-08-27T05:49:18.148152798Z",
+  "model": "glm-5.3"
+}

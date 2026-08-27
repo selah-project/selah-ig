@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ndị okenye nke nzukọ ahụ ga-etinye ⟨את⟩ aka ha n'isi ⟨את⟩ ehi ahụ n'ihu Yahwe, mmadụ ga-egbu ⟨את⟩ ehi ahụ n'ihu Yahwe.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "ga-etinye"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "nke nzukọ ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka ha"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "aka ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "nke ehi ahụ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "mmadụ ga-egbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ehi ahụ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ehi ahụ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:44:42.155732626Z",
+  "model": "glm-5.3"
+}

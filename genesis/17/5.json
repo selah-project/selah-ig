@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ma a gaghị akpọ ⟨את⟩ aha gị Avram ọzọ; aha gị ga-abụ Avraham, n'ihi na nna nke ìgwù mba ndị ọzọ ka m mere gị.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma a gaghị"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "akpọ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha gị"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אב",
+      "gloss": "nna"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ìgwù dị ukwuu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị ọzọ"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "m mere gị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:35:57.591642721Z",
+  "model": "glm-5.3"
+}

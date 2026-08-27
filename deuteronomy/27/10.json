@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "g wee nụ olu Yahwe Elohim gị, ma mee ⟨את⟩ iwu Ya na ⟨את⟩ ihe edoro Ya n'iwu, nke m na-enyere gị iwu ụbọchị a.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "g wee nụ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ma mee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu Ya"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "iwu Ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe edoro Ya n'iwu"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ihe edoro Ya n'iwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "na-enyere gị iwu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị a"
+    }
+  ],
+  "timestamp": "2026-08-27T08:08:04.509808349Z",
+  "model": "glm-5.3"
+}

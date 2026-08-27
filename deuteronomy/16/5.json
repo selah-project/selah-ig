@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ị ghaghị ighụ ⟨את⟩ Paska n'otu n'ime ọnụ ụzọ ámá ⟨ndị⟩ gị, nke Yahwe Elohim gị na-enye gị.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ị nwere ike"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "igbu ihe àjà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paska"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paska"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "n'otu n'ime"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ọnụ ụzọ ámá gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:01:27.968144462Z",
+  "model": "glm-5.3"
+}

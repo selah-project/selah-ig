@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "na ⟨את⟩ ndị Emori, na ⟨את⟩ ndị Kenani, na ⟨את⟩ ndị Girgashi, na ⟨את⟩ ndị Yevusi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ndị Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Kenani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ndị Kenani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ndị Girgashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ndị Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-27T05:32:17.432242203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "O wee kpọkọta ⟨את⟩ ndị isi niile nke Israel, yana ndị nchụàjà na ndị Lẹvị.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "o wee kpọkọta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị isi niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Israel"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "yana ndị nchụàjà"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "na ndị Lẹvị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:04:37.053125894Z",
+  "model": "glm-5.3"
+}

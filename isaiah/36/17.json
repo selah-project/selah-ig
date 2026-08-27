@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ruo mgbe m ga-abịa, m ga-ewere ⟨את⟩ unu gaa n'ala dị ka ala unu, ala ọka na mmanya ọhụrụ, ala nri na ubi vaịn.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "באי",
+      "gloss": "m ga-abịa"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "m ga-ewere"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "dị ka ala unu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ọka"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "na mmanya ọhụrụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "na ubi vaịn"
+    }
+  ],
+  "timestamp": "2026-08-27T10:53:06.708826097Z",
+  "model": "glm-5.3"
+}

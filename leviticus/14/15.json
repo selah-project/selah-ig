@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Onye-nchu-aja ga-ewere ụfọdụ n'logo mmanụ, ma tụọ ya n'aka aka ekpe nke onye-nchu-aja.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ga-ewere"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "ụfọdụ n'logo"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ga-atụọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "כף",
+      "gloss": "aka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "nke onye-nchu-aja"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ekpe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:52:42.362718704Z",
+  "model": "glm-5.3"
+}

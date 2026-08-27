@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Binyamin mụrụ ⟨את⟩ Bela nwa mbụ ya, Ashbel nke abụọ, na Achara nke atọ.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "nwa mbụ ya"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "na Achara"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nke atọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:56:02.692236026Z",
+  "model": "glm-5.3"
+}

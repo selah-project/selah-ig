@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 148,
+  "translation": "Ka ha too ⟨את⟩ aha Yahwe, n'ihi na Ọ nyere iwu, e kerekwa ha.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ka ha too"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ọ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "e kerekwa ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:22.404135034Z",
+  "model": "glm-5.3"
+}

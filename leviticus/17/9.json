@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "ọ gwụla ma ọ bịaghị ya n'ọnụ ụzọ nke ụlọikpe nzukọ, iji me ya dịka onyinye nye Yahwe, mmadụ ahụ ga-ewepụ ya n'etiti ndị ya.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ọ gwụla ma ọ bụghị na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ụlọikwu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "ọ bịaghị ya"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "iji mee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "onyinye (ihe a na-eme)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": " nye Yahwe"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ga-ewepụ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mmadụ ahụ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "n'etiti ndị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:27:28.370366046Z",
+  "model": "glm-5.3"
+}

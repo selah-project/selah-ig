@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Nọdụọla n'ebe izu ohi n'ime obodo ndị gbara mgbidi; n'ebe ezoro ezo ọ na-egbu onye aka ya dị ọcha; anya ya na-ele anya na nzuzo maka onye nwere nsogbu.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "nọdụọla"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "n'ebe izu ohi"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "n'ime obodo ndị gbara mgbidi"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "n'ebe ezoro ezo"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ọ na-egbu"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "onye aka ya dị ọcha"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "anya ya"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "maka onye nwere nsogbu"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "na-ele anya na nzuzo"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:17.535535673Z",
+  "model": "glm-5.3"
+}

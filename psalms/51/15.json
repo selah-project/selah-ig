@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Mgbe ahụ ka m ga-akụziri ndị na-ajụ iwu ụzọ gị, ma ndị mmehie ga-alaghachi gị.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "m ga-akụziri"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "ndị na-ajụ iwu"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ụzọ gị"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ma ndị mmehie"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ga-alaghachi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:37.077671656Z",
+  "model": "glm-5.3"
+}

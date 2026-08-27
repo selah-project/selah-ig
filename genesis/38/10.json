@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Ihe o mere bụ ihe ọjọ n'anya Yahwe, ya mere o gburukwa ya.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "bụ ihe ọjọ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n'anya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o gburu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Onan)"
+    }
+  ],
+  "timestamp": "2026-08-27T05:54:41.666225623Z",
+  "model": "glm-5.3"
+}

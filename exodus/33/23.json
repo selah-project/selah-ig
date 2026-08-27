@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "M ga-ewepụ ⟨את⟩ aka m, ị ga-ahụ ⟨את⟩ azụ m; mana ihu m agaghị apụta ìhè.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "M ga-ewepụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka m"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "ị ga-ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azụ m"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "azụ m"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ihu m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "apụta ìhè"
+    }
+  ],
+  "timestamp": "2026-08-27T06:34:32.875931254Z",
+  "model": "glm-5.3"
+}

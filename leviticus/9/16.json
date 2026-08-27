@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ọ wee webata ⟨את⟩ ọfụrụ-ọkụ zuru oke, ma mee ya dịka iwu si dị.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Ọ wee webata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọfụrụ-ọkụ zuru oke"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ọfụrụ-ọkụ zuru oke"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "ma mee ya"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "dịka iwu si dị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:15.470523046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Abụ nkuzi nke Eitan onye Ezrahi.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "abụ nkuzi"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "nke Eitan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "onye Ezrahi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:40.702449153Z",
+  "model": "glm-5.3"
+}

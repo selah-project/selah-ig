@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Lee, m na-erekọ Baasha na ụlọ ya ọkụ mmadụ niile, ma m ga-eme ka ⟨את⟩ ụlọ gị dịka ụlọ Yarobeam nwa Nevat.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "lee, m"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "na-erekọ ọkụ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "megide"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ma megide"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ma m ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ gị"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ụlọ gị"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "dịka ụlọ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    }
+  ],
+  "timestamp": "2026-08-27T10:04:55.311977132Z",
+  "model": "glm-5.3"
+}

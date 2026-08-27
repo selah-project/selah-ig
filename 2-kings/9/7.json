@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ị ga-akụ ⟨את⟩ ụlọ Ahab bụkwa onye-nlekọta gị, ka m wee mezie ọbara nke ndị ohu m bụ ndị amụma, na ọbara nke ndị ohu Yahwe niile, n'aka Izebel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "Ị ga-akụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "onye-nlekọta gị"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "ka m wee mezie"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ọbara nke"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ndị ohu m"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ndị amụma"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "na ọbara nke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị ... niile"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    }
+  ],
+  "timestamp": "2026-08-27T10:17:45.544504544Z",
+  "model": "glm-5.3"
+}

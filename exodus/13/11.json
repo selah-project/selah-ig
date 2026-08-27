@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 13:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Mgbe Yahwe kpọgara gị n'ala nke Kenaani, dịka o ṅụrụ gị na ndị nna gị iyi, ma nye gị ya,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "יבאך",
+      "gloss": "kpọgara gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "nke Kenaani"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "o ṅụrụ iyi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ולאבתיך",
+      "gloss": "na ndị nna gị"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ma nye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:15:32.279273925Z",
+  "model": "glm-5.3"
+}

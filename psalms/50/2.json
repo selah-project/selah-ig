@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Site na Tsiyon, ⟨ebe⟩ zuru okè ná nma, Elohim ⟨pụtara⟩ na-egbuke egbuke.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "site na Tsiyon"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "zuru okè"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "ná nma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "na-egbuke egbuke"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:04.948458534Z",
+  "model": "glm-5.3"
+}

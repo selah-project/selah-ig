@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Bilie, Yahwe; ka mmadụ ghara inwe ike; ka a kpee ụmụ mba ikpe n'ihu gị.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Bilie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "inwe ike"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mmadụ (onye ọnwụ)"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "ka a kpee ikpe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ụmụ mba"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:14.693531517Z",
+  "model": "glm-5.3"
+}

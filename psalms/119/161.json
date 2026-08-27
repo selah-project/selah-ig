@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ndị isi na-achụ m n'enweghị ihe kpatara ya, ma okwu gị na-eme ka obi m jụọ ajụ.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "na-achụ m"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "n'enweghị ihe kpatara ya"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "ma okwu gị"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "na-eme ka ... jụọ ajụ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:57.652649598Z",
+  "model": "glm-5.3"
+}

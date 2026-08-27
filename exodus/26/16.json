@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Aka iri ka ogologo ⟨the⟩ bọọdụ ahụ ga-adị, na aka nke ọkara ka obosara ⟨the⟩ bọọdụ ahụ otu ga-adị.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "aka"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ogologo"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "⟨the⟩ bọọdụ ahụ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na aka"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na ọkara"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "nke aka ahụ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "obosara"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "⟨the⟩ bọọdụ ahụ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "otu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:29:10.474085739Z",
+  "model": "glm-5.3"
+}

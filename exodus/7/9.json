@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 7:9",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Mgbe Paroh ga-ekwu okwu ⟨gị⟩ na unu, na-asị, Nyere onwe unu ngọọma; mgbe ahụ ị ga-agwa Aharon, sị, Were ⟨את⟩ mkpo gị ma tụba ya n'ihu Paroh, ka ọ bụrụ agwọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ga-ekwu okwu"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "⟨gị⟩ na unu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "onwe unu"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "ngọọma"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ọ bụrụ na ị ga-agwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קח",
+      "gloss": "were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpo gị"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "mkpo gị"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "ma tụba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ka ọ bụrụ"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "agwọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:09:32.096430519Z",
+  "model": "glm-5.3"
+}

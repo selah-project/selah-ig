@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Oge igbu, na oke ịgwọ ọrịa; oke ịkwatu, na oke iwulite.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "igbu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na oge"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "ịgwọ ọrịa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "ịkwatu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na oge"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "iwulite"
+    }
+  ],
+  "timestamp": "2026-08-27T15:12:43.562566771Z",
+  "model": "glm-5.3"
+}

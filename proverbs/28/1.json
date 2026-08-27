@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Onye ọjọọ na-agbapụ ebe ọ dịghị onye na-achụ ya; ma ndị ziri ezi, dịka ọdụm na-eto eto, na-enwe ntụkwasị obi.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "na-agbapụ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ebe ọ dịghị"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "onye na-achụ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ọjọọ"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "ma ndị ziri ezi"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "dịka ọdụm na-eto eto"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "na-enwe ntụkwasị obi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:33:26.779995138Z",
+  "model": "glm-5.3"
+}

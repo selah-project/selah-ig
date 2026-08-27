@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ọgbọ ⟨is⟩ nke na-akwa nna ya ụta, ma ⟨את⟩ nne ya ọ naghị agọzi.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "na-akwa ụta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nne ya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nne ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ naghị"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "agọzi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:32:49.470501999Z",
+  "model": "glm-5.3"
+}

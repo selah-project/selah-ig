@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Afọ iri na abụọ ha jere ozi ⟨את⟩ Kedarlaʹomer, ma afọ iri na atọ ha were iwe jụ.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ha jere ozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedarlaʹomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaʹomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ma atọ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "ha were iwe jụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:31:59.059110390Z",
+  "model": "glm-5.3"
+}

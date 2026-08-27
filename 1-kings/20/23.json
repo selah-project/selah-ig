@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 20:23",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ndị ohu nke eze Aram wee sị ya, chi nke ugwu ka chi ha bụ; n'ihi ya ka ha siri sikwa ike karịa anyị; mana ka anyị lụso ⟨את⟩ ha ọgụ n'ala dị larịị — ma anyị adịghị ike kariba ha?",
+  "tokens": [
+    {
+      "surface": "ועבדי",
+      "gloss": "ndị ohu nke"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "chi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "nke ugwu"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "chi ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "karịa anyị"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "lụso ọgụ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "n'ala dị larịị"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "adị ike"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kariba ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:37:15.624773251Z",
+  "model": "glm-5.3"
+}

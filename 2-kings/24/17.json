@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Eze Babilọn wee mee ⟨את⟩ Matanaya, nwanne nna ya, eze n'ọnọdụ ya, wee gbanwee ⟨את⟩ aha ya ka ọ bụrụ Tsidkiahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "wee mee... eze"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matanaya"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanaya"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "nwanne nna ya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "n'ọnọdụ ya"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "wee gbanwee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:31:09.779754515Z",
+  "model": "glm-5.3"
+}

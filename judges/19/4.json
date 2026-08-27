@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ezinna ya, nna nwa agbọghọ ahụ, jidere ya kee; ọ nọkọrọ ⟨את⟩ ya ụbọchị atọ; ha wee rieri, ṅụọ, ma hie ụra ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "jidere ya kee"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ezinna ya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "nwa agbọghọ ahụ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ọ nọkọrọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (ya na ya)"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ha rie ri"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ha ṅụọ"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ha hie ụra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:55:50.662069332Z",
+  "model": "glm-5.3"
+}

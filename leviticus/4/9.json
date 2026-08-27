@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ya na ⟨את⟩ akpa-aba abụọ ahụ, na ⟨את⟩ abụba dị n'elu ha, nke dị n'elu úkwù, na ⟨את⟩ ibe dị n'elu imeju, n'elu akpa-aba ka ọ ga-ewepụ ha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akpa-aba abụọ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "akpa-aba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abụba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "abụba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "dị n'elu ha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "úkwù"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibe"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "imeju"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "akpa-aba"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ọ ga-ewepụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:46:25.309404244Z",
+  "model": "glm-5.3"
+}

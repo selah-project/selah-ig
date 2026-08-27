@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Adonai, lụọ ha, kewaa asụsụ ha, n'ihi na m hụla ime ihe ike na esemokwu n'obodo.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "lụọ ha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "kewaa"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "asụsụ ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "m hụla"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ime ihe ike"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "na esemokwu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "n'obodo"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:02.438775423Z",
+  "model": "glm-5.3"
+}

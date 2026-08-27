@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Le, n'ihe ọjọ ka a mụrụ m, mmehie wee mee ka nne m tụọ m n'afọ.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Le"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "n'ihe ọjọ"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "a mụrụ m"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "tụọ m n'afọ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nne m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:03.453272532Z",
+  "model": "glm-5.3"
+}

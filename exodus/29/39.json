@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Nwa atụrụ ⟨את⟩ nke mbụ ị ga-eme n'ụtụtụ; ma ⟨את⟩ nwa atụrụ nke abụọ ị ga-eme n'etiti ndị mgbede.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa atụrụ nke mbụ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "nwa atụrụ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ị ga-eme"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nwa atụrụ nke abụọ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "nwa atụrụ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ị ga-eme"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ndị mgbede"
+    }
+  ],
+  "timestamp": "2026-08-27T06:32:20.658116091Z",
+  "model": "glm-5.3"
+}

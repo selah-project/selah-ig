@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ma ugbu a, isi m ga-eli elu karịa ndị iro m gburugburu m; m ga-echu àjà n'akwa akwa ya, àjà nke mkpu olu obi ụtọ; m ga-abụ abụ, m ga-akụ ụda maka Yahwe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ma ugbu a"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ga-eli elu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "isi m"
+    },
+    {
+      "surface": "על",
+      "gloss": "karịa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "gburugburu m"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "m ga-echu àjà"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "n'akwa akwa ya"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "àjà"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "nke mkpu olu obi ụtọ"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "m ga-abụ abụ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "m ga-akụ ụda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:05.048759821Z",
+  "model": "glm-5.3"
+}

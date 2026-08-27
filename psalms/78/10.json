@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "Ha ejeghidị ṅụkṅụ̄ān̄āˀ ndị Elohịm, nakwa ajụla ịgba ọsọ n'iwu Ya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ejeghi"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ṅụkṅụ̄ān̄āˀ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohịm"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "nakwa n'iwu Ya"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ajụla"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ịgba ọsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:11.839839811Z",
+  "model": "glm-5.3"
+}

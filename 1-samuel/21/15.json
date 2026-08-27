@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Akish wee sị ndị ohu ya: Le, unu na-ahụ na nwoke a na-agbu ara; gịnì mere ka unu wee wetuo ⟨את⟩ ya n'ebe m nọ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sị"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "unu na-ahụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "na-agbu ara"
+    },
+    {
+      "surface": "למה",
+      "gloss": "gịnì mere"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "ka unu wee weta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n'ebe m nọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:33:15.583734607Z",
+  "model": "glm-5.3"
+}

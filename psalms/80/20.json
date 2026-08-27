@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Yahwe, Elohim nke ndị agha, welata anyị azụ; mee ka ihu gị na-egbuke egbuke, anyị ga-ezọpụta onwe anyị.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "welata anyị azụ"
+    },
+    {
+      "surface": "האר",
+      "gloss": "mee ka ọ na-egbuke egbuke"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ihu gị"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "anyị ga-ezọpụta onwe anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:31.235782161Z",
+  "model": "glm-5.3"
+}

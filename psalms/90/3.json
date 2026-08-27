@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 90,
+  "translation": "Ị na-eweghachite mmadụ ruo n'ọka ntụ, ma na-asị: \"Laazu azụ, ụmụ nke Adam.\"",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Ị na-eweghachite"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mmadụ (onye nwụrụ anwụ)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo na"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ọka ntụ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ma na-asị"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Laazu azụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nke Adam"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:14.455448349Z",
+  "model": "glm-5.3"
+}

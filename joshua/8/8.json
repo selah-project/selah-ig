@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ga-adị na mgbe unu nwetara ⟨את⟩ obodo ahụ, unu ga-ere ⟨את⟩ obodo ahụ ọkụ; dịka okwu Yahwe ka unu ga-eme. Lee, m nyere unu iwu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "mgbe unu nwetara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ahụ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "unu ga-ere ọkụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ahụ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "site n'ọkụ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dịka okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "unu ga-eme"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Lee"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "m nyere iwu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:26:40.294152305Z",
+  "model": "glm-5.3"
+}

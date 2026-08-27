@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Moshe nyere ⟨את⟩ Gilad maka Machir, nwa Menashhe; ọ bi na ya.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "maka Machir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashhe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:42:24.662960854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Dọrọ ala n'ihi Yahwe, chere ya na ndidi; ekwela iwe n'ihi onye na-aga nke ọma n'ụzọ ya, ma ọ bụ n'ihi nwoke na-eme atụmatụ ọjọọ.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "dọrọ ala"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "n'ihi Yahwe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "chere na ndidi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "onye na-aga nke ọma"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "n'ụzọ ya"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "n'ihi nwoke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "atụmatụ ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:37.378412275Z",
+  "model": "glm-5.3"
+}

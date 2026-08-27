@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Kedu ka m ga-esi — naanị m onwe m — ibu ibu arọ gị, na ibu ọrụ gị, na esemokwu gị?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "kedu ka"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "m ga-esi ibu"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "naanị m onwe m"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "ibu arọ gị"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "na ibu ọrụ gị"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "na esemokwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:48:44.185131365Z",
+  "model": "glm-5.3"
+}

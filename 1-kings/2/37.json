@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 2:37",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ọ ga-abụ n'ụbọchị ị pụrụ, ma gafere ⟨את⟩ ndagwurugwu Kidron, mara maka ị mara na ị ga-anwụ n'ụzọ doro anya; ọbara gị ga-adị n'isi gị.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "ị pụrụ"
+    },
+    {
+      "surface": "ועברת",
+      "gloss": "ma gafere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndagwurugwu Kidron"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ndagwurugwu"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mara"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ị mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מות",
+      "gloss": "anwụ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ị ga-anwụ"
+    },
+    {
+      "surface": "דמך",
+      "gloss": "ọbara gị"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "n'isi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:51:41.414625162Z",
+  "model": "glm-5.3"
+}

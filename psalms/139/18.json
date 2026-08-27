@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 139,
+  "translation": "M ga-agụ ha — ha karịrị ájá; m tetara, m ka nọkọrọ gị.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "m ga-agụ ha"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "karịrị ájá"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "ha dị ọtụtụ"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "m tetara"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "m ka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nọkọrọ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:17.945384194Z",
+  "model": "glm-5.3"
+}

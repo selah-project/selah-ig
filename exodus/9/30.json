@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma gị na ndị ohu gị, m maara na ụnụ ka na-atụghị egwu ihu Yahwe Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma gị"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "na ndị ohu gị"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "m maara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ka na-"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "atụghị egwu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:12:11.605274302Z",
+  "model": "glm-5.3"
+}

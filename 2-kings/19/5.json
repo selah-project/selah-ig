@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ndị ohu ⟨nke⟩ eze Chizkiya wee bịa ruo Yeshaya.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "wee bịa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ndị ohu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨nke⟩ eze"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:25:31.242569828Z",
+  "model": "glm-5.3"
+}

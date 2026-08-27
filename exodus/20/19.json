@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ha wee sị Moshe: «Gị na-ekwu okwu anyị ka anyị nụ; ka Elohem ekwuọghị okwu anyị ka anyị ghara ịnwụ.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha wee sị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gwa \/ ekwu okwu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "ka anyị nụ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ekwu okwu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka anyị ghara"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "ịnwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:22:26.293739235Z",
+  "model": "glm-5.3"
+}

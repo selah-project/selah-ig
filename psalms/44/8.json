@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "N'ihi na Ị ezọpụtala anyị n'aka ndị iro anyị, ma mekwaa ndị kpọrọ anyị asị ihere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "Ị ezọpụtala anyị"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "n'aka ndị iro anyị"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "ma ndị kpọrọ anyị asị"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "Ị mekwara ihere"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:22.795510295Z",
+  "model": "glm-5.3"
+}

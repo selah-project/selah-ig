@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "N'elu ọkụ-ọnụ-mmanụ dị ọcha ka ⟨⟨ọ⟩⟩ ga-edozi ⟨את⟩ ọkụ ndị ahụ, n'ihu Yahwe, mgbe niile.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "N'elu"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ọkụ-ọnụ-mmanụ"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ga-edozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkụ ndị ahụ"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "ọkụ ndị ahụ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    }
+  ],
+  "timestamp": "2026-08-27T07:05:19.911853052Z",
+  "model": "glm-5.3"
+}

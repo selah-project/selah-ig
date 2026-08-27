@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 125,
+  "translation": "Ma ndị na-atụgharị gaa n'ụzọ nzọụkwụ ha, Yahwe ga-eduga ⟨את⟩ ndị na-eme ihe ọjọọ; udo dịrị Yisrael.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "ndị na-atụgharị"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "ụzọ nzọụkwụ ha"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "ga-eduga ha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị na-eme ihe ọjọọ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ndị na-eme"
+    },
+    {
+      "surface": "האון",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dịrị"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:51.380211096Z",
+  "model": "glm-5.3"
+}

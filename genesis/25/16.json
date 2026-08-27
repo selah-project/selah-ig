@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ndị a bụ ụmụ Yishmael, ma ndị a ka aha ha dị, n'obodo nta ha na n'ogige ha: ụkpara iri na abụọ, dịka mba ha si dị.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ma ndị a"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "aha ha"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "n'obodo nta ha"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "na n'ogige ha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "ụkpara"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "dịka mba ha si dị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:40:01.938036089Z",
+  "model": "glm-5.3"
+}

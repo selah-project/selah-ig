@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 70,
+  "translation": "Ka ha ṅụọ ihere ma nwee ihere ndị na-achọ mmụọ m; ka ha laghachi azụ ma nwee nhụsị, ndị na-anụ ọkụ n'obi maka ihe ọjọọ m.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ka ha ṅụọ ihere"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ma nwee ihere"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ndị na-achọ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mmụọ m"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ka ha laghachi azụ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "azụ"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ma nwee nhụsị"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ndị na-anụ ọkụ n'obi maka"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ihe ọjọọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:19.804447776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "Paroh wee soro Yosef kwuo, sị: nna gị na ụmụnne gị abịala nye gị.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee soro kwuo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "soro"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "na ụmụnne gị"
+    },
+    {
+      "surface": "באו",
+      "gloss": "abịala"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nye gị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:03:16.125239360Z",
+  "model": "glm-5.3"
+}

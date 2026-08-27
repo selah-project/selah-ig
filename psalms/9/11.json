@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma ndị ma ⟨את⟩ aha gị ga-adabere na gị, n'ihi na ị bụ onye anaghị ahapụ ndị na-achọ gị, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "ga-adabere"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na gị"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ndị ma"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "ị bụ onye ahapụ"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "ndị na-achọ gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:38.358294842Z",
+  "model": "glm-5.3"
+}

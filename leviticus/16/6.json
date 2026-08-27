@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Aharon ga-ewetere ⟨את⟩ ehi nke-ejuju nke bụ nke ya, wee mezie mmehie n'aha ya na n'aka ụlọ ya.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ga-ewetere"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ehi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "nke-ejuju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke bụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nke ya"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "wee mezie mmehie"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "n'aha ya"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "na n'aka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:57:41.284198733Z",
+  "model": "glm-5.3"
+}

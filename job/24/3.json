@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 24:3",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ha na-edu anụ efi nke ụmụ mgbei pụọ, ha na-ewe ehi nke nwanyị di ya nwụrụ ⟨dị ka ịgba akaebe⟩.",
+  "tokens": [
+    {
+      "surface": "חמור",
+      "gloss": "anụ efi"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "nke ụmụ mgbei"
+    },
+    {
+      "surface": "ינהגו",
+      "gloss": "ha na-edu ... pụọ"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "ha na-ewe ... dị ka ịgba akaebe"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "nke nwanyị di ya nwụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:49:08.076030389Z",
+  "model": "glm-5.3"
+}

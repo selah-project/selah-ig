@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "Elohim, nṅụrụ na-anọghị gị; ekwula ihe zoro ezo, ma anọghịkwa nkịtị, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nṅụrụ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "nkịtị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekwula"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ihe zoro ezo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma anọghịkwa"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "nkịtị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:29.463143124Z",
+  "model": "glm-5.3"
+}

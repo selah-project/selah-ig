@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ihe niile a ka m nwaletere n'amamihe; m kwuru, sị: M ga-aka amamihe; ma ọ dị anya n'ebe m nọ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ihe a"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "m nwaletere"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "n'amamihe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "m kwuru"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "m ga-aka amamihe"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ma ọ"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "dị anya"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "n'ebe m nọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:15:46.488456051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'ezie, megide m ka ọ na-atụgharị, na-atụgharịkwa aka ya n'ụbọchị niile.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "N'ezie"
+    },
+    {
+      "surface": "בי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ọ na-atụgharị"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "na-atụgharịkwa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "n'ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:07:54.065521086Z",
+  "model": "glm-5.3"
+}

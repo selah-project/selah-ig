@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "M ga-akụ ⟨את⟩ ndị bi n'obodo a, na ⟨את⟩ mmadụ, na ⟨את⟩ anụ ụlọ; ọrịa ukwu ga-egbu ha.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "M ga-akụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị bi n'obodo a"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mmadụ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ụlọ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "anụ ụlọ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ọrịa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ga-egbu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:29:21.833969727Z",
+  "model": "glm-5.3"
+}

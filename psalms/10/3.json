@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "N'ihi na onye ajọ omume na-ebu ibu maka ọchịchọ nke mkpụrụ obi ya, ma onye na-erite uru na-agọzi ⟨onye n'onwe ya⟩, ọ na-ajụ Yahwe kwuru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "na-ebu ibu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ajọ omume"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ọchịchọ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nke mkpụrụ obi ya"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "onye na-erite uru"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "na-agọzi"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "na-ajụ kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:39.558543164Z",
+  "model": "glm-5.3"
+}

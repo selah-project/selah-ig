@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 94,
+  "translation": "Ruo mgbe ka, ndị ajọ omume, Yahwe? Ruo mgbe ka ndị ajọ omume ga-eme ememe?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ruo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mgbe ka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Ruo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mgbe ka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "יעלọזו",
+      "gloss": "ga-eme ememe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:41.579394938Z",
+  "model": "glm-5.3"
+}

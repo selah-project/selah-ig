@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "Okwu nke mmehie ruru ibe m karịa; mmejọ anyị — Gị ka Ị ga-ekpuchi ha.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "okwu nke"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ruru ibe"
+    },
+    {
+      "surface": "מני",
+      "gloss": "karịa m"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "mmejọ anyị"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Gị"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "ga-ekpuchi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:37.099644975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "M ga-eme ka Yerushalayim bụrụ ⟨את⟩ mkpọmkpọm nkume, ebe obibi nkịta ọhịa; ma obodo ndị Yehudah ka m ga-eme ka ⟨את⟩ ha bụrụ ọzara, na-enweghị onye bi na ya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "m ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "ka ọ bụrụ mkpọmkpọm nkume"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ebe obibi"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "nkịta ọhịa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ndị Yehudah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "m ga-eme ka"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ọzara"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "na-enweghị"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "onye bi"
+    }
+  ],
+  "timestamp": "2026-08-27T11:20:56.704832153Z",
+  "model": "glm-5.3"
+}

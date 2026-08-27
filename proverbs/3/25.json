@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "E bee na atụla ọjọọ mberede, na mbibi nke ndị ajọ omume, mgbe ọ na-abịa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "atụla"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "e bee na"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "mberede"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "na mbibi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nke ndị ajọ omume"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ọ na-abịa"
+    }
+  ],
+  "timestamp": "2026-08-27T14:13:48.414412595Z",
+  "model": "glm-5.3"
+}

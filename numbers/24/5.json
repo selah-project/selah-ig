@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Olee mma dị n'akpa gị, O Yaakov, ebe obibi gị, O Yisrael!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Olee"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "mma dị"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "n'akpa gị"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "O Yaakov"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "ebe obibi gị"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "O Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T07:36:33.316766714Z",
+  "model": "glm-5.3"
+}

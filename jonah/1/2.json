@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Bilie, gaa Nineveh, ⟨obodo⟩ ahụ ukwu, ma kpọọ mkpu ⟨את⟩ okwu ya n'elu, n'ihi na ajọ omume ha rịgooro n'ihu m.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Bilie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineveh"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨obodo⟩"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ahụ ukwu"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "kpọọ mkpu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "rịgooro"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ajọ omume ha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:46:47.997168057Z",
+  "model": "glm-5.3"
+}

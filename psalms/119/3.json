@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ọ bụghịkwa na ha na-eme ihe na-ezighị ezi; n'ụzọ ya ka ha na-eje.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ọ bụghịkwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ha na-eme"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ihe na-ezighị ezi"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "n'ụzọ ya"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ha na-eje"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:14.823495012Z",
+  "model": "glm-5.3"
+}

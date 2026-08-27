@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 10:15",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Mgbe ọ na-asụnyere m okwu ndị a, tinyere m ihu m n'ala, m wee nọrọ jiri.",
+  "tokens": [
+    {
+      "surface": "ובדברו",
+      "gloss": "mgbe ọ na-asụ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nya m"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "dịka okwu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "tinyere m"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu m"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "ונאלמתי",
+      "gloss": "m wee nọrọ jiri"
+    }
+  ],
+  "timestamp": "2026-08-27T15:33:07.796259251Z",
+  "model": "glm-5.3"
+}

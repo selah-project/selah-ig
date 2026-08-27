@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "O yiri ìhè nke ụtụtụ mgbe anyanwụ na-apụta, ụtụtụ na-enweghị urukpụrụ; site na ìhè na-agbanye, site na mmiri ozuzo, ahịhịa na-apụta n'ụwa.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "o yiri ìhè"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "nke ụtụtụ"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "na-apụta"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "anyanwụ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ụtụtụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-enweghị"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "urukpụrụ"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "site na ìhè na-agbanye"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "site na mmiri ozuzo"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ahịhịa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T09:48:11.795073758Z",
+  "model": "glm-5.3"
+}

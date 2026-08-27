@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "N'ụbọchị ahụ, Esav laghachiri n'ụzọ ya, gaa Seir.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "laghachiri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "N'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "n'ụzọ ya"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-08-27T05:49:56.128262152Z",
+  "model": "glm-5.3"
+}

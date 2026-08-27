@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 86,
+  "translation": "Elohim, ndị einkebili ebilila megide m, ma ọgbakọ nke ndị ike ike na-achọ m nọọsị m, ma ha naghị etinye gị n'ihu ha.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ndị einkebili"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ebilila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "ma ọgbakọ nke"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ndị ike ike"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "m nọọsị m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma na-"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "etinye gị"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "n'ihu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:16.985439822Z",
+  "model": "glm-5.3"
+}

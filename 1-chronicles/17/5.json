@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "N'ihi na m nọghị n'ụlọ site n'ụbọchị m bulitere ⟨את⟩ Israel elu ruo n'ụbọchị taa, ma m na-agagharị site n'ụlọikwuu gaa n'ụlọikwuu, na site n'ebe obibi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "m nọrọ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "m bulitere elu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ma m na-adị"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "site n'ụlọikwuu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "n'ụlọikwuu"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "na site n'ebe obibi"
+    }
+  ],
+  "timestamp": "2026-08-27T16:03:48.357022612Z",
+  "model": "glm-5.3"
+}

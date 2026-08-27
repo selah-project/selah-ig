@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "Ha gburu m gburu, ee, ha gburu m gburu; mana n'aha Yahwe ka m ga-ekụchapụ ha.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Ha gburu m gburu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ee"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ha gburu m gburu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "n'aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "m ga-ekụchapụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:52.090992028Z",
+  "model": "glm-5.3"
+}

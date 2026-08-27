@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Obi nke onye amamihe dị n'aka nri ya, mana obi nke onye nzuzu dị n'aka ekpe ya.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nke onye amamihe"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "dị n'aka nri ya"
+    },
+    {
+      "surface": "ו לב",
+      "gloss": "mana obi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nke onye nzuzu"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "dị n'aka ekpe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:07.625062030Z",
+  "model": "glm-5.3"
+}

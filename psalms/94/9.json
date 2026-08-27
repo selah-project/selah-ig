@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 94,
+  "translation": "Onye kụrụ ⟨the⟩ ntị, kwa ọ gaghị anụ? Ma onye kere anya, kwa ọ gaghị ele?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Onye kụrụ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ntị"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ọ na-anụ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "onye kere"
+    },
+    {
+      "surface": "עין",
+      "gloss": "anya"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ọ na-ele"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:03.555501709Z",
+  "model": "glm-5.3"
+}

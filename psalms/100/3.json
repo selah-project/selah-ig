@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 100,
+  "translation": "Maara na Yahwe ⟨⟨⟩⟩ Elohim; Ọ mere anyị, anyị anaghị eme onwe anyị; anyị bụ Ndị Ya, na Atụrụ nke Ala nri Ya.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Maara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨⟩ Ọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ọ"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "mere anyị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "anyị anaghị"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "eme onwe anyị"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Ndị Ya"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "na Atụrụ"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "nke Ala nri Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:38.354046083Z",
+  "model": "glm-5.3"
+}

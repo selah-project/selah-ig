@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ọ gaghị enwe gị chi ndị ọzọ n'ihu m.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "enwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chi ndị"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T06:19:21.326033780Z",
+  "model": "glm-5.3"
+}

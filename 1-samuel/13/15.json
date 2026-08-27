@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Shemuël bilie, wee si na Gilgala rịgoro n'Gibea nke Binjamin; Shaúl wee gụọ ⟨את⟩ ⟨the⟩ ndị a hụrụ na ha nọ ya, ihe dị ka ndị ikom narị isii.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bilie"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "rịgoro"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si na"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgala"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "gụọ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "a hụrụ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ha nọ ya"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "ihe dị ka isii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndị ikom"
+    }
+  ],
+  "timestamp": "2026-08-27T09:06:57.755280269Z",
+  "model": "glm-5.3"
+}

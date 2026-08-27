@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ha le anya n'ya wee na-amị mma, ihu ha agaghị ihere.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "ha le anya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "n'ya"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "wee na-amị mma"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "ihu ha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "ihere"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:52.811021336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ekwela ka ikpe nke onye ogbenye gị gbanwee n'okpe ya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ekwela"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "ka ... gbanwee"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "nke onye ogbenye gị"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "n'okpe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:24:20.595160377Z",
+  "model": "glm-5.3"
+}

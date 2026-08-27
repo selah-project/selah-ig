@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ndị-njo ga-alọghachi na Sheol, mba niile na-echefu Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ga-alọghachi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị-njo"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "na Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "na-echefu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:14.693254676Z",
+  "model": "glm-5.3"
+}

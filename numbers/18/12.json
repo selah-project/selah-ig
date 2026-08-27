@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 18:12",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Abụba mmanụ ahụ niile, na abụba mmanya ọhụrụ niile, na ọka — mbụ ha, nke ha ga-enye Yahwe — m nyere gị ha.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "abụba"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "mmanụ ahụ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... niile"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "abụba"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "mmanya ọhụrụ"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "na ọka"
+    },
+    {
+      "surface": "ראשיתם",
+      "gloss": "mbụ ha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ha ga-enye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "m nyere ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:30:02.913506350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "onye isi nke iri ise, na onye a na-asọpụrụ n'ihu, na onye ndụmọdụ, na onye mmuta n'aka ndị ọrụ aka, na onye ghọtara nke nzuzo.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "onye isi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "iri ise"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "na onye a na-asọpụrụ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "na onye ndụmọdụ"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "na onye mmuta"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "n'aka ndị ọrụ aka"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "na onye ghọtara"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "nke nzuzo"
+    }
+  ],
+  "timestamp": "2026-08-27T10:32:24.515060149Z",
+  "model": "glm-5.3"
+}

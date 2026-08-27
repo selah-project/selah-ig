@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 124,
+  "translation": "ọ bụrụ na ọ bụghị Yahwe, onye nọ n'akụkụ anyị, mgbe mmadụ biliri megide anyị,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ọ bụrụ na ọ bụghị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "onye nọ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "n'akụkụ anyị"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "mgbe ... biliri"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "megide anyị"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:19.347724276Z",
+  "model": "glm-5.3"
+}

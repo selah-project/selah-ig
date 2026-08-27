@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ọzọkwa ⟨את⟩ ya ga-eweta ya Asshur, onyinye nye eze Yarev; ihere ga-ewe Efrayim, ma Israel ga-enwe ihere maka atụmatụ ya.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ọzọkwa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (nwa ehi ahụ)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "ga Asshur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "a ga-eweta"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "onyinye"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "nye eze"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yarev"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ihere"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ga-ewe"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "ma ga-enwe ihere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "maka atụmatụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T12:43:05.292191432Z",
+  "model": "glm-5.3"
+}

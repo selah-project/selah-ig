@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "M zigara ⟨את⟩ Moshe na ⟨את⟩ Aharon, m tụrụ ⟨את⟩ Mitsraim ara dịka m mere n'etiti ha; mgbe nke ahụ gasịrị, m kpọgitere ⟨את⟩ gịnụ pụta.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "m zigara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "m tụrụ ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "m mere"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "n'etiti ya"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mgbe nke ahụ gasịrị"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "m kpọgitere pụta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ gịnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:40:45.130073658Z",
+  "model": "glm-5.3"
+}

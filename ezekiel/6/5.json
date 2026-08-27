@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "M ga-etinye ⟨את⟩ ozu ụmụ Yisra'el n'ihu arụsị ha, ma m ga-ezi ⟨את⟩ ọkpụkpụ unu gburugburu ebe ịchà unu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "m ga-etinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ozu"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "ozu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "arụsị ha"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ma m ga-ezi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkpụkpụ unu"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "ọkpụkpụ unu"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "ebe ịchà unu"
+    }
+  ],
+  "timestamp": "2026-08-27T12:00:02.863528654Z",
+  "model": "glm-5.3"
+}

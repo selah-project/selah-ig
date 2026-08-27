@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Ma ndị iro m dị ndụ ma nwee ike; ndị kpọrọ m asị n'ụzọ ụgha abụọla ọtụtụ.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "ma ndị iro m"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "dị ndụ"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "nwee ike"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "abụọla ọtụtụ"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ndị kpọrọ m asị"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "n'ụzọ ụgha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:46.482038688Z",
+  "model": "glm-5.3"
+}

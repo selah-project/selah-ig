@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 15:9",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "O kwuru ya, sị: Were m nwa efi dị afọ atọ, na nwa ewu dị afọ atọ, na nwa atụrụ ibe dị afọ atọ, na nwa turuturu, na nwa ndọgwụma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O kwuru"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "קחה",
+      "gloss": "Were"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "nwa efi"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "dị afọ atọ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "na nwa ewu"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "dị afọ atọ"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "na nwa atụrụ ibe"
+    },
+    {
+      "surface": "משלש",
+      "gloss": "dị afọ atọ"
+    },
+    {
+      "surface": "ותר",
+      "gloss": "na nwa turuturu"
+    },
+    {
+      "surface": "וגוזל",
+      "gloss": "na nwa ndọgwụma"
+    }
+  ],
+  "timestamp": "2026-08-27T05:33:01.140426874Z",
+  "model": "glm-5.3"
+}

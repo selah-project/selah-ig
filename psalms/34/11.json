@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ọdụm ndị na-eto eto dara ogbenye ma na-agụ agụ; ma ndị na-achọ Yahwe agaghị efu ihe ọma ọ bụla.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "ọdụm ndị na-eto eto"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "dara ogbenye"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "ma na-agụ agụ"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "ma ndị na-achọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "efu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:08.502458876Z",
+  "model": "glm-5.3"
+}

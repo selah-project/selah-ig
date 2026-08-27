@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "N'ihi na a na-enye ndị na-eme ọrụ ahụ ya, ha wee jiri ya mee ka ụlọ Yahwe sikwuo ike ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ndị na-eme"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "⟨the⟩ ọrụ ahụ"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "a na-enye ya"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "ha wee ... sikwuo ike"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jiri ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T10:21:08.341664219Z",
+  "model": "glm-5.3"
+}

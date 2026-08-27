@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Nke a bụ ⟨⟨ihe⟩⟩ m nwetara, maka na iwu gị ka m chebere.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Nke a"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m nwetara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "iwu gị"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "m chebere"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:41.666808111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Onye dị ka onye-amu-amu? onye ma nkọwa nke okwu? Amamihe nke mmadụ na-eme ka ihu ya pụta ìhè, ma ike nke ihu ya ga-agbanwe.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "dị ka onye-amu-amu"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ma onye"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ma"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "nkọwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nke okwu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nke mmadụ"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "na-eme ka … pụta ìhè"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ihu ya"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ma ike"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nke ihu ya"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ga-agbanwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:52:27.236818321Z",
+  "model": "glm-5.3"
+}

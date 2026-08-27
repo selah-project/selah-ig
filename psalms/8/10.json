@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Yahwe, Adonai anyị, otu aha gị dị ukwuu n'ụwa niile!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai anyị"
+    },
+    {
+      "surface": "מה",
+      "gloss": "otu"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "dị ukwuu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ụwa niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n'ụwa niile"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:22.116243891Z",
+  "model": "glm-5.3"
+}

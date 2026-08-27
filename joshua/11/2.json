@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "na ruo ndị eze ndị nọ n'ebe ugwu, n'ugwu, na na ndịda Arabah, n'akụkụ ndịda Kinerot, na na Shifela, na na mpaghara Dor n'akụkụ ọdịda anyanwụ,",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na ruo"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị nọ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "n'ebe ugwu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "na na Arabah"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ndịda"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Kinerot"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "na na Shifela"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "na na mpaghara"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "n'akụkụ ọdịda anyanwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:29:40.522692099Z",
+  "model": "glm-5.3"
+}

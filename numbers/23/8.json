@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Kedu ka m ga-esi gbapụ? El agbaghibeghị. Kedu ka m ga-esi kpee iwe? Yahwe ekpebeghị iwe.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kedu"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "m ga-esi gbapụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "agbaghibeghị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na kedu"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "m ga-esi kpee iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ekpebeghị iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:27:55.760825528Z",
+  "model": "glm-5.3"
+}

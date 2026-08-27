@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ha we were ⟨את⟩ Lot na ⟨את⟩ ihe onwunwe ya, nwa nwanne Avram, wee gaa; ma ya bi na Sodom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ha we were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihe onwunwe ya"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ihe onwunwe ya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nwanne"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "wee gaa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma ya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bi"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "na Sodom"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:56.845184905Z",
+  "model": "glm-5.3"
+}

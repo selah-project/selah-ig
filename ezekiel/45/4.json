@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 45:4",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Akụkụ nsọ nke ala ahụ bụ nke ndị nchụàjà, ndị na-eje ozi n'ụlọ nsọ ahụ, ndị na-eru nso ka ha jeere ⟨את⟩ Yahwe ozi; ọ ga-abụkwa ebe ụlọ ha na ebe nsọ maka ụlọ nsọ ahụ.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "akụkụ nsọ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "nke ndị nchụàjà"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "ndị na-eje ozi"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "n'ụlọ nsọ ahụ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "ndị na-eru nso"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ka ha jeere ozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụkwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ומקדש",
+      "gloss": "ebe nsọ"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "maka ụlọ nsọ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:34:46.555537901Z",
+  "model": "glm-5.3"
+}

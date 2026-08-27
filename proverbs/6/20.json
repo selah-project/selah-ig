@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Nwa m, chebe iwu nna gị, ma elela anya hapụ ntụziaka nne gị;",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "chebe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma elela anya"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "hapụ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ntụziaka"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nne gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:17:44.356345674Z",
+  "model": "glm-5.3"
+}

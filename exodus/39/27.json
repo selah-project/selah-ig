@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Ha wee mee ⟨את⟩ ⟨the⟩ uwe elu dị larịị nke ahụ nkata, ọrụ onye na-atụgharị, maka Aharon na maka ụmụ ya.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ha wee mee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe elu"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "uwe elu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ahụ nkata dị larịị"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "onye na-atụgharị"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "maka Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "na maka ụmụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:41:39.390089031Z",
+  "model": "glm-5.3"
+}

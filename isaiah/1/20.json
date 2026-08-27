@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ọ bụrụ na unu jụ ma megide, mma agha ga-eri unu; n'ihi na ọnụ Yahwe ekwuola ya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ọ bụrụ na"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "unu jụ"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "ma megide"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ga-eri unu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ekwuola"
+    }
+  ],
+  "timestamp": "2026-08-27T16:38:33.558476359Z",
+  "model": "glm-5.3"
+}

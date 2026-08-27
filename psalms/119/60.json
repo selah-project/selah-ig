@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ọsịsa m were, m ejighị mgbazi kee iwu gị.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "ọsịsa m were"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ejighị"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "mgbazi"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kee"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "iwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:47.208739126Z",
+  "model": "glm-5.3"
+}

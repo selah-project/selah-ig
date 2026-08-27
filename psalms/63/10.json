@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 63,
+  "translation": "Ma ha na-achọ nefesh m maka mbibi; ha ga-abanye n'ebe kacha ala nke ⟨the⟩ ụwa.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ma ha"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "maka mbibi"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh m"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ha ga-abanye"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "n'ebe kacha ala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:25.631055518Z",
+  "model": "glm-5.3"
+}

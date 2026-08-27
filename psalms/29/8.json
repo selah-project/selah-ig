@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Olu Yahwe na-ama jijiji n'ọzara; Yahwe na-ama jijiji n'ọzara Kadesh.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "na-ama jijiji"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "na-ama jijiji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:44.106638678Z",
+  "model": "glm-5.3"
+}

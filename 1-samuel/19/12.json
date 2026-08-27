@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Mikal dara ⟨את⟩ Dawid ala site na windo; ọ gara, wee gbagara, wee mgbapụ.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "dara ala"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "site na"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "windo ahụ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ọ gara"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "wee gbagara"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "wee mgbapụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:15:46.931444968Z",
+  "model": "glm-5.3"
+}

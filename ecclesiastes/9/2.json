@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ihe niile dị ka nke niile: otu ọnọdụ maka onye ezigbo na maka onye ajọ, maka onye ọma na maka onye dị ọcha, na maka onye rụrụ arụ, maka onye na-echu àjà na maka onye na-adịghị echu; dịka onye ọma, otu ahụkwa onye mmehie; onye na-ekwe iyi, dịka onye na-atụ iyi egwu.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dị ka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nke niile"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "otu ọnọdụ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "maka onye ezigbo"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "na maka onye ajọ"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "maka onye ọma"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "na maka onye dị ọcha"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "na maka onye rụrụ arụ"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "na maka onye na-echu àjà"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "na maka onye"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "na-adịghị"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "echu àjà"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "dịka onye ọma"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "otu ahụkwa onye mmehie"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "onye na-ekwe iyi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "yiyi"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "onye na-atụ egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:52.071191358Z",
+  "model": "glm-5.3"
+}

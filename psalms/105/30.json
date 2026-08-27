@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Ala ha jupụtara na anụmanụ-awọ n'ime ụlọ ihi ụra nke eze ndị ha.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "jupụtara\/swàràrà"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ala ha"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "anụmanụ-awọ (arọ)"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "n'ime ụlọ ihi ụra"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "eze ndị ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:53.638308119Z",
+  "model": "glm-5.3"
+}

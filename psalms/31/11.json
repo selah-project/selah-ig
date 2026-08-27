@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "N'ihi na ndụ m gwụrụ n'iwu ọjọọ, afọ m n'ọṅụ ọjọọ; ike m dara n'ihi ihe ọjọ m mere, ọkpụkpụ m ọka njọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "gwụrụ"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "n'iwu ọjọọ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ndụ m"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "afọ m"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "n'ọṅụ ọjọọ"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "dara"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "n'ihi ihe ọjọ m mere"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ike m"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "ọkpụkpụ m"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "ọka njọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:10.746771042Z",
+  "model": "glm-5.3"
+}

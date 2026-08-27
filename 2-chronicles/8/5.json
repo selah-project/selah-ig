@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "O wurukwa ⟨את⟩ Beit-Choron ⟨the⟩ elu na ⟨את⟩ Beit-Choron ⟨the⟩ ala, obodo e wusiri ike, mgbidi, ọnụ ụzọ na mmechi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "O wurukwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Choron elu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "⟨the⟩ elu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Choron ala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "⟨the⟩ ala"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "e wusiri ike"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mgbidi"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "na mmechi ụzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:11:05.412313145Z",
+  "model": "glm-5.3"
+}

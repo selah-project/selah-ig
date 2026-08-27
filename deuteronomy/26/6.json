@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ndị Mitzrayim mere anyị ihe ọjọọ, mana ha mee anyị ka anyị daa mbà, were tinye anyị n'okpuru ọrụ siri ike.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "mere ihe ọjọọ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ anyị",
+      "marks": "anyị"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ndị Mitzrayim"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "ha mee anyị ka anyị daa mbà"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ha tinyere"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "n'elu anyị"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "siri ike"
+    }
+  ],
+  "timestamp": "2026-08-27T08:10:56.693953861Z",
+  "model": "glm-5.3"
+}

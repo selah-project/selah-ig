@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "N'ihi nke a, nwaanyi-nwoke ga-ahapụ ⟨את⟩ nna ya na ⟨את⟩ nne ya, ma jikọọ onye ya na nwunye ya, ha ga-abụrụ otu anụ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ga-ahapụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwaanyi-nwoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nne ya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nne ya"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "ma jikọọ onye ya"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "na nwunye ya"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ha ga-abụrụ"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "otu anụ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:56.300886861Z",
+  "model": "glm-5.3"
+}

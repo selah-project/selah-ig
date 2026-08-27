@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Aram n'ihu, Filistia n'azụ; ha riri ⟨את⟩ Yisrael n'ọnụ dum. N'ihe a niile, iwe ya atụghịghị azụ, aka ya ka dọrọ ogologo.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "ויפלשתים",
+      "gloss": "na Filistia"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "n'azụ"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ha riri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nke dum"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ihe niile"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "שב",
+      "gloss": "atụghị azụ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iwe ya"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "dọrọ ogologo"
+    }
+  ],
+  "timestamp": "2026-08-27T10:39:41.338875422Z",
+  "model": "glm-5.3"
+}

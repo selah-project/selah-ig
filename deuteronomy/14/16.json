@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "⟨את⟩ owl nwɛ, na ⟨את⟩ owl ukwu, na owl-ọcha",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "owl nwɛ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "owl nwɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "owl ukwu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "owl ukwu"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "na owl-ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:29:39.880200834Z",
+  "model": "glm-5.3"
+}

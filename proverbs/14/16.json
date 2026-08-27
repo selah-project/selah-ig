@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Onye amamihi nwere na-atụ egwu ma na-apụ n'ọjọọ, mana onye nzuzu na-ewe iwe Ọjọọ ma na-adabere onwe ya.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "onye amamihi nwere"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "na-atụ egwu"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ma na-apụ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "n'ọjọọ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ma onye nzuzu"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "na-ewe iwe Ọjọọ"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ma na-adabere onwe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:22:20.605007682Z",
+  "model": "glm-5.3"
+}

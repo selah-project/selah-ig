@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 139,
+  "translation": "N'azụ m na n'ihu m ka ị gbara m gburugburu, ma tinye aka gị n'elu m.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "n'azụ m"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "na n'ihu m"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "ị gbara m gburugburu"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "aka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:08.074951193Z",
+  "model": "glm-5.3"
+}

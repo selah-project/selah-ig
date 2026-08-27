@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "N'ihi na gị, Yahwe, ga-ekele onye-ziri-ezi; dịka ọta, ⟨na⟩ mmasị ga-egbu ya gburugbu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "ga-ekele"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye-ziri-ezi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "dịka ọta"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "mmasị"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "ga-egbu ya gburugbu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:09:12.652281024Z",
+  "model": "glm-5.3"
+}

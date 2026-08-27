@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Gị bụ Yahwe, ⟨⟨the⟩⟩ Elohim, onye họrọla Avram, ma kpọga ya n'Ur nke ndị Kasdim, ma tinye aha ya Avraham.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "họrọla"
+    },
+    {
+      "surface": "באברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והוצאתו",
+      "gloss": "ma kpọga ya"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "n'Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "nke ndị Kasdim"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-27T15:47:10.597777503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 66,
+  "translation": "M ga-eweta ọku-ọfụfụ nke anụ-ụra arọ goro n'elu gị, tinyere esi-esi nke ndị ebunu; m ga-eme ehi na ndị mkpi-ewu. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "ọku-ọfụfụ"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "anụ-ụra arọ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "m ga-eweta n'elu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tinyere"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "esi-esi"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "nke ndị ebunu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "m ga-eme"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "ndị mkpi-ewu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:49.919661032Z",
+  "model": "glm-5.3"
+}

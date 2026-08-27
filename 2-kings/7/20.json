@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ọ dakwara ya otu a: ndị mmadụ gbaduru ⟨את⟩ ya n'okpuru ụkwụ n'ọnụ ụzọ ámá, o wee nwụọ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dakwara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otụ a"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "gbaduru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (onyeisi-nke-atọ)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "n'ọnụ ụzọ ámá"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o wee nwụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:19:01.243595478Z",
+  "model": "glm-5.3"
+}

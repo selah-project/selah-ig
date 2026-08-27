@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Yehoshua mekwara ha ihe dịka Yahwe sere ya: ọ kpụchasịrị ⟨את⟩ ụnyịnya ha mgbọrọgwụ, ma gbara ⟨את⟩ ụgbọ-ịnyịnya ha n'ọkụ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mekwara"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụnyịnya ha"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ụnyịnya ha"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "kpụchasịrị mgbọrọgwụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụgbọ-ịnyịnya ha"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "ụgbọ-ịnyịnya ha"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "gbara"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:32:08.296933667Z",
+  "model": "glm-5.3"
+}

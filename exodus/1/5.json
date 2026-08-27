@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Mkpụrụ obi niile si n'apata Yaakov pụta ruru ndị mkpụrụ obi iri asaa; Yosef nọsịrị na Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bụrụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mkpụrụ obi"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "si pụta"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "apata"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "iri asaa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mkpụrụ obi"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nọsịrị"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:00.840733631Z",
+  "model": "glm-5.3"
+}

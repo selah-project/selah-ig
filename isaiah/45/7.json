@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Onye na-ewu ìhè ma na-eke ọchịchịrị, na-eme udo ma na-eke ihe ọjọọ; mụ̀ bụ Yahwe, onye na-eme ihe ndị a niile.",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "Onye na-ewu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ìhè"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "ma na-eke"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ọchịchịrị"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "ma na-eke"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ̀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ihe ndị a"
+    }
+  ],
+  "timestamp": "2026-08-27T11:01:45.841430409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ̈ El ga-atụgharị ikpe ziri ezi? Maọbụ Shaddai ga-atụgharị ezi omume?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ga-atụgharị"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "maọbụ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ga-atụgharị"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ezi omume"
+    }
+  ],
+  "timestamp": "2026-08-27T14:38:44.284614657Z",
+  "model": "glm-5.3"
+}

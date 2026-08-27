@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Nkume shoham, na nkume ndị a na-etinye maka efod, na maka hoshen;",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "na nkume"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ndị a na-etinye"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "maka efod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "na maka hoshen"
+    }
+  ],
+  "timestamp": "2026-08-27T06:27:33.672292379Z",
+  "model": "glm-5.3"
+}

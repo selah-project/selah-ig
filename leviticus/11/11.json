@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ọ bụrụ na ihe jọrọ njọ ha ga-adịrị maka unu; anụ ha ka unu agaghị eri, ma ⟨את⟩ ozu ha ka unu ga-ajọ.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "Ma ihe jọrọ njọ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ha ga-adị"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka unu"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "anụ ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "unu eri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ozu ha"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "ozu ha"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "unu ga-ajọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:48:32.504939305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Azaryah wee mụọ ⟨את⟩ Serayah, Serayah wee mụọ ⟨את⟩ Yehotsadak.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Azaryah wee"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "Serayah wee"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadak"
+    }
+  ],
+  "timestamp": "2026-08-27T15:53:04.281553031Z",
+  "model": "glm-5.3"
+}

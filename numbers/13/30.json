@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Kaleb kwụsịrị ⟨את⟩ ndị ahụ n'ihi Moshe, wee sị: Ka anyị rịgo ozugbo, anyị ga-alị ⟨את⟩-ya, n'ihi na anyị nwere ike ime ya.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "ma kwụsịrị"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Ka anyị rịgo"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "anyị rịgo"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "anyị ga-alị"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-ya",
+      "marks": "ya (ala ahụ)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "nwere ike"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "anyị nwere ike"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ime ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:27:58.319730168Z",
+  "model": "glm-5.3"
+}

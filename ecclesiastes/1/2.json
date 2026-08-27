@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ifi efu nke ifi efu, Koheleth kwuru; ifi efu nke ifi efu, ihe niile ⟨bụ⟩ ifi efu.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ifi efu"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "nke ifi efu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleth"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ifi efu"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "nke ifi efu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ifi efu"
+    }
+  ],
+  "timestamp": "2026-08-27T15:12:05.726348331Z",
+  "model": "glm-5.3"
+}

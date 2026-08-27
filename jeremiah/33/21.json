@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 33:21",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ọzọkwa, ọgbụgba-ndụ m ga-emebi ⟨את⟩ Dawid ohere m, ka ọ ghara ịnwe nwa na-achị ocheeze ya, na ⟨את⟩ ndị Levi ndị nchuaja, ndị na-ejere m ozi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ọzọkwa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ọgbụgba-ndụ m"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "ga-emebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohere m"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "ka ọ ghara ịbụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "na-achị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ocheeze ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndị Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ndị Levi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchuaja"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "ndị na-ejere m ozi"
+    }
+  ],
+  "timestamp": "2026-08-27T11:40:40.417097341Z",
+  "model": "glm-5.3"
+}

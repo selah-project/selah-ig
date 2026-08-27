@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ọzọkwa, n'ihi nke a ka ị na-emeghe anya gị, ma ⟨את⟩ m ka ị na-eweta n'ikpe, ya na gị?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ọzọkwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "ị na-emeghe"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "anya gị"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ m",
+      "marks": "onye a na-eweta n'ikpe (m)"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ị na-eweta"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "n'ikpe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ya na gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:43:06.692297784Z",
+  "model": "glm-5.3"
+}

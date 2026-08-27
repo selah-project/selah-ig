@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "N'ihi na Yahwe agaghị ahapụ ⟨את⟩ ndị ya n'ihi aha ya ukwu; n'ihi na ọ masịrị Yahwe ime ka unụ bụrụ ya ndị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghaghị"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "ahapụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị ya"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "ọ masịrị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ime"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unụ",
+      "marks": "unụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ndị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:07:24.440135916Z",
+  "model": "glm-5.3"
+}

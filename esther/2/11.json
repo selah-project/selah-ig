@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 2:11",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Na kwa ụbọchị ọ bụla Mordekai na-eje ije n'ihu ọdọ ụlọ ụmụnwaanyị, ịmata ⟨את⟩ ọdịmma Esther na ihe ga-eme ya.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "na ụbọchị"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "na-eje ije"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "ọdọ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ụmụnwaanyị"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ịmata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọdịmma Esther"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ọdịmma"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na ihe"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:20:07.535090508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 149,
+  "translation": "Toonu Yah, bụrụ abụ maka Yahwe, abụ ọhụrụ, otuto ya n'ọgbakọ ndị chesed na-eme.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Toonu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "bụrụ abụ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ọhụrụ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "otuto ya"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "n'ọgbakọ"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ndị chesed na-eme"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:29.179338326Z",
+  "model": "glm-5.3"
+}

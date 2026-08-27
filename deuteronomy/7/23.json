@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma Yahwe, Elohim gị, ga-enye ha n'ihu gị, ma na-agbasa ha mgbagwoju anya ukwu ruo mgbe a bibisịrị ha.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "ga-enye ha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "na-agbasa"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "mgbagwoju anya"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "a bibisịrị ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:55:28.918215783Z",
+  "model": "glm-5.3"
+}

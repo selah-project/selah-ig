@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "E dọwapụta m na ndị ajọ omume, na ndị na-eme ihe ọjọọ; ndị na-ekwu udo na ndị agbata obi ha, ma ihe ọjọọ dị n'obi ha.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "E"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "dọwapụta m"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ndị na-eme"
+    },
+    {
+      "surface": "און",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ndị na-ekwu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "ndị agbata obi ha"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ma ihe ọjọọ"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "dị n'obi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:31.080410985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ị nyere iwu ka a na-echekwa iwu ndị bịara aka gị nke ọma.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ị"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "ị nyere iwu"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "iwu ndị bịara aka gị"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ka a na-echekwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:14.823756694Z",
+  "model": "glm-5.3"
+}

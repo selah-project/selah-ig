@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Maka ụkwụ ha na-agba ọsọ gaa n'ọjọọ, ha na-agba ọsọ ịwụsa ọbara",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ụkwụ ha"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "gaa n'ọjọọ"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "na-agba ọsọ"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "ha na-agba ọsọ ngwa ngwa"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "ịwụsa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ọbara"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:32.880398123Z",
+  "model": "glm-5.3"
+}

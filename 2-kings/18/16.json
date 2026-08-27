@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "N'oge ahụ, Chizkiya bepụrụ ⟨את⟩ ụzọ ụlọ nsọ Yahwe, na ⟨את⟩ osisi ndị a na-ejikọta mmanya nke Chizkiya, eze Yehuda, kpuchiri elu, wee nye eze Ashshur ha.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "bepụrụ"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụzọ ụlọ nsọ"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ụzọ-ụzọ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ụlọ-nsọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "osisi ndị a na-ejikọta mmanya"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "osisi-ndị-a-na-ejikọta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "kpuchiri-elu"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ma-nye-ha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    }
+  ],
+  "timestamp": "2026-08-27T10:24:06.954525593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Na-ekwu, nye ⟨ndị a na-ejide⟩: Pụọ; nye ⟨ndị nọ n'ọchịchịrị⟩: Pụta ìhè. N'ụzọ ha ga-ata nri, na n'elu ugwu mkpuru niile ka ebe ịta nri ha dị.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "maka ndị a na-ejide"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "pụọ"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "maka ndị"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "n'ọchịchịrị"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "pụta ìhè"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ha ga-ata nri"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na n'elu niile"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "ugwu mkpuru"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "ebe ịta nri ha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:01:11.393802573Z",
+  "model": "glm-5.3"
+}

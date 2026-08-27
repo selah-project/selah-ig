@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "N'ihi olu onye na-akparị na onye na-asọ nsọ, n'ihi ndi iro na onye na-ebusa mmadụ agha",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "n'ihi olu"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "onye na-akparị"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "na onye na-asọ nsọ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihi ndi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "iro"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "na onye na-ebusa mmadụ agha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:02.522621208Z",
+  "model": "glm-5.3"
+}

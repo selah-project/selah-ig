@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 33:14",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Le, ụbọchị na-abịa, okwu nke Yahwe siri; m ga-eme ka okwu ọma ⟨את⟩ ndị ahụ bilie, nke m kwuru ⟨את⟩ nye ụlọ Yisrael na banyere ụlọ Yehudah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "באים",
+      "gloss": "na-abịa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "okwu nke ... siri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "m ga-eme ka ... bilie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ọma"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ọma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "m kwuru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na banyere"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-27T11:39:51.844360086Z",
+  "model": "glm-5.3"
+}

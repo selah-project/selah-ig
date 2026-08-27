@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma ha nyere ha ⟨את⟩ Kiryat-Arba, nna Anaḳ, nke bụ́ Hevron, n'ugwu Yehudah, na ⟨את⟩ ala ubi ya gbara ya gburugbu.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ma ha nyere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Anaḳ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nke bụ́"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala ubi ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ala ubi ya"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "gbara ya gburugbu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:14.325533795Z",
+  "model": "glm-5.3"
+}

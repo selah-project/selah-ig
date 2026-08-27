@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Onye ọbịa ị gaghị emebi; ma unu maara ⟨את⟩ mkpụrụ obi nke onye ọbịa, n'ihi na unu bụ ndị ọbịa n'ala Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "onye ọbịa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghị"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "emebi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "maara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpụrụ obi nke onye ọbịa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mkpụrụ obi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "nke onye ọbịa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ndị ọbịa"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "unu bụ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:24:13.930073743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Elohim, ⟨gị⟩ maara amaghị-ihe m, ma mmehie m esoghị na Zị ga-ezo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Gị"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Ị maara"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "amaghị-ihe m"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "ma mmehie m"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "site na Gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọzoghị"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "ha na-ezo"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:36.234939107Z",
+  "model": "glm-5.3"
+}

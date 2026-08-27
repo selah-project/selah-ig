@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "na ⟨את⟩ ọlaedo site n'arọ maka tebụl ndị nke ntọala ihe, maka otu tebụl na otu tebụl; nakwa ọlaọcha maka tebụl ndị ọlaọcha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọlaedo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "arọ"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "maka tebụl ndị"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "nke ntọala ihe"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "maka otu tebụl"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "na otu tebụl"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "nakwa ọlaọcha"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "maka tebụl ndị"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "nke ọlaọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:06:06.098312995Z",
+  "model": "glm-5.3"
+}

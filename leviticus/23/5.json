@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "N'ọnwa ⟨nke⟩ mbụ, n'ụbọchị nke iri na anọ n'ọnwa ahụ, n'etiti anyasị, ⟨ọ bụ⟩ Pesach nye Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "N'ọnwa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "mbụ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "n'iri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na anọ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "n'ọnwa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "anyasị"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:55.984885913Z",
+  "model": "glm-5.3"
+}

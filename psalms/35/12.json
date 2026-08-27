@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ha na-akwụ m ọjọọ n'ọnọdụ ọma,ọ bụ mfu ime mmụọ maka mmụọ m.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "ha na-akwụ m"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'ọnọdụ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ọma"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "mfu ime mmụọ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "maka mmụọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:49.917127908Z",
+  "model": "glm-5.3"
+}

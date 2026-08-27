@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 4:22",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "N'ihi na ndị m bụ ndị nzuzu; ⟨את⟩ m ha amaghị; ha bụ ụmụ nzuzu, ha bụkwa ndị na-enweghị nghọta; ha bụ ndị ma ihe n'ime ihe ọjọọ, ma ime ihe ọma ha amaghị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ndị nzuzu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ m",
+      "marks": "m (Yahwe)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ha amaghị"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "סכלים",
+      "gloss": "nzuzu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha bụ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "נבונים",
+      "gloss": "ndị na-enweghị nghọta"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha bụ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ndị ma ihe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha bụ"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ime ihe ọjọọ"
+    },
+    {
+      "surface": "ולהיטיב",
+      "gloss": "ime ihe ọma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ha amaghị"
+    }
+  ],
+  "timestamp": "2026-08-27T11:15:59.275101470Z",
+  "model": "glm-5.3"
+}

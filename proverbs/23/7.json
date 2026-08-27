@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "N'ihi na dịka ọ na-atụle n'ime mkpụrụ obi ya, otu a ka ọ dị; \"Rie ma ṅụọ\" ka ọ ga-asị gị, ma obi ya adịghị kpamkpamị n'akụkụ gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "שער",
+      "gloss": "na-atụle"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "n'ime mkpụrụ obi ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "rie"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ma ṅụọ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ọ ga-asị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "ma obi ya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "adịghị kpamkpam"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "n'akụkụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:29:25.790193238Z",
+  "model": "glm-5.3"
+}

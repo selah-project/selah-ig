@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Maka ọrụ ụmụ mmadụ, site n'okwu ọnụ gị ka m chekworo onwe m pụọ n'ụzọ ndị na-emebi ihe.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Maka ọrụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ụmụ mmadụ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "site n'okwu"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ọnụ gị"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "chekworo"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "ndị na-emebi ihe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:30.431225900Z",
+  "model": "glm-5.3"
+}

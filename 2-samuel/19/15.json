@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "O dọrọ ⟨את⟩ obi nke mmadụ niile nke Yehuda dịka otu nwoke, ha zipụkwara ozi nye eze: Laghachi gị na ndị ohu gị niile.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "dọrọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi nke mmadụ niile nke Yehuda"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "dịka otu nwoke"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ha zipụkwara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "laghachi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na … niile"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ndị ohu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:35:31.402190385Z",
+  "model": "glm-5.3"
+}

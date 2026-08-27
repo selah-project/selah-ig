@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Yaakov wee sị, ree m taa ⟨את⟩ ikike nwa mbụ gị.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "ree"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikike nwa mbụ gị"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "ikike nwa mbụ gị"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T05:40:04.874861010Z",
+  "model": "glm-5.3"
+}

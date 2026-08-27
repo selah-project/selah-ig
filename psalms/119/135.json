@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Kpasuo ìhè n'ihu gị ka ọ dịrị onye-ọrụ gị, ma kụziere m ⟨את⟩ iwu ndị gị nyere iwu.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "ihu gị"
+    },
+    {
+      "surface": "האר",
+      "gloss": "kpasuo ìhè"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "ka ọ dịrị onye-ọrụ gị"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ma kụziere m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu ndị gị nyere iwu"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "iwu ndị gị nyere iwu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:03:06.039839872Z",
+  "model": "glm-5.3"
+}

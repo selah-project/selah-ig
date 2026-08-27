@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "N'agbanyeghị, ha ebughị azụ na mmehie nke ụlọ Yarovam nke o duere ⟨את⟩ Yisrael ime; ha gara n'ime ya; nakwa ⟨the⟩ Ashera guzoro na Shomron.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "n'agbanyeghị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ha ebughị azụ"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "na mmehie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "o duere ime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בה",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ha gara"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "guzoro"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "na Shomron"
+    }
+  ],
+  "timestamp": "2026-08-27T10:22:19.487386328Z",
+  "model": "glm-5.3"
+}

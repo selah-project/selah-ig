@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "Ndị ahụ na-atụ aghụghọ nzuzo megide ndị gị, na-achịkọta atụmatụ megide ndị zoro ezo n'aka gị.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndị gị"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "na-atụ aghụghọ"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "nzuzo nzukọ"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "na-achịkọta atụmatụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "ndị zoro ezo n'aka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:29.463458130Z",
+  "model": "glm-5.3"
+}

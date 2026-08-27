@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Arpakshad wee dịrị ndụ afọ iri atọ na ise, ma mụọ ⟨את⟩ Shelach.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpakshad wee"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dịrị ndụ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ise"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "iri atọ na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ma mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:24.929683129Z",
+  "model": "glm-5.3"
+}

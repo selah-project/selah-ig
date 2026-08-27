@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 66,
+  "translation": "Ọ dịrị gị ka ụmụ mmadụ na-anya n'elu isi anyị; anyị banyere n'ime ọkụ na n'ime mmiri, mana Ị mere ka anyị pụta bata n'ịba ụba.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Ọ dịrị gị ka... na-anya"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ụmụ mmadụ"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "n'elu isi anyị"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "anyị banyere"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ime ọkụ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "na n'ime mmiri"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "mana Ị mere ka anyị pụta"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "bata n'ịba ụba"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:18.963378147Z",
+  "model": "glm-5.3"
+}

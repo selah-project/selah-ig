@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Na ndị agha ya, na ọnụọgụ ha: narị isii na iri abụọ na ise puku, ya bụ puku iri isii na abụọ na narị asaa.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "na ndị agha ya"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "na ọnụọgụ ha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "na iri isii"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "na asaa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:13:32.972468970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ha zitere m dịka okwu a, ugboro anọ, m wee zaghachiri ⟨את⟩ ha dịka okwu a.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Ha zitere"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dịka okwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ugboro"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "m wee zaghachiri"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha (ndị ozi ha)"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "dịka okwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T15:44:43.510441838Z",
+  "model": "glm-5.3"
+}

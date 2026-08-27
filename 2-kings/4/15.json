@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "O wee sị: Kpọọ ya. O kpọrọ ya, ma ọ guzoro n'ọnụ ụzọ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wee sị"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Kpọọ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o kpọrọ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ọ guzoro"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "n'ọnụ ụzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:14:22.230708292Z",
+  "model": "glm-5.3"
+}

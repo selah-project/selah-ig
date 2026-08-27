@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Zipu ìhè Gị na eziokwu Gị; ha ka ga-eduzi m, ha ga-ewetara m n'Ugwu Nsọ Gị na ebe obibi Gị.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Zipu"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ìhè Gị"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "na eziokwu Gị"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "ga-eduzi m"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "ga-ewetara m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Ugwu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "Nsọ Gị"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "ebe obibi Gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:03.035194479Z",
+  "model": "glm-5.3"
+}

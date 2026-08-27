@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 125,
+  "translation": "Abụ nke ịrịgo. Ndị na-ezukwasị okwu na Yahwe ga-adịka ugwu Tsiyon, ⟨nke⟩ agaghị agbagọja, ruo mgbe ebighị ebi ⟨ọ ga-anọdụ⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nke ịrịgo"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "ndị na-ezukwasị okwu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "ga-adịka ugwu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "agbagọja"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ọ ga-anọdụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:24.950295351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "N'ụbọchị ya, ezi mmadụ ga-apụta ìhè, ma ọdịmma udo na-enweghị ngwụsị ruo mgbe ọnwa agaghị adị.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "ga-apụta ìhè"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "n'ụbọchị ya"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ezi mmadụ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ma ọdịmma"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ọnwa agaghị adị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:59.557961586Z",
+  "model": "glm-5.3"
+}

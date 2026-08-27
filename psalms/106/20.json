@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Ya mere, ha gbanwere ⟨את⟩ otuto ha ka ọ bụrụ onyinyo nke ehi na-eri ahịhịa.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "ha gbanwere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otuto ha"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "otuto ha"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "onyinyo nke"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "na-eri"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ahịhịa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:39.670866617Z",
+  "model": "glm-5.3"
+}

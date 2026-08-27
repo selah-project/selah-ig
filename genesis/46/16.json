@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Ndị nwa Gad: Tsifyon, na Chaggi, Shuni, na Etsbon, Eri, na Arodi, na Areli.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndị nwa"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "Tsifyon"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "na Chaggi"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "Shuni"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "na Etsbon"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "na Arodi"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "na Areli"
+    }
+  ],
+  "timestamp": "2026-08-27T06:01:08.146505154Z",
+  "model": "glm-5.3"
+}

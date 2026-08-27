@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Ọ tụrụ ime ọzọ, wee mụọ nwa nwoke, ọ wee kpọọ ⟨את⟩ aha ya Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "tụrụ ime"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mụọ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa nwoke"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "kpọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aha ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-27T05:54:39.084953695Z",
+  "model": "glm-5.3"
+}

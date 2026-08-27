@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Ọ bụrụ na ị ga-eziga ⟨את⟩ nwanne anyị ⟨את⟩ anyị, anyị ga-adaba ma zụta gị nri.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ị"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ga-eziga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwanne anyị"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "nwanne anyị"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ anyị"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "anyị ga-adaba"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "ma zụta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nri"
+    }
+  ],
+  "timestamp": "2026-08-27T05:59:12.376255980Z",
+  "model": "glm-5.3"
+}

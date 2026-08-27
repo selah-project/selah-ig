@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Unu agaghị eme otu a nye Yahwe, Elohim unu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "unu ga-eme"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otua"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:02:22.899170034Z",
+  "model": "glm-5.3"
+}

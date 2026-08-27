@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Ka onye a gbasiri agbasi ghara ịlaghachi n'ihere; ka onye ogbenye na onye nọ na mkpa too aha gị.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ka ... ghara"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ịlaghachi"
+    },
+    {
+      "surface": "דך",
+      "gloss": "onye a gbasiri agbasi"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "n'ihere"
+    },
+    {
+      "surface": "עני",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na onye nọ na mkpa"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "too"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:47.641726012Z",
+  "model": "glm-5.3"
+}

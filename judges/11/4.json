@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ma ọ mere na ka ụbọchị na-agafe, ụmụ Amọn lụsoro Yisrael ọgụ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ mere"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ka ụbọchị na-agafe"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "lụsoro ọgụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amọn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T16:32:45.358073452Z",
+  "model": "glm-5.3"
+}

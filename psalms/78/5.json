@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "O guzobere akaebe na Yaakov, ma tinye Torá na Yisrael, nke o nyere ⟨את⟩ nna nna anyị iwu, ka ha wee mara ụmụ ha.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "o guzobere"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "akaebe"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ma Torá"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tinye"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna nna anyị"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "nna nna anyị"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "ka ha wee mara"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ụmụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:19.025577124Z",
+  "model": "glm-5.3"
+}

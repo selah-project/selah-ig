@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma m wepụrụ ⟨את⟩ unu n'aka Mitsrajim, na n'aka ndị niile na-emegbu unu, ma m chụgara ⟨את⟩ ha n'ihu unu, ma m nyereere unu ⟨את⟩ ala ha.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "ma m wepụrụ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "na n'aka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "ndị na-emegbu unu"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "ma m chụgara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "n'ihu unu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ma m nyereere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ha"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ala ha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:43:14.235743688Z",
+  "model": "glm-5.3"
+}

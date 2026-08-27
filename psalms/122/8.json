@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 122,
+  "translation": "Maka nwanne m nwoke na ebe m na-emekọrịta, ka m kwuo, biko, 'Ka udo dị n'ime gị.'",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "maka"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nwanne m nwoke"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "na ebe m na-emekọrịta"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ka m kwuo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "n'ime gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:40.636079948Z",
+  "model": "glm-5.3"
+}

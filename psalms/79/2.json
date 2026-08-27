@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 79,
+  "translation": "Ha nyere ⟨את⟩ ozu ndị ohu gị ka ọ bụrụ nri maka nnụnụ eluigwe, anụ ndị Chineke-kwesịrị-nsọ gị maka anụmanụ ọhịa nke ụwa.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "ha nyere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ozu ndị ohu gị"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "ozu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ndị ohu gị"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "nri"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "maka nnụnụ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nke eluigwe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "anụ"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "ndị Chineke-kwesịrị-nsọ gị"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "maka anụmanụ ọhịa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nke ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:46:03.838351095Z",
+  "model": "glm-5.3"
+}

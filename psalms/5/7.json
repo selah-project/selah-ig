@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ga-ebibi gị ndị na-ekwu asị; nwoke ọbara na nwoke aghụghọ ka Yahwe kpọrọ asị.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "ga-ebibi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ndị na-ekwu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "asị"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ọbara"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "na aghụghọ"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "kpọrọ asị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:12.527300368Z",
+  "model": "glm-5.3"
+}

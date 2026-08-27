@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Ọ bụrụ na ha rọọrọ ihe ndị e nyere iwu m, ma n'iwu nzuzo m ha na-echebeghị",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ihe ndị e nyere iwu m"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ha rọọrọ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ma n'iwu m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ha na-echebe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:51.084866948Z",
+  "model": "glm-5.3"
+}

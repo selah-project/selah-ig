@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 131,
+  "translation": "Abụ nke ịrịgo, nke Davịd. Yahwe, obi m ebughị elu, anya m emighị elu, m na-agakwaghị n'ihe ndị ukwu na ihe ndị dị ịtụnanya karịa m.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nke ịrịgo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Davịd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ebughị elu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "emighị elu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma m na-agakwaghị"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "m na-aga"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "n'ihe ndị ukwu"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "na ihe ndị dị ịtụnanya"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "karịa m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:03.993778990Z",
+  "model": "glm-5.3"
+}

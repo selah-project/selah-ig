@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma Moshe dị afọ iri asatọ, ma Aharon dị afọ iri asatọ na atọ, mgbe ha na-agwa Paroh okwu.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Ma Moshe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dị afọ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "iri asatọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ma Aharon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "dị afọ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "na iri asatọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "mgbe ha na-agwa okwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-27T06:08:11.143886748Z",
+  "model": "glm-5.3"
+}

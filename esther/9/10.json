@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "ụmụ iri nke Haman, nwa Hamdata, onye iro nke ndị Yehuda, ka ha gburu; mana n'ihe mkpụrụ ha etibeghị ⟨את⟩ aka ha.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "onye iro"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ndị Yehuda"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ha gburu"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "n'ihe mkpụrụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "etibeghị"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "etibeghị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka ha"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "aka ha"
+    }
+  ],
+  "timestamp": "2026-08-27T15:21:52.818091216Z",
+  "model": "glm-5.3"
+}

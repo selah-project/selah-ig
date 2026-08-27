@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Nụ, Yahwe, olu m mgbe m na-akpọọ gị; meere m ebere, zaa m.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "olu m"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mgbe m na-akpọọ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "meere m ebere"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "zaa m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:05.048918461Z",
+  "model": "glm-5.3"
+}

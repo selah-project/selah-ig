@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Nwa ahụ toruru, ọ bịara nye ya nye nwa nwanyị Paroh, ọ wee bụrụ nwa ya. O kpọrọ aha ya Moshe, n'ihi na ọ sịrị, Site n'ime mmiri ka m dọrọ ya pụta.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "toruru"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "nwa ahụ"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "ọ bịara nye ya"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "nye nwa nwanyị"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ wee bụrụ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "o kpọrọ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ọ sịrị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site n'ime"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "ka m dọrọ ya pụta"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:12.629568530Z",
+  "model": "glm-5.3"
+}

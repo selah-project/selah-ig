@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 8:22",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ wee deta ⟨את⟩ ram nke abụọ, ram nke mmalite-nsọ, Aharon na ụmụ ya wee tinye ⟨את⟩ aka ha n'isi ram ahụ.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "deta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ram"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ram"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "nke mmalite-nsọ"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "wetuinye"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na ụmụ ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka ha"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "aka ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ram ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:51:33.075792816Z",
+  "model": "glm-5.3"
+}

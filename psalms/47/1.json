@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "Maka onye-eduzi egwu; maka ụmụ Korach; abụ eji agụ egwu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye-eduzi egwu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "maka ụmụ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ eji agụ egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:21.011457320Z",
+  "model": "glm-5.3"
+}

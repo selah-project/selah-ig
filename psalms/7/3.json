@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ka ọ ghara ịpụchasị m dịka ọdụm ⟨nefesh⟩ m, na-akụchasị ya, enweghịkwa onye na-azọpụta.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "ịpụchasị"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "dịka ọdụm"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨nefesh⟩ m"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "na-akụchasị"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "enweghịkwa"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "onye na-azọpụta"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:05.421009687Z",
+  "model": "glm-5.3"
+}

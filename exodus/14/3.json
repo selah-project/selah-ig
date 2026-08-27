@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Parao ga-ekwu maka ụmụ Yisrael, ⟨Ha nọrọ⟩ na mgbagwoju anya n'ala; ⟨the⟩ ọzara emechiela ha.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ga-ekwu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "maka ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "na mgbagwoju anya"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "emechiela"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ọzara"
+    }
+  ],
+  "timestamp": "2026-08-27T06:17:54.928421994Z",
+  "model": "glm-5.3"
+}

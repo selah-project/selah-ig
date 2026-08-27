@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "N'ihi na mgbe ị na-aga mmiri, m ⟨את⟩ ga-adị gị nso; ma n'osimiri ndị, ha agaghị ezufe gị; n'ihi na mgbe ị na-aga n'ime ọkụ, ị gaghị ere; ma mgbama ọkụ agaghị ekuzie gị ọkụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "mgbe ị na-aga"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "m ga-adị gị nso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "ma n'osimiri ndị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "ezufe gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "mgbe ị na-aga"
+    },
+    {
+      "surface": "במו",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ị gaghị"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "ere"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "ma mgbama ọkụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ekuzie gị ọkụ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:59:35.644980251Z",
+  "model": "glm-5.3"
+}

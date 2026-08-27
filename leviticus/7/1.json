@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Nke a ka bụ iwu nke onyinye-mmejọ: ọ dị nsọ nke nsọ ndị kasị elu ka ọ bụ.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "nakwa nke a"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "nke onyinye-mmejọ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nke nsọ ndị kasị elu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:45:04.470624223Z",
+  "model": "glm-5.3"
+}

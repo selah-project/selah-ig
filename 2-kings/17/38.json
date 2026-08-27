@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 17:38",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ọgbụgba-ndụ nke m gbara ⟨את⟩ unu, unu ekwesịghị ichefu ya; unu agaghịkwa atụ chi ndị ọzọ egwu.",
+  "tokens": [
+    {
+      "surface": "והברית",
+      "gloss": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "m gbara"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekwesịghị"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "ichefu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "agaghịkwa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "atụ egwu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ndị ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:23:56.100081106Z",
+  "model": "glm-5.3"
+}

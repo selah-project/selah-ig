@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Onye nchụ àjà ga-ele ya, le, mgbawa ọcha n'ahụ, ọ gbanweela ntutu ka ọ bụrụ ọcha, ma nwee anụ dị ndụ na mgbawa ahụ;",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ga-ele ya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụ àjà"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "mgbawa"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ọcha"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "n'ahụ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "gbanweela"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ntutu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ka ọ bụrụ ọcha"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "ma nwee"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "anụ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dị ndụ"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "na mgbawa ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:53:25.915330931Z",
+  "model": "glm-5.3"
+}

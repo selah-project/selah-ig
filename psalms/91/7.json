@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "Puku ga-adakwa n'akụkụ gị, na puku iri n'aka nri gị; ọ gaghị erute nso gị.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "ga-ada"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "n'akụkụ gị"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "na puku iri"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "n'aka nri gị"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nso gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "erute"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:15.121611200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Kwa ụbọchị gị dị ka ụbọchị nke onwu-mmadụ? ma afọ gị ka ụbọchị nke dike?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "dị ka ụbọchị"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nke onwu-mmadụ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ụbọchị gị"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "afọ gị"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ka ụbọchị"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nke dike"
+    }
+  ],
+  "timestamp": "2026-08-27T14:40:29.658139137Z",
+  "model": "glm-5.3"
+}

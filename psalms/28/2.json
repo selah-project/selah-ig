@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Nụ olu arịrịọ m mgbe m na-eti mkpu gaa na gị, mgbe m na-ewelite aka m na-akụ ebe nsọ dị nsọ gị.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Nụ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "arịrịọ m"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "mgbe m na-eti mkpu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gaa na gị"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "mgbe m na-ewelite"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na-akụ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ebe nsọ dị nsọ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:31.080268015Z",
+  "model": "glm-5.3"
+}

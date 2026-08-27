@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 64,
+  "translation": "Onye ezi omume ga-anụ ụtọ na Yahwe, ga-adabere na Ya; ndị niile nwere obi kwụ ọtọ ga-eto Onye-Ya.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ga-anụ ụtọ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Onye ezi omume"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "ga-adabere"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na Ya"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "ga-eto Onye-Ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "nwere obi kwụ ọtọ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:56.637211501Z",
+  "model": "glm-5.3"
+}

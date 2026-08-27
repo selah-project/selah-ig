@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Yisrael wee sị Yosef: Ka m nwụọ̄ ugbu a, ebe m hụla ⟨את⟩ ihu gị, n'ihi na ị ka dị ndụ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "Ka m nwụọ̄"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "m hụla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihu gị"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ihu gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "ị ka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dị ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:03:18.328112654Z",
+  "model": "glm-5.3"
+}

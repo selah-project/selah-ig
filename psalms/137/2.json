@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 137,
+  "translation": "N'elu osisi akwụkwọ-ozu n'etiti ha ka anyị kwụnyere áìkwà ndị anyị.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "osisi akwụkwọ-ozu"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "n'etiti ya"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "anyị kwụnyere"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "áìkwà ndị anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:05.185166550Z",
+  "model": "glm-5.3"
+}

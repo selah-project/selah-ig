@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Yonatan gbakwunere inye ⟨את⟩ Dawid iyi n'ịhụnanya ya n'ebe ⟨את⟩ ọ nọ; n'ihi na ọ hụrụ ya n'anya site n'ịhụnanya nke mkpụrụ obi ya.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "gbakwunere"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "inye iyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "n'ịhụnanya ya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "ịhụnanya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mkpụrụ obi ya"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "ọ hụrụ n'anya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:15:18.354100047Z",
+  "model": "glm-5.3"
+}

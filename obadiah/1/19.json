@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ndị Neghev ga-echi ⟨את⟩ ugwu Esav n’aka, ma ndị Šfela ga-echi ⟨את⟩ ndị Pelishtim n’aka; ha ga-echi ⟨את⟩ ubi Ephrajim na ⟨את⟩ ubi Shomeron n’aka; ma Binyamin ga-echi ⟨את⟩ Gilead n’aka.",
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "ga-echi n’aka"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ndị Neghev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugwu Esav"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "ma ndị Šfela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Pelishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Pelishtim"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ha ga-echi n’aka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubi Ephrajim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ubi Shomeron"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ma Binyamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    }
+  ],
+  "timestamp": "2026-08-27T16:46:59.013007138Z",
+  "model": "glm-5.3"
+}

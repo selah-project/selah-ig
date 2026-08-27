@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ọ dị na ụbọchị nke asatọ, Moshe kpọrọ Aharon, ụmụ ya, na ndị okenye nke Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dị"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na ụbọchị"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "nke asatọ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kpọrọ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "na ụmụ ya"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "na ndị okenye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T06:50:15.197120494Z",
+  "model": "glm-5.3"
+}

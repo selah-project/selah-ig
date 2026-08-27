@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Mgbe m nụrụ ⟨את⟩ okwu a, m jikasịrị ⟨את⟩ uwe m na ⟨את⟩ uwe elu m, m mikwara ntutu isi m na ntu m, wee nọdụ ala daa mbamba.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "mgbe m nụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "m jikasịrị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe m"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "uwe m"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "na uwe elu m"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "m mikwara"
+    },
+    {
+      "surface": "משער",
+      "gloss": "ntutu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "isi m"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "na ntu m"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "ma m nọdụ ala"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "daa mbamba"
+    }
+  ],
+  "timestamp": "2026-08-27T16:53:39.479539430Z",
+  "model": "glm-5.3"
+}

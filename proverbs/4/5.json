@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Zụta amamihe, zụta nghọta; echefughị ya, ma ghara ịtụgharị site n'okwu ⟨ọnụ m⟩.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "zụta"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "zụta"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "nghọta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "echefu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma ghara"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ịtụgharị"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "site n'okwu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:13:32.021402480Z",
+  "model": "glm-5.3"
+}

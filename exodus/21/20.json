@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma mgbe nwoke kụrụ ⟨את⟩ odibo ya ma ọ bụ ⟨את⟩ odibo nwanyị ya na mkpọ, ma ọ nwụọ n'okpuru aka ya, a ga-abọ ya ọbọ n'ụzọ doro anya.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ma mgbe"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "kụrụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odibo ya"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "odibo ya"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odibo nwanyị ya"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "odibo nwanyị ya"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "na mkpọ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ma ọ nwụọ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "a ga-abọ ọbọ"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "a ga-abọ ya ọbọ n'ụzọ doro anya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:20.592576160Z",
+  "model": "glm-5.3"
+}

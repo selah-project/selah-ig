@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Mgbe m na-ele eluigwe gị anya — ọrụ mkpịsị aka gị, ọnwa na kpakpando ndị gị guzobere —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mgbe"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "m na-ele anya"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "eluigwe gị"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "mkpịsị aka gị"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ọnwa"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "na kpakpando ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "gị guzobere"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:54.688412538Z",
+  "model": "glm-5.3"
+}

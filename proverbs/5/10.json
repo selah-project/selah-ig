@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ka ndị ọbịa ghara izu okọ n'ike gị, na ọrụ ibu gị n'ụlọ onye ọzọ;",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ka ... ghara"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "izu okọ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ndị ọbịa"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "ike gị"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "na ọrụ ibu gị"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "onye ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:12:40.334009243Z",
+  "model": "glm-5.3"
+}

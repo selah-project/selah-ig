@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Kenaan mụrụ ⟨את⟩ Tzidon nwa ya nke mbụ, na ⟨את⟩ Heth.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tzidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "nwa ya nke mbụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Heth"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heth"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:55.148996033Z",
+  "model": "glm-5.3"
+}

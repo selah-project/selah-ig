@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Ọ gbasaa igwe ojii ka ọ bụrụ mkpuchi, na ọkụ ka ọ na-eme ka abalị pụta ìhè.",
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "Ọ gbasaa"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "igwe ojii"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "ka ọ bụrụ mkpuchi"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "na ọkụ"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "ka ọ na-eme ka ... pụta ìhè"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "abalị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:28.806154259Z",
+  "model": "glm-5.3"
+}

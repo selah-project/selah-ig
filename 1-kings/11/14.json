@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Yahwe wee bilie onye iro megide Shelomoh: ⟨את⟩ Hadad onye Edom, site n'ahụhụ eze; ọ nọ na Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wee bilie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "onye iro"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "megide Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad onye Edom"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "onye Edom"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "site n'ahụhụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "nọ na Edom"
+    }
+  ],
+  "timestamp": "2026-08-27T10:00:25.097723966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Ka mbibi dakwasịa ha; ka ha daa jụọ Sheol ka ha dị ndụ; maka ihe ọjọọ dị n'ebe obibi ha, n'etiti ha.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "ka mbibi dakwasịa"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ka ha daa jụọ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ka ha dị ndụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "n'ebe obibi ha"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "n'etiti ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:56.075991282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "N'ihi na Ị na-azọpụta ndị ogbenye, mana anya ndị nwere elu ngo Ị na-ebelata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ogbenye"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "na-azọpụta"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "mana anya"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "ndị nwere elu ngo"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "Ị na-ebelata"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:38.004960226Z",
+  "model": "glm-5.3"
+}

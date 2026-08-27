@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 1:14",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ọ bụrụ na n'ụdị nnụnụ ka ọkụ-nchụjà ya dị nye Yahwe, ọ ga-eweta site na ndị turutoro ma ọ bụ site n'ụmụ ndị Colombia ⟨את⟩ ihe-nchụjà ya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ọ bụrụ na"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ụdị nnụnụ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ọkụ-nchụjà"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ihe-nchụjà ya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ọ ga-eweta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "ndị turutoro"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ndị Colombia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe-nchụjà ya"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ihe-nchụjà ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:25.386274446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 18:24",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ndị ohu Shaụl wee kọọ ya akụkọ, sị, \"Dịka okwu ndị a ka Devid kwuru.\"",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "wee kọọ akụkọ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ndị ohu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaụl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "dịka okwu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka o kwuru"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Devid"
+    }
+  ],
+  "timestamp": "2026-08-27T09:14:06.550435108Z",
+  "model": "glm-5.3"
+}

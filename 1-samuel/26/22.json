@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 26:22",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "David zara wee sị: Le, ube nke eze; ka otu n'ime ndị ikom ntorobịa gafee were ya.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "zara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ube"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ka ọ gafee"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "n'ime ndị ikom ntorobịa"
+    },
+    {
+      "surface": "ולקחה",
+      "gloss": "were ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:24:20.803069119Z",
+  "model": "glm-5.3"
+}

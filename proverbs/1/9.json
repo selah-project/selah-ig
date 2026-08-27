@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Maka ha bụ okpete nke ọnụ mma n'isi gị, na mkpịsị olu maka agbà gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "okpete"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nke ọnụ mma"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "n'isi gị"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "na mkpịsị olu"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "maka agbà gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:09.569160579Z",
+  "model": "glm-5.3"
+}

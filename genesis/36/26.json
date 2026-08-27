@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ma ndị a bụ ụmụ Dishan: Hemdan, na Eshban, na Yitran, na Keran.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ma ndị a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Dishan"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Hemdan"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "na Eshban"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "na Yitran"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "na Keran"
+    }
+  ],
+  "timestamp": "2026-08-27T05:51:06.805002155Z",
+  "model": "glm-5.3"
+}

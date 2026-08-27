@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ma Yisrael niile na Yehudah hụrụ ⟨את⟩ Dawid n'anya, n'ihi na ọ bụ ya na-apụ ma na-abata n'ihu ha.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ma niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hụrụ n'anya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ ya"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "na-apụ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ma na-abata"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "n'ihu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:14:26.162222848Z",
+  "model": "glm-5.3"
+}

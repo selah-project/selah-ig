@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Okwu nke ọnụ onye amamihi nwere ebere; ma envi nke onye nzuzu, ọ ga-eriri ya.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Okwu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "nke ọnụ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "onye amamihi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nwere ebere"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ma envi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "onye nzuzu"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ọ ga-eriri ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:15:35.978317294Z",
+  "model": "glm-5.3"
+}

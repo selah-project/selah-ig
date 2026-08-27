@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "n'ihi na unu kwuru, sị: 'Yahwe ewetala anyị amụma na Bavel.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "unu kwuru"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ewetala"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "maka anyị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "amụma"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "na Bavel"
+    }
+  ],
+  "timestamp": "2026-08-27T11:38:26.585981492Z",
+  "model": "glm-5.3"
+}

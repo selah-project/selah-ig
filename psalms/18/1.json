@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Maka onye-eduzi egwu, maka ohu Yahwe, maka David, bụ onye kwuru nye Yahwe ⟨את⟩ okwu abụ a, n'ụbọchị Yahwe zọpụtara ⟨את⟩ ya n'aka ndị iro ya niile, na n'aka Shaụl.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye-eduzi egwu"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "maka ohu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "maka David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ onye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu abụ a"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a (nke a)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "zọpụtara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (David)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ndị iro ya"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "na n'aka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaụl"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:13.591969845Z",
+  "model": "glm-5.3"
+}

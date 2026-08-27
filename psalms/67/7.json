@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 67,
+  "translation": "⟨Uwa⟩ enyewo mmepụta ya; Elohim, Elohim anyị, ga-emeghe anyị ngọ",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "⟨Uwa⟩ enyewo"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "enye"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "mmepụta ya"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "ga-emeghe anyị ngọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:28.172842828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ka onye iro m ghara ikwu, \"Mmeri buru m\" mụrụ ya; ka ndị na-emenye m ihe ghara ịnụ ụtọ na mkpọtụ, n'ihi na m na-agbaji.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ka ... ghara"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ikwu"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "onye iro m"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "mmeri buru m mụrụ ya"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ndị na-emenye m ihe"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ha na-anụ ụtọ na mkpọtụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "m na-agbaji"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:50.810044904Z",
+  "model": "glm-5.3"
+}

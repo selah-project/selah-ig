@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ọ dị mma nke ị ga-ejide nke a, ma site na nke a kwa, elaị ka ị hapụ ⟨את⟩ aka gị; n'ihi na onye na-atụ Elohim egwu ga-apụta na ⟨את⟩ ha niile.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Ọ dị mma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "ị ga-ejide"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ma kwa"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "site na nke a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elaị"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ka ị hapụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka gị"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "onye na-atụ egwu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ga-apụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha niile"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    }
+  ],
+  "timestamp": "2026-08-27T15:16:23.039170575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "N'iwu edere-ede Gị ka m ga-anụ ụtọ, m ga-echefughị ⟨את⟩ okwu Gị.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "n'iwu edere-ede Gị"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "ka m ga-anụ ụtọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga-echefughị\/ọ bụghị"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "m ga-echefu"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "okwu Gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:04.955071686Z",
+  "model": "glm-5.3"
+}

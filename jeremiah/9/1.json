@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ọ̀ onye ga-enye m n'ọzara ebe obibi ndị njem, ka m hapụ ⟨את⟩ ndị m, ka m pụọ site n'aka ha ⟨את⟩? N'ihi na ha niile bụ ndị ikọ, mkpọkọ nke ndị ọghọgna.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "יִתְּנֵ֣נִי",
+      "gloss": "ga-enye m"
+    },
+    {
+      "surface": "בַמִּדְבָּ֗ר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "מְלוֹן֙",
+      "gloss": "ebe obibi"
+    },
+    {
+      "surface": "אֹֽרְחִ֔ים",
+      "gloss": "ndị njem"
+    },
+    {
+      "surface": "וְאֶֽעֶזְבָה֙",
+      "gloss": "ka m hapụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị m"
+    },
+    {
+      "surface": "עַמִּ֔י",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "וְאֵלְכָ֖ה",
+      "gloss": "ka m ga"
+    },
+    {
+      "surface": "מֵֽאִתָּ֑ם",
+      "gloss": "site n'aka ha ⟨את⟩"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כֻלָּם֙",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "מְנָ֣אֲפִ֔ים",
+      "gloss": "ndị ikọ"
+    },
+    {
+      "surface": "עֲצֶ֖רֶת",
+      "gloss": "mkpọkọ"
+    },
+    {
+      "surface": "בֹּגְדִֽים",
+      "gloss": "ndị ọghọgna"
+    }
+  ],
+  "timestamp": "2026-08-27T11:22:17.215830662Z",
+  "model": "glm-5.3"
+}

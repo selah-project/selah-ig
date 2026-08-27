@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Onye bi na ya agaghị ekwu, \"Arịa m ọrịa\"; ndị mmadụ bi na ya, a gbaghara ha mmehie.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ekwu"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "Onye bi"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "Arịa m ọrịa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "bi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "a gbaghara"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mmehie"
+    }
+  ],
+  "timestamp": "2026-08-27T10:49:17.222419571Z",
+  "model": "glm-5.3"
+}

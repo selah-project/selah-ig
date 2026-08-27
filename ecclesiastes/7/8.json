@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ọ dị mma njedebe nke okwu karịa mmalite ya; ọ dị mma onye nwere nnwayọọ n'ime karịa onye nwere obi ike dị elu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "njedebe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nke okwu"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "karịa mmalite ya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "onye nwere nnwayọọ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "karịa onye nwere obi ike dị elu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "n'ime"
+    }
+  ],
+  "timestamp": "2026-08-27T15:15:25.297158881Z",
+  "model": "glm-5.3"
+}

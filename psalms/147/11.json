@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 147,
+  "translation": "Yahwe na-akasi ụtọ na ⟨את⟩ ndị na-atụ ya egwu, na ⟨את⟩ ndị na-eche chesed ya.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "na-akasi ụtọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị na-atụ ya egwu"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ndị na-atụ ya egwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị na-eche chesed ya"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "ndị na-eche"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "chesed ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:20.404302865Z",
+  "model": "glm-5.3"
+}

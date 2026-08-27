@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Yahwe mezuchara ⟨את⟩ iwe ya, o wụfuru ọkụ iwe ya; o tinyere ọkụ na Tsiyon, ma ọ riri ntọala ya.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "mezuchara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwe ya"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "iwe ya"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "wụfuru"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iwe ya"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "o tinyere"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Tsiyon"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ọ riri"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "ntọala ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:08:23.298382967Z",
+  "model": "glm-5.3"
+}

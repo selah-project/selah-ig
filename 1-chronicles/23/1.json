@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "David mechara bụrụ okenye ma jupụta n'ụbọchị, ma mee ⟨את⟩ Shelomoh nwa ya bụ eze n'elu Israel.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ọ bụ okenye"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ma jupụta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ma mee… bụ eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-27T16:04:37.052909964Z",
+  "model": "glm-5.3"
+}

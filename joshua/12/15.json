@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Eze Livnah, otu; eze Adullam, otu;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:28:13.236561582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 115,
+  "translation": "Ma Elohim anyị dị n'eluigwe; ihe ọ bụla ọ chọrọ ka ⟨⟨ọ⟩⟩ mere.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Ma Elohim anyị"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe ọ bụla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(nke)"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ọ chọrọ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ọ mere"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:35.535028629Z",
+  "model": "glm-5.3"
+}

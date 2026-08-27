@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 80,
+  "translation": "Ka aka gị dị n'elu nwoke nke aka nri gị, n'elu nwa nke mmadụ bụ onke i nyere ike maka onwe gị.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ka ọ dị"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "aka nri gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "i nyere ike"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka onwe gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:31.235527313Z",
+  "model": "glm-5.3"
+}

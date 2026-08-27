@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "N'elu Gị ka e kwụfuru m site n'afọ; site n'afọ nne m, El m, Gị ka Ị bụ.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "N'elu Gị"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ka e kwụfuru m"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "site n'afọ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nne m"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Gị ka Ị bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:29.495113117Z",
+  "model": "glm-5.3"
+}

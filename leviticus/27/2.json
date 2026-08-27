@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Sọrọ ụmụ Yisrael okwu, wee gwa ha okwu, sị: Nwoke mgbe ọ na-eme nke ṅụrṅụrụ pụrụ iche, ọnụahịa nke ndị mmadụ ga-akaaka gị bụ nke Yahwe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sọrọ okwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "wee gwa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "na-eme pụrụ iche"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ṅụrṅụrụ"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "ọnụahịa nke gị"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "ndị mmadụ (nefesh)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nke Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:08:54.011649903Z",
+  "model": "glm-5.3"
+}

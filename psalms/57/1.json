@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 57,
+  "translation": "Maka onye-eduzi egwu; E-bibila; nke David; ederede-ede; n'ịgba ọsọ ya n'ihu Shaul, n'ọgba.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye-eduzi egwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "E-"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "bibila"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ederede-ede"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "n'ịgba ọsọ ya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "n'ọgba"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:14.175924464Z",
+  "model": "glm-5.3"
+}

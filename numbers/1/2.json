@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Walite isi ⟨את⟩ nke nzukọ niile nke ụmụ Yisrael, site n'ezinụlọ ha, site n'ụlọ nna ha, n'ọnụọgụ aha, nke nwoke ọ bụla, isi ha n'ọ̀tụ̀tụ̀ ha.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "walite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "nke nzukọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nke ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "site n'ezinụlọ ha"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "site n'ụlọ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nke nna ha"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "n'ọnụọgụ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nke ọ bụla"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "isi ha n'ọ̀tụ̀tụ̀ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:10:50.809262521Z",
+  "model": "glm-5.3"
+}

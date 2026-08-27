@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma ndị Judu nabatara ⟨את⟩ ihe ha malitere ime, na ⟨את⟩ ihe Mordecai ketara ha.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "nabatara"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ndị Judu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ha malitere ime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ha malitere"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihe Mordecai ketara ha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ketara"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T15:22:44.259872315Z",
+  "model": "glm-5.3"
+}

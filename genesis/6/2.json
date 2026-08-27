@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ụmụ Elohim hụrụ ⟨את⟩ ụmụ nwanyị nke ụmụ mmadụ, na ha dị mma; ha were ha dịka ndị nwunye n'etiti ndị niile ha họọrọ.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ nwanyị nke ụmụ mmadụ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ụmụ nwanyị"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ụmụ mmadụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ha were"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ndị nwunye"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "n'etiti ndị niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "ha họọrọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:17.518461162Z",
+  "model": "glm-5.3"
+}

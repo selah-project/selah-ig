@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 6:23",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Gwa Aharon na ụmụ ya, ka ha kwuo, sị: Ntụ nke a ka unu ga-agọọ ⟨את⟩ ụmụ Yisrael; unu ga-agwa ha, sị:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "gwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ru"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ru"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ha kwuo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ntụ nke a"
+    },
+    {
+      "surface": "תברכו",
+      "gloss": "unu ga-agọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אמור",
+      "gloss": "ga-agwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:15:49.996440361Z",
+  "model": "glm-5.3"
+}

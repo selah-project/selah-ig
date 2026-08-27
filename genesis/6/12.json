@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Elohim hụrụ ⟨את⟩ ala ahụ, lee, ọ dara nfụ; n'ihi na mmadụ niile mebisiri ⟨את⟩ ụzọ ya n'elu ala ahụ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ahụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lee"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "ọ dara nfụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "mebisiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụzọ ya"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ụzọ ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:27:55.674578233Z",
+  "model": "glm-5.3"
+}

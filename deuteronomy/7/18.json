@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ejụla ha ọjọọ; cheta nke ọma ⟨את⟩ nke Yahwe, Elohim gị, mere nye Farao na nye mba Mitzrayim niile.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ejụla"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ha ọjọọ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "cheta"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "nke ọma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nke Yahwe mere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "nye Farao"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na nye niile"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mba Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T07:56:09.332699592Z",
+  "model": "glm-5.3"
+}

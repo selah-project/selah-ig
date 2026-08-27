@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Nke a bụ anụmanụ ndị unu ga-eri: ehi, atụrụ nke ndị atụrụ, na atụrụ nke ndị ewu.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "anụmanụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "unu ga-eri"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "שה",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "nke ndị atụrụ"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "na atụrụ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "nke ndị ewu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:59:25.219845877Z",
+  "model": "glm-5.3"
+}

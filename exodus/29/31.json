@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Ma ⟨את⟩ mmetụta nke nchụso ahụ, i were, ma sie ⟨את⟩ anụ ya n'ebe dị nsọ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mmetụta nke nchụso"
+    },
+    {
+      "surface": "איל",
+      "gloss": "mmetụta"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "nke nchụso"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "i were"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "ma sie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "anụ ya"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "dị nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:30:46.828975094Z",
+  "model": "glm-5.3"
+}

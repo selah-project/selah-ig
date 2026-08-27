@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Ha na-anya mmiri anụmanụ ọhịa niile; ndị ịnyịnya ibu ọhịa na-agbapụ ege ha.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "ha na-anya mmiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "anụmanụ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ọhịa"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "na-agbapụ"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "ndị ịnyịnya ibu ọhịa"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "ege ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:19.970473572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 23:2",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Yehoshua kpọrọ Yisrael niile, ndị okenye ha, ndị isi ha, ndị ikpe ha na ndị ọchịchị ha, ma sị ha, m agadiela, abanyem n'ụbọchị ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kpọrọ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "ndị okenye ya"
+    },
+    {
+      "surface": "ולראשיו",
+      "gloss": "ndị isi ya"
+    },
+    {
+      "surface": "ולשפטיו",
+      "gloss": "ndị ikpe ya"
+    },
+    {
+      "surface": "ולשטריו",
+      "gloss": "ndị ọchịchị ya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma sị"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "agadiela m"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "abanyem"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "n'ụbọchị ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:38:48.866443746Z",
+  "model": "glm-5.3"
+}

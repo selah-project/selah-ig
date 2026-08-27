@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "O tụgharịrị anya n'ụzọ a na n'ụzọ ahụ, ma hụ na onye ọ bụla adịghị, o wee kụọ ⟨את⟩ onye Mịzraim ahụ, ma zọọ ya n'ájá.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "o tụgharịrị anya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "n'ụzọ a"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "na n'ụzọ ahụ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ma hụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "o wee kụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye Mịzraim ahụ"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "onye Mịzraim ahụ"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "ma zọọ ya"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "n'ájá"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:12.629961318Z",
+  "model": "glm-5.3"
+}

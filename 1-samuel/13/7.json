@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ma ndị Hibru gafere ⟨את⟩ Osimiri Jọdan gaa n'ala Gad na Gilead; n'ihi na Shaul ka nọ na Gilgal, ma ndị niile ahụ na-atụ ụjọ na-eso ya.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "ma ndị Hibru"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gafere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Osimiri Jọdan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Osimiri Jọdan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "na Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Shaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "ka nọ"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "na Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma ndị niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "na-atụ ụjọ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "na-eso ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:05:28.953747262Z",
+  "model": "glm-5.3"
+}

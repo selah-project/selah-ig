@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 15:3",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "M ga-edozi ha ụdị anọ, nkwuwa-okwu nke Yahwe: ⟨את⟩ mma agha ka ọ gbuo, ⟨את⟩ nkịta ka ha dọrọ, ⟨את⟩ anụmanụ nke elu-igwe na ⟨את⟩ anụ ọhịa nke ụwa ka ha rie ha ma mebie ha.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "m ga-edozi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ụdị"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkwuwa-okwu nke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mma agha"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "mma agha"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ka ọ gbuo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nkịta"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "nkịta"
+    },
+    {
+      "surface": "לסחב",
+      "gloss": "ka ha dọrọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anụmanụ nke elu-igwe"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "anụmanụ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nke elu-igwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anụ ọhịa nke ụwa"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "anụ ọhịa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ụwa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ka ha rie"
+    },
+    {
+      "surface": "ולהשחית",
+      "gloss": "ma mebie"
+    }
+  ],
+  "timestamp": "2026-08-27T11:26:08.235942213Z",
+  "model": "glm-5.3"
+}

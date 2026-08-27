@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "Dịka ọkụ na-ere ọhịa, na dịka ọkụ na-ama na-eme ka ugwu gbanye ọkụ.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "dịka ọkụ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "na-ere"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ọhịa"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "na dịka ọkụ na-ama"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "na-eme ka ... gbanye ọkụ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:16.233456160Z",
+  "model": "glm-5.3"
+}

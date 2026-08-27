@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "David weere sị Yehonatan: \"Onye ga-agwa m? Ma gịnị ka ọ bụrụ na nna gị zaa gị ihe siri ike?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "weere sị"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ga-agwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ginị ka ọ bụrụ na"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "zaa gị"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ihe siri ike"
+    }
+  ],
+  "timestamp": "2026-08-27T16:33:02.844205714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ha kpọrọ onye na-agwa ha okwu n'ọnụ ụzọ ámá asa, ma kpọọ onye na-ekwu eziokwu asa.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "ha kpọrọ ... asa"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "n'ọnụ ụzọ ámá"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "onye na-agwa okwu"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "na onye na-ekwu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "eziokwu"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "ha kpọrọ asa"
+    }
+  ],
+  "timestamp": "2026-08-27T12:48:35.527808383Z",
+  "model": "glm-5.3"
+}

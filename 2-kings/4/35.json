@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 4:35",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọ laghachiri, na-agagharị n'ụlọ ahụ otu oge n'ebe a, otu oge n'ebe ahụ, wee rịgoro, dinye ya n'elu, nwa ahụ wee ịsị isi ruo ugboro asaa, nwa ahụ wee mepee ⟨את⟩ anya ya.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ọ laghachiri"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na-agagharị"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ ahụ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu oge"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "n'ebe a"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "otu oge"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wee rịgoro"
+    },
+    {
+      "surface": "ויגהר",
+      "gloss": "dinye ya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ויזורר",
+      "gloss": "ịsị isi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nwa ahụ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ugboro"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "wee mepee"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nwa ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anya ya"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "anya ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:13:45.083313774Z",
+  "model": "glm-5.3"
+}

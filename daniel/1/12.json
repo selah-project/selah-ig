@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Nwale biko ⟨את⟩ ndị odibo gị ụbọchị iri, ka ha nye anyị nke akwụkwọ nri ka anyị rie, na mmiri ka anyị ṅụọ.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "nwale"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị odibo gị"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ndị odibo gị"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ka ha nye"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "akwụkwọ nri"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "ka anyị rie"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ka anyị ṅụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:22:26.245797460Z",
+  "model": "glm-5.3"
+}

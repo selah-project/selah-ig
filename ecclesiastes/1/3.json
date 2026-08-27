@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Gịnị ka uru dịrị mmadụ n'ihe niile nke ọrụ aka ya nke ọ na-arụ n'okpuru anyanwụ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Gịnị"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "uru"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "maka mmadụ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ihe niile"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ọrụ aka ya"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "ọ na-arụ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:12:05.726494286Z",
+  "model": "glm-5.3"
+}

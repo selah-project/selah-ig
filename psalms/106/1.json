@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Toonu Yah, enyenu Yahwe ekele, n'ihi na ⟨ọ dị⟩ mma, n'ihi na ruo mgbe ebighị ebi chesed ya.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Toonu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "enyenu ekele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:59.827594598Z",
+  "model": "glm-5.3"
+}

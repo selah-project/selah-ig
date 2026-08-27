@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ha gwọrọ ⟨את⟩ mgbawa nke ndị m na-enweghị nsọpụ, na-ekwu, udo, udo, mana enweghị udo.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "Ha gwọrọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgbawa nke ndị m"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "mgbawa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nke ndị m"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "enweghị nsọpụ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana enweghị"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    }
+  ],
+  "timestamp": "2026-08-27T11:19:03.416969955Z",
+  "model": "glm-5.3"
+}

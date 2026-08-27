@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Onye ntụpọdọrọ ⟨את⟩ ruach Yahwe? Ma onye ndụmọdụ ya ka mere ya ka ọ mara ihe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ntụpọdọrọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruach"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "Ma onye"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "ndụmọdụ ya"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "mere ya ka ọ mara ihe"
+    }
+  ],
+  "timestamp": "2026-08-27T17:17:22.759958793Z",
+  "model": "glm-5.3"
+}

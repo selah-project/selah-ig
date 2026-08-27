@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 19:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ma ọwa mmiri ahụ ga-ajụ afụ; ọwa Mitzrayim ga-ada ike ma kpọnwụ; ahịhịa aja na papayns ga-agbukwa mkpụrụ.",
+  "tokens": [
+    {
+      "surface": "והאזניחו",
+      "gloss": "ga-ajụ afụ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ọwa mmiri"
+    },
+    {
+      "surface": "דללו",
+      "gloss": "ga-ada ike"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "ga-akpọnwụ"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "ọwa"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ahịhịa aja"
+    },
+    {
+      "surface": "וסוף",
+      "gloss": "papayns"
+    },
+    {
+      "surface": "קמלו",
+      "gloss": "ga-agbukwa mkpụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:42:22.784252616Z",
+  "model": "glm-5.3"
+}

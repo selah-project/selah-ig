@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Eze site n'ikpe ziri ezi na-edozi ⟨את⟩ ala; ma nwoke natara ụtụ isi na-emebiga ya.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "site n'ikpe ziri ezi"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "na-edozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ma nwoke"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "natara ụtụ isi"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "na-emebiga ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:31:59.159426098Z",
+  "model": "glm-5.3"
+}

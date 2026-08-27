@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Avram bụkwa onye arọ nke ukwuu na anụ ụlọ, na ọla ọcha na ọla edo.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ọ bụ onye arọ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "na anụ ụlọ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "na ọla ọcha"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "na ọla edo"
+    }
+  ],
+  "timestamp": "2026-08-27T05:31:21.429175556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Yahwe, n'eluigwe ka chesed gị dị; eziokwu gị na-eru ruo igwe ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed gị"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "eziokwu gị"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na-eru ruo"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "igwe ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:25.341999345Z",
+  "model": "glm-5.3"
+}

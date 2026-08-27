@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ha wee tinye ⟨את⟩ ngwá ya n'ụlọ chi ha, ma kwụnye ⟨את⟩ ọkpụkpụ isi ya n'ụlọ Dagon.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ha tinyere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwá ya"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwá ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "chi ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọkpụkpụ isi ya"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "ọkpụkpụ isi ya"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ha kwụnyere"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-27T15:57:53.512869253Z",
+  "model": "glm-5.3"
+}

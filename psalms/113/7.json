@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 113,
+  "translation": "⟨Onye⟩ na-ewelite onye mkpụrụ obi site ná uzụza, na site n'emebo ùnù na-ebuli onye daaghị ihe.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "na-ewelite"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "site ná uzụza"
+    },
+    {
+      "surface": "דל",
+      "gloss": "onye mkpụrụ obi"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "site n'emebo ùnù"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "na-ebuli"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "onye daaghị ihe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:39.651114603Z",
+  "model": "glm-5.3"
+}

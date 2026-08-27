@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Eze Aram nọkwa na-alụso Yisrael agha;ọ na-atụkwa ndị ohu ya ọdụm n'uche,sịrị,N'ebe a na n'ebe ahụ ka m ga-edobe ogige m.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nọkwa dị"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "na-alụso agha"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Yisrael"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ọ na-atụkwa ọdụm n'uche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sịrị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "na nke ahụ"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ogige m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:36:49.921261633Z",
+  "model": "glm-5.3"
+}

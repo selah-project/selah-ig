@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Nghọta dị mma na-enye ⟨grace⟩ ọmịiko; ma ụzọ ndị na-azo ụgha ⟨is⟩ nke na-adịgide adịgide.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "nghọta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ọmịiko"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ndị na-azo ụgha"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "nke na-adịgide adịgide"
+    }
+  ],
+  "timestamp": "2026-08-27T14:22:14.313807822Z",
+  "model": "glm-5.3"
+}

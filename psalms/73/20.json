@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "Dịka nrọ mgbe mmadụ tetara, Adonai, mgbe ị tetara, ị ga-ele mmụọ nsọ ha anya n'ileghara anya.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "dịka nrọ"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "mgbe mmadụ tetara"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mgbe ị tetara"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "mmụọ nsọ ha"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "ị ga-ele anya n'ileghara anya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:20.273671127Z",
+  "model": "glm-5.3"
+}

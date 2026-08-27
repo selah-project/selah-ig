@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Onye nke Baasha nwụrụ n'obodo, nkịta ga-eri ya; onye nke ya nwụrụ n'ọhịa, nnụnụ eluigwe ga-eri ya.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "onye nwụrụ"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "nke Baasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "nkịta"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ma onye nwụrụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nke ya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "n'ọhịa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "nnụnụ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    }
+  ],
+  "timestamp": "2026-08-27T10:04:55.312114100Z",
+  "model": "glm-5.3"
+}

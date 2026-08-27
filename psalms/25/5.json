@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Duru m n'eziokwu gị, ma kuziere m, n'ihi na Ị bụ Elohim nke mgbapụta m; gị ka m chere ⟨את⟩ anya n'ụbọchị niile.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Duru m"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "n'eziokwu gị"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ma kuziere m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "nke mgbapụta m"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "gị ka m chere anya"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "m chere anya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "n'ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:35.890810930Z",
+  "model": "glm-5.3"
+}

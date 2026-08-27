@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Kpee m ikpe dịka eziokwu gị si dị, Yahwe Elohim m, ka ha na-anụkwa ụtọ n'elu m.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Kpee m ikpe"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "dịka eziokwu gị si dị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ka ha na-"
+    },
+    {
+      "surface": "ישמחu",
+      "gloss": "anụ ụtọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n'elu m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:29.067019511Z",
+  "model": "glm-5.3"
+}

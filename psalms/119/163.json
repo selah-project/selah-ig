@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Asịrị ụgha ka m kpọrọ asị ma na-asọpụghị ya, iwu gị ka m hụrụ n'anya.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "asịrị ụgha"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ka m kpọrọ asị"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "ma na-asọpụghị ya"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "iwu gị"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ka m hụrụ n'anya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:57.652986798Z",
+  "model": "glm-5.3"
+}

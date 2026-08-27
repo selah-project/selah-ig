@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 19:28",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ọ gbasaa mkparị n'ohịa gị ruo Adonai m, ⟨ezere⟩ eze; mana Adonai m, ⟨ezere⟩ eze, dị ka onye ozi nke Elohim; me ihe ọma dị na anya gị.",
+  "tokens": [
+    {
+      "surface": "וירגל",
+      "gloss": "gbasaa mkparị"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "n'ohịa gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai m"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "mana Adonai m"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "כמלאך",
+      "gloss": "dị ka onye ozi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "me"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "na anya gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:43:56.760055509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma David weere ⟨את⟩ mma ọlaedo ndị ahụ nke nọrọ n'aka ndị ohu Hadadezer, ma ọ butara ha Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ọ weere"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mma ọlaedo"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "mma ọlaedo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nke nọrọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ndị ohu"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ọ butara ha"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T09:31:53.841555299Z",
+  "model": "glm-5.3"
+}

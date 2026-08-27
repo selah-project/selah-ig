@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Dịka aha gị si bụrụ, Elohim, otu a ka otuto gị dị ruo nsọtụ ⟨nke⟩ ụwa; ikpe ziri ezi jupụtara n'aka nri gị.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "dịka aha gị si bụrụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "otuto gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "nsọtụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "jupụtara"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "aka nri gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:35.775240828Z",
+  "model": "glm-5.3"
+}

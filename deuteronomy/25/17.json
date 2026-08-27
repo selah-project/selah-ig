@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Cheta ⟨את⟩ ihe Amalek mere gị n'ụzọ, mgbe unu na-apụ na Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Cheta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe Amalek mere gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "mgbe unu na-apụ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T08:08:38.737125992Z",
+  "model": "glm-5.3"
+}

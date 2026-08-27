@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "M wee gbaa ndị isi mpụ, m wee sị, gịnị mere ka a hapụ ụlọ Elohim? M wee kwụkọta ha, ma mee ka ha guzo n'ebe guzo ha.",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "m wee gbaa mpụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị isi"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "m wee sị"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "gịnị mere"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "ka a hapụ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "m wee kwụkọta ha"
+    },
+    {
+      "surface": "ואעמדם",
+      "gloss": "m wee mee ka ha guzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "ebe guzo ha"
+    }
+  ],
+  "timestamp": "2026-08-27T15:49:13.766109812Z",
+  "model": "glm-5.3"
+}

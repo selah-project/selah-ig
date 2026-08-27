@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Mgbe ahụ, e nwere ọdịdị anyanwụ na-ada, ma e nwere ọdịdị anyanwụ na-ebilite ụtụtụ — ụbọchị nke atọ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "anyanwụ na-ada"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ụtụtụ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "nke atọ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:16.260686481Z",
+  "model": "glm-5.3"
+}

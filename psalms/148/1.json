@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 148,
+  "translation": "Toonu Yah, toonu ⟨את⟩ Yahwe site n'eluigwe, toonu Ya n'ebe ndị kasị elu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "toonu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "toonu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "toonu Ya"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "n'ebe ndị kasị elu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:37.905860569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Yehotsadak wee gaa n'ọga mbụ, mgbe Yahwe chụgara ⟨את⟩ Yehuda na Yerushalayim n'aka Nevukhadnetstsar.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Yehotsadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wee gaa"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "n'ọga mbụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukhadnetstsar"
+    }
+  ],
+  "timestamp": "2026-08-27T15:52:54.551886841Z",
+  "model": "glm-5.3"
+}

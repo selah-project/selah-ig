@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Nwanne ya nwanyị guzoro n'ebe dị anya, iji mata ihe a ga-eme ya.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "ọ guzoro"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "nwanne ya nwanyị"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "n'ebe dị anya"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "iji mata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a ga-eme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:54.171127981Z",
+  "model": "glm-5.3"
+}

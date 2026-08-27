@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ na-atụ egwu ma na-eweta mgba; ikpe ya na ugwu ya si n'aka ⟨ya⟩ pụta.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "na-atụ egwu"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ma na-eweta mgba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "si n'aka ya"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "ikpe ya"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "na ugwu ya"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "pụta"
+    }
+  ],
+  "timestamp": "2026-08-27T12:57:54.801320014Z",
+  "model": "glm-5.3"
+}

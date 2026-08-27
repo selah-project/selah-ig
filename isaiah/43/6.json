@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "M ga-asị nke ugwu: 'Nyefee!' ma nye nke ndịda: 'Echekwala!' — 'Hapụ ụmụ m nke ndị dị anya ka ha bịa, na ụmụ nwanyị m site n'ókèala ụwa.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "M ga-asị"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "nke ugwu"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Nyefee"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "ma nye nke ndịda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Echekwala"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "(ịchịkọta)"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "Hapụ ka ha bịa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ m"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ndị dị anya"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "ụmụ nwanyị m"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "site n'ókèala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T10:57:49.178346152Z",
+  "model": "glm-5.3"
+}

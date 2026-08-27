@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ha niile ga-adị n'ihere n'ihi otu ndị na-enweghị ike ịba ha uru; ha abaghị enyemaka, ha abaghịkwa uru, kama ọ bụ ihere, nakwa ihe mmebi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ha niile"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "ga-adị n'ihere"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "otu ndị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na-enweghị ike"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ịba uru"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha abaghị"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "enyemaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha abaghịkwa"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "uru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ihere"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "ihe mmebi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:51:48.152479739Z",
+  "model": "glm-5.3"
+}

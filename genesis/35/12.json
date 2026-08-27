@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ma ⟨את⟩ ala nke m nyere Avraham na Yitschak, nye gị ka m na-enye ⟨את⟩ ya, ma nye mkpụrụ gị n'azụ gị ka m na-enye ⟨את⟩ ala ahụ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "m nyere"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "nke Avraham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "na Yitschak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nke gị"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "m na-enye ya"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "nke mkpụrụ gị"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "n'azụ gị"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "m ga-enye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ahụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:50:42.098305735Z",
+  "model": "glm-5.3"
+}

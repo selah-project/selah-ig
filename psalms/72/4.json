@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "Ọ ga-ekpe ndị ogbenye nke ndị ikpe,ọ ga-ezọpụta ụmụ ndị daa ogbenye, ma mekụọ onye na-emegbu.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "Ọ ga-ekpe"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ndị ogbenye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nke ndị"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ọ ga-ezọpụta"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ndị daa ogbenye"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "ma mekụọ"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "onye na-emegbu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:42.387915714Z",
+  "model": "glm-5.3"
+}

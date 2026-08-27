@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Amamihi dị mma ya na ihe nketa, mara mma karịa maka ndị na-ahụ anyanwụ.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "dị mma"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Amamihi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ihe nketa"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "mara mma karịa"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "maka ndị na-ahụ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:15:19.494466901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Nke a ka ga-abụ mkpọrọ-arụ ya n'ime mmiri-asọ ya: ahụ ya ma ọ bụsọ ⟨את⟩ mmiri-asọ ya, ma ọ bụ ahụ ya mechie ibu site na mmiri-asọ ya, mkpọrọ-arụ ya ka ọ bụ.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Nke a ka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "mkpọrọ-arụ ya"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "n'ime mmiri-asọ ya"
+    },
+    {
+      "surface": "רר",
+      "gloss": "ma ọ bụsọ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ahụ ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmiri-asọ ya"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "mmiri-asọ ya"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "ahụ ya mechie ibu"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ahụ ya"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "site na mmiri-asọ ya"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "mkpọrọ-arụ ya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ka ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:54:00.076870231Z",
+  "model": "glm-5.3"
+}

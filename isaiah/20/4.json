@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Otú ahụ ka eze Ashur ga-eduga ⟨את⟩ ndị a dọọrọ n'agbụ nke Mitzrayim na ⟨את⟩ ndị a chụgara n'ala ọzọ nke Kush, ndị na-eto eto na ndị okenye, gba ọtọ na ndị ụkwụ mkpọ, na-ekpughe mkpụrụ ibu ha — ihere nke Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Otú ahụ"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "ga-eduga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị a dọọrọ n'agbụ nke Mitzrayim"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ndị a dọọrọ n'agbụ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nke Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị a chụgara n'ala ọzọ nke Kush"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "ndị a chụgara n'ala ọzọ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "nke Kush"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ndị na-eto eto"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "na ndị okenye"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "gba ọtọ"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "na ndị ụkwụ mkpọ"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "na-ekpughe"
+    },
+    {
+      "surface": "שת",
+      "gloss": "mkpụrụ ibu ha"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ihere nke"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T17:17:14.235771878Z",
+  "model": "glm-5.3"
+}

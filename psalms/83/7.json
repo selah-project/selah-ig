@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "Ahịa nke Edom, na ndị Yishmael, Moab, na ndị Hagar.",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Ahịa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "nke Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "na ndị Yishmael"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "na ndị Hagar"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:32.280829696Z",
+  "model": "glm-5.3"
+}

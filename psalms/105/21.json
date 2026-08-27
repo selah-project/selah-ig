@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "O tinyere ya dịka adọn n'ụlọ ya, na dịka onye na-achị ihe onwunwe ya niile.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "O tinyere"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "adọn"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "n'ụlọ ya"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "na onye na-achị"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ihe niile"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "o nwere"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:31.806883637Z",
+  "model": "glm-5.3"
+}

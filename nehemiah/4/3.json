@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Anyị rịọkwara Elohim anyị ekpere, anyị wee guzobe ndị nche ha n'ehihie na n'abalị, n'ihi ha.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "anyị rịọkwara ekpere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "anyị wee guzobe"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ndị nche"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "n'ehihie"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na n'abalị"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "n'ihi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T15:42:35.154498322Z",
+  "model": "glm-5.3"
+}

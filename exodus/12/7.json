@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ha ga-ewerekwa ụfọdụ n'ọbara, ma tinye ya n'akụkụ ogwe ọnụ ụzọ abụọ ahụ na n'elu oke ọnụ ụzọ, n'elu ụlọ ndị ha ga-eri ya n'ime ha.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ha ga-ewerekwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ụfọdụ na"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ọbara ahụ"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ha ga-etinye"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "ogwe ọnụ ụzọ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na n'elu"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "oke ọnụ ụzọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ụlọ ndị ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ha ga-eri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'ime ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:48.124000561Z",
+  "model": "glm-5.3"
+}

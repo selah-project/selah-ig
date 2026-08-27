@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Chebe m dịka isi anya, n'okpuru ndò nku gị zogbo m.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Chebe m"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "dịka isi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "anya"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "n'okpuru ndò"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "nku gị"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "zogbo m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:46:15.548736427Z",
+  "model": "glm-5.3"
+}

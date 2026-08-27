@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Onye bi-abịa na onye a goro ọrụ agaghị eri n'ime ya.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "onye bi-abịa"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "na onye a goro ọrụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'ime ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:16:30.519140850Z",
+  "model": "glm-5.3"
+}

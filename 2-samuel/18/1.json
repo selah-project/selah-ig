@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Dawid wee depụta ⟨את⟩ ⟨ndị⟩ mmadụ ndị nọ ⟨את⟩ ya, o wee tinye ndị isi pụkụ na ndị isi narị n'elu ha.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "wee depụta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ndị⟩ mmadụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ndị⟩ mmadụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o wee tinye"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "n'elu ha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "pụkụ"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na ndị isi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:40:29.394077472Z",
+  "model": "glm-5.3"
+}

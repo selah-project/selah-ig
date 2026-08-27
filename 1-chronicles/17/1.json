@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 17:1",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Va ọ dị, mgbe David nọrọ n'ụlọ ya, David wee sị Natan, onye-amụma: Le, m na-anọ n'ụlọ osisi cedar, ma arku ọgbụgba-ndụ nke Yahwe nọ n'okpuru ákwà mkpuchi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nọrọ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "n'ụlọ ya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "soro"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "onye-amụma"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "na-anọ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "osisi cedar"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "ma arku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "ákwà mkpuchi"
+    }
+  ],
+  "timestamp": "2026-08-27T16:02:39.631686501Z",
+  "model": "glm-5.3"
+}

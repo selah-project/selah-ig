@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 24:30",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ha liekwara ⟨את⟩ ya n'ókèala nke ihe nketa ya, na Timnat-Sera, nke dị n'ugwu Efrayim, n'ebe ugwu nke ugwu Gaash.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Ha liekwara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (Yehoshua)"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "n'ókèala"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "nke ihe nketa ya"
+    },
+    {
+      "surface": "בתמנת",
+      "gloss": "na Timnat"
+    },
+    {
+      "surface": "סרח",
+      "gloss": "-Sera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dị n'ugwu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "n'ebe ugwu"
+    },
+    {
+      "surface": "להר",
+      "gloss": "nke ugwu"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Gaash"
+    }
+  ],
+  "timestamp": "2026-08-27T08:41:08.940275941Z",
+  "model": "glm-5.3"
+}

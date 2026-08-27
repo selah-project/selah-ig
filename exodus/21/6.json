@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 21:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "mgbe ahụ Adonai ya ga-eweta ya n'ihu ⟨the⟩ Elohim, ma were ya bịa n'ụzọ ụzọ ma ọ bụ n'akụkụ ọnụ ụzọ; Adonai ya ga-adọpụta ⟨את⟩ ntị ya na mkpa, ọ ga-ejere ya ozi ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "והגישו",
+      "gloss": "ga-eweta ya"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Adonai ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והגישו",
+      "gloss": "ma were ya bịa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ụzọ ụzọ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "המזוזה",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "ורצע",
+      "gloss": "ga-adọpụta"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Adonai ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntị ya"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ntị ya"
+    },
+    {
+      "surface": "במרצע",
+      "gloss": "na mkpa"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ga-ejere ya ozi"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:25.383399297Z",
+  "model": "glm-5.3"
+}

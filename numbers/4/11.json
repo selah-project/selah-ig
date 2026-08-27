@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 4:11",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Na n'elu ebe ịchụàjà ọla edo ha ga-ekwusaa uwe nke anụnụ-acha-acha, ma kpuchie ⟨את⟩ ya na mkpuchi akpụkpọ anụ tahash, ma tinye ⟨את⟩ osisi-ebu ya.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "na n'elu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "ha ga-ekwusaa"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "anụnụ-acha-acha"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ma kpuchie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (ebe ịchụàjà)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "na mkpuchi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "akpụkpọ anụ"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tahash"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osisi-ebu ya"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "osisi-ebu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:15:12.212437230Z",
+  "model": "glm-5.3"
+}

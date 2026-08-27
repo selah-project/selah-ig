@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Onye a gbawara agbawa ga-adá n'etiti unu, unu ga-amata na m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "ga-adá"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "onye a gbawara agbawa"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "n'etiti unu"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "unu ga-amata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T12:00:02.864219737Z",
+  "model": "glm-5.3"
+}

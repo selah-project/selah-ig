@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ọ wee kpọọ aha ebe ahụ Tav'era, n'ihi na ọkụ Yahwe gbasara n'etiti ha.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ọ wee kpọọ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tav'era"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "gbasara"
+    },
+    {
+      "surface": "בם",
+      "gloss": "n'etiti ha"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:21:06.085817011Z",
+  "model": "glm-5.3"
+}

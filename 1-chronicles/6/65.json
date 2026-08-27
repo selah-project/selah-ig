@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma site n'aka ezinụlọ Gad, ⟨את⟩ Raamoth dị na Gilad tinyere ⟨את⟩ ala mgbaba ya, na ⟨את⟩ Machanaim tinyere ⟨את⟩ ala mgbaba ya.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ma site n'aka ezinụlọ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamoth"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamoth"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "dị na Gilad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala mgbaba ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ala mgbaba ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Machanaim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Machanaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ala mgbaba ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ala mgbaba ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:54:49.937126799Z",
+  "model": "glm-5.3"
+}

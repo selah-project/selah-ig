@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "M maara na ọ dịghị ihe ọma dị ná ha, ma e wezụga ịnụ ụtọ na ime ihe ọma n'oge ndụ ha.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "m maara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dị ná ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "e wezụga"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "ịnụ ụtọ"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "na ime"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "n'oge ndụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:52:24.522060366Z",
+  "model": "glm-5.3"
+}

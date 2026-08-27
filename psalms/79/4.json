@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 79,
+  "translation": "Anyị aghọwo ihe ihere maka ndị agbata obi anyị, ihe ịkwa nnụ na ihe ntụ chere maka ndị gbara anyị gburugburu.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "anyị aghọwo"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ihe ihere"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "maka ndị agbata obi anyị"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "ihe ịkwa nnụ"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "na ihe ntụ chere"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "maka ndị gbara anyị gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:46:03.838685909Z",
+  "model": "glm-5.3"
+}

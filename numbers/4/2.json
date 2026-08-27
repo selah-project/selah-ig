@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Were isi nke ụmụ Kehat n'etiti ụmụ Lewi, site n'ụmụnna ha, site n'ụlọ nna ha.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Were isi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi nke ụmụ Kehat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "isi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "site n'ụmụnna ha"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "site n'ụlọ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nna ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:13:26.578996050Z",
+  "model": "glm-5.3"
+}

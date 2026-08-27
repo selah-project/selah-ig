@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ọkwa ịkpa ọka ga-eru unu ruo ⟨את⟩ oge owuwe vaịn, ma owuwe vaịn ga-eru ⟨את⟩ oge ịkụ mkpụrụ; unu ga-eri nri unu ruo mmeju, unu ga-ebikwa na nchekwa n'ala unu.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "ga-eruru"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "ọkwa ịkpa ọka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oge owuwe vaịn"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "owuwe vaịn"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "ma owuwe vaịn"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "ga-eru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oge ịkụ mkpụrụ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkpụrụ a kụrụ"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "unu ga-eri"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "nri unu"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ruo mmeju"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "unu ga-ebi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "na nchekwa"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "n'ala unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:07:05.226342852Z",
+  "model": "glm-5.3"
+}

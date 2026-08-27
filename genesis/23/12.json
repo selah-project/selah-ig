@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ma Avraham na-agba ọtọ ihu n'ihu ndị obodo ahụ.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "na-agba ọtọ ihu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "obodo ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:37:19.075777268Z",
+  "model": "glm-5.3"
+}

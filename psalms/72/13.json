@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "Ọ ga-amara ọmịiko maka onye na-enweghị ihe na onye ogbenye, ma mkpụrụ ndụ nke ndị ogbenye ọ ga-azọpụta.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "ọ ga-amara ọmịiko"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "דל",
+      "gloss": "onye na-enweghị ihe"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na onye ogbenye"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "ma mkpụrụ ndụ"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "nke ndị ogbenye"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ọ ga-azọpụta"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:37.890990358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Dịka mgbu mgbagbu n'ọkpụkpụ m, ndị iro m na-akparị m, mgbe ha na-asị m ụbọchị niile: Ebee ka Elohim gị dị?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "dịka mgbu mgbagbu"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "n'ọkpụkpụ m"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "na-akparị m"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "mgbe ha na-asị"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ebee ka"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:14.668511434Z",
+  "model": "glm-5.3"
+}

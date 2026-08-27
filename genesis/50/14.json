@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Yosef laghachiri Mitzrayim, ya na ụmụnne ya, na mmadụ niile ndị gara ⟨את⟩ ya ili ⟨את⟩ nna ya, ka ha lisịrị ⟨את⟩ nna ya n'ili.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "laghachiri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "na ụmụnne ya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na mmadụ niile"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "ndị gara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka ha lisịrị"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ha lie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:06:21.396219647Z",
+  "model": "glm-5.3"
+}

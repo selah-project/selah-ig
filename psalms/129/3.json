@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 129,
+  "translation": "N'elu azụ m ka ndị na-akọ ugbo kụrụ; ha mere ogologo ⟨את⟩ akpa mkpụrụ ha.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "azụ m"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "ha kụrụ"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ndị na-akọ ugbo"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "ha mere ogologo"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "akpa mkpụrụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:22.808948004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Mọr na ahịhịa, na akpụkpọ-osisi kassia — uwe gị niile; site n'ụlọ-eze ọnụ ọdụm na-eme ka ị nwee obi ụtọ.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "Mọr"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "na ahịhịa"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kassia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "uwe gị"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "ụlọ-eze"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ọnụ ọdụm (ivory)"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ụbọ akwara (ngwá ọgụ)"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "na-eme ka ị nwee obi ụtọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:37.208862536Z",
+  "model": "glm-5.3"
+}

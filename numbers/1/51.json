@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Mgbe a na-ebufe ụlọikwu ahụ, ndị Levi ga-adapụ ya; mgbe a na-edo ụlọikwu ahụ, ndị Levi ga-ewu ya elu; onye ọzala na-abịaru nso ga-anwụ.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "mgbe a na-ebufe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ụlọikwu ahụ"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "ga-adapụ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (ụlọikwu ahụ)"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ndị Levi"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "mgbe a na-edo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ụlọikwu ahụ"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "ga-ewu elu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (ụlọikwu ahụ)"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ndị Levi"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "onye ọzala"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "na-abịaru nso"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ga-anwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:10:21.505813717Z",
+  "model": "glm-5.3"
+}

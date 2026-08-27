@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ wee sị: Maka echi. Ọ wee sị: Dịka okwu gị si dị, ka ị mata na ọ dịghị onye dị ka Yahwe, Elohim anyị.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "maka echi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "dịka okwu gị si dị"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ị mata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghị onye"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "dị ka Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:12:16.402787349Z",
+  "model": "glm-5.3"
+}

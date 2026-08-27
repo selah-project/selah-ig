@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Maka m, n'ihe ziri ezi ka m ga-ele ihu gị anya; mgbe m tetara, ka a gbasịa m na ọdịdị gị.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Maka m"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "n'ihe ziri ezi"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ka m ga-ele ... anya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ihu gị"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "a gbasịa m"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "mgbe m tetara"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "ọdịdị gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:15.581216037Z",
+  "model": "glm-5.3"
+}

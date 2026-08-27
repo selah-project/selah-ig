@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 14:10",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "N'ihi ya ka Yahwe kwuru banye ndị a: N'ụzọ a ka ha hụrụ n'anya iwagharị; ha ejedebeghị ụkwụ ha; Yahwekwa enweghị mmasị ha. Ugbu a ka Ọ ga-echeta ihe ọjọ ha, ga-enyochakwa mmehie ha.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "N'ihi ya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ka ... kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "banye ndị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "כן",
+      "gloss": "N'ụzọ a"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "ha hụrụ n'anya"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "iwagharị"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ụkwụ ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "ha ejedebeghị"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwekwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "רצם",
+      "gloss": "mmasị ha"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Ugbu a"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ga-echeta"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ihe ọjọ ha"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ga-enyocha"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "mmehie ha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:23:55.121479611Z",
+  "model": "glm-5.3"
+}

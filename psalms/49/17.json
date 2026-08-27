@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Atụla egwu mgbe nwoke na-aba ọgaranya, mgbe ùgwù ụlọ ya na-eto.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "atụla"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "na-atụ egwu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "na-aba ọgaranya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "na-eto"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ùgwù"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:15.548991206Z",
+  "model": "glm-5.3"
+}

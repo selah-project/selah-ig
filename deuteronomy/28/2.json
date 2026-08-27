@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ma ngọzi ndị a niile ga-abịa n'elu gị, ma ha ga-edo gị aka, n'ihi na ị na-anụ n'olu Yahwe Elohim gị.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "ma ha ga-abịa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "n'elu gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "ngọzi ndị"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "ma ha ga-edo gị aka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ị na-anụ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "n'olu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:13:53.824579101Z",
+  "model": "glm-5.3"
+}

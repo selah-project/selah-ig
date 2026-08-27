@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "ọ ga-enwe isi ubu abụọ ejikọtara, n'isi abụọ nke akụkụ ya, ka ejikọrọ ọnụ.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "isi ubu"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "ejikọtara"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ọ ga-enwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "akụkụ ya"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "ka ejikọrọ ọnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:28:07.284272692Z",
+  "model": "glm-5.3"
+}

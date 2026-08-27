@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "O buuru ya, wee bute ya gaka nne ya; o wee nọrọ n'ikpere ya ruo etiti ehihie, ma nwụọ.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "o buuru ya"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "wee bute ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nne ya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o wee nọrọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "ikpere ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "etiti ehihie"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ma nwụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:14:45.296838243Z",
+  "model": "glm-5.3"
+}

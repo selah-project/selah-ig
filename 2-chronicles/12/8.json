@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "N'ihi na ha ga-abụ ndị ohu ya, ka ha mara ọrụ mụ na ọrụ ndị alaeze ndị mba ụwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ha ga-abụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ndị ohu"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ka ha mara"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "ọrụ m"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "na ọrụ"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ndị alaeze"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ndị mba ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:10:15.410187858Z",
+  "model": "glm-5.3"
+}

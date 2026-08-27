@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "⟨את⟩ ohu nwoke unu, ⟨את⟩ ohu nwanyị unu, ⟨את⟩ ụmụ okorobịa unu ndị kacha mma, na ⟨את⟩ ịnyịnya ibu unu ka ọ ga-ewere, ma tinye ha n'ọrụ ya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ohu nwoke unu"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "ohu nwoke unu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ohu nwanyị unu"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "ohu nwanyị unu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ okorobịa unu"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "ụmụ okorobịa unu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ndị kacha mma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ịnyịnya ibu unu"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "ịnyịnya ibu unu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ọ ga-ewere"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "n'ọrụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:01:16.334684139Z",
+  "model": "glm-5.3"
+}

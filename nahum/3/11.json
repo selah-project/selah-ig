@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ịkwa gị ga-aṅụ sayi, ị ga-abụ onye ezoro ezo; Ịkwa gị ga-achọ ebe mgbaba n'ihi onye iro.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ịkwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "gị"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "ga-aṅụ sayi"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "onye ezoro ezo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Ịkwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "gị"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "ga-achọ"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ebe mgbaba"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "n'ihi onye iro"
+    }
+  ],
+  "timestamp": "2026-08-27T12:56:16.338335670Z",
+  "model": "glm-5.3"
+}

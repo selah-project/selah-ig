@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 111,
+  "translation": "O mere ihe ncheta maka ihe ya dị ịtụnanya; Yahwe bụ onye ọmịiko na onye ebere.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ihe ncheta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "O mere"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "maka ihe ya dị ịtụnanya"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "onye ọmịiko"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "onye ebere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:08.564851963Z",
+  "model": "glm-5.3"
+}

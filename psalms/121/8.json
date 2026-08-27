@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 121,
+  "translation": "Yahwe ga-echebe ịpụ gị na ịbata gị, site ugbu a ruo ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ga-echebe"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "ịpụ gị"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "na ịbata gị"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "site ugbu a"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:11.543872873Z",
+  "model": "glm-5.3"
+}

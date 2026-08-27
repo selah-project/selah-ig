@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Paroh hụrụ na enwere ọsịsa, o jikwa ⟨את⟩ obi ya sie ike, o nụghịkwa ha, dịka Yahwe kwuru.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ma o hụrụ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "enwere"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "ọsịsa"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "o jikwa mee ka o sie ike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi ya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "obi ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ nụghị"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nụ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:12:10.572851629Z",
+  "model": "glm-5.3"
+}

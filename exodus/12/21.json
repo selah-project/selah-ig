@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 12:21",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Moshe kpọrọkwu ndị okenye niile nke Yisraël, wee sị ha: Dọrọọ ma were maka unu onwe unu ìgwè atụrụ maka ezinụlọ unu, ma cheegbu ⟨את⟩ Pasikal.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kpọrọkwu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka niile"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "dọrọọ"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "ma were"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka unu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ìgwè atụrụ"
+    },
+    {
+      "surface": "למשפחתיכם",
+      "gloss": "maka ezinụlọ unu"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "ma cheegbu"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "⟨את⟩ Pasikal",
+      "marks": "Pasikal"
+    }
+  ],
+  "timestamp": "2026-08-27T06:16:45.023075643Z",
+  "model": "glm-5.3"
+}

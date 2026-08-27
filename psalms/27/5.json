@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "N'ihi na ọ ga-ezo m n'ụlọ nche ya, n'ụbọchị ọjọọ, ọ ga-ezo m n'ebe ezoro ezo n'akwa akwa ya; n'elu nkume ọ ga-ewelite m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "ọ ga-ezo m"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "n'ụlọ nche ya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "ọ ga-ezo m"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "n'ebe ezoro ezo"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "n'akwa akwa ya"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "n'elu nkume"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "ọ ga-ewelite m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:05.048476827Z",
+  "model": "glm-5.3"
+}

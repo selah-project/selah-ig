@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "David wee na-aga, na-eto eto, ma Yahwe, Elohim nke ndị agha, nọ ya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wee na-aga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "na-eto eto"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ma Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:31:17.144000135Z",
+  "model": "glm-5.3"
+}

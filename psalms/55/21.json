@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Ọ zipụrụ aka ya megide ⟨ndị⟩ dị jụụ ya, ọ mebiri ọgbụgba-ndụ ya.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "zipụrụ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "megide ndị dị jụụ ya"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "mebiri (tụfuru nsọ)"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ọgbụgba-ndụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:28.440435732Z",
+  "model": "glm-5.3"
+}

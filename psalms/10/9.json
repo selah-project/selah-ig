@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ọ na-ezu ohi n'ebe zoro ezo, dịka ọdụm n'ọhịa ya; ọ na-ezu ohi iji jide onye ogbenye; ọ na-eri n'ike onye ogbenye, mgbe ọ dọrọ ya n'ụgbọ mmiri ya.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "ọ na-ezu ohi"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "n'ebe zoro ezo"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "dịka ọdụm"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "n'ọhịa mkpọcha ya"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "ọ na-ezu ohi"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "iji jide"
+    },
+    {
+      "surface": "עני",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "ọ na-eri n'ike"
+    },
+    {
+      "surface": "עני",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "mgbe ọ dọrọ ya"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "n'ụgbọ mmiri (net) ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:47.698372992Z",
+  "model": "glm-5.3"
+}

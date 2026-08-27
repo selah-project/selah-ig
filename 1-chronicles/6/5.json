@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Maka Gereshom: Libni nwa ya, Yachat nwa ya, Zimmah nwa ya.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "maka Gereshom"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Zimmah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:54:23.920144664Z",
+  "model": "glm-5.3"
+}

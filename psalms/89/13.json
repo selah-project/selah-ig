@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Ewu ugwu na ndịda — gị ka kere ha; Tabor na Hermon ga-agba mkpu òtò n'aha gị.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "ewu ugwu"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "na ndịda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "kere ha"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tabor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "na Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "n'aha gị"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ga-agba mkpu òtò"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:21.580818190Z",
+  "model": "glm-5.3"
+}

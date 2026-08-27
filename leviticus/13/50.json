@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Onye nchụàjà wee lelee ⟨את⟩ mmerụ ahụ, ma mechie ⟨את⟩ mmerụ ahụ ruo ụbọchị asaa.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "wee lelee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmerụ ahụ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "mmerụ ahụ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ma mechie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmerụ ahụ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "mmerụ ahụ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ruo ụbọchị asaa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:55:41.227927228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Mmụọ ozi nke Elohim wee gwara m n'ime nrọ, Yaakov, m wee sị, Ebee m.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ gwara"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mmụọ ozi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "n'ime nrọ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "m wee sị"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ebee m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:14.643872776Z",
+  "model": "glm-5.3"
+}

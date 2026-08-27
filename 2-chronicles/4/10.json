@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "O wee tinye ⟨את⟩ ⟨the⟩ mmiri-dị-ka-mmiri (oké ite) n'ubu nke aka nri, n'akụkụ ọwụwa anyanwụ, n'ihu ndịda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ mmiri-dị-ka-mmiri (oké ite)"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨the⟩ oké ite mmiri"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o tinyere"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "site n'ubu"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "nke aka nri"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "n'akụkụ ọwụwa anyanwụ"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ndịda"
+    }
+  ],
+  "timestamp": "2026-08-27T16:07:40.809169996Z",
+  "model": "glm-5.3"
+}

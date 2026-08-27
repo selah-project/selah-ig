@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Mgbe Shemuël hụrụ ⟨את⟩ Sha'ul, Yahwe zaghachiri ya: Lee onye nke m gwara gụ, onye a ga-achịkwa ndị m.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Mgbe Shemuël"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "zaghachiri ya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lee"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "onye nke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "m gwara"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gụ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "onye a"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "ga-achịkwa"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "ndị m"
+    }
+  ],
+  "timestamp": "2026-08-27T09:05:05.117843664Z",
+  "model": "glm-5.3"
+}

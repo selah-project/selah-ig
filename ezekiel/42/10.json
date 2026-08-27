@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "N'obosara mgbidi ⟨nke⟩ ogige, n'ụzọ ọwụwa anyanwụ, ruo n'ihu ebe a kewara ekewa na ruo n'ihu ụlọ ahụ — ụlọ-nsọ ndị.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "n'obosara"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "mgbidi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ogige"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ọwụwa anyanwụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "ebe a kewara ekewa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ruo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "ụlọ ahụ"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "ụlọ-nsọ ndị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:29:10.578932575Z",
+  "model": "glm-5.3"
+}

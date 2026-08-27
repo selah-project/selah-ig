@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 132,
+  "translation": "N'ihi na Yahwe họrọla Tsiyon, ọ tụtara ya dịka ebe obibi ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "họrọla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "ọ tụtara"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "dịka ebe obibi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:39.246221574Z",
+  "model": "glm-5.3"
+}

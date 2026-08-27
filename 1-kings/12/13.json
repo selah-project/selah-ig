@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Eze wee zaa ⟨את⟩ ndị ahụ nke siri ike, ma hapụ ⟨את⟩ ndụmọdụ ndị okenye ha ndị dụrụ ya ọdụ.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ee zaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nke siri ike"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ma hapụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndụmọdụ"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ndụmọdụ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha ndị"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "dụrụ ya ọdụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:01:20.624151108Z",
+  "model": "glm-5.3"
+}

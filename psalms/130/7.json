@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 130,
+  "translation": "Ka Yisrael chere na Yahwe, maka na n'aka Yahwe ka את chesed (ịhụnanya ọgbụgba-ndụ) dị, ma na ọ dị ukwuu n'aka Ya — mgbapụta.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Ka Yisrael chere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "את chesed (ịhụnanya ọgbụgba-ndụ)"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ma na ọ dị ukwuu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'aka Ya"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "mgbapụta"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:20.566376084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Mgbe ahụ, were ⟨את⟩ mmanụ-ete ahụ, wụsaa ya n'isi ya, ma ete ya.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmanụ-ete ahụ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "-ete ahụ"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "wụsaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "isi ya"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ma ete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-27T06:31:19.088383978Z",
+  "model": "glm-5.3"
+}

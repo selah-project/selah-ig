@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 88,
+  "translation": "Ogbenye m bụ m, na-anwụ anwụ site n'ụmụnta; eburu m egwu gị, amaghị m onwe m.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "ogbenye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m bụ m"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "na-anwụ anwụ"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "site n'ụmụnta"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "eburu m"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "egwu gị"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "amaghị m onwe m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:28.739421429Z",
+  "model": "glm-5.3"
+}

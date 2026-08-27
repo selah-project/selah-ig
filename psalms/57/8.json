@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 57,
+  "translation": "Obi m dị njikere, Elohim; obi m dị njikere — m ga-abụ abụ, m ga-akpọ ngọ ma too ⟨gị⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "dị njikere"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "dị njikere"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "m ga-abụ abụ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "m ga-akpọ ngọ ma too"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:06.905897031Z",
+  "model": "glm-5.3"
+}

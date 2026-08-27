@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 14:4",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ma aha ndị a mụrụ ya na Yerushalayim bụ: Shammua, na Shovav, Natan, na Shlomoh.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ma ndị a"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "ndị a mụrụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nọrọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Shammua"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "na Shovav"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "na Shlomoh"
+    }
+  ],
+  "timestamp": "2026-08-27T16:00:34.840327748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Anụ ha unu agaghị eri, ozu ha ka unu gaghị aka; ha dị ajọ maka unu.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "anụ ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "unu ga-eri"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ozu ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "unu ga-aka"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "ha dị ajọ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "maka unu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:35.931691288Z",
+  "model": "glm-5.3"
+}

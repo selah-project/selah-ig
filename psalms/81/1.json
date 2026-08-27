@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 81,
+  "translation": "Maka onye-eduzi egwu, na nke ụbọ Giti, nke Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye-eduzi egwu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "nke ụbọ Giti"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "nke Asaf"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:52.670304259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma ndị Kehat gara na-ebu ⟨את⟩ ebe nsọ, mgbe ahụ ndị ọzā ga-edozi ⟨את⟩ ụlọikwū ruo mgbe ha ga-eru.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "gara"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "ndị Kehat"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "na-ebu"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ebe nsọ"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "ga-edozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọikwū"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ụlọikwū"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "באם",
+      "gloss": "ha ga-eru"
+    }
+  ],
+  "timestamp": "2026-08-27T07:18:56.569507105Z",
+  "model": "glm-5.3"
+}

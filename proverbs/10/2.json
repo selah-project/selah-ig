@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Akụ nke ajọ omume anaghị enye uru, mana izi ezi na-edọta pụọ n'ọnwụ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "enye uru"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "akụ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nke ajọ omume"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mana izi ezi"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "na-edọta pụọ"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "n'ọnwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:20:10.236829727Z",
+  "model": "glm-5.3"
+}

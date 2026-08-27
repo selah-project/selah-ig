@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "na Naaman, na Achiya, na Gera; ọ bụ onye dọkpụrụ ha mkpọrọ, ma ọ mụọ ⟨את⟩ Uzza na ⟨את⟩ Achichud.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "na Naaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "na Achiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "na Gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "onye dọkpụrụ ha mkpọrọ"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ma ọ mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Achichud"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Achichud"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:46.971295460Z",
+  "model": "glm-5.3"
+}

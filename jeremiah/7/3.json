@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 7:3",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Nke a ka Yahwe nke ndị agha, Elohim nke Yisrael, kwuru: Ka ụzọ ụnụ na ọrụ ụnụ mma, m ga-ebi ⟨את⟩ ụnụ n'ebe a.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Nke a ka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Yisrael"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "Ka...mma"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ụzọ ụnụ"
+    },
+    {
+      "surface": "ומעלליכם",
+      "gloss": "na ọrụ ụnụ"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "m ga-ebi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ụnụ",
+      "marks": "ụnụ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T11:18:46.927107133Z",
+  "model": "glm-5.3"
+}

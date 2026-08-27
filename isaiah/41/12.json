@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Ị ga-achọ ha ma ghara ịhụ ha — ndị na-alụ gị esemokwu; ha ga-adị ka ọ dịghị, dịka ihe efu — ndị na-alụ gị agha.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "ị ga-achọ ha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ghara"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "ịhụ ha"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "na-alụ gị esemokwu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ha ga-adị"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "ka ọ dịghị"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "dịka ihe efu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "na-alụ gị agha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:56:54.584692515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Haran nwụrụ n'ihu Terach nna ya, n'ala ebe a mụrụ ya, n'Ur nke Kashdim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "nwụrụ"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "ebe a mụrụ ya"
+    },
+    {
+      "surface": "באור",
+      "gloss": "n'Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "nke Kashdim"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:22.888334740Z",
+  "model": "glm-5.3"
+}

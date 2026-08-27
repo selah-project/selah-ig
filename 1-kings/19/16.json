@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ma ⟨את⟩ Yehu nwa Nimshi ga-ete mmanụ dịka eze nke Yisrael, ma ⟨את⟩ Elisha nwa Shafat nke Avel-Mekhola ga-ete mmanụ dịka onye-amụma n'ọnọdụ gị.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ga-ete mmanụ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "dịka eze"
+    },
+    {
+      "surface": "על",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elisha"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shafat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "nke Avel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mekhola"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ga-ete mmanụ"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "dịka onye-amụma"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "n'ọnọdụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:08:22.960851778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ruo mgbe eriri ọlaọcha ahụ na-esoghị aka, na ite ọlaedo ahụ na-agbawa, na ite ahụ na-emebi n'isi mmiri, na ụkwụ mmiri ahụ na-agbada n'olulu mmiri.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "na-esoghị aka"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "eriri"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ọlaọcha"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "na-agbawa"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ite ọlaedo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "na-emebi"
+    },
+    {
+      "surface": "כד",
+      "gloss": "ite"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "isi mmiri"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "na-agbada mgbawa"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ụkwụ mmiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'olulu"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "olulu mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T15:19:15.556875928Z",
+  "model": "glm-5.3"
+}

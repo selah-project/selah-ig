@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ọ ga-enweta ngọzi site n'aka Yahwe, na ikpe-ziri-ezi site n'aka Elohim nke nzọpụta ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ọ ga-enweta"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ngọzi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "site n'aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na ikpe-ziri-ezi"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "site n'aka Elohim nke"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "nzọpụta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:00.853613395Z",
+  "model": "glm-5.3"
+}

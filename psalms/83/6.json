@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "Maka ha jụrụ onwe ha otutu obi, megide gị ha na-eme ⟨gbo⟩ ọgbụgba-ndụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ha jụrụ onwe ha"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "otutu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "megide gị"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ha na-eme ⟨gbo⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:32.280683520Z",
+  "model": "glm-5.3"
+}

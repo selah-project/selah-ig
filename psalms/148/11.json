@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 148,
+  "translation": "Eze ⟨the⟩ ụwa, na mba niile; ndị isi, na ndị ikpe niile nke ụwa,",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "ndị ikpe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:03.767713471Z",
+  "model": "glm-5.3"
+}

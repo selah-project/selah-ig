@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "N'ihi na ⟨a⟩ ga-ejupụta ⟨the⟩ ụwa na ịmata ⟨את⟩ ùgwù Yahwe, dịka mmiri na-ekpuchi oké osimiri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ga-ejupụta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "na ịmata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ùgwù Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ùgwù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "dịka mmiri"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "na-ekpuchi"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "oké osimiri"
+    }
+  ],
+  "timestamp": "2026-08-27T12:58:26.366978785Z",
+  "model": "glm-5.3"
+}

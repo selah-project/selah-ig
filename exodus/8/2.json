@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Aharon wee meghee ⟨את⟩ aka ya n'elu mmiri nke Mitsrayim, ma awọ ahụ rịgoro, ma kpuchie ⟨את⟩ ala Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "wee meghee"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka ya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ma ... rịgoro"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "awọ ahụ"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ma kpuchie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:11:54.610894455Z",
+  "model": "glm-5.3"
+}

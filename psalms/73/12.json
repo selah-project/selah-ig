@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "Le, ndị ajọ omume ndị a, ndị nọkwa mfe mgbe niile, ha tolitere akụ na ụba.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Le"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "ndị nọkwa mfe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "ha tolitere"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "akụ na ụba"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:39.140450050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ọ nọghị n'eluigwe, ka ị were sị: Onye ga-ebili anyị eluigwe, were ya nye anyị, ka anyị nụ ⟨את⟩ ya, anyị wee mee ya?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ọ nọghị"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ị were sị"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ga-ebili"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "were ya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nya anyị"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "ka anyị nụ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "anyị wee mee ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:13:59.368898209Z",
+  "model": "glm-5.3"
+}

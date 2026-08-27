@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Site n'elu nke eluigwe ka mmalite ya dị, ma gburugburu ya ruo njedebe ha; enweghị ihe zoro ezo n'ọkụ ọzịza ya.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "site n'elu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nke eluigwe"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "mmalite ya"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "ma gburugburu ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "njedebe ha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "ihe zoro ezo"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "n'ọkụ ọzịza ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:11.238186021Z",
+  "model": "glm-5.3"
+}

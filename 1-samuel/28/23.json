@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 28:23",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ma ọ jụrụ, ma kwuo, sị: M gaghị eri. Ndị ohu ya manyere ya, ma nwanyị ahụ; ọ gee ntị n'olu ha, bilie n'⟨ala⟩, wee nọrọ ọdụ n'àkwà.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "ma ọ jụrụ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma ọ kwuo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eri"
+    },
+    {
+      "surface": "ויפרצו",
+      "gloss": "ha manyere ya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nwanyị ahụ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ọ gee ntị"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "olu ha"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ọ bilie"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nọrọ ọdụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "àkwà"
+    }
+  ],
+  "timestamp": "2026-08-27T16:34:20.868997224Z",
+  "model": "glm-5.3"
+}

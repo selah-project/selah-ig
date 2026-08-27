@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ọnụ ụzọ ámá ahụ na-ama jijiji n'olu onye na-eti mkpu, ma ụlọ ahụ jupụtara n'ụzọ uzuzu esi.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "na-ama jijiji"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ọnụ ụzọ ámá"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "nke ụzọ mbata"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "n'olu"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "onye na-eti mkpu"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ma ụlọ ahụ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "jupụtara"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ụzọ uzuzu esi"
+    }
+  ],
+  "timestamp": "2026-08-27T10:36:49.750001929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ndị a bụ ụmụ Cham, dịka ezinụlọ ha si dị, dịka asụsụ ha si dị, n'ala ha, n'agbụrụ ha",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "dịka ezinụlọ ha si dị"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "dịka asụsụ ha si dị"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "n'ala ha"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "n'agbụrụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:00.120303736Z",
+  "model": "glm-5.3"
+}

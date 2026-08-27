@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ngọzi dị n'isi ⟨nke⟩ onye ezi omume; mana ọnụ nke ndị ajọ omume na-ekpuchi ime ihe ike.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "Ngọzi"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ezi omume"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "mana ọnụ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "na-ekpuchi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ime ihe ike"
+    }
+  ],
+  "timestamp": "2026-08-27T14:19:43.654830631Z",
+  "model": "glm-5.3"
+}

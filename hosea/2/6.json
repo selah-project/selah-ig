@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Maka ⟨את⟩ ụmụ ya, agaghị m enye ha ebere; n'ihi na ụmụ akparamagwa ha ⟨bụ⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ya"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "m enye ebere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "akparamagwa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:37:57.958113475Z",
+  "model": "glm-5.3"
+}

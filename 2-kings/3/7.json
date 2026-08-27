@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 3:7",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "O wee gaa, o zitere ozi ruo Yehoshafat eze Yehuda, sị: Eze Moab emehiela iwu megide m; ị ga-esi ⟨את⟩ m gaa Moab maka agha? O wee sị: M ga-eliga; dịka m si dị, ka ị si dị; dịka ndị m si dị, ka ndị gị si dị; dịka ịnyịnya m si dị, ka ịnyịnya gị si dị.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "O wee gaa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "o zitere ozi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "emehiela iwu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "ị ga-aga"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ m",
+      "marks": "ya m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "maka agha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "O wee sị"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "M ga-eliga"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "dịka m si dị"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ka ị si dị"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "dịka ndị m si dị"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "ka ndị gị si dị"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "dịka ịnyịnya m si dị"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "ka ịnyịnya gị si dị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:12:29.494307197Z",
+  "model": "glm-5.3"
+}

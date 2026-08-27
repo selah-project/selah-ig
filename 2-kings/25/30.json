@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Nri ya, nri na-adịgide adịde, ka e nyere ya site n'aka ⟨את⟩ eze, òkè ụbọchị ọ bụla n'ụbọchị ya, ụbọchị ndụ ya niile.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "nri ya"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "nri"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "na-adịgide adịde"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ka e nyere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ site n'aka",
+      "marks": "eze"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ìhè"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "n'ụbọchị ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "ndụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:30:52.752777207Z",
+  "model": "glm-5.3"
+}

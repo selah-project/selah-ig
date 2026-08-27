@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 37:28",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Mba ndị ọzọ ga-amata na m bụ Yahwe, onye na-eme ka Yisrael bụrụ nsọ, mgbe ebe nsọ m nọ n'etiti ha ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ga-amata"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba ndị ọzọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "onye na-eme ka ọ bụrụ nsọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "mgbe ọ nọ"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ebe nsọ m"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "n'etiti ha"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T12:27:24.578342985Z",
+  "model": "glm-5.3"
+}

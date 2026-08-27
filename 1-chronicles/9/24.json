@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "N'akụkụ anọ ka ndị nche ọnụ ụzọ nọ: n'ebe ọwụwa anyanwụ, n'ebe ọdịda anyanwụ, n'ebe ugwu, na n'ebe ndịda.",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "n'akụkụ anọ"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "akụkụ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ka ... nọ"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ndị nche ọnụ ụzọ"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "n'ebe ọwụwa anyanwụ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "n'ebe ọdịda anyanwụ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "n'ebe ugwu"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "na n'ebe ndịda"
+    }
+  ],
+  "timestamp": "2026-08-27T15:56:59.608310583Z",
+  "model": "glm-5.3"
+}

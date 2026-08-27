@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 139,
+  "translation": "M ga-eto gị, n'ihi na a kpọrọ m egwu n'ụzọ dị ịtụnanya; ihe ndị dị ịtụnanya bụ ọrụ gị, mmụọ obi m maara nke ọma.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "M ga-eto gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "a kpọrọ egwu"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "a dị iche m"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "ihe ndị dị ịtụnanya"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ọrụ gị"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "mmụọ obi m"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "maara"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:23.739621468Z",
+  "model": "glm-5.3"
+}

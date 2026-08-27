@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Na onyinye ngwaahịa ha: ntụ ọka gwakọtara na mmanụ, akụkụ iri ise maka ehi, akụkụ ise maka ram.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "onyinye ngwaahịa ha"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ntụ ọka"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "gwakọtara"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mmanụ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "akụkụ iri-ise"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "maka ehi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "akụkụ iri-ise"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "maka ram"
+    }
+  ],
+  "timestamp": "2026-08-27T07:39:53.323109645Z",
+  "model": "glm-5.3"
+}

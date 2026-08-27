@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 138,
+  "translation": "N'ihi na Yahwe dị elu, mana onye dị ala Ọ na-ahụ; ma onye elu-obi Ọ maara site n'ebe dị anya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "רם",
+      "gloss": "dị elu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "ma onye dị ala"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "Ọ na-ahụ"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ma onye elu-obi"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "site n'ebe dị anya"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "Ọ maara"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:03.163643469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Elohim nụrụ mkpu ha, Elohim chetakwara ⟪⟨את⟩⟫ ọgbụgba-ndụ ya, ⟪⟨את⟩⟫ ya na Avraham, ⟨את⟩ Yitschak na ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpu ha"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "mkpu ha"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "chetakwara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ ya"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ọgbụgba-ndụ ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-27T06:06:50.829115200Z",
+  "model": "glm-5.3"
+}

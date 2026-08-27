@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Okwu Yahwe nke bịara ruo Yoel, nwa Pethuel.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Pethuel"
+    }
+  ],
+  "timestamp": "2026-08-27T12:43:32.478800931Z",
+  "model": "glm-5.3"
+}

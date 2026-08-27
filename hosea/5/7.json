@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ha meghasịrị okwu megide Yahwe, maka na ha mụrụ ụmụ ndị ọzọ; ugbu a ọnwa ga-eri ⟨את⟩ òkè ha.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "megide Yahwe"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "Ha meghasịrị okwu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ndị ọzọ"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ha mụrụ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ọnwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "òkè ha"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "òkè ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:39:17.982283855Z",
+  "model": "glm-5.3"
+}

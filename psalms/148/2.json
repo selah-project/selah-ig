@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 148,
+  "translation": "Toonu Ya, ndị ozi Ya niile; toonu Ya, ndị agha Ya niile.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Toonu Ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ndị ozi Ya"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "toonu Ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ndị agha Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:37.906065611Z",
+  "model": "glm-5.3"
+}

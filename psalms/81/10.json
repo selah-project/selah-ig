@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 81,
+  "translation": "Chi nzuzo agaghị adị n'etiti gị; ị gaghị ada mfe nye chi mba ọzọ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "בך",
+      "gloss": "n'etiti gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "nzuzo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ bụghịkwa"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ada mfe"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "nye chi"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "mba ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:38.349302095Z",
+  "model": "glm-5.3"
+}

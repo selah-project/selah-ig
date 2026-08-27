@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ọ ga-adị n'ụbọchị ahụ, m ga-aza oku — nkwuwapụta nke Yahwe — m ga-aza ⟨את⟩ ⟨eluigwe⟩ oku, ha ga-azakwa ⟨את⟩ ⟨ụwa⟩ oku.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-adị"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "m ga-aza oku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkwuwapụta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nke Yahwe"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "m ga-aza oku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eluigwe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ga-azakwa oku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T12:38:36.794215125Z",
+  "model": "glm-5.3"
+}

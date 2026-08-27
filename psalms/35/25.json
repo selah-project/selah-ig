@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ka ha na-asịghị n'obi ha, 'Hee, uche anyị!' Ka ha na-asịghị, 'Anyị riri ya.'",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ka ha na-asịghị"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "asị"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "n'obi ha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "'Hee'"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "uche anyị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka ha na-asịghị"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "asị"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "riri ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:07.717603160Z",
+  "model": "glm-5.3"
+}

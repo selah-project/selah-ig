@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "N'ihi na site n'aka Gị ka m na-agba ọsọ megide ndị agha, na site n'aka Elohim m ka m na-awụli elu mgbidi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בך",
+      "gloss": "site n'aka Gị"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na-agba ọsọ"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "megide ndị agha"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "na site n'aka Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "na-awụli elu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "mgbidi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:58.461185637Z",
+  "model": "glm-5.3"
+}

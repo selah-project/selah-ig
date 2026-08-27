@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ma ndị ahụ wee si Yehoshua: Mba, kama ⟨את⟩ Yahwe ka anyị ga-ejere ozi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ma wee si"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Mba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "anyị ga-ejere ozi"
+    }
+  ],
+  "timestamp": "2026-08-27T08:39:42.986780101Z",
+  "model": "glm-5.3"
+}

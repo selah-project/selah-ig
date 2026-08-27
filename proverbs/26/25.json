@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Mgbe ọ na-eme ka olu ya dị nwayọọ, ekwela ya okwukwe; n'ihi na ihe asaa na-eru njọ dị n'obi ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "ọ na-eme ka ọ dị nwayọọ"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "olu ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekwela"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "okwukwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ihe na-eru njọ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "n'obi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:30:45.759383074Z",
+  "model": "glm-5.3"
+}

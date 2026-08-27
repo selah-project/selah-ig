@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Zọpụta m, Elohim, maka mmiri abịala ruo n'akpa ume m.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Zọpụta m"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "באו",
+      "gloss": "abịala"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "n'akpa ume m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:35.483137924Z",
+  "model": "glm-5.3"
+}

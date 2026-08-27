@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ihe nzuzo nke Yahwe dị maka ndị na-atụ Ya ụjọ, na ọgbụgba-ndụ Ya iji mee ka ha maara.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "ihe nzuzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "maka ndị na-atụ Ya ụjọ"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "na ọgbụgba-ndụ Ya"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "iji mee ka ha maara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:15.192778282Z",
+  "model": "glm-5.3"
+}

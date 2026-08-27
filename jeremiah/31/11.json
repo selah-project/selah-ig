@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "N'ihi na Yahwe ewepụtala ⟨את⟩ Yaakov, ma tọhapụ ya n'aka onye siri ike karịa ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ewepụtala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "ma tọhapụ ya"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "onye siri ike"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "karịa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:35:29.919711003Z",
+  "model": "glm-5.3"
+}

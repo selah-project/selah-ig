@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 4:3",
+  "book": "ruth",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "O wee sị onye mgbapụta ahụ: 'Parcel nke ⟨elu⟩ ọhịa, nke dị n'aka nunne anyị, Elimelek, Naomi erela ya, onye laghachitere site n'ọhịa Mọab.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "onye mgbapụta"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "parcel"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ọhịa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke dị"
+    },
+    {
+      "surface": "לאחינו",
+      "gloss": "n'aka nunne anyị"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "Elimelek"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "erela"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "השבה",
+      "gloss": "onye laghachitere"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "site n'ọhịa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mọab"
+    }
+  ],
+  "timestamp": "2026-08-27T15:06:52.753015399Z",
+  "model": "glm-5.3"
+}

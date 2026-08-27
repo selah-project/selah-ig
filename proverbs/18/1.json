@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 18:1",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Maka ọchụchọ ọchụ onwe na-achọ, onye kewapụrụ onwe ya; na ihe niile dị ka amamiye siri sie ike, ọ na-emegide ya.",
+  "tokens": [
+    {
+      "surface": "לתאוה",
+      "gloss": "maka ọchụchọ ọchụ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ọ na-achọ"
+    },
+    {
+      "surface": "נפרד",
+      "gloss": "onye kewapụrụ onwe ya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na ihe niile"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "amamiye siri sie ike"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "ọ na-emegide ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:25:03.055772062Z",
+  "model": "glm-5.3"
+}

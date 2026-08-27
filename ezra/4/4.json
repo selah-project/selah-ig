@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Mmadụ nke ala ahụ wee na-ebelata aka nke mmadụ nke Yehudah, na na-atụ ha egwu ka ha na-ewu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wee"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmadụ nke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "na-ebelata"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmadụ nke"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "na na-atụ egwu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ka ha na-ewu"
+    }
+  ],
+  "timestamp": "2026-08-27T15:36:51.166646180Z",
+  "model": "glm-5.3"
+}

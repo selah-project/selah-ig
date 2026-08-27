@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Yahwe wetara ⟨את⟩ ikpe ziri ezi anyị pụta; bianu ka anyị kọwaa na Tsiyon ⟨את⟩ ọrụ Yahwe, Elohim anyị.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "wetara pụta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikpe ziri ezi anyị"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "ikpe ziri ezi anyị"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bianu"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "ka anyị kọwaa"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Tsiyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T11:56:12.985281563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ha ga-eme ⟨את⟩ efood: ọla edo, anụnụ, na uhie eze, ikpuru shani, na akwa edo mgbede — ọrụ nke onye na-ese ihe.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ha ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efood"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efood"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "anụnụ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "na uhie eze"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ikpuru"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na akwa edo"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mgbede"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "onye na-ese ihe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:28:07.284101908Z",
+  "model": "glm-5.3"
+}

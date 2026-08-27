@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Nri Shelomoh maka otu ụbọchị bụ: kor iri atọ nke ntụ ọka dị ọcha na kor iri isii nke ntụ ọka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "maka otu ụbọchị"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "iri atọ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ntụ ọka dị ọcha"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "iri isii"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "ntụ ọka"
+    }
+  ],
+  "timestamp": "2026-08-27T09:55:44.295447381Z",
+  "model": "glm-5.3"
+}

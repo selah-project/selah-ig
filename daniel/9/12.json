@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 9:12",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "O wee mejupụta ⟨את⟩ okwu ya nke ọ gwara anyị na ndị ọkaikpe anyị ndị kpeere anyị ikpe, iji wetara anyị ihe ọjọọ ukwuu nke a na-emeghị ya n'okpuru eluigwe niile, dịka e mere na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "O wee mejupụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ya"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "okwu ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ gwara"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפטינו",
+      "gloss": "ndị ọkaikpe anyị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "שפטונו",
+      "gloss": "kpeere anyị ikpe"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "iji wetara"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "ukwuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "a na-emeghị"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "e mere"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T15:30:38.076460885Z",
+  "model": "glm-5.3"
+}

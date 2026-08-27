@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ya, Yowab nwa Tserujah maara na obi ⟨eze⟩ dị n'elu Avshalom.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ya, o maara"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨eze⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "dị n'elu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-27T09:37:39.414984197Z",
+  "model": "glm-5.3"
+}

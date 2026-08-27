@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 12:23",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ọ na-eme ka mba bụrụ ndị ukwuu, ma na-ebibi ha; Ọ na-esa mba ahụ, ma na-eduga ha.",
+  "tokens": [
+    {
+      "surface": "משגיא",
+      "gloss": "ọ na-eme ka bụrụ ndị ukwuu"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "ויאבדם",
+      "gloss": "ma na-ebibi ha"
+    },
+    {
+      "surface": "שטח",
+      "gloss": "ọ na-esa"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ma na-eduga ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:41:34.165272794Z",
+  "model": "glm-5.3"
+}

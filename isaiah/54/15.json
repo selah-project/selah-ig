@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 54,
+  "translation": "Lee, agbụ ga-agbakọta, mana ọ bụghị site n'aka m; onye ọ bụla na-agakwuru ⟨את⟩ gị, megide gị ka ọ ga-adapụ.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Lee"
+    },
+    {
+      "surface": "גור",
+      "gloss": "agbụ"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ga-agbakọta"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "onye na-agakwuru gị"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "גר",
+      "gloss": "na-agakwuru"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "megide gị"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ọ ga-adapụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:04:30.746658258Z",
+  "model": "glm-5.3"
+}

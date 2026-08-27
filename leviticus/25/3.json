@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Afọ isii ka ị ga-akụ ubi gị, afọ isii ka ị ga-akwa vaịn gị, ma chịkọta ⟨את⟩ mmepụta ya.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "isii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Afọ"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ka ị ga-akụ"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ubi gị"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "afọ isii"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "ka ị ga-akwa"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "vaịn gị"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ma chịkọta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmepụta ya"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "mmepụta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:06:34.081181286Z",
+  "model": "glm-5.3"
+}

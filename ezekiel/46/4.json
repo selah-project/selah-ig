@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 46:4",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Maka onyinye ọkụ nke onye-nzisa ga-eweta ruo Yahwe n'ụbọchị Sabat ⟨is⟩ atụrụ isii na-enweghị mmebi, na ram otu na-enweghị mmebi.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "maka onyinye ọkụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ga-eweta ruo"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "onye-nzisa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "isii"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "na-enweghị mmebi"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "na ram otu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "na-enweghị mmebi"
+    }
+  ],
+  "timestamp": "2026-08-27T16:45:38.025884107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ha wee sị: Ị maghidighị anyị, ma ọ mikwughị anyị, ma iwetaghi ihe ọ bụla n'aka onye ọ bụla.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha wee sị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "ị maghidighị anyị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "ị mikwughị anyị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ị wetaghị"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ihe ọ bụla"
+    }
+  ],
+  "timestamp": "2026-08-27T09:07:26.379125494Z",
+  "model": "glm-5.3"
+}

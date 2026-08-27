@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "na ⟨את⟩ nwa-ọgwụ-agụ, na ⟨את⟩ ule-abani, na ⟨את⟩ nnụnụ-ọsịsa, na ⟨את⟩ nkwọ dịka ụdị ya",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nwa-ọgwụ-agụ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ọgwụ-agụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ule-abani"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ule-abani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nnụnụ-ọsịsa"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "nnụnụ-ọsịsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nkwọ"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "nkwọ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "dịka ụdị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:29:39.880003698Z",
+  "model": "glm-5.3"
+}

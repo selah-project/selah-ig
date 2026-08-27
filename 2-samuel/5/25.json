@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ma Davịd mekwara otu a, dịka Yahwe nyere ya iwu; ọ wee kụọ ⟨את⟩ Ndị-Pelishtia, site na Gẹba ruo nrụgideru gị na Geza.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ma ọ mekwara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "nyere ya iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ọ wee kụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ndị-Pelishtia"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ndị-Pelishtia"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "site na Gẹba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "באך",
+      "gloss": "nrụgideru gị"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Geza"
+    }
+  ],
+  "timestamp": "2026-08-27T09:30:51.875878140Z",
+  "model": "glm-5.3"
+}

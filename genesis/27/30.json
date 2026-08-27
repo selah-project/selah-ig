@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 27:30",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ọ dịkwa n'oge Yitschak gwụchara igozi ⟨את⟩ Yaakov, na Yaakov ka na-apụ naanị ⟨את⟩ n'ihu Yitschak nna ya, ka Esaiv nwanne ya bịara site n'ịchụ nta ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dịkwa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "n'oge"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "gwụchara"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "igozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ka na-naanị"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ọ na-apụ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ọ pụrụ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "n'ihu Yitschak"
+    },
+    {
+      "surface": "פני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "Esaiv"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ọ bịara"
+    },
+    {
+      "surface": "מצידו",
+      "gloss": "site n'ịchụ nta ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:46:36.252263190Z",
+  "model": "glm-5.3"
+}

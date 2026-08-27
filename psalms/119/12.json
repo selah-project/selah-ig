@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Onye a gọziri goziri ka i bụ, Yahwe; kụziere m iwu gị.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "onye a gọziri goziri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka i bụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "kụziere m"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "iwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:05.152899437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 61,
+  "translation": "N'ihi na Ị, Elohim, nụwo ekpere nke ndị m kwere, Ị nyewo ihe nketa ndị na-atụ egwu aha Gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nụwo"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "ekpere nke ndị m kwere"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "Ị nyewo"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "ihe nketa"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ndị na-atụ egwu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha Gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:05.824339165Z",
+  "model": "glm-5.3"
+}

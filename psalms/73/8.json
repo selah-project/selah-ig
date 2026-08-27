@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "Ha na-achọ ịkwa emo, ma na-ekwu okwu ọjọọ nke mmegbu; site n'elu ha na-ekwu okwu nnukwu.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "ha na-achọ ịkwa emo"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ma na-ekwu okwu"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "nke mmegbu"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "site n'elu"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ha na-ekwu okwu nnukwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:33.499183247Z",
+  "model": "glm-5.3"
+}

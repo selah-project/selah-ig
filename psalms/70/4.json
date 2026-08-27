@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 70,
+  "translation": "Ka ha laghachi azụ n'ihi ihere ha, ndị na-asị, Hea, hea.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ka ha laghachi azụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ihere ha"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ndị na-asị"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hea"
+    },
+    {
+      "surface": "האח",
+      "gloss": "hea"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:19.804595625Z",
+  "model": "glm-5.3"
+}

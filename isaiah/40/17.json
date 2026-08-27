@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Mba niile dị ka ihe na-adịghị adị n'ihu Ya; dịka efu na ihe efu ka a na-ere ha nye Ya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "dị ka ihe na-adịghị adị"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "n'ihu Ya"
+    },
+    {
+      "surface": "מאפס",
+      "gloss": "efu"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "na ihe efu"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "ka a na-ere ha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nye Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:57:47.561799743Z",
+  "model": "glm-5.3"
+}

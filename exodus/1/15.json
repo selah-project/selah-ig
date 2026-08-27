@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Eze Mitzrayim wee sọọ ụmụnwaanyị na-amụ nwa ndị Hibru okwu — aha nke nke mbụ bụ Shifrah, aha nke nke ọzọ bụ Puah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ụmụnwaanyị na-amụ nwa"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "ndị Hibru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "bụ Shifrah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "aha nke"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "nke ọzọ"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "bụ Puah"
+    }
+  ],
+  "timestamp": "2026-08-27T06:06:38.577560855Z",
+  "model": "glm-5.3"
+}

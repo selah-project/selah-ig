@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Olu na-ekwu n'elu ugwu ndị ọtọ a na-anụ, na-ebe ákwá na ekpere arịrịọ nke ụmụ Israel, n'ihi na ha mebisiri ⟨את⟩ ụzọ ha, ha chefukwara ⟨את⟩ Yahwe Elohim ha.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "ugwu ndị ọtọ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "a na-anụ"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "na-ebe ákwá"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ekpere arịrịọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "ha mebisiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụzọ ha"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ụzọ ha"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "ha chefukwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim ha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:15:46.404410359Z",
+  "model": "glm-5.3"
+}

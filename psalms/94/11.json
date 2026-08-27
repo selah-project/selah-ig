@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 94,
+  "translation": "Yahwe ma echiche nke mmadụ, na ha bụ ⟨ihe efu⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "echiche"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ihe efu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:03.556049181Z",
+  "model": "glm-5.3"
+}

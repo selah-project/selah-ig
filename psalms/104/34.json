@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Ka atụmatụ m dị ya mmasị; m onwe m, m ga-enwe obi ụtọ na Yahwe.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "ka ọ dị mmasị"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "atụmatụ m"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m onwe m"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "m ga-enwe obi ụtọ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:18.267774741Z",
+  "model": "glm-5.3"
+}

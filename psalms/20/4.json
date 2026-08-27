@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ọ cheta onyinye ọkụ gị niile, ọ bụrụ na ọchụchọ ọkụ gị bụ abụbarala. Sela.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Ọ cheta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "onyinye ọkụ gị"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "ọchụchọ ọkụ gị"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "abụbarala"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:32.719902026Z",
+  "model": "glm-5.3"
+}

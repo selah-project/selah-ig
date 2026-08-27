@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Gwa Pharaoh: Otú ka Yahwe si kwuo — nwa m nke mbụ amụrụ m bụ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "gwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otú ka o si"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "nke mbụ amụrụ m"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T06:08:07.793716539Z",
+  "model": "glm-5.3"
+}

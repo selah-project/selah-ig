@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 135,
+  "translation": "Yahwe, aha gị ⟨dị⟩ ruo mgbe ebighị ebi; Yahwe, ncheta gị ruo ọgbọ na ọgbọ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ncheta gị"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ruo ọgbọ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na ọgbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:44.927839492Z",
+  "model": "glm-5.3"
+}

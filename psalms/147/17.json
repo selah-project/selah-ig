@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 147,
+  "translation": "Na-atụba ice ya dịka mkpụrụ ntụ; n'ihu oyi ya, ònye ga-edozi?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "na-atụba"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "ice ya"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "dịka mkpụrụ ntụ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "oyi ya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ònye"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ga-edozi"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:53.354927115Z",
+  "model": "glm-5.3"
+}

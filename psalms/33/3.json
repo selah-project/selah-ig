@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Bụrụ abụ ọhụrụ ya; kpọọ ngwá ego nke ọma na mkpu ọṅụ.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "bụrụ abụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ọhụrụ"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "kpọọ nke ọma"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ngwá ego"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "na mkpu ọṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:23.662802160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ma nke Pelishtia ahụ kwuru, sị: M na-emekwa ⟨את⟩ usoro agha Yisrael mkparị n'ụbọchị a; nyere m nwoke, ka anyị na-alụ ọgụ ọnụ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ma kwuru"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "nke Pelishtia ahụ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "na-emekwa mkparị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usoro agha"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "usoro agha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ka anyị na-alụ ọgụ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:13:14.209255219Z",
+  "model": "glm-5.3"
+}

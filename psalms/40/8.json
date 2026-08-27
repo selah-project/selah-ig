@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Mgbe ahụ ka m kwuru, lee, abịalam; n'akwụkwọ mpịakọta ka edere banyere m.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Mgbe ahụ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ka m kwuru"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lee"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "abịalám"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "n'akwụkwọ mpịakọta"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "akwụkwọ"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "edere"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "banyere m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:26.649565703Z",
+  "model": "glm-5.3"
+}

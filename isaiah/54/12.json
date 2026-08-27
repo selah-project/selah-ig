@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 54:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 54,
+  "translation": "M ga-eme elu ụlọ gị site na kadkod, ọnụ ụzọ gị site na nkume ọkụ, na ókèala gị niile site na nkume na-atọ ụtọ.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "M ga-eme"
+    },
+    {
+      "surface": "כדכד",
+      "gloss": "kadkod"
+    },
+    {
+      "surface": "שמשתיך",
+      "gloss": "elu ụlọ gị"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "ọnụ ụzọ gị"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "site na nkume"
+    },
+    {
+      "surface": "אקדח",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ókèala gị"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "site na nkume"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "na-atọ ụtọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:41:58.765998536Z",
+  "model": "glm-5.3"
+}

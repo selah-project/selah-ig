@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ya ga, unu ga-echebara ⟨את⟩ iwu m niile na ⟨את⟩ ikpe m niile, ma me ⟨את⟩ ha; m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "unu ga-echebara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu m niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikpe m niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ikpe m"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ma me"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:00:00.617540395Z",
+  "model": "glm-5.3"
+}

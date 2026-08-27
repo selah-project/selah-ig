@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Avraham wee gbakwunye, were nwunye, aha ya bụ Keturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "gbakwunye"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-08-27T05:40:07.200201395Z",
+  "model": "glm-5.3"
+}

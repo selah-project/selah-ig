@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 136,
+  "translation": "Na ⟨את⟩ Og, eze Bashan, maka na ịhụnanya ọgbụgba-ndụ ya na-adị ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "Na ⟨את⟩ Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ịhụnanya ọgbụgba-ndụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:30.758844539Z",
+  "model": "glm-5.3"
+}

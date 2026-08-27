@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 144,
+  "translation": "Ndị nke ọnụ ha na-ekwu ụgha, aka nri ha bụkwa aka nke ịgha ụgha.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ndị nke"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ọnụ ha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "aka nri ha"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "aka nri"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ịgha ụgha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:06.852180014Z",
+  "model": "glm-5.3"
+}

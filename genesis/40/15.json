@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "n'ihi na a zuru m n'ala ndị Hibru, ma ebe a kwa, emewoghi m ihe ọ bụla nke ha ga-etinye ⟨את⟩ m n'olulu mmiri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "a zuru"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ndị Hibru"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ebe a kwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghọghị"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "emewo m"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ihe ọ bụla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nke"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ha ga-etinye"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "n'olulu mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T05:55:28.068254768Z",
+  "model": "glm-5.3"
+}

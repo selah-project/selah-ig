@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "N'ihi na atụmatụ m abụghị atụmatụ unu, ma ụzọ unu abụghị ụzọ m, ka okwu ṅkà Yahwe siri di.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abụghị"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "atụmatụ m"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "atụmatụ unu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ... abụghị"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ụzọ unu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ụzọ m"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ka okwu ṅkà ... siri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:04:26.473404823Z",
+  "model": "glm-5.3"
+}

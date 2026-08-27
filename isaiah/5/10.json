@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Maka na ugboro-vaịn iri ga-eme bat otu, na mkpụrụ homa ga-eme naanị ifa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "iri"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "ugboro (tsemed)"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ubi vaịn"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "na mkpụrụ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "homa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ifa"
+    }
+  ],
+  "timestamp": "2026-08-27T10:35:59.047397485Z",
+  "model": "glm-5.3"
+}

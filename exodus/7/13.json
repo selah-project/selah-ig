@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Obi Paroh siri ike, oge ọ nụghị ⟨ha⟩, dịka Yahwe kwuru.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "oge ọ nụghị"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nụ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨ha⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:10:32.687436293Z",
+  "model": "glm-5.3"
+}

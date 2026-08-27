@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ma Akimaats mụrụ ⟨את⟩ Azaraya, ma Azaraya mụrụ ⟨את⟩ Yochanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "ma Akimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaraya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaraya"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ma Azaraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yochanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan"
+    }
+  ],
+  "timestamp": "2026-08-27T15:54:21.742983913Z",
+  "model": "glm-5.3"
+}

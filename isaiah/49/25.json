@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "N'ihi na otú a ka Yahwe si kwu: gakwaa onye a dọọrọ n'agha n'aka onye ike ga-ewepụ ya, na ihe onye ọjọọ zuru ga-agbanahụ; mụ onwe m ga-alụso ⟨את⟩ ndị na-alụso gị ọgụ, ma mụ onwe m ga-ezọpụta ⟨את⟩ ụmụ gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otú a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "si kwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gakwaa"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "onye a dọọrọ n'agha"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "n'aka onye ike"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ga-ewepụ ya"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "na ihe a zụrụ"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "onye ọjọọ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ga-agbanahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị na-alụso gị ọgụ"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "ndị na-alụso gị ọgụ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mụ onwe m"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ga-alụso ọgụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ gị"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ụmụ gị"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mụ onwe m"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ga-ezọpụta"
+    }
+  ],
+  "timestamp": "2026-08-27T11:04:03.858535239Z",
+  "model": "glm-5.3"
+}

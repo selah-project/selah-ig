@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Yehoash dinaasu ndị nna ya, e lie ya na Shomron ya na ndị eze Yisrael; Yarovam nwa ya wee chịa n'ọnọdụ ya.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "dinaasu"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ndị nna ya"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "e lie ya"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "na Shomron"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wee chịa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "n'ọnọdụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:22:17.309477391Z",
+  "model": "glm-5.3"
+}

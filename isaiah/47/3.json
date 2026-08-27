@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "A ga-ekpughe ùgbụ gị, ọbụnadị ihere gị ga-apụta ìhè; m ga-ewe mmegwara, ma ghara ịzute ⟨את⟩ mmadụ ọ bụla.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "a ga-ekpughe"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ùgbụ gị"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọbụnadị"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ga-apụta ìhè"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ihere gị"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "mmegwara"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "m ga-ewe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ghara"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "ịzute"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:01:51.016673757Z",
+  "model": "glm-5.3"
+}

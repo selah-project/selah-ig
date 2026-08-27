@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Yahwe, Elohim m,ọ bụrụ na m mere ihe a,ọ bụrụ na e nwere ihe na-ezighị ezi n'aka m.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "m mere"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ihe a"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "יש",
+      "gloss": "e nwere"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ihe na-ezighị ezi"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "n'aka m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:05.421156394Z",
+  "model": "glm-5.3"
+}

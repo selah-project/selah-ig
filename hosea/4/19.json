@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ifufe ejikọla ⟨את⟩ ya n'ime nku ya; ha ga-enwe ihere n'ihi ịchafọ ha.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "ejikọla"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ifufe"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (ọ̄ — Ephrajim)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "n'ime nku ya"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ha ga-enwe ihere"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "n'ihi ịchafọ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:37:48.332180194Z",
+  "model": "glm-5.3"
+}

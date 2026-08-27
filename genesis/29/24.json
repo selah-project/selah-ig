@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Lavan wee nye ya ⟨את⟩ Zilpa odibo ya, ka ọ bụrụ odibo Lea nwa ya nwanyị.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wee nye"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa odibo ya"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "odibo ya"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "ka ọ bụrụ nke Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "nwa ya nwanyị"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "odibo"
+    }
+  ],
+  "timestamp": "2026-08-27T05:44:05.800255193Z",
+  "model": "glm-5.3"
+}

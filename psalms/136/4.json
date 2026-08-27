@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 136,
+  "translation": "Onye na-eme ihe dị ịtụnanya ukwu nanị ya, n'ihi na ruo mgbe ebighị ebi chesed ya di.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Onye na-eme"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ihe dị ịtụnanya"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nanị ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ya di"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:45.763236082Z",
+  "model": "glm-5.3"
+}

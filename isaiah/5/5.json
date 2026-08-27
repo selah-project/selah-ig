@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ma ugbu a, ka m gosi unu ihe m na-eme maka ubi mmanya m: M ga-ewepụ ⟨את⟩ mgbidi-ogwu ya, ọ ga-abụ ⟨is⟩ nke a ga-eri; m ga-emebi ⟨את⟩ mgbidi nkume ya, ọ ga-abụ ⟨is⟩ ebe a na-azọ ụkwụ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ma ugbu a"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ka m gosi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe m na-eme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "maka ubi mmanya m"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "m ga-ewepụ"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "mgbidi-ogwu ya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "nke a ga-eri"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "m ga-emebi"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "mgbidi nkume ya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "ebe a na-azọ ụkwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:39:01.680243555Z",
+  "model": "glm-5.3"
+}

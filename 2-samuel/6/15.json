@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma Dawid na nwụ̀rụokwu nke ụlụ Yisrael na-eburu ⟨את⟩ arkpụ Yahwe elu na mkpu ọṅụ na n'olu ọkpụ.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ma Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na nwụ̀rụokwu nke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "na-eburu elu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkpụ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkpụ Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "na mkpu ọṅụ"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "na n'olu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ọkpụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:32:01.869432277Z",
+  "model": "glm-5.3"
+}

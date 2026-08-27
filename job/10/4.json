@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ọ̀ bụ anya anụ ahụ ka ị nwere, maọbụ dịka mmadụ na-ahụ ka ị na-ahụ?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "anya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "anụ ahụ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị nwere"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maọbụ"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "dịka ịhụ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mmadụ nwụrụ anwụ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ị na-ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:42:44.548613318Z",
+  "model": "glm-5.3"
+}

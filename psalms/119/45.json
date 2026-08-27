@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "M ga-ejikwa ije m n'ebe obosara, n'ihi na mmadụ ndị i nyere iwu ka m na-achọ.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "m ga-ejikwa ije"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "n'ebe obosara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "mmadụ ndị i nyere iwu"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ka m na-achọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:58.587098476Z",
+  "model": "glm-5.3"
+}

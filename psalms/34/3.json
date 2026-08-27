@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "N'ime Yahwe ka mkpụrụ obi m na-eto; ndị erughị njiko ga-anụ ma ṅụrịa ọṅụ.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "n'ime Yahwe"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "na-eto"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ga-anụ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ndị erughị njiko"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ma ṅụrịa ọṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:25.414376782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ma Ị dị nsọ, Onye nọdụrụ n'elu otuto Israel.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma Ị"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "dị nsọ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Onye nọdụrụ"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "n'elu otuto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:28.636232925Z",
+  "model": "glm-5.3"
+}

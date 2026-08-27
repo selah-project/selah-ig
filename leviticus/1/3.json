@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọ bụrụ na onyinye ya bụ ọkụ-ọfụ n'ehi, nwoke na-enweghị ntụpọ ka ọ ga-eweta; n'ọnụ ụzọ ⟨nke⟩ ụlọikuku nzukọ ka ọ ga-eweta ⟨את⟩ ya, ka a nata ya n'ihu Yahwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ọkụ-ọfụ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "onyinye ya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "na-enweghị ntụpọ"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ka ọ ga-eweta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ruo⟩"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "n'ọnụ ụzọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ụlọikuku"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ka ọ ga-eweta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "ka a nata ya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:43:52.549231969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "O wee wetara anyị n'ebe a, ma nye anyị ⟨את⟩ ala a — ala na-asọ mmiri ara na mmanụ afo.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "O wee wetara anyị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ebe a (ruo)"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨ebe⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ma nye"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ala⟩"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "na-asọ mmiri"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na mmanụ afo"
+    }
+  ],
+  "timestamp": "2026-08-27T08:10:39.333770921Z",
+  "model": "glm-5.3"
+}

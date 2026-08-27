@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ma Dauid enyeghị ⟨את⟩ akpa ahụ n'aka ya, n'obodo Dauid, kama ọ tụgharịrị ya n'ụlọ Oved-Edom onye Giti.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "tinyeghị n'aka"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dauid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akpa ahụ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "akpa ⟨the⟩ ahụ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dauid"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "ọ tụgharịrị ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "onye Giti"
+    }
+  ],
+  "timestamp": "2026-08-27T15:59:21.534696347Z",
+  "model": "glm-5.3"
+}

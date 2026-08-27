@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "O welitere aka Ya megide ha, ka Ọ da-mịọ ha na ⟨את⟩ ọzara.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "O welitere"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka Ya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "megide ha"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "ka Ọ da-mịọ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ha \/ ọzara"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:01.853426175Z",
+  "model": "glm-5.3"
+}

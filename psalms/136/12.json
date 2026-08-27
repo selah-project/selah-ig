@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 136,
+  "translation": "N'aka ike na n'aka anụ na-adị ogologo, maka na ruo mgbe ebighị ebi ka chesed Ya na-adị.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "N'aka"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ike"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "na n'aka anụ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "na-adị ogologo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:26.461657678Z",
+  "model": "glm-5.3"
+}

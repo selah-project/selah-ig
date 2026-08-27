@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "N'ihi na iwe ọsọ nke ụlọ gị riri m, na mkparị nke ndị na-akparị gị dara n'elu m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "iwe ọsọ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nke ụlọ gị"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "riri m"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "na mkparị"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "nke ndị na-akparị gị"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "dara"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:30.687165273Z",
+  "model": "glm-5.3"
+}

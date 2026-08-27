@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 108,
+  "translation": "Nke m bụ Gilad, nke m bụ Menashhe; ma Efrayim ⟨bụ⟩ ebe ike nke isi m; Yehudah ⟨bụ⟩ onye na-ede iwu m.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "nke m"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nke m"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashhe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ma Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ebe ike"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "nke isi m"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "onye na-ede iwu m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:09.168620917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Gwa ụmụ Yisrael, ma sọ ha: Mgbe unu batarọ n'⟨ala⟩ nke m na-enye unu, ma rue owuwe ya, unu ga-eweta ⟨את⟩ omere, ihe mbụ nke owuwe unu, ruo onye-nchu-aja.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Gwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ma sọ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "unu batarọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ויקצרתם",
+      "gloss": "ma rue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "owuwe ya"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "owuwe ya"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "unu ga-eweta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omere"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omere"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ihe mbụ"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "owuwe unu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:42.457433986Z",
+  "model": "glm-5.3"
+}

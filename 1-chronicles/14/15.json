@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 14:15",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ọ ga-abụ, mgbe ị nụrụ ⟨את⟩ ụda nzọ ụkwụ n'isi osisi baka, mgbe ahụ ị ga-apụ na agha, n'ihi na Elohim pụtara n'ihu gị ka ọ kụọ ⟨את⟩ ogige ndị Pelishtim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "כשמעך",
+      "gloss": "mgbe ị nụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ụda"
+    },
+    {
+      "surface": "הצעדה",
+      "gloss": "nzọ ụkwụ"
+    },
+    {
+      "surface": "בראשי",
+      "gloss": "n'isi"
+    },
+    {
+      "surface": "הבכאים",
+      "gloss": "osisi baka"
+    },
+    {
+      "surface": "אז",
+      "gloss": "mgbe ahụ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ị ga-apụ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "na agha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "ka ọ kụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogige"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ogige"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Pelishtim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:00:27.403082779Z",
+  "model": "glm-5.3"
+}

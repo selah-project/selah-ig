@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ha nwere n'ihe ha ketara: Beʼer-Sheva, na Sheva, na Molada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dị"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha nwere"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "n'ihe ha ketara"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beʼer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "na Sheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "na Molada"
+    }
+  ],
+  "timestamp": "2026-08-27T08:33:16.700691176Z",
+  "model": "glm-5.3"
+}

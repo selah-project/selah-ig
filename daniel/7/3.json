@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ma anụmanụ anọ ukwu na-arịgo site n'oké osimiri, nke ọ bụla dị iche na nke ọzọ.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "ma anọ"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "anụmanụ"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "na-arịgo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site n'"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "dị iche"
+    },
+    {
+      "surface": "דא",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "דא",
+      "gloss": "nke ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:30:24.548003906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "El a na-atụ egwu n'ime nzuzo nke ndị nsọ, jọrọ njọ n'elu ndị niile gbara ya gburugburu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "a na-atụ egwu"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "n'ime nzuzo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nke ndị nsọ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "jọrọ njọ (nke ukwuu)"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "gbara ya gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:52.700973577Z",
+  "model": "glm-5.3"
+}

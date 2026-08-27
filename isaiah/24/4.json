@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "⟨The⟩ ụwa na-eru ákwá ma na-ehụfuo ike; ⟨the⟩ ụwa nile na-ada mbà ma na-ehụfuo ike; ⟨the⟩ elu ndị ⟨the⟩ ụwa na-ada mbà.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "na-eru ákwá"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "na-ehụfuo ike"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ ụwa"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "na-ada mbà"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "na-ehụfuo ike"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨the⟩ ụwa nile"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "na-ada mbà"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "⟨the⟩ elu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ⟨the⟩ ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T10:48:00.566395126Z",
+  "model": "glm-5.3"
+}

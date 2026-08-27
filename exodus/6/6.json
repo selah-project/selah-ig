@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 6:6",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ya mere, sị ụmụ Yisrael: Mụ bụ Yahwe; m ga-ewepụ ⟨את⟩unụ n'okpuru arọ Mitzrayim, m ga-azọpụta ⟨את⟩unụ n'ọrụ ohu ha, m ga-azọta ⟨את⟩unụ site n'aka ewuru ogologo na site n'ikpe ndị ukwu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "m ga-ewepụ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩unụ",
+      "marks": "unụ n'okpuru arọ Mitzrayim"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "סבלת",
+      "gloss": "arọ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "m ga-azọpụta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩unụ",
+      "marks": "unụ n'ọrụ ohu ha"
+    },
+    {
+      "surface": "מעבדתם",
+      "gloss": "ọrụ ohu ha"
+    },
+    {
+      "surface": "וגאלתי",
+      "gloss": "m ga-azọta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩unụ",
+      "marks": "unụ"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "aka ewuru"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ogologo (ewuru)"
+    },
+    {
+      "surface": "ובשפטים",
+      "gloss": "na site n'ikpe"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ndị ukwu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:10:50.830370249Z",
+  "model": "glm-5.3"
+}

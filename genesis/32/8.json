@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Yaakov wee taa ahụhụ tụọ egwu nke ukwuu, ma nọrọ na mgbu; ọ kewara ⟨את⟩ ndị mmadụ nọ ⟨את⟩ ya, na ⟨את⟩ atụrụ, na ⟨את⟩ ehi, na kamel, ka ha bụrụ ogige abụọ.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "tụọ egwu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "nọrọ na mgbu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "ọ kewara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị mmadụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya (ndị nọ ya)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atụrụ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "atụrụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ehi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "na kamel"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "ogige"
+    }
+  ],
+  "timestamp": "2026-08-27T05:49:31.237709111Z",
+  "model": "glm-5.3"
+}

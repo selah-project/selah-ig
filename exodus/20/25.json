@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ma ọ bụrụ na ị mewere m mizbea nke nkume, ị ghara iwu ya ⟨את⟩ nkume ndị a pịtara: n'ihi na ọ bụrụ na ị̀nụ̀lite mma gị n'elu ya, ị ga-emerụ ya nsọ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbea"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "nke nkume"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ị mewere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "nkume ndị a pịtara"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "ndị a pịtara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "mma gị"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "ị̀nụ̀lite"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "ị ga-emerụ ya nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:13.454131533Z",
+  "model": "glm-5.3"
+}

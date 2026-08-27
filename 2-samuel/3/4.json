@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 3:4",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "ma nke anọ bụ Adonaya, nwa Akhiggit; ma nke ise bụ Shefatya, nwa Avital.",
+  "tokens": [
+    {
+      "surface": "והרביעי",
+      "gloss": "ma nke anọ"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adonaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Akhiggit"
+    },
+    {
+      "surface": "והחמישי",
+      "gloss": "ma nke ise"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Shefatya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אביטל",
+      "gloss": "Avital"
+    }
+  ],
+  "timestamp": "2026-08-27T09:29:17.581748327Z",
+  "model": "glm-5.3"
+}

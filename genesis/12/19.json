@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Maka gịnị ka i kwuru na ọ bụ nwanne m nwaanyị, na m were ⟨את⟩ ya bụrụ m nwunye? Ugbu a, le, nwunye gị; were ⟨את⟩ ya, gaa.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Maka gịnị"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "i kwuru"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "nwanne m nwaanyị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "na m were"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "bụrụ nwunye"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Ugbu a"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "nwunye gị"
+    },
+    {
+      "surface": "קח",
+      "gloss": "were"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "gaa"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:24.834542956Z",
+  "model": "glm-5.3"
+}

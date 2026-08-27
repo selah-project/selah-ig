@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 99,
+  "translation": "Dịlie Yahwe Elohim anyị, ma daa n'ala n'okpuru ụkwu ya; nsọ ka ọ bụ.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Dịlie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ma daa n'ala"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "n'okpuru ụkwu"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:44.628969996Z",
+  "model": "glm-5.3"
+}

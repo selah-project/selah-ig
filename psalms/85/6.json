@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 85,
+  "translation": "Ka ị ga-ewe iwe n'aka anyị ruo ebighị ebi? Ka iwe gị ga-adọgide ruo ọgbọ na ọgbọ?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "ruo ebighị ebi"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ka ị ga-ewe iwe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "n'aka anyị"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "ka ị ga-adọgide"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "iwe gị"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ruo ọgbọ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na ọgbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:35.520662795Z",
+  "model": "glm-5.3"
+}

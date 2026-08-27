@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Otu n'ime ha wee kwuo: Kweta biko, gaa ya na ⟨את⟩ ohụ gị. Ọ wee zaa: Mụ onwe m ga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee kwuo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "otu n'ime ha"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "kweta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya na ohụ gị"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ohụ gị"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee zaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ onwe m"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ga"
+    }
+  ],
+  "timestamp": "2026-08-27T10:15:40.601275548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "(Ndinyom ahụ, Moshe, bụ onye umeala jupụta, karịa mmadụ niile nke dị n'elu ihu ụwa.)",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Ndinyom ahụ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "onye umeala"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "jupụta"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "karịa niile"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke dị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T07:22:56.079902452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ndị Filistia na-alụso Yisrael ọgụ, ma ndị ikom Yisrael gbara ọsọ n'ihu ndị Filistia, ma ha daa n'egbu egbu n'ugwu Gilboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Ndị Filistia"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "na-alụso ọgụ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "gba ọsọ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Filistia"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ha daa"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "n'egbu egbu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-27T09:28:42.801732162Z",
+  "model": "glm-5.3"
+}

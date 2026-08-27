@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 15:6",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "n'ihi na Yahwe, Elohim gị, ga-egozi gị dịka ọ siri gị okwu; ị ga-agbazinye ọtụtụ mba ego, mana gị onwe gị agaghị agbazinye; ịchịkwa ọtụtụ mba, mana ha agaghị achị gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "ga-egozi gị"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ọ siri okwu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "והעבטת",
+      "gloss": "ị ga-agbazinye"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mana gị onwe gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תעבט",
+      "gloss": "agbazinye"
+    },
+    {
+      "surface": "ומשלת",
+      "gloss": "ịchịkwa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "mana gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "achị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:30:00.193183421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Onye nnochite nyere ndị isi nke otu narị ⟨את⟩ mma ogwu ahụ na ⟨את⟩ ọta ndị ahụ nke bụ nke Davuid, eze, ndị nọ n'ụlọ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nnochite"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "maka ndị isi"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "nke otu narị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mma ogwu ahụ"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "mma ogwu ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ọta ndị ahụ"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "ọta ndị ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "maka eze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davuid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T10:22:19.079139097Z",
+  "model": "glm-5.3"
+}

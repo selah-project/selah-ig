@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 143,
+  "translation": "Ma site n'chesed gị, bepụ ndị iro m, ma bibie ndị niile na-emegbu mkpụrụ obi m; n'ihi na m bụ ohu gị.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Ma site n'chesed gị"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "bepụ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "ma bibie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "na-emegbu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:53.571185620Z",
+  "model": "glm-5.3"
+}

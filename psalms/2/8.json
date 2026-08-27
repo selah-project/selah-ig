@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Rịọ m, m ga-enyere gị mba ndị ahụ dị ka ihe nketa gị, na njide gị, njedebe nke ụwa.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "rịọ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "m"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "m ga-enyere gị"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ihe nketa gị"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "na njide gị"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "njedebe nke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:46.282805817Z",
+  "model": "glm-5.3"
+}

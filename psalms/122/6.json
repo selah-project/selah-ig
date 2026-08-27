@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 122,
+  "translation": "Juọ maka udo nke Yerushalayim; ka ndị hụrụ gị n'anya nwee ọgwụgwọ ná ndụ uda.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "juọ maka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "ka … nwee ọgwụgwọ ná ndụ uda"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "ndị hụrụ gị n'anya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:40.635847684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "N'obi m ka m zoro okwu gị, ka m ghara ịmehie gị.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "n'obi m"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "m zoro \/ m chekwaara"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "okwu gị"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "ịmehie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:05.152781887Z",
+  "model": "glm-5.3"
+}

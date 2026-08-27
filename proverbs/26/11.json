@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Dịka nkịta na-alọghachi na mgbọ ya, otu a ka onye nzuzu na-emeghachi nzuzu ya.",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "Dịka nkịta"
+    },
+    {
+      "surface": "שב",
+      "gloss": "na-alọghachi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "mgbọ ya"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "onye nzuzu"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "na-emeghachi"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "nzuzu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:30:33.729295599Z",
+  "model": "glm-5.3"
+}

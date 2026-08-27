@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ị ga-etinyekwa ⟨את⟩ oche-ekwensu n'elu ⟨את⟩ igbe-ekpere ahụ, elu igbe ahụ; banye n'igbe ahụ, ị ga-etinye ⟨את⟩ ihe-ndekọ-akaebe nke m ga-enye gị.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ị ga-etinyekwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oche-ekwensu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "oche-ekwensu"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "igbe-ekpere ahụ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "olu ya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "banye n'"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "igbe ahụ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ị ga-etinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe-ndekọ-akaebe"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ihe-ndekọ-akaebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "m ga-enye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:28:59.278325506Z",
+  "model": "glm-5.3"
+}

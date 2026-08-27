@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "ndị kwuru, sị: Ka anyị weere ⟨את⟩ ebe-ibi nke Elohim n'onwe anyị.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "kwuru, sị:"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "ka anyị weere n'onwe anyị"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe-ibi nke Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "ebe-ibi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T13:45:16.233100073Z",
+  "model": "glm-5.3"
+}

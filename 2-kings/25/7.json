@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ha gbuchara ⟨את⟩ ụmụ Tsidkiyahu n'anya ya, wee mechie ⟨את⟩ anya Tsidkiyahu, kee ya na agbụ nchara, wee duga ya gaa Babilon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Tsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "Ha gbuchara"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "n'anya ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anya Tsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "wee mechie"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "kee ya"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "na agbụ nchara"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "wee duga ya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    }
+  ],
+  "timestamp": "2026-08-27T10:32:13.802997674Z",
+  "model": "glm-5.3"
+}

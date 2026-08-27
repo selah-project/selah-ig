@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Na ⟨את⟩ Colon na ⟨את⟩ ahịa-ọzara ya, na ⟨את⟩ Debir na ⟨את⟩ ahịa-ọzara ya,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Colon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Colon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ahịa-ọzara ya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ahịa-ọzara ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:35:33.845194080Z",
+  "model": "glm-5.3"
+}

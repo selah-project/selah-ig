@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Enweghị okwu, enweghịkwa okwu-ọnụ, olu ha anaghị anụ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "enweghịkwa"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "okwu-ọnụ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": ""
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "anaghị anụ"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "olu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:11.525048176Z",
+  "model": "glm-5.3"
+}

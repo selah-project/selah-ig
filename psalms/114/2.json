@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 114,
+  "translation": "Yehuda ghọrọ ebe nsọ ya, Yisrael ⟨⟨ghọrọ⟩⟩ alaeze ya.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ghọrọ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ebe nsọ ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "alaeze ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:19.597456100Z",
+  "model": "glm-5.3"
+}

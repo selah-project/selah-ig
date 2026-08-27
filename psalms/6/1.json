@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Maka onye ndú egwu, na ngwa ụdọ, n'elu ụda nke asatọ. Abụ ọma nke David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye ndú egwu"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "na ngwa ụdọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ụda nke asatọ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Abụ ọma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:48.459018922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 1:1",
+  "book": "ruth",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "O mere n'ụbọchị ndị ikpe mkpe nke ⟨ndị⟩ ikpe-ikpe, otu ụnwụ nri dakwasara n'ala. Otu nwoke si Bet-Lechem nke Yehuda gaa ibi ndụ n'ala Moab, ya na nwunye ya na ụmụ ya nwoke abụọ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "O mere"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "n'ụbọchị ndị"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ikpe mkpe nke"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "⟨ndị⟩ ikpe-ikpe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ụnwụ nri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ọ gaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "otu nwoke"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "si Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "nke Yehuda"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "ibi ndụ"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "na nwunye ya"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na ụmụ abụọ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ya nwoke"
+    }
+  ],
+  "timestamp": "2026-08-27T15:05:28.167393644Z",
+  "model": "glm-5.3"
+}

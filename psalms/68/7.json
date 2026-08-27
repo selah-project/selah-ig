@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Elohim na-eme ka ndị nanị ha nọ n'ụlọ, na-ewepụta ndị a mkpọrọ n'ọganihu; ma nanị ndị nnupụisi ga-ebi n'ala kpọrọ nkụ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "na-eme ka ... nọ"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "ndị nanị ha"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "na-ewepụta"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "ndị a mkpọrọ"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "n'ọganihu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ma nanị"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "ndị nnupụisi"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "ga-ebi"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "n'ala kpọrọ nkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:33.487275104Z",
+  "model": "glm-5.3"
+}

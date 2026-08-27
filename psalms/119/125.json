@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ohu gị ka m bụ; nye m nghọta, ka m wee mara ihe-aka gị.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "nye m nghọta"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "ka m wee mara"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ihe-aka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:56.155599541Z",
+  "model": "glm-5.3"
+}

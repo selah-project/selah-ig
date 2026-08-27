@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "M ga-asọkwa ⟨את⟩ Aha Nzukọ na ⟨את⟩ ebe ịchụàjà, ma ⟨את⟩ Aharon na ⟨את⟩ ụmụ ya ka m na-asọ nsọ ka ha bụrụ ndị nchụàjà maka m.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "M ga-asọkwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aha Nzukọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nzukọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ebe ịchụàjà"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "ka m na-asọ nsọ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ka ha bụrụ ndị nchụàjà"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    }
+  ],
+  "timestamp": "2026-08-27T06:32:18.466778660Z",
+  "model": "glm-5.3"
+}

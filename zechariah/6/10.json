@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 6:10",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Were n'aka ndị a chụpụrụ n'ụmụ chụpụ — si n'⟨את⟩ Cheldai, si n'⟨את⟩ Toviyah, na si n'⟨את⟩ Yedayah; ị ga-abịa n'ụbọchị ahụ, ị ga-abịakwa n'ụlọ Yosiah nwa Tsefanyah, ndị si Babilọn bịara.",
+  "tokens": [
+    {
+      "surface": "לקוח",
+      "gloss": "Were"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "si ⟨את⟩",
+      "marks": "Cheldai"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ndị a chụpụrụ n'ụmụ chụpụ"
+    },
+    {
+      "surface": "מחלדי",
+      "gloss": "n'aka Cheldai"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na si ⟨את⟩",
+      "marks": "Toviyah"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Toviyah"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na si ⟨את⟩",
+      "marks": "Yedayah"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Yedayah"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ị ga-abịa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ị ga-abịakwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "יאשיה",
+      "gloss": "Yosiah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "si Babilọn"
+    }
+  ],
+  "timestamp": "2026-08-27T13:04:04.535996221Z",
+  "model": "glm-5.3"
+}

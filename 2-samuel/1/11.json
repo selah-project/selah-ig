@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Dawid wee jide uwe ya ma gbajie ha; ndị ikom niile nọkọrọ ⟨את⟩ ya mekwapụkwa otu ahụ.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wee jide ike"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "uwe ya"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "ma gbajie ha"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mekwapụkwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nọkọrọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T09:28:39.220792757Z",
+  "model": "glm-5.3"
+}

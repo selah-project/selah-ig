@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Nna ya na nne ya ga-ejide ya, wee pụta ⟨na⟩ ya gakwuru ndị okenye obodo ya, na ⟨ruo⟩ ọnụ ụzọ ámá ebe obibi ya;",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "ga-ejide"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ו אמו",
+      "gloss": "na nne ya"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ga-ewepụta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gakwuru"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "obodo ya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ruo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọnụ ụzọ ámá"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ebe obibi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:06:10.693809867Z",
+  "model": "glm-5.3"
+}

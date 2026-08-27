@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Na ⟨את⟩ tebụl na ⟨את⟩ ngwa ihe ya niile, na ⟨את⟩ onyinye ọkụ na ⟨את⟩ ngwa ihe ya niile, na ⟨את⟩ ebe ịchụàjà nke ihe na-esi ísì ụtọ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "tebụl"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tebụl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ngwa ihe ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwa ihe ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "onyinye ọkụ"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "onyinye ọkụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ngwa ihe ya niile"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ngwa ihe ya niile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ebe ịchụàjà nke ihe na-esi ísì ụtọ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "nke ihe na-esi ísì ụtọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:32:24.356750561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 6:52",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma ha nyere ha ⟨את⟩ obodo ndị mgbaba, ⟨את⟩ Shek-em na ⟨את⟩ mpaghara-ohere ya, n'ugwu Efrayim, na ⟨את⟩ Gezer na ⟨את⟩ mpaghara-ohere ya.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Ma ha nyere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obodo ndị mgbaba"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "ndị mgbaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shek-em"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shek-em"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaghara-ohere ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mpaghara-ohere ya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "n'ugwu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaghara-ohere ya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mpaghara-ohere ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:02.827250094Z",
+  "model": "glm-5.3"
+}

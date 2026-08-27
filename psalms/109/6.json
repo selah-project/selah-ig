@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Dee onye ajọ omume n'elu ya, ma onye iro na-eguzo n'akụkụ aka nri ya.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Dee"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ajọ omume"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "ma onye iro"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "na-eguzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "aka nri ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:05.444378285Z",
+  "model": "glm-5.3"
+}

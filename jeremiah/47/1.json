@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "Nke bụ okwu Yahwe nke bịara Yirmeiahu onye-amụ, banyere ndị Felishti, tupu Farao ebie ⟨את⟩ Gaza.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeiahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "onye-amụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Felishti"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "tupu"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ebie"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    }
+  ],
+  "timestamp": "2026-08-27T11:49:32.145257095Z",
+  "model": "glm-5.3"
+}

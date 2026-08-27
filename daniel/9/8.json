@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Yahwe, anyị ka ihere n'ihu — ndị eze anyị, ndị isi anyị, na nna nna anyị — ndị mere mmehie megide gị.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ihere"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "ndị eze anyị"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "ndị isi anyị"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "na nna nna anyị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "mere mmehie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:30:52.088953947Z",
+  "model": "glm-5.3"
+}

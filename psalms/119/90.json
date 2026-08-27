@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Maka ọgbọ ruo n'ọgbọ, ⟨is⟩ okwukwe gị; i ⟨tọrọ⟩ ụwa n'ala, ma ọ na-adịgide.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "maka ọgbọ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ruo n'ọgbọ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "okwukwe gị"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "ị tọrọ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa n'ala"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ma ọ na-adịgide"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:38.951525024Z",
+  "model": "glm-5.3"
+}

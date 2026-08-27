@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 101,
+  "translation": "Anya m ga-elekwasị na ndị kwesịrị ntụkwasị obi nke ⟨⟨ala⟩⟩, ka ha nọrọ ná m; onye na-eje ije n'ụzọ ziri ezi — ọ bụ ya ga-ejere m ozi.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "na ndị kwesịrị ntụkwasị obi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ka ha nọrọ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ná m"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "na-eje ije"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ziri ezi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ ya"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "ga-ejere m ozi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:44.527207705Z",
+  "model": "glm-5.3"
+}

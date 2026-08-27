@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "Ị gaghị atụ egwu nke ụjọ abalị, nke mma na-efe ehihie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "gaghị"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "atụ egwu"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "nke ụjọ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "abalị"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "nke mma"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "na-efe"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ehihie"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:15.121277937Z",
+  "model": "glm-5.3"
+}

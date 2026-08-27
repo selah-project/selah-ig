@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ka anyị maara, anyị na-achụso ịma ⟨את⟩ Yahwe; dị ka ụtụtụ, mbọpụta Ya doro anya; Ọ ga-abịa dị ka mmiri ozuzo bịara anyị, dị ka mmiri ozuzo ikpeazụ na-awụsa mmiri n'ụwa.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Ka anyị maara"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "anyị na-achụso"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ịma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "dị ka ụtụtụ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "doro anya"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "mbọpụta Ya"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "Ọ ga-abịa"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "dị ka mmiri ozuzo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bịara anyị"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "dị ka mmiri ozuzo ikpeazụ"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "na-awụsa mmiri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n'ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T12:39:42.959925300Z",
+  "model": "glm-5.3"
+}

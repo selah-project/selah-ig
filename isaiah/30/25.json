@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 30:25",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Va ọ ga-adị n'ugwu ọ bụla dị elu, na n'ugwu nkịtị ọ bụla a welitere, ga-adị mmiri dị ka iyi ndị na-asọ, n'ụbọchị nke ogbugbu jupụtara, mgbe ụlọ elu ndị ahụ na-adaba.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-adị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "dị elu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na n'elu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "ugwu nkịtị"
+    },
+    {
+      "surface": "נשאה",
+      "gloss": "a welitere"
+    },
+    {
+      "surface": "פלגים",
+      "gloss": "mmiri na-asọ"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "dị ka iyi ndị"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ogbugbu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "jupụtara"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "mgbe na-adaba"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "ụlọ elu ndị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:52:16.437678626Z",
+  "model": "glm-5.3"
+}

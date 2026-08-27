@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ma ị ga-eme n'elu ⟨את⟩ obi-ugbo ahụ mgbanaka ọlaedo abụọ, ma tinye ⟨את⟩ mgbanaka abụọ ahụ n'akụkụ abụọ nke obi-ugbo ahụ.",
+  "tokens": [
+    {
+      "surface": "ו עשית",
+      "gloss": "ma ị ga-eme"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "⟨את⟩ obi-ugbo ahụ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "mgbanaka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgbanaka abụọ ahụ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "mgbanaka ahụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "akụkụ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "nke obi-ugbo ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:31:32.194574098Z",
+  "model": "glm-5.3"
+}

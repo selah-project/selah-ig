@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Yahwe, n'iwe gị ekatọla m, ma n'ọfụfụ gị akụziala m ihe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ela"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "n'iwe gị"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ekatọla m"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma ela"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "n'ọfụfụ gị"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "akụziala m ihe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:48.459260505Z",
+  "model": "glm-5.3"
+}

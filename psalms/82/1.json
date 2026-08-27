@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 82,
+  "translation": "Abụ maka Asaf. Elohim guzoro n'ọgbakọ ⟨nke⟩ El; n'etiti chi ndị ọzọ ọ na-ekpe ikpe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "maka Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "guzoro"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "n'ọgbakọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chi ndị ọzọ"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ọ na-ekpe ikpe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:30.121519342Z",
+  "model": "glm-5.3"
+}

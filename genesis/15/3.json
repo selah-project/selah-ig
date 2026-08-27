@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Avram wee sị: Le, m ka Ị nyeghị mkpụrụ, ma le, nwa n'ime ụlọ m ka ga-eketa m ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Le"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nyeghị"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Ị nyere"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ma le"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "n'ime ụlọ m"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "ga-eketa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T05:31:26.377773265Z",
+  "model": "glm-5.3"
+}

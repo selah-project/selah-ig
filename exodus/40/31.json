@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Moshe, Aharon, na ụmụ ya wee saa n'ime ya ⟨את⟩ aka ha na ⟨את⟩ ụkwụ ha.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "wee saa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na ụmụ ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka ha"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "aka ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụkwụ ha"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ụkwụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:41.276552159Z",
+  "model": "glm-5.3"
+}

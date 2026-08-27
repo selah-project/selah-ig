@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Na nkụ ka a gọrọ unu nkụ, ma ⟨את⟩ m ka unu na-ewepụ ihe — mba ⟨a⟩ niile.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "na nkụ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "a gọrọ nkụ"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "ma ⟨את⟩ m",
+      "marks": "unu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "na-ewepụ ihe"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "mba ⟨a⟩"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "niile"
+    }
+  ],
+  "timestamp": "2026-08-27T13:12:31.131783469Z",
+  "model": "glm-5.3"
+}

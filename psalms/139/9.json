@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 139,
+  "translation": "Ka m buru ⟨את⟩ nku nke ụtụtụ, ka m bi ná njedebe nke oké osimiri —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "ka m buru"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "nku"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ụtụtụ"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "ka m bi"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ná njedebe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "oké osimiri"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:02.091150177Z",
+  "model": "glm-5.3"
+}

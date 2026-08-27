@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "Ị jidere mkpụchi anya m; a na-ama m ajụjụ ruo n'obi na m enweghị ike ịsụ okwu.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "ị jidere"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "mkpụchi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "a na-ama m ajụjụ ruo n'obi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma enweghị"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ike ịsụ okwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:51.960153392Z",
+  "model": "glm-5.3"
+}

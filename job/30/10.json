@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ha kpọrọ m asị, ha dịrị anya ebe m nọ, ma n'ihu m ha egbochighị ọfụfụ ha.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "Ha kpọrọ m asị"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ha dịrị anya"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ebe m nọ"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ma n'ihu m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha egbochighị"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "egbochighị"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ọfụfụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:51:58.887242202Z",
+  "model": "glm-5.3"
+}

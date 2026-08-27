@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Na Bela nwa Azaz, nwa Shema, nwa Yoel; ọ bi na Aroer, rue Nevo na Baal-Meon.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "Na Bela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "Azaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Shema"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bi"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "na Aroer"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "rue"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "na Baal-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Meon"
+    }
+  ],
+  "timestamp": "2026-08-27T15:53:34.036926773Z",
+  "model": "glm-5.3"
+}

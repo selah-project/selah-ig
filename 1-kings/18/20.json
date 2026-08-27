@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Achab wee ziga ozi n'etiti ụmụ Israelite niile, ma gbakọta ⟨את⟩ ndị amụma ahụ na ugwu Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ọ wee ziga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'etiti niile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelite"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ma gbakọta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị amụma ahụ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ndị amụma ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-08-27T10:06:33.492049546Z",
+  "model": "glm-5.3"
+}

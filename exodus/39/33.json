@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Ha wetara ⟨את⟩ ebe-nsọ ahụ nye Moshe, ⟨את⟩ ụlọikwu ahụ, na ⟨את⟩ ngwa ya niile — agbụjị ya, bọọdụ ya, mkpọ ya, osisi kwụ ọtọ ya, na ntọala ya.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ha wetara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe-nsọ ahụ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ebe-nsọ ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọikwu ahụ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ụlọikwu ahụ"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwa ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwa ya"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "agbụjị ya"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "bọọdụ ya"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "mkpọ ya"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "osisi kwụ ọtọ ya"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "ntọala ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:15.020103805Z",
+  "model": "glm-5.3"
+}

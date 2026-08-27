@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 126,
+  "translation": "Onye na-agakwa na-ebe ákwa, na-ebu akpa mkpụrụ ya, ga-abata n'abụ ọṅụ, na-ebu nkata ndị ọ kụrụ.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "na-agakwa"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "na-ebe ákwa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "na-ebu"
+    },
+    {
+      "surface": "משך",
+      "gloss": "akpa mkpụrụ"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "mkpụrụ ahụ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ọbịa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ga-abata"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "n'abụ ọṅụ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "na-ebu"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "nkata ndị ọ kụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:35.401801104Z",
+  "model": "glm-5.3"
+}

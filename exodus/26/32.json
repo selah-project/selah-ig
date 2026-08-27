@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 26:32",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ma ị ga-etinye ya na ⟨את⟩ anọ n'elu ndukwu osisi acacia anọ, a na-ekpuchi ekpuchi ọlaedo, mkpara-agbaji ha bụ ọlaedo, na ⟨את⟩ nchekwa anọ nke ọlaedo ọcha.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ị ga-etinye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (mkpuchi-ụzọ)"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "ndukwu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "osisi acacia"
+    },
+    {
+      "surface": "מצפים",
+      "gloss": "a na-ekpuchi ekpuchi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "mkpara-agbaji ha"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nchekwa (isi ala)"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọlaedo ọcha (silver)"
+    }
+  ],
+  "timestamp": "2026-08-27T06:27:51.769405906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ha tụbara nke ọ bụla mkpo ya, ha bụrụ agwọ; mkpo Aharon riri ⟨את⟩ mkpo ha.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "ha tụbara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nke ọ bụla"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "mkpo ya"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ha bụrụ"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "agwọ"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "riri"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mkpo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkpo ha"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "mkpo ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:09:32.097002287Z",
+  "model": "glm-5.3"
+}

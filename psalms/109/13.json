@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 109,
+  "translation": "Ka ọgwụgwụ ya bụrụ ⟨ibipụ⟩; n'ọgbọ ọzọ ka a hapụ aha ha.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ka ọ bụrụ"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "ọgwụgwụ ya"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "maka ibipụ"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "n'ọgbọ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "a ga-ehapụ"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "aha ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:30.055797087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Na n'⟨the⟩ ndị bịanyere aka: Nechemyah, onyeisiala, nwa Chakalyah, na Tsidkiyah.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "na n'"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "ndị bịanyere aka"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemyah"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "onyeisiala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Chakalyah"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "Tsidkiyah"
+    }
+  ],
+  "timestamp": "2026-08-27T15:46:40.331860221Z",
+  "model": "glm-5.3"
+}

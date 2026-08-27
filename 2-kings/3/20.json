@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'ụtụtụ, mgbe onyinye ọfụfụdị na-ebuli, le, mmiri na-abịa site n'ụzọ Edom, ma ala ahụ jupụtara na ⟨את⟩ mmiri ahụ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "mgbe ọ na-ebuli"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "onyinye ọfụfụdị"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "באים",
+      "gloss": "na-abịa"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "site n'ụzọ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "jupụtara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmiri ahụ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "na mmiri ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:13:51.327901638Z",
+  "model": "glm-5.3"
+}

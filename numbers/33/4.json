@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ndị Mitsrajim na-eli ⟨את⟩ ndị Yahwe gburu n'etiti ha, ndị mbụ-amụ niile; na n'elu chi ha, Yahwe mere ikpe.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Ndị Mitsrajim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "na-eli ozu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "gburu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'etiti ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mbụ-amụ"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "na n'elu chi ha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ikpe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:47:06.834476361Z",
+  "model": "glm-5.3"
+}

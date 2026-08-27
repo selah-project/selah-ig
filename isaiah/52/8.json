@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "Olu nke ndị na-eche gị! Ha welitere olu, ha na-agụ ọnụ; n'ihi na anya ga-ahụ n'anya, n'ịlaghachi nke Yahwe na Zion.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "ndị na-eche gị"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ha welitere"
+    },
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ha na-agụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עין",
+      "gloss": "anya"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "n'anya"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ga-ahụ"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "n'ịlaghachi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    }
+  ],
+  "timestamp": "2026-08-27T11:05:52.883967559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Maka ọ dịghị ihe kwesịrị ikwere n'ọnụ ha; afo ha bụ mbibi; olu ha bụ ili megheere; asụsụ ha na-eme ka ihe dị larịị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "n'ọnụ ha"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "ihe kwesịrị ikwere"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "afo ha"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "mbibi"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ili"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "megheere"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "olu ha"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "asụsụ ha"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "na-eme ka ihe dị larịị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:06.383309541Z",
+  "model": "glm-5.3"
+}

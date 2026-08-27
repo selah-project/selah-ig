@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Ndị iré nzuzo ahụla, ka ha ṅụrịrị ọṅụ; ndị na-achọ Elohim, obi unu ga-adị ndụ.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ahụla"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ndị iré nzuzo"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ka ha ṅụrịrị ọṅụ"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "ndị na-achọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "ga-adị ndụ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "obi unu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:52.699016922Z",
+  "model": "glm-5.3"
+}

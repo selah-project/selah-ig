@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ekwela ka ụkwụ nke mpụtara bịa n'elu m, ma ekwela ka aka nke ndị ajọ omume tụpụ m.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekwela ka"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "bịarute m"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ụkwụ"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "nke mpụtara"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ma ka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nke ndị ajọ omume"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekwela ka"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "tụpụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:20.410989238Z",
+  "model": "glm-5.3"
+}

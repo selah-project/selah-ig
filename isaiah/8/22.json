@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ha ga-elekwu ⟨את⟩ ala, ma le — ahụhụ na ọchịchịrị, mgbagha nke nsogbu oke, na ọchịchịrị nke a chụpụrụ agbasa.",
+  "tokens": [
+    {
+      "surface": "וְאֶל",
+      "gloss": "ha ga-elekwa"
+    },
+    {
+      "surface": "אֶ֖רֶץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "יַבִּ֑יט",
+      "gloss": "ọ na-ele"
+    },
+    {
+      "surface": "וְהִנֵּ֨ה",
+      "gloss": "ma le"
+    },
+    {
+      "surface": "צָרָ֤ה",
+      "gloss": "ahụhụ"
+    },
+    {
+      "surface": "וַחֲשֵׁכָה֙",
+      "gloss": "na ọchịchịrị"
+    },
+    {
+      "surface": "מְע֣וּף",
+      "gloss": "mgbagha"
+    },
+    {
+      "surface": "צוּקָ֔ה",
+      "gloss": "nsogbu oke"
+    },
+    {
+      "surface": "וַאֲפֵלָ֖ה",
+      "gloss": "na ọchịchịrị nzuzo"
+    },
+    {
+      "surface": "מְנֻדָּֽח",
+      "gloss": "nke a chụpụrụ agbasa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:39:26.860776430Z",
+  "model": "glm-5.3"
+}

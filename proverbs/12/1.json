@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Onye hụrụ mmezì n'anya, hụrụ ihe ọmụma n'anya; ma onye kpọrọ mgbaghara asị, bụ ⟨onye⟩ amaghị ihe.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "hụrụ n'anya"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mmezì"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hụrụ n'anya"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ihe ọmụma"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ma kpọrọ asị"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "mgbaghara"
+    },
+    {
+      "surface": "בער",
+      "gloss": "amaghị ihe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:22:17.928641128Z",
+  "model": "glm-5.3"
+}

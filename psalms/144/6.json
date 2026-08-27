@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 144,
+  "translation": "Munye mmamụrụ ọkụ ka ịgbasaa ha; ziga akụ gị ka ịchafuo ha.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "munye mmamụrụ ọkụ"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "mmamụrụ ọkụ"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "ka ịgbasaa ha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ziga"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "akụ gị"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "ka ịchafuo ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:06.851876941Z",
+  "model": "glm-5.3"
+}

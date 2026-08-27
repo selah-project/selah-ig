@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Nke a ka ⟨את⟩ onyinye ahụ unu ga-ewe n'aka ha: ọla edo, ọla ọcha, na ọla kọpa.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "na nke a"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "onyinye ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "unu ga-ewe"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ ha"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọla edo"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "na ọla ọcha"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "na ọla kọpa"
+    }
+  ],
+  "timestamp": "2026-08-27T06:29:10.827330740Z",
+  "model": "glm-5.3"
+}

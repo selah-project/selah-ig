@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma Ị mere ka ọ dị obere ihe n'okpuru Elohim, ma kechaa ya okpueze nke nsọpụrụ na ugo.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "Ma Ị mere ka ọ dị obere ihe n'okpuru"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "obere ihe"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ma nsọpụrụ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na ugo"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "Ị kechaa ya okpueze"
+    }
+  ],
+  "timestamp": "2026-08-27T13:16:34.325052452Z",
+  "model": "glm-5.3"
+}

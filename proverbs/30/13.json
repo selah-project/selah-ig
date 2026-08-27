@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 30:13",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ọgbọ — anya ha dị elu otu ole, na nkwúntì anya ha na-ebuli elu!",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "otu ole"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "dị elu"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "anya ha"
+    },
+    {
+      "surface": "ועפעפיו",
+      "gloss": "na nkwúntì anya ha"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "na-ebuli elu"
+    }
+  ],
+  "timestamp": "2026-08-27T14:33:43.083562962Z",
+  "model": "glm-5.3"
+}

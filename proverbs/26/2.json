@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Dịka nụrụnụ na-agagharị, dịka añula na-efe efe, otu a nkwa na-enweghị ihe kpatara ya agaghị adaba.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "dịka nụrụnụ"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "na-agagharị"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "dịka añula"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "na-efe efe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "nkwa"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "na-enweghị ihe kpatara ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "adaba"
+    }
+  ],
+  "timestamp": "2026-08-27T14:31:17.252683470Z",
+  "model": "glm-5.3"
+}

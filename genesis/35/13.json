@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Elohim wee si n'elu ya rịgoọ n'ebe ⟨ọ⟩ gwara ⟨את⟩ ya okwu.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wee rịgoọ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "si n'elu ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gwara okwu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:23:45.082515382Z",
+  "model": "glm-5.3"
+}

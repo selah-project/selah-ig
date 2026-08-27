@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Maka ụmụ Yosef: maka Efrayim — Elishama, nwa Amihud; maka Menashe — Gamliel, nwa Pedatsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "maka ụmụ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "maka Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "maka Menashe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedatsur"
+    }
+  ],
+  "timestamp": "2026-08-27T07:08:54.848399114Z",
+  "model": "glm-5.3"
+}

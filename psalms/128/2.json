@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 128,
+  "translation": "Mmemme aka gị ka ga-eri; ọṅụ dị gị, ọ dịkwa gị mma.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Mmemme"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ga-eri"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "ọṅụ dị gị"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ọ dịkwa mma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:15.990010716Z",
+  "model": "glm-5.3"
+}

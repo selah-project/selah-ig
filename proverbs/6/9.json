@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ruo mgbe ole ka ị ga-ehi ụra, onye nzuzu? Ruo mgbe ole ka ị ga-ete n'ụra gị?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mgbe ole"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "onye nzuzu"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ị ga-ehi ụra"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mgbe ole"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ị ga-ete"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "n'ụra gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:17:54.516793345Z",
+  "model": "glm-5.3"
+}

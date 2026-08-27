@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ndị ahụ alaghịghị azụ n'aka onye na-akụ ha, ma ⟨את⟩ Yahwe nke ndị agha ha echughị.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "ma ndị ahụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "שב",
+      "gloss": "laghachi azụ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "onye na-akụ ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe nke ndị agha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha na-"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "echughị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:39:41.339000025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 6:14",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma Dawid na-agbagharị na njupụke ike n'ihu Yahwe, ma Dawid kejiri efood akwa ntụ.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ma Dawid"
+    },
+    {
+      "surface": "מכרכר",
+      "gloss": "na-agbagharị"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na njupụke"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ike"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ma Dawid"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "kejiri"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efood"
+    },
+    {
+      "surface": "בד",
+      "gloss": "akwa ntụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:32:01.869265090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 91,
+  "translation": "nke ọrịa na-eje ije n'ọchịchịrị, nke mbibi na-emebi n'etiti ehihie.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "nke ọrịa"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "n'ọchịchịrị"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "na-eje ije"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "nke mbibi"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "na-emebi"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "n'etiti ehihie"
+    }
+  ],
+  "timestamp": "2026-08-27T13:52:15.121481957Z",
+  "model": "glm-5.3"
+}

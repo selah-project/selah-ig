@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 8:17",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ìgwè atụrụ unu ka ọ ga-amị nke iri, ma unu ga-abụ ⟨ndị⟩ ohu nye ya.",
+  "tokens": [
+    {
+      "surface": "צאנכם",
+      "gloss": "ìgwè atụrụ unu"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ga-amị nke iri"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ma unu"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nye ya"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "dị ka ohu"
+    }
+  ],
+  "timestamp": "2026-08-27T09:01:29.779035461Z",
+  "model": "glm-5.3"
+}

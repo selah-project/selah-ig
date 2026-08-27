@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "N'ihi na otú a ka Yahwe kwuru: olu egwu na-atụ anyị nụrụla, ụjọ, enweghịkwa udo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otú a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "egwu na-atụ"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "anyị nụrụla"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ụjọ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "enweghịkwa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    }
+  ],
+  "timestamp": "2026-08-27T11:38:54.783193055Z",
+  "model": "glm-5.3"
+}

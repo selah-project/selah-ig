@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 86,
+  "translation": "Ekpere nke David. Tuo ntị gị, Yahwe, zaa m, n'ihi na onye ogbenye na onye na-enweghị ihe m ka dị.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Ekpere"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Tuo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ntị gị"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "zaa m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עני",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na onye na-enweghị ihe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m ka dị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:49:02.657900324Z",
+  "model": "glm-5.3"
+}

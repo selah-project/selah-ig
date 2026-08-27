@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 19:17",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "A kọrọ David, o wee chịkọta ⟨את⟩ ndị Izrel niile, gafee Osimiri Jọdan, bịa ha, wee dozie agha ha; David wee dozie agha iji zute Aram, ha wee lụọ ya ọgụ.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a kọrọ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "o wee chịkọta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Izrel niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ndị Izrel"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ọ wee gafee"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Osimiri Jọdan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ọ wee bịa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ọ wee dozie"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "megide ha"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ọ wee dozie"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "iji zute"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "agha"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ha wee lụọ ọgụ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:01:49.137412465Z",
+  "model": "glm-5.3"
+}

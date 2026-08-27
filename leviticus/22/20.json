@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ihe ọ bụla nwere ntụpọ na ya, unu emeela ka ọ rute ⟨⟨ihu⟩⟩ — unu agaghị eweta ya, n'ihi na ọ gaghị adị mmasị nye unu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ihe ọ bụla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ntụpọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghaghị ịghị"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "unu eweta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghaghị ịghị"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "mmasị"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ọ ga-adị"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nye unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:03:26.139682814Z",
+  "model": "glm-5.3"
+}

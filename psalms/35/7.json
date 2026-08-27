@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "N'ihi na n'enweghị ihe kpatara ya ha zoro olulu maka m — net ha; n'enweghị ihe kpatara ya ha gwuru maka ndụ m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "n'enweghị ihe kpatara ya"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ha zoro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "olulu"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "net ha"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "n'enweghị ihe kpatara ya"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "ha gwuru"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "maka ndụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:57.696761370Z",
+  "model": "glm-5.3"
+}

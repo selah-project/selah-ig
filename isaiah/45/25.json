@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "N'ime Yahwe ⟨ga⟩-ekwu ikpe ziri ezi mmadụ ma ṅụọ ọṅụ, mkpụrụ niile nke Yisraẹl.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "N'ime Yahwe"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "⟨ga⟩-ekwu ikpe ziri ezi"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "ma ṅụọ ọṅụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraẹl"
+    }
+  ],
+  "timestamp": "2026-08-27T10:59:13.389567073Z",
+  "model": "glm-5.3"
+}

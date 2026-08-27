@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Dịka ị maara nhụsị ụzọ nke ruach, otu ahụkwa ọkpụkpụ n'afọ nke jupụtara, otu a ka ị gaghị ama ⟨את⟩ ọrụ nke Elohim, onye na-eme ⟨את⟩ ihe niile.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ị maara nhụsị"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "na-ama"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "nke ruach"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "dịka ọkpụkpụ"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "n'afọ"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "nke jupụtara"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghaghị"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ị ga-ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ihe niile"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:58.025723306Z",
+  "model": "glm-5.3"
+}

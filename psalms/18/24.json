@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "M wee bụrụ onye zuru oku n'akụkụ ya, m wee chebe onwe m n'ajọ omume m.",
+  "tokens": [
+    {
+      "surface": "ו אהי",
+      "gloss": "m wee bụrụ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "onye zuru oku"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n'akụkụ ya"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "m wee chebe onwe m"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "n'ajọ omume m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:51.508353965Z",
+  "model": "glm-5.3"
+}

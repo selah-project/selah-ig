@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 149,
+  "translation": "Ime n'aka ha ⟨את⟩ ikpe e dere ede; ùgwù ka ọ bụ maka ndị nsọ ya niile. Tọsali Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ime"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "n'aka ha"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "e dere ede"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ùgwù"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ọ bụ⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka ... niile"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ndị nsọ ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Tọsali"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:24.434059968Z",
+  "model": "glm-5.3"
+}

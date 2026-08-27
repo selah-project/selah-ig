@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "N'ụbọchị ahụ ka m ga-ebilite ⟨את⟩ ahụ nke Debhid ndị ahụ dara, m ga-arụchakwa ⟨את⟩ mgbawa ha, mkpọmkpọ ya m ga-ebilitekwa, m ga-ewughachikwa ya dịka ụbọchị ndị oge ochie.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "m ga-ebilite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahụ nke Debhid"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Debhid"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "ndị ahụ dara"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "m ga-arụchakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgbawa ha"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "mgbawa ha"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "mkpọmkpọ ya"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "m ga-ebilitekwa"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "m ga-ewughachikwa ya"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "dịka ụbọchị ndị"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oge ochie"
+    }
+  ],
+  "timestamp": "2026-08-27T12:49:16.184325388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Kparịta atụmatụ, a ga-emebi ya; kwuo okwu, ọ gaghị eguzo; n'ihi na El dị anyị n'akụkụ.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "kparịta"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "atụmatụ"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "a ga-emebi ya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kwuo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "eguzo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "dị anyị n'akụkụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-27T10:36:03.827039171Z",
+  "model": "glm-5.3"
+}

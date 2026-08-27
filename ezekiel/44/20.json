@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Isi ha agaghị akpụkpọ nkụ ka ha kpụọ ya, ntutu na-agaghị etolite ogologo; ha ga-atụgharị na-atụgharị ⟨את⟩ isi ha.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "isi ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "kpụọ kpamkpam"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "ntutu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "etolite ogologo"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "na-atụgharị"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "ha ga-atụgharị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi ha"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "isi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:45:03.135135028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Elisha nwụrụ, ha wee lie ya. Ndị agha-ịba nke Moab na-abata n'ala mgbe afọ na-abata.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "nwụrụ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ha wee lie ya"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "ndị agha-ịba nke"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "na-abata"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "בא",
+      "gloss": "mgbe ọ na-abata"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:23:04.882185050Z",
+  "model": "glm-5.3"
+}

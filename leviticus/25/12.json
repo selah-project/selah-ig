@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "N'ihi na yovel ọ ⟨is⟩, ọ ga-adị nsọ nye unu; ihe ọ na-amị n'ubi ⟨ka⟩ unu ga-eri ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ihe dị nsọ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ọ ga-adị"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nye unu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "unu ga-eri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ọ na-amị"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ihe ọ na-amị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:06:31.048285403Z",
+  "model": "glm-5.3"
+}

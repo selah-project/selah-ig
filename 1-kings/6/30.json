@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "O wee kpuchie ⟨את⟩ ala ụlọ ahụ akwa ọlaedo, n'ime na n'elu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ala ụlọ ahụ"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nke ụlọ ahụ"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "o kpuchiri akwa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "na n'aka"
+    }
+  ],
+  "timestamp": "2026-08-27T09:53:55.816336724Z",
+  "model": "glm-5.3"
+}

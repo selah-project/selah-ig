@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Obi m gbаrа oku n'ime m; n'echiche m, ọkụ gbara ọsọ; m kwuru okwu n'olu m.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "gbara oku"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "n'ime m"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "n'echiche m"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "gbara ọsọ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "m kwuru okwu"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "n'olu m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:56.565750833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Kama ọ bụ nwute gị ga-egbu ya; aka gị ⟨ga-akasi⟩ n'ihi ya, nke mbụ, iji mee ka ọ nwụọ, ma aka nke ⟨nni⟩ mmadụ niile na-esote.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "nwute"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "ga-egbu ya"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ga-akasi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "iji mee ka ọ nwụọ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ma aka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "na-esote"
+    }
+  ],
+  "timestamp": "2026-08-27T07:59:34.638262968Z",
+  "model": "glm-5.3"
+}

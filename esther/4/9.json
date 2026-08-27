@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Hatach bịara, wee kọọrụ Ester ⟨את⟩ okwu Mordekai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "ọ bịara"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatach"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ọ kọọrọ"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "nke Mordekai"
+    }
+  ],
+  "timestamp": "2026-08-27T15:18:53.378137077Z",
+  "model": "glm-5.3"
+}

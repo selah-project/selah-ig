@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ma ⟨את⟩ nke abụọ ka ọ ga-eme dịka ọfụfụ-elu, dịka iwu siri di; ma onye-nchu-aja ga-eme mkpụrụ-obi-ọcha ya maka ntụọ-ọjọ ya nke o mehiere, a ga-gbaghara ya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nke abụọ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ga-eme"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ọfụfụ-elu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "dịka iwu siri di"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ga-eme mkpụrụ-obi-ọcha"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "maka ntụọ-ọjọ ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "o mehiere"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "a ga-gbaghara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:47:27.577861832Z",
+  "model": "glm-5.3"
+}

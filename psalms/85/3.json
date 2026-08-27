@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 85,
+  "translation": "Ị buru ⟨את⟩ njọ nke ndị gị; Ị kpuchiri mmehie ha niile. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Ị buru"
+    },
+    {
+      "surface": "עון",
+      "gloss": "njọ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndị gị"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "Ị kpuchiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "mmehie ha"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:29.476522461Z",
+  "model": "glm-5.3"
+}

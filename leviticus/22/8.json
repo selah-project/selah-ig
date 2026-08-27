@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Anụ nke nwụrụ onwe ya ma ọ bụ nke anụmanụ dọwara, ọ gaghị eri ka ọ daa n'adịghị ọcha site na ya; mụ bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "anụ nke nwụrụ onwe ya"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ma ọ bụ nke a dọwara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eri"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "ka ọ daa n'adịghị ọcha"
+    },
+    {
+      "surface": "בה",
+      "gloss": "site na ya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:01:07.970346034Z",
+  "model": "glm-5.3"
+}

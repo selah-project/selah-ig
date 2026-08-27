@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma ⟨את⟩ abụba ahụ na ⟨את⟩ akpa nche ahụ na ⟨את⟩ ntụpọ nke imeju ahụ, site n'ọrụ mmehie ahụ, ka ọ gbarụrụ ọkụ n'elu nkedo ahụ, dịka Yahwe si nyere Moshe iwu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abụba ahụ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "abụba ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akpa nche ahụ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "akpa nche ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntụpọ nke imeju"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ntụpọ ahụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "imeju ahụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ọrụ mmehie ahụ"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "ka ọ gbarụrụ ọkụ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "nkedo ahụ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "si nyere iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:50:23.431899397Z",
+  "model": "glm-5.3"
+}

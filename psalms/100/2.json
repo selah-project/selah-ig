@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 100,
+  "translation": "Jere ozi Yahwe n'Ọṅụ; bata n'ihu Ya n'abụ Ọṅụ.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Jere ozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "n'Ọṅụ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bata"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu Ya"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "n'abụ Ọṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:38.353862633Z",
+  "model": "glm-5.3"
+}

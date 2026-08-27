@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 20:8",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ma n'akụkụ nke ọzọ nke Yarden, n'ihu Yeriko, n'ebe ọwụwa anyanwụ, ha nyere ⟨את⟩ Betser n'ọzara, n'ala dị larịị, site n'aka ebo Reuven; ⟨את⟩ Ramot na Gilad, site n'aka ebo Gad; na ⟨את⟩ Golan na Bashan, site n'aka ebo Menashe.",
+  "tokens": [
+    {
+      "surface": "ומעבר",
+      "gloss": "ma n'akụkụ nke ọzọ"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "nke Yarden"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriko"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "n'ebe ọwụwa anyanwụ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ha nyere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "n'ala dị larịị"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "site n'aka ebo"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ramot"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "na Gilad"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "site n'aka ebo"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Golan"
+    },
+    {
+      "surface": "גלון",
+      "gloss": "Golan"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "na Bashan"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "site n'aka ebo"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    }
+  ],
+  "timestamp": "2026-08-27T08:37:20.493911179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Eze Shelomoh zipụrụ, were ⟨את⟩ Hirạm na Tzor.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "zipụrụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨the⟩ eze"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hirạm"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hirạm"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "na Tzor"
+    }
+  ],
+  "timestamp": "2026-08-27T09:56:08.153133701Z",
+  "model": "glm-5.3"
+}

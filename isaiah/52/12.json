@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 52:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 52,
+  "translation": "N'ihi na ọ bụghị n'ọsịsọ ọsịga ka unu ga-apụ, ma ọ bụghịkwa n'ịgbapụ ka unu ga-eje, n'ihi na Onye na-aga n'ihu unu bụ Yahwe, na Onye na-echikota unu bụ Elohim nke Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "n'ọsịsọ ọsịga"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "unu ga-apụ"
+    },
+    {
+      "surface": "ובמנוסה",
+      "gloss": "ma n'ịgbapụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghịkwa"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "unu ga-eje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "Onye na-aga"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "n'ihu unu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומאספכם",
+      "gloss": "na Onye na-echikota unu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T11:04:28.595837140Z",
+  "model": "glm-5.3"
+}

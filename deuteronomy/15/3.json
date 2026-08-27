@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "⟨את⟩ onye mba ọzọ ka ị nwere ike ịchọ ụgwọ ya; mana ihe dị gị ⟨את⟩ na nwanne gị, aka gị ga-ahapụ ya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye mba ọzọ"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "onye mba ọzọ"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "ị nwere ike ịchọ ụgwọ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mana ihe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ na"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "aka gị ga-ahapụ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:02:21.123863229Z",
+  "model": "glm-5.3"
+}

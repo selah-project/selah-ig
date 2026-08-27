@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Mgbe ihe ọma na-abawanye, ndị na-eri ha na-abawanye; kedu uru dị maka ndị nwe ha, ma e wezụga ⟨ihe⟩ anya ya na-ahụ?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "mgbe ... na-abawanye"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "na-abawanye"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "ndị na-eri ha"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kedu"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "uru"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "maka ndị nwe ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "e wezụga"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ihe a na-ahụ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "anya ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:15:52.823424766Z",
+  "model": "glm-5.3"
+}

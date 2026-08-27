@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma ị ga-ede ha n'akụkụ ọnụ ụzọ ụlọ gị, na n'ọnụ ụzọ ámá gị.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ma ị ga-ede ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ụlọ gị"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "na n'ọnụ ụzọ ámá gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:53:18.282904876Z",
+  "model": "glm-5.3"
+}

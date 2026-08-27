@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "N'ihi na le, Adonai, Yahwe Tsevaot, na-ewepụ site na Yerushalayim na site na Yehuda nkwado na nkwado — nkwado niile nke achịcha, na nkwado niile nke mmiri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "na-ewepụ"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "site na Yerushalayim"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "na site na Yehuda"
+    },
+    {
+      "surface": "משען",
+      "gloss": "nkwado"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "na nkwado"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "משען",
+      "gloss": "nkwado"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "achịcha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "משען",
+      "gloss": "nkwado"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T10:32:24.514675138Z",
+  "model": "glm-5.3"
+}

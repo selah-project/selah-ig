@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 83,
+  "translation": "Mee ha ka ⟨את⟩ Midyan; ka Sisra, ka Yavin, n'osimiri Kishon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Mee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "ka ⟨את⟩ Midyan"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "ka Sisra"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "ka Yavin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "n'osimiri"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:53.099779019Z",
+  "model": "glm-5.3"
+}

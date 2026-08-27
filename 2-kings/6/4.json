@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ọ wee gaa ⟨את⟩ ha, ha wee bịa na Yordenn, ha wee bepụ osisi ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ọ wee gaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha wee bịa"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "na Yordenn"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "ha wee bepụ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "osisi ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:15:40.601381766Z",
+  "model": "glm-5.3"
+}

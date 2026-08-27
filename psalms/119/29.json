@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ụzọ ụgha wepụ n'ebe m nọ, ma site na Torah gị meere m ebere.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "wepụ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "n'ebe m nọ"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ma site na Torah gị"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "meere m ebere"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:59.192962049Z",
+  "model": "glm-5.3"
+}

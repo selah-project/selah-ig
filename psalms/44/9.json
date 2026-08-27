@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Na Elohim ka anyị gosiri ọṅụ ụbọchị niile, ma aha gị ka anyị ga-eto ruo ⟨n'⟩ebighị ebi. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Na Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "ka anyị gosiri ọṅụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "ma aha gị"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo ebighị ebi"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "ka anyị ga-eto"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:56.980318159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma m gwara unu okwu, unu anaghị ege ntị; kama unu jụrụ okwu ndị Yahwe, were hụ onwe unu dị ka ndị nwere obi ike, wee rigo n'ugwu ahụ.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Ma m gwara okwu"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ege ntị"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "jụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "okwu ndị (ọn)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "hụrụ onwe unu dị ka ndị nwere obi ike"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "wego, rigo"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "n'ugwu ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:29:25.799789390Z",
+  "model": "glm-5.3"
+}

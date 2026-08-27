@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 20:22",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ya mere, jide ⟨את⟩ iwu m niile na ⟨את⟩ ikpe m niile, meekwa ha; ka ala ahụ e m ọ na-ebufe gị ka nsi ghara imi gị pụọ — ala nke m na-eduzi gị ka ọ bụrụ ebe obibi gị n'ime ya.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "jide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu m niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikpe m niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ikpe m"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "meekwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "iwu na ikpe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "imi pụọ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ gị (dị ka ihe a na-imi pụọ)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "na-eduzi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ gị"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ka ọ bụrụ ebe ahụ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ebe obibi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "n'ime ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:03:31.618414865Z",
+  "model": "glm-5.3"
+}

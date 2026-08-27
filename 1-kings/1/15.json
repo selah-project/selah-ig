@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Nke ahụ mekwara, Bat-Sheba banyere nye eze n'ime ụlọ-ihi-ụra ya; eze ahụ bụkwa okenye nke ukwuu, Abishag onye Shunem na-ejekwa ozi ⟨את⟩ eze ahụ.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa-nwaanyị"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "n'ime ụlọ-ihi-ụra ya"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "eze ahụ bụkwa"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "okenye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "Abishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "onye Shunem"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "na-ejekwa ozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eze ahụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:49:14.532129804Z",
+  "model": "glm-5.3"
+}

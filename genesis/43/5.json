@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Ma ọ bụrụ na ị zipụghị ya, anyị agaghị adaba, n'ihi na ⟨nwoke ahụ⟩ gwara anyị, sị, 'Anyị agaghị ahụ ọnụ ya ma ọ bụrụ na nwanne unu anọghị ⟨כ net_na anyị⟩.'",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ị zipụghị"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ị zipụghị ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "adaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨nwoke ahụ⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ọnụ ya"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ma ọ bụrụ na ọ bụghị"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "nwanne unu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:00:34.323925827Z",
+  "model": "glm-5.3"
+}

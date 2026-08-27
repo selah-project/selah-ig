@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ma ndị a bụ ụmụ Oholivamah, nwa nwanyị Anah, nwa nwanyị Tzivon, nwunye Esav; ọ mụrụ Esav ⟨את⟩ Yeish, ⟨את⟩ Yaalam na ⟨את⟩ Korach.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ma ndị a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholivamah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tzivon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ọ mụrụ"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yaalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-27T05:51:53.324994663Z",
+  "model": "glm-5.3"
+}

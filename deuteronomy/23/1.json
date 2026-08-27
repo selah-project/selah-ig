@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Nwoke agaghị were ⟨את⟩ nwunye nna ya, ma gaghị ekpughe ụkwụ nna ya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwunye nna ya"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma gaghị"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ekpughe"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ụkwụ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:09:28.146062729Z",
+  "model": "glm-5.3"
+}

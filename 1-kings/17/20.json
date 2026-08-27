@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ọ kpọrọ Yahwe oku, wee sị: Yahwe, Elohim m, Ọ mere ihe ọjọọ dike nke nwanyị di ya nwụrụ m na ya na-ebikọ, igbu ⟨את⟩ nwa ya?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ọ kpọrọ oku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ọ mere"
+    },
+    {
+      "surface": "על",
+      "gloss": "ike"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "nke nwanyị di ya nwụrụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "na-ebikọ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ihe ọjọọ dike"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "igbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nwa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:05:39.410118796Z",
+  "model": "glm-5.3"
+}

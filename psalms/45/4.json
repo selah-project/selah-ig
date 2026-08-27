@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Kee mma-agha gị n'ụkwụ gị, Onye ike; ọdịmma gị na ugwu gị.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "kee"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "mma-agha gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ụkwụ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Onye ike"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ọdịmma gị"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "na ugwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:42.967284254Z",
+  "model": "glm-5.3"
+}

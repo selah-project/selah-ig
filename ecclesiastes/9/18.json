@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ịma-isi ka mma karịa ngwá agha agha; ma otu onye na-emehie na-ebibi ọmmá ọtụtụ.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ka mma"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ịma-isi"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "karịa ngwá"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "agha agha"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "ma onye na-emehie"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "na-ebibi"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ọmmá"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ọtụtụ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:15:00.411452479Z",
+  "model": "glm-5.3"
+}

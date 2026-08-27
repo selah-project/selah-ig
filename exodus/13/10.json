@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Gịnị ka ị ga-echere ⟨את⟩ iwu a n'oge ya kara, site n'ụbọchị ruo n'ụbọchị.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ị ga-echere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu a"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "iwu a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "n'oge ya kara"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "site n'ụbọchị"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "ruo n'ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:15:32.279131006Z",
+  "model": "glm-5.3"
+}

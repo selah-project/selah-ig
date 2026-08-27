@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Ọ kụrụ ala n'ala gbagọrọ agbagọ, Ị gbajapụla ya; gwọọ mgbajakụ ya, n'ihi na ọ na-agbaji agbaji.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Ị kụrụ ala n'ala"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "Ị gbajapụla ya"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "gwọọ"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "mgbajakụ ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ọ na-agbaji agbaji"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:33.967689937Z",
+  "model": "glm-5.3"
+}

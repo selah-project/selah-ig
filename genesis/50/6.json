@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 50,
+  "translation": "Paro wee sị, Rigọ, lie ⟨את⟩ nna gị, dịka o mere gị ṅụli iyi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Rigọ"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "lie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nna gị"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "o mere gị ṅụli iyi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:30.776277478Z",
+  "model": "glm-5.3"
+}

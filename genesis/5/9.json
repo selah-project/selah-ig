@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Enosh biri ndụ afọ iri itoolu, ma mụọ ⟨את⟩ Kenan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "biri ndụ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "iri itoolu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ma mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:14.859438936Z",
+  "model": "glm-5.3"
+}

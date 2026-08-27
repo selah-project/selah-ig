@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Gi, naanị Gi ka m mehiere, ma mee ihe ọjọ n'anya Gị, ka Ị wee bụrụ onye ziri ezi n'okwu Gị, onye dị ọcha n'ikpe Gị.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Gi"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "naanị Gi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "m mehiere"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "ma mee ihe ọjọ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "n'anya Gị"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "m mere"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka Ị wee"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "bụrụ onye ziri ezi"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "n'okwu Gị"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "dị ọcha"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "n'ikpe Gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:03.453152438Z",
+  "model": "glm-5.3"
+}

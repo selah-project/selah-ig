@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ma mụ onwe m, n'aka gị ka m dabere, Yahwe; m kwuru, sị: Elohim m, Ị ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma mụ onwe m"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "n'aka gị"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ka m dabere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "m kwuru, sị"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ị ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:16.991410935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 31:6",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Moshe zitere ⟨אתם⟩ — otu puku maka ime obodo ọ bụla — maka agha: ⟨אתם⟩ na ⟨את⟩ Phinchas nwa Elazar onye nchuaja, maka agha; na ngwa ⟨the⟩ nsọ na ụgbọ ndị mkpu Ọ na aka ya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ọ zitere"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ha (ndị agha ahụ)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "otu puku"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "maka ime obodo ọ bụla"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "maka agha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Phinchas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Phinchas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchuaja"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "maka agha"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "na ngwa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "וחצצרות",
+      "gloss": "na ụgbọ ndị"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "mkpu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "n'aka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:43:24.885785757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Ọ nyere⟨gị⟩ ndị na-atọ Ya ụfọdọ ọkọlọtọ, ka e were gbaa ya elu ⟨n'ihi⟩ ezi okwu. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Ọ nyere"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ndị na-atọ Ya ụfọdọ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ọkọlọtọ"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "ka e were gbaa ya elu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨n'ihi⟩"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "ezi okwu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:49.508133381Z",
+  "model": "glm-5.3"
+}

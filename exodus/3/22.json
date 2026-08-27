@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Nwanyị ga-ajụ onye bi n'ụlọ ya na onye ọbịa n'ụlọ ya arịa ọlaọcha na arịa ọlaedo na uwe; ụnụ ga-etinye ha n'ụmụ nwoke ụnụ na n'ụmụ nwaanyị ụnụ, ụnụ ga-ewepụkwa ⟨את⟩ Mitzrajim.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "ga-ajụ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nwanyị"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "onye bi n'ụlọ ya"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "na onye ọbịa"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "n'ụlọ ya"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "arịa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọlaọcha"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "na arịa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "na uwe"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ụnụ ga-etinye"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ụmụ nwoke ụnụ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na n'elu"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ụmụ nwaanyị ụnụ"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "ụnụ ga-ewepụkwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitzrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrajim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:59.835545897Z",
+  "model": "glm-5.3"
+}

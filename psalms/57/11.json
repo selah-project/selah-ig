@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 57,
+  "translation": "N'ihi na ịhụnanya ọgbụgba-ndụ gị buru ibu ruo eluigwe, na eziokwu gị ruo mmiri igwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "buru ibu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ịhụnanya ọgbụgba-ndụ gị"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na ruo"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mmiri igwe"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "eziokwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:35.207098640Z",
+  "model": "glm-5.3"
+}

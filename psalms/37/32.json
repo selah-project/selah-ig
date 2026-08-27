@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Onye ajọ omume na-elebara onye ezi omume anya, na-achọ igbu ya.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "na-elebara anya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ajọ omume"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "onye ezi omume"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "igbu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:29.734795936Z",
+  "model": "glm-5.3"
+}

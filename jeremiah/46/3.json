@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Hazie ⟨את⟩ ọta nke ukwuu na ⟨את⟩ ọta nke aka, wee bịaruo n'agha.",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "Hazie"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ọta nke aka",
+      "marks": "ọta"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "ọta nke ukwuu"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "bịaruo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "n'agha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:48:02.630531176Z",
+  "model": "glm-5.3"
+}

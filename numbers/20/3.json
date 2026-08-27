@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ndị ahụ gbagọrọ agbagọ ya na Moshe, ha kwukwara, sị: O, anyị akwadoghi, anyị na-akwụsị ume ka ụmụnne anyị nwụrụ n'ihu Yahwe!",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "gbagọrọ agbagọ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ha kwukwara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "O"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "anyị akwadoghi \/ anyị nwụọ"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "ka ... nwụrụ"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ụmụnne anyị"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:31:53.149024407Z",
+  "model": "glm-5.3"
+}

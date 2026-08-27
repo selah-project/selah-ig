@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ndị a ⟨bụ⟩ aha ụmụ Aharon, ndị nchụàjà e-tere-mmanụ, ndị e jupụtara aka ha ka ha na-achụ àjà.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ndị nchụàjà"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "e-tere-mmanụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "jupụtara"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "aka ha"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ka ha na-achụ àjà"
+    }
+  ],
+  "timestamp": "2026-08-27T07:13:34.687900316Z",
+  "model": "glm-5.3"
+}

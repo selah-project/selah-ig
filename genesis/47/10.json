@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "Yaakov wee gọzie ⟨את⟩ Paroa, ma pụọ n'ihu Paroa.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ọ wee gọzie"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ọ wee pụọ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:24:46.162104115Z",
+  "model": "glm-5.3"
+}

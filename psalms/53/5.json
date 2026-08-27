@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 53,
+  "translation": "Ọ̀ maghị na ndị na-eme ọjọọ? Ndị na-eri ndị m riri achịcha; Elohim ha ekpọghị.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ọ̀ na-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "maghị"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ndị na-eme"
+    },
+    {
+      "surface": "און",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ndị na-eri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "riri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "achịcha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ekpọghị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:28.515831612Z",
+  "model": "glm-5.3"
+}

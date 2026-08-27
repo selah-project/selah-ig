@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 116,
+  "translation": "Ụdọ nke ọnwụ gbara m gburu, mbọ nke Sheol chọtara m; nsogbu na mwute ka m chọtara.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "gbara m gburu"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "ụdọ nke"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ọnwụ"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "mbọ nke"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "chọtara m"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nsogbu"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "na mwute"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "m chọtara"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:16.325076626Z",
+  "model": "glm-5.3"
+}

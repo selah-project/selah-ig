@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Ma Moshe nyere ha iwu ka ⟨את⟩ Elazar onye nchuaja, na ⟨את⟩ Yehoshua nwa Nuun, na ⟨את⟩ ndị isi nna nke ndị ukwu, maka ụmụ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ma ... nyere iwu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchuaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nuun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị isi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "nna"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "nke ndị ukwu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "maka ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T07:42:48.200768567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "kama ị ga-aga n'ala m na n'ebe a mụrụ m, were nwunye nye nwa m, bụ Yitschak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ala m"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na n'ebe"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "a mụrụ m"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ga-aga"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "were"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "nye nwa m"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "bụ Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-27T05:37:35.814800802Z",
+  "model": "glm-5.3"
+}

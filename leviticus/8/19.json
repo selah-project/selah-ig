@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma e gburu ya, ma Moshe fakwaara ⟨את⟩ ọbara ahụ n'elu ebe-ịchụ-aja ahụ gburu gburu.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "e gburu ya"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ọ fakwaara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọbara ahụ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ọbara ahụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe-ịchụ-aja ahụ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburu gburu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:50:31.662396680Z",
+  "model": "glm-5.3"
+}

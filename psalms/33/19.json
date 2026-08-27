@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Maka idọta ha n'ọnwụ site na mkpụrụ obi ha, na maka idobe ha ndụ n'agụụ.",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "maka idọta ha n'ọnwụ"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "site na ọnwụ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mkpụrụ obi ha"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "na maka idobe ha ndụ"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "n'agụụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:14.388080920Z",
+  "model": "glm-5.3"
+}

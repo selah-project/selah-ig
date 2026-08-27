@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Mmụọ Mitsraim ga-ehulata n'ime ya, atụmatụ ya m ga-eri; ha ga-ajụ ⟨the⟩ chi ndị ahụ, na ndị na-agba aja, na mmụọ ndị nwụrụ anwụ, na ndị na-amụ amụ.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "ga-ehulata"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mmụọ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "atụmatụ ya"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "m ga-eri"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ha ga-ajụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "chi ndị ahụ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na n'aka"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "ndị na-agba aja"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na n'aka"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "mmụọ ndị nwụrụ anwụ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na n'aka"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "ndị na-amụ amụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:44:22.452865736Z",
+  "model": "glm-5.3"
+}

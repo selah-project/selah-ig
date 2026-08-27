@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ya na ọ ga-agwa gị okwu nye ⟨the⟩ ndị ahụ; ọ ga-adịkwa, ọ bụ ya ga-abụ ọnụ gị, gịkwa ga-abụ ya Elohim.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "ọ ga-agwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ọ⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-adịkwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ọ⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "dịka ọnụ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ma gịkwa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "dịka Elohim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:08:41.878294900Z",
+  "model": "glm-5.3"
+}

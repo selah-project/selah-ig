@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Mmụọ nke Yahwe ga-ejupụta n'elu gị, ị ga-amụ amụ ha, ị ga-atụgharị ka mmadụ ọzọ.",
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "ga-ejupụta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "n'elu gị"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mmụọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "ị ga-amụ amụ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "ị ga-atụgharị"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ka mmadụ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:06:20.586188267Z",
+  "model": "glm-5.3"
+}

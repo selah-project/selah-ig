@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ndị na-arụ ọrụ na flax a haziri ahazie ga-ajụ onwe ya, yana ndị na-akwa akwa linin acha ọcha.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "ga-ajụ onwe ya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ndị na-arụ ọrụ"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "flax"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "a haziri ahazie"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "yana ndị na-akwa akwa"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "acha ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:42:41.031478121Z",
+  "model": "glm-5.3"
+}

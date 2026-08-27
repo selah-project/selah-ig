@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Mgbe ahụ, ha kwere okwu ya n'okwu, wee bụrụ abụ otuto ya.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "ha kwere"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "okwu ya n'okwu"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "wee bụrụ abụ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "otuto ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.888579221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ha agaghị eme ọnwụ ntụ isi n'isi ha, akụkụ nke agbá ha ha agaghị akpụcha, ma n'anụ ha ha agaghị egbu mma obuburu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "eme ka ọ nwụọ ntụ"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "ọnwụ ntụ isi"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "n'isi ha"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "akụkụ"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "agbá ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "kpụcha"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "ma n'anụ ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "egbu mma"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "obuburu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:27:08.533840756Z",
+  "model": "glm-5.3"
+}

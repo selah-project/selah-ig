@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ọ tinyere n'ọnụ m abụ ọhụrụ, otuto nye Elohim anyị; ọtụtụ ga-ahụ, ga-atụ egwu, ma tinyekwa ntụkwasị obi ha na Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ọ tinyere"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "n'ọnụ m"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ọhụrụ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "otuto"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "nye Elohim anyị"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ga-ahụ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ọtụtụ"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ga-atụ egwu"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "ga-etinye ntụkwasị obi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:13.735179983Z",
+  "model": "glm-5.3"
+}

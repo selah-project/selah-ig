@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 15:10",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Inye ka ị ga-enye ya, ma obi gị ghara ịda mbà n'inye gị ya; n'ihi na n'ihi okwu a ka Yahwe Elohim gị ga-agọzie gị n'ihe niile ị na-eme, na n'ihe niile aka gị na-etinye.",
+  "tokens": [
+    {
+      "surface": "נתון",
+      "gloss": "Inye ka"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ga-enye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "ghara ịda mbà"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "obi gị"
+    },
+    {
+      "surface": "בתתך",
+      "gloss": "n'inye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gị ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "ga-agọzie gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ihe niile"
+    },
+    {
+      "surface": "מעשך",
+      "gloss": "ị na-eme"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na n'ihe niile"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "na-etinye"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:02:09.239501967Z",
+  "model": "glm-5.3"
+}

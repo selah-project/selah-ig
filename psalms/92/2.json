@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 92,
+  "translation": "Ọ dị mma ịja Yahwe mma, na ịbụ abụ ekele maka aha gị, Elyon.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ịja mma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "na ịbụ abụ ekele"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "maka aha gị"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:04.632470346Z",
+  "model": "glm-5.3"
+}

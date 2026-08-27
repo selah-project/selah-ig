@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 28:32",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Oghere nke isi ya ga-adị n'etiti ya; a ga-enwe nsọtụ aja gbara oghere ya gburugburu, ọrụ nke onye na-akwa ákwà; dịka oghere nke uwe ọta ka ọ ga-adị; ọ gaghị akụrisị.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "פי",
+      "gloss": "oghere"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "nke isi ya"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "n'etiti ya"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "nsọtụ aja"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a ga-enwe"
+    },
+    {
+      "surface": "לפיו",
+      "gloss": "oghere ya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "onye na-akwa ákwà"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dịka oghere"
+    },
+    {
+      "surface": "תחרא",
+      "gloss": "uwe ọta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ọ ga-adị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "יקרע",
+      "gloss": "akụrisị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:33:40.406706474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Yahwe, Elohim unu, emeela ka unu bụrụ ọtụtụ, ma le, unu taa dị ka kpakpando nke eluigwe n'ọtụtụ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "emeela ka ọtụtụ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "ma le unu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "dị ka kpakpando"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nke eluigwe"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "n'ọtụtụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:48:44.184864231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "Elohim na-achị mba ndị ahụ; Elohim nọdụrụ n'ocheeze nsọ ya.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "na-achị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "elu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba ndị ahụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nọdụrụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ocheeze"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nsọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:20.401410095Z",
+  "model": "glm-5.3"
+}

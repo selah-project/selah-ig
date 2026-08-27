@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 64,
+  "translation": "ZOo m zọọ pụọ na nzuzo nke ndị ọjọ, pụọ na mkpọkọta nke ndị na-eme ihe rụrụ arụ.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "zoo m"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "pụọ na nzuzo"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "nke ndị ọjọ"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "pụọ na mkpọkọta"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "nke ndị na-eme"
+    },
+    {
+      "surface": "און",
+      "gloss": "ihe rụrụ arụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:42.118260039Z",
+  "model": "glm-5.3"
+}

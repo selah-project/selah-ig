@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ị gaghị ahụ ⟨את⟩ ehi nke nwanne gị maọbụ ⟨את⟩ atụrụ ya ndị a chụpụrụ, ma zọọ onwe gị ha; ị ga-eweghachite ha n'ezie ka nwanne gị.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ị ga-ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ehi"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nke nwanne gị"
+    },
+    {
+      "surface": "או",
+      "gloss": "maọbụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atụrụ ya"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "atụrụ ya"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "ndị a chụpụrụ"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "ma zọọ onwe gị"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ị ga-eweghachite"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "eweghachite ha n'ezie"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ka nwanne gị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:06:48.448823032Z",
+  "model": "glm-5.3"
+}

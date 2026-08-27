@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Mgbe ya gachara, Elon onye Zevulun ikpe ⟨את⟩ Israel; o ikpekwa ⟨את⟩ Israel afọ iri.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "o ikpe"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mgbe ya gachara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "onye Zevulun"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "o ikpekwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "afọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:50:10.146404177Z",
+  "model": "glm-5.3"
+}

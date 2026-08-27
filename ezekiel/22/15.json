@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "M ga-ekesa ⟨את⟩ gị n'etiti mba ndị, m ga-ekụsasịkwa gị n'ala ndị, m ga-ewepụkwa unyi gị n'aka gị.",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "m ga-ekesa"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "n'etiti mba ndị"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "m ga-ekụsasịkwa gị"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "n'ala ndị"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "m ga-ewepụkwa"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "unyi gị"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "n'aka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:14:31.409052617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 14:7",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ma onye nke na-ebu ngwa agha-ya sịrị ya, me ihe niile dị n'obi gị; tụgharịa gaa; lee, m dị gị nso dịka obi gị si dị.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ma o sịrị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "onye na-ebu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ngwa agha-ya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị dị"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "n'obi gị"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "tụgharịa gaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lee, m dị"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "gị nso"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "dịka obi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:08:09.680556612Z",
+  "model": "glm-5.3"
+}

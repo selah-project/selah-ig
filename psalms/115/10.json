@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 115,
+  "translation": "Ụlụ Aharon, tinye ntụkwasị obi unu na Yahwe; enyemaka ha na ọta ha bụ ⟨ya⟩.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Ụlụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "tinye ntụkwasị obi unu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "enyemaka ha"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "na ọta ha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:23.489555977Z",
+  "model": "glm-5.3"
+}

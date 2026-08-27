@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ọ bụrụ na iwere uwe nke agbata obi gị dị ka ịgba, ruo mgbe anyanwụ na-ada, ga-eweghachitere ya nye ya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ọ bụrụ na"
+    },
+    {
+      "surface": "חבול",
+      "gloss": "ịgba"
+    },
+    {
+      "surface": "תחבול",
+      "gloss": "ga-iwere dị ka ịgba"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "nke agbata obi gị"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "na-ada"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "anyanwụ"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "ga-eweghachitere ya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nye ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:16.789302286Z",
+  "model": "glm-5.3"
+}

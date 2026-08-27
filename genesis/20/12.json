@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Ma n'ezie ọ bụkwa nwanne m nwanyị, nwa nna m ⟨ọ bụ⟩ mana ọ bụghị nwa nne m; ọ wee bụrụ nwunye m.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ma ọzọkwa"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "nwanne m nwanyị"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna m"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nne m"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ọ wee bụrụ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dịka nwunye"
+    }
+  ],
+  "timestamp": "2026-08-27T05:37:20.459517315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Eze ahụ si na Dammesek bịarute, wee hụ ⟨את⟩ ebe ịchụàjà ahụ, Eze wee bịakwuo n'ebe ịchụàjà ahụ, wee chụọ àjà n'elu ya.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bịarute"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "si Dammesek"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "hụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe ịchụàjà"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "bịakwuo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Eze"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "chụọ àjà"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:25:54.242567709Z",
+  "model": "glm-5.3"
+}

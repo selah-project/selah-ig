@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Na Gat, ekwula ya; bee ákwá, ebela ákwá; na Beth-le-Aphrah, m gbanyere onwe m n'ájá.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "na Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekwula"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "bee ákwá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ebela"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "ákwá"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na Beth-"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "le-Aphrah"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ájá"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "m gbanyere onwe m"
+    }
+  ],
+  "timestamp": "2026-08-27T12:52:51.857491474Z",
+  "model": "glm-5.3"
+}

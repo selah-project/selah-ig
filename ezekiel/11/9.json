@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "M ga-ewepụ unu n'etiti ya, m ga-enyekwa unu n'aka ndị ọzọ, m ga-emekwa ikpe n'ime unu.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "m ga-ewepụ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "n'etiti ya"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "m ga-enye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "n'aka ndị ọzọ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ndị ọzọ"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "m ga-eme"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "n'ime unu"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ikpe"
+    }
+  ],
+  "timestamp": "2026-08-27T12:02:28.716540373Z",
+  "model": "glm-5.3"
+}

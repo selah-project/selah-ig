@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Mitushelah dịrị ndụ afọ iri asatọ na asaa na afọ narị, ma mụọ ⟨את⟩ Lemek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dịrị ndụ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Mitushelah"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "na iri asatọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na narị"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ma mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemek"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    }
+  ],
+  "timestamp": "2026-08-27T05:27:29.019329938Z",
+  "model": "glm-5.3"
+}

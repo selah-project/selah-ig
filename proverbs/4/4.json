@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 4:4",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọ kụziiri m, wee sị m, ka obi gị jide okwu m; chekwaa iwu m, ka i na-ebi ndụ.",
+  "tokens": [
+    {
+      "surface": "וירני",
+      "gloss": "Ọ kụziiri m"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị m"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "ka... jide"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu m"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "obi gị"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "chekwaa"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ka i na-ebi ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:14:09.742155941Z",
+  "model": "glm-5.3"
+}

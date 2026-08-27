@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ọ ga-abata n'alaeze nke eze ndịda, ma laghachi n'ala ya n'onwe ya.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ọ ga-abata"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "n'alaeze"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ndịda"
+    },
+    {
+      "surface": "וישב\/ושב",
+      "gloss": "ma laghachi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ala ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:32:43.972190023Z",
+  "model": "glm-5.3"
+}

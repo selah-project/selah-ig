@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 116,
+  "translation": "N'ihi na Ị wepụla ⟨את⟩ mkpụrụ obi m n'ọnwụ, ⟨את⟩ anya m n'anya mmiri, ⟨את⟩ ụkwụ m n'ọdịda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "Ị wepụla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "n'ọnwụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anya m"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "מן",
+      "gloss": "n'"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "anya mmiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụkwụ m"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ụkwụ m"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "n'ọdịda"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:59.409417314Z",
+  "model": "glm-5.3"
+}

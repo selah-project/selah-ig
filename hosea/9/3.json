@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ha agaghị ebi n'ala Yahwe; kama Efrayim ga-alaghachị na Mitsrayim, ma na Ashur ha ga-eri ihe rụrụ arụ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ebi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ga-alaghachị"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "ma na Ashur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ihe rụrụ arụ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ga-eri"
+    }
+  ],
+  "timestamp": "2026-08-27T12:42:09.967186511Z",
+  "model": "glm-5.3"
+}

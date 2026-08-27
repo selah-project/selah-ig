@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 14:1",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ndị a bụ ihe ụmụ Yisrael ketara n'ala Kenaan, nke Elazar onye nchụàjà, na Yehoshua nwa Nun, na ndị isi nna nke agbụrụ ụmụ Yisrael nyere ha ka ha ketara.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ma ndị a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "ketara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "nyere ha ka ha ketara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "na Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "na ndị isi"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "nna"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "agbụrụ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T08:29:56.849162675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "ma ⟨את⟩ mkpanaka ndị ahụ o mere, ma ⟨את⟩ efere mmiri ndị ahụ o mere n'elu mkpanaka ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mkpanaka ndị ahụ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mkpanaka ndị ahụ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "efere mmiri ndị ahụ"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "efere mmiri ndị ahụ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mkpanaka ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:08:15.299797895Z",
+  "model": "glm-5.3"
+}

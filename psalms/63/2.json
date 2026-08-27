@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 63,
+  "translation": "Elohim, El nke m ka ị bụ; mgbe ụtụtụ ka m na-achọ gị; mkpọrọ ndụ m gbachitere mmiri gị; anụ ahụ m na-achọsi gị ike, n'ala kpọrọ nkụ ma na-agwụ ike, na-enweghị mmiri.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El nke m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka ị bụ"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "mgbe ụtụtụ ka m na-achọ gị"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "gbachitere mmiri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpọrọ ndụ m"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "na-achọsi ike"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "anụ ahụ m"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "kpọrọ nkụ"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "ma na-agwụ ike"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "na-enweghị"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:33.750667743Z",
+  "model": "glm-5.3"
+}

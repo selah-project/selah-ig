@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Lavan wee sị: Ọ dị mma ka m nyefee ⟨את⟩ ya nye gị karịa ka m nyefee ⟨את⟩ ya nye nwoke ọzọ; nọrọ mgbakọ m.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Ọ dị mma"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "ka m nyefee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nye gị"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "karịa ka m nyefee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nye nwoke"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "nọrọ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mgbakọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T05:43:39.293662552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 148,
+  "translation": "Ndị ikom na-eto eto, ọ na-amaghị nwoke; ndị agadi, ya na ụmụntakịrị,",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "ndị ikom na-eto eto"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ọ na-"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "amaghị nwoke"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ndị agadi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ụmụntakịrị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:03.767847132Z",
+  "model": "glm-5.3"
+}

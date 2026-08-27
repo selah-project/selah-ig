@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "anya maka anya, ezé maka ezé, aka maka aka, ụkwụ maka ụkwụ,",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "anya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "maka"
+    },
+    {
+      "surface": "עין",
+      "gloss": "anya"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ezé"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "maka"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ezé"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "maka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ụkwụ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "maka"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ụkwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:32.177508399Z",
+  "model": "glm-5.3"
+}

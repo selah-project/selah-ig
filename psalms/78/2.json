@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "M ga meghere ọnụ m n'okwu ilu; m ga ọsọsa kwupụta ihe zoro ezo oge ochie.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "m ga meghere"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "n'okwu ilu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ m"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "m ga ọsọsa kwupụta"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "ihe zoro ezo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "oge"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ochie"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:34.071767685Z",
+  "model": "glm-5.3"
+}

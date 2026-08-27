@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Unu ga-echebe ⟨את⟩ nchebe nke ebe nsọ, na ⟨את⟩ nchebe nke ebe ịchụàjà, wee ghara inwe iwe ọzọ n'ụmụ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "unu ga-echebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nchebe nke ebe nsọ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "nchebe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nke ebe nsọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nchebe nke ebe ịchụàjà"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "nchebe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "nke ebe ịchụàjà"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ ghara"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "inwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T16:28:37.856609016Z",
+  "model": "glm-5.3"
+}

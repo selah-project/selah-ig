@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ndị Mitzrayim ga-mara na m bụ Yahwe, mgbe m na-ewere nsọpụrụ site na Paroh, n'ụgbọ ịnya ya na ndị agha ịnyịnya ya.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ga-mara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ndị Mitzrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "mgbe m na-ewere nsọpụrụ"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "site na Paroh"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "n'ụgbọ ịnya ya"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "na ndị agha ịnyịnya ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:17:00.354269017Z",
+  "model": "glm-5.3"
+}

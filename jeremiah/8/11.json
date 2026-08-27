@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ha na-agwọ ⟨את⟩ mgbawa nke nwa nwaanyị nke ndị m n'ụzọ dị mfe, na-ekwu, Udo, udo, ma udo adịghị.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "ha na-agwọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgbawa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "mgbawa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwaanyị"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "dị mfe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Udo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma ... adịghị"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "udo"
+    }
+  ],
+  "timestamp": "2026-08-27T11:19:46.023233159Z",
+  "model": "glm-5.3"
+}

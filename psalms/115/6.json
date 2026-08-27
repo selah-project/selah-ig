@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 115,
+  "translation": "Ntị ka ha nwere, ma ha anaghị anụ; imi ka ha nwere, ma ha anaghị enụ ihe ụtọ.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ntị"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha nwere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ha anaghị"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "anụ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "imi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha nwere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ha anaghị"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "enụ ihe ụtọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:26.696449155Z",
+  "model": "glm-5.3"
+}

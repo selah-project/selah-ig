@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "N'ụbọchị ahụ ka ọ ga-abụ na m ga-emebi ⟨את⟩ ụta Yisrael, na ndida Yizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "m ga-emebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụta Yisrael"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ụta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "na ndida"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-27T16:46:06.706431373Z",
+  "model": "glm-5.3"
+}

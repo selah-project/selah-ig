@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Ma mụ onwe m, n'ọtụtụ chesed gị ka m ga-abata ụlọ gị; m ga-atụ onwe m ala n'ụzọ ụlọ nsọ gị dị nsọ, n'egwu gị.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma mụ onwe m"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "n'ọtụtụ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed gị"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "m ga-abata"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ụlọ gị"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "m ga-atụ onwe m ala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ụlọ nsọ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "dị nsọ gị"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "n'egwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:12.527438408Z",
+  "model": "glm-5.3"
+}

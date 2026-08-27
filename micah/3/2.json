@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ndị na-asọ ihe ọma ma na-achọ ọjọọ; ndị na-apụọ akpụkpọ ha n'elu ha, na anụ ha site n'elu ọkpụkpụ ha.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "ndị na-asọ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "na ndị na-achọ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "ndị na-apụọ"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "akpụkpọ ha"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "n'elu ha"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "na anụ ha"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "site n'elu"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "ọkpụkpụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:55:04.978814720Z",
+  "model": "glm-5.3"
+}

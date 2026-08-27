@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ha kwuru ya: N'ihi na anyị ⟨אתך⟩ ga-alaghachi, gaa ná mmadụ gị.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "ha kwuru"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "anyị ga-alaghachi"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "gaa ná mmadụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:04:30.461796461Z",
+  "model": "glm-5.3"
+}

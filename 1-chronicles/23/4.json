@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Site n'aka ndị a, iji na-eduzi ọrụ ụlọ Yahwe — puku iri abụọ na anọ; ndị na-elekọta na ndị ikpe — puku isii.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "site n'aka ndị a"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iji na-eduzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "na anọ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "ndị na-elekọta"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "na ndị ikpe"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "isii"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "puku"
+    }
+  ],
+  "timestamp": "2026-08-27T16:04:37.053452339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Onye na-eme ndị ozi ya ifufe, ndị na-ejere ya ozi ọkụ na-ere ure.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Onye na-eme"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ndị ozi ya"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ifufe"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ndị na-ejere ya ozi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "להט",
+      "gloss": "na-ere ure"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:32.364813119Z",
+  "model": "glm-5.3"
+}

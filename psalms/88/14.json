@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 88,
+  "translation": "Ma m, gaa gị, Yahwe, etiwo m mkpu, na n'ụtụtụ ekpere m ga-ebute gị.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gaa gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "etiwo m mkpu"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "na n'ụtụtụ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ekpere m"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "ga-ebute gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:28.739112103Z",
+  "model": "glm-5.3"
+}

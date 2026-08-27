@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Yoab zitere, ma gwa ⟨את⟩ David ihe niile gbasara agha ahụ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "zitere"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ma gwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "agha ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:35:17.596150986Z",
+  "model": "glm-5.3"
+}

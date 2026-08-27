@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Yehonatan wee sị David: \"Gịnị ka mkpụrụ obi gị chọrọ, ka m mee ya maka gị?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gịnị"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ka ... kwuo"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mkpụrụ obi gị"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ka m wee mee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:16:37.841159054Z",
+  "model": "glm-5.3"
+}

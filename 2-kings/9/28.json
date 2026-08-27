@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ndị ohu ya buuru ⟨את⟩ ya gaa Yerushalaim, ha liekwara ⟨את⟩ ya n'ili ya, ya ndị nna nna ya, n'obodo Davịd.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "buuru n'ụgbọ agha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "gaa Yerushalaim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ha liekwara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "n'ili ya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ndị nna nna ya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davịd"
+    }
+  ],
+  "timestamp": "2026-08-27T10:19:40.212401065Z",
+  "model": "glm-5.3"
+}

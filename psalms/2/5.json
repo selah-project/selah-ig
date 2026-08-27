@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Mgbe ahụ, ọ ga-ekwuru ha n'iwe ya, ma n'ọgụụ ya ọ ga-atụ ha egwu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "mgbe ahụ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ọ ga-ekwuru"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "n'iwe ya"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "ma n'ọgụụ ya"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "ọ ga-atụ ha egwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:46.282206284Z",
+  "model": "glm-5.3"
+}

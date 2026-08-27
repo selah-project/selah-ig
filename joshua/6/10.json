@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma Yehoshua nyere ⟨את⟩ ndị ahụ iwu, na-asị: Unu agaghị eti mkpu, unu agaghịkwa ama ⟨את⟩ olu unụ ọ̀, okwu ọ bụla agaghị apụta n'ọnụ unụ, ruo ụbọchị m ga-asị gị unu, 'Ti mkpu!' mgbe ahụ ka unu ga-eti mkpu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "eti mkpu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "agaghịkwa"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "ama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olu unụ"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "olu unụ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "agaghịkwa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "apụta"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "n'ọnụ unụ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "m ga-asị"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "gị unu"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ti mkpu"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "unu ga-eti mkpu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:21:15.525002910Z",
+  "model": "glm-5.3"
+}

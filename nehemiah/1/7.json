@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Anyị mebiri ihe n'aka gị nke ukwuu, anyị echebeghị ⟨את⟩ iwu ndị ahụ, ⟨את⟩ iwu e setịpụrụ, na ⟨את⟩ ikpe ndị ahụ nke i nyere ⟨את⟩ Moshe odibo gị.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "imebi ihe nke ukwuu"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "anyị mebiri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "anyị echebeghị"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "(echebe)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu ndị ahụ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "iwu ndị ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iwu e setịpụrụ"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iwu e setịpụrụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikpe ndị ahụ"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ikpe ndị ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "i nyere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "odibo gị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:41:09.191633081Z",
+  "model": "glm-5.3"
+}

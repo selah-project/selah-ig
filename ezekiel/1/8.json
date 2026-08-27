@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Aka mmadụ nọ n'okpuru nku ha, n'akụkụ anọ ha; ma ihu ha na nku ha, nke ha anọ.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "aka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "nku ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "akụkụ ha"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "ihu ha"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "nku ha"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "nke ha anọ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:56:36.858434462Z",
+  "model": "glm-5.3"
+}

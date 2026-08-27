@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "O dọrọ ⟨את⟩ ụzọ dị larịị maka iwe ya; ọ bụghị na o chebere mkpụrụ obi ha site na ọnwụ, ma nyefee ndụ ha n'aka ọrịa na-efe n'efe.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "o dọrọ"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "⟨את⟩ ụzọ dị larịị",
+      "marks": "ụzọ dị larịị"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "maka iwe ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị na"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "o chebere"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "site na ọnwụ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mkpụrụ obi ha"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "ma ndụ ha"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "n'aka ọrịa na-efe n'efe"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "o nyefere"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:45.655650299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma Yahwe nọdụrọ ruo mgbe ebighị ebi; O guzobela ocheeze ya maka ikpe.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ma Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nọdụrọ"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "guzobela"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "maka ikpe"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ocheeze ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:06.811416317Z",
+  "model": "glm-5.3"
+}

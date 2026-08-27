@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Karịa ndị nkuzi m niile, m nwetara nghọta, maka ihe aka aka gị bụ ihe m na-atụgharị uche na ya.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "karịa niile"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "ndị nkuzi m"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "m nwetara nghọta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ihe aka aka gị"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "ihe a na-atụgharị uche"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:01.034156916Z",
+  "model": "glm-5.3"
+}

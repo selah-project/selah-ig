@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ma Yechizkiya na ndị isi bịara, ha hụrụ ⟨את⟩ ọkwa ndị ahụ, ha gọziri ⟨את⟩ Yahwe na ⟨את⟩ ndị Ya Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ha bịara"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiya"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ha hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkwa ndị ahụ"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ọkwa ndị ahụ"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ha gọziri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Ya Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị Ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T16:18:27.613113198Z",
+  "model": "glm-5.3"
+}

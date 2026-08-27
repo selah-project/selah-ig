@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Abụ otoro, nke David. M ga-ebuli gị elu, Eloah m, ⟨the⟩ Eze; m ga-agọzikwa aha gị ruo mgbe ebighị ebi, ruo ọgwụụ.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "abụ otoro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "m ga-ebuli gị elu"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah m"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨the⟩ Eze"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "m ga-agọzikwa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo ọgwụụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:53.447036752Z",
+  "model": "glm-5.3"
+}

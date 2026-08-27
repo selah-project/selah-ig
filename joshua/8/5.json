@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma m, na ndị niile nọ ⟨את⟩ m, ga-akwụsịtụ nso n'ihe gbasara obodo ahụ; ọ ga-adịkwa na mgbe ha pụtara ịzute anyị, dịka nke mbụ, anyị ga-agba ọsọ n'ihu ha.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma m"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ndị niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ndị⟩ ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ m",
+      "marks": "m"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "ga-akwụsịtụ nso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ihe gbasara"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-adị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ha pụtara"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ịzute anyị"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "nke mbụ"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "anyị ga-agba ọsọ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "n'ihu ha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:26:40.293508264Z",
+  "model": "glm-5.3"
+}

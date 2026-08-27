@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "O wee mee ka onye ọ bụla a hụrụ na Yerushalayim na Binyamin guzo ⟨את⟩; ndị bi na Yerushalayim wee me dịka ọgbụgba-ndụ nke Elohim, Elohim nke nna nna ha si.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "o wee mee… guzo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye ọ bụla a hụrụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "a hụrụ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "na Binyamin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "wee me"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "dịka ọgbụgba-ndụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "nna nna ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:21:27.558662203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ha wee kwụnye ⟨את⟩ Haman n'elu osisi ahụ nke o kwadebere maka Mordekai, ma iwe eze dakwasịrị nso.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Ha wee kwụnye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "osisi ⟨aha⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "o kwadebere"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "maka Mordekai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "ma iwe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "dakwasịrị nso"
+    }
+  ],
+  "timestamp": "2026-08-27T15:21:35.793180512Z",
+  "model": "glm-5.3"
+}

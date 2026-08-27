@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Obi gị ga na-atụgharị egwu: ebee ka onye na-edekọ nọ? ebee ka onye na-atụ ọnụ nọ? ebee ka onye na-edekọ ⟨את⟩ ụlọ elu nọ?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "obi gị"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ga na-atụgharị"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "egwu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ebee ka"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "onye na-edekọ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ebee ka"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "onye na-atụ ọnụ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ebee ka"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "onye na-edekọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ elu"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "ụlọ elu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:50:24.179836167Z",
+  "model": "glm-5.3"
+}

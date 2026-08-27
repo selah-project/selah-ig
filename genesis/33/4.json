@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Esav wee gbaa ọsọ nzute ya, kelie ya, wee mado ya n'olu, wee sụọ ya ọnụ, ha wee bee ákwá.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "wee gbaa ọsọ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "nzute ya"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "kelie ya"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "wee mado"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "olu ya"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "wee sụọ ya ọnụ"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ha wee bee ákwá"
+    }
+  ],
+  "timestamp": "2026-08-27T05:49:35.426096725Z",
+  "model": "glm-5.3"
+}

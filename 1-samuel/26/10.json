@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "David wee sị: Yahwe dị ndụ; ọ dịghị ihe ọzọ ga-eme kama Yahwe ga-akụ ya, ma ọ bụ ụbọchị ya ga-abịa ka ọ nwụọ, ma ọ bụ ọ ga-adaba n'agha ma daa mkpọmkpọ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dị ndụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ dịghị ihe ọzọ ga-eme kama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "ga-akụ ya"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ụbọchị ya"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ga-abịa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ka ọ nwụọ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "n'agha"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ga-adaba"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "ma daa mkpọmkpọ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:25:35.233031760Z",
+  "model": "glm-5.3"
+}

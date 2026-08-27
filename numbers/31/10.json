@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ma obodo ha niile dị n'ebe obibi ha, na ebe mkpọcha ha niile, ha gbara ọkụ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "obodo ha niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "obodo ha"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "n'ebe obibi ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ebe mkpọcha ha niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ebe mkpọcha ha"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ha gbara ọkụ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "n'ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:42:41.097251357Z",
+  "model": "glm-5.3"
+}

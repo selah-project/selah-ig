@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 78,
+  "translation": "O wee họrọ ⟨את⟩ agbụrụ Yehuda, ⟨את⟩ ugwu Tsion nke o hụrụ n'anya.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "O wee họrọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agbụrụ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "agbụrụ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugwu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o hụrụ n'anya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:44:00.986405110Z",
+  "model": "glm-5.3"
+}

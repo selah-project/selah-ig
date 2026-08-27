@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Avram rịgooro n'elu si Mitraịm, ya na nwunye ya, na ihe niile nke ya, na Lot ya na ya, gaa n'ala ndida.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "rịgooro n'elu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "si Mitraịm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "na nwunye ya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "na Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya na ya"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "gaa n'ala ndida"
+    }
+  ],
+  "timestamp": "2026-08-27T05:31:21.428919534Z",
+  "model": "glm-5.3"
+}

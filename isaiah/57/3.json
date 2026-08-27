@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 57,
+  "translation": "Ma unu, unu abịala n'ebe a, ụmụ nke onye na-eme nsọ ụta, mkpụrụ nke onye na-edina mmadụ n'ike, na onye na-akpali akpali.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ma unu"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "unu abịala"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "n'ebe a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "nke onye na-eme nsọ ụta"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "nke onye na-edina mmadụ n'ike"
+    },
+    {
+      "surface": "וַתִּזְנֶֽה",
+      "gloss": "na onye na-akpali akpali"
+    }
+  ],
+  "timestamp": "2026-08-27T11:07:02.036265379Z",
+  "model": "glm-5.3"
+}

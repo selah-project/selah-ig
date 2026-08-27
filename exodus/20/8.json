@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Cheta ⟨את⟩ ụbọchị Shabbat ka ị dọọ ya nsọ.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "cheta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụbọchị"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ka ị dọọ ya nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:19:29.802328353Z",
+  "model": "glm-5.3"
+}

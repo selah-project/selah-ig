@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Ugbu a hapụ m ka iwe gbaa ọkụ n'ime ha, m mebie ha, m wee me gị ka ọ bụrụ mba ukwu.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּה",
+      "gloss": "Ugbu a"
+    },
+    {
+      "surface": "הַנִּיחָה",
+      "gloss": "hapụ"
+    },
+    {
+      "surface": "לִּי",
+      "gloss": "m"
+    },
+    {
+      "surface": "וְיִחַר",
+      "gloss": "ka iwe gbaa ọkụ"
+    },
+    {
+      "surface": "אַפִּי",
+      "gloss": "iwe m"
+    },
+    {
+      "surface": "בָּהֶם",
+      "gloss": "n'ime ha"
+    },
+    {
+      "surface": "וַאֲכַלֵּם",
+      "gloss": "m mebie ha"
+    },
+    {
+      "surface": "וְאֶעֱשֶׂה",
+      "gloss": "m wee me"
+    },
+    {
+      "surface": "אוֹתְךָ",
+      "gloss": "gị ⟨את⟩",
+      "marks": "mba ukwu"
+    },
+    {
+      "surface": "לְגוֹי",
+      "gloss": "ka ọ bụrụ mba"
+    },
+    {
+      "surface": "גָּדוֹל",
+      "gloss": "ukwu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:36:25.347925877Z",
+  "model": "glm-5.3"
+}

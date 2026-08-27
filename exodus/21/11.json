@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma ọ bụrụ na o meghị ya ihe atọ a, ọ ga-apụ n'efu, enweghị ọlaọcha ọ ga-akwụ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ọ bụrụ na"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "atọ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ihe a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "eme"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "ọ ga-apụ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "n'efu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọlaọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:12.824636626Z",
+  "model": "glm-5.3"
+}

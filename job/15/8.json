@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 15:8",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "N'ime nzuzo nke Eloah ka ị na-anụ? Ma ị na-echere amamiye maka gị naanị?",
+  "tokens": [
+    {
+      "surface": "הבסוד",
+      "gloss": "n'ime nzuzo nke"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ka ị na-anụ"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "ma ị na-echere"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maka gị"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amamiye"
+    }
+  ],
+  "timestamp": "2026-08-27T14:43:33.907237057Z",
+  "model": "glm-5.3"
+}

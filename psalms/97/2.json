@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 97,
+  "translation": "Igwe ojiji na mbuze gbara ya gburugbu; ikpe ziri ezi na ikpe ⟨is⟩ ntọala nke ocheeze ya.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "igwe ojiji"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "na mbuze"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "gbara ya gburugbu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na ikpe"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ntọala"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ocheeze ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:00.248687310Z",
+  "model": "glm-5.3"
+}

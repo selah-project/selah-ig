@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ibu nke ndagwurugwu nke ọhụụ. Gịnị na-eche gị ugbu a, na gị n'onwe gị rịgooro niile gị n'elu ụlọ ndị ahụ?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Ibu"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ndagwurugwu"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "ọhụụ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Gịnị na-eche"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "rịgooro"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "gị niile"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "n'elu ụlọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:44:52.781464135Z",
+  "model": "glm-5.3"
+}

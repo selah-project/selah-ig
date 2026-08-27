@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 59,
+  "translation": "Ha na-alọghachi n'anyịtụ abalị, na-eti mkpu dịka nkịta, ma na-agagharị gburugburu ⟨⟨obodo⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ha na-alọghachi"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "n'anyịtụ abalị"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "na-eti mkpu"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "dịka nkịta"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ma na-agagharị gburugburu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    }
+  ],
+  "timestamp": "2026-08-27T13:35:39.695603133Z",
+  "model": "glm-5.3"
+}

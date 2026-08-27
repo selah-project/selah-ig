@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 1:11",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ihu ha na nku ha kewara n'elu; nye nwoke ọ bụla abụọ na-ejikọta onwe ya, ma abụọ na-ekpuchi ⟨את⟩ ahụ ha.",
+  "tokens": [
+    {
+      "surface": "ופניהם",
+      "gloss": "Ma ihu ha"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "na nku ha"
+    },
+    {
+      "surface": "פרדות",
+      "gloss": "kewara"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nye nwoke ọ bụla"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "חברות",
+      "gloss": "na-ejikọta onwe ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ma abụọ"
+    },
+    {
+      "surface": "מכסות",
+      "gloss": "na-ekpuchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahụ ha"
+    },
+    {
+      "surface": "גויתיהנה",
+      "gloss": "ahụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T11:56:10.653523364Z",
+  "model": "glm-5.3"
+}

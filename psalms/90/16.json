@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 90,
+  "translation": "Ka ọrụ gị pụta ìhè nye ohu gị, na ṅụsọ gị n'elu ụmụ ha.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Ka ọ pụta ìhè"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ọrụ gị"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "na ṅụsọ gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ụmụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:12.113004191Z",
+  "model": "glm-5.3"
+}

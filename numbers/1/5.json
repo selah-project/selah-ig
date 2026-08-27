@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ndị a ka aha ndị ikom ndị ga-eguzo ⟨את⟩ ọnụ gị: maka Reuven, Elitsur nwa Shedejur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ma ndị a"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "aha"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ndị ikom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ga-eguzo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ọnụ gị",
+      "marks": "gị (ọnụ gị)"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "maka Reuven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedejur"
+    }
+  ],
+  "timestamp": "2026-08-27T07:07:52.714298096Z",
+  "model": "glm-5.3"
+}

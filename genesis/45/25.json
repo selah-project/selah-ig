@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 45:25",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Ha rịgooro site na Mitsraim, bata n'ala Kenaan, bịarute Yaakov nna ha.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ha rịgooro"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "site na Mitsraim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha bata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bịarute"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "nna ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:02:02.941911613Z",
+  "model": "glm-5.3"
+}

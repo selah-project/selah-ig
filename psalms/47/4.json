@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "⟨Ô⟩ na-achịkọta ndị n'okpuru anyị, na mba n'okpuru ụkwụ anyị.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "⟨Ô⟩ na-achịkọta"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "n'okpuru anyị"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "na mba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ụkwụ anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:21.011992296Z",
+  "model": "glm-5.3"
+}

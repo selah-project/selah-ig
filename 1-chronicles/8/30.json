@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Nwa ya nke mbu bu Avdon, na Tsur, na Kish, na Baal, na Nadav.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Nwa ya"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "nke mbu"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "na Tsur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "na Kish"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "na Baal"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "na Nadav"
+    }
+  ],
+  "timestamp": "2026-08-27T15:56:10.891726997Z",
+  "model": "glm-5.3"
+}

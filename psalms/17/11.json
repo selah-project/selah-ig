@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ngwá ụkwụ anyị ka ha gbara gburugbu ugbu a; anya ha tọrọ ka ha daa anyị n'ala.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "ngwá ụkwụ anyị"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "gba anyị gburugbu"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "anya ha"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "tọrọ"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "ka ha daa anyị"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:39.506873276Z",
+  "model": "glm-5.3"
+}

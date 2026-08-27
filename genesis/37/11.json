@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ụmumenne ya wee mkparị bọọ ya, mana nna ya jigidere ⟨את⟩ okwu ahụ.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "ha mkparị bọọ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ụmumenne"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "mana nna ya"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "jigidere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ahụ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:50:46.950659024Z",
+  "model": "glm-5.3"
+}

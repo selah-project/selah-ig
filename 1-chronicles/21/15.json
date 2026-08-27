@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 21:15",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Elohim wee zipụ mmụọ ozi gaa Yerushalayim ka ọ bibie ya; ka ọ na-ebibi, Yahwe hụrụ, wee chegharịa banyere ihe ọjọọ ahụ, wee sị mmụọ ozi na-ebibi ihe: zuru okè; ugbu a kwụsị aka gị. Mmụọ ozi Yahwe nọ guzo n'akụkụ ọdụ ahịhịa Arnan onye Jebus.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wee zipụ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mmụọ ozi"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "gaa Yerushalayim"
+    },
+    {
+      "surface": "להשחיתה",
+      "gloss": "ka ọ bibie ya"
+    },
+    {
+      "surface": "וכהשחית",
+      "gloss": "ka ọ na-ebibi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "wee chegharịa"
+    },
+    {
+      "surface": "על",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ihe ọjọọ ahụ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "mmụọ ozi"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "na-ebibi ihe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zuru okè"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "kwụsị"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ma mmụọ ozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nọ guzo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "ọdụ ahịhịa"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "onye Jebus"
+    }
+  ],
+  "timestamp": "2026-08-27T16:03:32.389795813Z",
+  "model": "glm-5.3"
+}

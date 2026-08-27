@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": " Nzọọkwụ ụkwụ m n'ụzọ gị; ụkwụ m agaghị ada.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "Nzọọkwụ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ụkwụ m"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "n'ụzọ gị"
+    },
+    {
+      "surface": "בל",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "ada"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ụkwụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:46:42.000082760Z",
+  "model": "glm-5.3"
+}

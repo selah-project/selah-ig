@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Eluigwe ga-ekwupụta ⟨את⟩ ihe ịtụnanya gị, Yahwe, na ⟨את⟩ okwukwe gịkwa n'ọgbakọ ⟨את⟩ ndị nsọ.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "ga-ekwupụta"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Eluigwe"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ihe ịtụnanya gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "okwukwe gị"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "n'ọgbakọ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ndị nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:52.700705632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "N'ihi na Yahwe ga-ekpe ikpe ha, ma ga-ebibie ⟨את⟩ mkpọrọgwụ ndị na-ebibi ha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ga-ekpe ikpe"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "ikpe ha"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "ma ga-ebibie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị na-ebibi ha"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "ndị na-ebibi ha"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mkpọrọgwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:28:47.229573807Z",
+  "model": "glm-5.3"
+}

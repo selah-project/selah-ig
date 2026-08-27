@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "N'ihi na ọ bụghị n'ụta m ka m na-dabere, mma agha m agaghịzịkwa m ezọpụta m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "n'ụta m"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ka m na-dabere"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "mma agha m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "ezọpụta m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:22.795406181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Yahwe dị nso nye ndị nke obi gbajiri, ma ⟨את⟩ ndị a kụrụ isi n'ime mmụọ ka ọ na-ezọ.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "dị nso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "ndị nke gbajiri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị a kụrụ isi n'ime mmụọ"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "ndị a kụrụ isi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mmụọ"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ọ na-ezọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:34.223892823Z",
+  "model": "glm-5.3"
+}

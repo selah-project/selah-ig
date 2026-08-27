@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 9:21",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Iji guzobe n'elu ha, na ha ga-anọ ⟨את⟩ na-eme ụbọchị nke iri na anọ, nke ọnwa Adar, na ⟨את⟩ ụbọchị nke iri na ise n'ime ya, n'afọ ọ bụla na afọ.",
+  "tokens": [
+    {
+      "surface": "לקים",
+      "gloss": "iji guzobe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "n'elu ha"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "na ha ga-abụ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụbọchị nke iri na anọ nke ọnwa Adar"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "nke ọnwa"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụbọchị nke iri na ise"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ise"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'ime ya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ọ bụla"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "na afọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:22:44.259407555Z",
+  "model": "glm-5.3"
+}

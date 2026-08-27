@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "N'echiche, echere m Yahwe; o wee tugharịa ntị ya n'ebe m nọ, o wee nụ arịrịọ m.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "N'echiche"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "echere m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "o wee tugharịa ntị ya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n'ebe m nọ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "o wee nụ"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "arịrịọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:58.422314292Z",
+  "model": "glm-5.3"
+}

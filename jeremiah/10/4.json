@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Site na ọla ọcha na ọlaedo ka ha na-eme ka ọ dị mma; na ngwa ịsụ na mma na-akụ, ka o wee ghara ịdị ike ịfụpụ.",
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "site na ọla ọcha"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "na ọlaedo"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "ha na-eme ka ọ dị mma"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "na ngwa ịsụ"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "na mma na-akụ"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "ha na-esi ike"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ka o wee ghara"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "ịfụpụ"
+    }
+  ],
+  "timestamp": "2026-08-27T11:21:50.562200266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Yoyada wee mụọ ⟨את⟩ Yonatan, Yonatan wee mụọ ⟨את⟩ Yadua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Yoyada wee"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "Yonatan wee"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yadua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yadua"
+    }
+  ],
+  "timestamp": "2026-08-27T15:47:54.201824861Z",
+  "model": "glm-5.3"
+}

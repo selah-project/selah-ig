@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Iyov dịrịkwa ndụ mgbe nke a gasịrị otu narị na afọ iri anọ, ma hụ ⟨את⟩ ụmụ ya na ⟨את⟩ ụmụ ụmụ ya — ọgbọ anọ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ọ dịrịkwa ndụ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe...gasịrị"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "otu narị"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na iri anọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ọ hụkwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ụmụ ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "anọ"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "ọgbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:00:06.012076356Z",
+  "model": "glm-5.3"
+}

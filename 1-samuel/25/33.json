@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 25:33",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ma a gọziri ntụle gị, ma a gọziri ⟨את⟩ gị, onye gbochiri m ụbọchị taa a ka m ghara ịbata n'ọbara, ma chebe aka m maka m.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "ma a gọziri"
+    },
+    {
+      "surface": "טעמך",
+      "gloss": "ntụle gị"
+    },
+    {
+      "surface": "וברוכה",
+      "gloss": "ma a gọziri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "כלתני",
+      "gloss": "gbochiri m"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "taa a"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ịbata"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "n'ọbara"
+    },
+    {
+      "surface": "והשע",
+      "gloss": "ma chebe"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    }
+  ],
+  "timestamp": "2026-08-27T09:24:10.158775447Z",
+  "model": "glm-5.3"
+}

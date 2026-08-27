@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ọ na-aga afọ n'afọ, na-agbagharịkwa na Bet-El, na Gilgal, na Mitzpa, na-ekpe ⟨את⟩ Yisrael ikpe n'ebe niile ndị a.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "afọ n'afọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "n'afọ"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "na-agbagharịkwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "Mitzpa"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "na-ekpe ikpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe niile ndị a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndị a"
+    }
+  ],
+  "timestamp": "2026-08-27T09:02:54.776359422Z",
+  "model": "glm-5.3"
+}

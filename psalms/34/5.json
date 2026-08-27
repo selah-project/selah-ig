@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ajụọla m Yahwe, ọ zaaala m, ma zọpụta m n'egwu m niile.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "ajụọla m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ọ zaaala m"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ma n'ihe niile"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "egwu m"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "zọpụta m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:52.810823669Z",
+  "model": "glm-5.3"
+}

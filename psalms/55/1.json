@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Maka onye-eduzi, na ngwa erilụ, abụ nkuzi nke David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye-eduzi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "na ngwa erilụ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "abụ nkuzi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:59.020415880Z",
+  "model": "glm-5.3"
+}

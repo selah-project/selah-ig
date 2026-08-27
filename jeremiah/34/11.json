@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ma mgbe nke ahụ gasịrị, ha laghachiri, wee weghachite ⟨את⟩ ndị ohu na ⟨את⟩ ndị odibo ha tọhapụrụ ka ha nwee onwe ha, ma mejọ ha ka ha bụrụ ndị ohu na ndị odibo ọzọ.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ha laghachiri"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nke ahụ gasịrị"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ha weghachite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ohu"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ndị ohu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndị odibo"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ndị odibo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ha zipụrụ"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "ka ha nwee onwe ha"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "ha mejọọ ha"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ka ha bụrụ ndị ohu"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "na ndị odibo"
+    }
+  ],
+  "timestamp": "2026-08-27T11:40:39.149425937Z",
+  "model": "glm-5.3"
+}

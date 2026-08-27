@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "O wee sị, Enweghị m ike ịlaghachị ⟨את⟩ gị ma ọ bụ ịbata ⟨את⟩ gị; m ga-eri nri, m ga-adakwa mmiri ⟨את⟩ gị n'ebe a, m ga-eri nri ma ọ bụ ṅụọ mmiri ⟨את⟩ gị n'ebe a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "m nwere ike"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ịlaghachị"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị",
+      "marks": "gị"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "na ịbata"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị",
+      "marks": "gị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghịkwa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "m ga-eri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghịkwa"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "m ga-aṅụ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị",
+      "marks": "gị"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T10:01:12.012504160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma Avraham ⟨dị⟩ nwa nke narị afọ n'oge a mụrụ ya ⟨את⟩ Yitschak nwa ya.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Ma Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "narị"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "n'oge a mụrụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:36:34.841002267Z",
+  "model": "glm-5.3"
+}

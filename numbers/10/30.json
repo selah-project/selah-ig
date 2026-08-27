@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma ọ sị ya: M gaghị aga; kama n'ala m na n'ebe a mụrụ m ka m ga-aga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ịghị"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "m ga-aga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ọ bụrụ na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ala m"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na n'"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "ebe a mụrụ m"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "m ga-aga"
+    }
+  ],
+  "timestamp": "2026-08-27T07:19:46.955559560Z",
+  "model": "glm-5.3"
+}

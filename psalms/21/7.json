@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "N’ihi na ị na-eme ya ⟨⟨nnukwu⟩⟩ ngọzi ruo mgbe ebighị ebi; ị na-atọ ya ọṅụ n’ọṅụ site n’ihu ⟨את⟩ gị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N’ihi na"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "ị na-eme ya"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ngọzi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "ị na-atọ ya ọṅụ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "n’ọṅụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihu gị"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ihu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:10.650688379Z",
+  "model": "glm-5.3"
+}

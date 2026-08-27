@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Yaakov hụrụ na e nwere ọka na Mitzrayim, Yaakov wee sị ụmụ ya nwoke, Gịnị mere na ị na-ele onwe unu anya?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "יש",
+      "gloss": "dị"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ọka"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitzrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ụmụ ya nwoke"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Gịnị mere"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "na-ele onwe unu anya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:58:25.768064516Z",
+  "model": "glm-5.3"
+}

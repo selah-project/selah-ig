@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 56,
+  "translation": "Na njedebe nke ụbọchị niile ha na-emerụ m okwu m ahụ; atụmatụ ha niile bụ mbọ m ime ihe ọjọọ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu m"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "ha na-emerụ\/na-atụgharị"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "atụmatụ ha"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "maka ihe ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:45.237407797Z",
+  "model": "glm-5.3"
+}

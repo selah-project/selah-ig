@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 71,
+  "translation": "Na ikpe ziri ezi nke ị na-eme, Elohim, ruo n'eluigwe; onye mere ihe ndị ukwuu, Elohim, onye dị ka gị?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "na ikpe ziri ezi nke gị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ọ mere"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ihe ndị ukwuu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "dị ka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:09.895905705Z",
+  "model": "glm-5.3"
+}

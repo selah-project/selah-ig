@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "M ga-ebuli gị elu, Yahwe, n'ihi na ị dọpụtara m elu, ma ọ bụghịkwa na ị mere ndị iro m ṅụrị ụtọ n'elu m.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "M ga-ebuli gị elu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "ị dọpụtara m elu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghịkwa na"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "ị mere ... ṅụrị ụtọ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ndị iro m"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n'elu m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:26.083713043Z",
+  "model": "glm-5.3"
+}

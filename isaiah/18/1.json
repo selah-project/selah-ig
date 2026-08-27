@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ewo nye ala nke mkpọ ụkwụ nku, nke dị n'ofe ruo osimiri ndị Kush.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ewo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "mkpọ ụkwụ nku"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "nku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "n'ofe"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "ruo osimiri ndị"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-27T10:44:30.188254147Z",
+  "model": "glm-5.3"
+}

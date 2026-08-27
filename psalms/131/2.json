@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 131,
+  "translation": "Mụ onwe m ka m dọrị adọ ka nwa a napụrụ ara n'akuku nne ya; dịka nwa a napụrụ ara ka mkpụrụ obi m dị n'ime m.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ọ̀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mma"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "m dọrị adọ"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "m jirila nwayọọ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "ka nwa a napụrụ ara"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'akuku"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nne ya"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "dịka nwa a napụrụ ara"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:03.994158643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "N'ihi na imebi nkwa n'ụzọ ọjọọ ka ha na-emebi nkwa megide m — ụlọ Yisrael na ụlọ Yehuda, nkwu Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "imebi nkwa n'ụzọ ọjọọ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ha na-emebi nkwa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "megide m"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na ụlọ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nkwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T11:15:59.042202157Z",
+  "model": "glm-5.3"
+}

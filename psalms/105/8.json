@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "O chetara ruo mgbe ebighị ebi ọgbụgba-ndụ ya, okwu o nyere iwu ruo ọgbọ pụkụ",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "O chetara"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ọgbụgba-ndụ ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o nyere iwu"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ruo pụkụ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:35.011959739Z",
+  "model": "glm-5.3"
+}

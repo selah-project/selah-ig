@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ị ghara ịbọ ọbọ, Ị ghara ichekwa iwe maka ⟨את⟩ ụmụ ndị gị; ma hụrụ onye agbata obi gị n'anya dịka gị onwe gị; m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "ịbọ ọbọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Ị ghara ichekwa"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "idebe iwe n'obi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndị gị"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "ma hụrụ n'anya"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "onye agbata obi gị"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "dịka gị onwe gị"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:17.876823116Z",
+  "model": "glm-5.3"
+}

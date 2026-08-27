@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma onye ọ bụla ohu nke nwoke zụrụ site na ọlaedo-ego, mgbe ị kpọchasịrị ⟨את⟩ ya, mgbe ahụ ọ ga-eri ya.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ma onye ọ bụla"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nke nwoke"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "zụrụ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "site na ọlaedo-ego"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "mgbe ị kpọchasịrị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "אז",
+      "gloss": "mgbe ahụ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ọ ga-eri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:16:25.752036915Z",
+  "model": "glm-5.3"
+}

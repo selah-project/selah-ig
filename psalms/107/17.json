@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ndị nzuzu, n'ụzọ mmehie ha, na n'ihi ajọ omume ha ka a na-ata ahụhụ.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "ndị nzuzu"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "mmehie ha"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "na n'ihi ajọ omume ha"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "a na-ata ahụhụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:14.244040129Z",
+  "model": "glm-5.3"
+}

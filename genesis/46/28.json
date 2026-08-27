@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 46:28",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Ma ⟨ọ⟩ ziri ⟨את⟩ Yehuda n'ihu ya gaa Yosef ka ọ du ya ụzọ n'ihu ya rue Goshen; ha wee bịa n'ala Goshen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ziri"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "להורת",
+      "gloss": "ka ọ du ụzọ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "גשנה",
+      "gloss": "rue Goshen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha wee bịa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    }
+  ],
+  "timestamp": "2026-08-27T06:03:08.366136769Z",
+  "model": "glm-5.3"
+}

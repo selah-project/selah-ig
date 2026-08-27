@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Saa unu, ka unu dị ọcha; wepụ ihe ọjọọ n'omume unu, n'ihu anya m; kwụsị ime ihe ọjọọ.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "saa unu"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "ka unu dị ọcha"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "wepụ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "n'omume unu"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "kwụsị"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ime ihe ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:38:36.175728502Z",
+  "model": "glm-5.3"
+}

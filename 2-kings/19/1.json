@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "O wee bụrụ na mgbe eze Chizkiya nụrụ okwu ahụ, ọ gbawara ⟨את⟩ uwe ya, wee kechie onwe ya na ákwà mkpọ, ma bata n'ụlọ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "o wee bụrụ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mgbe ọ nụrụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ọ gbawara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe ya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "uwe ya"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "ọ kechie onwe ya"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "na ákwà mkpọ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ọ batabara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T10:26:25.530429296Z",
+  "model": "glm-5.3"
+}

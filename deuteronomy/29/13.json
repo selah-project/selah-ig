@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "ọ bụghị ⟨את⟩ unu naanị ka m, m na-egbu ⟨את⟩ ọgbụgba-ndụ a na ⟨את⟩ ọnụ-iyi a",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "naanị unu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "na-egbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgbụgba-ndụ a"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ọgbụgba-ndụ a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ọnụ-iyi a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-08-27T08:13:15.758039826Z",
+  "model": "glm-5.3"
+}

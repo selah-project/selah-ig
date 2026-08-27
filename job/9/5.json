@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Onye na-ebufe ugwu, ma ha amaghị, onye tụgharịrị ha n'iwe ya.",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "onye na-ebufe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ha"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "amaghị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "tụgharịrị ha"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "n'iwe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:40:08.173618456Z",
+  "model": "glm-5.3"
+}

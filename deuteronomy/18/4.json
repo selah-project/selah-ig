@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Mbụ nke ọka gị, mmanya ọhụrụ gị, na mmanụ oli gị, na mbụ nke ajị anụ-ụlọ gị, ka ị ga-enye ya.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Mbụ nke"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "ọka gị"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "mmanya ọhụrụ gị"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "na mmanụ oli gị"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "na mbụ nke"
+    },
+    {
+      "surface": "גז",
+      "gloss": "ajị"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "anụ-ụlọ gị"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ị ga-enye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:05:00.853269465Z",
+  "model": "glm-5.3"
+}

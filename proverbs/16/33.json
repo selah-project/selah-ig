@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "N'ọnụngalaba ka a na-atụ ⟨את⟩ ọsọ agbam; ma site n'aka Yahwe ka mkpebi ya niile si adị.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "n'ọnụngalaba"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "a na-atụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọsọ agbam"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ọsọ agbam"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ma site n'aka Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "mkpebi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:22:38.053998504Z",
+  "model": "glm-5.3"
+}

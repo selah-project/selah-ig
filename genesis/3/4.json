@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Agwọ ahụ wee sọrọ nwanyị ahụ okwu: Ị nwụghịga ọnwụ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sọ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "agwọ ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "okwu nye"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nwanyị ahụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ịnwụ n'ezie"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "unu ga-anwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:24:30.147081683Z",
+  "model": "glm-5.3"
+}

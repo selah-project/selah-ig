@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Maka gịnị ka mba na-ama jijiji, na ndị mmadụ na-atụgharị ihe efu?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "maka gịnị"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "na-ama jijiji"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mba"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "na ndị mmadụ"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "na-atụgharị"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ihe efu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:53.486325178Z",
+  "model": "glm-5.3"
+}

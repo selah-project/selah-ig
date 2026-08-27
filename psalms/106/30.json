@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Pinchas guzoro ma rụọ ọrụ ikpe, ma a kwụsịrị ahịa ọrịa ahụ.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ma ọ guzoro"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "ma rụọ ọrụ ikpe"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ma a kwụsịrị"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ahịa ọrịa ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:57.414168838Z",
+  "model": "glm-5.3"
+}

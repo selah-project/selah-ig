@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Mụ zụrụ ya maka m maka ọlaọcha iri na ise, na homa otu nke ọka bọlbọ, na lęteke nke ọka bọlbọ.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "Mụ zụrụ ya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "na ise"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọlaọcha"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "na homa otu"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ọka bọlbọ"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "na lęteke"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ọka bọlbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T12:39:11.541755977Z",
+  "model": "glm-5.3"
+}

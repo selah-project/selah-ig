@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 86,
+  "translation": "Gbanie gị n'ebe m, ma nwee ọmịiko n'ebe m; nye ike gị ka ohu gị, ma zọpụta nwa nwaanyị-ohu gị.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "gbanie gị"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n'ebe m"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ma nwee ọmịiko n'ebe m"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "nye"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ike gị"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ka ohu gị"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "ma zọpụta"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "nwaanyị-ohu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:16.985775940Z",
+  "model": "glm-5.3"
+}

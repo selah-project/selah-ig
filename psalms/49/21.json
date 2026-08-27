@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "Nwa mmadụ nọ n'iwu ka ⟨את⟩ enweghị nghọta, yiri anụ ụlọ, e kwusiri ha n'ihi.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "nwa mmadụ"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "n'iwu ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "nghọta"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "yiri"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "anụ ụlọ"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "e kwusisi ha n'ihi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:09.465601356Z",
+  "model": "glm-5.3"
+}

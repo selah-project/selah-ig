@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "Kama ị ⟨bụ⟩ nwa mmadụ, dịka m dị, enyi m chiri anya, na onye m maara nke ọma.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kama ị"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nwa mmadụ"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "dịka m dị"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "enyi m chiri anya"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "onye m maara nke ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:56.075743417Z",
+  "model": "glm-5.3"
+}

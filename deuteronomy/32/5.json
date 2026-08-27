@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Ha mebiri ⟨ya⟩ n'ebe ọ nọ; ha abụghị ụmụ ya; mmejọ ha: ọgbọ rụrụ arụ na nke gbagọrọ agbagọ.",
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "ha mebiri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha abụghị"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "mmejọ ha"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "rụrụ arụ"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "na nke gbagọrọ agbagọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:16:28.945885954Z",
+  "model": "glm-5.3"
+}

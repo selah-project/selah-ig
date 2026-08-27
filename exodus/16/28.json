@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Yahwe we sịrị Moshe, \"Ruo mgbe ole ka ọnụ jụrụ ịnọgide na-edebe iwu m na nduzi m?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "we sịrị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sị"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "mgbe ole"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "ọnụ jụrụ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ịnọgide na-edebe"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "na nduzi m"
+    }
+  ],
+  "timestamp": "2026-08-27T06:19:29.806937017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Yahwe sie ike ⟨את⟩ obi Paroh, eze Mitsrajim, ọ wee chụsoo ụmụ Yisrael n'azụ; ụmụ Yisrael na-aga(apụ) na aka dị elu.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "sie ike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ọ wee chụsoo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "n'azụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "na-apụ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na aka"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "dị elu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:17:13.853124631Z",
+  "model": "glm-5.3"
+}

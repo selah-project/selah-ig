@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Onye nwere ndidi karịa dike; onye na-achị mmụọ ya karịa onye weghaara obodo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "karịa"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "onye nwere ndidi"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "(iwe)"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "dike"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ma onye na-achị"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "mmụọ ya"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "karịa onye weghaara"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    }
+  ],
+  "timestamp": "2026-08-27T14:25:00.124535986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ọ dịkwa na mgbe Moshe na-eli aka ya, Isrel meriri; ma mgbe ọ na-ehapụ aka ya, Amalek meriri.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ dịkwa na"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "na-eli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "meriri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isrel"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "ma mgbe"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "na-ehapụ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "meriri"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-08-27T06:22:03.242662969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Onye na-echebe ọnụ ya na-echebe mkpụrụ obi ya; onye na-emeghe akpa ọnụ ya — mbibi maka ya.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "na-echebe"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ọnụ ya"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "na-echebe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mkpụrụ obi ya"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "na-emeghe"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "akpa ọnụ ya"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "mbibi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:22:33.747891346Z",
+  "model": "glm-5.3"
+}

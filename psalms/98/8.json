@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 98,
+  "translation": "Osimiri ga-akụ aka; ugwu ga-abụ abụ ọṅụ ọnụ.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "osimiri"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "ga-akụ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "aka"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ga-abụ abụ ọṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:00.755899077Z",
+  "model": "glm-5.3"
+}

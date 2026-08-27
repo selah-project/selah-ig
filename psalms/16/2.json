@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "M kwuru ⟨na⟩ Yahwe: Adonai, gi; ọ dịghị ezi ihe m nwere ma ewezị gị.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "M kwuru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gi"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "ezi ihe m"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ma ewezị gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:18:01.383833734Z",
+  "model": "glm-5.3"
+}

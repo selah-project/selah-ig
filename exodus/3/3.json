@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Moshe wee sị, M ga-atụgharị ugbu a, ka m hụ ⟨את⟩ ihe-ngosi ukwu a, maka gịnị mere osisi-ọkụ ahụ ejighị ọkụ gbake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "M ga-atụgharị"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ka m hụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe-ngosi ukwu a"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ihe-ngosi"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "maka gịnị mere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ejighị"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "gbake"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "osisi-ọkụ ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:07:23.376050320Z",
+  "model": "glm-5.3"
+}

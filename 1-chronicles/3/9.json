@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ndị a niile bụ ụmụ Dawid, na-abụghị ụmụ ndị akụmkwọ, na Tamar nwanne ha nwaanyị.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "na-abụghị"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "ndị akụmkwọ"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "na Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "nwanne ha nwaanyị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:53:05.317458980Z",
+  "model": "glm-5.3"
+}

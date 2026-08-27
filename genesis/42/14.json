@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Yosef wee sị ha: Ọ bụ nke m kwuru na unu na-asị: Ndị nledo ka unu bụ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "m kwuru"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ndị nledo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "unu"
+    }
+  ],
+  "timestamp": "2026-08-27T05:57:58.088798295Z",
+  "model": "glm-5.3"
+}

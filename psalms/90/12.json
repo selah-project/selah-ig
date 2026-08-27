@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 90,
+  "translation": "Kuziere anyị ka anyị ṅụọta ụbọchị anyị nke ọma, ka anyị wee dọta obi anyị n'amamihe.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "ka anyị ṅụọta"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ụbọchị anyị"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nke ọma"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "kuziere anyị"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "ka anyị wee dọta"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amamihe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:11.319459339Z",
+  "model": "glm-5.3"
+}

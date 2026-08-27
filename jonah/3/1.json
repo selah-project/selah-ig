@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Okwu Yahwe bịara Yona ọzọ, na-asị:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:52:09.183646495Z",
+  "model": "glm-5.3"
+}

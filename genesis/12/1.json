@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma Yahwe kwuruokwu nye Avraham: \"Gaa, gaa[ya bụ gị] site n'ala gị, site n'ọmụmụ gị, na site n'ụlọ nna gị, gaa n'ala nke m ga-egosi gị.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ma ... kwuruokwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "[ya bụ gị]"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "site n'ala gị"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "site n'ọmụmụ gị"
+    },
+    {
+      "surface": "ו מבית",
+      "gloss": "na site n'ụlọ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n'⟨the⟩ ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "m ga-egosi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:31:24.602247719Z",
+  "model": "glm-5.3"
+}

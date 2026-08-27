@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "N'ihi na Ọ kwadala ndị bi n'elu, obodo elu-elu; Ọ na-ebufe ya, Ọ na-ebufu ya ruo n'ala, Ọ na-eduga ya ruo n'ájá.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "השח",
+      "gloss": "Ọ kwadala"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "elu-elu"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "Ọ na-ebufe ya"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "Ọ na-ebufu ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "Ọ na-eduga ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "n'ájá"
+    }
+  ],
+  "timestamp": "2026-08-27T10:45:36.544181776Z",
+  "model": "glm-5.3"
+}

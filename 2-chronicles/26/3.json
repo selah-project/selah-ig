@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 26:3",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Nwa afọ iri na isii ka Uziyahu bụ mgbe ọ malitere ịchị, ma ọ chịrị afọ iri ise na abụọ na Yerushalayim; aha nne ya bụ Yekolyahu, si na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "isii"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iri na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziyahu"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "mgbe ọ malitere ịchị"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ma afọ iri ise"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "na abụọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ọ chịrị"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nne ya"
+    },
+    {
+      "surface": "יכיליה",
+      "gloss": "Yekolyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:16:08.738735438Z",
+  "model": "glm-5.3"
+}

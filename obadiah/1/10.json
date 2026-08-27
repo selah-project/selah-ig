@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Maka ime ihe ike gị megide nwanne gị Yaakov, ihere ga-ekpuchi gị, ma a ga-ekpụpụ gị ruo ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "maka ime ihe ike gị"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nwanne gị"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "ga-ekpuchi gị"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "ihere"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ma a ga-ekpụpụ gị"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T12:50:27.030752658Z",
+  "model": "glm-5.3"
+}

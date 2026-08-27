@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Bilie, gaa n'ụlọ onye-akpụ ite, n'ebe ahụ ka m ga-eme ka ⟨gị⟩ nụ ⟨את⟩ okwu m.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Bilie"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "gaa n'okpuru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "onye-akpụ ite"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "ka m ga-eme ka ị nụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu m"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:42:39.646538348Z",
+  "model": "glm-5.3"
+}

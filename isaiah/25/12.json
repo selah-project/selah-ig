@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ma e me ka ebe mgbadoro nke elu ugwu mgbidi gị daa, e doo ya ala, e mee ka ọ rute n'ala, ruo n'ájá.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "ma ebe mgbadoro"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "elu ugwu \/ ebe dị elu"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "mgbidi gị"
+    },
+    {
+      "surface": "השח",
+      "gloss": "e doo ya ala"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "e belata ya"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "o ruru"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "nájá"
+    }
+  ],
+  "timestamp": "2026-08-27T16:40:10.828134900Z",
+  "model": "glm-5.3"
+}

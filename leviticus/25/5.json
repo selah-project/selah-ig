@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ihe ⟨את⟩ ọkụ nke owuwe gị na-eto n'onwe ya ị gaghị ewe, ma ⟨את⟩ mkpụrụ vaịn nke osisi vaịn gị a na-edozighị ị gaghị anakọta; afọ izu ike zuru ezu ka ọ ga-abụ maka ⟨the⟩ ala.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọkụ nke owuwe na-eto n'onwe ya"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "ọkụ na-eto n'onwe ya"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "nke owuwe gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "ị ga-ewe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mkpụrụ vaịn"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "mkpụrụ vaịn"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "nke osisi a na-edozighị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "ị ga-anakọta"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "izu ike zuru ezu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maka ala"
+    }
+  ],
+  "timestamp": "2026-08-27T07:04:59.993598115Z",
+  "model": "glm-5.3"
+}

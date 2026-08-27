@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ka Reuven dịrị ndụ, ma ghara ịnwụ, ka ndị ikom ya bụrụ ọnụ ọgụgụ ⟨ole na ole⟩.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "ka ọ dịrị ndụ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma ghara"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "ịnwụ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ka ọ bụrụ"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "ndị ikom ya"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ọnụ ọgụgụ ⟨ole na ole⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T08:19:10.880092114Z",
+  "model": "glm-5.3"
+}

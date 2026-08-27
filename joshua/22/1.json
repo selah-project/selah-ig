@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 22:1",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Mgbe ahụ, Yehoshua kpọrọ ndị Reuven, na ndị Gad, na ọkara agbụrụ nke Menashe.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "mgbe ahụ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kpọrọ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "ndị Reuven"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "na ndị Gad"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "na ọkara"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "agbụrụ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    }
+  ],
+  "timestamp": "2026-08-27T08:37:04.452523523Z",
+  "model": "glm-5.3"
+}

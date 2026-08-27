@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 92,
+  "translation": "Abụ egwu ụbọ akwara, abụ maka ụbọchị ⟨nke⟩ Shabbat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "egwu ụbọ akwara"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "maka ụbọchị"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:04.632235806Z",
+  "model": "glm-5.3"
+}

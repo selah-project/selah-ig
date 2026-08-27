@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 129,
+  "translation": "Ka ha bụrụ dịka ahịhịa ụlọ elu, nke tupu mmadụ ewepụ ya ọkọla.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ka ha bụrụ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "dịka ahịhịa"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "ụlọ elu"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "tupu"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ewepụ ya"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ọkọla"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:03.305007925Z",
+  "model": "glm-5.3"
+}

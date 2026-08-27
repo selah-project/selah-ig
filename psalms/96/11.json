@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 96,
+  "translation": "Eluigwe ga-ṅụkwa ọṅụ, ụwa ga-akwa ṅkwa ọṅụ; oké osimiri ga-ama mkpọtị, ya na ihe jupụtara na ya.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ga-ṅụkwa ọṅụ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Eluigwe"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ga-akwa ṅkwa ọṅụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ga-ama mkpọtị"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ya na ihe jupụtara na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:02.591999875Z",
+  "model": "glm-5.3"
+}

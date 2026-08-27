@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ọ dịghị onye-amụma biliri ọzọ na Israel dịka Moshe, onye Yahwe maara n'ihu-ru-n'ihu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "קם",
+      "gloss": "biliri"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "onye-amụma"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "dịka Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "maara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ru"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "n'ihu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:20:19.477725799Z",
+  "model": "glm-5.3"
+}

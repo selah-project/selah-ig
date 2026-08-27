@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Yaakov si na Beer-Sheva pụọ, gaa Haran.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "pụọ si"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "na Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "Haran-ward"
+    }
+  ],
+  "timestamp": "2026-08-27T05:45:33.105421396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Anyị rụrụ arụ, anyị mehiere, anyị mekwara ihe ọjọọ, anyị jụrụ ịnụ ihe; anyị wepụrụ onwe anyị n'iwu gị na n'ikpe gị.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "anyị rụrụ arụ"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "anyị mehiere"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "anyị mekwara ihe ọjọọ"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "anyị jụrụ ịnụ ihe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "anyị wepụrụ onwe anyị"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "n'iwu gị"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "na n'ikpe gị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:30:52.088300068Z",
+  "model": "glm-5.3"
+}

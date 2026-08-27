@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Ọ mere ⟨את⟩ uwe elu nke efood, ọrụ nke onye na-akwa akwa, niile nke anụnụ anụnụ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ọ mere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe elu nke efood"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "uwe elu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "nke efood"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "nke onye na-akwa akwa"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "nke anụnụ anụnụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:43:51.205824004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 147,
+  "translation": "Yahwe na-edobe ndị di-nkịtị; Ọ na-akụda ndị ajọ omume ruo ala.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "na-edobe"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ndị di-nkịtị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "na-akụda"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ala"
+    }
+  ],
+  "timestamp": "2026-08-27T14:11:39.099941006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 139,
+  "translation": "Maka onye nduzi egwu. Mkporomọrọ nke David. Yahwe, ịchọrọla m akpa na ị maara m.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Maka onye nduzi egwu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mkporomọrọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "ịchọrọla m akpa"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "ma ị maara m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:54.724263614Z",
+  "model": "glm-5.3"
+}

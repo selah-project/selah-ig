@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Ha gbara ọsọ, ha daa akpa onye ọ bụla ala, mmadụ ọ bụla mepee akpa ya.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "ha gbara ọsọ"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "ha daa ala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akpa ya"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "akpa ya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "ha mepee"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ ọ bụla"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "akpa ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:58:57.079300644Z",
+  "model": "glm-5.3"
+}

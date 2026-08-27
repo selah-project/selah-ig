@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ọbụla osisi gị na mkpụrụ ala gị ka ụkwụ-ara ga-enwe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ọbụla"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "osisi gị"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "na mkpụrụ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ala gị"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ga-enwe"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "ụkwụ-ara"
+    }
+  ],
+  "timestamp": "2026-08-27T08:12:11.351411979Z",
+  "model": "glm-5.3"
+}

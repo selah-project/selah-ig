@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 92,
+  "translation": "Iji kwupụta na Yahwe ziri ezi; Nkume m; enweghị ajọ omume n'ime Ya.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "iji kwupụta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ziri ezi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Nkume m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ajọ omume"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'ime Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:47.449087725Z",
+  "model": "glm-5.3"
+}

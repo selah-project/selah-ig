@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Rehavam wee gaa Shkem, n'ihi na na Shkem ka Israel niile bịara ka ha wee mee ya eze.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ọ gara"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Shkem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ha bịara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "ka ha mee eze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:11:05.799010948Z",
+  "model": "glm-5.3"
+}

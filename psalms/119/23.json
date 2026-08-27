@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Ọbụna mgbe ndị isi nọkwasịrị ala na-atụ mkparị banyere m, ohu gị na-atụgharị n'ihe iwu gị.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ọbụna"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nọkwasịrị ala"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "banyere m"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "na-atụ mkparị"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "na-atụgharị"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "n'ihe iwu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:01:55.830444862Z",
+  "model": "glm-5.3"
+}

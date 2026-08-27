@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Okwu ⟨the⟩ eze ahụ wee siri ike megide Joab; Joab wee pụọ, wee gaa njem gburugburu Israel niile, wee bata Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "wee pụọ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "wee gaa njem gburugburu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wee bata"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:55:17.805053243Z",
+  "model": "glm-5.3"
+}

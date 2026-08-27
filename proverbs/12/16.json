@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Iwe nke onye nzuzu ka a maara n'otu ụbọchị; ma onye nwere uche na-ezo ihere.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "onye nzuzu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'otu ụbọchị"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "a maara"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "iwe ya"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "na-ezo"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ihere"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "onye nwere uche"
+    }
+  ],
+  "timestamp": "2026-08-27T14:21:26.293102342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 93,
+  "translation": "Yahwe chịrị dịka eze, ⟨ọ⟩ yiri uwe ugwu; Yahwe yiri uwe ike, ⟨ọ⟩ jiri ya kee onwe ya; n'ezie, ụwa guzosiri ike, agaghị ọma jijie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "chịchị dịka eze"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "yiri uwe"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "yiri uwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ike"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "kee onwe ya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "guzosiri ike"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "jijie"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:55.812425575Z",
+  "model": "glm-5.3"
+}

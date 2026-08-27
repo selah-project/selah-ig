@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Nna ya enyochaghị ya site n'ụbọchị ya niile, na-ekwu, gịnị mere i ji mee otu a? Ọzọkwa ọ bụ nke ọma n'ọdịdị nke ukwuu, nne ya mụrụ ⟨את⟩ ya mgbe Avshalom gasịrị.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ọ bụghịkwa"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "enyochaghị ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ụbọchị ya niile"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "gịnị mere"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i ji mee"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ọzọkwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọma"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ọdịdị"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe ... gasịrị"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-27T09:48:53.501325959Z",
+  "model": "glm-5.3"
+}

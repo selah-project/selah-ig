@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ọ dịkwa na ọgwụgwụ ụbọchị iri anọ, Noach meghere ⟨את⟩ windo nke ụgbọ mmiri ahụ, nke ọ rụrụ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ dịkwa"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na ọgwụgwụ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "iri anọ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "meghere"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "windo"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "windo"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ụgbọ mmiri ahụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ọ rụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:48.917193307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 46:8",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Mitsrayim na-arịgo dịka Osimiri Naịl, mmiri ya na-atụ jijiji dịka osimiri ndị; ọ sịrị: M ga-eri elu, m ga-ekpuchị ⟨את⟩ ụwa, m ga-ebibi obodo na ndị bi na ya.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "dịka Osimiri Naịl"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "na-arịgo"
+    },
+    {
+      "surface": "וכנהרות",
+      "gloss": "ma dịka osimiri ndị"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "na-atụ jijiji"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ sịrị"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "m ga-eri elu"
+    },
+    {
+      "surface": "אכסה",
+      "gloss": "m ga-ekpuchị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "אבידה",
+      "gloss": "m ga-ebibi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "na ndị bi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:47:37.027769270Z",
+  "model": "glm-5.3"
+}

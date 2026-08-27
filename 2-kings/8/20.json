@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "N'ụbọchị ya, Edom rụpụrụ n'okpuru aka Yehudah, ha wee mee ka eze chị ha.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "n'ụbọchị ya"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "rụpụrụ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "n'okpuru"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ha mee ka chị"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    }
+  ],
+  "timestamp": "2026-08-27T10:16:45.421207106Z",
+  "model": "glm-5.3"
+}

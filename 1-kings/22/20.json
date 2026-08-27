@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Yahwe wee sị: Onye ka a ga-eji ghọgbuo ⟨את⟩ Akab, ka ọ gwụọ elu wee daa na Ramot Gilad? Nke a wee sị otu a, nke ọzọ wee sị otu a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Onye"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "ga-eji ghọgbuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ka ọ gwụọ elu"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "wee daa"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "na Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Nke a"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "nke ọzọ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "otu a"
+    }
+  ],
+  "timestamp": "2026-08-27T10:11:30.002548158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ndị ahụ wee sịkwa Shmuel: Onye ka ọ bụ na ọ sịrị na Shaúl ga-achị anyị? Nyefee anyị ⟨ndị⟩ ahụ ikom ka anyị gbuo ha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sịkwa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye ka ọ bụ"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "na ọ sịrị"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ga-achị"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "nyefee anyị"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "⟨ndị⟩ ahụ ikom"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "ka anyị gbuo ha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:06:48.931968638Z",
+  "model": "glm-5.3"
+}

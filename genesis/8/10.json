@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "O cherekwa ka ụbọchị asaa ndị ọzọ, wee gara ziga ⟨את⟩ oloma ahụ site n'ụgbọ mmiri ahụ.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "o cherekwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ndị ọzọ"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "wee gara"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ziga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oloma ahụ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "oloma ahụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "site na"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ụgbọ mmiri ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:28:31.685569276Z",
+  "model": "glm-5.3"
+}

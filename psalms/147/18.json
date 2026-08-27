@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 147,
+  "translation": "Ọ na-ezipụ okwu ya, ma ⟨ha⟩ na-agbazee; Ọ na-eme ka ifufe ya fifee — mmiri na-asọ.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "na-ezipụ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "okwu ya"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "ma na-agbazee ⟨ha⟩"
+    },
+    {
+      "surface": "יישב",
+      "gloss": "na-eme ka ... fifee"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ifufe ya"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "na-asọ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:53.355165691Z",
+  "model": "glm-5.3"
+}

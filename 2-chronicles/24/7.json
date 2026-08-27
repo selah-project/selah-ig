@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "N'ihi na ụmụ Atalyahu, nwanyị ajọ omume ahụ, emebiwo ⟨את⟩ ụlọ Elohim, ha mekwara ihe nsọ niile nke ụlọ Yahwe ka ọ bụrụ ndị Baal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "nwanyị ajọ omume ahụ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "emebiwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ha mekwara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ihe nsọ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ha mere"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ka ọ bụrụ ndị Baal"
+    }
+  ],
+  "timestamp": "2026-08-27T16:15:33.929353878Z",
+  "model": "glm-5.3"
+}

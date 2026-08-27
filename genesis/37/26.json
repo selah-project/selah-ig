@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Yehuda wee soro ụmụnne ya, mweta, kedu uru ọ dị na anyị gbuo ⟨את⟩ nwanne anyị, ma zoo ⟨את⟩ ọbara ya?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee soro"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "soso"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ụmụnne ya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kedu"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "uru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "anyị gbuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwanne anyị"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "nwanne anyị"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "ma anyị zoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọbara ya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ọbara ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:54:11.006766353Z",
+  "model": "glm-5.3"
+}

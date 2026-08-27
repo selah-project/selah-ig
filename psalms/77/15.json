@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "Ị bụ ⟨ה⟩ El na-eme ihe ebube; Ọ mere ka ọ bịara pụta ìhè ike gị n'etiti ọdịbendị.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨ה⟩ El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ihe ebube"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "Ọ mere ka ọ bịara pụta ìhè"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "n'etiti ọdịbendị"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ike gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:12.681496329Z",
+  "model": "glm-5.3"
+}

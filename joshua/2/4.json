@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Nwanyị ahụ were ⟨את⟩ ụmụnna abụọ ahụ ma zọọ ha n'ọnụ; ọ sịkwara: Ee, ụmụnna ndị ahụ bịara m, ma amaghị m ebe ha si bịa.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nwanyị ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụnna abụọ ahụ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ụmụnna ahụ"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "ma zọọ ha n'ọnụ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ọ sịkwara"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bịara"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ụmụnna ndị ahụ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "amaghị m"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ebe ha si"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bịa"
+    }
+  ],
+  "timestamp": "2026-08-27T08:21:23.417215768Z",
+  "model": "glm-5.3"
+}

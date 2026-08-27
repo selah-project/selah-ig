@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "Nke a ka Yahwe sị: Le, m na-ebili ifufe na-ebibi megide Babilon, na megide ndị bi na Leb-Kamai — obi nke ndị bilere megide m.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Nke a ka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Le"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "m na-ebili"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na megide"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Leb (obi)"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "nke ndị bilere megide m"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ifufe"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "na-ebibi"
+    }
+  ],
+  "timestamp": "2026-08-27T11:54:41.977430109Z",
+  "model": "glm-5.3"
+}

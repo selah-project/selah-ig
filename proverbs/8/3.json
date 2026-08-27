@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "N'akụkụ ọnụ ụzọ ámá, n'ọnụ ⟨nke⟩ obodo, n'ọnụ ụzọ mbata, ọ na-eti mkpu.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ọnụ ụzọ ámá"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "n'ọnụ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "mbata"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ọ na-eti mkpu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:50:42.876687954Z",
+  "model": "glm-5.3"
+}

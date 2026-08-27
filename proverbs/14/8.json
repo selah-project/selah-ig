@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Amamiya nke onye nche nkwa bụ ịghọta ụzọ ya; ma nzuzu nke ndị nzuzu bụ aghụghọ.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "amamiya"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "nke onye nche nkwa"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ịghọta"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ụzọ ya"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "ma nzuzu"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "nke ndị nzuzu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aghụghọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:22:54.565565235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ha na-akwa ụtọ n'ihi na ha dị jụụ, Ọ na-edukwa ha n'ọdụ ụgbọ mmiri nke mmasị ha.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Ha na-akwa ụtọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "ha dị jụụ"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "Ọ na-edukwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "ọdụ ụgbọ mmiri"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "mmasị ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:34.571704692Z",
+  "model": "glm-5.3"
+}

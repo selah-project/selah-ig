@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Maka onye-ndu-egwu, maka Yedutun; abụ maka Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye-ndu-egwu"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "maka Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "maka Dawid"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:56.565203332Z",
+  "model": "glm-5.3"
+}

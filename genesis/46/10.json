@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Ndị nwa Shim'on: Yemu'el, na Yamin, na Ohad, na Yakin, na Tsochar, na Sha'ul nwa nwanyi Kenaanit.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ndị nwa"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemu'el"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "na Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "na Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "na Yakin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "na Tsochar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Sha'ul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "nwanyi Kenaanit"
+    }
+  ],
+  "timestamp": "2026-08-27T06:01:17.561533522Z",
+  "model": "glm-5.3"
+}

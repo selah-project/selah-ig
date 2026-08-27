@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Ị na-emeghe ⟨את⟩ aka gị, ma na-eme ka afọ ndị niile dị ndụ jụọ na mmasị.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "na-emeghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka gị"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka gị"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "ma na-eme ka ... jụọ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka ndị niile"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dị ndụ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "mmasị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:55.179114312Z",
+  "model": "glm-5.3"
+}

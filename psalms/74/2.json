@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 74:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Cheta nzukọ ndị gị, ndị i nwetara n'oge ochie, ndị i zọpụtara — mkpụrụ nke ihe nketa gị; ugwu Zion a, nke i bi na ya.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Cheta"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "nzukọ ndị gị"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "ndị i nwetara"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "n'oge ochie"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "ndị i zọpụtara"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mkpụrụ"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "nke ihe nketa gị"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "זה",
+      "gloss": "a"
+    },
+    {
+      "surface": "שכנת",
+      "gloss": "i bi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:52.818630684Z",
+  "model": "glm-5.3"
+}

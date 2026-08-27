@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Onye òtù m bụ maka onye ọ bụla n'etiti ndị na-atọ Yahwe ụjọ, na maka ndị na-echebe iwu ndị ahụ iwuere gị.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "onye òtù"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m bụ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka onye ọ bụla n'etiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "na-atọ Yahwe ụjọ"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "na maka ndị na-echebe"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "iwu ndị ahụ iwuere gị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:49:37.466182934Z",
+  "model": "glm-5.3"
+}

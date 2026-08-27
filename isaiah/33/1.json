@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Ọdị́nụ nye onye na-emebi ihe, ma ọ nweghị onye mebiri gị; nye onye na-eme aghụghọ, ma ọ nweghị onye mere gị aghụghọ; mgbe ị mechara imebi, a ga-emebi gị; mgbe ị mechara ime aghụghọ, ha ga-eme gị aghụghọ.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ọdị́nụ"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "onye na-emebi ihe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ma gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "a mebiri"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "ma onye na-eme aghụghọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ha mere aghụghọ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'ebe gị"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "mgbe ị mechara"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "imebi ihe"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "a ga-emebi gị"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "mgbe ị mechara"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "ime aghụghọ"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "ha ga-eme aghụghọ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "n'ebe gị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:51:13.567983657Z",
+  "model": "glm-5.3"
+}

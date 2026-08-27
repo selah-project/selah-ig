@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ndụ ka ọ rịọrọ site na gị, ma nyere gị ya — ogohe ụbọchị, ruo mgbe ebighị ebi na ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Ndụ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ọ rịọrọ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "site na gị"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ị nyere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ogohe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:10.650230834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Mgbe eze nụrụ ⟨את⟩ okwu Torah ahụ, ọ bụ ya na ọ mara ákwà ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bụ ya na"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mgbe ọ nụrụ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu Torah"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ọ mara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ákwà ya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ákwà ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:21:05.702040897Z",
+  "model": "glm-5.3"
+}

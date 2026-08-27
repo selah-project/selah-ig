@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ma ọ bụrụ na ịnụghị m ruo n'ọnọdụ ndị a, m ga-agbakwunye ịta unu mmekọahụ ⟨את⟩ unu ugboro asaa n'ihi mmehie unu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "n'ọnọdụ ndị a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ịnụghị"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "unu anaghị nu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "m ga-agbakwunye"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "ịta unu mmekọahụ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ugboro asaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "mmehie unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:09:25.983333363Z",
+  "model": "glm-5.3"
+}

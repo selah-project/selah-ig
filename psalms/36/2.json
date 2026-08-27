@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Nkwupụta nke mmehie nye onye ajọ omume, n'ime obi m: enweghị egwu nke Elohim n'ihu anya ya.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "nkwupụta"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "onye ajọ omeme"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "egwu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "anya ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:57.852017846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 46,
+  "translation": "Ruo ọkachamma mụ bụ ⟨ya⟩; ruo ntụ isi mụ ga-asaba; mụ mere, mụ ga-ebu, mụ ga-asaba, mụ ga-ezọpụta.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ọkachamma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ya⟩"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ntụ isi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ga-asaba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mere"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ga-ebu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ga-asaba"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "ga-ezọpụta"
+    }
+  ],
+  "timestamp": "2026-08-27T16:40:06.617242850Z",
+  "model": "glm-5.3"
+}

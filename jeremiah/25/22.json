@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "na ⟨את⟩ eze niile nke Tsor, na ⟨את⟩ eze niile nke Tsidon, na ⟨את⟩ ezendi ⟨the⟩ àgwàetiti nke dị n'akụkụ ọzọ nke oké osimiri",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "eze niile nke Tsor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "eze niile nke Tsidon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ezendi àgwàetiti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ezendi"
+    },
+    {
+      "surface": "האי",
+      "gloss": "àgwàetiti ⟨the⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "n'akụkụ ọzọ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri"
+    }
+  ],
+  "timestamp": "2026-08-27T11:31:30.219286934Z",
+  "model": "glm-5.3"
+}

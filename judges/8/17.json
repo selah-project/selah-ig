@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "O mekwara ka ⟨את⟩ ulo-elu nke Penuel daa, ma gbuo ⟨את⟩ ụmụ nwoke ⟨nke⟩ obodo ahụ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ulo-elu nke Penuel"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "ulo-elu"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "ọdọrọ daa"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ma gbuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ nwoke nke obodo ahụ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ụmụ nwoke"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obodo ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:31:39.648087610Z",
+  "model": "glm-5.3"
+}

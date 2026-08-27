@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ọkpụkpụ niile nke m ga-asị, Yahwe, onye dị ka gị, onye na-ezọpụta onye ogbenye n'aka onye siri ike karịa ya, na onye ogbenye na onye nwere mkpa n'aka onye na-ịpụ n'iyi ya?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ọkpụkpụ nke m"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "ga-asị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "dị ka gị"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "na-ezọpụta"
+    },
+    {
+      "surface": "עני",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "n'aka onye siri ike"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "karịa ya"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "na onye ogbenye"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na onye nwere mkpa"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "n'aka onye na-ịpụ n'iyi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:24:49.916862919Z",
+  "model": "glm-5.3"
+}

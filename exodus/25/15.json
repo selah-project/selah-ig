@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "N'ime mgbanaka Ọlà Ahụ ka a ga-ahụ osisi shittim baa; a gaghị ewepụ ha n'elu ya.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "n'ime mgbanaka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Ọlà Ahụ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ka a ga-ahụ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "osisi shittim baa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a gaghị"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "ewepụ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "n'elu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:28:22.000000443Z",
+  "model": "glm-5.3"
+}

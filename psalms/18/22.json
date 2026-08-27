@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Maka na m chekwaa ụzọ Yahwe, ma anaghị eme ihe ọjọ megide Elohim m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "m chekwaa"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ụzọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma anaghị"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "eme ihe ọjọ"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "megide Elohim m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:28.569245264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "N'ihi na aha Yahwe ka m ga-akpọ oku; nyere ⟨the⟩ ukwu nsọpụrụ nye Elohim anyị.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ka m ga-akpọ oku"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "nyere nsọpụrụ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ukwu nsọpụrụ"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": " nye Elohim anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:30:31.836636091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Abụ eji egwu, nke David, iji cheta.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "abụ eji egwu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "iji cheta"
+    }
+  ],
+  "timestamp": "2026-08-27T13:28:29.701547035Z",
+  "model": "glm-5.3"
+}

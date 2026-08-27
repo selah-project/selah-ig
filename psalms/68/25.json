@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 68,
+  "translation": "Ha hụrụ ⟨ha⟩ njem gị, Elohim; njem nke El nke m, Eze nke m, na nsọ.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ha hụrụ"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "njem gị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "njem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El nke m"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Eze nke m"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "na nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:22.437569289Z",
+  "model": "glm-5.3"
+}

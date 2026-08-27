@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 23:34",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Ma onye-amụma, ma onye-nchu-aja, ma onye n'ime ndị na-ekwu, 'Ibu Yahwe,' M ga-eleta ikpe nwoke ahụ na ụlọ ya.",
+  "tokens": [
+    {
+      "surface": "והנביא",
+      "gloss": "ma onye-amụma"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "ma onye-nchu-aja"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ma ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "M ga-eleta ikpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na n'elu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:32:10.134120176Z",
+  "model": "glm-5.3"
+}

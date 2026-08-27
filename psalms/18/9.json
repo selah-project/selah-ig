@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Anwụ rịgooro n'imi Ya, ma ọkụ n'ọnụ Ya na-eri; aga ọkụ gbara site na Ya.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "rịgooro"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "anwụ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "n'imi Ya"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ma ọkụ"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "n'ọnụ Ya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "na-eri"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "aga ọkụ"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "gbara"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "site na Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:43.515504897Z",
+  "model": "glm-5.3"
+}

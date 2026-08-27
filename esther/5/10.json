@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Haman wee jikwa onwe ya n'aka, banye n'ụlọ ya, zipụ ma kpọta ⟨את⟩ ndị enyi ya na ⟨את⟩ Zeresh nwunye ya.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "jikwaa onwe ya n'aka"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "banye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "zipụ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kpọta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị enyi ya"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ndị enyi ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwunye ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:20:34.723874501Z",
+  "model": "glm-5.3"
+}

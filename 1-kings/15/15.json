@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "O wetara ⟨את⟩ ihe nsọ nna ya na ihe nsọ onwe ya n'ime ụlọ Yahwe — ọlaọcha, ọlaedo na ihe arụ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "o wetara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe nsọ nna ya"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ihe nsọ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "na ihe nsọ onwe ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ime ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọlaọcha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "na ihe arụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:03:25.956394741Z",
+  "model": "glm-5.3"
+}

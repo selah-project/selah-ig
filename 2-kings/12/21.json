@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ndị ohu ya biliri, ha wee mebie nkata mkparị, ha kụkwara ⟨את⟩ Yoash n'ụlụ Millo, nke na-esi ala gaa Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ha biliri"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "ha wee mebie nkata mkparị"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "nkata mkparị"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ha kụkwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n'ụlụ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "nke na-esi ala"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-08-27T10:20:19.560487502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "O wee gaa nwoke sitere n'ụlọ Levi, o wee were ⟨את⟩ nwa nwanyị nke Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "o wee gaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "site n'ụlọ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o wee were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa nwanyị"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:54.170423184Z",
+  "model": "glm-5.3"
+}

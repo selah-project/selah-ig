@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Serug wee dị ndụ afọ iri atọ, wee mụ ⟨את⟩ Nachor.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wee dị ndụ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "iri atọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wee mụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:58.684292230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 26:19",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 26,
+  "translation": "Ndị gị nwụrụ anwụ ga-adị ndụ; ozu m ga-ebilite; teenu ma na-abụ abụ, unu ndị bi n'ájá; n'ihi na mmiri uru nke ìhè bụ mmiri uru gị, ma ala ga-atụfu ndị nwụrụ anwụ.",
+  "tokens": [
+    {
+      "surface": "יחיו",
+      "gloss": "ha ga-adị ndụ"
+    },
+    {
+      "surface": "מתיך",
+      "gloss": "ndị gị nwụrụ anwụ"
+    },
+    {
+      "surface": "נבלתי",
+      "gloss": "ozu m"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "ha ga-ebilite"
+    },
+    {
+      "surface": "הקיצו",
+      "gloss": "teenu"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "ma na-abụ abụ"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "n'ájá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "טל",
+      "gloss": "mmiri uru"
+    },
+    {
+      "surface": "אורת",
+      "gloss": "nke ìhè"
+    },
+    {
+      "surface": "טלך",
+      "gloss": "mmiri uru gị"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ma ala"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ndị nwụrụ anwụ"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "ga-atụfu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:47:23.028834512Z",
+  "model": "glm-5.3"
+}

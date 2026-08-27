@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 59,
+  "translation": "Kaa ha n'iwe, kaa ha ka ha ghara ịdị; ka ha mata na Elohim na-achị na Yaakov, ruo n'ókè ⟨nke⟩ ⟨ụwa⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "kaa ha"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "n'iwe"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kaa ha"
+    },
+    {
+      "surface": "ואינמו",
+      "gloss": "ka ha ghara ịdị"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ka ha mata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משל",
+      "gloss": "na-achị"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "ruo n'ókè"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:08.965485364Z",
+  "model": "glm-5.3"
+}

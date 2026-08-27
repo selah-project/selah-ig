@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 121,
+  "translation": "Enyemaka m ⟨site⟩ na Yahwe, onye mere eluigwe na ⟨ihe⟩ ụwa.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Enyemaka m"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "⟨site⟩ na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "onye mere"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "eluigwe"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:53.670000133Z",
+  "model": "glm-5.3"
+}

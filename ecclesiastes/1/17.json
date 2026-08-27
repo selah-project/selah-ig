@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "M wee nye obi m ka ọ mara amamihe, na ịmara ndidi-ndidi na ọjọọ-ọjọọ; m wee mata na nke a a bụkwa mkpagharị nke mmụọ.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "m wee nye"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ka ọ mara"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "na ịmara"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "ndidi-ndidi"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "na ọjọọ-ọjọọ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "m wee mata"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a bụkwa"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "mkpagharị"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nke mmụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:11:18.522345965Z",
+  "model": "glm-5.3"
+}

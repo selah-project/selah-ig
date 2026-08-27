@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 63,
+  "translation": "Ya mere, ka m ka n' ndụ m, m ga-egọzi gị; n'aha gị ka m ga-edo aka m elu.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Ya mere"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "m ga-egọzi gị"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ka m ka n' ndụ m"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "n'aha gị"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ka m ga-edo elu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "aka m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:05.770770535Z",
+  "model": "glm-5.3"
+}

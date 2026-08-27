@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Ọ wee jide ⟨את⟩ Agag, eze Amalek, ndụ; ma ⟨את⟩ ndị niile ahụ ọ raara ha n'ọnwụ site n'ọnụ mma agha.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "Ọ wee jide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndị niile ahụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "ọ raara ha n'ọnwụ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "site n'ọnụ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mma agha"
+    }
+  ],
+  "timestamp": "2026-08-27T09:11:07.081712002Z",
+  "model": "glm-5.3"
+}

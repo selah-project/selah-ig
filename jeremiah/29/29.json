@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Tsefanyah onye nchuaja gụrụ ⟨את⟩ akwụkwọ ozi a n'nti Yirmeyahu onye amụma.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gụrụ"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchuaja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwụkwọ ozi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "akwụkwọ ozi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "n'nti"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "onye amụma"
+    }
+  ],
+  "timestamp": "2026-08-27T11:36:06.137655781Z",
+  "model": "glm-5.3"
+}

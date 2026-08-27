@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ị ga-edo ya nsọ, n'ihi na ọ na-ebute ⟨את⟩ nri Elohim gị; ọ ga-adị nsọ nye gị, n'ihi na mụ Yahwe, Onye na-eme ka unu bụrụ nsọ, bụ ⟨onye⟩ nsọ.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "ị ga-edo ya nsọ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "na-ebute"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ọ ga-adị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nye gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "nsọ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "Onye na-eme ka unu bụrụ nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:55.420145246Z",
+  "model": "glm-5.3"
+}

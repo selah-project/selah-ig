@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Nwoke ọ bụla n'ime unu, ejikwala onye ọ bụla nke anụ ahụ ya dị nso, bịarute ikpughe ịgba ọtọ; m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ọ bụla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ime"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "onye dị nso"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "anụ ahụ ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ejikwala"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "bịarute"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "ikpughe"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "ịgba ọtọ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:56:30.697159112Z",
+  "model": "glm-5.3"
+}

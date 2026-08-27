@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ma ọ bụrụ na ọ bụ nwanyị, ọnụahịa gị ga-abụ shekel iri atọ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "nwanyị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ọnụahịa gị"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "iri atọ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    }
+  ],
+  "timestamp": "2026-08-27T07:08:54.012065808Z",
+  "model": "glm-5.3"
+}

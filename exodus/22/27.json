@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Elohim, ị gaghị ekparị; na onye ndú n'etiti ndị gị, ị gaghị agọnarị.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ị gaghị"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ekparị"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "na onye ndú"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "n'etiti ndị gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ị gaghị"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "agọnarị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:23:16.789894635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "M kwuru: nke a bụ adịghị ike m; ma m ga-echeta afọ ndị aka-nri nke Elyon.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "m kwuru"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "adịghị ike m"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ọ̀ bụ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "aka-nri"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:22.797727073Z",
+  "model": "glm-5.3"
+}

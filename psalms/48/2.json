@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 48,
+  "translation": "Ukwu ka nke Yahwe, ọ na-eto nke ukwuu, n'obodo nke Elohim anyị, ugwu nsọ ⟨nke⟩ Ya.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Ukwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ọ na-eto nke ukwuu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nke ukwuu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nke Elohim anyị"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ugwu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "nsọ ⟨nke⟩ Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:32:12.173277446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Maka ndị niile ga-aga, onye ọ bụla n'aha chi ya; ma anyị ga-eje n'aha Yahwe Elohim anyị, ruo ebighị ebi, ruo mgbe nile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ga-aga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "n'aha"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "chi ya"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ma anyị"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ga-eje"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "n'aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo ebighị ebi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo mgbe nile"
+    }
+  ],
+  "timestamp": "2026-08-27T12:54:03.652362608Z",
+  "model": "glm-5.3"
+}

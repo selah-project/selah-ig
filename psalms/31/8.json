@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "M ga-agba ịgba ma ṅụrịanụ na chesed Gị, n'ihi na Ị hụrụ ⟨את⟩ mmekpa ahụ́ m; Ị maara nsogbu nke nkpụrụ obi m.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "M ga-agba ịgba"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "ma ṅụrịanụ"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "na chesed Gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "Ị hụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmekpa ahụ́ m"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mmekpa ahụ́ m"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Ị maara"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "nsogbu nke"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nkpụrụ obi m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:54.138358764Z",
+  "model": "glm-5.3"
+}

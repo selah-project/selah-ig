@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "na maka mmụọ nke ikpe ziri ezi, maka onye nọ ọdụ n'ikpe ahụ, na maka ike, maka ndị na-alọghachi aha ruo n'ọnụ ụzọ ámá.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "na maka mmụọ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ikpe ziri ezi"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "maka onye nọ ọdụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ikpe ahụ"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "na maka ike"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "ndị na-alọghachi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "agha"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "ruo ọnụ ụzọ ámá"
+    }
+  ],
+  "timestamp": "2026-08-27T10:47:50.289736572Z",
+  "model": "glm-5.3"
+}

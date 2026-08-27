@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "M ga-eme ụmụntakịrị ka ha bụrụ ndị isi ha, ma ndị na-enweghị uche ga-achị ha.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "M ga-eme"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ụmụntakịrị"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "ndị isi ha"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "ndị na-enweghị uche"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "ga-achị"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ha"
+    }
+  ],
+  "timestamp": "2026-08-27T10:32:24.515188049Z",
+  "model": "glm-5.3"
+}

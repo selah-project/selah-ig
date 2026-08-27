@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Yahwe na-enye ike nye ndị Ya; Yahwe na-agọzi ⟨את⟩ ndị Ya na udo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ike"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "nye ndị Ya"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "na-enye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "na-agọzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Ya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ndị Ya"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "na udo"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:07.473511282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 51,
+  "translation": "N'ihi na ịchọghị ọbara egbu, ma nye m ga-enye; ọkụ ọfuma ịchọghịkwa ịnata ọfuma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "ị chọrọ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ọbara egbu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ma nye m ga-enye"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ọkụ ọfuma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ị ga-anata ọfuma"
+    }
+  ],
+  "timestamp": "2026-08-27T13:33:02.752542067Z",
+  "model": "glm-5.3"
+}

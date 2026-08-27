@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Obodo niile nke unu ga-enye ndị Livai: obodo iri anọ na asatọ, ⟨את⟩ ha na ⟨את⟩ mpaghara ohere ha.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "unu ga-enye"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ndị Livai"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "iri anọ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "na asatọ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "ha (obodo ahụ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mpaghara ohere ha"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "mpaghara ohere ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:47:18.351151999Z",
+  "model": "glm-5.3"
+}

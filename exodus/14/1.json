@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Yahwe wee sị Moshe okwu, ka ọ na-ekwu,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wee sị okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:17:54.928001812Z",
+  "model": "glm-5.3"
+}

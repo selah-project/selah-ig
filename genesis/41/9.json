@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Ma onye-isi ndị na-eji ihe ọṅụṅụ sịrị Paroh okwu, sị: ⟨את⟩ mmehie m ka m na-echetara taa.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "sịrị okwu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "onye-isi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ndị na-eji ihe ọṅụṅụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmehie m"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "mmehie m"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "na-echetara"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    }
+  ],
+  "timestamp": "2026-08-27T05:54:15.934908338Z",
+  "model": "glm-5.3"
+}

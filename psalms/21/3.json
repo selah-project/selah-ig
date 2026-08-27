@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Mmasị nke obi ya ka nyere ya, ma arịrịọ nke mbọnụ ya ịjụghị. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Mmasị"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "nke obi ya"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ka nyere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "ma arịrịọ"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "nke mbọnụ ya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ịjụghị"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "ọ jụrụ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:21.313950034Z",
+  "model": "glm-5.3"
+}

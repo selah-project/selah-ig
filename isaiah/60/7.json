@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 60:7",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Anụ ìgwè niile nke Kedar ga-ezukọta gị, ndị nkịtị nke Nevayot ga-ejere gị ozi; ha ga-aga n'elu ebe-ichụ-aja m n'ọṅụ, ma ụlọ mara mma m ka m ga-eme ka ọ mara mma.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "anụ ìgwè"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    },
+    {
+      "surface": "יקבצו",
+      "gloss": "ga-ezukọta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gī"
+    },
+    {
+      "surface": "אילי",
+      "gloss": "ndị nkịtị"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevayot"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "ga-ejere gī ozi"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ha ga-aga elu"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "n'ọṅụ"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "ebe-ichụ-aja m"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ma ụlọ"
+    },
+    {
+      "surface": "תפארתי",
+      "gloss": "mara mma m"
+    },
+    {
+      "surface": "אפאר",
+      "gloss": "ka m ga-eme ka ọ mara mma"
+    }
+  ],
+  "timestamp": "2026-08-27T11:09:03.693881634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ma ọ bụrụ na ị kọwapụta ⟨את⟩ okwu anyị a, anyị ga-adị mgbaghara site n'iyi ahụ nke ị na-eyi anyị.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "ị kọwapụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu anyị a"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "okwu anyị"
+    },
+    {
+      "surface": "זה",
+      "gloss": "a"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "anyị ga-adị"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "mgbaghara"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "site n'iyi gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "ị na-eyi anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:20:58.916531145Z",
+  "model": "glm-5.3"
+}

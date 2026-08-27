@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 4:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ọ ga-abụ na onye fadụrụ na Tsiyon, na onye nọrọ na Yerushalayim, a ga-akpọ ya onye nsọ — onye ọ bụla edere ya maka ndụ na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "onye fadụrụ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Tsiyon"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "na onye nọrọ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "onye nsọ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a ga-akpọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "edere ya"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "maka ndụ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T10:36:13.467918350Z",
+  "model": "glm-5.3"
+}

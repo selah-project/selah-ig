@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 141,
+  "translation": "Tọọ, Yahwe, onye nche n'ọnụ m; chekwaa ọnụ ụzọ nke mmịpụta ọnụ m.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "tọọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "onye nche"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "n'ọnụ m"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "chekwaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "nke ọnụ m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:09:20.213739216Z",
+  "model": "glm-5.3"
+}

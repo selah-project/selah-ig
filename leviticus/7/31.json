@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Onye-nchu-aja ga-ese ⟨את⟩ abụba ọkụ n'elu ebe-ichu-aja; mana obi ahụ ga-abụ nke Aharon na ụmụ-ya.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ga-ese ọkụ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Onye-nchu-aja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abụba"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "abụba"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "n'elu ebe-ichu-aja"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "obi"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "nke Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "na ụmụ-ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:46:27.668232366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ụlọ Yaakov, bia anyị na gaa n'ìhè Yahwe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Ụlọ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "bia"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "anyị na gaa"
+    },
+    {
+      "surface": "באור",
+      "gloss": "n'ìhè"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T10:31:06.152895975Z",
+  "model": "glm-5.3"
+}

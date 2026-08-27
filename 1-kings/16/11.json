@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "O wee bụrụ na mgbe ọ na-achị, ozugbo o nọdọrọ n'ocheeze ya, ọ tara ⟨את⟩ bụ mmadụ niile nke ụlọ Baasha; ọ dọghị ya onye ọ bụla na-amaji mgbidi, ma onye mgbapụta ya ma ezigbo enyi ya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "O wee bụrụ na"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "mgbe ọ na-achị"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "ozugbo o nọdọrọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ocheeze ya"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ọ tara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bụ mmadụ niile nke ụlọ Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dọghị"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ahapụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "onye na-amaji"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "mgbidi"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "ma onye mgbapụta ya"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "ma ezigbo enyi ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:03:37.965264681Z",
+  "model": "glm-5.3"
+}

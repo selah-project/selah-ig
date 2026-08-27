@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma Dauid jidere ya na-atụ ụjọ Yahwe n'ụbọchị ahụ, wee sị, Otu esi abịa n'ebe m nọ ⟨את⟩ ark nke Yahwe?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ji-atụ-ọsọ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dauid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma-ọ-sị"
+    },
+    {
+      "surface": "איך",
+      "gloss": "otu-esi"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ga-abịa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n'ebe-m"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T09:33:11.787802903Z",
+  "model": "glm-5.3"
+}

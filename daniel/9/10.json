@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 9:10",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Anyị anụghịkwa olu Yahwe, Elohim anyị, iji na-aga n'iwu ya ndị o nyere n'ihu anyị, site n'aka ndị ohu ya, ndị amụma.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "anụghịkwa"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "anyị"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim anyị"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "iji na-aga"
+    },
+    {
+      "surface": "בתורתיו",
+      "gloss": "n'iwu ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o nyere"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "n'ihu anyị"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "site n'aka"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ohu ya"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ndị amụma"
+    }
+  ],
+  "timestamp": "2026-08-27T15:30:38.076053278Z",
+  "model": "glm-5.3"
+}

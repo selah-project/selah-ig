@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Yahwe, Elohim nke m, ⟨gị bụ⟩; m ga-ebuli gị elu, m ga-eto aha gị, n'ihi na i mere ihe dị egwu, atụmatụ sitere na oge ochie, na-ezo ntụkwasị obi, amen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "m ga-ebuli gị elu"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "m ga-eto gị"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aha gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i mere"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ihe dị egwu"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "atụmatụ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "site na oge ochie"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ntụkwasị obi"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-08-27T10:47:07.563357370Z",
+  "model": "glm-5.3"
+}

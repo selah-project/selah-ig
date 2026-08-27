@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Eze Aram nyere ⟨את⟩ ndị isi ịnyanya ya iwu, ka ọ sị: \"Anaghị alụso ⟨את⟩ onye nta ma ọ bụ ⟨את⟩ onye ukwu ọgụ, naanị ⟨את⟩ eze Yisrael ka ọ bụ.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị isi ịnyanya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ịnyanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka ọ sị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "alụso ọgụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye nta"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "onye nta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye ukwu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "onye ukwu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ka ọ bụ naanị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eze Yisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "naanị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:14:01.762138250Z",
+  "model": "glm-5.3"
+}

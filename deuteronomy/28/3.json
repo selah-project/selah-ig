@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "A gọziri gị n'obodo, ma a gọziri gị n'ubi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "a gọziri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "n'obodo"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ma a gọziri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "n'ubi"
+    }
+  ],
+  "timestamp": "2026-08-27T08:13:53.824785435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "Onye mụzọ m bụrụ nye ụmụnne m, na onye ọzọ nye ụmụ nne m.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "onye mụzọ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "m bụrụ"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "nye ụmụnne m"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "na onye ọzọ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "nye ụmụ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nne m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:38:30.686943048Z",
+  "model": "glm-5.3"
+}

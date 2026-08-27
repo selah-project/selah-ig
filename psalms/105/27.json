@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Ha tinyere n'etiti ha okwu ngosi ngosi ya, na ihe ijuanya n'ala Cham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Ha tinyere"
+    },
+    {
+      "surface": "בם",
+      "gloss": "n'etiti ha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ngosi ngosi ya"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "na ihe ijuanya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.723059044Z",
+  "model": "glm-5.3"
+}

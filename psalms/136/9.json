@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 136,
+  "translation": "⟨את⟩ ọnwa na ⟨את⟩ kpakpando ka o nyere iji chịwa abalị, maka na ruo mgbe ebighị ebi ka chesed Ya na-adị.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọnwa"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "ọnwa"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "na kpakpando"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "iji chịwa"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "n'abalị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed Ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:26.461197597Z",
+  "model": "glm-5.3"
+}

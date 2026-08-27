@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Anyị gịrịghị ịkpọ nsọ: ndụ maka ndụ, anya maka anya, ọkwụ maka ọkwụ, aka maka aka, ụkwụ maka ụkwụ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gịrịghị"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ịkpọ nsọ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "anya gị"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "maka ndụ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "anya"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "maka anya"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ọkwụ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "maka ọkwụ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "maka aka"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ụkwụ"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "maka ụkwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:03:25.471876292Z",
+  "model": "glm-5.3"
+}

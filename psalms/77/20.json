@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "N'oké osimiri ka ụzọ gị dị; okporo ụzọ gị n'ime mmiri ndị dị ukwuu; a maghịkwa ọnya ụkwụ gị.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "n'oké osimiri"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ụzọ gị"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "okporo ụzọ gị"
+    },
+    {
+      "surface": "במים",
+      "gloss": "n'ime mmiri"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dị ukwuu"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "ọnya ụkwụ gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "a maara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:43:25.925805478Z",
+  "model": "glm-5.3"
+}

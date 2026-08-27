@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Lee, a nọghị na-ebu ⟨את⟩ ọbara ya bata n'ebe nsọ n'ime; unu ga-eri ⟨את⟩ ya n'ebe nsọ, dịka m nyere ⟨unu⟩ iwu.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Lee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "a na-ebu bata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọbara ya"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ọbara ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bata"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ebe nsọ"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "iri"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "unu ga-eri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "n'ebe nsọ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "m nyere iwu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:50:38.587138721Z",
+  "model": "glm-5.3"
+}

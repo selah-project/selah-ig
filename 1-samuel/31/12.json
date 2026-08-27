@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "mmadụ niile nwere ike bilite, wee gaa oge abalị niile, were ⟨את⟩ ahụ Shaụl na ⟨את⟩ ahụ ụmụ ya n'elu mgbidi Bet-Shan, wee bịa Yabesha, wee gbaa ⟨את⟩ ha ọkụ ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "ha bilite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nwere ike"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ha gara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "abalị"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ha were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahụ Shaụl"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaụl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ahụ ụmụ ya"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "n'elu mgbidi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "-Shan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ha bịara"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "Yabesha"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ha gbara ọkụ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha (ahụ ndị ahụ)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:28:14.460809752Z",
+  "model": "glm-5.3"
+}

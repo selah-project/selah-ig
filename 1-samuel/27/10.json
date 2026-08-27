@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Akish wee sị: 'Ị́ wakporo ebe ole taa?' Davide wee sị: 'N'ala ndida nke Yehuda, na n'ala ndida nke HaYerachmeeli, na n'ala ndida nke HaKeni.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ọ dịla"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "wakporo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ala ndida"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na n'"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ala ndida"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "HaYerachmeeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na n'"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ala ndida"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "HaKeni"
+    }
+  ],
+  "timestamp": "2026-08-27T09:25:17.050131951Z",
+  "model": "glm-5.3"
+}

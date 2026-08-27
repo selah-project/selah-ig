@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Karịa ndị iro m, iwu gị na-eme m ka m nwee amamihe, maka ọ dịgidere ruo mgbe ebighị na m.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "karịa ndị iro m"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "na-eme m ka m nwee amamihe"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "iwu gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:01.034039326Z",
+  "model": "glm-5.3"
+}

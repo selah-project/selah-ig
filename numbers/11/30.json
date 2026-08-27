@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ma Moshe laghachiri n'ogige ahụ, ya na ndị okenye Yisraɛl.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "laghachiri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ogige ahụ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ya (n'onwe ya)"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ya na ndị okenye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    }
+  ],
+  "timestamp": "2026-08-27T07:25:48.701790252Z",
+  "model": "glm-5.3"
+}

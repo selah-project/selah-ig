@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Moshe dekwara ⟨את⟩ mbipụta ha dịka njem ha, site n'ọnụ Yahwe; ma nke a ⟨bụ⟩ njem ha dịka mbipụta ha.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "dekwara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbipụta ha"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "mbipụta ha"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "dịka njem ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "site"
+    },
+    {
+      "surface": "פי",
+      "gloss": "n'ọnụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ma nke a"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "njem ha"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "dịka mbipụta ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:47:06.834170652Z",
+  "model": "glm-5.3"
+}

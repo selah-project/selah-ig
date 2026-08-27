@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 22:4",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "N'ihi na ma ọ bụrụ na unu mere n'ezie ⟨את⟩ okwu a, ndị eze nọ ọdụ n'oche-eze Dovid ga-abata n'ọnụ ụzọ ụlọ a, na-agba ịnyịnya wara na ịnyịnya ibu, ọ bụ ya na ndị ohu ya na ndị ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mere"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ga-abata"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "n'ọnụ ụzọ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ndị eze"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "nọ ọdụ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Dovid"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "oche-eze ya"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "na-agba"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "ịnyịnya wara"
+    },
+    {
+      "surface": "ובסוסים",
+      "gloss": "na ịnyịnya ibu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ ya"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "na ndị ohu ya"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "na ndị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:29:51.147448872Z",
+  "model": "glm-5.3"
+}

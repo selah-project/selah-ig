@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Mụ kwa ga-eme ka ⟨את⟩ obi Paroh sie ike, mụ ga-ịbawanye ⟨את⟩ akara ndị m na ⟨את⟩ ngọzi mara mma ndị m n'ala Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mụ kwa"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "ga-eme ka... sie ike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "mụ ga-ịbawanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akara ndị m"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "akara ndị m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngọzi mara mma ndị m"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "ngọzi mara mma ndị m"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:18.155119168Z",
+  "model": "glm-5.3"
+}

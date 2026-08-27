@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ya bụ Elohim gwara Noa: Ngwụcha nke anụ niile abịaala n'ihu m, maka ⟨à⟩ ụwa ajụọla ime ihe ike n'ihu ha; le, m na-ebibi ha tinyere ⟨את⟩ ụwa ahụ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ngwụcha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "anụ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "abịaala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ajụọla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ime ihe ike"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "n'ihu ha"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "le, m"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "na-ebibi ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụwa ahụ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:29:18.680914896Z",
+  "model": "glm-5.3"
+}

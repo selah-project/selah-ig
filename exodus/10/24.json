@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Paroh kpọrọ Moshe, ma kwuo: Na, jere ozi ⟨את⟩ Yahwe; naanị atụrụ gị na ehi gị ka a ga-ahapụ; ọgba mbọ gị ga-agakwụ unu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kpọrọ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": " nye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma kwuo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Na"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "jere ozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "atụrụ gị"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "na ehi gị"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "ka a ga-ahapụ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwụ"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ọgba mbọ gị"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ga-agakwụ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "unu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:13:58.051448878Z",
+  "model": "glm-5.3"
+}

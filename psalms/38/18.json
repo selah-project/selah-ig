@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Maka m ⟨dị⟩ njikere ịda, na mgbu m nọ mgbe niile n'ihu m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "njikere ịda"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "⟨dị⟩ edoziri"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "na mgbu m"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "n'ihu m"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:19.061404705Z",
+  "model": "glm-5.3"
+}

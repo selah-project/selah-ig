@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 145,
+  "translation": "Iji mee ka ụmụ mmadụ mata omume ike ya, na ugbu mma nke ùgwù ezeịchị ya.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "Iji mee ka ... mata"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "omume ike ya"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na ugbu mma"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "nke ùgwù"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ezeịchị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:10.696286663Z",
+  "model": "glm-5.3"
+}

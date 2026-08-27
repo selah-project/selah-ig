@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "N'ihi na ihe na-emebi emebi nye Yahwe, Elohim gị, bụ onye ọ bụla na-eme ihe ndị a, onye ọ bụla na-eme ihe na-ezighị ezi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ihe na-emebi emebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ihe ndị a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "na-eme"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ihe na-ezighị ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T08:07:49.970225895Z",
+  "model": "glm-5.3"
+}

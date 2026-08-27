@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ma ugbu a, m ga-eme ka ⟨את⟩ ihere ya pụta ìhè n'anya ndị hụrụ ya n'anya, ma ọ dịghị onye ga-azọpụta ya n'aka m.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ma ugbu a"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "m ga-eme ka ọ pụta ìhè"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihere ya"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "ihere ya"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "n'anya"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "ndị hụrụ ya n'anya"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ma onye ọ bụla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "ga-azọpụta ya"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "n'aka m"
+    }
+  ],
+  "timestamp": "2026-08-27T12:38:38.542615909Z",
+  "model": "glm-5.3"
+}

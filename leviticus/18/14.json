@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Ọṅụ ọṅụ nke nwanne nna gị ị gaghị ekpughe; nwunye ya ị gaghị eruso, nwanne nne nne gị ka ọ bụ.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ọṅụ ọṅụ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nwanne"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ị ga-ekpughe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "nwunye ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ị ga-eruso"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "nwanne nne gị"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ka ọ bụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:56:19.337992505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Eliya were ⟨את⟩ uwe-mkpu ya, wee kezie ya, were tie ⟨את⟩ mmiri ahụ, mmiri ahụ wee kewaa n'akụkụ a na n'akụkụ nke ọzọ, ha abụọ wee gafee n'ala kpọrọ nkụ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "were"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe-mkpu ya"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "uwe-mkpu ya"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "wee kezie ya"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "were tie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmiri ahụ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri ahụ"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "kewaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "n'akụkụ a"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na n'akụkụ nke ọzọ"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "gafee"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ha abụọ"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "n'ala kpọrọ nkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:12:02.056943575Z",
+  "model": "glm-5.3"
+}

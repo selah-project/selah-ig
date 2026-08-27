@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Aminadav wee mụọ ⟨את⟩ Nakshon, Nakshon wee mụọ ⟨את⟩ Salmah.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Aminadav wee"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "Nakshon wee"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmah"
+    }
+  ],
+  "timestamp": "2026-08-27T15:05:54.642213340Z",
+  "model": "glm-5.3"
+}

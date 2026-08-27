@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Na ⟨את⟩ ntọala nke ulo-ikwu ubi gbara ya gburugburu, na ⟨את⟩ ntọala nke ọnụ ụzọ ulo-ikwu ubi, na ⟨את⟩ ogugu osisi niile nke ebe nchekwa, na ⟨את⟩ ogugu osisi niile nke ulo-ikwu ubi gbara ya gburugburu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntọala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ntọala"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "nke ulo-ikwu ubi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntọala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ntọala"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "nke ulo-ikwu ubi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ogugu osisi niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ogugu osisi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "nke ebe nchekwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ogugu osisi niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ogugu osisi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "nke ulo-ikwu ubi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:40:19.688759782Z",
+  "model": "glm-5.3"
+}

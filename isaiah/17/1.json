@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Ibu nke Dameshek: le, a ewepụla Dameshek ka ọ ghara ịbụ obodo, ọ ga-abụrịrị mkpọkọru mkpọfu.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Ibu"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dameshek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dameshek"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "a ewepụla"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ka ọ ghara ịbụ obodo"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ọ ga-abụrịrị"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mkpọkọru"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "mkpọfu"
+    }
+  ],
+  "timestamp": "2026-08-27T10:44:00.131790264Z",
+  "model": "glm-5.3"
+}

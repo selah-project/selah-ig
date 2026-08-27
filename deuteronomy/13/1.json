@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "⟨את⟩ okwu niile nke m na-enyere unu iwu, ya ka unu ga-echebe iji mee; unu agaghị agbakwunye ihe ya, unu agaghị ewepụkwa ihe site na ya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "na-enyere iwu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "unu ga-echebe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "iji mee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "agbakwunye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "ewepụ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "site na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T08:00:33.340238597Z",
+  "model": "glm-5.3"
+}

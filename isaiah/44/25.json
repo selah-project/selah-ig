@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 44:25",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "Onye na-emebi ihe ọmụma nke ndị na-asị ụgha, ma na-eme ka ndị na-agụ ọmụmụ ghara isi; onye na-atụgharị ⟨⟩ ndị amamihe azụ, ma na-eme ka ihe ọmụma ha ghara isi kpamkpam.",
+  "tokens": [
+    {
+      "surface": "מפר",
+      "gloss": "na-emebi"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "ihe ọmụma"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "וקסמים",
+      "gloss": "na ndị na-agụ ọmụmụ"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "ọ na-eme ka ha ghara isi"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "na-atụgharị"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ndị amamihe"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "azụ"
+    },
+    {
+      "surface": "ודעתם",
+      "gloss": "na ihe ọmụma ha"
+    },
+    {
+      "surface": "ישכל",
+      "gloss": "ọ na-eme ka ọ bụrụ nzuzu"
+    }
+  ],
+  "timestamp": "2026-08-27T11:00:15.818087194Z",
+  "model": "glm-5.3"
+}

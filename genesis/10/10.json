@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Mmalite nke alaeze ya bụ Bavel, na Erek, na Akad, na Kalneh, n'ala Shin'ar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mmalite"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "nke alaeze ya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "na Erek"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "na Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "na Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shin'ar"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:06.128030265Z",
+  "model": "glm-5.3"
+}

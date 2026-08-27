@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Yahwe sịrị okwu nye Moshe, sị:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "na ọ sịrị okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:32.781073866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Ndị na-ahụ gị ga-ele gị anya, ha ga-atụgharị uche banyere gị, na-asị: \"Ọ bụ nwoke a ka na-akpagbu ⟨⟨ụwa⟩⟩, na-ama alaeze jijiji?\"",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "ndị na-ahụ gị"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "n'ebe ị nọ"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "ha ga-ele anya nke ọma"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "n'ebe ị nọ"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "ha ga-atụgharị uche"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a ka bụ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "na-akpagbu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "na-ama jijiji"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "alaeze"
+    }
+  ],
+  "timestamp": "2026-08-27T10:38:38.009633117Z",
+  "model": "glm-5.3"
+}

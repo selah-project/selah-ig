@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "Ike m na abụ m ⟨ bụ ⟩ Yah, ọ ghọọla nzọpụta m.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ike m"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "na abụ m"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ ghọọla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "dịka nzọpụta"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:45.612118211Z",
+  "model": "glm-5.3"
+}

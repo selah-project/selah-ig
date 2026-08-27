@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 57,
+  "translation": "Kelee gị m ga-eme n'etiti ndị agbụrụ, Adonai; m ga-abụ gị abụ n'etiti mba ndị.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Kelee gị m ga-eme"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "n'etiti ndị agbụrụ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "m ga-abụ gị abụ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "mba ndị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:35.206954037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ma ị ga-alaghachi, ị ga-ege ntị n'olu Yahwe, ma rụọ ⟨את⟩ iwu ya niile nke m na-nyere gị ntị taa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma ị"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ga-alaghachi"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ga-ege ntị"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "n'olu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ma rụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu ya niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "iwu ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "m"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "na-nyere gị ntị"
+    },
+    {
+      "surface": "היום",
+      "gloss": "taa"
+    }
+  ],
+  "timestamp": "2026-08-27T16:30:15.503448291Z",
+  "model": "glm-5.3"
+}

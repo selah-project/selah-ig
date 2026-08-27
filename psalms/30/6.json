@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Maka n'iwe ya ⟨ọ̀ bụ⟩ mgbe nlelị anya; ndụ nọ n'ọnọdụ ọchịchị ya; na-abalị ara mmiri ga-ezu, mana n'ụtụtụ abịrị abụ ọṅụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "mgbe nlelị anya"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "n'iwe ya"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "n'ọnọdụ ọchịchị ya"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "na-abalị"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ga-ezu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ara mmiri"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "n'ụtụtụ"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "abụ ọṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:29.426570729Z",
+  "model": "glm-5.3"
+}

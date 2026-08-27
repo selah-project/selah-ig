@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Ọ gaghị eti mkpu, Ọ gaghị ebuli olu elu, Ọ gaghị eme ka a nụ olu ya n'okporo ụzọ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ọ gaghị"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "eti mkpu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Ọ gaghịkwa"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ebuli elu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Ọ gaghịkwa"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "eme ka a nụ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "n'okporo ụzọ"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "olu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T10:59:19.650546563Z",
+  "model": "glm-5.3"
+}

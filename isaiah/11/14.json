@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ha ga-efe n'ubu Pelishtim na-aga oké osimiri; ha ga-etipụta ⟨את⟩ ụmụ Kedem ọnụ; Edom na Moab ga-abụ izi aka ha, ụmụ Amon ga-agbaso ihe ha kwuru.",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "ga-efe"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "n'ubu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "na-aga oké osimiri"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "ga-etipụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Kedem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kedem"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "izi"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "aka ha"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "ga-agbaso ihe ha kwuru"
+    }
+  ],
+  "timestamp": "2026-08-27T10:39:46.018922288Z",
+  "model": "glm-5.3"
+}

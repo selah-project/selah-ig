@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Unu ga-agba ⟨את⟩ ⟨the⟩ obodo gburugburu, ụmụ nile nke agha, na-agagharị gburugburu ⟨the⟩ obodo otu ugboro; otu a ka ị ga-eme ụbọchị isii.",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "unu ga-agba gburugburu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ obodo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨the⟩ obodo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ụmụ nke"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "agha"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "na-agagharị gburugburu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ obodo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨the⟩ obodo"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "ugboro"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ị ga-eme"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "isii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:22:32.994878523Z",
+  "model": "glm-5.3"
+}

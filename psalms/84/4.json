@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 84,
+  "translation": "Ọbụna nnnụ̀nụ ahụrụla ụlọ, na mgbughari ahụla ebe ọ ga-anọ maka ụmụ ya, n'akụkụ ⟨את⟩ ebe ịchụàjà gị, Yahwe nke ndị agha, Eze m na Elohim m.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ọbụna"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "nnụ̀nụ (ndọwara)"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ahụla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "na mgbughari"
+    },
+    {
+      "surface": "קן",
+      "gloss": "ebe ọ ga-anọ (ọ bụla)"
+    },
+    {
+      "surface": "לה",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ebe ọ"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "debere"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebe ịchụàjà gị"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "ebe ịchụàjà gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Eze m"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Elohim m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:49:20.625699787Z",
+  "model": "glm-5.3"
+}

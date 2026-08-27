@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Onye ọ bụla na-eri ya ga-ebu mmehie ya, n'ihi na ọ kọchasiri ⟨את⟩ ihe nsọ nke Yahwe; mmadụ ahụ a ga-ewepụ ya n'etiti ndị ya.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "onye na-eri ya"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "mmehie ya"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ga-ebu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe nsọ nke Yahwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ihe nsọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "kọchasi"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "a ga-ewepụ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "mmadụ ahụ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "n'etiti ndị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:58:13.110245239Z",
+  "model": "glm-5.3"
+}

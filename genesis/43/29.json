@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 43:29",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Ọ welitere anya ya, wee hụ ⟨את⟩ Binjamin, nwanne ya, nwa nke nne ya, wee sị, Ọ̀ bụ nke a bụ nwanne unu nke obere, nke unu kwuru nye m? Ma ọ sị, Elohim ga-enye gị amara, nwa m.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ọ welitere"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "anya ya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wee hụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nwanne ya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nke nne ya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ọ̀ bụ nke a"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "nwanne unu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nke obere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "unu kwuru"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nye m"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ma ọ sị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחנך",
+      "gloss": "ga-enye gị amara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    }
+  ],
+  "timestamp": "2026-08-27T05:57:48.891606416Z",
+  "model": "glm-5.3"
+}

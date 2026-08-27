@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Mgbe a na-achịkọta ndị mmadụ ọnụ, na alaeze ndị ahụ, iji jeere ⟨את⟩ Yahwe ozi.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "mgbe a na-achịkọta"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "na alaeze"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "iji jeere ozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:49.776558090Z",
+  "model": "glm-5.3"
+}

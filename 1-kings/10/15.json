@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Na mgbakwunye nke ndị ahịa na nke ahịa ndị na-ere ahịa, na nke ndị eze niile nke ⟨the⟩ Arabia, na nke ndị isi ala ahụ.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "na mgbakwunye"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "nke ndị"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "ndị ahịa"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "na nke ahịa"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "ndị na-ere ahịa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na nke niile"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "eze"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "Arabia"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "na nke ndị isi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:37:05.355721482Z",
+  "model": "glm-5.3"
+}

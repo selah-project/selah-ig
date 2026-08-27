@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Nke a bụ ọgbọ nke ndị na-achọ Ya, ndị na-achọ ihu Gị, Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ndị na-achọ Ya"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ndị na-achọ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ihu Gị"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:23:00.853847873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Ma guzosie ya maka Yaakov dịka iwu, maka Yisrael dịka ọgbụgba-ndụ ⟨na-adịgide⟩.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "Ma guzosie ya"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "maka Yaakov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "dịka iwu"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "maka Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na-adịgide"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:31.217343956Z",
+  "model": "glm-5.3"
+}

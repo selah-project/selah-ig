@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 107,
+  "translation": "Ha hụrụ ọrụ Yahwe, na ihe dị ịtụnanya ya n'omimi mmiri.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hụrụ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "na ihe dị ịtụnanya ya"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "n'omimi mmiri"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:42.531777702Z",
+  "model": "glm-5.3"
+}

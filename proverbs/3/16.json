@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ogologo ụbọchị dị n'aka nri ya; n'aka ekpe ya, akụ na ùgwù.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ogologo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "n'aka nri ya"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "n'aka ekpe ya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "akụ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na ùgwù"
+    }
+  ],
+  "timestamp": "2026-08-27T14:13:37.850655352Z",
+  "model": "glm-5.3"
+}

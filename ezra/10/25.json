@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 10:25",
+  "book": "ezra",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma n'ime Yisrael: n'ụmụ Parosh: Ramjah, na Yizjah, na Malkijah, na Miyamin, na Elazar, na Malkijah, na Benajah.",
+  "tokens": [
+    {
+      "surface": "ומישראל",
+      "gloss": "ma n'ime Yisrael"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "n'ụmụ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "Ramjah"
+    },
+    {
+      "surface": "ויזיה",
+      "gloss": "na Yizjah"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "na Malkijah"
+    },
+    {
+      "surface": "ומימן",
+      "gloss": "na Miyamin"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "na Elazar"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "na Malkijah"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "na Benajah"
+    }
+  ],
+  "timestamp": "2026-08-27T15:38:25.239466463Z",
+  "model": "glm-5.3"
+}

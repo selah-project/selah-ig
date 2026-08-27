@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Onye nchụàjà ga-ewe ⟨את⟩ nwa atụrụ nke onyinye mmejọ na ⟨את⟩ log mmanụ, onye nchụàjà ga-ebuli ⟨את⟩ ha elu dị ka ngagharị n'ihu Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ga-ewe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa atụrụ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "nwa atụrụ"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "nke onyinye mmejọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "log mmanụ"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mmanụ"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ga-ebuli elu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "nwa atụrụ na log mmanụ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye nchụàjà"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ngagharị"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:53:02.863054447Z",
+  "model": "glm-5.3"
+}

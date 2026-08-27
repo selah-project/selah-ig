@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Yahwe ga-enye ha n'ihu unu, unu ga-emekwa ha ihe dịka iwu niile nke m nyere ⟨את⟩ unu.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "ga-enye ha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "n'ihu unu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "unu ga-emekwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dịka iwu niile nke"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "m nyere"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu",
+      "marks": "unu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:19:31.639706283Z",
+  "model": "glm-5.3"
+}

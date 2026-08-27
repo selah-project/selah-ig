@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ụgha ka ha na-ekwu, onye ọ bụla ya na ⟨את⟩ onye ya na ya na-emekọrịta; naọnụ-mmanyi ha na-adị larịị, na obi abụọ ka ha na-ekwu.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Ụgha"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ka ha na-ekwu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onye ya na ya na-emekọrịta"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "onye ya na ya na-emekọrịta"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "larịị (nke mmanyi)"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "na obi"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "na obi abụọ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ka ha na-ekwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:17:03.085552349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Mkpụrụ obi nke onye irugharị na-achọ ma ọ nweghị ihe; mana mkpụrụ obi nke ndị ọsịsa ga-abụrịrị abụba.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "na-achọ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma ọ nweghị ihe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mkpụrụ obi ya"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "onye irugharị"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "mana mkpụrụ obi"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "ndị ọsịsa"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ga-abụrịrị abụba"
+    }
+  ],
+  "timestamp": "2026-08-27T14:22:33.748004960Z",
+  "model": "glm-5.3"
+}

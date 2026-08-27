@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 105,
+  "translation": "Yisrael wee bata Mitzrayim, na Yaakov nọrọ dịka onye ọbịa n'ala Cham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wee bata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "nọrọ dịka onye ọbịa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-08-27T13:55:31.807170499Z",
+  "model": "glm-5.3"
+}

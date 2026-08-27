@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Nke gị ụbọchị, ọbụnadị nke gị abalị; Ị kwadoro ìhè na anyanwụ.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "nke gị"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ọbụnadị"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nke gị"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "abalị"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "kwadoro"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ìhè"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "na anyanwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:34.870687128Z",
+  "model": "glm-5.3"
+}

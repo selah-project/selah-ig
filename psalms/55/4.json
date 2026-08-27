@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 55,
+  "translation": "N'ihi olu onye iro, n'ihi nsogbu nke onye rụrụ arụ, n'ihi na ha na-ada mmanụ rụrụ arụ n'elu m, na n'iwe ha na-akpọsasị m.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "n'ihi olu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nke onye iro"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihi nsogbu"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "nke mmanụ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nke onye rụrụ arụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "ha na-ada"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'elu m"
+    },
+    {
+      "surface": "און",
+      "gloss": "mmanụ rụrụ arụ"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "na n'iwe ha"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "ha na-akpọsasị m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:59.020920357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 90,
+  "translation": "Ị etinyela njọ anyị n'ihu Gị; ihe anyị zoro n'ìhè nke ihu Gị.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Ị etinyela"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "njọ anyị"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "n'ihu Gị"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "ihe anyị zoro"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "n'ìhè"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nke ihu Gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:51:40.901209295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Yehonatan na David wee kweọkọ̀ ọgbụgba-ndụ, n'ihi na ọ hụrụ ya n'anya dịka mkpụrụ obi ya si dị.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "kweọkọ̀"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "na David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ọgbụgba-ndụ"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "n'ihi ịhụnanya ya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "dịka mkpụrụ obi ya si dị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:16:11.194494108Z",
+  "model": "glm-5.3"
+}

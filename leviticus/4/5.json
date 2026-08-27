@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Onye-nchu-aja e-tere-mmanụ ga-ewe ụfọdụ n'ọbara nke ehi ahụ, ma tinye ⟨את⟩ ya n'ụlọikwú nzukọ.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ga-ewe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "e-tere-mmanụ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ụfọdụ n'ọbara"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "nke ehi ahụ"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ụlọikwú"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:46:40.957166440Z",
+  "model": "glm-5.3"
+}

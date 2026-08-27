@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ọdịna nye ndị na-ede iwu ndị nzọ mbọ, na ndị na-ede ihe nta mkpọsa ka ha dee",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ọdịna"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "ndị na-ede iwu"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "און",
+      "gloss": "nzọ mbọ"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "na ndị na-ede"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ihe nta mkpọsa"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "ka ha dee"
+    }
+  ],
+  "timestamp": "2026-08-27T16:39:14.308311933Z",
+  "model": "glm-5.3"
+}

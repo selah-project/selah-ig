@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "N'nefesh anyị ka anyị na-eweta nri anyị, n'iihu mma nke ọzara.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "n'nefesh anyị"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "anyị na-eweta"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "nri anyị"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'iihu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mma"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "nke ọzara"
+    }
+  ],
+  "timestamp": "2026-08-27T15:11:11.637318713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 112,
+  "translation": "Onye ajọ omume ga-ahụ ya, ma iwe were ya; ọ ga-eji ezé ya tapiala, ma gbazee; uchuche ndị ajọ omume ga-emebi.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Onye ajọ omume"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ga-ahụ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ma iwe were ya"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ezé ya"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "ga-tapiala"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ma gbazee"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "uchuche"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ga-emebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:57:54.660754284Z",
+  "model": "glm-5.3"
+}

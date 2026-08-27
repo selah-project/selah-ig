@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 73,
+  "translation": "Ha tinye ọnụ ha n'eluigwe, ma asụsụ ha na-eje ije n'ụwa.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "Ha tinye"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ọnụ ha"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ma asụsụ ha"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "na-eje ije"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:39.139915975Z",
+  "model": "glm-5.3"
+}

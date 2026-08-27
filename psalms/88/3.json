@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 88,
+  "translation": "Ka ekpere m bata n'ihu gị; tilie ntị gị na mkpu m.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Ka ọ bata"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ekpere m"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "tilie"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ntị gị"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "na mkpu m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:03.038688461Z",
+  "model": "glm-5.3"
+}

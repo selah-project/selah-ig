@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 76,
+  "translation": "Mgbe Elohim biliri na ⟨ikpe⟩, i zọpụta ndị nwayiọọ niile nke ụwa. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "mgbe … biliri"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "na ikpe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "i zọpụta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "ndị nwayiọọ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nke ụwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T16:48:16.881444889Z",
+  "model": "glm-5.3"
+}

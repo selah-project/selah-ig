@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Ụbọchị isii ka ị na-ewere ⟨את⟩ ya, ma n'ụbọchị nke asaa — Sabat — ọ gaghị adị na ya.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "isii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "ị na-ewere ⟨את⟩ ya"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ma n'ụbọchị"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "nke asaa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghị"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ọ ga-adị"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:19:29.806609686Z",
+  "model": "glm-5.3"
+}

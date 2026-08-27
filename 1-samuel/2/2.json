@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Enweghị onye nsọ dị ka Yahwe, n'ihi na enweghị onye ọzọ ma gịnanị, ma enweghị nkume dị ka Elohim anyị.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Enweghị"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "onye nsọ"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "dị ka Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enweghị onye ọzọ"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "ma gịnanị"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma enweghị"
+    },
+    {
+      "surface": "צור",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "dị ka Elohim anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T08:59:34.680669317Z",
+  "model": "glm-5.3"
+}

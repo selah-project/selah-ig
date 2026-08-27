@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 9:2",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Maka nke ụlọ Sha-ul nwere ohu, aha ya bụ Tsiba; ha kpọrọ ya bịakwute Davide, eze wee sị ya: Gịnị, ị bụ Tsiba? Ọ wee sị: Ohu gị bụ m.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "maka nke ụlọ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "aha ya"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ha kpọrọ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bịakwute"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "eze wee sị"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "gịnị, ị"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:33:22.278787664Z",
+  "model": "glm-5.3"
+}

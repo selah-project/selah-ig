@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 135,
+  "translation": "Dịka ha si dị ka ndị na-eme ha bụ; onye ọ bụla na-adabere na ha == dịka ha si dị.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "dịka ha si dị"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ka ... bụ"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ndị na-eme ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "na-adabere"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na ha"
+    }
+  ],
+  "timestamp": "2026-08-27T14:06:57.803747475Z",
+  "model": "glm-5.3"
+}

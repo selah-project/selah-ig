@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Mkụrụ obi m na-akụ ya mkpọ n'ime m, m chetara ⟨את⟩ Yahwe; ekpere m bịara ruo gị, n'ụlọ nsọ gị.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "na-akụ mkpọ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "n'ime m"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mkpụrụ obi m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "m chetara"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ma ọ bịara"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ruo gị"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ekpere m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "nsọ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T12:51:44.601907738Z",
+  "model": "glm-5.3"
+}

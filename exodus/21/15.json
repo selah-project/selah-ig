@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Onye na-akụ nna ya ma ọ bụ nne ya, ọ ga-anwụ anwụ.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Onye na-akụ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ma ọ bụ nne ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "anwụ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ọ ga-anwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:24:17.731315421Z",
+  "model": "glm-5.3"
+}

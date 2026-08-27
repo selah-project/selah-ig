@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "M ga-atụchakwa banyere ọrụ gị niile, na banyere ihe nlelị anya gị ka m ga-agwa onwe m okwu.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "m ga-atụchakwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "banyere niile"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ọrụ gị"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "na banyere ihe nlelị anya gị"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ka m ga-agwa onwe m okwu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:12.681179068Z",
+  "model": "glm-5.3"
+}

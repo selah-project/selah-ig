@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 18:51",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Na-eme ka ukwuu ⟨⟨nzọpụta⟩⟩ nke eze ya, na na-eme chesed maka Mashiach ya, maka Davud na maka mkpụrụ ya ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "na-eme ka ukwuu"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "nzọpụta ndị"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "eze ya"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na na-eme"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "maka Mashiach ya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "maka Davud"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "na maka mkpụrụ ya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:19:39.775517731Z",
+  "model": "glm-5.3"
+}

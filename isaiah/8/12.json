@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ekwula: njikọ aka, maka ihe niile nke ama a na-ekwu: njikọ aka; ma ⟨את⟩ egwu ya, atụla egwu, ma ewepụla ya dịka ihe na-atụ ọsọ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekwula"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "unu na-ekwu"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "njikọ aka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ama"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "njikọ aka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "egwu ya"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "egwu ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "atụla"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "egwu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ewepụla"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "dịka ihe na-atụ ọsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:36:03.827351550Z",
+  "model": "glm-5.3"
+}

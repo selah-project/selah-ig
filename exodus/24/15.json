@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Moshe rigoziri elu ugwu ahụ, mmamịrị ojii ahụ wee kpuchie ⟨את⟩ ugwu ahụ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "rigoziri elu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ugwu ahụ"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "wee kpuchie"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "mmamịrị ojii ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugwu ahụ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ugwu ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:58.977801711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Na ⟨the⟩ osisi ya ga-abụ iri abụọ, na ntọala ha iri abụọ nke ọla nchara; mkpọsị osisi ndị ahụ na eriri ha ga-abụ ọla ọcha.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "Na osisi ya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na ntọala ha"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nke ọla nchara"
+    },
+    {
+      "surface": "ואוי",
+      "gloss": "mkpọsị"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "nke osisi ndị ahụ"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "na eriri ha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọla ọcha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:28:46.988147571Z",
+  "model": "glm-5.3"
+}

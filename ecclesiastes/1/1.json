@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Okwu Koheleth, nwa Davide, eze na Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Okwu"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleth"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-27T15:12:05.726113732Z",
+  "model": "glm-5.3"
+}

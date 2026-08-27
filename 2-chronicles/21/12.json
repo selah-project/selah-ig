@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 21:12",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Akwụkwọ ozi bịakwara ya site n'aka Eliyahu onye-amụma, na-ekwu, Otu a ka Yahwe, Elohim nke David nna gị, sị: N'ihi na ị nọghị n'ụzọ Yehoshafat nna gị, na n'ụzọ Asa eze Yehuda —",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bịakwara"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "akwụkwọ ozi"
+    },
+    {
+      "surface": "מאליהו",
+      "gloss": "site n'aka Eliyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "onye-amụma"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ị na-eje"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "ובדרכי",
+      "gloss": "na n'ụzọ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-27T16:14:40.384515610Z",
+  "model": "glm-5.3"
+}

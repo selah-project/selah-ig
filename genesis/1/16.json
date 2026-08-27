@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Elohim wee me ⟨את⟩ mmá-nkú abụọ ndị ukwu, ⟨את⟩ mmá-nkú ukwu maka ịchị ehihie na ⟨את⟩ mmá-nkú nta maka ịchị abalị, nakwa ⟨את⟩ kpakpando ndị.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "O wee me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmá-nkú abụọ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "mmá-nkú ndị"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ndị ukwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmá-nkú ukwu"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "mmá-nkú"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "maka ịchị"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ehihie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mmá-nkú nta"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "mmá-nkú"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nta"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "maka ịchị"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "abalị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kpakpando ndị"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "kpakpando ndị"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:48.200400406Z",
+  "model": "glm-5.3"
+}

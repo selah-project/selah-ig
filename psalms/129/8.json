@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 129,
+  "translation": "Ma ndị na-aga aga enweghị ike ikwu, \"Ngọzi Yahwe dịkwa n'elu unu; anyị goziri unu n'aha Yahwe.\"",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ma enweghị ike"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ikwu"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ndị na-aga aga"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ngọzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "dịkwa n'elu unu"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "anyị goziri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "unu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "n'aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:03.305363491Z",
+  "model": "glm-5.3"
+}

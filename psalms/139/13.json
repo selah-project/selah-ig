@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 139,
+  "translation": "N'ihi na Ị bụ onye kere akụrụ m; Ị kpara m n'ime afọ nke nne m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "kere"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "akụrụ m"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "kpara m"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "n'ime afọ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nke nne m"
+    }
+  ],
+  "timestamp": "2026-08-27T14:08:23.739366739Z",
+  "model": "glm-5.3"
+}

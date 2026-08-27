@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Lee, ọkụ mụrụ si n'eluigwe ma rie ⟨את⟩ ndị isi abụọ nke ìrì ise ndị mbụ na ⟨את⟩ ìrì ise ha; ma ugbu a ka ndụ m bara uru n'anya gị.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lee"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n'eluigwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ma rie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị isi abụọ nke ìrì ise ndị mbụ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "nke ìrì ise"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ndị mbụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ìrì ise ha"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "ìrì ise ha"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ma ugbu a"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "ka ọ bara uru"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ndụ m"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "n'anya gị"
+    }
+  ],
+  "timestamp": "2026-08-27T10:12:47.698314959Z",
+  "model": "glm-5.3"
+}

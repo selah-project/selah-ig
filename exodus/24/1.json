@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 24:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ma nye Moshe, Ọ sịrị, Rịgoro Elohim(Yahwe)—gi, Aharon, Nadav, Avihu, na ụmụ-ogbenye iri asaa nke ndị okenye Yisrael; unu ga-eso ⟨את⟩ Chineke(Yahwe) na-efe ofufe site n'ebe dị anya.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ma nye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Ọ sịrị"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Rịgoro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "na Avihu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na iri asaa"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "nke ndị okenye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "unu ga-etụ mgbalị-efe-ofufe"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "site n'ebe dị anya"
+    }
+  ],
+  "timestamp": "2026-08-27T17:11:07.519603375Z",
+  "model": "glm-5.3"
+}

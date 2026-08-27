@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 74,
+  "translation": "Ndị iro gị na-agbụ agbụ n'etiti ebe nzukọ gị; ha tọrọ akara ha dị ka akara.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "na-agbụ agbụ"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "Ndị iro gị"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "ebe nzukọ gị"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ha tọrọ"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "akara ha"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "dị ka akara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:42:52.818886274Z",
+  "model": "glm-5.3"
+}

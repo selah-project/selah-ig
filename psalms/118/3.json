@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 118,
+  "translation": "Ka ụlọ Aharon sị ugbu a, na ruo mgbe ebighị ebi chesed ya dị.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Ka ... sị"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "chesed ya"
+    }
+  ],
+  "timestamp": "2026-08-27T14:00:42.403800466Z",
+  "model": "glm-5.3"
+}

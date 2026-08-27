@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ọ wee jikọọ ⟨את⟩ ákwà mpụta ise n'onwe ha, na ⟨את⟩ ákwà mpụta isii n'onwe ha.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ọ wee jikọọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ákwà mpụta ise"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ise"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ákwà mpụta ahụ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "n'onwe ha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ákwà mpụta isii"
+    },
+    {
+      "surface": "שש",
+      "gloss": "isii"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ákwà mpụta ahụ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "n'onwe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T06:39:17.384530744Z",
+  "model": "glm-5.3"
+}

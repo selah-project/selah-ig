@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ka kavod m wee na-eme egwu otuto gị, ma ghara ịdị jụụ. O Yahwe, Elohim m, gaara m ekele gị ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "m wee na-eme egwu otuto gị"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ghara"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ịdị jụụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "gaara m ekele gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:21:37.711795506Z",
+  "model": "glm-5.3"
+}

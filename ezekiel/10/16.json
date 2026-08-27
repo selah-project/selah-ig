@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 10:16",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma mgbe keruvim na-aga, ngbanaba ahụ na-akpụ ha; mgbe keruvim welitere ⟨את⟩ nku ha ka ha rịgoro elu n'elu ⟨the⟩ ụwa, ngbanaba ndị ahụ anaghị agbagharị agbagharịkwa site n'akụkụ ha.",
+  "tokens": [
+    {
+      "surface": "ובלכת",
+      "gloss": "ma mgbe ọ na-aga"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "keruvim"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ha na-aga"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "ngbanaba ndị ahụ"
+    },
+    {
+      "surface": "אצלם",
+      "gloss": "n'akụkụ ha"
+    },
+    {
+      "surface": "ובשאת",
+      "gloss": "ma mgbe ha welitere"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "keruvim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nku ha"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "nku ha"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "ka ha rịgoro elu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ ụwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "ha na-agbagharị"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "ngbanaba ndị ahụ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ha onwe ha"
+    },
+    {
+      "surface": "מאצלם",
+      "gloss": "site n'akụkụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T12:02:50.869571106Z",
+  "model": "glm-5.3"
+}

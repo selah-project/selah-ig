@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Yahwe zaa gị n'ụbọchị ihe ize ndụ; aha Elohim nke Yaakov bulie gị elu.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "zaa gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ihe ize ndụ"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "bulie gị elu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aha"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nke"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-27T13:20:32.719609864Z",
+  "model": "glm-5.3"
+}

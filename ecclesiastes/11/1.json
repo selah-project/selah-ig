@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Zipu nri gị n'elu ihu mmiri, maka na n'ọtụtụ ụbọchị ị ga-ahụ ya.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Zipu"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "nri gị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "n'ọtụtụ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ị ga-ahụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:18:13.742365209Z",
+  "model": "glm-5.3"
+}

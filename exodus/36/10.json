@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 36,
+  "translation": "Ọ jikọrọ ⟨את⟩ akwaọkụ ise n'otu n'otu, ma jikọọkwa akwaọkụ ise nke ọzọ n'otu n'otu.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ọ jikọrọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwaọkụ ise"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ise"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "akwaọkụ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ma ise"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "akwaọkụ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "jikọọkwa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "otu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:38:50.804441868Z",
+  "model": "glm-5.3"
+}

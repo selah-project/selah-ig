@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Sịnu ụmụnne unu, 'Ammi', ma sị ụmụnne nwaanyị unu, 'Ruhama'.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "sịnu"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "ụmụnne unu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "ụmụnne nwaanyị unu"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhama"
+    }
+  ],
+  "timestamp": "2026-08-27T12:39:54.792867066Z",
+  "model": "glm-5.3"
+}

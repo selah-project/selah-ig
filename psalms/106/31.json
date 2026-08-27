@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "A gụrụ ya ya dịka izi ezi ruo ọgbọ na ọgbọ, ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "A gụrụ ya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "dịka izi ezi"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ruo ọgbọ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na ọgbọ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mgbe ebighị ebi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:57.414325905Z",
+  "model": "glm-5.3"
+}

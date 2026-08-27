@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 141,
+  "translation": "Ka ndị ajọ omume ṅụọ̀ n'ime mkpọkọ̀ ha n'onwe ha; mụ onwe m, ruo mgbè m ga-agafe.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Ka ... ṅụọ̀"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "n'ime mkpọkọ̀ ha n'onwe ha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ajọ omume"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọ̀tụ̀tụ̀ ⟨ha niile⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mụ onwe m"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbè"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "m ga-agafe"
+    }
+  ],
+  "timestamp": "2026-08-27T14:07:09.471893866Z",
+  "model": "glm-5.3"
+}

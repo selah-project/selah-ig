@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "N'ihi na ⟨ọ ga-ekwu⟩, Ọ nwụnahịrị ndị isi m bụ́ eze niile ọnụ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "⟨ọ ga-ekwu⟩"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Ọ nwụnahịrị"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị isi m"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "niile ọnụ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "eze"
+    }
+  ],
+  "timestamp": "2026-08-27T10:37:24.415342407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Na ndị agha ya, na ndị e gụrụ n'ime ha, bụ́ puku isii na iri anọ na narị ise.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "na ndị agha ya"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "na ndị e gụrụ n'ime ha"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "isii"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na iri anọ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "puku"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ise"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:12:32.595221348Z",
+  "model": "glm-5.3"
+}

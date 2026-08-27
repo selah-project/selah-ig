@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Mgbe ohu Avraham nụrụ ⟨את⟩ okwu ha, ọ na-agbada ala, na-efe Yahwe",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ohu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okwu ha"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "okwu ha"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "na-agbada ala, na-efe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T05:40:43.327810986Z",
+  "model": "glm-5.3"
+}

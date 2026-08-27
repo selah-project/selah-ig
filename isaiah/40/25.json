@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Ma nye onye ka ụnụ ga-adịnyere m, ma m ga-dị ka ya? Onye Nsọ na-ekwu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ma nye"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "ka ụnụ ga-adịnyere m"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "ma m ga-dị ka ya"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "na-ekwu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Onye Nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:56:46.739578970Z",
+  "model": "glm-5.3"
+}

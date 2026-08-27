@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Oge iji akụpụ, na oge iji kwụọkọta; oge ịnọ jiri nwayọ, na oge iji kwuo okwu.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "iji akụpụ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na oge"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "iji kwụọkọta"
+    },
+    {
+      "surface": "עת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "ịnọ jiri nwayọ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na oge"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "iji kwuo okwu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:52:05.039389241Z",
+  "model": "glm-5.3"
+}

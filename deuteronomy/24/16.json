@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Nna ekwesịghị ka a gbuo maka ụmụ, ụmụ ekwesịghịkwa ka a gbuo maka nna; onye ọ bụla ka a ga-egbu maka mmehie onwe ya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekwesịghị"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ka a gbuo"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "nna"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekwesịghịkwa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ka a gbuo"
+    },
+    {
+      "surface": "על",
+      "gloss": "maka"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "nna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "maka mmehie onwe ya"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "a ga-egbu"
+    }
+  ],
+  "timestamp": "2026-08-27T08:10:00.841188132Z",
+  "model": "glm-5.3"
+}

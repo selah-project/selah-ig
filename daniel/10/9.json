@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "M nụrụ ⟨את⟩ ụda okwu ya; ka m na-anụ ⟨את⟩ ụda okwu ya, m dara n'ụra omimi n'ihu m, ma ihu m na-eche n'ezi ala.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "m nụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ụda"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "okwu ya"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "ka m na-anụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ụda"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "okwu ya"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "m"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "dara"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "n'ụra omimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu m"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ma ihu m"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "n'ezi ala"
+    }
+  ],
+  "timestamp": "2026-08-27T15:31:33.278432260Z",
+  "model": "glm-5.3"
+}

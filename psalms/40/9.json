@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "I ime ⟨uche⟩ gị, Elohim m, chọrọ m; Torah gị nọ n'ime akpa ọbara m.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "i ime"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "⟨uche⟩ gị"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim m"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "chọrọ m"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "Torah gị"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "akpa ọbara m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:38.142607729Z",
+  "model": "glm-5.3"
+}

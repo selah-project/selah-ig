@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "Ahịa mufụ nke ọzara na-ada mmiri; ma ugwu nkịta ndị na-eyi obi ụtọ dịka uwe ha na-eketa.",
+  "tokens": [
+    {
+      "surface": "ירעפו",
+      "gloss": "na-ada mmiri"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "ahịa mufụ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ọzara"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "ma obi ụtọ"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ugwu nkịta ndị"
+    },
+    {
+      "surface": "תחגרנה",
+      "gloss": "na-eketa onwe ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:09.321207586Z",
+  "model": "glm-5.3"
+}

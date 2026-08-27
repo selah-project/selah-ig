@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 29:1",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Yechizkiyahu malitere ịchị, ọ bụ nwa afọ iri abụọ na ise, ma chịọ afọ iri abụọ na itoolu na Yerushalayim; aha nne ya bụ Aviyah, nwa nwanyị Zecharyahu.",
+  "tokens": [
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "malitere ịchị"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iri abụọ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ise"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na iri abụọ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "na itoolu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "chịọ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ma aha"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nne ya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zecharyahu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:17:45.672650603Z",
+  "model": "glm-5.3"
+}

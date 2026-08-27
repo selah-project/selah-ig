@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ma ọ bụrụ na anaghị anunụ okwu Yahwe, kama  na-ajụ ⟨את⟩ ọnụ Yahwe ijụ, aka Yahwe ga-adị n'elu unu na n'elu nna nna unu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "anunụ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "na-ajụ ijụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọnụ Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "יד",
+      "gloss": "aka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "n'elu unu"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "na n'elu nna nna unu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:33:35.066946876Z",
+  "model": "glm-5.3"
+}

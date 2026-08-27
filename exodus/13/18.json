@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "N'ihi ya Elohim duuru ⟨את⟩ ndị ahụ gbagọrọ agbagọ n'ụzọ ọzara dị nso n'Oké Mmiri Ahịhịa; ụmụ Yaakov-Israel pụrụ n'ala Mitstrayim na-edozi onwe ha dịka ndị agha.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "duuru ha gbagọrọ agbagọ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ahụ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ọzara"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Oké Mmiri"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Ahịhịa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na-edozi onwe ha dịka ndị agha"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "pụrụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yaakov-Israel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitstrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:17:51.724478453Z",
+  "model": "glm-5.3"
+}

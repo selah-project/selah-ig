@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ị nyewo obi ụtọ n'ime obi m, karịa mgbe ọka ha na mmanya ha bara ọtọ.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Ị nyewo"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "obi ụtọ"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "n'ime obi m"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "karịa mgbe"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "ọka ha"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "na mmanya ha"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "bara ọtọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:10:09.200591895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Ọ ga-abụ na mgbe m kụpụchara ⟨את⟩ ha, m ga-alaghachi ma gosipụta ebere n' ha, ma dịghachi_n' ha azụ, onye ọ bụla n'ala nketa ya, ma onye ọ bụla n'ala ya.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ọ ga-abụ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "נתשי",
+      "gloss": "m kụpụchara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "m ga-alaghachi"
+    },
+    {
+      "surface": "ורחמתים",
+      "gloss": "ma gosipụta ebere"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "ma dọta ha azụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "n'ala nketa ya"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ma onye ọ bụla"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "n'ala ya"
+    }
+  ],
+  "timestamp": "2026-08-27T11:23:49.221322515Z",
+  "model": "glm-5.3"
+}

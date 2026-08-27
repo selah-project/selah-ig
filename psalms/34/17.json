@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ihu Yahwe dị n'etiti ndị na-eme ihe ọjọọ, iji bibie ncheta ha n'ụwa.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "ndị na-eme"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ihe ọjọọ"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "iji bibie"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ncheta ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:25:34.223511026Z",
+  "model": "glm-5.3"
+}

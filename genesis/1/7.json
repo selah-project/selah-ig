@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Were Elohim meere ⟨את⟩ mmepe ahụ, wee kewaa n'etiti mmiri ndị nọ n'okpuru mmepe ahụ na mmiri ndị nọ n'elu mmepe ahụ; ọ dịkwa otu a.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Were Elohim meere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmepe ahụ"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "mmepe ahụ"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "wee kewaa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nọ n'okpuru"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "mmepe ahụ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na n'etiti"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mmiri ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nọ n'elu"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "mmepe ahụ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ọ dịkwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    }
+  ],
+  "timestamp": "2026-08-27T05:25:06.723118760Z",
+  "model": "glm-5.3"
+}

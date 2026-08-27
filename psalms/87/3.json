@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 87,
+  "translation": "Ihe ndị dị ebube a na-ekwu banyere gị, obodo ⟨nke⟩ Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "Ihe ndị dị ebube"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "a na-ekwu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "banyere gị"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "obodo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-27T13:47:50.317119246Z",
+  "model": "glm-5.3"
+}

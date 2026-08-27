@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "N'otu aka ahụ, ụmụ mmadụ nkịtị, n'otu aka ahụ, ụmụ ndị ukwu, ọnụ, ma onye ọgaranya ma onye ogbenye.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "N'otu aka ahụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ nkịtị"
+    },
+    {
+      "surface": "גם",
+      "gloss": "n'otu aka ahụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "ndị ukwu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "onye ọgaranya"
+    },
+    {
+      "surface": "וְאֶבְיוֹן",
+      "gloss": "ma onye ogbenye"
+    }
+  ],
+  "timestamp": "2026-08-27T13:32:10.719415108Z",
+  "model": "glm-5.3"
+}

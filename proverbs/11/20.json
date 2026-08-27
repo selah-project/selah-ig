@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "Ihe jọrọ ajọ nye Yahwe bụ ndị obi gbagọrọ agbagọ; ma obi ụtọ ya bụ ndị na-aga n'ụzọ kwụọ ọtọ.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "ihe jọrọ ajọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "ndị gbagọrọ agbagọ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "ma obi ụtọ ya"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "ndị kwụọ ọtọ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ụzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:21:04.740942836Z",
+  "model": "glm-5.3"
+}

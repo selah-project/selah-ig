@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ndị ahụ mere otu a: ha were ehi na-ammụ abụọ, kee ha ná ụgbọ ahụ, ma mechie ⟨את⟩ ụmụ ha n'ụlọ.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mere"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otua"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ha were"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "na-ammụ"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "kee ha"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "ná ụgbọ ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ ha"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ụmụ ha"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "mechie"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    }
+  ],
+  "timestamp": "2026-08-27T09:03:41.229655929Z",
+  "model": "glm-5.3"
+}

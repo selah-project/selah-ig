@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ka ị nwee ike ịkọrọ n'ntị nwa gị na nwa nwa gị ⟨את⟩ ihe m mere n'Ijipt, na ⟨את⟩ akara m ndị m tinyere n'etiti ha; ka unu mara na m bụ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "ka ị nwee ike"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "ịkọrọ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "n'ntị"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nwa gị"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na nwa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nwa gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe m mere n'Ijipt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "m mere"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "n'Ijipt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "akara m"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "akara m"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "m tinyere"
+    },
+    {
+      "surface": "בם",
+      "gloss": "n'etiti ha"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ka unu mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m bụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:14:24.726898345Z",
+  "model": "glm-5.3"
+}

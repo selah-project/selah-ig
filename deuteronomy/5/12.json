@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Chebe ⟨את⟩ ụbọchị nke Shabbat iji doo ya nsọ, dịka Yahwe Elohim gị nyere gị iwu.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Chebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụbọchị"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "nke-Shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "iji-doo-ya-nsọ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "nyere-gị-iwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:52:33.857315596Z",
+  "model": "glm-5.3"
+}

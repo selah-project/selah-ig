@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "Ma n'eziokwu, maka nke a ka m guzoro gị, ka m gosịkwa gị ⟨את⟩ ike m, ka a kọọkwa aha m n'ụwa niile.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Ma n'eziokwu"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "maka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "ka m guzoro gị"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "m gosịkwa gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ike m"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ike m"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "a kọọkwa"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "aha m"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ihe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "niile n'ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T06:14:35.016925664Z",
+  "model": "glm-5.3"
+}

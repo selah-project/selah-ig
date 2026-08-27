@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Ravshakeh wee laghachi, wee hụ ⟨את⟩ eze Ashur na-alụ ọgụ megide Libna, n'ihi na ọ nụrụ na ọ pụọ na Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wee laghachi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "wee hụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eze Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "na-alụ ọgụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ọ nụrụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ọ pụọ"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "na Lakhish"
+    }
+  ],
+  "timestamp": "2026-08-27T10:55:07.116745141Z",
+  "model": "glm-5.3"
+}

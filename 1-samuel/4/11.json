@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Akpọghachikwara igbe Elohim, ụmụ Eli abụọ, Chafni na Pinchas, nwụkwara.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "igbe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "Akpọghachikwara"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "nwụkwara"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Chafni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "Pinchas"
+    }
+  ],
+  "timestamp": "2026-08-27T09:01:16.634783040Z",
+  "model": "glm-5.3"
+}

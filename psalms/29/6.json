@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Ọ na-eme ka ha kụọ fie dịka nwa ehi; Lebanọn na Sirion dịka nwa ehi ọhịa.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "Ọ na-eme ka ha kụọ fie"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "nwa ehi"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanọn"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "na Sirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "ehi ọhịa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:44.106386895Z",
+  "model": "glm-5.3"
+}

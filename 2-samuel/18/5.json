@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 18:5",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Eze nyere Yoab, na ⟨את⟩ Avishai, na ⟨את⟩ Itai iwu, sị: Mee nwayọọ maka m, maka nwoke ntorobịa, maka Avshalom. Gịnị ka mmadụ niile nụrụ mgbe eze nyere ⟨את⟩ ndị ọchịchị niile iwu banyere ihe gbasara Avshalom.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nyere iwu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Avishai"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Itai"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sị"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "nwayọọ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "maka m"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "maka nwoke ntorobịa"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "maka Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na mmadụ niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nụrụ"
+    },
+    {
+      "surface": "בצות",
+      "gloss": "mgbe ọ nyere iwu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị ọchịchị niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ndị ọchịchị"
+    },
+    {
+      "surface": "על",
+      "gloss": "banyere"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ihe gbasara"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-27T09:40:10.518634961Z",
+  "model": "glm-5.3"
+}

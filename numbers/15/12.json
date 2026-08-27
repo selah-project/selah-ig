@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "Dịka ọnụọgụ nke ha ga-akwadebe, otu a ka ha ga-emẹ maka nke ọ bụla, dịka ọnụọgụ ha.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "dịka ọnụọgụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ha ga-emẹ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ha ga-emẹ"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "maka nke ọ bụla"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "dịka ọnụọgụ ha"
+    }
+  ],
+  "timestamp": "2026-08-27T07:27:50.839479035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 6:12",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ma Onye-ozi Yahwe pụtara ya, wee sị ya: Yahwe dị ná gị, onye ike nke obi ike!",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pụtara"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Onye-ozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dị ná gị"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "onye ike"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "nke obi ike"
+    }
+  ],
+  "timestamp": "2026-08-27T08:43:14.236393834Z",
+  "model": "glm-5.3"
+}

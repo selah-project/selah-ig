@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 38:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Ma ndị na-achọ ndụ m tinyere ọnyà; ndị na-achọ ihe ọjọọ m kwuru okwu mbibi, na aghụghọ ka ụbọchị niile ha na-atụle.",
+  "tokens": [
+    {
+      "surface": "וינקשו",
+      "gloss": "ha tinyere ọnyà"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ndị na-achọ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ndụ m"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "na ndị na-achọ"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ihe ọjọọ m"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ha kwuru"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "okwu mbibi"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "na aghụghọ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ha na-atụle"
+    }
+  ],
+  "timestamp": "2026-08-27T16:47:26.533471709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "N'ebe a na-egbu ⟨את⟩-elu ọkụ ha ga-egbu ⟨את⟩ onyinye-mmejọ, ma ⟨את⟩ ọbara ya ka ọ ga-mịpụsa n'elu ebe ịchụàjà gburugburu.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke a na-"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "na-egbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elu ọkụ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "elu ọkụ"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ha ga-egbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onyinye-mmejọ"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "onyinye-mmejọ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma ⟨את⟩"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ọbara ya"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "ọ ga-mịpụsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T06:45:04.470908309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Nwa Ezrah: Yeter, Mered, Efer, na Yalon; ọ mụrụ ⟨את⟩ Miryam, na ⟨את⟩ Shammay, na ⟨את⟩ Yishbach, nna ⟨the⟩ Eshtemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ọ mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shammay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shammay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yishbach"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yishbach"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    }
+  ],
+  "timestamp": "2026-08-27T15:53:53.195080868Z",
+  "model": "glm-5.3"
+}

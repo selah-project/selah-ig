@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Site na Chushim ọ mụrụ ⟨את⟩ A vitub na ⟨את⟩ Elpaal.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "site na Chushim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ọ mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "A vitub"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "A vitub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Elpaal"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    }
+  ],
+  "timestamp": "2026-08-27T15:55:18.096505104Z",
+  "model": "glm-5.3"
+}

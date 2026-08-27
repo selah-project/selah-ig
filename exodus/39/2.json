@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 39,
+  "translation": "Ọ wee me ⟨את⟩ efood — ọlaedo, teal, purpul, na ụkwụ-ọbara ọbara-acha-ọọ, na flax a-na-atụghari.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ọ wee me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efood"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efood"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "teal"
+    },
+    {
+      "surface": "ווארגמן",
+      "gloss": "na purpul"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "na ụkwụ-ọbara"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ọbara-acha-ọọ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na flax"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "a-na-atụghari"
+    }
+  ],
+  "timestamp": "2026-08-27T06:40:04.334061103Z",
+  "model": "glm-5.3"
+}

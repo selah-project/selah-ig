@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Yahwe kụrụ ⟨את⟩ Farao na ⟨את⟩ ụlọ ya mmerụ ukwu n'ihi okwu Sarai, nwunye Avram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "kụrụ mmerụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "mmerụ"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ukwu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụlọ ya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ụlọ ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-08-27T05:30:24.833810342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 95,
+  "translation": "N'ihi ya ka m ṅụrụ iyi n'iwe m, sị, Agaghị abata na ebe izu ike m.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "n'ihi ya"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ka m ṅụrụ iyi"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "n'iwe m"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sị"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "agaghị abata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "ebe izu ike m"
+    }
+  ],
+  "timestamp": "2026-08-27T13:50:02.504797629Z",
+  "model": "glm-5.3"
+}

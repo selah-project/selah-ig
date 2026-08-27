@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 146,
+  "translation": "M ga-atọ Yahwe n'oge ndụ m; m ga-agụ ⟨את⟩ abụ ⟨את⟩ Elohim m mgbe m ka dị.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "M ga-atọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "n'oge ndụ m"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "m ga-agụ abụ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "⟨את⟩ Elohim m"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "mgbe m ka dị"
+    }
+  ],
+  "timestamp": "2026-08-27T14:10:32.901395856Z",
+  "model": "glm-5.3"
+}

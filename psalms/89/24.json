@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "M ga-akụkụta ndị iro ya n'ihu ya, ma kpọọ ndị kpọrọ ya ọkụ ọkụ.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "M ga-akụkụta"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ndị iro ya"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "ndị kpọrọ ya ọkụ"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "kpọọ ọkụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:49:08.025250157Z",
+  "model": "glm-5.3"
+}

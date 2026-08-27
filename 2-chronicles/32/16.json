@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 32:16",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 32,
+  "translation": "Ndị ohu ya kwukwara okwu ọzọ megide Yahwe, Elohim, na megide Chizkiya, ohu ya.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "kwukwara ọzọ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kwuru okwu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndị ohu ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na megide"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ohu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:19:30.330257165Z",
+  "model": "glm-5.3"
+}

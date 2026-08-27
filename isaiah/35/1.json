@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Ọzara na ala kpọrọ nkụ ga-eji obi ụtọ nupụ isi; ndịda-ọzara ga-agụ Ụka, ma na-ama okooko osisi dịka habatsulet.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "ga-eji obi ụtọ nupụ isi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ọzara"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "na ala kpọrọ nkụ"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ga-agụ Ụka"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ndịda-ọzara"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ga na-ama okooko osisi"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "dịka habatsulet"
+    }
+  ],
+  "timestamp": "2026-08-27T10:52:30.209036601Z",
+  "model": "glm-5.3"
+}

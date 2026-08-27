@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Maka ndị ọjọọ ga-efu, ndị iro Yahwe dịka ⟨abụba⟩ nke atụrụ — ha ga-emecha; n'anwụ anwụ ha ga-emecha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ọjọọ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ga-efu"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ndị iro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "dịka ⟨abụba⟩"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "nke atụrụ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ha ga-emecha"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "n'anwụ anwụ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ha ga-emecha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:54.631190491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ọbụnakwa, nyeela obi gị okwu niile ndị ha na-ekwu, ka ị ghara ịnụ ⟨את⟩ ohu gị na-akọ gị ọjọọ;",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ọbụnakwa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "maka niile"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "okwu ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ha na-ekwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "enyela"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nyeela"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "obi gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ị nụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohu gị"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ohu gị"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "na-akọ gị ọjọọ"
+    }
+  ],
+  "timestamp": "2026-08-27T15:15:46.488091497Z",
+  "model": "glm-5.3"
+}

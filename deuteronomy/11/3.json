@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ akara-ngosi ya, na ⟨את⟩ ọrụ ya, nke o mere n'etiti Mitzrayim, nye Pharaoh eze Mitzrayim, na nye ala ya niile",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akara-ngosi ya"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "akara-ngosi ya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ọrụ ya"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ọrụ ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "nye Pharaoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ו לכל",
+      "gloss": "na nye … niile"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ala ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:58:10.211710416Z",
+  "model": "glm-5.3"
+}

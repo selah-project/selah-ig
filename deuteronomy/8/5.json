@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Ma gị maara n'obi gị na, dịka nwoke na-azụ ⟨את⟩ nwa ya nwoke, otu a ka Yahwe Elohim gị na-azụ gị.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "ma gị maara"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "n'obi gị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "na-azụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa ya nwoke"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nwa ya nwoke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "na-azụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:56:09.711685990Z",
+  "model": "glm-5.3"
+}

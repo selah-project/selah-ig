@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 17:2",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Shaúl na ndị ikom Yisraɛl gbakọtara, wee kee ogige na ndagwurugwu Elah, wee dozie agha ihu ndị Pelishtim.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na ndị ikom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraɛl"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "gbakọtara"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wee kee ogige"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "na ndagwurugwu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "wee dozie"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "agha"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ndị Pelishtim"
+    }
+  ],
+  "timestamp": "2026-08-27T09:09:51.471809770Z",
+  "model": "glm-5.3"
+}

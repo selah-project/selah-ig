@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 6:15",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "N'ihi na El na-ekwu ​ọkụ, Yahwe Elohim gị, n'etiti gị nọ; ka iwe Yahwe Elohim gị ghara ọkụ megide gị, ma bibie gị n'elu ​ihụ ala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "na-ekwu ​ọkụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "n'etiti gị nọ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ka ọ ghara"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "ọkụ (iwe)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "בך",
+      "gloss": "megide gị"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "ma bibie gị"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "​ihụ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ala"
+    }
+  ],
+  "timestamp": "2026-08-27T07:52:34.497123546Z",
+  "model": "glm-5.3"
+}

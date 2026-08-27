@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Okwu ụgha onye ziri ezi na-akpọ asọ, mana onye ajọ omume na-esi ísọ ọjọọ ma na-emebi ihere.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ụgha"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "na-akpọ asọ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ziri ezi"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ma onye ajọ omume"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "na-esi ísọ ọjọọ"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "ma na-emebi ihere"
+    }
+  ],
+  "timestamp": "2026-08-27T14:21:15.451373993Z",
+  "model": "glm-5.3"
+}

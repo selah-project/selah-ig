@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 1:13",
+  "book": "zephaniah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Akụ ha ga-abụ mmehie, ụlọ ha ga-abụ ọdịda ju ju; ha ga-ewu ụlọ mana ha agaghị ebi ha, ha ga-kụkọta ubi vaịn mana ha agaghị-aṅụ ⟨את⟩ mmanya ha.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ga-abụ"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "akụ ha"
+    },
+    {
+      "surface": "למשסה",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "ובתיהם",
+      "gloss": "ụlọ ha"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "ọdịda ju ju"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "ha ga-ewu"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ha agaghị ebi"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ha ga-kụkọta"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ubi vaịn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ha agaghị-aṅụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmanya ha"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "mmanya ha"
+    }
+  ],
+  "timestamp": "2026-08-27T16:46:37.518764513Z",
+  "model": "glm-5.3"
+}

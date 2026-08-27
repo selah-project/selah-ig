@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 33:11",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 33,
+  "translation": "Yahwe wetara ha ⟨את⟩ ndị isi ndị agha nke eze Ashshur; ha jidere ⟨את⟩ Menashhe na mkpọgide, kee ya ke ọla nchara, ma duga ya Babel.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wetara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị isi ndị agha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ndị agha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ha jidere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashhe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashhe"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "na mkpọgide"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "kee ya"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "ke ọla nchara"
+    },
+    {
+      "surface": "ויוליכהו",
+      "gloss": "ma duga ya"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-08-27T16:18:31.444411402Z",
+  "model": "glm-5.3"
+}

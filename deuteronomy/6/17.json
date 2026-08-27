@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ga-eleba anya nke ọma n'iwu ndị Yahwe Elohim unu, na ihe-ndị-ọ-gbara-aka-ebe ya na iwu-edo-ede ya, bụ ndị ọ nyere iwu nye gị.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "ga-eleba anya nke ọma"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "unu ga-echebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu ndị"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "iwu ndị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim unu"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "na ihe-ndị-ọ-gbara-aka-ebe ya"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "na iwu-edo-ede ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ ndị"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ọ nyere iwu nye gị"
+    }
+  ],
+  "timestamp": "2026-08-27T07:53:04.425873035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 17,
+  "translation": "Onye na-eme ka onye ajọ ghọọ onye mọ ya, na onye na-eme ka onye mọ ghọọ onye ajọ — ihe jọrọ njọ n'anya Yahwe ka ha abụọ.",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "na-eme ka onye mọ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onye ajọ"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "na-eme ka onye ajọ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye mọ"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ihe jọrọ njọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ha abụọ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:24:11.227088483Z",
+  "model": "glm-5.3"
+}

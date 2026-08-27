@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 42,
+  "translation": "Ndi enyi Yosef iri wee dalata izụta ọka site na Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "wee dalata"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Ndi enyi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "izụta"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ọka"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "site na Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T05:58:25.768534073Z",
+  "model": "glm-5.3"
+}

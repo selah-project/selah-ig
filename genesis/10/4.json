@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ma ụmụ Yavan: Elisha, Tarshish, ndị Kitim na ndị Dodanim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ma ụmụ"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Yavan"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "ndị Kitim"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "ndị Dodanim"
+    }
+  ],
+  "timestamp": "2026-08-27T05:28:49.646786122Z",
+  "model": "glm-5.3"
+}

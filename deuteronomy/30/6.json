@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Yahwe Elohim gị ga-amị gọ́ ⟨את⟩ obi gị na ⟨את⟩ obi mkpụrụ gị, ka gị hụ Yahwe Elohim gị n'anya site na obi gị niile na onwe gị niile, ka gị nwee ndụ.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "ga-amị gọ́"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obi gị"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "obi gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obi mkpụrụ gị"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "obi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mkpụrụ gị"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ka gị hụ n'anya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim gị"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "site na niile"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "obi gị"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na niile"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "onwe gị"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "gị nwee ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:30:41.418851862Z",
+  "model": "glm-5.3"
+}

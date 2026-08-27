@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ha weere ⟨את⟩ ụmụnwaanyị ha were were ha dịka ndị nwunye, wee nyekwa ⟨את⟩ ụmụnwaanyị ha maka ụmụ nwa ha, wee jekwa ozi ⟨את⟩ chi ha.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ha weere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụnwaanyị ha"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ụmụnwaanyị ha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "dịka ndị nwunye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma ⟨את⟩",
+      "marks": "ụmụnwaanyị ha"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ụmụnwaanyị ha"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nyekwa"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "maka ụmụ nwa ha"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "wee jekwa ozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chi ha"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "chi ha"
+    }
+  ],
+  "timestamp": "2026-08-27T08:40:37.207289089Z",
+  "model": "glm-5.3"
+}

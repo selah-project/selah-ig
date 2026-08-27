@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Elohim kwuwo okwu n'ebe nsọ Ya: M ga-enwe ṅụli, m ga-ekewa Shekem, m ga-atụ oke ndagwurugwụ Sukkọt.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwuwo okwu"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "n'ebe nsọ Ya"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "m ga-enwe ṅụli"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "m ga-ekewa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ndagwurugwụ"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkọt"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "m ga-atụ oke"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:49.508387217Z",
+  "model": "glm-5.3"
+}

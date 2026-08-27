@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "O wee sị, \"Nke a bụ ajọ omume.\" O wee tụba ⟨את⟩ ya n'etiti efa ahụ, wee tụba ⟨את⟩ nkume lead ahụ n'ọnụ ya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wee sị"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "ajọ omume"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "o wee tụba"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ya (nwanyị ahụ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "etiti"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa ahụ"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "wee tụba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkume lead ahụ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "nkume"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "lead"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ọnụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:04:22.307019116Z",
+  "model": "glm-5.3"
+}

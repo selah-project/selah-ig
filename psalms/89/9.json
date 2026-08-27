@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 89,
+  "translation": "Yahwe, Elohim nke ndị agha, onye ka ⟨gị⟩, onye ike dị ka Yah? Okwukwe gi na-adịgide na-agbakpo gị gburugburu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ka ⟨gị⟩"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "onye ike"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "okwukwe gi na-adịgide"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "na-agbakpo gị gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T13:48:20.306415139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 72,
+  "translation": "Ọ ga-ekpe ikpe ndị gị n'ihe ziri ezi, na ndị ogbenye gị n'ikpe ziri ezi.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Ọ ga-ekpe ikpe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndị gị"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "n'ihe ziri ezi"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "na ndị ogbenye gị"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "n'ikpe ziri ezi"
+    }
+  ],
+  "timestamp": "2026-08-27T13:40:42.387600017Z",
+  "model": "glm-5.3"
+}

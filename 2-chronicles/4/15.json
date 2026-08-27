@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "⟨את⟩ oké mmiri ahụ otu, na ⟨את⟩ ehi ndị ahụ iri na abụọ n'okpuru ya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oké mmiri ahụ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké mmiri ahụ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "otu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ehi ndị ahụ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ehi ndị ahụ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "n'okpuru ya"
+    }
+  ],
+  "timestamp": "2026-08-27T16:08:15.299925944Z",
+  "model": "glm-5.3"
+}

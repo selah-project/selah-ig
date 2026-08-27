@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Maka na ha anaghị ekwu okwu udo, kama na-eme atụmatụ okwu aghụghọ megide ndị dị jụụ n'ala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "okwu udo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ha ekwu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "megide"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "ndị dị jụụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "aghụghọ"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "na-eme atụmatụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:01.993805460Z",
+  "model": "glm-5.3"
+}

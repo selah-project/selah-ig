@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Ị na-enye ha, ha na-echikọta ya; Ị na-emeghe aka Gị, ha na-ejupụta n'ihe ọma.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Ị na-enye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "ha na-echikọta ya"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "Ị na-emeghe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "aka Gị"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "ha na-ejupụta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "n'ihe ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:29.311670299Z",
+  "model": "glm-5.3"
+}

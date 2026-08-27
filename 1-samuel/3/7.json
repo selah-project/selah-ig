@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Na Shemuel amaghịbeghi ⟨את⟩ Yahwe, okwu Yahwe ewepụtabeghịkwa ya.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "na Shemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "amaghịbeghi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ịma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "ewepụtabeghịkwa"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ime mghe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T09:01:40.468152764Z",
+  "model": "glm-5.3"
+}

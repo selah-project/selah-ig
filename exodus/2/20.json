@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 2,
+  "translation": "Ọ wee sị ụmụ ya nwaanyị: Ọ nọkwa ebe ọ bụ? Gịnị mere ka unu hapụrụ ⟨את⟩ nwoke ahụ? Kpọọ ya ka ọ bịa rie nri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maka"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ụmụ ya nwaanyị"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "ọ nọkwa ebe ọ bụ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Gịnị mere"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nke a"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "unu hapụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwoke ahụ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nwoke ahụ"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "kpọọ ya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ọ bịa rie"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:36.699260698Z",
+  "model": "glm-5.3"
+}

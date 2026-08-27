@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Maka onye nduzi egwu, n'ebe Nehilot; abụ maka David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maka onye nduzi egwu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ebe"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nehilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "abụ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "maka David"
+    }
+  ],
+  "timestamp": "2026-08-27T13:11:32.643786663Z",
+  "model": "glm-5.3"
+}

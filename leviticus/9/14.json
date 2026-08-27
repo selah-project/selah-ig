@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "O saa ⟨את⟩ akpa-nke-ime na ⟨את⟩ ụkwụ-azụ, ma mee ka ha na-ese anwụrụ n'elu nke-ọkụ-ọzọ ahụ, n'elu ebe-ịchụ-àjà.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "o saa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akpa-nke-ime"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "akpa-nke-ime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ụkwụ-azụ"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "ụkwụ-azụ"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "o mee ka ọ na-ese anwụrụ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nke-ọkụ-ọzọ ahụ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ebe-ịchụ-àjà"
+    }
+  ],
+  "timestamp": "2026-08-27T16:25:35.743247990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 47,
+  "translation": "Ndị niile, kụọ aka; tie mkpu nke mmeri nye Elohim n'olu abụ ọṅụ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ndị niile"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "kụọ aka"
+    },
+    {
+      "surface": "כף",
+      "gloss": "aka (isi)"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "tie mkpu nke mmeri"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "nye Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "n'olu"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "abụ ọṅụ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:21.011695786Z",
+  "model": "glm-5.3"
+}

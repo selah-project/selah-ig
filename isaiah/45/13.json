@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 45:13",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Mụ ⟨n'onwe m⟩ akpọbiliela ya n'ezighi ezi, ma ụzọ ya niile ka m ga-edozi; ọ ga-ewu obodo m, ma ga- zipụ ndị a dọrọ n'agbụ m, ọ bụghị maka ụgwọ ọ bụla ma ọ bụ maka bribe, ka Yahwe nke ndị agha ada asaa kwuru.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mụ"
+    },
+    {
+      "surface": "העירתהו",
+      "gloss": "akpọbiliela ya"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "n'ezighi ezi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ma ... niile"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ụzọ ya"
+    },
+    {
+      "surface": "אישר",
+      "gloss": "ga-edozi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ga-ewu"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "obodo m"
+    },
+    {
+      "surface": "וגלותי",
+      "gloss": "ma ndị a dọrọ n'agbụ m"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ga-zipụ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "maka ụgwọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "בשחד",
+      "gloss": "maka bribe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha ada asaa"
+    }
+  ],
+  "timestamp": "2026-08-27T11:01:08.858735650Z",
+  "model": "glm-5.3"
+}

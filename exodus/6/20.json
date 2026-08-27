@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Amram lụrụ ⟨את⟩ Yokheved, nwanne nna ya nke nwanyị, dịka nwunye ya; ma ọ mụrụ ya ⟨את⟩ Aharon na ⟨את⟩ Moshe; ma afọ ndụ Amram ruru otu narị na iri atọ na asaa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lụrụ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokheved"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokheved"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "nwanne nna ya nke nwanyị"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dịka nwunye"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ma ọ mụrụ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ma afọ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ndụ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "asaa"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na iri atọ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na otu narị"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:09:25.205794771Z",
+  "model": "glm-5.3"
+}

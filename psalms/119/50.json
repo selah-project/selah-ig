@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Nke a ⟨is⟩ ihe m na-eji n'ụsọ m nsọ n'ọnwụnwa m, maka na okwu gị kpalitere m ndụ.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Nke a"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ihe m na-eji n'ụsọ m nsọ"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "n'ọnwụnwa m"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "okwu gị"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "kpalitere m ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:02:07.960939201Z",
+  "model": "glm-5.3"
+}

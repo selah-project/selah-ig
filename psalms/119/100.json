@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 119,
+  "translation": "Karịa ndị okenye, m ghọtara ihe karịa, maka m chekwawo ihe gị nyere n'iwu.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "karịa ndị okenye"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "m ghọtara ihe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ihe gị nyere n'iwu"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "m chekwawo"
+    }
+  ],
+  "timestamp": "2026-08-27T14:04:01.034262783Z",
+  "model": "glm-5.3"
+}

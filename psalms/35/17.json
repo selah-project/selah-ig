@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 35,
+  "translation": "Adonai, ruo ogogo ole ka ị ga-ahụ? Weghachi ⟨את⟩ nke m na mkpọtụ ha, site n'ọnụsụ ndị na-eri anụ, nke m dịrị naanị ya.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ruo ogogo ole"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ị ga-ahụ"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "Weghachi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨את⟩ nke m"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "site na mkpọtụ ha"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "ọnụsụ ndị na-eri anụ"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "nke m dịrị naanị ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:01.993149256Z",
+  "model": "glm-5.3"
+}

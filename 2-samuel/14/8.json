@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 14,
+  "translation": "Eze wee sịrị ⟨the⟩ nwanyị ahụ: Gaa n'ụlọ gị, m wee nyefere iwu maka gị.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ọ wee sị"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨the⟩ eze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rụ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨the⟩ nwanyị ahụ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "n'ụlọ gị"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "m"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ga-enye iwu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "maka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T09:37:52.402941868Z",
+  "model": "glm-5.3"
+}

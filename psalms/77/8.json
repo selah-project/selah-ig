@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 77,
+  "translation": "Kedu ma Adonai ga-ahapụ ruo mgbe ebighị ebi, ma ọ gaghịkwa ezie ọzọ ịdị mma ọzọ?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "ga-ahapụ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ gaghịkwa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ezie ọzọ"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "ịdị mma"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:41:51.960574747Z",
+  "model": "glm-5.3"
+}

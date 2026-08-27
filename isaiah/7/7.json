@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Otú ka Adonai Yahwe si kwuo: ọ gaghị edoro, ọ gaghịkwa adị.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Otú"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "si kwuo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "edoro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ gaghịkwa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "adị"
+    }
+  ],
+  "timestamp": "2026-08-27T16:38:21.917626132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 79,
+  "translation": "N'ihi na ha riri ⟨את⟩ Yaakov, ma ⟨את⟩ ebe obibi ya ha mere ka ọ bụrụ ọzara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ha riri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ebe obibi ya"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "ebe obibi ya"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "ha mere ka ọ bụrụ ọzara"
+    }
+  ],
+  "timestamp": "2026-08-27T13:46:25.301693279Z",
+  "model": "glm-5.3"
+}

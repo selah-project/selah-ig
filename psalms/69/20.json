@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 69,
+  "translation": "⟨Ị⟩ ⟨bụ onye⟩ maara mkparị nke m, na ihere nke m, na nsọpụ-nledānyà nke m; ha niile dị n'ihu gị — ndị iro m niile.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "⟨Ị⟩"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "maara"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "mkparị nke m"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "na ihere nke m"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "na nsôpụ-nledānyà nke m"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "n'ihu gị"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ha niile"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ndị iro m niile"
+    }
+  ],
+  "timestamp": "2026-08-27T13:39:59.814234356Z",
+  "model": "glm-5.3"
+}

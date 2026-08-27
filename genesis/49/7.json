@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 49,
+  "translation": "A ṅụrụ asị ⟨n'⟩iwe ha, maka na ọ dị ike; na mkpọ ọkụ ha, maka na ọ siri ike; m ga-ekewa ha na Yaakov, m ga-ekusa ha na Yisrael.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "a ṅụrụ asị"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "iwe ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ọ dị ike"
+    },
+    {
+      "surface": "ועברתם",
+      "gloss": "na mkpọ ọkụ ha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "ọ siri ike"
+    },
+    {
+      "surface": "אחלקם",
+      "gloss": "m ga-ekewa ha"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "ואפיצם",
+      "gloss": "m ga-ekusa ha"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T06:05:08.632756754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "M wee nụ ⟨את⟩ olu Adonai na-asị, M ga-ezipu onye? onye ga-aga maka anyị? M wee sị, Le m; zitere m.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "M wee nụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "olu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "na-asị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onwe"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "M ga-ezipu"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ga-aga"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "maka anyị"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "M wee sị"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Le m"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "zitere m"
+    }
+  ],
+  "timestamp": "2026-08-27T10:36:43.686135981Z",
+  "model": "glm-5.3"
+}

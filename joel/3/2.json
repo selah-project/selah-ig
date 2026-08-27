@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Maka n'elu ndị ohu nakwa n'elu ndị odibo, n'ụbọchị ndị ahụ, m ga-wụsị ⟨את⟩ mmụọ m.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "maka nakwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ndị ohu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwa n'elu"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ndị odibo"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ndị ahụ"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "m ga-wụsị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmụọ m"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mmụọ m"
+    }
+  ],
+  "timestamp": "2026-08-27T12:45:14.928582272Z",
+  "model": "glm-5.3"
+}

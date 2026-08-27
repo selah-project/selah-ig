@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 34,
+  "translation": "Ma ⟨את⟩ anyị unu bi; ⟨את⟩ ala ga-adị n'ihu unu — bi ya, na-azụ ahịa ya, were nwee ya.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ anyị"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "unu bi"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "⟨the⟩ ala"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ga-adị"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "n'ihu unu"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "bi"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "na-azụ ahịa ya"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "were nwee"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T05:50:44.022060828Z",
+  "model": "glm-5.3"
+}

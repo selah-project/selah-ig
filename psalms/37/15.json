@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Mma agha ha ga-abanye n'obi ha, ma ụta ha ga-akụbisị.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Mma agha ha"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ga-abanye"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "n'obi ha"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "ma ụta ha"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ga-akụbisị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:26:31.997573225Z",
+  "model": "glm-5.3"
+}

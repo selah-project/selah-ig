@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 1:8",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma Tsadok onye-nchu-aja, na Benajahu nwa Yehojada, na Natan onye-amụma, na Shim'i, na Re'i, na ndị dike ndị nọ n'aka David, adịghị Adonijah n'akụkụ.",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "Ma Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "onye-nchu-aja"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "na Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nwa"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehojada"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "onye-amụma"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "na Shim'i"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "na Re'i"
+    },
+    {
+      "surface": "והגבורים",
+      "gloss": "na ndị dike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nọ n'aka David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "adịghị"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ha bụ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n'akụkụ"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijah"
+    }
+  ],
+  "timestamp": "2026-08-27T09:48:53.501653453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 4:12",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ha ga-ewe ⟨את⟩ ngwa ọrụ-ejere-Chi niile nke ha na-eji enye ọrụ n'ebe dị nsọ n'ime ha, ha ga-etinye ha n'ime uwe nke anụnụ-acha-acha, ma kpuchie ⟨את⟩ ha na mkpuchi akpụkpọ anụ tahash, ma tinye ha n'elu osisi-ebu.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ha ga-ewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwa ọrụ-ejere-Chi niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ngwa"
+    },
+    {
+      "surface": "השרת",
+      "gloss": "ọrụ-ejere-Chi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "ha na-eji enye ọrụ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "n'ime ha"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "n'ebe dị nsọ"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ha ga-etinye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "uwe"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "anụnụ-acha-acha"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ma kpuchie"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha (ngwa ahụ)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "na mkpuchi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "akpụkpọ anụ"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tahash"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ma tinye"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "osisi-ebu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:15:12.212576552Z",
+  "model": "glm-5.3"
+}

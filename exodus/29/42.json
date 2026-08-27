@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 29:42",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Ọkụ-onyinye na-adịgide adịgide maka ọgbọ unu niile, n'ọnụ ụzọ Aha Nzukọ, n'ihu Yahwe, ebe m ga-ezute unu n'ebe ahụ, ka m na-gwa gị okwu n'ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "Ọkụ-onyinye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "na-adịgide adịgide"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "maka ọgbọ unu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "n'ọnụ ụzọ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Nzukọ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "m ga-ezute"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "unu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ka m na-gwa okwu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T06:32:18.466450629Z",
+  "model": "glm-5.3"
+}

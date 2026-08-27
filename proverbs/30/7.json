@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 30,
+  "translation": "Ihe abụọ ka m rịọrọ n'aka ⟨את⟩ gị; zere igbu m ha tupu m anwụọ.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "m rịọrọ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ n'aka gị",
+      "marks": "gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zere"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "igbu m \/ jụ m"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "aka m"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "tupu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "m na-anwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:33:09.944035330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "Mgbe ọ ruru oge iji nye ⟨את⟩ Merav, nwa nwanyị Shaul, David, a nyere ya Adriel, onye Meholat, dị ka nwunye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ ruru"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "oge"
+    },
+    {
+      "surface": "תת",
+      "gloss": "inye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merav"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merav"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "a nyere"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "Adriel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "onye Meholat"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dị ka nwunye"
+    }
+  ],
+  "timestamp": "2026-08-27T09:16:53.055054666Z",
+  "model": "glm-5.3"
+}

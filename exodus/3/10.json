@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma ugbu a, gaa, m ga-eziga gị nye Paroh, ka pụta ⟨את⟩ ndị m — ụmụ Yisrael — si Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ma ugbu a"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "ו אשלחך",
+      "gloss": "m ga-eziga gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "ka pụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị m"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ndị m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "si Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:09:51.970738297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ọma ma bụkwa ezigbo okwu ⟨הו⟩ Yahwe; ya mere Ọ na-akuziri ndị mmehie n'ụzọ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Ọma"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ma bụkwa ezigbo okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya mere"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "na-akuziri"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ndị mmehie"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:35.891325497Z",
+  "model": "glm-5.3"
+}

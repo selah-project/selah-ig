@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "N'ihi na Ị bụ Elohim nke ike m; maka gịnị ka Ị chụpụrụ m? maka gịnị ka m na-eje ije ujoo n'okwu mmegbu nke onye iro?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ị"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "nke ike m"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maka gịnị ka"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "Ị chụpụrụ m"
+    },
+    {
+      "surface": "למה",
+      "gloss": "maka gịnị ka"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "na-eje ije ujoo"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "m na-eje ije"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "n'okwu mmegbu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nke onye iro"
+    }
+  ],
+  "timestamp": "2026-08-27T13:30:03.035038594Z",
+  "model": "glm-5.3"
+}

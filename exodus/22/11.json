@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Ma ọ bụrụ na a zuuru ya n'aka ya, ọ ga-akwụ ụgwọ nye onye nwe ya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ọ bụrụ na"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "a zuuru"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "zuuru"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "n'aka ya"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ọ ga-akwụ ụgwọ"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "nye onye nwe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T06:25:19.648411674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "Otu okwu ka m kwuru, ma ọ ga-aghi ana; ụgboro abụọ, ma agaghị m agbakwunye.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "otu okwu (ụgboro)"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ka m kwuru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ ga-aghi"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ụgboro abụọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma agaghị"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "m agbakwunye"
+    }
+  ],
+  "timestamp": "2026-08-27T14:58:00.748116233Z",
+  "model": "glm-5.3"
+}

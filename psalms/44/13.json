@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 44,
+  "translation": "I na-ere ⟨את⟩ ndị gị na-enweghị uru, ma ọ nweghị ka ịbara n'ọnụahịa ha.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "na-ere"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndị gị"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "na-enweghị"
+    },
+    {
+      "surface": "הון",
+      "gloss": "uru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ nweghị"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "ka ịbara"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "n'ọnụahịa ha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:29:54.611939768Z",
+  "model": "glm-5.3"
+}

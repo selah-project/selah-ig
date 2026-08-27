@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ndị ahụ zaghịrị wee sị: Nnukwu ihe jọrọ njọ ka ọ bụ maka anyị ịhapụ ⟨את⟩ Yahwe iji jee ozi chi ndị ọzọ.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "zaghịrị"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "nnukwu ihe jọrọ njọ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "maka anyị"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ịhapụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "iji jee ozi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chi ndị"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ndị ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T08:38:47.201527062Z",
+  "model": "glm-5.3"
+}

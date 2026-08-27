@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "N'ihi na ebe m nọrọ n'ụlọ dịghị, kemgbe ụbọchị m welitere ⟨את⟩ ụmụ Yisrael si n'Ijipt, ruo ụbọchị a taa, m na-agagharị n'ụlọikwu na n'ebe obibi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "N'ihi na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dịghị"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "m nọrọ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "n'ụlọ"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "kemgbe ụbọchị"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "m welitere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụmụ Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "si n'Ijipt"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a taa"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "m na-"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "agagharị"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "n'ụlọikwu"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "na n'ebe obibi"
+    }
+  ],
+  "timestamp": "2026-08-27T09:34:37.583530961Z",
+  "model": "glm-5.3"
+}

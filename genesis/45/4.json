@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "Yosef wee sịrị ụmụnne ya, \"Bịakwute m, biko\"; ha wee bịakwute ya. O wee sị, \"M bụ Yosef, nwanne unu, onye unu resịrị ⟨את⟩ m ka e buga Mitzrayim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sịrị"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ụmụnne ya"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "\"Bịakwute\""
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ha wee bịakwute"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "O wee sị"
+    },
+    {
+      "surface": "אני",
+      "gloss": "M bụ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "nwanne unu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "unu resịrị"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "m"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T06:02:30.224014337Z",
+  "model": "glm-5.3"
+}

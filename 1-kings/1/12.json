@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ugbua bịa, ka m nyere gị ndụmọdụ biko, were zọpụta ⟨את⟩ mmụọ ndụ gị na ⟨את⟩ mmụọ ndụ nwa gị Shelomoh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ugbua"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "bịa"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ka m nyere gị ndụmọdụ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biko"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ndụmọdụ"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "were zọpụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmụọ ndụ gị"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mmụọ ndụ gị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mmụọ ndụ nwa gị"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mmụọ ndụ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "nwa gị"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-27T09:49:04.166272264Z",
+  "model": "glm-5.3"
+}

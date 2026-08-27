@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Anyị weere ⟨את⟩ ala ha, anyị wee nyefee ya dịka ihe nketa nye ndị Reuven, nye ndị Gad, na nye ọkara agbụrụ nke Menashe.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "anyị weere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ala ha"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ala ha"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "anyị wee nyefee ya"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "dịka ihe nketa"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "nye ndị Reuven"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "nye ndị Gad"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "na nye ọkara"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "agbụrụ"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "nke Menashe"
+    }
+  ],
+  "timestamp": "2026-08-27T08:12:29.469682059Z",
+  "model": "glm-5.3"
+}

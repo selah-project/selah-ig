@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Anya m gara mkpụmkpụ n'ihi iwe; ọ kaara nká n'ihi ndị iro m niile.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "gara mkpụmkpụ"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "n'ihi iwe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "ọ kaara nká"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "n'ihi niile"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ndị iro m"
+    }
+  ],
+  "timestamp": "2026-08-27T16:46:11.673895411Z",
+  "model": "glm-5.3"
+}

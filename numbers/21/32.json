@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 21,
+  "translation": "Ma Moshe zitere ⟨ndị⟩ ka ha gaa nyochaa ⟨את⟩ Yaazer; ha wee jide obodo nwaanyị ya, ma chụsoo ⟨את⟩ ndị Emori n'ala bụ́ ndị nọ ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ma Moshe zitere"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "ka ha gaa nyochaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ha wee jide"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "obodo nwaanyị ya"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "ma chụsoo n'ala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ndị Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ́ ndị"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nọ ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:30:45.111274765Z",
+  "model": "glm-5.3"
+}

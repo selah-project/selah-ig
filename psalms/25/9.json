@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Ọ na-eduzi ndị nwayas na ⟨ihe ziri ezi⟩, ma na-akụziri ndị nwayas ụzọ ya.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "na-eduzi n'ụzọ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ndị nwayas"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "n'ịkpọ ziri ezi"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "ma na-akụziri"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ndị nwayas"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ụzọ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:22:10.085741207Z",
+  "model": "glm-5.3"
+}

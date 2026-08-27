@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 15,
+  "translation": "N'ihi mmehie Yaravam nke o mere, na nke o mere ka Israel mee, site na mkpasu iwe ya nke o kpasuru Yahwe, Elohim nke Israel, iwe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mmehie"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "o mere"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na nke"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "o mere ka... mee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "site na mkpasu iwe ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "o kpasuru... iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nke Israel"
+    }
+  ],
+  "timestamp": "2026-08-27T10:05:22.178113893Z",
+  "model": "glm-5.3"
+}

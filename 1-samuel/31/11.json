@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Mgbe ndị bi na Yabesh-Gilead nụrụ banyere ya ihe ⟨את⟩ nke Ndị-Filistia mere maka Shaụl,",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ha nụrụ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "banyere ya"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị bi na"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe nke Ndị-Filistia mere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe nke"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ha mere"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ndị-Filistia"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "maka Shaụl"
+    }
+  ],
+  "timestamp": "2026-08-27T09:28:14.460638877Z",
+  "model": "glm-5.3"
+}

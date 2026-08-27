@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 45,
+  "translation": "A ga-edu ha na ṅụrị ọṅụụ na obi ụtọ; ha ga-abanye n'obí eze.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "A ga-edu ha"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "na ṅụrị ọṅụụ"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "na obi ụtọ"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "ha ga-abanye"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "n'obí"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    }
+  ],
+  "timestamp": "2026-08-27T13:31:30.767286957Z",
+  "model": "glm-5.3"
+}

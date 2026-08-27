@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 6:4",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ebe-ọkụ unu ga-aghọ ihe mkpọfu, na anwụ-anwụ unu ga-agbaji; m ga-ada ndị e gburu n'ihu arụsị unu.",
+  "tokens": [
+    {
+      "surface": "ונשמו",
+      "gloss": "ga-aghọ ihe mkpọfu"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "ebe-ọkụ unu"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "ga-agbaji"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "anwụ-anwụ unu"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "m ga-ada"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "ndị e gburu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "arụsị unu"
+    }
+  ],
+  "timestamp": "2026-08-27T12:00:37.967184434Z",
+  "model": "glm-5.3"
+}

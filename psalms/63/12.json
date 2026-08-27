@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 63,
+  "translation": "Ma eze ga-enwe obi ụtọ na Elohim; onye ọ bụla na-iyi ama n'aha ya ga-eji ya ma nganga; n'ihi na ọnụ nke ndị na-asụ ụgha ga-emechi.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ma eze"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ga-enwe obi ụtọ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ga-eji nganga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onye niile"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "onye na-iyi ama"
+    },
+    {
+      "surface": "בו",
+      "gloss": "n'aha ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "ga-emechi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ọnụ"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "nke ndị na-asụ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ụgha"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:25.631343231Z",
+  "model": "glm-5.3"
+}

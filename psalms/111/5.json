@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 111,
+  "translation": "Nri o nyere ndị na-atụ ya egwu; ọ ga-echeta ọgbụgba-ndụ ya ruo mgbe ebighị ebi.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "nri"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o nyere"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ndị na-atụ ya egwu"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ọ ga-echeta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ọgbụgba-ndụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T13:59:08.809378308Z",
+  "model": "glm-5.3"
+}

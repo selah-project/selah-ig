@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Chever mụrụ ⟨את⟩ Yaflet na ⟨את⟩ Shomer na ⟨את⟩ Chotam na ⟨את⟩ Shua, nwanne ha nwanyị.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Chever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mụrụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Chotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Chotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Shua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "nwanne ha nwanyị"
+    }
+  ],
+  "timestamp": "2026-08-27T15:56:11.081589621Z",
+  "model": "glm-5.3"
+}

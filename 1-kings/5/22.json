@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "Hiram wee zipụta ⟨okwu⟩ nye Shelomah, ka o kwuo sị: Anụlaala m ⟨את⟩ ihe i zipụrụ m; m ga-emerụ ⟨את⟩ ihe ọchịchọ gị niile n'osisi cedar na n'osisi berosh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wee zipụta"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nye"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka o kwuo sị"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Anụlaala m"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "i zipụrụ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "m"
+    },
+    {
+      "surface": "אני",
+      "gloss": "m"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ga-emerụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe ọchịchọ gị niile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "ihe ọchịchọ gị"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "n'osisi"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedar"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "na n'osisi"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "berosh"
+    }
+  ],
+  "timestamp": "2026-08-27T09:55:20.435626466Z",
+  "model": "glm-5.3"
+}

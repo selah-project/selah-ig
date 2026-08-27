@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 58,
+  "translation": "Mmadụ ga-asị: n'ezie, akwụghị ụgwọ maka onye ziri ezi; n'ezie, Elohim dị, na-ekpe ikpe n'ụwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ga-asị"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "akwụghị ụgwọ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "maka onye ziri ezi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "n'ezie"
+    },
+    {
+      "surface": "יש",
+      "gloss": "dị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "na-ekpe ikpe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    }
+  ],
+  "timestamp": "2026-08-27T13:34:24.774155991Z",
+  "model": "glm-5.3"
+}

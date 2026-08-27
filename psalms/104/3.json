@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 104,
+  "translation": "Onye na-ewu elu ọnụ ụlọ ya n'elu mmiri, Onye na-eme igwe ojii ọgba ya, Onye na-eje ije n'elu nku nke ifufe.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Onye na-ewu elu ọnụ ụlọ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "n'elu mmiri"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "ya"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Onye na-eme"
+    },
+    {
+      "surface": "עבim",
+      "gloss": "igwe ojii"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "ọgba ya"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "Onye na-eje ije"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "nku"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nke ifufe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:54:32.364679958Z",
+  "model": "glm-5.3"
+}

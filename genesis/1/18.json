@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ka ha na-achị n'ụbọchị na n'abalị, ma na-ekewa n'etiti ìhè na n'etiti ọchịchịrị; Elohim we hụ na ọ dị mma.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "ma ka ha na-achị"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "na n'abalị"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ma na-ekewa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ìhè"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na n'etiti"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ọchịchịrị"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "we hụ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ọ dị mma"
+    }
+  ],
+  "timestamp": "2026-08-27T05:26:58.407268201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 9:5",
+  "book": "amos",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "N'ihi na Adonai Yahwe Tzevaot bụ onye na-emetụ ⟨את⟩ ala, ma ọ na-agbapụta, ndị bi na ya niile na-ebe uju; ọ na-ebili dum dịka osimiri, ma na-amikpu dịka osimiri Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "onye na-emetụ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ותמוג",
+      "gloss": "na-agbapụta"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "na-ebe uju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ndị bi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "na-ebili"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "dịka osimiri"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "dum ya"
+    },
+    {
+      "surface": "ושקעה",
+      "gloss": "na-amikpu"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "dịka osimiri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-27T12:51:38.939829402Z",
+  "model": "glm-5.3"
+}

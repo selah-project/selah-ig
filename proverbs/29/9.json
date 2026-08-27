@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 29,
+  "translation": "Nwoke amamihe na-ekpe ⟨את⟩ nwoke nzuzu ikpe, ma ọ na-ewe iwe ma ọ na-achị ọchị, enweghị ezumike.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "amamihe"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "na-ekpe ikpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwoke nzuzu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "nzuzu"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "ma ọ na-ewe iwe"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "ma ọ na-achị ọchị"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "enweghị"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ezumike"
+    }
+  ],
+  "timestamp": "2026-08-27T14:31:42.140710438Z",
+  "model": "glm-5.3"
+}

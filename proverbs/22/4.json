@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "ig",
+  "chapter": 22,
+  "translation": "Nsonaazu nke mmepere aka na ịtụ Yahwe egwu: akụ na ụba, na nsọpụrụ, na ndụ.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "nsonaazu"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "mmepere aka"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ịtụ egwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "akụ na ụba"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na nsọpụrụ"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "na ndụ"
+    }
+  ],
+  "timestamp": "2026-08-27T14:27:59.500988838Z",
+  "model": "glm-5.3"
+}

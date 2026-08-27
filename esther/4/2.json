@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "O wee bịa ruo n'ihu ọnụ ụzọ eze, n'ihi na ọ dịghị onye na-abanye n'ọnụ ụzọ eze yi uwe akpa.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "bịa ruo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "na-abanye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "yi"
+    },
+    {
+      "surface": "שק",
+      "gloss": "uwe akpa"
+    }
+  ],
+  "timestamp": "2026-08-27T15:21:15.274786660Z",
+  "model": "glm-5.3"
+}

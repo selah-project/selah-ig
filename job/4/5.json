@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 4,
+  "translation": "Ma ugbu a, ⟨ọ⟩ bịara n'aka gị, ma ị tọgbọrọ chakoo; ọ metụrụ gị, ma ị na-atụ ụjọ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ugbu a"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ọ bịara"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "n'aka gị"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "ma ị tọgbọrọ chakoo"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "ọ metụrụ"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "ma ị na-atụ ụjọ"
+    }
+  ],
+  "timestamp": "2026-08-27T16:50:12.072129950Z",
+  "model": "glm-5.3"
+}

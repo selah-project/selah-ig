@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 112,
+  "translation": "Dike n'ụwa ka ọ ga-abụ mkpụrụ ya; ọgbọ nke ndị kwụpụ 会在̄ ga-enye aka.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "dike"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ụwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ọ ga-abụ"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mkpụrụ ya"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ọgbọ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "nke ndị kwụpụ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ga-enye aka"
+    }
+  ],
+  "timestamp": "2026-08-27T13:58:07.649311755Z",
+  "model": "glm-5.3"
+}

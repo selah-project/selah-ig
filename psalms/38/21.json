@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 38,
+  "translation": "Ndị na-akwụọ ọjọọ n'ọnọdụ ihe ọma, ha na-ebuso m ebubo, n'ihi na m na-achụ ihe ọma.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "ndị na-akwụọ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ọjọọ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'ọnọdụ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ihe ọma"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "ha na-ebuso m ebubo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "na m na-achụ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ihe ọma"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:47.933096897Z",
+  "model": "glm-5.3"
+}

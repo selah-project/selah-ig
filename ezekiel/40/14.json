@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 40:14",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 40,
+  "translation": "O wee kee ⟨את⟩ osisi-ọnụ-ụzọ ndị ahụ dị kube iri isii, ọ bụkwa ruo na osisi-ọnụ-ụzọ nke {{ọdụ}} ahụ, ọnụ ụzọ gbara ya gburugburu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "O wee kee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osisi-ọnụ-ụzọ ndị ahụ"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "osisi-ọnụ-ụzọ ndị"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "iri isii"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kube"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ọ bụkwa ruo na"
+    },
+    {
+      "surface": "איל",
+      "gloss": "osisi-ọnụ-ụzọ nke"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "{{ọdụ}} ahụ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ọnụ ụzọ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburu gburugburu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gburugburu"
+    }
+  ],
+  "timestamp": "2026-08-27T16:45:25.877361344Z",
+  "model": "glm-5.3"
+}

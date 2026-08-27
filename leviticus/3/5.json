@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "Ma ụmụ Aharon ga-eresi ya ⟨את⟩ si n'elu ebe ịchụàjà, n'elu àjà ọkụ-ọfọ nke dị n'elu osisi ndị dị n'elu ọkụ — ọnyà ọkụ, isi ụtọ dị nro nye Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "ga-esesi-si"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ihe oriri a ga-esi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ebe ịchụàjà"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "àjà ọkụ-ọfọ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke dị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "osisi ndị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke dị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ọkụ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ọnyà ọkụ"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "isi ụtọ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "dị nro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nye Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:42:39.019924228Z",
+  "model": "glm-5.3"
+}

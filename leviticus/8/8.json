@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "O wee tinye ⟨את⟩ akwa ara n'elu ya, o wee tinye n'ime akwa ara ⟨את⟩ Urim na ⟨את⟩ Tummim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "o wee tinye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akwa ara"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "akwa ara"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o wee tinye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ime"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "akwa ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tummim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tummim"
+    }
+  ],
+  "timestamp": "2026-08-27T16:26:04.815513163Z",
+  "model": "glm-5.3"
+}

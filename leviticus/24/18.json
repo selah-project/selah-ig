@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Onye na-akụ anụ ụlọ, ga-akwụ ụgwọ ya: mkpọmkpọ ụkwụ n'ọnọdụ mkpọmkpọ ụkwụ.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Onye na-akụ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mkpọmkpọ ụkwụ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "anụ ụlọ"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "ga-akwụ ụgwọ ya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mkpọmkpọ ụkwụ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "n'ọnọdụ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mkpọmkpọ ụkwụ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:04:16.654045232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "N'ọnwa nke atọ, mgbe ụmụ Yisrael pụrụ n'ala Mitzrayim, n'ụbọchị a, ha bịara n'ọzara Sinaị.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "n'ọnwa"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "nke atọ"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "mgbe ... pụrụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ha bịara"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ọzara"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:20:15.397669177Z",
+  "model": "glm-5.3"
+}

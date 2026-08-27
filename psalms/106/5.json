@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 106,
+  "translation": "Iji hụ ọma nke ndị gị ahọpụtara, ịnwe obi ụtọ n'obi ụtọ nke mba gị, ịja onwe gị mma ya na ihe nketa gị.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "iji hụ"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "ọma nke"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "ndị gị ahọpụtara"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "ịnwe obi ụtọ"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "n'obi ụtọ nke"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "mba gị"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "ịja onwe gị mma"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ihe nketa gị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:56:12.297779659Z",
+  "model": "glm-5.3"
+}

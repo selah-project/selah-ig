@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 9:3",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "n'ụbọchị nke iri na anọ n'ọnwa a, n'etiti abalị abụọ, unu ga-eme ⟨את⟩ ya n'oge ya ekwuru; dịka iwu ya niile si dị na dịka ikpe ya niile si dị ka unu ga-eme ⟨את⟩ ya",
+  "tokens": [
+    {
+      "surface": "בארבעה",
+      "gloss": "nke iri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na anọ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "n'ọnwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "abalị abụọ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "unu ga-eme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ọ dị n'oge ya ekwuru"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "n'oge ya ekwuru"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "dịka niile"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "iwu ya"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "na dịka niile"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ikpe ya"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "unu ga-eme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-08-27T07:19:36.362038482Z",
+  "model": "glm-5.3"
+}

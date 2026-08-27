@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 63,
+  "translation": "Abụ ábíá nke David, mgbe ọ nọ n'ọzara nke Yehuda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "abụ ábíá"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "mgbe ọ nọ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "n'ọzara"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-27T13:37:33.750425609Z",
+  "model": "glm-5.3"
+}

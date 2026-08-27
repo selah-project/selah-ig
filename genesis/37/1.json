@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Yaakov bikwuru n'ala mbụ ndị nna ya nọ, n'ala Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bikwuru"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "mbụ ndị nọ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-27T05:52:53.523037365Z",
+  "model": "glm-5.3"
+}

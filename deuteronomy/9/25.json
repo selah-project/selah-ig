@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 9,
+  "translation": "M tụrụ onwe m ala n'ihu Yahwe ⟨את⟩ ụbọchị iri anọ na ⟨את⟩ abalị iri anọ nke m tụrụ onwe m ala, n'ihi na Yahwe kwuru ịbibi ⟨את⟩ unu.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "m tụrụ onwe m ala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụbọchị iri anọ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "iri anọ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ụbọchị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abalị iri anọ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "iri anọ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "abalị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "m tụrụ onwe m ala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ịbibi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ unu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:58:40.170174117Z",
+  "model": "glm-5.3"
+}

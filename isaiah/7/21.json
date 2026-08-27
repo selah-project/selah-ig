@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Ọ ga-adị n'ụbọchị ahụ na nwoke ga-azụlite otu nwa ehi na ehi abụọ nke ìgwè atụrụ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ọ ga-adị"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ahụ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ga-azụlite"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "nwa ehi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ehi"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "na abụọ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ìgwè atụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T10:36:29.046197378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 102,
+  "translation": "Ma gị, Yahwe, ga-anọdụ ruo mgbe ebighị ebi, na ncheta gị ruo ọgbọ na ọgbọ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma gị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ruo mgbe ebighị ebi"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ga-anọdụ"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "na ncheta gị"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ruo ọgbọ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na ọgbọ"
+    }
+  ],
+  "timestamp": "2026-08-27T13:53:14.976658302Z",
+  "model": "glm-5.3"
+}

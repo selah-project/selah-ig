@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 122,
+  "translation": "Abụ nke ndị na-ago n'elu, nke Dawid. M dịrị m mma mgbe ha gwara m, sị: Ka anyị gaa n'ụlọ Yahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Abụ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nke ndị na-ago n'elu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nke Dawid"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "M dịrị m mma"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "mgbe ha gwara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ka anyị gaa"
+    }
+  ],
+  "timestamp": "2026-08-27T14:05:52.058782870Z",
+  "model": "glm-5.3"
+}

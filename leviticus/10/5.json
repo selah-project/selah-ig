@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 10,
+  "translation": "Ha wee bịaru nso, were ha n'uhu nke ha, gaa na mpụga nke ogige, dịka Moshe gwara.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ha wee bịaru nso"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "were ha"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "n'uhu nke ha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "mpụga"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "nke ogige"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gwara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-27T06:51:29.749540778Z",
+  "model": "glm-5.3"
+}

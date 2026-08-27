@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 25,
+  "translation": "Yahwe wee kwuo okwu ⟪ya⟫ nye Moshe, na-asị,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kwuru okwu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na-asị"
+    }
+  ],
+  "timestamp": "2026-08-27T06:29:10.826895480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 60,
+  "translation": "Ịaghịla akụchasị anyị, Elohim? Ị pụghịkwa ịpụta, Elohim, na ndị agha anyị?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ọ bụghị na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "gị"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "akụchasịla anyị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ị na-apụta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "na ndị agha anyị"
+    }
+  ],
+  "timestamp": "2026-08-27T13:36:14.982676792Z",
+  "model": "glm-5.3"
+}

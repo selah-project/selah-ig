@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 37,
+  "translation": "Maka ogwe aka ndị ọjọọ ⟨ga-emebi⟩, ma Yahwe na-akwado ndị ezi omume.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "ogwe aka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndị ọjọọ"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "⟨ga-emebi⟩"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "ma na-akwado"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ndị ezi omume"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T13:27:54.630688158Z",
+  "model": "glm-5.3"
+}

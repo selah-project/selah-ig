@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Unu agaghị eso chi ndị ọzọ, chi ndị nke ndị mpaghara ndị gbara gburugbu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "unu ga-eso"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chi ndị"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ndị ọzọ"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "chi ndị nke"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ndị mpaghara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "gbara gburugbu"
+    }
+  ],
+  "timestamp": "2026-08-27T07:52:34.496956960Z",
+  "model": "glm-5.3"
+}

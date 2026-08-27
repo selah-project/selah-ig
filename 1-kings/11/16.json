@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 11,
+  "translation": "n'ihi na ọnwa isii ka Jọab na Yisrel niile nọrọ ebe ahụ, ruo mgbe e kpochapụrụ nwoke ọ bụla n'Edom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "isii"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ọnwa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nọrọ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebe ahụ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jọab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na... niile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "e kpochapụrụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nwoke"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "n'Edom"
+    }
+  ],
+  "timestamp": "2026-08-27T10:00:25.098048202Z",
+  "model": "glm-5.3"
+}

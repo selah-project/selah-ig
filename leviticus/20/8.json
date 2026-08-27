@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Unu ga-echebere ⟨את⟩ iwu m ma mejuo ⟨את⟩ ha; mụ bụ Yahwe, Onye na-eme ka unu bụrụ ndị nsọ.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Unu ga-echebere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwu m"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "iwu m"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ma mejuo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mụ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "Onye na-eme ka unu bụrụ ndị nsọ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:01:13.628166126Z",
+  "model": "glm-5.3"
+}

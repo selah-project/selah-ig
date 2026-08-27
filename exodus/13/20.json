@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ha si n'Sukkot pụọ, ma gbanwee ọnọdụ na Etam, n'ókè ọzara.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ha si pụọ"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "n'Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ma gbanwee ọnọdụ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "na Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "n'ókè"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ọzara"
+    }
+  ],
+  "timestamp": "2026-08-27T06:17:51.724956327Z",
+  "model": "glm-5.3"
+}

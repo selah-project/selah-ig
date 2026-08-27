@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 7,
+  "translation": "Maka na n'ọmụmụ nke amamihi ka nke ọlaọcha dị, mụbaa nke ịmara bụ na amamihi na-eme ka ndị nwe ya dị ndụ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maka na"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "n'ọmụmụ"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "nke amamihi"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "n'ọmụmụ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "nke ọlaọcha"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "mụbaa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "nke ịmara"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "amamihi"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "na-eme ka ... dị ndụ"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "ndị nwe ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:15:19.494582708Z",
+  "model": "glm-5.3"
+}

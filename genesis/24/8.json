@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 24:8",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 24,
+  "translation": "Ma ọ bụrụ na nwanyị ahụ ghara ịnabata ịgbaso gị, a ga-ewepụ gị na iyi m a; naanị ⟨את⟩ nwa m ka ị ghara iweghachi ebe ahụ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "ịnabata"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nwanyị ahụ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ịga"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ọgbaso gị"
+    },
+    {
+      "surface": "ונקית",
+      "gloss": "a ga-ewepụ gị"
+    },
+    {
+      "surface": "משבעתי",
+      "gloss": "na iyi m"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "a"
+    },
+    {
+      "surface": "רק",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwa m"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nwa m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ghara"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "iweghachi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ebe ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T05:38:16.681807408Z",
+  "model": "glm-5.3"
+}

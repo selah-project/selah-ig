@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 19,
+  "translation": "Ma ọ bụrụ na onye ọbịa nọrọ ⟨את⟩ gị n'ala unu, unu emenye ya ihe ọjọọ ⟨את⟩ ya.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "nọrọ dịka onye ọbịa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ gị",
+      "marks": "gị"
+    },
+    {
+      "surface": "גר",
+      "gloss": "onye ọbịa"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "n'ala unu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ila"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "unu emenye ihe ọjọọ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T07:02:29.832024246Z",
+  "model": "glm-5.3"
+}

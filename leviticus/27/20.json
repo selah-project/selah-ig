@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 27,
+  "translation": "Ma ọ bụrụ na ọ azọpụtaghị ⟨את⟩ ubi ahụ, ma ọ bụ na ọ rela ⟨את⟩ ubi ahụ nye nwoke ọzọ, ọ gaghị azọpụta ya ọzọ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụrụ na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ azọpụtaghị"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ọ zọpụta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubi ahụ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma ọ bụ na"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ọ rela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubi ahụ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nye nwoke"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ gaghị"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "azọpụta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ọzọ"
+    }
+  ],
+  "timestamp": "2026-08-27T07:08:13.420007571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Maka ọ naghị ama ihe ga-abịa n'ọdịnihu; maka mgbe ọ ga-eme, onye ga-agwa ya?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ọ naghị"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ihe"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ga-abịa n'ọdịnihu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mgbe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ọ ga-eme"
+    },
+    {
+      "surface": "מי",
+      "gloss": "onye"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ga-agwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya"
+    }
+  ],
+  "timestamp": "2026-08-27T15:17:19.698845643Z",
+  "model": "glm-5.3"
+}
