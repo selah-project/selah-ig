@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 41,
-  "translation": "Na ọnụ ụzọ nke ụlọ-akụkụ ahụ nwere ọnụ ụzọ otu gaa n'ebe ugwu, ma ọnụ ụzọ otu gaa n'ebe ndịda; ma obosara nke ebe a hapụrụ ahụ ⟨is⟩ ogologo aka ise gburugburu gburugburu.",
+  "translation": "Na ọnụ ụzọ nke ụlọ-akụkụ na-ezo aka n'ebe ⟨a hapụrụ⟩: ọnụ ụzọ otu na-ezo aka n'akụkụ ugwu, na ọnụ ụzọ otu na-ezo aka n'akụkụ ndịda; na obosara nke ebe ⟨a hapụrụ⟩ ⟨bụ⟩ ogụtụ ise gburugburu gburugburu.",
   "tokens": [
     {
       "surface": "ופתח",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "למנח",
-      "gloss": "nke ebe a hapụrụ"
+      "gloss": "na-ezo aka n'ebe a hapụrụ"
     },
     {
       "surface": "פתח",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "דרך",
-      "gloss": "gaa"
+      "gloss": "n'akụkụ ụzọ"
     },
     {
       "surface": "הצפון",
-      "gloss": "ebe ugwu"
+      "gloss": "ugwu"
     },
     {
       "surface": "ופתח",
-      "gloss": "ma ọnụ ụzọ"
+      "gloss": "na ọnụ ụzọ"
     },
     {
       "surface": "אחד",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "לדרום",
-      "gloss": "ebe ndịda"
+      "gloss": "n'akụkụ ndịda"
     },
     {
       "surface": "ורחב",
-      "gloss": "ma obosara"
+      "gloss": "na obosara"
     },
     {
       "surface": "מקום",
-      "gloss": "ebe"
+      "gloss": "nke ebe"
     },
     {
       "surface": "המנח",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אמות",
-      "gloss": "ogologo aka"
+      "gloss": "ogụtụ"
     },
     {
       "surface": "סביב",
@@ -76,6 +76,6 @@
       "gloss": "gburugburu"
     }
   ],
-  "timestamp": "2026-08-27T16:45:26.300471585Z",
+  "timestamp": "2026-08-27T17:51:11.823277879Z",
   "model": "glm-5.3"
 }

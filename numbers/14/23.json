@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 14,
-  "translation": "ọ bụrụ na ha ga-ahụ ⟨את⟩ ⟨ala⟩ ahụ nke m ṅụrụ iyi nye nna nna ha — ma onye ọ bụla n'ime ndị na-akparị m agaghị ahụ ya.",
+  "translation": "Ọ bụghị na ha ga-ahụ ⟨את⟩ ala nke ṅụrụ m nye nna nna ha; ma onye ọ bụla n'etiti ndị na-asọpụrụ m n'ọnụ agaghị ahụ ya.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "ọ bụrụ na"
+      "gloss": "ọ bụghị na"
     },
     {
       "surface": "יראו",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ala ahụ"
+      "marks": "ala"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ala"
+      "gloss": "ala"
     },
     {
       "surface": "אשר",
@@ -30,19 +30,19 @@
     },
     {
       "surface": "נשבעתי",
-      "gloss": "m ṅụrụ iyi"
+      "gloss": "ṅụrụ m"
     },
     {
       "surface": "לאבתם",
-      "gloss": "nna nna ha"
+      "gloss": "nye nna nna ha"
     },
     {
       "surface": "וכל",
-      "gloss": "ma ndị niile"
+      "gloss": "ma onye ọ bụla n'etiti"
     },
     {
       "surface": "מנאצי",
-      "gloss": "na-akparị m"
+      "gloss": "ndị na-asọpụrụ m n'ọnụ"
     },
     {
       "surface": "לא",
@@ -53,6 +53,6 @@
       "gloss": "ahụ ya"
     }
   ],
-  "timestamp": "2026-08-27T07:23:15.731089565Z",
+  "timestamp": "2026-08-27T17:34:21.507855996Z",
   "model": "glm-5.3"
 }

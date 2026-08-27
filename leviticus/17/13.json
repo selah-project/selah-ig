@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 17,
-  "translation": "Ma onye ọ bụla n'ime ụmụ Yisrael, ma ọ bụ n'ime onye ọbịa na-anọ n'etiti ha, onye na-achụ nta anụ nta — anụ ọhịa ma ọ bụ nnu-nnụ nke a na-eri — ga-dọwasa ⟨את⟩ ọbara ya, ma kpuchie ya na ájá.",
+  "translation": "Onye ọ bụla n'ime ụmụ Yisrael, maọbụ onye ọbịa n'etiti ha, onye na-achụ nta anụ ọhịa maọbụ nụnnụ nke a na-eri, ga-awụsa ⟨את⟩ ọbara ya ma kpuchie ya na ájá.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "Ma onye"
+      "gloss": "ma onye"
     },
     {
       "surface": "איש",
-      "gloss": "ọ bụla"
+      "gloss": "onye ọ bụla"
     },
     {
       "surface": "מבני",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "ומן",
-      "gloss": "ma ọ bụ n'ime"
-    },
-    {
-      "surface": "הגר",
-      "gloss": "⟨the⟩"
+      "gloss": "maọbụ onye"
     },
     {
       "surface": "הגר",
       "gloss": "onye ọbịa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "na-ebi"
     },
     {
       "surface": "בתוכם",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ציד",
-      "gloss": "anụ nta"
+      "gloss": "anụ ịchụ nta"
     },
     {
       "surface": "חיה",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "או",
-      "gloss": "ma ọ bụ"
+      "gloss": "maọbụ"
     },
     {
       "surface": "עוף",
-      "gloss": "nnu-nnụ"
+      "gloss": "nnụnnụ"
     },
     {
       "surface": "אשר",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ושפך",
-      "gloss": "ga-dọwasa"
+      "gloss": "ga-awụsa"
     },
     {
       "surface": "את",
@@ -93,6 +93,6 @@
       "gloss": "na ájá"
     }
   ],
-  "timestamp": "2026-08-27T06:59:43.823632604Z",
+  "timestamp": "2026-08-27T17:33:00.253736177Z",
   "model": "glm-5.3"
 }

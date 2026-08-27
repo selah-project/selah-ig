@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 23,
-  "translation": "Ndị Levai ga-agbakọta gburugburu ⟨את⟩ eze, onye ọ bụla nakwa ngwá ya n'aka ya; ma onye ọ bụla na-abata n'ụlọ ⟨the⟩ ahụ ga-anwụ; ha ga-anọkọ ⟨את⟩ eze mgbe ọ na-abata na mgbe ọ na-apụ.",
+  "translation": "Ndị Levi ga-agbara ⟨את⟩ eze gburugburu, nwoke ọ bụla na ngwá agha ya n'aka ya; onye ọ bụla na-abata n'ụlọ ⟨ahụ⟩ ga-anwụ; ma unu ga-anọrọ na ⟨את⟩ eze mgbe ọ na-abata na mgbe ọ na-apụ.",
   "tokens": [
     {
       "surface": "והקיפו",
-      "gloss": "ga-agbakọta gburugburu"
+      "gloss": "ga-agbara gburugburu"
     },
     {
       "surface": "הלוים",
-      "gloss": "Ndị Levai"
+      "gloss": "Ndị Levi"
     },
     {
       "surface": "את",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "onye ọ bụla"
+      "gloss": "nwoke ọ bụla"
     },
     {
       "surface": "וכליו",
-      "gloss": "nakwa ngwá ya"
+      "gloss": "na ngwá agha ya"
     },
     {
       "surface": "בידו",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "והבא",
-      "gloss": "ma onye na-abata"
+      "gloss": "onye na-abata"
     },
     {
       "surface": "אל",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "ụlọ ahụ"
+      "gloss": "ụlọ"
     },
     {
       "surface": "יומת",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "והיו",
-      "gloss": "ha ga-anọkọ"
+      "gloss": "ga-anọrọ"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
+      "gloss": "na ⟨את⟩",
       "marks": "eze"
     },
     {
@@ -75,9 +75,9 @@
     },
     {
       "surface": "ובצאתו",
-      "gloss": "na mgbe ọ na-apụ"
+      "gloss": "mgbe ọ na-apụ"
     }
   ],
-  "timestamp": "2026-08-27T16:15:45.070669517Z",
+  "timestamp": "2026-08-27T17:59:57.422761980Z",
   "model": "glm-5.3"
 }

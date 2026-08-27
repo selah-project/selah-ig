@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 9,
-  "translation": "N'ihi na atụrụ m ụjọ n'ihi ⟨the⟩ iwe na mkpali iwe nke Yahwe ji megide unu ibibi ⟨את⟩ unu; ma Yahwe nụrụ m, ọzọkwa n'oge ahụ.",
+  "translation": "N'ihi na m tịrị egwu n'ihi iwe na ọkụ ọgụgụ nke Yahwe kpasara unu iwe ka ọ bibie ⟨את⟩ unu, ma Yahwe geere m ntị ọzọ n'oge ahụkwa.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יגרתי",
-      "gloss": "atụrụ m ụjọ"
+      "gloss": "m tịrị egwu"
     },
     {
       "surface": "מפני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "והחמה",
-      "gloss": "na mkpali iwe"
+      "gloss": "na ọkụ ọgụgụ"
     },
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "קצף",
-      "gloss": "ji"
+      "gloss": "kpasara iwe"
     },
     {
       "surface": "יהוה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "עליכם",
-      "gloss": "megide unu"
+      "gloss": "buru unu iwe"
     },
     {
       "surface": "להשמיד",
-      "gloss": "ibibi"
+      "gloss": "ka ọ bibie"
     },
     {
       "surface": "אתכם",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "וישמע",
-      "gloss": "ma nụrụ"
+      "gloss": "ma geere ntị"
     },
     {
       "surface": "יהוה",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "ọzọkwa"
+      "gloss": "ọzọ"
     },
     {
       "surface": "בפעם",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "ahụ"
+      "gloss": "ahụkwa"
     }
   ],
-  "timestamp": "2026-08-27T07:57:22.561691118Z",
+  "timestamp": "2026-08-27T17:35:25.334561447Z",
   "model": "glm-5.3"
 }

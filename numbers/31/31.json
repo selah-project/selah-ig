@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 31,
-  "translation": "Moshe mere, ya na Elazar onye nchụàjà ⟨the⟩, dịka Yahwe si nyere Moshe ntị ⟨את⟩.",
+  "translation": "Moshe na Eleazar onye nchụàjà mere ka Yahwe sị nyere ⟨את⟩ Moshe iwu.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ואלעזר",
-      "gloss": "ya na Elazar"
+      "gloss": "na Eleazar"
     },
     {
       "surface": "הכהן",
-      "gloss": "onye nchụàjà ⟨the⟩"
+      "gloss": "onye nchụàjà"
     },
     {
       "surface": "כאשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "si nyere ntị"
+      "gloss": "nyere iwu"
     },
     {
       "surface": "יהוה",
@@ -45,6 +45,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-27T07:43:29.995098409Z",
+  "timestamp": "2026-08-27T17:36:07.972969018Z",
   "model": "glm-5.3"
 }

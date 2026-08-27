@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 7,
-  "translation": "Ma ọnụ ite anọ nke ọla nchara nye ⟨the⟩ ntọala ọ bụla, na okpokoloọma nke ọla nchara; ma akụkụ ọnụ anọ ya nwere ubu nkedo; n'okpuru ite ọsa ahụ ka e nwere ⟨the⟩ ubu ndị ahụ a kụrụ akụ, n'akụkụ nke ọ bụla, ihe nkedo dị ka eriri.",
+  "translation": "Ma ọkwọ mgbaaka anọ nke ọla nchara dị n'isi ihe ⟨ọ bụla⟩, na mkpọmkpọ ọla nchara; ma ụkwụ anọ ya nwere ndị na-ebu ibu; n'okpuru ite ahụ, ndị na-ebu ara ndị a kụrụ n'ụzọ, n'akụkụ nke ọ bụla, ihe mkpuchi.",
   "tokens": [
     {
       "surface": "וארבעה",
@@ -13,27 +13,27 @@
     },
     {
       "surface": "אופני",
-      "gloss": "ọnụ ite ndị"
+      "gloss": "ọkwọ mgbaaka"
     },
     {
       "surface": "נחשת",
-      "gloss": "nke ọla nchara"
+      "gloss": "ọla nchara"
     },
     {
       "surface": "למכונה",
-      "gloss": "maka ntọala"
+      "gloss": "n'isi ihe"
     },
     {
       "surface": "האחת",
-      "gloss": "ọ bụla n'ime ha"
+      "gloss": "⟨ọ bụla⟩"
     },
     {
       "surface": "וסרני",
-      "gloss": "na okpokoloọma ndị"
+      "gloss": "na mkpọmkpọ"
     },
     {
       "surface": "נחשת",
-      "gloss": "nke ọla nchara"
+      "gloss": "ọla nchara"
     },
     {
       "surface": "וארבעה",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "פעמתיו",
-      "gloss": "akụkụ ọnụ ya"
+      "gloss": "ụkwụ ya"
     },
     {
       "surface": "כתפת",
-      "gloss": "ubu"
+      "gloss": "ndị na-ebu ibu"
     },
     {
       "surface": "להם",
-      "gloss": "maka ha"
+      "gloss": "ha"
     },
     {
       "surface": "מתחת",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "לכיר",
-      "gloss": "maka ite ọsa"
+      "gloss": "ite ⟨ahụ⟩"
     },
     {
       "surface": "הכתפת",
-      "gloss": "ubu ndị ahụ"
+      "gloss": "ndị na-ebu ara ⟨ndị⟩"
     },
     {
       "surface": "יצקות",
-      "gloss": "a kụrụ akụ"
+      "gloss": "a kụrụ n'ụzọ"
     },
     {
       "surface": "מעבר",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "ליות",
-      "gloss": "ihe nkedo dị ka eriri"
+      "gloss": "ihe mkpuchi"
     }
   ],
-  "timestamp": "2026-08-27T16:35:49.582199539Z",
+  "timestamp": "2026-08-27T17:42:38.041823648Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 13,
-  "translation": "Yonadav, nwa Shim'a, nwanne David, ziri okwu, sị: Ekwela ka Adonai m kwuo na ha gbuola ⟨את⟩ ndị okorobịa niile, ụmụ ⟨the⟩ eze; n'ihi na Amnon naanị ya ka anwụọla; n'ihi na site n'ọnụ Avshalom ka e kpebiri ya, site n'ụbọchị o mesịrị ⟨את⟩ Tamar nwanne ya nwanyị nọrọ.",
+  "translation": "Jonadab, nwa Shimah, nwanne David, zara ⟨ma kwuo⟩ sị: Ekwela ka Adonai m kwuo na ha gbuo ⟨את⟩ ụmụ okorobịa niile, ụmụ ⟨eze⟩ ahụ; n'ihi na naanị Amnon ka nwụrụ; n'ihi na site n'ọnụ Absalom ka e si hazie ya, site n'ụbọchị o mebisiri ⟨את⟩ Tamar nwanne ya nwanyị.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "ziri okwu"
+      "gloss": "zara"
     },
     {
       "surface": "יונדב",
-      "gloss": "Yonadav"
+      "gloss": "Jonadab"
     },
     {
       "surface": "בן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "שמעה",
-      "gloss": "Shim'a"
+      "gloss": "Shimah"
     },
     {
       "surface": "אחי",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "sị"
+      "gloss": "ma kwuo"
     },
     {
       "surface": "אל",
-      "gloss": "ekwela ka"
+      "gloss": "ekwela"
     },
     {
       "surface": "יאמר",
-      "gloss": "kwuo"
+      "gloss": "ka ọ kwuo"
     },
     {
       "surface": "אדני",
@@ -50,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ndị okorobịa niile"
+      "marks": "ụmụ okorobịa niile"
     },
     {
       "surface": "כל",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הנערים",
-      "gloss": "ndị okorobịa"
+      "gloss": "ụmụ okorobịa"
     },
     {
       "surface": "בני",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "eze"
+      "gloss": "eze ahụ"
     },
     {
       "surface": "המיתו",
-      "gloss": "ha gbuola"
+      "gloss": "ha gbuo"
     },
     {
       "surface": "כי",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "מת",
-      "gloss": "anwụọla"
+      "gloss": "nwụrụ"
     },
     {
       "surface": "כי",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "על",
-      "gloss": "site n'"
+      "gloss": "site na"
     },
     {
       "surface": "פי",
@@ -102,15 +102,15 @@
     },
     {
       "surface": "אבשלום",
-      "gloss": "Avshalom"
+      "gloss": "Absalom"
     },
     {
       "surface": "היתה",
-      "gloss": "ka ọ dị"
+      "gloss": "ọ bụ"
     },
     {
       "surface": "שומה",
-      "gloss": "e kpebiri ya"
+      "gloss": "e haziri"
     },
     {
       "surface": "מיום",
@@ -118,7 +118,7 @@
     },
     {
       "surface": "ענתו",
-      "gloss": "o mesịrị"
+      "gloss": "o mebisiri"
     },
     {
       "surface": "את",
@@ -134,6 +134,6 @@
       "gloss": "nwanne ya nwanyị"
     }
   ],
-  "timestamp": "2026-08-27T09:37:19.754400204Z",
+  "timestamp": "2026-08-27T17:41:25.348972853Z",
   "model": "glm-5.3"
 }

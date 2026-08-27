@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 17,
-  "translation": "Nwoke Yisrel wee kwuo, Ọ dịghị unu ahụla ⟨the⟩ nwoke a na-ebili? n'ihi na ọ bụ ịkparị ⟨את⟩ Yisrel ka o na-ebili. Ọ ga-abụ na ⟨the⟩ onye ọ bụla ga-akụ ya, ⟨the⟩ eze ga-eme ka ọ bara akụ ukwu, ma nye ya nwa ya nwanyị, ma mee ka ⟨את⟩ ụlọ nna ya bụrụ nke nweere onwe ya na Yisrel.",
+  "translation": "Nwoke Yisrael wee kwuo, Ọ dịla anya unu hụrụ nwoke a na-ebili? n'ihi na ọ na-ebili ka ọ kparịrị ⟨את⟩ Yisrael; ⟨ọ ga-adị⟩ na nwoke nke ga-akụ ya, eze ga-enye ya akụ ukwu, nyeferekwa ya nwa ya nwanyị, ma mee ⟨את⟩ ụlọ nna ya ka ọ bụrụ nke n'efu na Yisrael.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wee kwuo"
+      "gloss": "kwuru"
     },
     {
       "surface": "איש",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrel"
+      "gloss": "Yisrael"
     },
     {
       "surface": "הראיתם",
-      "gloss": "unu ahụla"
+      "gloss": "unu hụrụ"
     },
     {
       "surface": "האיש",
-      "gloss": "⟨the⟩ nwoke"
+      "gloss": "nwoke"
     },
     {
       "surface": "העלה",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "לחרף",
-      "gloss": "ịkparị"
+      "gloss": "ka ọ kparịa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisrel"
+      "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrel"
+      "gloss": "Yisrael"
     },
     {
       "surface": "עלה",
@@ -58,27 +58,27 @@
     },
     {
       "surface": "והיה",
-      "gloss": "ọ ga-abụ"
+      "gloss": "⟨ọ ga-adị⟩"
     },
     {
       "surface": "האיש",
-      "gloss": "⟨the⟩ onye"
+      "gloss": "nwoke"
     },
     {
       "surface": "אשר",
-      "gloss": "onye"
+      "gloss": "nke"
     },
     {
       "surface": "יכנו",
-      "gloss": "ga-akụ"
+      "gloss": "ga-akụ ya"
     },
     {
       "surface": "יעשרנו",
-      "gloss": "ga-eme ka ọ bara"
+      "gloss": "ga-eme ya akụ"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ eze"
+      "gloss": "eze"
     },
     {
       "surface": "עשר",
@@ -124,13 +124,13 @@
     },
     {
       "surface": "חפשי",
-      "gloss": "nke nweere onwe ya"
+      "gloss": "n'efu"
     },
     {
       "surface": "בישראל",
-      "gloss": "na Yisrel"
+      "gloss": "na Yisrael"
     }
   ],
-  "timestamp": "2026-08-27T09:16:17.104942554Z",
+  "timestamp": "2026-08-27T17:40:53.988667361Z",
   "model": "glm-5.3"
 }

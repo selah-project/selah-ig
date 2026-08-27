@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 34,
-  "translation": "Maka ụlọọrụ ụmụ Reuven ewerela ⟨the⟩ nketa ha dịka ụlọ ndị nna ha si dị, na ụlọọrụ ụmụ Gad dịka ụlọ ndị nna ha si dị, ewerela ⟨the⟩ nketa ha, na ọkara ụlọọrụ Menashshe ewerela ⟨the⟩ nketa ha.",
+  "translation": "n'ihi na awo nke ụmụ Reuben, ndị a na-akpọ Reubeni, dịka nke ụlọ nna ha, na awo nke ụmụ Gad, ndị a na-akpọ Gadi, dịka nke ụlọ nna ha, ewerela nke ha, ya bụ ọkara nke awo Manase, ewerewo ihe nketa ha.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "maka"
+      "gloss": "n'ihi na"
     },
     {
       "surface": "לקחו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מטה",
-      "gloss": "ụlọọrụ"
+      "gloss": "awo"
     },
     {
       "surface": "בני",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "הראובני",
-      "gloss": "Reuven"
+      "gloss": "Reuben, ndị a na-akpọ Reubeni"
     },
     {
       "surface": "לבית",
-      "gloss": "dịka ụlọ"
+      "gloss": "dịka nke ụlọ"
     },
     {
       "surface": "אבתם",
-      "gloss": "ndị nna ha"
+      "gloss": "nna ha"
     },
     {
       "surface": "ומטה",
-      "gloss": "na ụlọọrụ"
+      "gloss": "na awo nke"
     },
     {
       "surface": "בני",
@@ -45,37 +45,37 @@
     },
     {
       "surface": "הגדי",
-      "gloss": "Gad"
+      "gloss": "Gad, ndị a na-akpọ Gadi"
     },
     {
       "surface": "לבית",
-      "gloss": "dịka ụlọ"
+      "gloss": "dịka nke ụlọ"
     },
     {
       "surface": "אבתם",
-      "gloss": "ndị nna ha"
+      "gloss": "nna ha"
     },
     {
       "surface": "וחצי",
-      "gloss": "na ọkara"
+      "gloss": "ya bụ ọkara nke"
     },
     {
       "surface": "מטה",
-      "gloss": "ụlọọrụ"
+      "gloss": "awo"
     },
     {
       "surface": "מנשה",
-      "gloss": "Menashshe"
+      "gloss": "Manase"
     },
     {
       "surface": "לקחו",
-      "gloss": "ewerela"
+      "gloss": "ewerewo"
     },
     {
       "surface": "נחלתם",
-      "gloss": "⟨the⟩ nketa ha"
+      "gloss": "ihe nketa ha"
     }
   ],
-  "timestamp": "2026-08-27T16:29:16.738343319Z",
+  "timestamp": "2026-08-27T17:35:14.704964470Z",
   "model": "glm-5.3"
 }

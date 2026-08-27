@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Dịka Yahwe nọ na Adonai nke ⟨the⟩ eze, otu a ka ọ dị na Shelomoh, ma ka o bulie ⟨את⟩ oche-eze ya karịa oche-eze Adonai eze Davịd.",
+  "translation": "Dịka Yahwe nọrọ na Adonai eze ahụ, otu a ka ọ nọrọ na Shlomoh, ma mee ka ocheeze ya buru ibu karịa ocheeze Adonai eze ahụ, David.",
   "tokens": [
     {
       "surface": "כאשר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "nọ"
+      "gloss": "nọrọ"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "eze"
+      "gloss": "eze ahụ"
     },
     {
       "surface": "כן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "יהי",
-      "gloss": "ka ọ dị"
+      "gloss": "ọ nọrọ"
     },
     {
       "surface": "עם",
@@ -45,24 +45,24 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoh"
+      "gloss": "Shlomoh"
     },
     {
       "surface": "ויגדל",
-      "gloss": "ka o bulie"
+      "gloss": "ma mee ka ọ buru ibu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oche-eze ya"
+      "marks": "ocheeze ya"
     },
     {
       "surface": "כסאו",
-      "gloss": "oche-eze ya"
+      "gloss": "ocheeze ya"
     },
     {
       "surface": "מכסא",
-      "gloss": "karịa oche-eze"
+      "gloss": "karịa ocheeze"
     },
     {
       "surface": "אדני",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "המלך",
-      "gloss": "eze"
+      "gloss": "eze ahụ"
     },
     {
       "surface": "דוד",
-      "gloss": "Davịd"
+      "gloss": "David"
     }
   ],
-  "timestamp": "2026-08-27T09:50:17.951045472Z",
+  "timestamp": "2026-08-27T17:42:44.396216715Z",
   "model": "glm-5.3"
 }

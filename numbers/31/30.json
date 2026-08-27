@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 31,
-  "translation": "Ma site n'ọkara ụmụ ⟨the⟩ Yisrael ị ga-ewere otu nke a na-ejide n'ime iri ise, site n'aka ụmụ mmadụ, site n'aka ehi, site n'aka ịnyịnya ibu, na site n'aka atụrụ, site n'aka anụmanụ niile, unu ga-enye ⟨את⟩ ha nye ndị Livaị, ndị na-eche nche nche nke ụlọikwuu Yahwe.",
+  "translation": "Ma site n'ọkara nke ụmụ Yisrael, ị ga-ewere otu a dọtara n'ime iri ise, nke mmadụ, nke ehi, nke ìnyịnya ibu, na nke atụrụ, site na anụ ụlọ niile, ma nyere ⟨את⟩ ha ndị Livaị, ndị na-eche nche nke ụlọikwuu Yahwe.",
   "tokens": [
     {
       "surface": "וממחצת",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אחז",
-      "gloss": "nke a na-ejide"
+      "gloss": "a dọtara"
     },
     {
       "surface": "מן",
-      "gloss": "site n'ime"
+      "gloss": "n'ime"
     },
     {
       "surface": "החמשים",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "site n'aka"
+      "gloss": "nke"
     },
     {
       "surface": "האדם",
-      "gloss": "ụmụ mmadụ"
+      "gloss": "mmadụ"
     },
     {
       "surface": "מן",
-      "gloss": "site n'aka"
+      "gloss": "nke"
     },
     {
       "surface": "הבקר",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "site n'aka"
+      "gloss": "nke"
     },
     {
       "surface": "החמרים",
-      "gloss": "ịnyịnya ibu"
+      "gloss": "ìnyịnya ibu"
     },
     {
       "surface": "ומן",
-      "gloss": "na site n'aka"
+      "gloss": "na nke"
     },
     {
       "surface": "הצאן",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "מכל",
-      "gloss": "site n'aka niile"
+      "gloss": "site na"
     },
     {
       "surface": "הבהמה",
-      "gloss": "anụmanụ"
+      "gloss": "anụ ụlọ niile"
     },
     {
       "surface": "ונתתה",
-      "gloss": "unu ga-enye"
+      "gloss": "ma ị ga-enye"
     },
     {
       "surface": "אתם",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "שמרי",
-      "gloss": "ndị na-eche nche"
+      "gloss": "ndị na-eche"
     },
     {
       "surface": "משמרת",
@@ -109,6 +109,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-27T07:43:29.994962202Z",
+  "timestamp": "2026-08-27T17:36:07.972789096Z",
   "model": "glm-5.3"
 }

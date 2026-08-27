@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "2-chronicles 27:1",
-  "book": "2-chronicles",
-  "lang": "ig",
-  "chapter": 27,
-  "translation": "בן nke afọ iri abụọ na ise bụ Yotam n'ịghọta eze, ma ọ chịrị afọ iri na isii na Yerushalayim; aha nne ya bụ Yerusha, nwa nwanyị nke Tsadok.",
-  "tokens": [],
-  "timestamp": "2026-08-27T16:16:03.537564274Z",
-  "model": "glm-5.3"
-}
+{"tier": "glm-5.2", "verse": 1, "ref": "2-chronicles 27:1", "book": "2-chronicles", "lang": "ig", "chapter": 27, "translation": "Nwa afọ iri abụọ na ise bụ Yotam n'ọchịchị ya, ma ọ chịrị afọ iri na isii na Yerushalayim; aha nne ya bụ Yerusha, nwa nwanyị Tsadok.", "tokens": [{"surface": "בן", "gloss": "nwa"}, {"surface": "עשרים", "gloss": "iri abụọ"}, {"surface": "וחמש", "gloss": "na ise"}, {"surface": "שנה", "gloss": "afọ"}, {"surface": "יותם", "gloss": "Yotam"}, {"surface": "במלכו", "gloss": "n'ọchịchị ya"}, {"surface": "ושש", "gloss": "ma isii"}, {"surface": "עשרה", "gloss": "iri"}, {"surface": "שנה", "gloss": "afọ"}, {"surface": "מלך", "gloss": "ọ chịrị"}, {"surface": "בירושלם", "gloss": "na Yerushalayim"}, {"surface": "ושם", "gloss": "ma aha"}, {"surface": "אמו", "gloss": "nne ya"}, {"surface": "ירושה", "gloss": "Yerusha"}, {"surface": "בת", "gloss": "nwa nwanyị"}, {"surface": "צדוק", "gloss": "Tsadok"}], "timestamp": "2026-08-27T18:35:28.489992315Z", "model": "glm-5.3"}

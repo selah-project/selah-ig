@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 14,
-  "translation": "Ma Asa kpọrọ Yahwe, Elohim ya, oku, o kwuru, sị: Yahwe, ọ dịghị ihe siri ike ma ọ bụ ihe enweghị ike n'aka gị i nyere aka; nyere anyị aka, Yahwe Elohim anyị, n'ihi na anyị daberekwuru gị, ma n'aha gị ka anyị bịakwutere ọgbụgbọ a. Yahwe, Elohim anyị, ị bụ; mgbochie ka mmadụ ghara imeri gị.",
+  "translation": "Asa kpọrọ Yahwe, Elohim ya, o wee sị: Yahwe, ọ dịghị ihe dị n'aka gị ime nnyere aka, ma n'etiti ndị jupụtara na ndị enweghị ike; nyere anyị aka, Yahwe Elohim anyị, maka anyị dabere na gị, ma n'aha gị ka anyị bịara megide ìgwè mmadụ a. Yahwe, gi bụ Elohim anyị; ka mmadụ anwụ anwụ ghara imeri gị.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "Ma Asa kpọrọ"
+      "gloss": "o kpọrọ"
     },
     {
       "surface": "אסא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "olu"
+      "gloss": "ruo"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "o kwuru"
+      "gloss": "o wee sị"
     },
     {
       "surface": "יהוה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לעזור",
-      "gloss": "i nyere aka"
+      "gloss": "ime nnyere aka"
     },
     {
       "surface": "בין",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "רב",
-      "gloss": "ihe siri ike"
+      "gloss": "ndị jupụtara"
     },
     {
       "surface": "לאין",
-      "gloss": "ma ọ bụ ihe enweghị"
+      "gloss": "na ndị enweghị"
     },
     {
       "surface": "כח",
@@ -77,15 +77,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "n'ihi na"
+      "gloss": "maka"
     },
     {
       "surface": "עליך",
-      "gloss": "gị"
+      "gloss": "na gị"
     },
     {
       "surface": "נשענו",
-      "gloss": "anyị daberekwuru"
+      "gloss": "anyị dabere"
     },
     {
       "surface": "ובשמך",
@@ -93,11 +93,15 @@
     },
     {
       "surface": "באנו",
-      "gloss": "ka anyị bịakwutere"
+      "gloss": "anyị bịara"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
     },
     {
       "surface": "ההמון",
-      "gloss": "ọgbụgbọ"
+      "gloss": "ìgwè mmadụ"
     },
     {
       "surface": "הזה",
@@ -113,15 +117,15 @@
     },
     {
       "surface": "אתה",
-      "gloss": "ị bụ"
+      "gloss": "gi bụ"
     },
     {
       "surface": "אל",
-      "gloss": "mgbochie ka"
+      "gloss": "ka ọ ghara"
     },
     {
       "surface": "יעצר",
-      "gloss": "ghara imeri"
+      "gloss": "imebi"
     },
     {
       "surface": "עמך",
@@ -129,9 +133,9 @@
     },
     {
       "surface": "אנוש",
-      "gloss": "mmadụ"
+      "gloss": "mmadụ anwụ anwụ"
     }
   ],
-  "timestamp": "2026-08-27T16:12:48.903092720Z",
+  "timestamp": "2026-08-27T17:59:47.474917437Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Ma anaghị atụgharị azụ, n'ihi na ⟨ga⟩-achụso ⟨the⟩ ihe efu, nke na-abaghị uru ma na-enweghị ike izọpụta, n'ihi na ihe efu ka ha bụ.",
+  "translation": "Ma anaghị apụ n'ụzọ, n'ihi na ị ga-eso ⟨את⟩ ihe efu efu, ndị na-enweghị uru ma na-enweghịkwa ike izọpụta, n'ihi na ihe efu efu ka ha bụ.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תסורו",
-      "gloss": "atụgharị azụ"
+      "gloss": "apụ n'ụzọ"
     },
     {
       "surface": "כי",
@@ -21,27 +21,28 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "achụso"
+      "gloss": "eso"
     },
     {
       "surface": "התהו",
-      "gloss": "ihe efu"
+      "gloss": "ihe efu efu",
+      "note": "h-article d\/8414"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "ndị"
     },
     {
       "surface": "לא",
-      "gloss": "anaghị"
+      "gloss": "enweghị"
     },
     {
       "surface": "יועילו",
-      "gloss": "abaghị uru"
+      "gloss": "ura"
     },
     {
       "surface": "ולא",
-      "gloss": "ma na-enweghị"
+      "gloss": "ma na-enweghịkwa"
     },
     {
       "surface": "יצילו",
@@ -53,13 +54,13 @@
     },
     {
       "surface": "תהו",
-      "gloss": "ihe efu"
+      "gloss": "ihe efu efu"
     },
     {
       "surface": "המה",
       "gloss": "ha bụ"
     }
   ],
-  "timestamp": "2026-08-27T09:07:24.439868904Z",
+  "timestamp": "2026-08-27T17:38:42.566440727Z",
   "model": "glm-5.3"
 }

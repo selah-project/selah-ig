@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 32,
-  "translation": "Siri ike ma nwee obi ike; atụla egwu, ma adaala obi n'ihu eze Ashur na n'ihu ọnụ ọgụgụ mmadụ niile nọ ya, n'ihi na Onye nọ ⟨with⟩ anyị karịa onye nọ ya.",
+  "translation": "Ka anyị nwee ike, ka anyị nwee obi ike; atụla egwu, ma na-atụghịkwa ụjọ n'ihi eze Ashur, na n'ihi ìgwè mmadụ niile nọ ya; n'ihi na Onye nọ anyị karịa onye nọ ya.",
   "tokens": [
     {
       "surface": "חזקו",
-      "gloss": "siri ike"
+      "gloss": "Ka anyị nwee ike"
     },
     {
       "surface": "ואמצו",
-      "gloss": "ma nwee obi ike"
+      "gloss": "ka anyị nwee obi ike"
     },
     {
       "surface": "אל",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ma adaala obi"
+      "gloss": "ma na-atụghịkwa"
     },
     {
       "surface": "תחתו",
-      "gloss": ""
+      "gloss": "ụjọ"
     },
     {
       "surface": "מפני",
-      "gloss": "n'ihu"
+      "gloss": "n'ihi"
     },
     {
       "surface": "מלך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ומלפני",
-      "gloss": "na n'ihu"
+      "gloss": "na n'ihi"
     },
     {
       "surface": "כל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ההמון",
-      "gloss": "ọnụ ọgụgụ mmadụ"
+      "gloss": "ìgwè mmadụ"
     },
     {
       "surface": "אשר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "עמנו",
-      "gloss": "nọ ⟨with⟩ anyị"
+      "gloss": "Onye nọ anyị"
     },
     {
       "surface": "רב",
@@ -80,6 +80,6 @@
       "gloss": "onye nọ ya"
     }
   ],
-  "timestamp": "2026-08-27T16:19:10.867859338Z",
+  "timestamp": "2026-08-27T18:01:41.164293032Z",
   "model": "glm-5.3"
 }

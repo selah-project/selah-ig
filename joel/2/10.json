@@ -5,23 +5,23 @@
   "book": "joel",
   "lang": "ig",
   "chapter": 2,
-  "translation": "N'ihu ha ⟨the⟩ ala na-ama jijiji, ⟨the⟩ eluigwe na-agbaji; anvụ anyanwụ na ọnwa gbara ọchịchịrị, kpakpando wepụụrụ ìhè ha.",
+  "translation": "N'ihu ya ⟨⟨ okwu ahụ ⟩⟩ ụwa na-atụ ụjọ, eluigwe na-ama jijiji; anyanwụ na ọnwa gbaara ọchịchịrị, kpakpando wepụrụ ìhè ha.",
   "tokens": [
     {
       "surface": "לפניו",
-      "gloss": "n'ihu ha"
+      "gloss": "n'ihu ya"
     },
     {
       "surface": "רגזה",
-      "gloss": "na-ama jijiji"
+      "gloss": "na-atụ ụjọ"
     },
     {
       "surface": "ארץ",
-      "gloss": "ala"
+      "gloss": "ụwa"
     },
     {
       "surface": "רעשו",
-      "gloss": "na-agbaji"
+      "gloss": "na-ama jijiji"
     },
     {
       "surface": "שמים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שמש",
-      "gloss": "anwụ anyanwụ"
+      "gloss": "anyanwụ"
     },
     {
       "surface": "וירח",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "קדרו",
-      "gloss": "gbara ọchịchịrị"
+      "gloss": "gbaara ọchịchịrị"
     },
     {
       "surface": "וכוכבים",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "אספו",
-      "gloss": "wepụụrụ"
+      "gloss": "wepụrụ"
     },
     {
       "surface": "נגהם",
       "gloss": "ìhè ha"
     }
   ],
-  "timestamp": "2026-08-27T12:44:46.408516608Z",
+  "timestamp": "2026-08-27T17:52:16.112548740Z",
   "model": "glm-5.3"
 }

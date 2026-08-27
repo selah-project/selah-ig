@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 40,
-  "translation": "N'ihi na ihe ọjọọ enweghị ọnụọgụ gbara m gburugbu; ajọjọ m ruoro m, nke na enweghị m ike ịhụ; ha karịrị karịa ntutu isi m, obi m hapụkwara m.",
+  "translation": "N'ihi na ihe ọjọọ enweghị ọnụ ọgụgụ eduziwo m gburugbu; mmehie m ejidewo m, ruo na enweghị m ike ịhụ; ha mikpuoro ntutu isi m, ma obi m ahapụla m.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אפפו",
-      "gloss": "gbara gburugbu"
+      "gloss": "eduziwo gburugbu"
     },
     {
       "surface": "עלי",
@@ -33,27 +33,23 @@
     },
     {
       "surface": "מספר",
-      "gloss": "ọnụọgụ"
+      "gloss": "ọnụ ọgụgụ"
     },
     {
       "surface": "השיגוני",
-      "gloss": "ruoro m"
+      "gloss": "ejidewo m"
     },
     {
       "surface": "עונתי",
-      "gloss": "ajọjọ m"
+      "gloss": "mmehie m"
     },
     {
-      "surface": "ו",
-      "gloss": "nke na"
-    },
-    {
-      "surface": "לא",
-      "gloss": "enweghị"
+      "surface": "ולא",
+      "gloss": "ma enweghị"
     },
     {
       "surface": "יכלתי",
-      "gloss": "ike"
+      "gloss": "m ike"
     },
     {
       "surface": "לראות",
@@ -61,11 +57,11 @@
     },
     {
       "surface": "עצמו",
-      "gloss": "ha karịrị"
+      "gloss": "mikpuoro"
     },
     {
       "surface": "משערות",
-      "gloss": "karịa ntutu"
+      "gloss": "ntutu"
     },
     {
       "surface": "ראשי",
@@ -77,9 +73,9 @@
     },
     {
       "surface": "עזבני",
-      "gloss": "hapụkwara m"
+      "gloss": "ahapụla m"
     }
   ],
-  "timestamp": "2026-08-27T13:29:14.575871236Z",
+  "timestamp": "2026-08-27T17:53:46.247770867Z",
   "model": "glm-5.3"
 }

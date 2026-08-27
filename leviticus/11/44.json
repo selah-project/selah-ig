@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 11,
-  "translation": "N'ihi na m bụ Yahwe, Elohim unu; mee ka onwe unu dị nsọ, unu ga-abụkwa ndị dị nsọ, n'ihi na m dị nsọ; unu gaghị eme ka ⟨את⟩ mkpụrụ obi unu ghara ịdị nsọ site na ihe ọ bụla na-agba ọsọ nke na-aga n'elu ⟨the⟩ ụwa.",
+  "translation": "N'ihi na m bụ Yahwe, Elohim gị, jikwa onwe gị dị nsọ, ka ọ bụrụ na ọ dị gị nsọ, n'ihi na m di nsọ; emerula ka ⟨את⟩ mmụọ-ndụ gị ghara ịdị ọcha site n'ihe ọ bụla na-agba ọsọ n'ala.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "N'ihi na"
+      "gloss": "n'ihi na"
     },
     {
       "surface": "אני",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim unu"
+      "gloss": "Elohim gị"
     },
     {
       "surface": "והתקדשתם",
-      "gloss": "mee ka onwe unu dị nsọ"
+      "gloss": "jikwa onwe gị dị nsọ"
     },
     {
       "surface": "והייתם",
-      "gloss": "unu ga-abụkwa"
+      "gloss": "ka ọ bụrụ na ọ dị gị"
     },
     {
       "surface": "קדשים",
-      "gloss": "ndị dị nsọ"
+      "gloss": "nsọ"
     },
     {
       "surface": "כי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "קדוש",
-      "gloss": "dị nsọ"
+      "gloss": "di nsọ"
     },
     {
       "surface": "אני",
@@ -49,24 +49,24 @@
     },
     {
       "surface": "ולא",
-      "gloss": "unu gaghị"
+      "gloss": "emerula"
     },
     {
       "surface": "תטמאו",
-      "gloss": "eme ka ... ghara ịdị nsọ"
+      "gloss": "ka ... ghara ịdị ọcha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mkpụrụ obi unu"
+      "marks": "mmụọ-ndụ gị"
     },
     {
       "surface": "נפשתיכם",
-      "gloss": "mkpụrụ obi unu"
+      "gloss": "mmụọ-ndụ gị"
     },
     {
       "surface": "בכל",
-      "gloss": "site na ihe ọ bụla"
+      "gloss": "site n'ihe ọ bụla"
     },
     {
       "surface": "השרץ",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "הרמש",
-      "gloss": "na-aga"
+      "gloss": "na-aga n'ihu"
     },
     {
       "surface": "על",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ụwa"
+      "gloss": "ala"
     }
   ],
-  "timestamp": "2026-08-27T06:49:49.923054567Z",
+  "timestamp": "2026-08-27T17:32:16.811078055Z",
   "model": "glm-5.3"
 }

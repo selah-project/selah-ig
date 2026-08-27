@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 11,
-  "translation": "Ala nke Yahwe Elohim gị na-achọ ⟨את⟩ ya mgbe niile; anya Yahwe Elohim gị nọkwa n'elu ya, site na mmalite ⟨the⟩ afọ ruo na njedebe afọ.",
+  "translation": "Ala nke Yahwe, Elohim gị, na-achọ ⟨את⟩ ya mgbe niile; anya Yahwe, Elohim gị, dị na ya, site na mmalite afọ ruo ná ngwụcha afọ.",
   "tokens": [
     {
       "surface": "ארץ",
@@ -30,7 +30,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ya mgbe niile"
+      "marks": "ya"
     },
     {
       "surface": "תמיד",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "n'elu ya"
+      "gloss": "na ya"
     },
     {
       "surface": "מרשית",
@@ -62,17 +62,17 @@
     },
     {
       "surface": "ועד",
-      "gloss": "ruo na"
+      "gloss": "ruo"
     },
     {
       "surface": "אחרית",
-      "gloss": "njedebe"
+      "gloss": "ngwụcha"
     },
     {
       "surface": "שנה",
       "gloss": "afọ"
     }
   ],
-  "timestamp": "2026-08-27T07:57:49.679128465Z",
+  "timestamp": "2026-08-27T17:36:25.309093932Z",
   "model": "glm-5.3"
 }

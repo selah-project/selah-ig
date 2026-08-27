@@ -5,8 +5,74 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 24,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-27T10:31:09.780255793Z",
+  "translation": "N'ihi iwe Yahwe ka ọ bịara mee n'Yerushalayim na na Yehuda, ruo mgbe ọ tụfuru ha n'ihu ya; ma Tsidkiyahu jikwara mmegide megide eze Bavel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "n'Yerushalayim"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "na na Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ruo mgbe"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "ọ tụfuru"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "site na"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ihu ya"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "ma ọ jikwara mmegide"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "megide eze"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-27T18:01:16.064682320Z",
   "model": "glm-5.3"
 }

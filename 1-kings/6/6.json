@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 6,
-  "translation": "⟨The⟩ ụlọ-mgbakwunye ⟨the⟩ nke dị n'okpuru nwere obosara nke ise cubit, ⟨the⟩ nke dị n'etiti nwere obosara nke isii cubit, ⟨the⟩ nke atọ nwere obosara nke asaa cubit; n'ihi na o nyere ⟨the⟩ ụlọ ahụ ebe-mgbapụ gburugburu na mpụga, ka ọ ghara ijide n'ime mgbidi ⟨the⟩ ụlọ ahụ.",
+  "translation": "Ọnụ ụlụ ala ahụ, o nwere obosara ama ise; nke dị n'etiti, obosara ama isii; nke nke atọ, obosara ama asaa — n'ihi na o nyere ⟨את⟩ụlọ ahụ nkwaru ndị gbasasịrị gburugburu na mpụga, ka ihe ndị a na-ejide ghara ijide na mgbidi nke ⟨את⟩ụlọ ahụ.",
   "tokens": [
     {
       "surface": "היצוע",
-      "gloss": "ụlọ-mgbakwunye ahụ"
+      "gloss": "ọnụ ụlụ ndị dị n'akụkụ"
     },
     {
       "surface": "התחתנה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "באמה",
-      "gloss": "cubit"
+      "gloss": "ama"
     },
     {
       "surface": "רחבה",
-      "gloss": "obosara"
+      "gloss": "obosara ya"
     },
     {
       "surface": "והתיכנה",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "באמה",
-      "gloss": "cubit"
+      "gloss": "ama"
     },
     {
       "surface": "רחבה",
-      "gloss": "obosara"
+      "gloss": "obosara ya"
     },
     {
       "surface": "והשלישית",
-      "gloss": "nke atọ"
+      "gloss": "nke nke atọ"
     },
     {
       "surface": "שבע",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "באמה",
-      "gloss": "cubit"
+      "gloss": "ama"
     },
     {
       "surface": "רחבה",
-      "gloss": "obosara"
+      "gloss": "obosara ya"
     },
     {
       "surface": "כי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "מגרעות",
-      "gloss": "ebe-mgbapụ"
+      "gloss": "nkwaru ndị gbasasịrị"
     },
     {
       "surface": "נתן",
@@ -93,13 +93,13 @@
     },
     {
       "surface": "בקירות",
-      "gloss": "n'ime mgbidi"
+      "gloss": "na mgbidi"
     },
     {
       "surface": "הבית",
       "gloss": "ụlọ ahụ"
     }
   ],
-  "timestamp": "2026-08-27T09:54:52.118519772Z",
+  "timestamp": "2026-08-27T17:43:18.646272684Z",
   "model": "glm-5.3"
 }

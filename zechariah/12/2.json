@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Lee, m na-edobe ⟨את⟩ Yerushalayim dịka iko nke ịma mmụọ maka ⟨the⟩ ndị mmadụ niile gbara ya gburugburu; ọbụnadị banyere Yehuda ọ ga-adị na nchụpụ megide Yerushalayim.",
+  "translation": "Lee, m na-eme ka Yerushalayim bụrụ ⟨את⟩ iko nke ịṅụbiga mmanya ókè maka ndị niile nke gbara ya gburugburu; ọ bụkwa na Yehudah ga-adị ná nkedo megide Yerushalayim.",
   "tokens": [
     {
       "surface": "הנה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "na-edobe"
+      "gloss": "na-eme ka … bụrụ"
     },
     {
       "surface": "את",
@@ -34,39 +34,39 @@
     },
     {
       "surface": "רעל",
-      "gloss": "ịma mmụọ"
+      "gloss": "nke ịṅụbiga mmanya ókè"
     },
     {
       "surface": "לכל",
-      "gloss": "maka niile"
+      "gloss": "maka ndị niile"
     },
     {
       "surface": "העמים",
-      "gloss": "ndị mmadụ"
+      "gloss": "nke"
     },
     {
       "surface": "סביב",
-      "gloss": "gba ya gburugburu"
+      "gloss": "gbara ya gburugburu"
     },
     {
       "surface": "וגם",
-      "gloss": "ọbụnadị"
+      "gloss": "ọ bụkwa na"
     },
     {
       "surface": "על",
-      "gloss": "banyere"
+      "gloss": "na"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yehudah"
     },
     {
       "surface": "יהיה",
-      "gloss": "ọ ga-adị"
+      "gloss": "ga-adị"
     },
     {
       "surface": "במצור",
-      "gloss": "na nchụpụ"
+      "gloss": "ná nkedo"
     },
     {
       "surface": "על",
@@ -77,6 +77,6 @@
       "gloss": "Yerushalayim"
     }
   ],
-  "timestamp": "2026-08-27T13:08:03.692429027Z",
+  "timestamp": "2026-08-27T17:53:05.117341705Z",
   "model": "glm-5.3"
 }

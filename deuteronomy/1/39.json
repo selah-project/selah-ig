@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Mana ụmụaka gị, bụ ndị unu kwuru na ha ga-abụ ihe a na-emilite, na ụmụ gị ndị amaghị taa ọma na njọ — ha ga-abata ebe ahụ, ha m ka m ga-enye ha ⟨היא⟩, ha ga-eketa ya.",
+  "translation": "Ọzọkwa, ụmụntakịrị unu, ndị unu kwuru na ⟨ha⟩ ga-abụ ihe mkpofu, na ụmụ unu, ndị na-amaghị taa ọma na ijo — ha ga-abanye n'ebe ahụ, ma m ga-enye ha ya, ha ga-echikwa ya.",
   "tokens": [
     {
       "surface": "וטפכם",
-      "gloss": "ụmụaka gị"
+      "gloss": "na ụmụntakịrị unu"
     },
     {
       "surface": "אשר",
-      "gloss": "bụ ndị"
+      "gloss": "ndị"
     },
     {
       "surface": "אמרתם",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "לבז",
-      "gloss": "ihe a na-emilite"
+      "gloss": "ihe mkpofu"
     },
     {
       "surface": "יהיה",
-      "gloss": "ga-abụ"
+      "gloss": "ga-adị"
     },
     {
       "surface": "ובניכם",
-      "gloss": "ụmụ gị"
+      "gloss": "na ụmụ unu"
     },
     {
       "surface": "אשר",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "amaghị"
+      "gloss": "na-"
     },
     {
       "surface": "ידעו",
-      "gloss": "ha ma"
+      "gloss": "maara"
     },
     {
       "surface": "היום",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ורע",
-      "gloss": "na njọ"
+      "gloss": "na ijo"
     },
     {
       "surface": "המה",
@@ -61,19 +61,19 @@
     },
     {
       "surface": "יבאו",
-      "gloss": "ga-abata"
+      "gloss": "ga-abanye"
     },
     {
       "surface": "שמה",
-      "gloss": "ebe ahụ"
+      "gloss": "n'ebe ahụ"
     },
     {
       "surface": "ולהם",
-      "gloss": "ha m"
+      "gloss": "ma ha"
     },
     {
       "surface": "אתננה",
-      "gloss": "m ga-enye ha"
+      "gloss": "ga-enye ha"
     },
     {
       "surface": "והם",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "יירשוה",
-      "gloss": "ga-eketa ya"
+      "gloss": "ga-echikwa ya"
     }
   ],
-  "timestamp": "2026-08-27T07:48:42.223486432Z",
+  "timestamp": "2026-08-27T17:35:16.761850216Z",
   "model": "glm-5.3"
 }

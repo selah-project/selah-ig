@@ -5,11 +5,11 @@
   "book": "micah",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Nụọ, ugwu ndị ahụ, ⟨את⟩ okwu-ịka nke Yahwe, na nkume ike ndị ahụ, ntọala ⟨nke⟩ ụwa; n'ihi na okwu-ịka dị maka Yahwe na ⟨ו⟩ otu nke ya, ya na Yisrael ⟨ọ⟩ ga-agbagha.",
+  "translation": "Nụụla, ugwu ndị ahụ, ⟨את⟩ okwu-eseokwu Yahwe, na ihe ndị siri ike — ntọala ụwa; n'ihi na Yahwe nwere okwu-eseokwu ya na ndị ya, na Yisrael ọ ga-ekpebi ikpe.",
   "tokens": [
     {
       "surface": "שמעו",
-      "gloss": "Nụọ"
+      "gloss": "Nụụla"
     },
     {
       "surface": "הרים",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "okwu-ịka nke Yahwe"
+      "marks": "okwu-eseokwu Yahwe"
     },
     {
       "surface": "ריב",
-      "gloss": "okwu-ịka"
+      "gloss": "okwu-eseokwu"
     },
     {
       "surface": "יהוה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "והאתנים",
-      "gloss": "na nkume ike ndị ahụ"
+      "gloss": "na ihe ndị siri ike"
     },
     {
       "surface": "מסדי",
@@ -46,23 +46,23 @@
     },
     {
       "surface": "ריב",
-      "gloss": "okwu-ịka"
+      "gloss": "okwu-eseokwu"
     },
     {
       "surface": "ליהוה",
-      "gloss": "maka Yahwe"
+      "gloss": "Yahwe nwere"
     },
     {
       "surface": "עם",
-      "gloss": "na"
+      "gloss": "ya na"
     },
     {
       "surface": "עמו",
-      "gloss": "otu nke ya"
+      "gloss": "ndị ya"
     },
     {
       "surface": "ועם",
-      "gloss": "ya na"
+      "gloss": "na"
     },
     {
       "surface": "ישראל",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "יתוכח",
-      "gloss": "ga-agbagha"
+      "gloss": "ọ ga-ekpebi ikpe"
     }
   ],
-  "timestamp": "2026-08-27T12:57:29.125718295Z",
+  "timestamp": "2026-08-27T17:51:50.400328388Z",
   "model": "glm-5.3"
 }

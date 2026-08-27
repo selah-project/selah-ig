@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 7,
-  "translation": "N'ihi na ụmụ Yehuda emeela ihe ọjọ n'anya m, nkwuwa Yahwe; ha tinyere ihe jọrọ njọ ha n'⟨the⟩ ụlọ nke a kpọrọ aha m n'elu ya, iji mebie ya.",
+  "translation": "N'ihi na ụmụ Yehudah emeela ihe ọjọọ n'anya m, okwu Yahwe sị; ha etinyela ihe jọrọ njọ ha n'ụlọ a na-akpọ aha m n'elu ya, iji tinye ya unyọ.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "N'ihi na"
+      "gloss": "n'ihi na"
     },
     {
       "surface": "עשו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yehudah"
     },
     {
       "surface": "הרע",
-      "gloss": "ihe ọjọ"
+      "gloss": "ihe ọjọọ"
     },
     {
       "surface": "בעיני",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "נאום",
-      "gloss": "nkwuwa"
+      "gloss": "okwu"
     },
     {
       "surface": "יהוה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "שמו",
-      "gloss": "ha tinyere"
+      "gloss": "ha etinyela"
     },
     {
       "surface": "שקוציהם",
@@ -49,15 +49,16 @@
     },
     {
       "surface": "בבית",
-      "gloss": "n'ụlọ"
+      "gloss": "n'ụlɔ"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "a na-akpọ",
+      "marks": "ụlọ a na-akpọ aha m n'elu ya"
     },
     {
       "surface": "נקרא",
-      "gloss": "a kpọrọ"
+      "gloss": "a na-akpọ"
     },
     {
       "surface": "שמי",
@@ -69,9 +70,9 @@
     },
     {
       "surface": "לטמאו",
-      "gloss": "iji mebie ya"
+      "gloss": "iji tinye ya unyọ"
     }
   ],
-  "timestamp": "2026-08-27T11:21:24.547429024Z",
+  "timestamp": "2026-08-27T18:16:27.988662546Z",
   "model": "glm-5.3"
 }

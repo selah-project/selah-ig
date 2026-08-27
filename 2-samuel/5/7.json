@@ -5,24 +5,24 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 5,
-  "translation": "Davịd we jide ⟨את⟩ ebe mgbawa nke Tsiyon; ọ ⟨is⟩ obodo nke Davịd.",
+  "translation": "Ma David weghaara ⟨את⟩ ebe siri ike nke Tsiyon; ọ bụ ⟨ọ⟩ nkebu obodo David.",
   "tokens": [
     {
       "surface": "וילכד",
-      "gloss": "we jide"
+      "gloss": "weghaara"
     },
     {
       "surface": "דוד",
-      "gloss": "Davịd"
+      "gloss": "David"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ebe mgbawa nke Tsiyon"
+      "marks": "ebe siri ike nke Tsiyon"
     },
     {
       "surface": "מצדת",
-      "gloss": "ebe mgbawa"
+      "gloss": "ebe siri ike"
     },
     {
       "surface": "ציון",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "ọ"
+      "gloss": "ọ bụ"
     },
     {
       "surface": "עיר",
@@ -38,9 +38,9 @@
     },
     {
       "surface": "דוד",
-      "gloss": "nke Davịd"
+      "gloss": "David"
     }
   ],
-  "timestamp": "2026-08-27T09:32:49.729167418Z",
+  "timestamp": "2026-08-27T17:39:38.276867206Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 10,
-  "translation": "Yahwe ⟨is⟩ Elohim nke eziokwu; Ọ ⟨is⟩ Elohim nke ndụ, na Eze nke ruo mgbe ebighị ebi. N'iwe Ya, ụwa na-ama jijiji, mba ndị enweghị ike ịnọ n'okpuru iwe Ya.",
+  "translation": "Ma Yahwe ⟨⟩ Elohim nke eziokwu ⟨hu⟩, Elohim nke ndụ, na Eze nke ruo mgbe ebighị ebi; site na iwe ya, ụwa na-atụgharị, mba ndị anaghị enwe ike iguzo iwe ya.",
   "tokens": [
     {
       "surface": "ויהוה",
-      "gloss": "Yahwe"
+      "gloss": "Ma Yahwe"
     },
     {
       "surface": "אלהים",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אמת",
-      "gloss": "eziokwu"
+      "gloss": "nke eziokwu"
     },
     {
       "surface": "הוא",
-      "gloss": "Ọ"
+      "gloss": "⟨ọ bụ⟩"
     },
     {
       "surface": "אלהים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "חיים",
-      "gloss": "ndụ"
+      "gloss": "nke ndụ"
     },
     {
       "surface": "ומלך",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "מקצפו",
-      "gloss": "n'iwe Ya"
+      "gloss": "site na iwe ya"
     },
     {
       "surface": "תרעש",
-      "gloss": "na-ama jijiji"
+      "gloss": "na-atụgharị"
     },
     {
       "surface": "הארץ",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "anaghị"
+      "gloss": "ma anaghị"
     },
     {
       "surface": "יכלו",
-      "gloss": "nwere ike"
+      "gloss": "enwe ike"
     },
     {
       "surface": "גוים",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "זעמו",
-      "gloss": "iwe Ya"
+      "gloss": "iguzo iwe ya"
     }
   ],
-  "timestamp": "2026-08-27T11:20:41.009427606Z",
+  "timestamp": "2026-08-27T17:46:52.623045354Z",
   "model": "glm-5.3"
 }

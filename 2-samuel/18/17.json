@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 18,
-  "translation": "Ha were ⟨את⟩ Avshalom, ha tụfuru ya n'ime ọhịa n'olulu nnukwu, ha chịkọrọ n'elu ya mkpọkọta nkume, nnukwu nke ukwuu, ma ndị Izrelụ niile gbagara, onye ọ bụla n'ụlọikwuu ya.",
+  "translation": "Ha were ⟨את⟩ Avshalom, tụfuo ya n'ọhịa n'olulu ukwu ahụ, wee wuo n'elu ya ugwù nkume, ukwu nke ukwu; mmadụ niile nke Yisraěl gbagara, onye ọ bụla n'akụmgbe ya.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "ha were"
+      "gloss": "Ha were"
     },
     {
       "surface": "את",
@@ -22,20 +22,20 @@
     },
     {
       "surface": "וישליכו",
-      "gloss": "ha tụfuru"
+      "gloss": "tụfuo"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ ya",
-      "marks": "⟨את⟩ n'olu nnukwu"
+      "marks": "n'ọhịa"
     },
     {
       "surface": "ביער",
-      "gloss": "n'ime ọhịa"
+      "gloss": "n'ọhịa"
     },
     {
       "surface": "אל",
-      "gloss": "ru"
+      "gloss": "na"
     },
     {
       "surface": "הפחת",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "nnukwu"
+      "gloss": "ukwu ahụ"
     },
     {
       "surface": "ויצבו",
-      "gloss": "ha chịkọrọ"
+      "gloss": "wee wuo"
     },
     {
       "surface": "עליו",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "גל",
-      "gloss": "mkpọkọta"
+      "gloss": "ugwù nkume"
     },
     {
       "surface": "אבנים",
@@ -63,23 +63,19 @@
     },
     {
       "surface": "גדול",
-      "gloss": "nnukwu"
+      "gloss": "ukwu"
     },
     {
       "surface": "מאד",
-      "gloss": "nke ukwuu"
-    },
-    {
-      "surface": "ויצבו",
-      "gloss": ""
+      "gloss": "nke ukwu"
     },
     {
       "surface": "וכל",
-      "gloss": "ma ndị niile"
+      "gloss": "mmadụ niile nke"
     },
     {
       "surface": "ישראל",
-      "gloss": "Izrelụ"
+      "gloss": "Yisraěl"
     },
     {
       "surface": "נסו",
@@ -91,9 +87,9 @@
     },
     {
       "surface": "לאהלו",
-      "gloss": "n'ụlọikwuu ya"
+      "gloss": "n'akụmgbe ya"
     }
   ],
-  "timestamp": "2026-08-27T16:35:30.264785412Z",
+  "timestamp": "2026-08-27T17:41:04.700075796Z",
   "model": "glm-5.3"
 }

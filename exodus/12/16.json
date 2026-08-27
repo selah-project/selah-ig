@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Na n'ụbọchị ⟨the⟩ mbụ, mkpọkọ nsọ, na n'ụbọchị ⟨the⟩ nke asaa, mkpọkọ nsọ ga-adịrị gịnụ; ọrụ niile agaghị eme n'ime ha, naanị nke a ga-eri maka mmadụ niile — naanị ya ka a ga-eme gịnụ.",
+  "translation": "N'ụbọchị mbụ, mkpọkọ nsọ, nakwa n'ụbọchị nke asaa, mkpọkọ nsọ, ⟨ọ ga-adị⟩ maka unu; ọrụ ọ bụla agaghị eme n'ime ha, naanị ihe a ga-eri maka mmadụ ọ bụla (nefesh) — naanị ya ka a ga-eme maka unu.",
   "tokens": [
     {
       "surface": "וביום",
-      "gloss": "na n'ụbọchị"
+      "gloss": "ma n'ụbọchị"
     },
     {
       "surface": "הראשון",
-      "gloss": "mbụ"
+      "gloss": "nke mbụ"
     },
     {
       "surface": "מקרא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וביום",
-      "gloss": "na n'ụbọchị"
+      "gloss": "nakwa n'ụbọchị"
     },
     {
       "surface": "השביעי",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "ga-adị"
+      "gloss": "ọ ga-adị"
     },
     {
       "surface": "לכם",
-      "gloss": "gịnụ"
+      "gloss": "maka unu"
     },
     {
       "surface": "כל",
-      "gloss": "niile"
+      "gloss": "ọrụ ọ bụla"
     },
     {
       "surface": "מלאכה",
-      "gloss": "ọrụ"
+      "gloss": "(ọrụ)"
     },
     {
       "surface": "לא",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "ihe"
     },
     {
       "surface": "יאכל",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "לכל",
-      "gloss": "maka niile"
+      "gloss": "maka mmadụ ọ bụla"
     },
     {
       "surface": "נפש",
-      "gloss": "mmadụ"
+      "gloss": "(nefesh)"
     },
     {
       "surface": "הוא",
@@ -101,9 +101,9 @@
     },
     {
       "surface": "לכם",
-      "gloss": "gịnụ"
+      "gloss": "maka unu"
     }
   ],
-  "timestamp": "2026-08-27T17:10:54.597623945Z",
+  "timestamp": "2026-08-27T17:29:57.582316558Z",
   "model": "glm-5.3"
 }

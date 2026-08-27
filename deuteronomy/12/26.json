@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Naanị ihe nsọ gị, ndị ga-abụ nke gị, na ndekwa gị, ka ị ga-eburu, ị gakwaa n'⟨the⟩ ebe Yahwe ga-ahọrọ.",
+  "translation": "Naanị ihe nsọ gị ndị ⟨nke⟩ ga-adị maka gị na ndị ṅụrụ gị ṅụ̄, ga-eweta gaa n'ebe Yahwe ga-ahọrọ.",
   "tokens": [
     {
       "surface": "רק",
@@ -17,31 +17,31 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ndị"
+      "gloss": "⟨nke⟩"
     },
     {
       "surface": "יהיו",
-      "gloss": "ga-abụ"
+      "gloss": "ga-adị"
     },
     {
       "surface": "לך",
-      "gloss": "nke gị"
+      "gloss": "maka gị"
     },
     {
       "surface": "ונדריך",
-      "gloss": "na ndekwa gị"
+      "gloss": "na ndị ṅụrụ gị ṅụ̄"
     },
     {
       "surface": "תשא",
-      "gloss": "ka ị ga-eburu"
+      "gloss": "ga-eweta"
     },
     {
       "surface": "ובאת",
-      "gloss": "ị gakwaa"
+      "gloss": "gaa"
     },
     {
       "surface": "אל",
-      "gloss": "n'"
+      "gloss": "na"
     },
     {
       "surface": "המקום",
@@ -60,6 +60,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-27T08:02:44.274133200Z",
+  "timestamp": "2026-08-27T17:36:24.504283486Z",
   "model": "glm-5.3"
 }

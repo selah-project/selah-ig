@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 24,
-  "translation": "Ndị ikom nke David wee gwara ya: Lee ⟨the⟩ ụbọchị nke Yahwe kwuru gị, na-ekwu, Lee, m na-enyere gị ⟨את⟩ ndị iro gị n'aka gị, ị ga-emekwa ya ihe dịka ọ dị mma n'anya gị. David wee bilie, ma bepụ ⟨את⟩ akụkụ uwe nke Shaul n'ekpe.",
+  "translation": "Ma ndị ikom nke Dawid gwara ya: Lee ụbọchị nke Yahwe gwara gị, na-ekwu, Lee, m na-enye ⟨את⟩ ndị iro gị n'aka gị, ị wee mee ya ihe dịka ọ dị mma n'anya gị. Mgbe ahụ Dawid biliri, wee bepụ ⟨את⟩ ntu uwe elu nke Sha'ul n'zuzo.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "gwara"
+      "gloss": "ma ha gwara"
     },
     {
       "surface": "אנשי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Dawid"
     },
     {
       "surface": "אליו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "kwuru"
+      "gloss": "gwara"
     },
     {
       "surface": "יהוה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "na-enyere"
+      "gloss": "na-enye"
     },
     {
       "surface": "את",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "ị ga-emekwa"
+      "gloss": "ị wee mee"
     },
     {
       "surface": "לו",
@@ -94,28 +94,28 @@
     },
     {
       "surface": "ויקם",
-      "gloss": "wee bilie"
+      "gloss": "Mgbe ahụ ọ biliri"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Dawid"
     },
     {
       "surface": "ויכרת",
-      "gloss": "ma bepụ"
+      "gloss": "wee bepụ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "akụkụ uwe"
+      "marks": "ntu uwe elu"
     },
     {
       "surface": "כנף",
-      "gloss": "akụkụ uwe"
+      "gloss": "ntu"
     },
     {
       "surface": "המעיל",
-      "gloss": "uwe ukwu"
+      "gloss": "uwe elu"
     },
     {
       "surface": "אשר",
@@ -123,13 +123,13 @@
     },
     {
       "surface": "לשאול",
-      "gloss": "Shaul"
+      "gloss": "nke Sha'ul"
     },
     {
       "surface": "בלט",
-      "gloss": "n'ekpe"
+      "gloss": "n'zuzo"
     }
   ],
-  "timestamp": "2026-08-27T09:19:17.923798302Z",
+  "timestamp": "2026-08-27T17:40:06.173223096Z",
   "model": "glm-5.3"
 }

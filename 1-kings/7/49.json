@@ -5,16 +5,16 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 7,
-  "translation": "Na ⟨את⟩ ndị ọkụ-ndọn, ise n'akụkụ aka nri, na ise n'akụkụ aka ekpe, n'ihu ⟨the⟩ debir, ọlaedo dị ọcha; na ⟨the⟩ okooko osisi, na ⟨the⟩ ampụ, na ⟨the⟩ mkpa-ibe, ọlaedo.",
+  "translation": "na ⟨את⟩ Menaor ndị ahụ, ise n'akụkụ nri na ise n'akụkụ ekpe, n'ihu ọnụ ụlọ nsọ kachauo, ọlaedo dị ọcha; na okooko osisi ndị ahụ, na oriọmā ndị ahụ, na mkpọmkpọ-ọmụmụ ndị ahụ — ọlaedo.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ndị ọkụ-ndọn"
+      "marks": "Menaor ndị ahụ"
     },
     {
       "surface": "המנרות",
-      "gloss": "ndị ọkụ-ndọn"
+      "gloss": "Menaor ndị ahụ"
     },
     {
       "surface": "חמש",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "מימין",
-      "gloss": "aka nri"
+      "gloss": "n'akụkụ nri"
     },
     {
       "surface": "וחמש",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "משמאול",
-      "gloss": "aka ekpe"
+      "gloss": "n'akụkụ ekpe"
     },
     {
       "surface": "לפני",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הדביר",
-      "gloss": "debir"
+      "gloss": "ọnụ ụlọ nsọ kachauo"
     },
     {
       "surface": "זהב",
@@ -50,21 +50,21 @@
     },
     {
       "surface": "והפרח",
-      "gloss": "okooko osisi"
+      "gloss": "na okooko osisi ndị ahụ"
     },
     {
       "surface": "והנרת",
-      "gloss": "ampụ"
+      "gloss": "na oriọmā ndị ahụ"
     },
     {
       "surface": "והמלקחים",
-      "gloss": "mkpa-ibe"
+      "gloss": "na mkpọmkpọ-ọmụmụ ndị ahụ"
     },
     {
       "surface": "זהב",
       "gloss": "ọlaedo"
     }
   ],
-  "timestamp": "2026-08-27T09:53:31.914997264Z",
+  "timestamp": "2026-08-27T17:43:12.165299054Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 119,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-27T14:01:04.954786598Z",
+  "translation": "N'ụzọ ndị akaebe gị ka m ṅụrụ ụtọ, dịka n'ihe onwunwe niile.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "n'ụzọ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ndị akaebe gị"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "m ṅụrụ ụtọ"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "dịka n'ihe onwunwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ihe onwunwe"
+    }
+  ],
+  "timestamp": "2026-08-27T17:54:00.399049112Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 8,
-  "translation": "Ma mmadụ ga-anọ n'ezie Elohim n'elu ⟨the⟩ ụwa? Le, eluigwe na eluigwe nke eluigwe enweghị ike idowe gị; ka ọkara mma ka ụlọ a nke m wuru!",
+  "translation": "Ma ọ dị n'ezie na Elohim ga-anọdụ n'ụwa? Le, eluigwe na eluigwe nke eluigwe enweghị ike ịnọgidesi gị ike; ka ọkàkọ̀ ụlọ a nke m wuru!",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "האמנם",
-      "gloss": "n'ezie"
+      "gloss": "ọ dị n'ezie"
     },
     {
       "surface": "ישב",
-      "gloss": "ga-anọ"
+      "gloss": "ga-anọdụ"
     },
     {
       "surface": "אלהים",
@@ -41,27 +41,27 @@
     },
     {
       "surface": "ושמי",
-      "gloss": "na eluigwe"
+      "gloss": "na eluigwe nke"
     },
     {
       "surface": "השמים",
-      "gloss": "nke eluigwe"
+      "gloss": "eluigwe"
     },
     {
       "surface": "לא",
-      "gloss": "enweghị"
+      "gloss": "enweghị ike"
     },
     {
       "surface": "יכלכלוך",
-      "gloss": "ike idowe gị"
+      "gloss": "ịnọgidesi gị ike"
     },
     {
       "surface": "אף",
-      "gloss": "ka ọkara mma ka"
+      "gloss": "ka ọkàkọ̀"
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": ""
     },
     {
       "surface": "הבית",
@@ -80,6 +80,6 @@
       "gloss": "m wuru"
     }
   ],
-  "timestamp": "2026-08-27T09:57:19.220988880Z",
+  "timestamp": "2026-08-27T17:42:45.564857239Z",
   "model": "glm-5.3"
 }

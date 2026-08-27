@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 13,
-  "translation": "Hụnu ⟨את⟩ ⟨the⟩ ala — gịnị ka ọ bụ; na ⟨את⟩ ⟨the⟩ ndị bi na ya — siri ike ka ha ⟨is⟩, ma ọ bụ ha dịghị ike? ole ka ha ⟨is⟩ — obere, ma ọ bụ ọtụtụ?",
+  "translation": "Hụnu ⟨את⟩ ala ahụ — ihe ọ bụ; na ⟨את⟩ ndị bi na ya: ọ dị siri ike ma ọ dị nro? ọ bụ ole ma ọ bụ ọtụtụ?",
   "tokens": [
     {
       "surface": "וראיתם",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ala"
+      "marks": "ala ahụ"
     },
     {
       "surface": "הארץ",
@@ -22,16 +22,16 @@
     },
     {
       "surface": "מה",
-      "gloss": "gịnị"
+      "gloss": "ihe"
     },
     {
       "surface": "הוא",
-      "gloss": "ka ọ bụ"
+      "gloss": "ọ bụ"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "ndị"
+      "gloss": "⟨את⟩",
+      "marks": "ndị bi na ya"
     },
     {
       "surface": "העם",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "הישב",
-      "gloss": "ndị bi"
+      "gloss": "bi"
     },
     {
       "surface": "עליה",
@@ -51,19 +51,19 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ka ha"
+      "gloss": "ọ dị"
     },
     {
       "surface": "הרפה",
-      "gloss": "ha dịghị ike"
+      "gloss": "dị nro"
     },
     {
       "surface": "המעט",
-      "gloss": "obere"
+      "gloss": "ọ bụ ole"
     },
     {
       "surface": "הוא",
-      "gloss": "ka ha"
+      "gloss": "ọ dị"
     },
     {
       "surface": "אם",
@@ -74,6 +74,6 @@
       "gloss": "ọtụtụ"
     }
   ],
-  "timestamp": "2026-08-27T07:25:34.185509419Z",
+  "timestamp": "2026-08-27T17:34:52.672855356Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 16,
-  "translation": "Yahwe wee si Moshe, \"Gwa Aharon, nwanne gị, ka ọ ghara ịbanye n'oge ọ bụla n'ebe ⟨the⟩ dị nsọ, n'ime ụlọ n'azụ ákwà mpịahịa, n'ihu mkpuchi ahụ nke dị n'elu Igbe ahụ, ka ọ ghara ịnwụ; n'ihi na n'ime igwe ojii ka a ga-ahụ m n'elu mkpuchi ahụ.",
+  "translation": "Yahwe gwara Moshe: \"Gwa Aharon, nwanne gị, ka ọ bughị n'oge ọ bụla ⟨ọ⟩ baa n'ime ebe nsso, n'ime ụlọ nzuzo ahụ, n'ihu mkpuchi-ebe-ekpere ⟨nke⟩ dị n'elu Igbe Ahụ, ka ọ ghara ịnwụ; n'ihi na m ga-apụta n'igwe ojii n'elu mkpuchi-ebe-ekpere ahụ.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "si"
+      "gloss": "gwara"
     },
     {
       "surface": "יהוה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ka ọ ghara"
+      "gloss": "ka ọ bughị"
     },
     {
       "surface": "יבא",
-      "gloss": "ịbanye"
+      "gloss": "ọ baa"
     },
     {
       "surface": "בכל",
@@ -57,19 +57,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "n'"
+      "gloss": "banye"
     },
     {
       "surface": "הקדש",
-      "gloss": "ebe dị nsọ"
+      "gloss": "ebe nsso"
     },
     {
       "surface": "מבית",
-      "gloss": "n'ime ụlọ"
+      "gloss": "n'ime ụlọ nzuzo"
     },
     {
       "surface": "לפרכת",
-      "gloss": "ákwà mpịahịa"
+      "gloss": "mkpuchi-ebe-ekpere"
     },
     {
       "surface": "אל",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "הכפרת",
-      "gloss": "mkpuchi"
+      "gloss": "mkpuchi-ebe-ekpere"
     },
     {
       "surface": "אשר",
@@ -89,11 +89,11 @@
     },
     {
       "surface": "על",
-      "gloss": "n'elu"
+      "gloss": "dị n'elu"
     },
     {
       "surface": "הארן",
-      "gloss": "Igbe"
+      "gloss": "Igbe Ahụ"
     },
     {
       "surface": "ולא",
@@ -109,11 +109,11 @@
     },
     {
       "surface": "בענן",
-      "gloss": "n'ime igwe ojii"
+      "gloss": "n'igwe ojii"
     },
     {
       "surface": "אראה",
-      "gloss": "a ga-ahụ m"
+      "gloss": "m ga-apụta"
     },
     {
       "surface": "על",
@@ -121,9 +121,9 @@
     },
     {
       "surface": "הכפרת",
-      "gloss": "mkpuchi"
+      "gloss": "mkpuchi-ebe-ekpere ahụ"
     }
   ],
-  "timestamp": "2026-08-27T06:57:29.914353557Z",
+  "timestamp": "2026-08-27T18:27:22.616285542Z",
   "model": "glm-5.3"
 }

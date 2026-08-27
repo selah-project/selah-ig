@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 9,
-  "translation": "Maka ajọ omume agbaala ọkụ dịka ọkụ; ⟨את⟩ mkpọ na ⟨את⟩ ụka ka ọ na-eri, ọ gbagoro ọkụkwa n'ime obìgbò nke ọhịa, ha na-ebulikwa elu dịka oke mpako nke anwụrụ ọkụ.",
+  "translation": "N'ihi na ajọ omume gbara ọkụ dịka ọkụ, ọ na-eri shamír ⟨ụka⟩ na shayit ⟨mkpọmkọ ọkụ⟩, ọ gbasikwara n'ọhịa oyi nke ọhịa, mmiri ọkụ na-esi bulie elu dịka nnukwu uzuzu siri elu.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "maka"
+      "gloss": "n'ihi na"
     },
     {
       "surface": "בערה",
-      "gloss": "agbaala ọkụ"
+      "gloss": "gbabra ọkụ"
     },
     {
       "surface": "כאש",
@@ -24,48 +24,42 @@
       "gloss": "ajọ omume"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "mkpọ"
-    },
-    {
       "surface": "שמיר",
-      "gloss": "mkpọ"
+      "gloss": "shamír ⟨ụka⟩"
     },
     {
       "surface": "ושית",
-      "gloss": "na ⟨את⟩ ụka",
-      "marks": "ụka"
+      "gloss": "na shayit ⟨mkpọmkọ ọkụ⟩"
     },
     {
       "surface": "תאכל",
-      "gloss": "ka ọ na-eri"
+      "gloss": "ọ na-eri"
     },
     {
       "surface": "ותצת",
-      "gloss": "ọ gbagoro ọkụkwa"
+      "gloss": "ọ gbasikwara"
     },
     {
       "surface": "בסבכי",
-      "gloss": "n'ime obìgbò nke"
+      "gloss": "n'ọhịa oyi"
     },
     {
       "surface": "היער",
-      "gloss": "ọhịa"
+      "gloss": "nke ọhịa"
     },
     {
       "surface": "ויתאבכו",
-      "gloss": "ha na-ebulikwa elu"
+      "gloss": "na-esi bulie elu"
     },
     {
       "surface": "גאות",
-      "gloss": "oke mpako"
+      "gloss": "nnukwu elu"
     },
     {
       "surface": "עשן",
-      "gloss": "nke anwụrụ ọkụ"
+      "gloss": "uzuzu\/ọkụ na-esi"
     }
   ],
-  "timestamp": "2026-08-27T16:38:59.425865030Z",
+  "timestamp": "2026-08-27T17:44:34.337171669Z",
   "model": "glm-5.3"
 }

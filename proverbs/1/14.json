@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Tụọ gọọlụ gị n'etiti anyị; akpa ⟨is⟩ otu ga-adị maka anyị niile",
+  "translation": "Gọọọ gọrọla gị n'etiti anyị; akpa ego otu ga-adị maka anyị niile.",
   "tokens": [
     {
       "surface": "גורלך",
-      "gloss": "gọọlụ gị"
+      "gloss": "gọrọla gị"
     },
     {
       "surface": "תפיל",
-      "gloss": "tụọ"
+      "gloss": "gọọọ"
     },
     {
       "surface": "בתוכנו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כיס",
-      "gloss": "akpa"
+      "gloss": "akpa ego"
     },
     {
       "surface": "אחד",
@@ -36,6 +36,6 @@
       "gloss": "maka anyị niile"
     }
   ],
-  "timestamp": "2026-08-27T14:11:32.880036546Z",
+  "timestamp": "2026-08-27T17:54:39.891305939Z",
   "model": "glm-5.3"
 }

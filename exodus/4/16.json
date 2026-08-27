@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 4,
-  "translation": "Ya na ọ ga-agwa gị okwu nye ⟨the⟩ ndị ahụ; ọ ga-adịkwa, ọ bụ ya ga-abụ ọnụ gị, gịkwa ga-abụ ya Elohim.",
+  "translation": "Ya ga-ekwu okwu gị nye ndị mmadụ; o ga-adị — ya onwe ya ga-adị gị dịka ọnụ, gịkwa ga-adị ya dịka Elohim.",
   "tokens": [
     {
       "surface": "ודבר",
-      "gloss": "ọ ga-agwa"
+      "gloss": "ọ ga-ekwu"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨ọ⟩"
+      "gloss": "ya"
     },
     {
       "surface": "לך",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "n'ebe"
+      "gloss": "nye"
     },
     {
       "surface": "העם",
-      "gloss": "ndị ahụ"
+      "gloss": "ndị mmadụ"
     },
     {
       "surface": "והיה",
-      "gloss": "ọ ga-adịkwa"
+      "gloss": "o ga-adị"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨ọ⟩"
+      "gloss": "ya"
     },
     {
       "surface": "יהיה",
-      "gloss": "ga-abụ"
+      "gloss": "ga-adị"
     },
     {
       "surface": "לך",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "ma gịkwa"
+      "gloss": "gịkwa"
     },
     {
       "surface": "תהיה",
-      "gloss": "ga-abụ"
+      "gloss": "ga-adị"
     },
     {
       "surface": "לו",
@@ -64,6 +64,6 @@
       "gloss": "dịka Elohim"
     }
   ],
-  "timestamp": "2026-08-27T06:08:41.878294900Z",
+  "timestamp": "2026-08-27T17:30:34.772437875Z",
   "model": "glm-5.3"
 }

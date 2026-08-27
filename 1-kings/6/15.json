@@ -5,16 +5,16 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Ọ wee rụọ ⟨את⟩ mgbidi ⟨the⟩ ụlọ ahụ n'ime ya site na mpịsị osisi cedar, site n'ala ⟨the⟩ ụlọ ahụ ruo mgbidi ⟨the⟩ elu ụlọ; ọ kpuchiri ya osisi n'ime, wee kpuchie ⟨את⟩ ala ⟨the⟩ ụlọ ahụ site na mpịsị osisi berosh.",
+  "translation": "O wee rụọ ⟨את⟩ mgbidi nke ụlọ ahụ n'ime, na mbọkọ osisi cedar, site n'ala nke ụlọ ahụ ruo na mgbidi nke uko ụlọ; ọ kpuchiri osisi n'ime, ma kpuchie ⟨את⟩ ala nke ụlọ ahụ na mbọkọ osisi beresh.",
   "tokens": [
     {
       "surface": "ויבן",
-      "gloss": "Ọ wee rụọ"
+      "gloss": "rụọ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mgbidi ụlọ ahụ"
+      "marks": "mgbidi nke ụlọ ahụ"
     },
     {
       "surface": "קירות",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "הבית",
-      "gloss": "ụlọ ahụ"
+      "gloss": "nke ụlọ ahụ"
     },
     {
       "surface": "מביתה",
-      "gloss": "n'ime ya"
+      "gloss": "n'ime"
     },
     {
       "surface": "בצלעות",
-      "gloss": "site na mpịsị"
+      "gloss": "na mbọkọ"
     },
     {
       "surface": "ארזים",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "ụlọ ahụ"
+      "gloss": "nke ụlọ ahụ"
     },
     {
       "surface": "עד",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "הספן",
-      "gloss": "elu ụlọ"
+      "gloss": "nke uko ụlọ"
     },
     {
       "surface": "צפה",
-      "gloss": "ọ kpuchiri"
+      "gloss": "kpuchiri"
     },
     {
       "surface": "עץ",
@@ -70,12 +70,12 @@
     },
     {
       "surface": "ויצף",
-      "gloss": "wee kpuchie"
+      "gloss": "ma kpuchie"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ala ụlọ ahụ"
+      "marks": "ala nke ụlọ ahụ"
     },
     {
       "surface": "קרקע",
@@ -83,17 +83,17 @@
     },
     {
       "surface": "הבית",
-      "gloss": "ụlọ ahụ"
+      "gloss": "nke ụlọ ahụ"
     },
     {
       "surface": "בצלעות",
-      "gloss": "site na mpịsị"
+      "gloss": "na mbọkọ"
     },
     {
       "surface": "ברושים",
-      "gloss": "osisi berosh"
+      "gloss": "osisi beresh"
     }
   ],
-  "timestamp": "2026-08-27T09:54:26.001272192Z",
+  "timestamp": "2026-08-27T17:43:04.934507701Z",
   "model": "glm-5.3"
 }

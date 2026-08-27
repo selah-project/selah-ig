@@ -5,15 +5,15 @@
   "book": "esther",
   "lang": "ig",
   "chapter": 7,
-  "translation": "⟨The⟩ eze wee bilie n'iwe ya site na oriri mmanya-aba gaa ⟨the⟩ ogige ⟨the⟩ ụlọ-ọcha, ma Haman nọgidere na-achọ ndu ya site n'aka Ester ⟨the⟩ eze-nwanyị, n'ihi na ọ hụrụ na ihe ọjọọ ezubere ya site n'aka ⟨את⟩ ⟨the⟩ eze.",
+  "translation": "Eze bilite n'iwe ya site n'oriri mmanya, gaa n'ogige obí; ma Haman guzoro ịrịọ maka ndụ ya site na Ester eze-nwanyị, n'ihi na ọ hụrụ na ekpebiela megide ya ọjọọ ahụ site n'⟨את⟩ eze.",
   "tokens": [
     {
       "surface": "והמלך",
-      "gloss": "⟨The⟩ eze"
+      "gloss": "eze"
     },
     {
       "surface": "קם",
-      "gloss": "bilie"
+      "gloss": "bilite"
     },
     {
       "surface": "בחמתו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ממשתה",
-      "gloss": "site na oriri"
+      "gloss": "site n'oriri"
     },
     {
       "surface": "היין",
-      "gloss": "⟨the⟩ mmanya-aba"
+      "gloss": "mmanya"
     },
     {
       "surface": "אל",
@@ -33,39 +33,39 @@
     },
     {
       "surface": "גנת",
-      "gloss": "⟨the⟩ ogige"
+      "gloss": "ogige"
     },
     {
       "surface": "הביתן",
-      "gloss": "⟨the⟩ ụlọ-ọcha"
+      "gloss": "obí"
     },
     {
       "surface": "והמן",
-      "gloss": "ma Haman"
+      "gloss": "Haman"
     },
     {
       "surface": "עמד",
-      "gloss": "nọgidere"
+      "gloss": "guzoro"
     },
     {
       "surface": "לבקש",
-      "gloss": "na-achọ"
+      "gloss": "ịrịọ"
     },
     {
       "surface": "על",
-      "gloss": "banyere"
+      "gloss": "maka"
     },
     {
       "surface": "נפשו",
-      "gloss": "ndu ya"
+      "gloss": "ndụ ya"
     },
     {
       "surface": "מאסתר",
-      "gloss": "site n'aka Ester"
+      "gloss": "site na Ester"
     },
     {
       "surface": "המלכה",
-      "gloss": "⟨the⟩ eze-nwanyị"
+      "gloss": "eze-nwanyị"
     },
     {
       "surface": "כי",
@@ -81,25 +81,26 @@
     },
     {
       "surface": "כלתה",
-      "gloss": "ezubere"
+      "gloss": "ekpebiela"
     },
     {
       "surface": "אליו",
-      "gloss": "ya"
+      "gloss": "megide ya"
     },
     {
       "surface": "הרעה",
-      "gloss": "ihe ọjọọ"
+      "gloss": "ọjọọ ahụ"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩"
+      "gloss": "site n'⟨את⟩",
+      "marks": "eze"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ eze"
+      "gloss": "eze"
     }
   ],
-  "timestamp": "2026-08-27T15:23:50.379752553Z",
+  "timestamp": "2026-08-27T17:57:46.596479685Z",
   "model": "glm-5.3"
 }

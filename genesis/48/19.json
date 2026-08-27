@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 48,
-  "translation": "Nna ya jụrụ, wee sị, Am ⟨ihe⟩ m, nwa m, am m; ọkwa ga-abụ ⟨the⟩ ọha, ọkwa ga-abụ ukwu; ma nwanne ya nke nta ga-abụ ukwu karịa ya, ma mkpụrụ ya ga-abụ ihe jupụtara mba ndị.",
+  "translation": "Nna ya jụrụ, ma sị: Am ma m, nwa m, am ma m; ọ ga-abụkwa ọha; ọ ga-etolikwa; mana nwanne ya nke nta ga-eto karịa ya, ma mkpụrụ ya ga-abụ ijupụta nke mba ndị.",
   "tokens": [
     {
       "surface": "וימאן",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "wee sị"
+      "gloss": "ma sị"
     },
     {
       "surface": "ידעתי",
-      "gloss": "Am"
+      "gloss": "Am ma m"
     },
     {
       "surface": "בני",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "Am"
+      "gloss": "am ma m"
     },
     {
       "surface": "גם",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "ọzọkwa"
+      "gloss": "ma kwa"
     },
     {
       "surface": "הוא",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "יגדל",
-      "gloss": "ga-abụ ukwu"
+      "gloss": "ga-eto"
     },
     {
       "surface": "ואולם",
-      "gloss": "ma"
+      "gloss": "mana"
     },
     {
       "surface": "אחיו",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "יגדל",
-      "gloss": "ga-abụ ukwu"
+      "gloss": "ga-eto"
     },
     {
       "surface": "ממנו",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "מלא",
-      "gloss": "ihe jupụtara"
+      "gloss": "ijupụta"
     },
     {
       "surface": "הגוים",
       "gloss": "mba ndị"
     }
   ],
-  "timestamp": "2026-08-27T06:04:48.872300430Z",
+  "timestamp": "2026-08-27T17:29:43.351210470Z",
   "model": "glm-5.3"
 }

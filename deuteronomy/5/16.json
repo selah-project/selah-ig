@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 5,
-  "translation": "Soo nna gị na ⟨את⟩ nne gị ⟨וְאת⟩ dịka Yahwe Elohim gị nyere gị iwu; ka ụbọchị gị wee dị ogologo, ma ka ọ dị mma maka gị n'ala bụ́ nke Yahwe Elohim gị na-enye gị.",
+  "translation": "Sọpụrụ ⟨את⟩ nna gị na ⟨את⟩ nne gị, dịka Yahwe, Elohim gị, nyere gị iwu, ka ụbọchị gị wee dịrị ogologo, ka ọ dịkwa gị mma n'ala nke Yahwe, Elohim gị, na-enyere gị.",
   "tokens": [
     {
       "surface": "כבד",
-      "gloss": "Soo"
+      "gloss": "Sọpụrụ"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "na ⟨את⟩",
       "marks": "nne gị"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "surface": "יאריכן",
-      "gloss": "… wee dị ogologo"
+      "gloss": "ụbọchị gị wee dịrị ogologo"
     },
     {
       "surface": "ימיך",
@@ -59,15 +59,15 @@
     },
     {
       "surface": "ולמען",
-      "gloss": "ma ka"
+      "gloss": "ka ọ dịkwa"
     },
     {
       "surface": "ייטב",
-      "gloss": "ọ dị mma"
+      "gloss": "dị gị mma"
     },
     {
       "surface": "לך",
-      "gloss": "maka gị"
+      "gloss": "gị"
     },
     {
       "surface": "על",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "bụ́ nke"
+      "gloss": "nke"
     },
     {
       "surface": "יהוה",
@@ -91,13 +91,13 @@
     },
     {
       "surface": "נתן",
-      "gloss": "na-enye"
+      "gloss": "na-enyere"
     },
     {
       "surface": "לך",
       "gloss": "gị"
     }
   ],
-  "timestamp": "2026-08-27T07:54:06.008706916Z",
+  "timestamp": "2026-08-27T17:35:26.803673956Z",
   "model": "glm-5.3"
 }

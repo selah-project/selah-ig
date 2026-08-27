@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 11,
-  "translation": "na ⟨את⟩ Tsorah, na ⟨את⟩ Ayalon, na ⟨את⟩ Chevron, ndị ⟨אשר⟩ nọ na Yehuda na na Binjamin, obodo ndị e wusiri ike",
+  "translation": "ya ⟨את⟩ Tsorah, ya ⟨את⟩ Ayalon, ya ⟨את⟩ Chevron, ndị dị na Yehuda na na Binyamin, obodo e wusiri ike.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "ya ⟨את⟩",
       "marks": "Tsorah"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "ya ⟨את⟩",
       "marks": "Ayalon"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "ya ⟨את⟩",
       "marks": "Chevron"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ndị ⟨אשר⟩"
+      "gloss": "ndị dị"
     },
     {
       "surface": "ביהודה",
@@ -44,7 +44,7 @@
     },
     {
       "surface": "ובבנימן",
-      "gloss": "na na Binjamin"
+      "gloss": "na na Binyamin"
     },
     {
       "surface": "ערי",
@@ -52,9 +52,9 @@
     },
     {
       "surface": "מצרות",
-      "gloss": "ndị e wusiri ike"
+      "gloss": "e wusiri ike"
     }
   ],
-  "timestamp": "2026-08-27T16:09:42.105639409Z",
+  "timestamp": "2026-08-27T17:59:51.423514179Z",
   "model": "glm-5.3"
 }

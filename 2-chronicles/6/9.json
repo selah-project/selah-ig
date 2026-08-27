@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Naanị gị, ị ga-ewughị ⟨the⟩ ụlọ ahụ; n'ihi na nwa gị — onye na-apụ site n'afọ gị — ya ga-ewu ⟨the⟩ ụlọ ahụ maka aha m.",
+  "translation": "Naanị na gị agaghị ewu ⟨את⟩ ụlọ ahụ; n'ihi na nwa gị, onye na-apụta site n'afọ gị, bụ ya ga-ewu ⟨את⟩ ụlọ ahụ maka aha m.",
   "tokens": [
     {
       "surface": "רק",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ọ bụghị"
+      "gloss": "agaghị"
     },
     {
       "surface": "תבנה",
-      "gloss": "ga-ewughị"
+      "gloss": "ewu"
     },
     {
       "surface": "הבית",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "היוצא",
-      "gloss": "onye na-apụ"
+      "gloss": "onye na-apụta"
     },
     {
       "surface": "מחלציך",
-      "gloss": "afọ gị"
+      "gloss": "site n'afọ gị"
     },
     {
       "surface": "הוא",
-      "gloss": "ya"
+      "gloss": "bụ ya"
     },
     {
       "surface": "יבנה",
@@ -60,6 +60,6 @@
       "gloss": "maka aha m"
     }
   ],
-  "timestamp": "2026-08-27T16:08:32.713329524Z",
+  "timestamp": "2026-08-27T17:59:41.161829499Z",
   "model": "glm-5.3"
 }

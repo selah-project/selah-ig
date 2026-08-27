@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 147,
-  "translation": "Na-enye anụmanụ ⟨the⟩ nri ya, na-enye ụmụ raven ndị na-akpọ oku.",
+  "translation": "Onye na-enye anụmanụ ⟨את⟩ nri ya, nye ụmọ raven ndị na-eti mkpu.",
   "tokens": [
     {
       "surface": "נותן",
-      "gloss": "na-enye"
+      "gloss": "onye na-enye"
     },
     {
       "surface": "לבהמה",
-      "gloss": "maka anụmanụ"
+      "gloss": "anụmanụ"
     },
     {
       "surface": "לחמה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לבני",
-      "gloss": "maka ụmụ"
+      "gloss": "ụmọ"
     },
     {
       "surface": "ערב",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "יקראו",
-      "gloss": "na-akpọ oku"
+      "gloss": "na-eti mkpu"
     }
   ],
-  "timestamp": "2026-08-27T14:10:20.403844398Z",
+  "timestamp": "2026-08-27T17:54:54.101445535Z",
   "model": "glm-5.3"
 }

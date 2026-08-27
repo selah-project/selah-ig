@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 7,
-  "translation": "Ma ugbu a, Adonai Yahwe, gị n'onwe gị bu ⟨ה⟩ Elohim ahụ, ma okwu gị ga-abụ eziokwu, ma Ị gwara ohu gị ⟨את⟩ ọma a.",
+  "translation": "Ya ugbu a, Adonai Yahwe, ⟨gị⟩ bụ ⟨gị⟩ Elohim, okwu gị ga-abụ eziokwu, ma ị gwara ohu gị ⟨את⟩ ọma a.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "ma ugbu a"
+      "gloss": "ya ugbu a"
     },
     {
       "surface": "אדני",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "n'onwe gị"
+      "gloss": "⟨gị⟩ bụ"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim ahụ"
+      "gloss": "Elohim"
     },
     {
       "surface": "ודבריך",
-      "gloss": "ma okwu gị"
+      "gloss": "okwu gị"
     },
     {
       "surface": "יהיו",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ותדבר",
-      "gloss": "ma Ị gwara"
+      "gloss": "ma ị gwara"
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "na-"
     },
     {
       "surface": "עבדך",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "הטובה",
-      "gloss": "ọma a"
+      "gloss": "ọma"
     },
     {
       "surface": "הזאת",
       "gloss": "a"
     }
   ],
-  "timestamp": "2026-08-27T09:33:07.129066655Z",
+  "timestamp": "2026-08-27T18:28:01.829125194Z",
   "model": "glm-5.3"
 }

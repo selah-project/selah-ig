@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 28,
-  "translation": "Eluigwe gị nke dị n'isi gị ga-abụ ⟨is⟩ ọla kọpa, na ala nke dị n'okpuru gị ga-abụ ⟨is⟩ ígwè.",
+  "translation": "Eluigwe gi nke dị n'isi gị ga-abụ ⟨ọ̀là-kọpa⟩, na ⟨ala⟩ gi nke dị n'okpuru gị ga-abụ ígwè.",
   "tokens": [
     {
       "surface": "והיו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שמיך",
-      "gloss": "eluigwe gị"
+      "gloss": "eluigwe gi"
     },
     {
       "surface": "אשר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "נחשת",
-      "gloss": "ọla kọpa"
+      "gloss": "ọ̀là-kọpa"
     },
     {
       "surface": "והארץ",
-      "gloss": "na ala"
+      "gloss": "na ala gi"
     },
     {
       "surface": "אשר",
@@ -48,6 +48,6 @@
       "gloss": "ígwè"
     }
   ],
-  "timestamp": "2026-08-27T08:13:51.913665655Z",
+  "timestamp": "2026-08-27T17:36:15.560802885Z",
   "model": "glm-5.3"
 }

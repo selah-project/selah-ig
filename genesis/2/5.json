@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 2,
-  "translation": "Na osisi ọ bụla nke <n>ọhịa<\/n> ahụ, <n>mgbe ọ na-adịbeghị<\/n> n'ụwa, na ahịhịa ọ bụla nke <n>ọhịa<\/n> ahụ, <n>mgbe ọ na-amịbeghị<\/n> mkpụrụ — n'ihi na Yahwe Elohim enyeghị <n>mmiri ozuzo<\/n> n'elu <n>ụwa<\/n> ahụ, ma <n>mmadụ<\/n> adịghịkwa ịrụ ⟨את⟩ <n>ala<\/n> ahụ.",
+  "translation": "Na osisi ọ bụla nke ⟨ọhịa⟩ ahụ ka edoghị ⟪emede⟫ n'⟨ala⟩ ahụ, na ahịhịa ọ bụla nke ⟨ọhịa⟩ ahụ ka etighị ⟪etolite⟫, n'ihi na Yahwe Elohim ebeghị mmiri ozuzo n'⟨ala⟩ ahụ, ma mmadụ adịghị ịkọ ⟨את⟩ ala ahụ.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "שיח",
-      "gloss": "osisi ọ bụla"
+      "gloss": "osisi nke"
     },
     {
       "surface": "השדה",
-      "gloss": "nke ọhịa ahụ"
+      "gloss": "ọhịa"
     },
     {
       "surface": "טרם",
-      "gloss": "mgbe ọ na-adịbeghị"
+      "gloss": "edoghị"
     },
     {
       "surface": "יהיה",
-      "gloss": "ọ na-adị"
+      "gloss": "emede"
     },
     {
       "surface": "בארץ",
-      "gloss": "n'ụwa"
+      "gloss": "n'ala"
     },
     {
       "surface": "וכל",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "השדה",
-      "gloss": "nke ọhịa ahụ"
+      "gloss": "ọhịa"
     },
     {
       "surface": "טרם",
-      "gloss": "mgbe ọ na-amịbeghị"
+      "gloss": "etighị"
     },
     {
       "surface": "יצמח",
-      "gloss": "ọ na-amị mkpụrụ"
+      "gloss": "etolite"
     },
     {
       "surface": "כי",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "enye-ghị"
+      "gloss": "ebeghị"
     },
     {
       "surface": "המטיר",
-      "gloss": "enyeghị mmiri ozuzo"
+      "gloss": "mmiri ozuzo"
     },
     {
       "surface": "יהוה",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ụwa ahụ"
+      "gloss": "ala"
     },
     {
       "surface": "ואדם",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "לעבד",
-      "gloss": "ịrụ"
+      "gloss": "ịkọ"
     },
     {
       "surface": "את",
@@ -101,6 +101,6 @@
       "gloss": "ala ahụ"
     }
   ],
-  "timestamp": "2026-08-27T05:26:01.916902114Z",
+  "timestamp": "2026-08-27T17:28:55.980225069Z",
   "model": "glm-5.3"
 }

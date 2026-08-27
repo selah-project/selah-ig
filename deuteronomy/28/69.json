@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 28,
-  "translation": "Ndị a bụ okwu nke ọgbụgba-ndụ nke Yahwe nyere iwu ka o mee ⟨את⟩ Moshe ka o kee ⟨את⟩ ya na ụmụ Yisrael, n'ala Moab, n'ezighị ezi n'ọgbụgba-ndụ ọzọ nke o kwere ⟨את⟩ ⟨אתם⟩ na ha na Horev.",
+  "translation": "Nke a bụ okwu nke ọgbụgba-ndụ nke Yahwe nyere Moshe iwu ka ọ kpụchie ⟨את⟩ ya na ụmụ Yisrael n'ala Moab, n'akụkụ ọgbụgba-ndụ nke ọ kpụchara ⟨את⟩ ha na Horev.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Ndị a"
+      "gloss": "Nke a"
     },
     {
       "surface": "דברי",
-      "gloss": "okwu nke"
+      "gloss": "okwu"
     },
     {
       "surface": "הברית",
-      "gloss": "ọgbụgba-ndụ"
+      "gloss": "nke ọgbụgba-ndụ"
     },
     {
       "surface": "אשר",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "לכרת",
-      "gloss": "ka o kee"
+      "gloss": "ka ọ kpụchie"
     },
     {
       "surface": "את",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "מלבד",
-      "gloss": "n'ezighị ezi"
+      "gloss": "n'akụkụ"
     },
     {
       "surface": "הברית",
@@ -79,17 +79,17 @@
     },
     {
       "surface": "כרת",
-      "gloss": "o kwere"
+      "gloss": "ọ kpụchara"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩"
+      "gloss": "⟨את⟩ ha"
     },
     {
       "surface": "בחרב",
       "gloss": "na Horev"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.262116682Z",
+  "timestamp": "2026-08-27T17:36:37.454238725Z",
   "model": "glm-5.3"
 }

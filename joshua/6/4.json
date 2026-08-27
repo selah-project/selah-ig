@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Ndị nchụ-aja asaa ga-eji mpi asaa nke ọdụm-ọjọọ dịrị n'ihu ⟨the⟩  Ark; ụbọchị nke asaa, unu ga-agba ⟨את⟩ ⟨the⟩ obodo gburugburu ugboro asaa, ma ndị nchụ-aja ga-ekụ mpi ndị ahụ.",
+  "translation": "Ma ndị nchụàjà asaa ga-ebu mpi àtù asaa nke yovel n'ihu Ark; na ụbọchị nke asaa, unu ga-agagharị ⟨את⟩ obodo ahụ ugboro asaa, ma ndị nchụàjà ga-akụ mpi àtù ahụ.",
   "tokens": [
     {
       "surface": "ושבעה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כהנים",
-      "gloss": "ndị nchụ-aja"
+      "gloss": "ndị nchụàjà"
     },
     {
       "surface": "ישאו",
-      "gloss": "ga-eji"
+      "gloss": "ga-ebu"
     },
     {
       "surface": "שבעה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "שופרות",
-      "gloss": "mpi"
+      "gloss": "mpi àtù"
     },
     {
       "surface": "היובלים",
-      "gloss": "nke ọdụm-ọjọọ"
+      "gloss": "nke yovel"
     },
     {
       "surface": "לפני",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "הארון",
-      "gloss": "⟨the⟩ Ark"
+      "gloss": "Ark"
     },
     {
       "surface": "וביום",
-      "gloss": "ụbọchị"
+      "gloss": "ma na ụbọchị"
     },
     {
       "surface": "השביעי",
@@ -49,20 +49,20 @@
     },
     {
       "surface": "תסבו",
-      "gloss": "unu ga-agba gburugburu"
+      "gloss": "unu ga-agagharị gburugburu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ obodo"
+      "marks": "obodo ahụ"
     },
     {
       "surface": "העיר",
-      "gloss": "⟨the⟩ obodo"
+      "gloss": "obodo ahụ"
     },
     {
       "surface": "שבע",
-      "gloss": "ugboro asaa"
+      "gloss": "asaa"
     },
     {
       "surface": "פעמים",
@@ -70,17 +70,17 @@
     },
     {
       "surface": "והכהנים",
-      "gloss": "ma ndị nchụ-aja"
+      "gloss": "ma ndị nchụàjà"
     },
     {
       "surface": "יתקעו",
-      "gloss": "ga-ekụ"
+      "gloss": "ga-akụ"
     },
     {
       "surface": "בשופרות",
-      "gloss": "mpi ndị ahụ"
+      "gloss": "mpi àtù ahụ"
     }
   ],
-  "timestamp": "2026-08-27T08:22:32.995063886Z",
+  "timestamp": "2026-08-27T17:37:47.366983445Z",
   "model": "glm-5.3"
 }

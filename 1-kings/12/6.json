@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Eze Rehavam wee jụọ ⟨את⟩ ndị okenye ndị guzoro ⟨את⟩ n'ihu Shelomoh nna ya mgbe ọ ka dị ndụ, okwu, sị: Kedu ka unu na-atụ aro ka m zaa ⟨את⟩ ndị a?",
+  "translation": "Eze Rehavam wee na-achọ ndụmọdụ ⟨n'aka⟩ ⟨את⟩ ndị okenye ndị kwụrụ n'ihu Shelomoh nna ya mgbe ọ ka dị ndụ, na-asị: Kedu ka unụ na-atụ anya m ga-esi zaa ⟨את⟩ ndị mmadụ a okwu?",
   "tokens": [
     {
       "surface": "ויועץ",
-      "gloss": "ọ wee jụọ ndụmọdụ"
+      "gloss": "wee na-achọ ndụmọdụ"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ eze"
+      "gloss": "Eze"
     },
     {
       "surface": "רחבעם",
@@ -34,19 +34,20 @@
     },
     {
       "surface": "היו",
-      "gloss": "ha bụ"
+      "gloss": "ha"
     },
     {
       "surface": "עמדים",
-      "gloss": "na-eje ozi guzoro"
+      "gloss": "kwụrụ"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ n'ihu"
+      "gloss": "⟨את⟩",
+      "marks": "n'ihu"
     },
     {
       "surface": "פני",
-      "gloss": "ihu"
+      "gloss": "n'ihu"
     },
     {
       "surface": "שלמה",
@@ -58,40 +59,40 @@
     },
     {
       "surface": "בהיתו",
-      "gloss": "mgbe ọ nọ"
+      "gloss": "mgbe ọ ka dị"
     },
     {
       "surface": "חי",
-      "gloss": "ka dị ndụ"
+      "gloss": "ndụ"
     },
     {
       "surface": "לאמר",
-      "gloss": "okwu"
+      "gloss": "na-asị"
     },
     {
       "surface": "איך",
-      "gloss": "kedu ka"
+      "gloss": "Kedu ka"
     },
     {
       "surface": "אתם",
-      "gloss": "unu"
+      "gloss": "unụ"
     },
     {
       "surface": "נועצים",
-      "gloss": "na-atụ aro"
+      "gloss": "na-atụ anya"
     },
     {
       "surface": "להשיב",
-      "gloss": "ka a zaa"
+      "gloss": "ga-esi zaa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ndị a"
+      "marks": "ndị mmadụ a"
     },
     {
       "surface": "העם",
-      "gloss": "ndị"
+      "gloss": "ndị mmadụ"
     },
     {
       "surface": "הזה",
@@ -102,6 +103,6 @@
       "gloss": "okwu"
     }
   ],
-  "timestamp": "2026-08-27T09:59:55.190466042Z",
+  "timestamp": "2026-08-27T17:42:58.205726152Z",
   "model": "glm-5.3"
 }

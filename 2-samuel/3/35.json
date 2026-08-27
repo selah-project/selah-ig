@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 3,
-  "translation": "Mmadụ niile bịara iji mee ka Dawid rie nri mgbe ụbọchị ka dị; Dawid ṅụrụ iyi, sị: \"Elohim meere m otu a, wee gbakwunye otu a, ma ọ bụrụ na ọ teta m atụmatụ nri ma ọ bụ ihe ọ bụla ọzọ tupu anyanwụ adaba.\"",
+  "translation": "Mmadụ niile bịara ime ka David rie nri ⟨את⟩ n'oge ehihie ka dị, David ṅụrụ iyi, sị: Elohim ga-emere m otu a, ga-agbakwunyekwa otu a, ma ọ bụghị na tupu anyanwụ abata, m ga-atọ ụtọ nri ma ọ bụ ihe ọ bụla ọzọ.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "ha bịara"
+      "gloss": "bịara"
     },
     {
       "surface": "כל",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ mmadụ"
+      "gloss": "mmadụ"
     },
     {
       "surface": "להברות",
-      "gloss": "iji mee ka ọ rie nri"
+      "gloss": "ime ka ... rie nri"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Dawid"
+      "marks": "David"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "David"
     },
     {
       "surface": "לחם",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "בעוד",
-      "gloss": "mgbe ọ ka dị"
+      "gloss": "n'oge ... ka dị"
     },
     {
       "surface": "היום",
-      "gloss": "⟨the⟩ ụbọchị"
+      "gloss": "ehihie"
     },
     {
       "surface": "וישבע",
-      "gloss": "o wee ṅụọ iyi"
+      "gloss": "ṅụrụ iyi"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "David"
     },
     {
       "surface": "לאמר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "ọ ga-emere"
+      "gloss": "ga-emere"
     },
     {
       "surface": "לי",
@@ -74,19 +74,19 @@
     },
     {
       "surface": "וכה",
-      "gloss": "otu a"
+      "gloss": "ga-agbakwunyekwa otu a"
     },
     {
       "surface": "יסיף",
-      "gloss": "ọ ga-agbakwunye"
+      "gloss": "otú a"
     },
     {
       "surface": "כי",
-      "gloss": "n'ihi na"
+      "gloss": "ma ọ bụghị na"
     },
     {
       "surface": "אם",
-      "gloss": "ma ọ bụrụ na"
+      "gloss": ""
     },
     {
       "surface": "לפני",
@@ -94,15 +94,15 @@
     },
     {
       "surface": "בוא",
-      "gloss": "adaba nke"
+      "gloss": "abata"
     },
     {
       "surface": "השמש",
-      "gloss": "⟨the⟩ anyanwụ"
+      "gloss": "anyanwụ"
     },
     {
       "surface": "אטעם",
-      "gloss": "m ga-atụmatụ"
+      "gloss": "ga-atọ ụtọ"
     },
     {
       "surface": "לחם",
@@ -114,13 +114,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "ihe ọ bụla"
+      "gloss": "ihe"
     },
     {
       "surface": "מאומה",
-      "gloss": "ọzọ"
+      "gloss": "ọ bụla ọzọ"
     }
   ],
-  "timestamp": "2026-08-27T09:29:40.596295724Z",
+  "timestamp": "2026-08-27T17:40:45.694208350Z",
   "model": "glm-5.3"
 }

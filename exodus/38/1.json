@@ -5,28 +5,28 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 38,
-  "translation": "O wee rụọ ⟨את⟩ ebe ịchụ àjà-ọkụ nke osisi shittim; ogologo ya ⟨is⟩ ọkwụ ise, obosara ya ọkwụ ise — ọ dị ziri square — elu ya ọkwụ atọ.",
+  "translation": "Ọ wee ruo ⟨את⟩ ebe-ichu-aja nke ọkụ-echu-aja, site na osisi shittim; ogologo ya bụ cubit ise na obosara ya cubit ise — ⟨ọ bụ⟩ nke anọ-akụkụ; elu ya bụ cubit atọ.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "o wee rụọ"
+      "gloss": "Ọ wee ruo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ebe ịchụ àjà-ọkụ"
+      "marks": "ebe-ichu-aja nke ọkụ-echu-aja"
     },
     {
       "surface": "מזבח",
-      "gloss": "ebe ịchụ àjà"
+      "gloss": "ebe-ichu-aja"
     },
     {
       "surface": "העלה",
-      "gloss": "nke ọkụ"
+      "gloss": "nke ọkụ-echu-aja"
     },
     {
       "surface": "עצי",
-      "gloss": "osisi"
+      "gloss": "site na osisi"
     },
     {
       "surface": "שטים",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אמות",
-      "gloss": "ọkwụ"
+      "gloss": "cubit"
     },
     {
       "surface": "ארכו",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אמות",
-      "gloss": "ọkwụ"
+      "gloss": "cubit"
     },
     {
       "surface": "רחבו",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "רבוע",
-      "gloss": "ziri square"
+      "gloss": "nke anọ-akụkụ"
     },
     {
       "surface": "ושלש",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "אמות",
-      "gloss": "ọkwụ"
+      "gloss": "cubit"
     },
     {
       "surface": "קמתו",
       "gloss": "elu ya"
     }
   ],
-  "timestamp": "2026-08-27T06:40:37.846051673Z",
+  "timestamp": "2026-08-27T17:32:11.498074247Z",
   "model": "glm-5.3"
 }

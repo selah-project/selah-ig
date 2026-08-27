@@ -5,23 +5,23 @@
   "book": "1-chronicles",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Ma site n'etiti ụmọ Gad, ụfọdụ kewapụrụ onwe ha banye na David, gaa n'ọgba ahụ, n'ọzara — ndị dike nke ike, ndị ikom agha maka agha, ndị na-edo ⟨את⟩ ọta na mma agha, ma ihu ha bụ ihu ọdụm, ha dịkwa ka ọgba-ọsọ ndị dị n'elu ugwu — iji me ngwa.",
+  "translation": "Ma n'etiti ụmụ Gad, ụfọdụ kewapụrụ onwe ha bịa n'aka David, gaa n'ebe mgbapu n'ọzara — ndị dike nke ike, ndị ikom agha dị njikere maka agha, ndị na-edozi ọta na mma ogwu; ihu ha dị ka ihu ọdụm, ma ha dị ka mmadu dị ọsọ n'elu ugwu.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "ma site na"
+      "gloss": "Ma n'etiti"
     },
     {
       "surface": "הגדי",
-      "gloss": "ụmọ Gad"
+      "gloss": "ụmụ Gad"
     },
     {
       "surface": "נבדלו",
-      "gloss": "kewapụrụ onwe ha"
+      "gloss": "ha kewapụrụ onwe ha"
     },
     {
       "surface": "אל",
-      "gloss": "banye na"
+      "gloss": "bịa n'aka"
     },
     {
       "surface": "דויד",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "למצד",
-      "gloss": "gaa n'ọgba"
+      "gloss": "gaa n'ebe mgbapu"
     },
     {
       "surface": "מדברה",
@@ -53,16 +53,11 @@
     },
     {
       "surface": "למלחמה",
-      "gloss": "maka agha"
+      "gloss": "dị njikere maka agha"
     },
     {
       "surface": "ערכי",
-      "gloss": "ndị na-edo"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ọta na mma agha"
+      "gloss": "ndị na-edozi"
     },
     {
       "surface": "צנה",
@@ -70,7 +65,7 @@
     },
     {
       "surface": "ורמח",
-      "gloss": "na mma agha"
+      "gloss": "na mma ogwu"
     },
     {
       "surface": "ופני",
@@ -86,7 +81,7 @@
     },
     {
       "surface": "וכצבאים",
-      "gloss": "ha dịkwa ka ọgba-ọsọ"
+      "gloss": "ma dị ka mmadu"
     },
     {
       "surface": "על",
@@ -98,9 +93,9 @@
     },
     {
       "surface": "למהר",
-      "gloss": "iji me ngwa"
+      "gloss": "dị ọsọ"
     }
   ],
-  "timestamp": "2026-08-27T15:57:47.425192649Z",
+  "timestamp": "2026-08-27T17:58:31.774238413Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 29,
-  "translation": "Na n'ụbọchị iri na ise nke ọnwa nke asaa, a ga-enwe ⟨the⟩ ọkpọkọ nsọ maka unu; ọrụ ọrụ ọ bụla unu agaghị eme, ma unu ga-eme ememe ememe maka Yahwe ụbọchị asaa.",
+  "translation": "N'ụbọchị nke iri na ise, n'ọnwa nke asaa, mgbakọ dị nsọ ga-abụrụ gịnụ; ọrụ ọrụ ọ bụla ị ga-emebeghị, ma nọrọ na-eme ememe maka Yahwe ụbọchị asaa.",
   "tokens": [
     {
       "surface": "ובחמשה",
-      "gloss": "ma n'ihe dị ka ise"
+      "gloss": "ma n'ụbọchị nke ise"
     },
     {
       "surface": "עשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לחדש",
-      "gloss": "nke ọnwa"
+      "gloss": "n'ọnwa"
     },
     {
       "surface": "השביעי",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "מקרא",
-      "gloss": "ọkpọkọ"
+      "gloss": "mgbakọ dị nsọ"
     },
     {
       "surface": "קדש",
-      "gloss": "nsọ"
+      "gloss": "dị nsọ"
     },
     {
       "surface": "יהיה",
-      "gloss": "ga-adị"
+      "gloss": "ga-abụ"
     },
     {
       "surface": "לכם",
-      "gloss": "maka unu"
+      "gloss": "gịnụ"
     },
     {
       "surface": "כל",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "עבדה",
-      "gloss": "ọrụ ọrụ"
+      "gloss": "ọrụ ije ozi"
     },
     {
       "surface": "לא",
-      "gloss": "aghị"
+      "gloss": "ọ bụghị"
     },
     {
       "surface": "תעשו",
-      "gloss": "unu ga-eme"
+      "gloss": "ị ga-eme"
     },
     {
       "surface": "וחגתם",
-      "gloss": "ma unu ga-eme ememe"
+      "gloss": "ma nọrọ na-eme ememe"
     },
     {
       "surface": "חג",
@@ -84,6 +84,6 @@
       "gloss": "ụbọchị"
     }
   ],
-  "timestamp": "2026-08-27T07:38:44.067671328Z",
+  "timestamp": "2026-08-27T17:35:33.790821069Z",
   "model": "glm-5.3"
 }

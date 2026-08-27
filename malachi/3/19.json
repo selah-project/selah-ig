@@ -5,11 +5,11 @@
   "book": "malachi",
   "lang": "ig",
   "chapter": 3,
-  "translation": "N'ihi na le, ụbọchị ahụ na-abịa, na-ere ọkụ dịka ite ọkụ; mmadụ niile ndị okwu mkparị na mmadụ niile na-eme ihe ọjọ ga-abụ ahịhịa kpọrọ nkụ, ma ọkụ ga-ere ha ⟨את⟩ ⟨אתם⟩ ahụ — ụbọchị ahụ na-abịa, ka Yahwe nke ndị agha kwuru — nke agaghị ahapụ ha mgbọrọgwụ ma ọ bụ alaka.",
+  "translation": "N'ihi na le, ụbọchị ahụ na-abịa, ọkụ na-ere dịka ite nri, mmadụ niile hiere isi ikwu na onye ọ bụla na-eme ihe ọjọọ ga-abụ ahịhịa kpọrọ nkụ, ma ụbọchị ahụ na-abịa ga-ere ha ⟨את⟩ otu ahụ, ka Yahwe nke ndị agha kwuru, nke na-agaghị ahapụ ha mgbọrọgwụ ma ọ bụ alaka.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "N'ihi na"
+      "gloss": "n'ihi na"
     },
     {
       "surface": "הנה",
@@ -25,27 +25,27 @@
     },
     {
       "surface": "בער",
-      "gloss": "na-ere ọkụ"
+      "gloss": "ọkụ na-ere"
     },
     {
       "surface": "כתנור",
-      "gloss": "dịka ite ọkụ"
+      "gloss": "dịka ite nri"
     },
     {
       "surface": "והיו",
-      "gloss": "ga-abụ"
+      "gloss": "ha ga-abụ"
     },
     {
       "surface": "כל",
-      "gloss": "mmadụ niile"
+      "gloss": "niile"
     },
     {
       "surface": "זדים",
-      "gloss": "ndị okwu mkparị"
+      "gloss": "ndị hiere isi ikwu"
     },
     {
       "surface": "וכל",
-      "gloss": "ma mmadụ niile"
+      "gloss": "na onye ọ bụla"
     },
     {
       "surface": "עשה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "רשעה",
-      "gloss": "ihe ọjọ"
+      "gloss": "ihe ọjọọ"
     },
     {
       "surface": "קש",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "ולהט",
-      "gloss": "ma ọkụ ga-ere"
+      "gloss": "ma ga-ere"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "ha"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "ka ... kwuru"
+      "gloss": "kwuru"
     },
     {
       "surface": "יהוה",
@@ -113,6 +113,6 @@
       "gloss": "ma ọ bụ alaka"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.256916881Z",
+  "timestamp": "2026-08-27T17:52:41.117104644Z",
   "model": "glm-5.3"
 }

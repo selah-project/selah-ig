@@ -5,28 +5,28 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 2,
-  "translation": "Ugbu a, bilieunu, gafenuonu maka onwe unu ⟨את⟩ osimiri Zered; ⟨את⟩ anyị wee gafee ⟨את⟩ osimiri Zered.",
+  "translation": "Ugbu a, bilie nu, gafenu ⟨את⟩ osimiri Zered; anyị gafere ⟨את⟩ osimiri Zered.",
   "tokens": [
     {
       "surface": "עתה",
-      "gloss": "ugbu a"
+      "gloss": "Ugbu a"
     },
     {
       "surface": "קמו",
-      "gloss": "bilieunu"
+      "gloss": "bilie nu"
     },
     {
       "surface": "ועברו",
-      "gloss": "gafenuonu"
+      "gloss": "gafenu"
     },
     {
       "surface": "לכם",
-      "gloss": "maka onwe unu"
+      "gloss": "maka onwe gị"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "osimiri"
+      "marks": "osimiri Zered"
     },
     {
       "surface": "נחל",
@@ -37,17 +37,13 @@
       "gloss": "Zered"
     },
     {
-      "surface": "ויהי",
-      "gloss": ""
-    },
-    {
       "surface": "ונעבר",
-      "gloss": "⟨את⟩ anyị wee gafee"
+      "gloss": "anyị gafere"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "osimiri"
+      "marks": "osimiri Zered"
     },
     {
       "surface": "נחל",
@@ -58,6 +54,6 @@
       "gloss": "Zered"
     }
   ],
-  "timestamp": "2026-08-27T07:48:55.087481522Z",
+  "timestamp": "2026-08-27T18:00:55.911779566Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 20,
-  "translation": "Were Aharon na Elazar nwa ⟨את⟩ ya, dịrịkwa ⟨את⟩ ha gbagoro n'Ugwu Hor.",
+  "translation": "Were Aharon na ⟨את⟩ Elazar nwa ya, were ha elu Ugwu HaHor;",
   "tokens": [
     {
       "surface": "קח",
@@ -35,21 +35,22 @@
     },
     {
       "surface": "והעל",
-      "gloss": "dịrịkwa ha gbagoro"
+      "gloss": "were ha elu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ha"
+      "gloss": "⟨את⟩",
+      "marks": "ha"
     },
     {
       "surface": "הר",
-      "gloss": "Hor"
+      "gloss": "Ugwu Hahor"
     },
     {
       "surface": "ההר",
-      "gloss": "⟨the⟩ ugwu"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-08-27T07:32:00.997211763Z",
+  "timestamp": "2026-08-27T17:34:16.781906312Z",
   "model": "glm-5.3"
 }

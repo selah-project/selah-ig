@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 43,
-  "translation": "Mgbe ahụ Azaryah nwa Hoshayah, na Yochanan nwa Kareach, na ⟨the⟩ ndị ikom niile ndị mpụtara, sịrị Yirmeyahu: \"Ị na-asịrị ụgha; Yahwe Elohim anyị ezibeghị gị ka ị sị, 'Ela isi na Mistaịm banye ibi n'ebe ahụ.'\"",
+  "translation": "Azaryah nwa Hoshayah, na Yochanan nwa Kareach, na ụmụ nile nke nzọ nkwe sịrị Yirmeyahu, na-ekwu, “Ị na-asị ụgha; ọ bụghị Yahwe, Elohim anyị, zipụtara gị ka ị sị, ‘Ela unu abanye Mitsrayim ibi n’ebe ahụ.’”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "וכל",
-      "gloss": "na niile"
+      "gloss": "na ụmụ niile nke"
     },
     {
       "surface": "האנשים",
-      "gloss": "⟨the⟩ ndị ikom"
+      "gloss": "ndị okuko"
     },
     {
       "surface": "הזדים",
-      "gloss": "ndị mpụtara"
+      "gloss": "nzọ nkwe"
     },
     {
       "surface": "אמרים",
-      "gloss": "na-asị"
+      "gloss": "na-ekwu"
     },
     {
       "surface": "אל",
-      "gloss": "nke"
+      "gloss": "—"
     },
     {
       "surface": "ירמיהו",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "ị"
+      "gloss": "Ị"
     },
     {
       "surface": "מדבר",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "שלחך",
-      "gloss": "zipụtaghị gị"
+      "gloss": "zipụtara gị"
     },
     {
       "surface": "יהוה",
@@ -93,11 +93,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ela"
+      "gloss": "Ela"
     },
     {
       "surface": "תבאו",
-      "gloss": "isi banye"
+      "gloss": "unu abanye"
     },
     {
       "surface": "מצרים",
@@ -109,9 +109,9 @@
     },
     {
       "surface": "שם",
-      "gloss": "n'ebe ahụ"
+      "gloss": "n’ebe ahụ"
     }
   ],
-  "timestamp": "2026-08-27T11:50:30.227574733Z",
+  "timestamp": "2026-08-27T17:48:04.491272391Z",
   "model": "glm-5.3"
 }

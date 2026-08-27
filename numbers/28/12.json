@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 28,
-  "translation": "na ụzọ n'ụzọ iri atọ nke ntụ ọka ọcha dịka onyinye ntụ ọka agwakọtara na mmanụ maka otu ehi; na ụzọ n'ụzọ iri abụọ nke ntụ ọka ọcha dịka onyinye ntụ ọka agwakọtara na mmanụ maka otu ram;",
+  "translation": "na atọ n'ụzọ iri nke ntụ ọka (agbajiri agbaji) dịka onyinye nke a gwakọtara na mmanụ, maka nke otu ehi; na abụọ n'ụzọ iri nke ntụ ọka dịka onyinye nke a gwakọtara na mmanụ, maka nke otu ram;",
   "tokens": [
     {
       "surface": "ושלשה",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "עשרנים",
-      "gloss": "ụzọ n'ụzọ iri"
+      "gloss": "nke iri (otu akụkụ n'iri)"
     },
     {
       "surface": "סלת",
-      "gloss": "ntụ ọka ọcha"
+      "gloss": "ntụ ọka dị mma"
     },
     {
       "surface": "מנחה",
-      "gloss": "onyinye ntụ ọka"
+      "gloss": "onyinye (ọnwụnụ)"
     },
     {
       "surface": "בלולה",
-      "gloss": "agwakọtara"
+      "gloss": "a gwakọtara"
     },
     {
       "surface": "בשמן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "האחד",
-      "gloss": "otu ⟨the⟩"
+      "gloss": "otu"
     },
     {
       "surface": "ושני",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "עשרנים",
-      "gloss": "ụzọ n'ụzọ iri"
+      "gloss": "nke iri (otu akụkụ n'iri)"
     },
     {
       "surface": "סלת",
-      "gloss": "ntụ ọka ọcha"
+      "gloss": "ntụ ọka dị mma"
     },
     {
       "surface": "מנחה",
-      "gloss": "onyinye ntụ ọka"
+      "gloss": "onyinye (ọnwụnụ)"
     },
     {
       "surface": "בלולה",
-      "gloss": "agwakọtara"
+      "gloss": "a gwakọtara"
     },
     {
       "surface": "בשמן",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "האחד",
-      "gloss": "otu ⟨the⟩"
+      "gloss": "otu"
     }
   ],
-  "timestamp": "2026-08-27T07:38:37.315715097Z",
+  "timestamp": "2026-08-27T17:35:13.583591291Z",
   "model": "glm-5.3"
 }

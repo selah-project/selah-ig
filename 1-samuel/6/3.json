@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Ha wee sị: Ọ bụrụ na a na-eziga ⟨את⟩ igbe nke Elohim nke Yisrael, ezinwula ya ⟨את⟩ efu efu; n'ihi na n'ezigbo unu ga-emeghachi ya ihe-ikpe-izọ (asham); mgbe ahụ a ga-agwọ unu ọrịa, a ga-amatakwa na unu ihe kpaturu na aka ya anaghị ewepụ n'unu.",
+  "translation": "Ha kwuru, sị: Ọ bụrụ na unu na-eziga ⟨את⟩ igbe nke Elohim nke Yisrael, ezipula ya na-enweghị ihe ọ bụla; n'ihi na unu ga-emeghachi ya n'ezie aha-aju; mgbe ahụ ka a ga-agwọ unu, a ga-amatakwa na unu ihe kpatara aka ya na-adịghị ewepụ n'aka unu.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ha wee sị"
+      "gloss": "ha kwuru"
     },
     {
       "surface": "אם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "משלחים",
-      "gloss": "a na-eziga"
+      "gloss": "na-eziga"
     },
     {
       "surface": "את",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "nke Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "nke Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אל",
-      "gloss": "ezinwula"
+      "gloss": "ezipula"
     },
     {
       "surface": "תשלחו",
@@ -47,11 +47,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ya"
+      "marks": "ya (igbe)"
     },
     {
       "surface": "ריקם",
-      "gloss": "efu efu"
+      "gloss": "na-enweghị ihe ọ bụla"
     },
     {
       "surface": "כי",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "השב",
-      "gloss": "n'ezigbo"
+      "gloss": "ga-emeghachi n'ezie"
     },
     {
       "surface": "תשיבו",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "אשם",
-      "gloss": "ihe-ikpe-izọ (asham)"
+      "gloss": "aha-aju"
     },
     {
       "surface": "אז",
@@ -79,11 +79,7 @@
     },
     {
       "surface": "תרפאו",
-      "gloss": "a ga-agwọ unu ọrịa"
-    },
-    {
-      "surface": "ויאמרו",
-      "gloss": ""
+      "gloss": "a ga-agwọ unu"
     },
     {
       "surface": "ונודע",
@@ -95,11 +91,11 @@
     },
     {
       "surface": "למה",
-      "gloss": "ihe kpaturu"
+      "gloss": "ihe kpatara"
     },
     {
       "surface": "לא",
-      "gloss": "anaghị"
+      "gloss": "na-adịghị"
     },
     {
       "surface": "תסור",
@@ -111,9 +107,9 @@
     },
     {
       "surface": "מכם",
-      "gloss": "n'unu"
+      "gloss": "n'aka unu"
     }
   ],
-  "timestamp": "2026-08-27T16:33:53.929346725Z",
+  "timestamp": "2026-08-27T17:39:39.543287092Z",
   "model": "glm-5.3"
 }

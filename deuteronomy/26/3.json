@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 26,
-  "translation": "Bịa n'aka onye-nchu-aja nke ga-adị n'ụbọchị ndị ahụ, gwa ya sị: Ekwuola m taa nye Yahwe, Elohim gị, na m abatala n'ala nke Yahwe ṅụrụ iyi nye nna nna anyị iji nye anyị ya.",
+  "translation": "Ị ga-abịakwuru onye nchu aga nke ga-adị n'ụbọchị ndị ahụ, gwa ya kwa sị: 'Ekwuola m taa nye Yahwe, Elohim gị, na m abịala n'ala nke Yahwe ṅụrụ iyi nye nna nna anyị na ọ ga-enye anyị.'",
   "tokens": [
     {
       "surface": "ובאת",
-      "gloss": "Bịa"
+      "gloss": "ị ga-abịakwuru"
     },
     {
       "surface": "אל",
-      "gloss": "n'aka"
+      "gloss": "ọnụ"
     },
     {
       "surface": "הכהן",
-      "gloss": "⟨the⟩ onye-nchu-aja"
+      "gloss": "onye nchu aga"
     },
     {
       "surface": "אשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "gwa"
+      "gloss": "ma ị ga-agwa"
     },
     {
       "surface": "אליו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הגדתי",
-      "gloss": "Ekwuola m"
+      "gloss": "ekwuola m"
     },
     {
       "surface": "היום",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahwe"
+      "gloss": "nye Yahwe"
     },
     {
       "surface": "אלהיך",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "באתי",
-      "gloss": "m abatala"
+      "gloss": "m abịala"
     },
     {
       "surface": "אל",
-      "gloss": "n'"
+      "gloss": "na"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ala"
+      "gloss": "n'ala"
     },
     {
       "surface": "אשר",
@@ -93,13 +93,13 @@
     },
     {
       "surface": "לתת",
-      "gloss": "iji nye"
+      "gloss": "na ọ ga-enye"
     },
     {
       "surface": "לנו",
       "gloss": "anyị"
     }
   ],
-  "timestamp": "2026-08-27T08:09:31.811849996Z",
+  "timestamp": "2026-08-27T17:37:01.998134377Z",
   "model": "glm-5.3"
 }

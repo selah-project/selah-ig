@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 29,
-  "translation": "Ya mere, otú a ka Adonai Yahwe kwuru: Le, m na-enye Nevukhadretstsar, eze Babilon, ⟨את⟩ ala Mizraim; ọ ga-ewere akụ na ụba ya, were ihe a chụ n'ụgbụ ya, were mbụrụ mbụ ya; ọ ga-abụ ⟨the⟩ ụgwọ ọrụ maka ndị agha ya.",
+  "translation": "Ya mere, otu a ka Adonai Yahwe si: Lee, m na-enye Nevukhadretsar, eze Babilon, ⟨את⟩ ala Mitsrajim; ọ ga-eburu ọtụtụ ndị ya, ọ ga-ewere ihe nke ya, ọ ga-kụchaa ihe nke ya, ọ ga-abụ ụgwọ ọrụ maka ndị agha ya.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "otú a"
+      "gloss": "otu a"
     },
     {
       "surface": "אמר",
-      "gloss": "kwuru"
+      "gloss": "si"
     },
     {
       "surface": "אדני",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Le, m"
+      "gloss": "Lee"
     },
     {
       "surface": "נתן",
-      "gloss": "na-enye"
+      "gloss": "m na-enye"
     },
     {
       "surface": "לנבוכדראצר",
-      "gloss": "Nevukhadretstsar"
+      "gloss": "Nevukhadretsar"
     },
     {
       "surface": "מלך",
@@ -50,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ala Mizraim"
+      "marks": "ala Mitsrajim"
     },
     {
       "surface": "ארץ",
@@ -58,31 +58,31 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mizraim"
+      "gloss": "Mitsrajim"
     },
     {
       "surface": "ונשא",
-      "gloss": "ọ ga-ewere"
+      "gloss": "ọ ga-eburu"
     },
     {
       "surface": "המנה",
-      "gloss": "akụ na ụba ya"
+      "gloss": "ọtụtụ ndị ya"
     },
     {
       "surface": "ושלל",
-      "gloss": "were"
+      "gloss": "ọ ga-ewere ihe nke ya"
     },
     {
       "surface": "שללה",
-      "gloss": "ihe a chụ n'ụgbụ ya"
+      "gloss": "ihe mkpọcha ya"
     },
     {
       "surface": "ובזז",
-      "gloss": "were"
+      "gloss": "ọ ga-akụchaa"
     },
     {
       "surface": "בזה",
-      "gloss": "mbụrụ mbụ ya"
+      "gloss": "ihe a kụchiri ya"
     },
     {
       "surface": "והיתה",
@@ -97,6 +97,6 @@
       "gloss": "maka ndị agha ya"
     }
   ],
-  "timestamp": "2026-08-27T16:44:23.243432604Z",
+  "timestamp": "2026-08-27T17:49:12.749093215Z",
   "model": "glm-5.3"
 }

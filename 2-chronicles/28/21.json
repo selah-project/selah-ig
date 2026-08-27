@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 28,
-  "translation": "N'ihi na Achaz kewapụrụ ⟨את⟩ ụlọ Yahwe na ⟨את⟩ ụlọ ⟨the⟩ eze na ndị isi, ma nye eze Ashur; mana ọ bụghị ike ọ dịghị enyemaka nye ya.",
+  "translation": "N'ihi na Achaz wepụrụ akụkụ site n'⟨את⟩ ụlọ Yahwe, na n'⟨את⟩ ụlọ eze na nke ndị isi, o wee nye eze Ashur, ma ọ bụghịkwa enyemaka ya.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "חלק",
-      "gloss": "kewapụrụ"
+      "gloss": "wepụrụ akụkụ"
     },
     {
       "surface": "אחז",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "n'⟨את⟩",
       "marks": "ụlọ eze"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "ma nye"
+      "gloss": "o wee nye"
     },
     {
       "surface": "למלך",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "mana ọ bụghị"
+      "gloss": "ma ọ bụghịkwa"
     },
     {
       "surface": "לעזרה",
@@ -74,6 +74,6 @@
       "gloss": "ya"
     }
   ],
-  "timestamp": "2026-08-27T16:17:32.431760941Z",
+  "timestamp": "2026-08-27T18:00:00.446156837Z",
   "model": "glm-5.3"
 }

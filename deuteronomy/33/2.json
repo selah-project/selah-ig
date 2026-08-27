@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 33,
-  "translation": "Ọ sịrị: Yahwe si Sainaị bịa, ọ pụta ìhè site na Sẹiri maka ha, ọ na-agbapụta site n'ugwu Paran, bịakwaa site na puku iri nke ndị nsọ; site n'aka nri ya, ⟨is⟩ ọkụ-iwu maka ha.",
+  "translation": "Ọ sịrị: Yahwe si Sinay bịa, ọ pụtakwara site na Seir maka ha; ọ na-egbukegbu site n'ugwu Paran, ọ bịakwara site na puku iri nke ndị nsọ; site n'aka nri ya ⟨⟨ bụ⟩⟩ ọkụ-iwu maka ha.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ọ sịrị"
+      "gloss": "Ọ sịrị"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מסיני",
-      "gloss": "si Sainaị"
+      "gloss": "si Sinay"
     },
     {
       "surface": "בא",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "וזרח",
-      "gloss": "pụta ìhè"
+      "gloss": "ọ pụtakwara"
     },
     {
       "surface": "משעיר",
-      "gloss": "site na Sẹiri"
+      "gloss": "site na Seir"
     },
     {
       "surface": "למו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הופיע",
-      "gloss": "na-agbapụta"
+      "gloss": "ọ na-egbukegbu"
     },
     {
       "surface": "מהר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "bịakwaa"
+      "gloss": "ọ bịakwara"
     },
     {
       "surface": "מרבבת",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "קדש",
-      "gloss": "ndị nsọ"
+      "gloss": "nke ndị nsọ"
     },
     {
       "surface": "מימינו",
@@ -72,6 +72,6 @@
       "gloss": "maka ha"
     }
   ],
-  "timestamp": "2026-08-27T08:16:44.318967087Z",
+  "timestamp": "2026-08-27T17:37:34.536443116Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 13,
-  "translation": "Ha na-abịa site n'ala dị anya, site n'ọgwụgwụ ⟨the⟩ eluigwe — Yahwe na ngwaara nke iwe ya — ibibi ala niile.",
+  "translation": "Ha na-abịa site n'ala dị anya, site n'isi ngwụcha nke eluigwe — Yahwe yere ngwá agha iwe ya — ịkwụsịrité ⟨את⟩ mba ahụ dum.",
   "tokens": [
     {
       "surface": "באים",
-      "gloss": "Ha na-abịa"
+      "gloss": "ha na-abịa"
     },
     {
       "surface": "מארץ",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מקצה",
-      "gloss": "site n'ọgwụgwụ"
+      "gloss": "site n'isi ngwụcha"
     },
     {
       "surface": "השמים",
-      "gloss": "⟨the⟩ eluigwe"
+      "gloss": "nke eluigwe"
     },
     {
       "surface": "יהוה",
@@ -33,25 +33,26 @@
     },
     {
       "surface": "וכלי",
-      "gloss": "na ngwaara"
+      "gloss": "yere ngwá agha"
     },
     {
       "surface": "זעמו",
-      "gloss": "nke iwe ya"
+      "gloss": "iwe ya"
     },
     {
       "surface": "לחבל",
-      "gloss": "ibibi"
+      "gloss": "ịkwụsịrité"
     },
     {
       "surface": "כל",
-      "gloss": "niile"
+      "gloss": "dum"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ala"
+      "gloss": "mba ahụ",
+      "marks": "mba ahụ dum"
     }
   ],
-  "timestamp": "2026-08-27T10:38:24.542834277Z",
+  "timestamp": "2026-08-27T18:01:26.867716660Z",
   "model": "glm-5.3"
 }

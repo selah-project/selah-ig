@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Na nye anụmanụ niile nke ⟨אַקִּרָא⟩ ụwa, na nnụnụ niile nke eluigwe, na ihe niile na-akpụ akpụ n'elu ⟨אַקִּרָא⟩ ụwa, nke nwere mmụọ ndụ n'ime ya, ⟨את⟩ ahịhịa ndị ahụhịa ndị akwụkwọ ndụ dị ka nri; mmadụ adịghị ekwu okwu ọzọ — ọ dịghị ihe ndị ọzọ. Ma o zuru okwu.",
+  "translation": "Na maka anụ niile nke ụwa, na maka nnụnụ niile nke eluigwe, na maka ihe niile na-agagharị n'elu ụwa, nke nwere mmụọ ndụ n'ime ya, ⟨את⟩ ahịhịa ndụ ndụ niile ka m nyere ha ka ọ bụrụ nri; ya bụ, ọ dị otú ahụ.",
   "tokens": [
     {
       "surface": "ולכל",
-      "gloss": "na nye ... niile"
+      "gloss": "na maka niile"
     },
     {
       "surface": "חית",
-      "gloss": "anụmanụ"
+      "gloss": "anụ"
     },
     {
       "surface": "הארץ",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "na ... niile"
+      "gloss": "na maka niile"
     },
     {
       "surface": "עוף",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "na ... niile"
+      "gloss": "na maka niile"
     },
     {
       "surface": "רומש",
-      "gloss": "ihe na-akpụ akpụ"
+      "gloss": "ihe na-agagharị"
     },
     {
       "surface": "על",
@@ -66,7 +66,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ahịhịa ndụ niile"
+      "marks": "ahịhịa ndụ ndụ niile"
     },
     {
       "surface": "כל",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ירק",
-      "gloss": "ahịhịa akwụkwọ ndụ"
+      "gloss": "ndụ ndụ"
     },
     {
       "surface": "עשב",
@@ -82,17 +82,17 @@
     },
     {
       "surface": "לאכלה",
-      "gloss": "dị ka nri"
+      "gloss": "ka ọ bụrụ nri"
     },
     {
       "surface": "ויהי",
-      "gloss": "ma ọ bịara"
+      "gloss": "ya bụ"
     },
     {
       "surface": "כן",
-      "gloss": "dị otú ahụ"
+      "gloss": "ọ dị otú ahụ"
     }
   ],
-  "timestamp": "2026-08-27T05:24:28.395618575Z",
+  "timestamp": "2026-08-27T17:28:04.575683939Z",
   "model": "glm-5.3"
 }

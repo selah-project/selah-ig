@@ -5,12 +5,12 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 25,
-  "translation": "na ⟨את⟩ eze niile nke Tsor, na ⟨את⟩ eze niile nke Tsidon, na ⟨את⟩ ezendi ⟨the⟩ àgwàetiti nke dị n'akụkụ ọzọ nke oké osimiri",
+  "translation": "na ⟨את⟩ ndị eze niile nke Tsor, na ⟨את⟩ ndị eze niile nke Tsidon, na ⟨את⟩ ndị eze nke ⟨àgwàetiti⟩ ⟨ndị⟩ dị n'akụkụ nke ọzọ nke ⟨oké⟩ osimiri.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "eze niile nke Tsor"
+      "gloss": "⟨את⟩",
+      "marks": "ndị eze niile nke Tsor"
     },
     {
       "surface": "כל",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "eze"
+      "gloss": "ndị eze"
     },
     {
       "surface": "צר",
@@ -26,8 +26,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "eze niile nke Tsidon"
+      "gloss": "⟨את⟩",
+      "marks": "ndị eze niile nke Tsidon"
     },
     {
       "surface": "כל",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "eze"
+      "gloss": "ndị eze"
     },
     {
       "surface": "צידון",
@@ -43,30 +43,30 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "ezendi àgwàetiti"
+      "gloss": "⟨את⟩",
+      "marks": "ndị eze nke àgwàetiti"
     },
     {
       "surface": "מלכי",
-      "gloss": "ezendi"
+      "gloss": "ndị eze"
     },
     {
       "surface": "האי",
-      "gloss": "àgwàetiti ⟨the⟩"
+      "gloss": "àgwàetiti"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "ndị"
     },
     {
       "surface": "בעבר",
-      "gloss": "n'akụkụ ọzọ"
+      "gloss": "n'akụkụ nke ọzọ nke"
     },
     {
       "surface": "הים",
-      "gloss": "oké osimiri"
+      "gloss": "⟨oké⟩ osimiri"
     }
   ],
-  "timestamp": "2026-08-27T11:31:30.219286934Z",
+  "timestamp": "2026-08-27T17:46:47.310369167Z",
   "model": "glm-5.3"
 }

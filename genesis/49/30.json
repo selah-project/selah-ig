@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 49,
-  "translation": "n'ọgba ahụ nke dị n'ubi Machpela, nke dị n'ihu Mamre, n'ala Kenaan, nke Avraham zụrụ ⟨את⟩ ⟨the⟩ ubi ahụ site n'aka ⟨את⟩ Efron onye Hiti, dị ka ihe onwunwe olili.",
+  "translation": "N'ọgba ⟨את⟩ nke dị n'ubi nke Makpela, nke dị n'ihu Mamre, n'ala Kenaan — ubi nke Avraham zụrụ ⟨את⟩ site n'aka Efron onye Heti, dị ka ihe onwunwe ili ozu.",
   "tokens": [
     {
       "surface": "במערה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "nke dị"
     },
     {
       "surface": "בשדה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "המכפלה",
-      "gloss": "Machpela"
+      "gloss": "nke Makpela"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "nke dị"
     },
     {
       "surface": "על",
-      "gloss": "n'ihu"
+      "gloss": "n'"
     },
     {
       "surface": "פני",
@@ -62,16 +62,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ubi ahụ"
+      "marks": "ubi"
     },
     {
       "surface": "השדה",
-      "gloss": "ubi ahụ"
+      "gloss": "ubi"
     },
     {
       "surface": "מאת",
-      "gloss": "site n'aka ⟨את⟩",
-      "marks": "Efron onye Hiti"
+      "gloss": "⟨את⟩ site n'aka"
     },
     {
       "surface": "עפרן",
@@ -79,7 +78,7 @@
     },
     {
       "surface": "החתי",
-      "gloss": "onye Hiti"
+      "gloss": "onye Heti"
     },
     {
       "surface": "לאחזת",
@@ -87,9 +86,9 @@
     },
     {
       "surface": "קבר",
-      "gloss": "olili"
+      "gloss": "ili ozu"
     }
   ],
-  "timestamp": "2026-08-27T06:06:48.033842482Z",
+  "timestamp": "2026-08-27T18:16:27.987282914Z",
   "model": "glm-5.3"
 }

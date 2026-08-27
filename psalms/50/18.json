@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 50,
-  "translation": "Ọ bụrụ na ị hụrụ onye ohi, ị na-agba ọsọ ya, na ndị na-akwata ịkwa iko ka òkè gị dị.",
+  "translation": "Ọ bụrụ na ị hụrụ onye ohi, ị gbara ọsọ ⟨ya⟩; ma ⟨ọ bụ⟩ na ndị ikọ nmụọ nwanyị ndị ọzọ ka akụkụ gị dị.",
   "tokens": [
     {
       "surface": "אם",
@@ -21,21 +21,25 @@
     },
     {
       "surface": "ותרץ",
-      "gloss": "ị na-agba ọsọ ya"
+      "gloss": "ị gbara ọsọ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya"
     },
     {
       "surface": "ועם",
-      "gloss": "na"
+      "gloss": "ma na"
     },
     {
       "surface": "מנאפים",
-      "gloss": "ndị na-akwata ịkwa iko"
+      "gloss": "ndị na-akọ nwanyị ndị ọzọ"
     },
     {
       "surface": "חלקך",
-      "gloss": "òkè gị"
+      "gloss": "akụkụ gị"
     }
   ],
-  "timestamp": "2026-08-27T13:31:37.128302286Z",
+  "timestamp": "2026-08-27T17:53:33.276997722Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,54 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 2,
-  "translation": "Ọ sịkwazie: Dịka okwunu nke unu, otú a ka ọ dị. O zitere ha, ha wee je; o keekwa eriri uhie a na-ahụ anya ⟨את⟩ njikọ ahụ n'ọwụwa anyanwụ n'ụlọ ya, o jikọta ⟨את⟩ eriri nke shani n'olu mmepe.",
-  "tokens": [],
-  "timestamp": "2026-08-27T08:21:54.166880900Z",
+  "translation": "Ọ sịrị, Dịka okwu unu si dị, otu a ka ọ ⟨he⟩ bụ; ọ zipụkwara ⟨them⟩ ha, ha wee pụọ; ọ wee kee ⟨את⟩ eri uhie ahụ n'ọ́dọ́ m̄mehe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ọ sịrị"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "dịka okwu unu si dị"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "ọ zipụkwara ha"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ha wee pụọ"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "ọ wee kee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eri uhie ahụ"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "eri uhie"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nke uhie (shani)"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "n'ọdọ ụlọ (chalon)"
+    }
+  ],
+  "timestamp": "2026-08-27T17:37:04.022016377Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "ig",
   "chapter": 6,
-  "translation": "N'ihi na ha na ọrụ-ugbo ha na-aga elu, na аhaha ha na-abata, dịka nnụnụ-achọcha n'ụba; ma ha na kamel ha enweghị ọnụọgụ; ha batarịrị n'ala ⟨ihe⟩ imebi ya.",
+  "translation": "N'ihi na ha na ọrụ-ụlọ ha ga-arịgo, ma ahụ ha ga-abata, dịka nnụnụ-achịcha n'ọtụtụ; maka ha na kamel ha enweghị ọnụọgụ; ha bataraghị n'ala imebi ya.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "ומקניהם",
-      "gloss": "na ọrụ-ugbo ha"
+      "gloss": "na ọrụ-ụlọ ha"
     },
     {
       "surface": "יעלו",
-      "gloss": "na-aga elu"
+      "gloss": "ga-arịgo"
     },
     {
       "surface": "ואהליהם",
-      "gloss": "na ahaha ha"
+      "gloss": "ma ahụ ha"
     },
     {
       "surface": "יבאו",
-      "gloss": "na-abata"
+      "gloss": "ga-abata"
     },
     {
       "surface": "כדי",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "ארבה",
-      "gloss": "nnụnụ-achọcha"
+      "gloss": "nnụnụ-achịcha"
     },
     {
       "surface": "לרב",
-      "gloss": "n'ụba"
+      "gloss": "n'ọtụtụ"
     },
     {
       "surface": "ולהם",
-      "gloss": "ma ha"
+      "gloss": "maka ha"
     },
     {
       "surface": "ולגמליהם",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "ha batarịrị"
+      "gloss": "ha batara"
     },
     {
       "surface": "בארץ",
@@ -72,6 +72,6 @@
       "gloss": "imebi ya"
     }
   ],
-  "timestamp": "2026-08-27T16:31:51.555702814Z",
+  "timestamp": "2026-08-27T17:37:44.340395571Z",
   "model": "glm-5.3"
 }

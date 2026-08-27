@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 34,
-  "translation": "\"Ị̀ ga-adịkwa njikere maka ụtụtụ; gị wee rịgoo n'ụtụtụ ahụ ruo n'ugwu Sınai, gị were guzo n'ebe ahụ maka m n'isi ⟨the⟩ ugwu ahụ.\"",
+  "translation": "Gaa-njikere nke ụtụtụ, ma rịgo n'ụtụtụ gaa n'ugwu Sinaị, guzo m maka gị n'ebe ahụ n'isi ugwu ahụ",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Ị̀ ga-adịkwa"
+      "gloss": "ga-"
     },
     {
       "surface": "נכון",
@@ -17,31 +17,31 @@
     },
     {
       "surface": "לבקר",
-      "gloss": "maka ụtụtụ"
+      "gloss": "nke ụtụtụ"
     },
     {
       "surface": "ועלית",
-      "gloss": "gị wee rịgoo"
+      "gloss": "ma rịgo"
     },
     {
       "surface": "בבקר",
-      "gloss": "n'ụtụtụ ahụ"
+      "gloss": "n'ụtụtụ"
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "ga"
     },
     {
       "surface": "הר",
-      "gloss": "ugwu"
+      "gloss": "n'ugwu"
     },
     {
       "surface": "סיני",
-      "gloss": "Sınai"
+      "gloss": "Sinaị"
     },
     {
       "surface": "ונצבת",
-      "gloss": "gị wee guzo"
+      "gloss": "guzo"
     },
     {
       "surface": "לי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "על",
-      "gloss": "n'isi"
+      "gloss": "n'"
     },
     {
       "surface": "ראש",
@@ -64,6 +64,6 @@
       "gloss": "ugwu ahụ"
     }
   ],
-  "timestamp": "2026-08-27T06:36:03.512307403Z",
+  "timestamp": "2026-08-27T18:16:27.989408196Z",
   "model": "glm-5.3"
 }

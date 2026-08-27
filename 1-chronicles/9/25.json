@@ -5,27 +5,27 @@
   "book": "1-chronicles",
   "lang": "ig",
   "chapter": 9,
-  "translation": "Na ụmụnne ha n'obodo nta ha na-abịa maka ụbọchị asaa, site n'oge ruo ⟨⟨ׂɔ́gè⟩⟩ ruo oge, ya na ndị a.",
+  "translation": "Ụmụnne ha n'ime obodo nta ha na-abịarụ maka ụbọchị asaa, site n'oge ruo ⟨n'⟩oge, ya na ndị a.",
   "tokens": [
     {
       "surface": "ואחיהם",
-      "gloss": "na ụmụnne ha"
+      "gloss": "Ụmụnne ha"
     },
     {
       "surface": "בחצריהם",
-      "gloss": "n'obodo nta ha"
+      "gloss": "n'ime obodo nta ha"
     },
     {
       "surface": "לבוא",
-      "gloss": "na-abịa"
+      "gloss": "na-abịarụ"
     },
     {
       "surface": "לשבעת",
-      "gloss": "maka asaa"
+      "gloss": "maka ụbọchị asaa"
     },
     {
       "surface": "הימים",
-      "gloss": "ụbọchị"
+      "gloss": "ụbọchị asaa"
     },
     {
       "surface": "מעת",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עת",
-      "gloss": "oge"
+      "gloss": "n'oge"
     },
     {
       "surface": "עם",
@@ -48,6 +48,6 @@
       "gloss": "ndị a"
     }
   ],
-  "timestamp": "2026-08-27T15:57:31.166919358Z",
+  "timestamp": "2026-08-27T17:58:19.429692016Z",
   "model": "glm-5.3"
 }

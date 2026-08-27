@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 24,
-  "translation": "M ga-ahụ ya, mana ọ bụghị ugbu a; m ga-ele ya anya, mana ọ bụghị nso: kpakpando ga-esi na Yaakov pụta, na mkpạ nke ọchịchị ga-esi na Yisrael bilie, ⟨ו⟩ ga-akụ aka n'akụkụ Moab, ma kpọchasịa ụmụ Shet niile.",
+  "translation": "M na-ahụ ya, ma ọ bụghị ugbu a; m na-ele ya anya, ma ọ bụghị nso; kpakpando ga-esi na Yaakov pụta, na mkpa ga-esi na Yisrael bilie, ⟨ọ⟩ ga-amikpuo akụkụ nke Moab, ⟨ọ⟩ ga-ebibi ụmụ niile nke Shet.",
   "tokens": [
     {
       "surface": "אראנו",
-      "gloss": "m ga-ahụ ya"
+      "gloss": "m na-ahụ ya"
     },
     {
       "surface": "ולא",
-      "gloss": "mana ọ bụghị"
+      "gloss": "ma ọ bụghị"
     },
     {
       "surface": "עתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אשורנו",
-      "gloss": "m ga-ele ya anya"
+      "gloss": "m na-ele ya anya"
     },
     {
       "surface": "ולא",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "דרך",
-      "gloss": "ga-esi… pụta (ga-aga)"
+      "gloss": "ga-esi pụta"
     },
     {
       "surface": "כוכב",
@@ -41,27 +41,27 @@
     },
     {
       "surface": "מיעקב",
-      "gloss": "na Yaakov"
+      "gloss": "si na Yaakov"
     },
     {
       "surface": "וקם",
-      "gloss": "ga-ebili"
+      "gloss": "ga-ebilite"
     },
     {
       "surface": "שבט",
-      "gloss": "mkpạ nke ọchịchị"
+      "gloss": "mkpa"
     },
     {
       "surface": "מישראל",
-      "gloss": "na Yisrael"
+      "gloss": "si na Yisrael"
     },
     {
       "surface": "ומחץ",
-      "gloss": "ga-akụ aka"
+      "gloss": "ga-amikpuo"
     },
     {
       "surface": "פאתי",
-      "gloss": "akụkụ"
+      "gloss": "akụkụ nke"
     },
     {
       "surface": "מואב",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "וקרקר",
-      "gloss": "ga-kpọchasịa"
+      "gloss": "ga-ebibi"
     },
     {
       "surface": "כל",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "ụmụ"
+      "gloss": "ụmụ nke"
     },
     {
       "surface": "שת",
       "gloss": "Shet"
     }
   ],
-  "timestamp": "2026-08-27T07:36:28.069351311Z",
+  "timestamp": "2026-08-27T17:34:20.906259825Z",
   "model": "glm-5.3"
 }

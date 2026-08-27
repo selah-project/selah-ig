@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 6,
-  "translation": "N'ihi na Shelomoh mere kiyo ọla kọpa, o tinyekwaara ya n'etiti ⟨the⟩ ogige: ọgụgụ ise ogologo ya, ise obosara ya, na atọ elu ya; ọ guzoro n'elu ya, wee chụpụrụ aka n'ikpere ya n'ihu nzukọ niile nke Yisrael, wee meghee aka ya eluigwe.",
+  "translation": "N'ihi na Shelomoh mere ikpo ite nke ọla kọpa, wee tinye ya n'etiti ⟨ụlọikwu⟩ ahụ — ogologo ya ọgụọ ise, obosara ya ọgụọ ise, elu ya ọgụọ atọ; o guzoro n'elu ya, wee daa n'ikpere ya n'ọnụ ndị nzukọ nzuzu nke Yisrael nile niile, wee meghee aka ya n'eluigwe.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כיור",
-      "gloss": "kiyo"
+      "gloss": "ikpo ite"
     },
     {
       "surface": "נחשת",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויתנהו",
-      "gloss": "o tinyekwaara ya"
+      "gloss": "wee tinye ya"
     },
     {
       "surface": "בתוך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "העזרה",
-      "gloss": "⟨the⟩ ogige"
+      "gloss": "⟨ụlọikwu⟩ ahụ"
     },
     {
       "surface": "חמש",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אמות",
-      "gloss": "ọgụgụ"
+      "gloss": "ọgụọ"
     },
     {
       "surface": "ארכו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אמות",
-      "gloss": "ọgụgụ"
+      "gloss": "ọgụọ"
     },
     {
       "surface": "רחבו",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ואמות",
-      "gloss": "na ọgụgụ"
+      "gloss": "na ọgụọ"
     },
     {
       "surface": "שלוש",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "ויעמד",
-      "gloss": "ọ guzoro"
+      "gloss": "o guzoro"
     },
     {
       "surface": "עליו",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "ויברך",
-      "gloss": "wee chụpụrụ aka"
+      "gloss": "wee daa n'ikpere"
     },
     {
       "surface": "על",
-      "gloss": "na"
+      "gloss": "n'ọnụ"
     },
     {
       "surface": "ברכיו",
@@ -101,11 +101,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "niile"
+      "gloss": "nile"
     },
     {
       "surface": "קהל",
-      "gloss": "nzukọ"
+      "gloss": "nzukọ nzuzu"
     },
     {
       "surface": "ישראל",
@@ -121,9 +121,9 @@
     },
     {
       "surface": "השמימה",
-      "gloss": "eluigwe"
+      "gloss": "n'eluigwe"
     }
   ],
-  "timestamp": "2026-08-27T16:08:23.947259601Z",
+  "timestamp": "2026-08-27T17:59:04.409821405Z",
   "model": "glm-5.3"
 }

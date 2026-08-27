@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":17,"ref":"deuteronomy 12:17","book":"deuteronomy","lang":"ig","chapter":12,"translation":"I nweghị ike iri n'ọnụ ụzọ gị מaụfọrọ nke ọka gị, na mmanya gị, na mmanụ gị, na ụmụ mbụ nke ehi gị na atụrụ gị, na ndọrọ gị niile ị na-ndọ, na onyinye afọ-ọchịchọ gị, na ntinye aka gị;","tokens":[{"surface":"לא","gloss":"ị nweghị ike"},{"surface":"תוכל","gloss":"iri"},{"surface":"לאכל","gloss":"n'ọnụ ụzọ gị"},{"surface":"בשעריך","gloss":"maụfọrọ"},{"surface":"מעשר","gloss":"nke ọka gị"},{"surface":"דגנך","gloss":"na mmanya gị"},{"surface":"ותירשך","gloss":"na mmanụ gị"},{"surface":"ויצהרך","gloss":"na ụmụ mbụ nke"},{"surface":"ובכרת","gloss":"ehi gị"},{"surface":"בקרך","gloss":"na atụrụ gị"},{"surface":"וצאנך","gloss":"na ndọrọ gị niile"},{"surface":"וכל","gloss":"ndọrọ gị"},{"surface":"נדריך","gloss":"ndị"},{"surface":"אשר","gloss":"ị na-ndọ"},{"surface":"תדר","gloss":"na onyinye afọ-ọchịchọ gị"},{"surface":"ונדבתיך","gloss":"na ntinye aka gị"},{"surface":"ותרומת","gloss":""},{"surface":"ידך","gloss":"aka gị"}],"timestamp":"2026-08-27T08:01:29.043822728Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 12:17",
+  "book": "deuteronomy",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "I nweghị ike iri n'ime ọnụ ụzọ́ gị ihe-nke-iri nke ọka gị, na mmanya-ọhụrụ gị, na mmanụ oliv gị, na ndị mbụ nke ehi gị, na atụrụ gị, na ndị niile i kwere nkwa ha, bụ́ ihe ị ga-ekwu nkwa, na onyinye afọ-ọchịchịrị gị, na onyinye ewelitere nke aka gị:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ọ dịghị"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "i nwere ike"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "n'ime ọnụ ụzọ́ gị"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ihe-nke-iri"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "nke ọka gị"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "na mmanya-ọhụrụ gị"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "na mmanụ oliv gị"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "na ndị mbụ"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "nke ehi gị"
+    },
+    {
+      "surface": "וצאנך",
+      "gloss": "na atụrụ gị"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ndị niile"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nke nkwa gị"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bụ́"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ị ga-ekwu nkwa"
+    },
+    {
+      "surface": "ונדבתיך",
+      "gloss": "na onyonye afọ-ọchịchịrị gị"
+    },
+    {
+      "surface": "ותרומת",
+      "gloss": "na onyinye ewelitere"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "nke aka gị"
+    }
+  ],
+  "timestamp": "2026-08-27T17:36:50.327141409Z",
+  "model": "glm-5.3"
+}

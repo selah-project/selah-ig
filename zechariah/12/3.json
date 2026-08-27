@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Ọ ga-abụ na n'ụbọchị ahụ, m ga-eme ⟨את⟩ Yerushalayim nkume dị arọ maka ⟨the⟩ ndị mmadụ niile; onye ọ bụla na-ebu ya a ga-ebipụ ya nke ọma, ma mmadụ niile nke mba ụwa ga-ezukọta megide ya.",
+  "translation": "Ga-abụ na n'ụbọchị ahụ, m ga-eme ka ⟨את⟩ Yerushalayim bụrụ nkume dị arọ maka ndị niile; onye ọ bụla na-abụ ya ibu ga-akaji onwe ya nke ukwuu, ma ndị niile nke mba ụwa ga-ezukọta megide ya.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "ọ ga-abụ"
+      "gloss": "Ga-abụ na"
     },
     {
       "surface": "ביום",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אשים",
-      "gloss": "m ga-eme"
+      "gloss": "m ga-eme ka … bụrụ"
     },
     {
       "surface": "את",
@@ -42,31 +42,31 @@
     },
     {
       "surface": "לכל",
-      "gloss": "maka niile"
+      "gloss": "maka ndị niile"
     },
     {
       "surface": "העמים",
-      "gloss": "ndị mmadụ"
+      "gloss": "nke"
     },
     {
       "surface": "כל",
-      "gloss": "niile"
+      "gloss": "onye ọ bụla"
     },
     {
       "surface": "עמסיה",
-      "gloss": "na-ebu ya"
+      "gloss": "na-abụ ya ibu"
     },
     {
       "surface": "שרוט",
-      "gloss": "a ga-ebipụ"
+      "gloss": "ga-akaji"
     },
     {
       "surface": "ישרטו",
-      "gloss": "nke ọma"
+      "gloss": "onwe ya nke ukwuu"
     },
     {
       "surface": "ונאספו",
-      "gloss": "ga-ezukọta"
+      "gloss": "ma … ga-ezukọta"
     },
     {
       "surface": "עליה",
@@ -74,17 +74,17 @@
     },
     {
       "surface": "כל",
-      "gloss": "niile"
+      "gloss": "ndị niile"
     },
     {
       "surface": "גויי",
-      "gloss": "mba"
+      "gloss": "nke mba"
     },
     {
       "surface": "הארץ",
       "gloss": "ụwa"
     }
   ],
-  "timestamp": "2026-08-27T13:08:03.692615301Z",
+  "timestamp": "2026-08-27T17:53:05.117495806Z",
   "model": "glm-5.3"
 }

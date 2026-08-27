@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 5,
-  "translation": "Ma ọ bụ obi ⟨the⟩ mmadụ, ọ bụrụ na ọ ṅụ̀ iyi ikwu okwu ọnụ — ime ihe ọjọọ ma ọ bụ ime ihe ọma — ihe ọ bụla nke mmadụ ga-ekwu site na à ṅụ̀, ma ezochie ya n'ebe ya, ma ⟨ọ⟩ mata, ọ ga-abụ onye ikpe mara maka otu n'ime ihe ndị a.",
+  "translation": "Ma ọ bụrụ na mmadụ ṅụọ iyi ikwu okwu site n'egbugbụ imebi ma ọ bụ imezi — maka ihe ọ bụla nke mmadụ ga-ekwu site na iyi — ma zọọ ya anya; mgbe ọ maara ya, mmehie dị ya maka otu n'ime ihe ndị a.",
   "tokens": [
     {
       "surface": "או",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נפש",
-      "gloss": "obi ⟨the⟩ mmadụ"
+      "gloss": "mmadụ"
     },
     {
       "surface": "כי",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "תשבע",
-      "gloss": "ọ ṅụ̀ iyi"
+      "gloss": "ṅụọ iyi"
     },
     {
       "surface": "לבטא",
-      "gloss": "ikwu okwu ọnụ"
+      "gloss": "ikwu okwu n'ụzọ nzuzu"
     },
     {
       "surface": "בשפתים",
-      "gloss": "site n'ọnụ"
+      "gloss": "site n'egbugbụ"
     },
     {
       "surface": "להרע",
-      "gloss": "ime ihe ọjọọ"
+      "gloss": "imebi"
     },
     {
       "surface": "או",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "להיטיב",
-      "gloss": "ime ihe ọma"
+      "gloss": "imezi"
     },
     {
       "surface": "לכל",
-      "gloss": "ihe ọ bụla"
+      "gloss": "maka ihe ọ bụla"
     },
     {
       "surface": "אשר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "יבטא",
-      "gloss": "ga-ekwu"
+      "gloss": "ga-ekwu n'ụzọ nzuzu"
     },
     {
       "surface": "האדם",
@@ -61,27 +61,27 @@
     },
     {
       "surface": "בשבעה",
-      "gloss": "site na à ṅụ̀"
+      "gloss": "site na iyi"
     },
     {
       "surface": "ונעלם",
-      "gloss": "ma ezochie"
+      "gloss": "ma zọọ anya"
     },
     {
       "surface": "ממנו",
-      "gloss": "n'ebe ya"
+      "gloss": "ya"
     },
     {
       "surface": "והוא",
-      "gloss": "ma ⟨ọ⟩"
+      "gloss": "ma ọ"
     },
     {
       "surface": "ידע",
-      "gloss": "mata"
+      "gloss": "maara"
     },
     {
       "surface": "ואשם",
-      "gloss": "ga-abụ onye ikpe mara"
+      "gloss": "mmehie dị ya"
     },
     {
       "surface": "לאחת",
@@ -92,6 +92,6 @@
       "gloss": "n'ime ihe ndị a"
     }
   ],
-  "timestamp": "2026-08-27T06:47:29.063041230Z",
+  "timestamp": "2026-08-27T17:32:31.767252886Z",
   "model": "glm-5.3"
 }

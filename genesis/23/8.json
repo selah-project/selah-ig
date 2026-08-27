@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 23,
-  "translation": "Ma ọ sụrụ ⟨את⟩ ha okwu, na-ekwu, Ọ bụrụ na ọ dị ⟨את⟩ unu mmasị na ⟨the⟩ aka m lie ⟨את⟩ onye nwụrụ anwụ m n'ihu m, nụ m, ma gbatịa aka maka m na Efron, nwa Tsochar;",
+  "translation": "Ọ sụrụ ha okwu, na-ekwu, sị: Ọ bụrụ na ⟨את⟩ obi unu dị ka m ga-eli ⟨את⟩ onwu m n'ihu m, nunụ m, gakwuru Efron nwa Tsohar maka m.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "ma ọ sụrụ...okwu"
+      "gloss": "Ọ sụrụ okwu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ ha"
     },
     {
       "surface": "לאמר",
@@ -25,29 +25,29 @@
     },
     {
       "surface": "יש",
-      "gloss": "ọ dị"
+      "gloss": "dị"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mmasị unu"
+      "marks": "obi unu"
     },
     {
       "surface": "נפשכם",
-      "gloss": "mmasị unu"
+      "gloss": "obi unu"
     },
     {
       "surface": "לקבר",
-      "gloss": "na...lie"
+      "gloss": "ka a ga-eli"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onye nwụrụ anwụ m"
+      "marks": "onwu m"
     },
     {
       "surface": "מתי",
-      "gloss": "onye nwụrụ anwụ m"
+      "gloss": "onwu m"
     },
     {
       "surface": "מלפני",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "שמעוני",
-      "gloss": "nụ m"
+      "gloss": "nunụ m"
     },
     {
       "surface": "ופגעו",
-      "gloss": "ma gbatịa aka"
+      "gloss": "gakwuru"
     },
     {
       "surface": "לי",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "בעפרון",
-      "gloss": "na Efron"
+      "gloss": "Efron"
     },
     {
       "surface": "בן",
@@ -75,9 +75,9 @@
     },
     {
       "surface": "צחר",
-      "gloss": "Tsochar"
+      "gloss": "Tsohar"
     }
   ],
-  "timestamp": "2026-08-27T05:38:53.935580957Z",
+  "timestamp": "2026-08-27T17:29:25.316793168Z",
   "model": "glm-5.3"
 }

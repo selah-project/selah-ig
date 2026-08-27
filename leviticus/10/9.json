@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 10,
-  "translation": "Mmanya na ihe-ṅụ-na-eme-ṅụsịa, አla አ ṅụla — gị na ụmụ gị ṅụrụ n'akụkụ gị, mgbe unu na-abata n'ụlọikwu nzukọ, ka unu ghara ịnwụ; iwu-adịgide-adị ruo ọgbọ unu.",
+  "translation": "Mmanya na ṅụmanya na-eme njula, echela iṅụ — gị na ụmụ gị ⟨את⟩ na gị — n'ịbata unu ⟨el⟩ ⟨n'ime⟩ ụlọikwu nzukọ, ka unu ghara ịnwụ; ọ bụ iwu ebighị ebi maka ọgbọ unu.",
   "tokens": [
     {
       "surface": "יין",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "ושכר",
-      "gloss": "na ihe-ṅụ-na-eme-ṅụsịa"
+      "gloss": "na ṅụmanya na-eme njula"
     },
     {
       "surface": "אל",
-      "gloss": "ọ dịla"
+      "gloss": "echela"
     },
     {
       "surface": "תשת",
-      "gloss": "ṅụla"
+      "gloss": "iṅụ"
     },
     {
       "surface": "אתה",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "n'akụkụ gị"
+      "gloss": "⟨את⟩ na gị",
+      "marks": "gị n'onwe gị"
     },
     {
       "surface": "בבאכם",
-      "gloss": "mgbe unu na-abata"
+      "gloss": "n'ịbata unu"
     },
     {
       "surface": "אל",
-      "gloss": "n'"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "אהל",
@@ -58,21 +58,21 @@
     },
     {
       "surface": "תמתו",
-      "gloss": "unu anwụọ"
+      "gloss": "inuwụ"
     },
     {
       "surface": "חקת",
-      "gloss": "iwu-adịgide-adị"
+      "gloss": "iwu"
     },
     {
       "surface": "עולם",
-      "gloss": "ruo mgbe ebighị"
+      "gloss": "ebighị ebi"
     },
     {
       "surface": "לדרתיכם",
-      "gloss": "ruo ọgbọ unu"
+      "gloss": "maka ọgbọ unu"
     }
   ],
-  "timestamp": "2026-08-27T06:50:43.453329983Z",
+  "timestamp": "2026-08-27T17:32:23.278686617Z",
   "model": "glm-5.3"
 }

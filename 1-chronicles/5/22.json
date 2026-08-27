@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ig",
   "chapter": 5,
-  "translation": "Maka ọtụtụ ndị e gbupụrụ dara, maka ⟨ה⟩agha ahụ sitere n'aka האלהים; ha wee bi n'ọnọdụ ha ruo mgbe a chụgara ha n'ọdịmma.",
+  "translation": "Maka ọtụtụ ndị e merụrụ ahụ dara, maka nke Elohim ka ⟨⟨agha⟩⟩ ahụ bụ; ha wee biri n'ọnọdụ ha ruo mgbe a dọpụrụ ha n'agha.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "חללים",
-      "gloss": "ndị e gbupụrụ"
+      "gloss": "ndị e merụrụ ahụ"
     },
     {
       "surface": "רבים",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "מהאלהים",
-      "gloss": "sitere n'aka האלהים"
+      "gloss": "nke Elohim"
     },
     {
       "surface": "המלחמה",
-      "gloss": "agha ahụ"
+      "gloss": "⟨agha⟩ ahụ"
     },
     {
       "surface": "וישבו",
-      "gloss": "ha wee bi"
+      "gloss": "ha wee biri"
     },
     {
       "surface": "תחתיהם",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "הגלה",
-      "gloss": "a chụgara ha n'ọdịmma"
+      "gloss": "a dọpụrụ ha n'agha"
     }
   ],
-  "timestamp": "2026-08-27T15:55:00.497443896Z",
+  "timestamp": "2026-08-27T17:58:26.736565177Z",
   "model": "glm-5.3"
 }

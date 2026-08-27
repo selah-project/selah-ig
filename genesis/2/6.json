@@ -5,32 +5,32 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 2,
-  "translation": "Ma <n>uzu mmiri<\/n> na-ebili si n'<n>ụwa<\/n> ahụ, wee ṅụọ ⟨את⟩ <n>ihu<\/n> nke <n>ala<\/n> ahụ niile.",
+  "translation": "Na ⟪uzu⟫ si n'⟨ala⟩ ahụ bilie, ma ṅụọsịa ⟨את⟩ ihu ⟨ala⟩ ahụ niile.",
   "tokens": [
     {
       "surface": "ואד",
-      "gloss": "ma uzu mmiri"
+      "gloss": "na uzu"
     },
     {
       "surface": "יעלה",
-      "gloss": "na-ebili"
+      "gloss": "bilie"
     },
     {
       "surface": "מן",
-      "gloss": "si"
+      "gloss": "si na"
     },
     {
       "surface": "הארץ",
-      "gloss": "n'ụwa ahụ"
+      "gloss": "ala"
     },
     {
       "surface": "והשקה",
-      "gloss": "wee ṅụọ"
+      "gloss": "ma ṅụọsịa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ihu nke ala ahụ niile"
+      "marks": "ihu ⟨ala⟩ ahụ niile"
     },
     {
       "surface": "כל",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "nke ala ahụ"
+      "gloss": "ala"
     }
   ],
-  "timestamp": "2026-08-27T05:26:01.917205858Z",
+  "timestamp": "2026-08-27T17:28:55.980479929Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,27 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Ha anyị zigara ndị ozi gara ndị bi na Kiryat-Ye'arim, na-ekwu, \"Ndị Pelishtiy eweghachitela ⟨את⟩ igbe nke Yahwe; dalata, were ya bulie gaa n'ụnọ anyị.\"",
+  "translation": "Ha zigara ndị obodo Kiryat-Ye'arim ozi, sị: Ndị Filistia eweghachitela ⟨את⟩ igbe Yahwe; bata, were ⟨את⟩ ya rịgoro gaa n'ọnụ unu.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "ha anyị zigara"
+      "gloss": "Ha zigara"
     },
     {
       "surface": "מלאכים",
-      "gloss": "ndị ozi"
+      "gloss": "ozi"
     },
     {
       "surface": "אל",
-      "gloss": "gara"
+      "gloss": "ra"
     },
     {
       "surface": "יושבי",
-      "gloss": "ndị bi na"
+      "gloss": "ndị obodo"
     },
     {
       "surface": "קרית",
-      "gloss": "Kiryat"
+      "gloss": "Kiryat-"
     },
     {
       "surface": "יערים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "na-ekwu"
+      "gloss": "sị"
     },
     {
       "surface": "השבו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Ndị Pelishtiy"
+      "gloss": "Ndị Filistia"
     },
     {
       "surface": "את",
@@ -58,22 +58,22 @@
     },
     {
       "surface": "רדו",
-      "gloss": "dalata"
+      "gloss": "bata"
     },
     {
       "surface": "העלו",
-      "gloss": "were ya bulie"
+      "gloss": "were rịgoro"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ya (igbe)"
+      "gloss": "⟨את⟩",
+      "marks": "ya"
     },
     {
       "surface": "אליכם",
-      "gloss": "gaa n'ụnọ anyị"
+      "gloss": "n'ọnụ unu"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.260715343Z",
+  "timestamp": "2026-08-27T17:39:12.510130676Z",
   "model": "glm-5.3"
 }

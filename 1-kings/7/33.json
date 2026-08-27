@@ -5,43 +5,43 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 7,
-  "translation": "Ọrụ ⟨the⟩ ụkwụ-ala ahụ yiri ọrụ ụkwụ-ala nke ụgbọ agha: aka ha, hub ha, spoke ha, na ogwe ha — ihe niile bụ nke a kwụrụ akwụrụ.",
+  "translation": "Ọrụ ⟨nke⟩ ụkwụ-igwe ndị ahụ dị ka ọrụ ⟨nke⟩ ụkwụ-igwe ⟨nke⟩ ụgbọ-ala agha: aka ha, oghere-ha, ihe-ejikọta ha na mkpọ ha — ihe niile bụ ihe a kụrụ akụ.",
   "tokens": [
     {
       "surface": "ומעשה",
-      "gloss": "ọrụ"
+      "gloss": "ọrụ nke"
     },
     {
       "surface": "האופנים",
-      "gloss": "ụkwụ-ala ndị ahụ"
+      "gloss": "ụkwụ-igwe ndị ahụ"
     },
     {
       "surface": "כמעשה",
-      "gloss": "dịka ọrụ"
+      "gloss": "dị ka ọrụ nke"
     },
     {
       "surface": "אופן",
-      "gloss": "ụkwụ-ala"
+      "gloss": "ụkwụ-igwe"
     },
     {
       "surface": "המרכבה",
-      "gloss": "ụgbọ agha"
+      "gloss": "ụgbọ-ala agha"
     },
     {
       "surface": "ידותם",
-      "gloss": "aka ha"
+      "gloss": "aka ha (mkpọda-ụkwụ)"
     },
     {
       "surface": "וגביהם",
-      "gloss": "hub ha"
+      "gloss": "oghere-ha"
     },
     {
       "surface": "וחשקיהם",
-      "gloss": "spoke ha"
+      "gloss": "ihe-ejikọta ha"
     },
     {
       "surface": "וחשריהם",
-      "gloss": "ogwe ha"
+      "gloss": "mkpọ ha"
     },
     {
       "surface": "הכל",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "מוצק",
-      "gloss": "a kwụrụ akwụrụ"
+      "gloss": "a kụrụ akụ"
     }
   ],
-  "timestamp": "2026-08-27T16:35:42.945428212Z",
+  "timestamp": "2026-08-27T17:42:36.044142039Z",
   "model": "glm-5.3"
 }

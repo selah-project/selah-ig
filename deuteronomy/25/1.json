@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 25,
-  "translation": "Mgbe a ga-enwe esemokwu n'etiti ndị ikom, ha ga-eru ⟨את⟩ ikpe, ha ga-ekpe ha ikpe, ha ga-ekwupụta ⟨את⟩ onye ziri ezi dịka onye ziri ezi, ha ga-ekwupụta ⟨את⟩ onye ọjọọ dịka onye ọjọọ.",
+  "translation": "Mgbe esemokwu dị n'etiti ụmụ nwoke, ha ga-abata n'ikpe, ha ga-ekpe ha ikpe, wee kwuo na onye ziri ezi ziri ezi, ma kwuo na onye ọjọọ bụ onye ọjọọ ⟨את⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "mgbe"
+      "gloss": "Mgbe"
     },
     {
       "surface": "יהיה",
-      "gloss": "a ga-enwe"
+      "gloss": "dị"
     },
     {
       "surface": "ריב",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "אנשים",
-      "gloss": "ndị ikom"
+      "gloss": "ụmụ nwoke"
     },
     {
       "surface": "ונגשו",
-      "gloss": "ha ga-eru"
+      "gloss": "ha ga-abata"
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "n'"
     },
     {
       "surface": "המשפט",
-      "gloss": "⟨the⟩ ikpe"
+      "gloss": "ikpe"
     },
     {
       "surface": "ושפטום",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "והצדיקו",
-      "gloss": "ha ga-ekwupụta na ọ ziri ezi"
+      "gloss": "wee kwuo na ọ ziri ezi"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "והרשיעו",
-      "gloss": "ha ga-ekwupụta na ọ bụ onye ọjọọ"
+      "gloss": "ma kwuo na ọ bụ onye ọjọọ"
     },
     {
       "surface": "את",
@@ -70,6 +70,6 @@
       "gloss": "onye ọjọọ"
     }
   ],
-  "timestamp": "2026-08-27T08:08:31.733415925Z",
+  "timestamp": "2026-08-27T17:36:17.489066553Z",
   "model": "glm-5.3"
 }

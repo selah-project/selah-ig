@@ -5,16 +5,16 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 21,
-  "translation": "Ha wee lie ⟨את⟩ ọkpụkpụ Shaul na Yehonatan nwa ya n'ala Binyamin, na Tzela, n'ili Kish nna ya; ha wee me ihe niile nke eze nyere iwu, Elohim wee yere ⟨the⟩ ala mgbe nke ahụ gasịrị.",
+  "translation": "Ha liekwara ⟨את⟩ ọkpụkpụ Shaül na ⟨את⟩ ọkpụkpụ Yehonatan nwa ya n'ala Benyamin, na Tzela, n'ili Kish nna ya; ha mekwara ihe niile nke eze nyere iwu, ma Elohem we ṅụrịọ̀ maka ala ahụ mgbe nke a gasịrị.",
   "tokens": [
     {
       "surface": "ויקברו",
-      "gloss": "ha wee lie"
+      "gloss": "ha liekwara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọkpụkpụ"
+      "marks": "ọkpụkpụ Shaül na ọkpụkpụ Yehonatan"
     },
     {
       "surface": "עצמות",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Shaul"
+      "gloss": "Shaül"
     },
     {
       "surface": "ויהונתן",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "בנימן",
-      "gloss": "Binyamin"
+      "gloss": "Benyamin"
     },
     {
       "surface": "בצלע",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ויעשו",
-      "gloss": "ha wee me"
+      "gloss": "ha mekwara"
     },
     {
       "surface": "כל",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "ויעתר",
-      "gloss": "Elohim wee yere"
+      "gloss": "we ṅụrịọ̀ maka"
     },
     {
       "surface": "אלהים",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "mgbe"
+      "gloss": "mgbe…gasịrị"
     },
     {
       "surface": "כן",
-      "gloss": "nke ahụ gasịrị"
+      "gloss": "nke a"
     }
   ],
-  "timestamp": "2026-08-27T09:44:18.685177050Z",
+  "timestamp": "2026-08-27T17:41:25.187565980Z",
   "model": "glm-5.3"
 }

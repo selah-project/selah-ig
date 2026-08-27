@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "ig",
   "chapter": 23,
-  "translation": "N'ihi na Onye mgbapụta ha nke siri ike, יהweh — ⟨הוא⟩ ga-agba akwụkwọ ikpe ha ⟨את⟩ megide gị.",
+  "translation": "Maka onye mgbapụta ha siri ike; ọ bụ ⟨onwe ya⟩ ga-agbachitere ikpe ha ⟨את⟩ megide gị.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "n'ihi na"
+      "gloss": "maka"
     },
     {
       "surface": "גאלם",
-      "gloss": "Onye mgbapụta ha"
+      "gloss": "onye mgbapụta ha"
     },
     {
       "surface": "חזק",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨הוא⟩"
+      "gloss": "⟨onwe ya⟩"
     },
     {
       "surface": "יריב",
-      "gloss": "ga-agba akwụkwọ ikpe"
+      "gloss": "ga-agbachitere ikpe"
     },
     {
       "surface": "את",
@@ -41,6 +41,6 @@
       "gloss": "⟨את⟩ megide gị"
     }
   ],
-  "timestamp": "2026-08-27T14:28:19.985278727Z",
+  "timestamp": "2026-08-27T18:01:29.839613370Z",
   "model": "glm-5.3"
 }

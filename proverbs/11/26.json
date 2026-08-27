@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "ig",
   "chapter": 11,
-  "translation": "Onye na-ezo ⟨ה⟩ ọka, ndị ⟨ה⟩ mba ahụ ga-akụ ya ọnụ; ma ngọzi dị n'isi onye na-ere ọka.",
+  "translation": "Onye na-eyere ọka, ndị mmadụ ga-akụọ ya àgwà ọnụ; mana ngọzi ga-dị n'isi onye na-ere ya.",
   "tokens": [
     {
       "surface": "מנע",
-      "gloss": "onye na-ezo"
+      "gloss": "na-eyere"
     },
     {
       "surface": "בר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "יקבהו",
-      "gloss": "ha ga-akụ ya ọnụ"
+      "gloss": "ga-akụọ ya àgwà ọnụ"
     },
     {
       "surface": "לאום",
-      "gloss": "mba"
+      "gloss": "ndị mmadụ"
     },
     {
       "surface": "וברכה",
-      "gloss": "ma ngọzi"
+      "gloss": "mana ngọzi"
     },
     {
       "surface": "לראש",
@@ -36,6 +36,6 @@
       "gloss": "onye na-ere ọka"
     }
   ],
-  "timestamp": "2026-08-27T14:22:19.799283732Z",
+  "timestamp": "2026-08-27T17:55:18.220039523Z",
   "model": "glm-5.3"
 }

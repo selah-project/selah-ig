@@ -5,8 +5,61 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 47,
-  "translation": "Nọdụ ala n'udo, ma banye n'ọchịchịrị, nwa nwanyị nke Kasdim, maka ọ dighịkwa mfe — agaghị akpọ gị ọzọ ⟨את⟩ nwayị nke alaeze.",
-  "tokens": [],
-  "timestamp": "2026-08-27T11:02:57.735427211Z",
+  "translation": "Nọdụ ala n'udo ma banye n'ọchịchịrị, nwa nwanyị nke Kasdim, maka na agaghị akpọọ gị ọzọ nwa-ada nke alaeze ndị ahụ.",
+  "tokens": [
+    {
+      "surface": "שבי",
+      "gloss": "nọdụ ala"
+    },
+    {
+      "surface": "דומם",
+      "gloss": "n'udo"
+    },
+    {
+      "surface": "ובאי",
+      "gloss": "ma banye"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "n'ọchịchịrị"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nwa nwanyị"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "nke Kasdim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aghaghị"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "ọzọ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ha ga-akpọ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "nwa-ada"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "nke alaeze ndị ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T17:45:50.046452327Z",
   "model": "glm-5.3"
 }

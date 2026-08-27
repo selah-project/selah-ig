@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "ig",
   "chapter": 8,
-  "translation": "nke eze nyere ndị Juu nọ n'obodo ọ bụla ka ha gbakọọ ọnụ ma guzo maka ndụ ha, ibibi, igbu, na ime ka ṅkwaa ⟨את⟩ ike niile nke mme na nke mpaghara ndị na-emetụta ha aka ike ⟨את⟩ ⟨אתם⟩ ụmụaka na ụmụ nwanyị, na iwere ihe ha dị ka ihe mwakpo.",
+  "translation": "nke eze nyere ndị Yehuda nọ n'obodo ọ bụla, ka ha gbakọọ ọnụ ma guzo maka ndụ ha, iji bibie, igbu, na ime ka ihe niile ike nke ndị na nke mpaghara ndị na-emenye ha ihe, ⟨את⟩ ụmụaka na ụmụnwaanyị, na ihe onwunwe ha kwa, bụ́ ihe ha ga-epụrụ",
   "tokens": [
     {
       "surface": "אשר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "eze nyere"
+      "gloss": "nyere"
     },
     {
       "surface": "המלך",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ליהודים",
-      "gloss": "ndị Juu"
+      "gloss": "ndị Yehuda"
     },
     {
       "surface": "אשר",
-      "gloss": "ndị nọ"
+      "gloss": "ndị"
     },
     {
       "surface": "בכל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ועיר",
-      "gloss": "na obodo ọ bụla"
+      "gloss": "na obodo"
     },
     {
       "surface": "להקהל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "להשמיד",
-      "gloss": "ibibi"
+      "gloss": "iji bibie"
     },
     {
       "surface": "ולהרג",
@@ -65,12 +65,12 @@
     },
     {
       "surface": "ולאבד",
-      "gloss": "na ime ka ṅkwaa"
+      "gloss": "na ime ka ihe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ike niile"
+      "marks": "ụmụaka na ụmụnwaanyị"
     },
     {
       "surface": "כל",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "nke mme"
+      "gloss": "nke ndị"
     },
     {
       "surface": "ומדינה",
@@ -90,12 +90,11 @@
     },
     {
       "surface": "הצרים",
-      "gloss": "ndị na-emetụta ha aka ike"
+      "gloss": "ndị na-emenye ha ihe"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "ụmụaka"
+      "gloss": "⟨את⟩ ha"
     },
     {
       "surface": "טף",
@@ -103,17 +102,17 @@
     },
     {
       "surface": "ונשים",
-      "gloss": "na ụmụ nwanyị"
+      "gloss": "na ụmụnwaanyị"
     },
     {
       "surface": "ושללם",
-      "gloss": "na ihe ha"
+      "gloss": "na ihe onwunwe ha"
     },
     {
       "surface": "לבוז",
-      "gloss": "di ka ihe mwakpo"
+      "gloss": "bụ́ ihe ha ga-epụrụ"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.231340665Z",
+  "timestamp": "2026-08-27T17:57:12.616144081Z",
   "model": "glm-5.3"
 }

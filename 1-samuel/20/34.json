@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":34,"ref":"1-samuel 20:34","book":"1-samuel","lang":"ig","chapter":20,"translation":"Yehonatan bilite site na ⟨the⟩ tebụl n'ịkasi iwe, o erughị nri n'ụbọchị nke abụọ nke ọnwa, n'ihi na o nwere mwute maka David, n'ihi na nna ya nyoro ya ihere.","tokens":[{"surface":"ויקם","gloss":"bilite"},{"surface":"יהונתן","gloss":"Yehonatan"},{"surface":"מעם","gloss":"site na"},{"surface":"השלחן","gloss":"tebụl"},{"surface":"בחרי","gloss":"n'ịkasi"},{"surface":"אף","gloss":"iwe"},{"surface":"ולא","gloss":"o erughị"},{"surface":"אכל","gloss":"ri"},{"surface":"ביום","gloss":"n'ụbọchị"},{"surface":"החדש","gloss":"nke ọnwa"},{"surface":"השני","gloss":"nke abụọ"},{"surface":"לחם","gloss":"nri"},{"surface":"כי","gloss":"n'ihi na"},{"surface":"נעצב","gloss":"o nwere mwute"},{"surface":"אל","gloss":"maka"},{"surface":"דוד","gloss":"David"},{"surface":"כי","gloss":"n'ihi na"},{"surface":"הכלמו","gloss":"nyoro ya ihere"},{"surface":"אביו","gloss":"nna ya"}],"timestamp":"2026-08-27T09:15:46.277479589Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-samuel 20:34",
+  "book": "1-samuel",
+  "lang": "ig",
+  "chapter": 20,
+  "translation": "Yehonatan bilite n'aka ⟨⟨tebụl⟩⟩ n'iwe ọkụ, ọ dịghịkwa ihe ọ riri nri n'ụbọchị nke abụọ nke ọnwa ọhụrụ, n'ihi na o nwewere ihe mmerụ ahụ maka David, n'ihi na nna ya kwara ya ihere.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bilite"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "⟨tebụl⟩"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "n'iwe ọkụ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ọ dịghịkwa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "riri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "nke ọnwa ọhụrụ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "נעצב",
+      "gloss": "o nwewere ihe mmerụ ahụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "הכלמו",
+      "gloss": "kwara ya ihere"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nna ya"
+    }
+  ],
+  "timestamp": "2026-08-27T17:39:52.422746794Z",
+  "model": "glm-5.3"
+}

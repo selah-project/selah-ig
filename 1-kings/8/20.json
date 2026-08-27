@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 8,
-  "translation": "Yahwe wee mezuo ⟨את⟩ okwu Ya nke Ọ gwara, m bilie n'ọnọdụ David nna m, ma nọrọ n'ocheeze Israel, dịka Yahwe gwara; m wee wuo ⟨the⟩ ụlọ ahụ maka aha Yahwe, Elohim nke Israel.",
+  "translation": "Yahwe wee mezuo ⟨את⟩ okwu Ya nke Ọ gwuru; m bilikwa n'ọnọdụ David, nna m, nọkwa n'ocheeze Israel, dịka Yahwe si kwuo; m wee wuo ụlọ ahụ maka aha Yahwe, Elohim nke Israel.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "mezuo"
+      "gloss": "wee mezuo"
     },
     {
       "surface": "יהוה",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "Ọ gwara"
+      "gloss": "Ọ gwuru"
     },
     {
       "surface": "ואקם",
-      "gloss": "m bilie"
+      "gloss": "m bilikwa"
     },
     {
       "surface": "תחת",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ואשב",
-      "gloss": "ma nọrọ"
+      "gloss": "nọkwa"
     },
     {
       "surface": "על",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "gwara"
+      "gloss": "si kwuo"
     },
     {
       "surface": "יהוה",
@@ -94,13 +94,13 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohim nke"
     },
     {
       "surface": "ישראל",
       "gloss": "Israel"
     }
   ],
-  "timestamp": "2026-08-27T09:57:22.266420954Z",
+  "timestamp": "2026-08-27T17:43:17.700445771Z",
   "model": "glm-5.3"
 }

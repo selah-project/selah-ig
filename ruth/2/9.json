@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "ig",
   "chapter": 2,
-  "translation": "Anya gị dịrị n'ọhịa nke ha na-ewe ihe ubi, ma ị soro ha; ọ bụghị na m nyere ⟨את⟩ ụmụ okorobịa ndị ahụ iwu ka ha ghara imetụ gị aka? Mgbe akpọ gị nwụrụ, ị ga-aga ⟨the⟩ ite ndị ahụ, were ṅụọ n'ihe ụmụ okorobịa ndị ahụ na-adọ.",
+  "translation": "Anya gị ga-adị n'ubi ha na-akụ, ma i soro ụmụ nwaanyị ahụ; Ọ bụghị na m nyere ⟨את⟩ ụmụ nwoke ahụ iwu ka ha ghara ịmetụ aka gị? Ị na-agụ mmiri, gaa n'olulu mmiri ndị ahụ, ma ṅụọ n'ihe ụmụ nwoke ahụ gwụrụ.",
   "tokens": [
     {
       "surface": "עיניך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "n'ọhịa"
+      "gloss": "n'ubi"
     },
     {
       "surface": "אשר",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "יקצרון",
-      "gloss": "ha na-ewe ihe ubi"
+      "gloss": "ha na-akụ"
     },
     {
       "surface": "והלכת",
-      "gloss": "ị ga-aga"
+      "gloss": "ma i soro"
     },
     {
       "surface": "אחריהן",
-      "gloss": "soro ha"
+      "gloss": "ụmụ nwaanyị ahụ"
     },
     {
       "surface": "הלוא",
@@ -42,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ụmụ okorobịa ndị ahụ"
+      "marks": "ụmụ nwoke ahụ"
     },
     {
       "surface": "הנערים",
-      "gloss": "ụmụ okorobịa ndị ahụ"
+      "gloss": "ụmụ nwoke ahụ"
     },
     {
       "surface": "לבלתי",
@@ -54,27 +54,27 @@
     },
     {
       "surface": "נגעך",
-      "gloss": "imetụ gị aka"
+      "gloss": "ịmetụ aka gị"
     },
     {
       "surface": "וצמת",
-      "gloss": "mgbe akpọ gị nwụrụ"
+      "gloss": "ị na-agụ mmiri"
     },
     {
       "surface": "והלכת",
-      "gloss": "ị ga-aga"
-    },
-    {
-      "surface": "אל",
       "gloss": "gaa"
     },
     {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
       "surface": "הכלים",
-      "gloss": "ite ndị ahụ"
+      "gloss": "olulu mmiri ndị ahụ"
     },
     {
       "surface": "ושתית",
-      "gloss": "were ṅụọ"
+      "gloss": "ma ṅụọ"
     },
     {
       "surface": "מאשר",
@@ -82,13 +82,13 @@
     },
     {
       "surface": "ישאבון",
-      "gloss": "ha na-adọ"
+      "gloss": "ha gwụrụ"
     },
     {
       "surface": "הנערים",
-      "gloss": "ụmụ okorobịa ndị ahụ"
+      "gloss": "ụmụ nwoke ahụ"
     }
   ],
-  "timestamp": "2026-08-27T15:04:44.444105066Z",
+  "timestamp": "2026-08-27T17:56:55.921039713Z",
   "model": "glm-5.3"
 }

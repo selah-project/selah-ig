@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ig",
   "chapter": 13,
-  "translation": "Ma Dauid enyeghị ⟨את⟩ akpa ahụ n'aka ya, n'obodo Dauid, kama ọ tụgharịrị ya n'ụlọ Oved-Edom onye Giti.",
+  "translation": "Ma Davịd ewepụtaghị ⟨את⟩ igbe ọrụ ahụ n'ebe ọ nọ, bụ obodo Davịd, kama ọ tigharịrị ya n'ụlọ Oved-Edom, onye Gita.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,28 +13,28 @@
     },
     {
       "surface": "הסיר",
-      "gloss": "tinyeghị n'aka"
+      "gloss": "ewepụtaghị"
     },
     {
       "surface": "דויד",
-      "gloss": "Dauid"
+      "gloss": "Davịd"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "akpa ahụ"
+      "marks": "igbe ọrụ ahụ"
     },
     {
       "surface": "הארון",
-      "gloss": "akpa ⟨the⟩ ahụ"
+      "gloss": "igbe ọrụ ahụ"
     },
     {
       "surface": "אליו",
-      "gloss": "n'aka ya"
+      "gloss": "n'ebe ọ nọ"
     },
     {
       "surface": "אל",
-      "gloss": "na"
+      "gloss": "bụ"
     },
     {
       "surface": "עיר",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Dauid"
+      "gloss": "Davịd"
     },
     {
       "surface": "ויטהו",
-      "gloss": "ọ tụgharịrị ya"
+      "gloss": "ọ tigharịrị ya"
     },
     {
       "surface": "אל",
-      "gloss": "ga na"
+      "gloss": "n'"
     },
     {
       "surface": "בית",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "הגתי",
-      "gloss": "onye Giti"
+      "gloss": "onye Gita"
     }
   ],
-  "timestamp": "2026-08-27T15:59:21.534696347Z",
+  "timestamp": "2026-08-27T17:58:34.276868485Z",
   "model": "glm-5.3"
 }

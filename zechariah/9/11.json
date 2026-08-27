@@ -5,40 +5,40 @@
   "book": "zechariah",
   "lang": "ig",
   "chapter": 9,
-  "translation": "Ọ bụghị naanị gị — n'ihi ọbara nke ọgbụgba-ndụ gị — ka m zipụrụ ndị a chụrụ n'agbụ gị n'olulu mmiri nke enweghị mmiri n'ime ya.",
+  "translation": "Ọzọkwa gị, n'ọbara nke ọgbụgba-ndụ gị, ezipụla m ⟨את⟩ ndị mkpọrọ gị site n'olulu e nweghị mmiri n'ime ya.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "ọ bụghị naanị"
+      "gloss": "ọzọkwa"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "gị"
+      "gloss": "gị",
+      "marks": "gị (n'ọbara nke ọgbụgba-ndụ gị)"
     },
     {
       "surface": "בדם",
-      "gloss": "n'ihi ọbara"
+      "gloss": "n'ọbara"
     },
     {
       "surface": "בריתך",
-      "gloss": "nke ọgbụgba-ndụ gị"
+      "gloss": "ọgbụgba-ndụ gị"
     },
     {
       "surface": "שלחתי",
-      "gloss": "ka m zipụrụ"
+      "gloss": "ezipụla m"
     },
     {
       "surface": "אסיריך",
-      "gloss": "ndị a chụrụ n'agbụ gị"
+      "gloss": "ndị mkpọrọ gị"
     },
     {
       "surface": "מבור",
-      "gloss": "n'olulu mmiri"
+      "gloss": "site n'olulu"
     },
     {
       "surface": "אין",
-      "gloss": "nke enweghị"
+      "gloss": "e nweghị"
     },
     {
       "surface": "מים",
@@ -49,6 +49,6 @@
       "gloss": "n'ime ya"
     }
   ],
-  "timestamp": "2026-08-27T13:06:38.149316875Z",
+  "timestamp": "2026-08-27T17:52:27.871733106Z",
   "model": "glm-5.3"
 }

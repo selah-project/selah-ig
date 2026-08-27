@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 8,
-  "translation": "Ka anya gị megheere n'⟨the⟩ ụlọ a n'abalị na n'ụbọchị, n'ebe nke ị kwuru, sị, 'Aha m ga-adị ebe ahụ,' ka ị gee ntị n'ekpere nke ohu gị na-ekpe n'ebe a.",
+  "translation": "Ka anya gị mepee n'ụlọ a, abalị na ụbọchị, n'ebe ị kwuru na-aga, \"Aha m ga-adị n'ebe ahụ,\" ka ị nụ ekpere nke ohu gị na-ekpe n'ebe a.",
   "tokens": [
     {
       "surface": "להיות",
-      "gloss": "ka"
+      "gloss": "ka ọ bụ"
     },
     {
       "surface": "עינך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "פתחות",
-      "gloss": "megheere"
+      "gloss": "mepee"
     },
     {
       "surface": "אל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "לילה",
-      "gloss": "n'abalị"
+      "gloss": "abalị"
     },
     {
       "surface": "ויום",
-      "gloss": "na n'ụbọchị"
+      "gloss": "na ụbọchị"
     },
     {
       "surface": "אל",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "שם",
-      "gloss": "ebe ahụ"
+      "gloss": "n'ebe ahụ"
     },
     {
       "surface": "לשמע",
-      "gloss": "ka ị gee ntị"
+      "gloss": "ka ị nụ"
     },
     {
       "surface": "אל",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "n'ebe"
+      "gloss": "n'"
     },
     {
       "surface": "המקום",
@@ -104,6 +104,6 @@
       "gloss": "a"
     }
   ],
-  "timestamp": "2026-08-27T16:36:29.998683390Z",
+  "timestamp": "2026-08-27T17:42:25.271117220Z",
   "model": "glm-5.3"
 }

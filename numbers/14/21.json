@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 14,
-  "translation": "Ma dịka m dị ndụ, ùgwù Yahwe ga-ejupụta ⟨את⟩ ụwa niile.",
+  "translation": "Ma dịka m dị ndụ, ⟨את⟩ ụwa nile ga-ejupụta n'ibe nke Yahwe.",
   "tokens": [
     {
       "surface": "ואולם",
-      "gloss": "Ma dịka"
+      "gloss": "Ma"
     },
     {
       "surface": "חי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "כבוד",
-      "gloss": "ùgwù"
+      "gloss": "ibe"
     },
     {
       "surface": "יהוה",
@@ -34,17 +34,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ụwa niile"
+      "marks": "ụwa nile"
     },
     {
       "surface": "כל",
-      "gloss": "niile"
+      "gloss": "nile"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ụwa"
+      "gloss": "ụwa"
     }
   ],
-  "timestamp": "2026-08-27T07:23:15.730699342Z",
+  "timestamp": "2026-08-27T17:33:59.595969078Z",
   "model": "glm-5.3"
 }

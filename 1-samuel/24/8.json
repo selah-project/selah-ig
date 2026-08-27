@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 24,
-  "translation": "David wee jide ⟨את⟩ ndị ikom ya site n'okwu, ma ghara ikwe ka ha bilie megide Shaul; Shaul wee bilie n'ọgba ahụ, wee gaa n'ụzọ ahụ.",
+  "translation": "Mgbe ahụ David gbochiri ⟨את⟩ ndị-ya n'okwu, ma zere ha ka ha ghara ịbilite megide Shaúl; Shaúl wee bilite n'ọgba ahụ, gaa n'ụzọ-ya.",
   "tokens": [
     {
       "surface": "וישסע",
-      "gloss": "wee jide"
+      "gloss": "gbochiri"
     },
     {
       "surface": "דוד",
@@ -18,23 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ndị ikom ya"
+      "marks": "ndị-ya"
     },
     {
       "surface": "אנשיו",
-      "gloss": "ndị ikom ya"
+      "gloss": "ndị-ya"
     },
     {
       "surface": "בדברים",
-      "gloss": "site n'okwu"
-    },
-    {
-      "surface": "וילא",
-      "gloss": ""
+      "gloss": "n'okwu"
     },
     {
       "surface": "ולא",
-      "gloss": "ma ghara ikwe"
+      "gloss": "ma zere"
     },
     {
       "surface": "נתנם",
@@ -42,7 +38,7 @@
     },
     {
       "surface": "לקום",
-      "gloss": "bilee"
+      "gloss": "ka ha ghara ịbilite"
     },
     {
       "surface": "אל",
@@ -50,15 +46,15 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Shaul"
+      "gloss": "Shaúl"
     },
     {
       "surface": "ושאול",
-      "gloss": "Shaul wee"
+      "gloss": "Shaúl wee"
     },
     {
       "surface": "קם",
-      "gloss": "bilee"
+      "gloss": "bilite"
     },
     {
       "surface": "מהמערה",
@@ -66,13 +62,13 @@
     },
     {
       "surface": "וילך",
-      "gloss": "wee gaa"
+      "gloss": "gaa"
     },
     {
       "surface": "בדרך",
-      "gloss": "n'ụzọ ahụ"
+      "gloss": "n'ụzọ-ya"
     }
   ],
-  "timestamp": "2026-08-27T09:19:17.924361639Z",
+  "timestamp": "2026-08-27T17:40:07.665735651Z",
   "model": "glm-5.3"
 }

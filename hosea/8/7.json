@@ -5,7 +5,7 @@
   "book": "hosea",
   "lang": "ig",
   "chapter": 8,
-  "translation": "N'ihi na ikuku ha kụrụ, ma ajā ifufe ha ga-ewe; osisi guzo ⟨is⟩ na ọ dịghị ya; mkpụrụ ga-eme ntụ ọka ⟨is⟩ na ọ ghara; ọ bụrụ na ọ mee, ndị ọzọ ga-eri ya.",
+  "translation": "N'ihi na ikuku ha kụrụ, ma ifufe ha ga-ewe; ogwu ọka ọ nweghị, nke na-apụta ga-enwekwa ike ịmepụta ntụ ọka; ma ọ bụrụ na o mepụtara, ndị ọzọ ga-eri ya.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וסופתה",
-      "gloss": "ajā ifufe"
+      "gloss": "ma ifufe"
     },
     {
       "surface": "יקצרו",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "קמה",
-      "gloss": "osisi guzo"
+      "gloss": "ogwu ọka"
     },
     {
       "surface": "אין",
-      "gloss": "ọ dịghị"
+      "gloss": "ọ nweghị"
     },
     {
       "surface": "לו",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "צמח",
-      "gloss": "mkpụrụ"
+      "gloss": "nke na-apụta"
     },
     {
       "surface": "בלי",
-      "gloss": "na ọ ghara"
+      "gloss": "enweghị ike"
     },
     {
       "surface": "יעשה",
-      "gloss": "ga-eme"
+      "gloss": "ịmepụta"
     },
     {
       "surface": "קמח",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "אולי",
-      "gloss": "ọ bụrụ na"
+      "gloss": "ma ọ bụrụ na"
     },
     {
       "surface": "יעשה",
-      "gloss": "ọ mee"
+      "gloss": "o mepụtara"
     },
     {
       "surface": "זרים",
@@ -72,6 +72,6 @@
       "gloss": "ga-eri ya"
     }
   ],
-  "timestamp": "2026-08-27T12:42:31.451990501Z",
+  "timestamp": "2026-08-27T17:52:10.567435466Z",
   "model": "glm-5.3"
 }

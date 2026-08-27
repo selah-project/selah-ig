@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 13,
-  "translation": "Lot welite anya ya, wee hụ ⟨את⟩ akụkụ àlà niile nke Yardẹn, na ọ ⟨⟨is⟩⟩ na-akọ mmiri n'ebe niile — n'ihu Yahwe bibisiri ⟨את⟩ Sedom na ⟨את⟩ Amorah — dịka ogige Yahwe, dịka ala Mitzrayim, na-eru Tsoar.",
+  "translation": "Lot welitere anya ya, ọ hụrụ ⟨את⟩ nkata nile nke Yarden, na ọ ⟨⟨ bụ⟩⟩ mmiri-ama jupụtara nile, tupu Yahwe ebibis ⟨את⟩ Sodom na ⟨את⟩ Amorah — dịka ogige Yahwe, dịka ala Mitzrayim, na-aga zoa ikpeazụ.",
   "tokens": [
     {
       "surface": "וישא",
-      "gloss": "welite"
+      "gloss": "welitere"
     },
     {
       "surface": "לוט",
@@ -26,24 +26,24 @@
     },
     {
       "surface": "וירא",
-      "gloss": "wee hụ"
+      "gloss": "ọ hụrụ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "akụkụ àlà niile"
+      "marks": "nkata nile nke Yarden"
     },
     {
       "surface": "כל",
-      "gloss": "niile"
+      "gloss": "nile"
     },
     {
       "surface": "ככר",
-      "gloss": "akụkụ àlà"
+      "gloss": "nkata"
     },
     {
       "surface": "הירדן",
-      "gloss": "nke Yardẹn"
+      "gloss": "nke Yarden"
     },
     {
       "surface": "כי",
@@ -51,19 +51,19 @@
     },
     {
       "surface": "כלה",
-      "gloss": "niile"
+      "gloss": "nile"
     },
     {
       "surface": "משקה",
-      "gloss": "na-akọ mmiri"
+      "gloss": "mmiri-ama jupụtara"
     },
     {
       "surface": "לפני",
-      "gloss": "n'ihu"
+      "gloss": "tupu"
     },
     {
       "surface": "שחת",
-      "gloss": "bibisiri"
+      "gloss": "ebibis"
     },
     {
       "surface": "יהוה",
@@ -72,15 +72,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sedom"
+      "marks": "Sodom"
     },
     {
       "surface": "סדם",
-      "gloss": "Sedom"
+      "gloss": "Sodom"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "na ⟨את⟩",
       "marks": "Amorah"
     },
     {
@@ -105,13 +105,13 @@
     },
     {
       "surface": "באכה",
-      "gloss": "na-eru"
+      "gloss": "na-aga"
     },
     {
       "surface": "צער",
-      "gloss": "Tsoar"
+      "gloss": "zoa"
     }
   ],
-  "timestamp": "2026-08-27T05:32:14.774660739Z",
+  "timestamp": "2026-08-27T17:28:20.741006071Z",
   "model": "glm-5.3"
 }

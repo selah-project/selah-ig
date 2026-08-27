@@ -5,20 +5,20 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 7,
-  "translation": "O wee tinye ⟨את⟩ ndị nkwụnye ahụ — ise n'ubu ⟨the⟩ ụlọ ahụ n'akụkụ aka nri, na ise n'ubu ⟨the⟩ ụlọ ahụ n'akụkụ aka ekpe ya; ma tinye ⟨את⟩ oké mmiri ahụ n'ubu ⟨the⟩ akụkụ aka nri nke ụlọ ahụ, n'ebe ọwụwa anyanwụ, n'ihu ndịda.",
+  "translation": "O tinyere ⟨את⟩ ntọala ahụ ise n'ubu ụlọ ahụ n'akụkụ aka nri, ise n'ubu ụlọ ahụ n'akụkụ aka ekpe ya; o tinyekwara ⟨את⟩ oké mmiri ahụ n'ubu ụlọ ahụ nke akụkụ aka nri, n'ihu, n'akụkụ ndịda.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "o wee tinye"
+      "gloss": "o tinyere"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ndị nkwụnye ahụ"
+      "marks": "ntọala ahụ"
     },
     {
       "surface": "המכנות",
-      "gloss": "ndị nkwụnye ahụ"
+      "gloss": "ntọala ahụ"
     },
     {
       "surface": "חמש",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "מכתף",
-      "gloss": "n'ubu"
+      "gloss": "site n'ubu"
     },
     {
       "surface": "הבית",
@@ -83,21 +83,21 @@
     },
     {
       "surface": "הימנית",
-      "gloss": "akụkụ aka nri"
+      "gloss": "nke akụkụ aka nri"
     },
     {
       "surface": "קדמה",
-      "gloss": "n'ebe ọwụwa anyanwụ \/ n'ihu"
+      "gloss": "n'ihu"
     },
     {
       "surface": "ממול",
-      "gloss": "n'ihu \/ na ihu"
+      "gloss": "n'ihu"
     },
     {
       "surface": "נגב",
-      "gloss": "ndịda"
+      "gloss": "n'akụkụ ndịda"
     }
   ],
-  "timestamp": "2026-08-27T09:55:08.789730608Z",
+  "timestamp": "2026-08-27T17:43:06.667707747Z",
   "model": "glm-5.3"
 }

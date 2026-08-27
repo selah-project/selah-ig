@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 7,
-  "translation": "Ma n'elu ⟨the⟩ nchebe ndị ahụ nke dị n'etiti ọkwá ndị ahụ, ndị odum, ehi na kerubim; ma n'elu ọkwá ndị ahụ, ntọala otu ihe ahụ n'elu; ma n'okpuru ndị odum na ndị ehi, ihe nkedo dị ka eriri, ọrụ aka na-agbadata.",
+  "translation": "Ma n'elu akụkụ ⟨ndị⟩ dị n'etiti ohere ⟨ndị⟩ ahụ, ndị ọdụm, ehi, na kerubim; ma n'elu ohere ⟨ndị⟩ ahụ, otu isi ihe dị n'elu; ma n'okpuru ndị ọdụm na ehi, ihe mkpuchi dị ka ọrụ aka na-agbada.",
   "tokens": [
     {
       "surface": "ועל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "המסגרות",
-      "gloss": "nchebe ndị ahụ"
+      "gloss": "akụkụ ⟨ndị⟩"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "ndị"
     },
     {
       "surface": "בין",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "השלבים",
-      "gloss": "ọkwá ndị ahụ"
+      "gloss": "ohere ⟨ndị⟩"
     },
     {
       "surface": "אריות",
-      "gloss": "ndị odum"
+      "gloss": "ọdụm"
     },
     {
       "surface": "בקר",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "השלבים",
-      "gloss": "ọkwá ndị ahụ"
+      "gloss": "ohere ⟨ndị⟩"
     },
     {
       "surface": "כן",
-      "gloss": "ntọala"
+      "gloss": "isi ihe"
     },
     {
       "surface": "ממעל",
-      "gloss": "otu ihe ahụ n'elu"
+      "gloss": "n'elu"
     },
     {
       "surface": "ומתחת",
@@ -61,25 +61,25 @@
     },
     {
       "surface": "לאריות",
-      "gloss": "maka ndị odum"
+      "gloss": "maka ọdụm"
     },
     {
       "surface": "ולבקר",
-      "gloss": "na maka ndị ehi"
+      "gloss": "na maka ehi"
     },
     {
       "surface": "ליות",
-      "gloss": "ihe nkedo dị ka eriri"
+      "gloss": "ihe mkpuchi"
     },
     {
       "surface": "מעשה",
-      "gloss": "ọrụ aka"
+      "gloss": "ọrụ"
     },
     {
       "surface": "מורד",
-      "gloss": "na-agbadata"
+      "gloss": "na-agbada"
     }
   ],
-  "timestamp": "2026-08-27T16:35:49.581927016Z",
+  "timestamp": "2026-08-27T17:42:38.041455597Z",
   "model": "glm-5.3"
 }

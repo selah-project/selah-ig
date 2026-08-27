@@ -5,27 +5,27 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 9,
-  "translation": "Ma mgbe ụfọdụ, mgbe urukpu ahụ ga-adị site n'abalị ruo ụtụtụ, a na-eweli urukpu ahụ n'ụtụtụ, ha wee pụọ njem; ma ọ bụ ehihie na abalị, a na-eweli urukpu ahụ, ha wee pụọ njem.",
+  "translation": "Ọ dịkwa mgbe ⟨את⟩ urukpube ga-anọ site n'anyanwụ-ana ruo mgbe ụtụtụ tiwapụrụ, ma ọ bụrụ na urukpube eluọla n'ụtụtụ, ha na-aga; ma ọ bụ n'ụtụtụ na abalị, ma ọ bụrụ na urukpube eluọla, ha na-aga.",
   "tokens": [
     {
       "surface": "ויש",
-      "gloss": "ma mgbe ụfọdụ"
+      "gloss": "ọ dịkwa mgbe"
     },
     {
       "surface": "אשר",
-      "gloss": "mgbe"
+      "gloss": "na"
     },
     {
       "surface": "יהיה",
-      "gloss": "ọ ga-adị"
+      "gloss": "ga-anọ"
     },
     {
       "surface": "הענן",
-      "gloss": "urukpu ahụ"
+      "gloss": "urukpube"
     },
     {
       "surface": "מערב",
-      "gloss": "site n'abalị"
+      "gloss": "site n'anyanwụ-ana"
     },
     {
       "surface": "עד",
@@ -33,19 +33,15 @@
     },
     {
       "surface": "בקר",
-      "gloss": "ụtụtụ"
-    },
-    {
-      "surface": "ויש",
-      "gloss": ""
+      "gloss": "mgbe ụtụtụ tiwapụrụ"
     },
     {
       "surface": "ונעלה",
-      "gloss": "a na-eweli"
+      "gloss": "ma ọ bụrụ na ... eluọla"
     },
     {
       "surface": "הענן",
-      "gloss": "urukpu ahụ"
+      "gloss": "urukpube"
     },
     {
       "surface": "בבקר",
@@ -53,7 +49,7 @@
     },
     {
       "surface": "ונסעו",
-      "gloss": "ha wee pụọ njem"
+      "gloss": "ha na-aga"
     },
     {
       "surface": "או",
@@ -61,7 +57,7 @@
     },
     {
       "surface": "יומם",
-      "gloss": "ehihie"
+      "gloss": "n'ụtụtụ"
     },
     {
       "surface": "ולילה",
@@ -69,17 +65,17 @@
     },
     {
       "surface": "ונעלה",
-      "gloss": "a na-eweli"
+      "gloss": "ma ọ bụrụ na ... eluọla"
     },
     {
       "surface": "הענן",
-      "gloss": "urukpu ahụ"
+      "gloss": "urukpube"
     },
     {
       "surface": "ונסעו",
-      "gloss": "ha wee pụọ njem"
+      "gloss": "ha na-aga"
     }
   ],
-  "timestamp": "2026-08-27T07:20:40.964473777Z",
+  "timestamp": "2026-08-27T18:01:11.714738442Z",
   "model": "glm-5.3"
 }

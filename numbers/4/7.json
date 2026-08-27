@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 4,
-  "translation": "Na tebụl nke ihu ha ga-ekesa ákwà na-acha anụnụ, ha wee tinye n'elu ya ⟨את⟩ efere ndị ahụ na ⟨את}} ite ndị ahụ na ⟨את}} iko ndị ahụ na ⟨את}} ite ọṅụṅụ ndị ahụ e ji na-efe ofufe; achịcha na-adịgide adịgide ga-adịkwa n'elu ya,",
+  "translation": "Ha gasa ákwà anụnụ anụnụ n'elu tebụl ⟨nke⟩ ihu, ha wee tinye ⟨את⟩ efere ndị ahụ, ⟨את⟩ iko ndị ahụ, ⟨את⟩ ite ndị ahụ, na ⟨את⟩ ite ntụrụndụ ndị a na-awụsa ọṅụṅụ; achịcha na-adịgide adịgide ga-adịkwa n'elu ya.",
   "tokens": [
     {
       "surface": "ועל",
-      "gloss": "na n'elu"
+      "gloss": "n'elu"
     },
     {
       "surface": "שלחן",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הפנים",
-      "gloss": "nke ihu"
+      "gloss": "ihu"
     },
     {
       "surface": "יפרשו",
-      "gloss": "ha ga-ekesa"
+      "gloss": "ha gasa"
     },
     {
       "surface": "בגד",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תכלת",
-      "gloss": "na-acha anụnụ"
+      "gloss": "anụnụ anụnụ"
     },
     {
       "surface": "ונתנו",
@@ -51,37 +51,37 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ite ndị ahụ"
-    },
-    {
-      "surface": "הכפת",
-      "gloss": "ite ndị ahụ"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "⟨את⟩",
       "marks": "iko ndị ahụ"
     },
     {
-      "surface": "המנקית",
+      "surface": "הכפת",
       "gloss": "iko ndị ahụ"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ite ọṅụṅụ ndị ahụ"
+      "marks": "ite ndị ahụ"
+    },
+    {
+      "surface": "המנקית",
+      "gloss": "ite ndị ahụ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ite ntụrụndụ ndị a na-awụsa ọṅụṅụ"
     },
     {
       "surface": "קשות",
-      "gloss": "ite ọṅụṅụ"
+      "gloss": "ite ntụrụndụ"
     },
     {
       "surface": "הנסך",
-      "gloss": "nke a na-efe ofufe"
+      "gloss": "ọṅụṅụ a na-awụfu"
     },
     {
       "surface": "ולחם",
-      "gloss": "ma achịcha"
+      "gloss": "achịcha"
     },
     {
       "surface": "התמיד",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "ga-adịkwa"
+      "gloss": "ga-adị"
     }
   ],
-  "timestamp": "2026-08-27T07:14:22.140885241Z",
+  "timestamp": "2026-08-27T17:33:07.774027014Z",
   "model": "glm-5.3"
 }

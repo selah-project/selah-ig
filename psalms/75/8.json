@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 75,
-  "translation": "N'ihi na Elohim ⟨is⟩ onye ikpe: nke a ka Ọ na-ebu mgbe, ma nke a ka Ọ na-ebuli elu.",
+  "translation": "Maka Elohim ⟨⟨ bụ⟩⟩ Onye-ikpe: nke a Ọ na-ebu ada, ma nke a Ọ na-ebuli elu.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "N'ihi na"
+      "gloss": "Maka"
     },
     {
       "surface": "אלהים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שפט",
-      "gloss": "onye ikpe"
+      "gloss": "na-ekpe ikpe"
     },
     {
       "surface": "זה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ישפיל",
-      "gloss": "Ọ na-ebu mgbe"
+      "gloss": "Ọ na-ebu ada"
     },
     {
       "surface": "וזה",
@@ -36,6 +36,6 @@
       "gloss": "Ọ na-ebuli elu"
     }
   ],
-  "timestamp": "2026-08-27T13:42:36.564719661Z",
+  "timestamp": "2026-08-27T17:54:34.084658884Z",
   "model": "glm-5.3"
 }

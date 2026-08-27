@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 33,
-  "translation": "Nke a bụ ⟨the⟩ ngọzi nke Moshe, nwoke nke Elohim, gọziri ⟨את⟩ ụmụ Yisraẹl tupu ọnwụ ya.",
+  "translation": "Nke a bụ ⟨gị⟩ ngọzi nke Moshe, nwoke nke Elohim, goziri ⟨את⟩ ụmụ Yisrael, n'ihu ọnwụ ya.",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "ma nke a bụ"
+      "gloss": "Nke a bụ"
     },
     {
       "surface": "הברכה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ברך",
-      "gloss": "gọziri"
+      "gloss": "goziri"
     },
     {
       "surface": "משה",
@@ -38,7 +38,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ụmụ Yisraẹl"
+      "marks": "ụmụ Yisrael"
     },
     {
       "surface": "בני",
@@ -46,17 +46,17 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraẹl"
+      "gloss": "Yisrael"
     },
     {
       "surface": "לפני",
-      "gloss": "tupu"
+      "gloss": "n'ihu"
     },
     {
       "surface": "מותו",
       "gloss": "ọnwụ ya"
     }
   ],
-  "timestamp": "2026-08-27T08:16:44.318707298Z",
+  "timestamp": "2026-08-27T17:37:34.536145342Z",
   "model": "glm-5.3"
 }

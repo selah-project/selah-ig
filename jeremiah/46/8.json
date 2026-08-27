@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 46,
-  "translation": "Mitsrayim na-arịgo dịka Osimiri Naịl, mmiri ya na-atụ jijiji dịka osimiri ndị; ọ sịrị: M ga-eri elu, m ga-ekpuchị ⟨את⟩ ụwa, m ga-ebibi obodo na ndị bi na ya.",
+  "translation": "Mitsraim na-eli elu dịka osimiri Naịl, mmiri ya na-atụgharị dịka osimiri ndị ahụ; o kwuru, sị: M ga-eli elu, m ga-ekpuchi ⟨את⟩ ụwa; m ga-ebibi ⟨את⟩ obodo na ndị bi na ya.",
   "tokens": [
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Mitsraim"
     },
     {
       "surface": "כיאר",
-      "gloss": "dịka Osimiri Naịl"
+      "gloss": "dịka osimiri Naịl"
     },
     {
       "surface": "יעלה",
-      "gloss": "na-arịgo"
+      "gloss": "na-eli elu"
     },
     {
       "surface": "וכנהרות",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יתגעשו",
-      "gloss": "na-atụ jijiji"
+      "gloss": "na-atụgharị"
     },
     {
       "surface": "מים",
@@ -33,20 +33,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ọ sịrị"
+      "gloss": "o kwuru, sị"
     },
     {
       "surface": "אעלה",
-      "gloss": "m ga-eri elu"
+      "gloss": "m ga-eli elu"
     },
     {
       "surface": "אכסה",
-      "gloss": "m ga-ekpuchị"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ụwa"
+      "gloss": "m ga-ekpuchi"
     },
     {
       "surface": "ארץ",
@@ -69,6 +64,6 @@
       "gloss": "na ya"
     }
   ],
-  "timestamp": "2026-08-27T11:47:37.027769270Z",
+  "timestamp": "2026-08-27T17:47:52.460219391Z",
   "model": "glm-5.3"
 }

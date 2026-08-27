@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 22,
-  "translation": "Ọ wee sị: Were, biko, ⟨את⟩ nwa gị, ⟨את⟩ nwa gị naanị onye ị hụrụ n'anya — ⟨את⟩ Yitschak — gaa gị ruo ala ⟨the⟩ Moryah, wee bulie ya elu n'ebe ahụ dịka onye a na-ere n'ọkụ, n'otu n'ime ugwu ndị m ga-agwa gị.",
+  "translation": "O wee sị: Were biko ⟨את⟩ nwa gị, ⟨את⟩ onye-agha-ọchịchị gị, nke ị hụrụ n'anya, ⟨את⟩ Yitschak, pụọ gaa n'ala Moriya, were bulie ya elu n'ebe ahụ dịka ọkụ-ọfferi, n'elu otu n'ime ugwu ndị ahụ m ga-agwa gị.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ọ wee sị"
+      "gloss": "O wee sị"
     },
     {
       "surface": "קח",
@@ -31,15 +31,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nwa gị naanị"
+      "marks": "onye-agha-ọchịchị gị"
     },
     {
       "surface": "יחידך",
-      "gloss": "nwa gị naanị"
+      "gloss": "onye-agha-ọchịchị gị"
     },
     {
       "surface": "אשר",
-      "gloss": "onye"
+      "gloss": "nke"
     },
     {
       "surface": "אהבת",
@@ -56,15 +56,15 @@
     },
     {
       "surface": "ולך",
-      "gloss": "gaa"
+      "gloss": "pụọ gaa"
     },
     {
       "surface": "לך",
-      "gloss": "gị"
+      "gloss": "gị onwe"
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "n'"
     },
     {
       "surface": "ארץ",
@@ -72,11 +72,11 @@
     },
     {
       "surface": "המריה",
-      "gloss": "Moryah"
+      "gloss": "Moriya"
     },
     {
       "surface": "והעלהו",
-      "gloss": "bulie ya elu"
+      "gloss": "were bulie ya elu"
     },
     {
       "surface": "שם",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "לעלה",
-      "gloss": "onye a na-ere n'ọkụ"
+      "gloss": "dịka ọkụ-ọfferi"
     },
     {
       "surface": "על",
@@ -96,11 +96,11 @@
     },
     {
       "surface": "ההרים",
-      "gloss": "ugwu ndị"
+      "gloss": "ugwu ndị ahụ"
     },
     {
       "surface": "אשר",
-      "gloss": "ndị"
+      "gloss": "nke"
     },
     {
       "surface": "אמר",
@@ -111,6 +111,6 @@
       "gloss": "gị"
     }
   ],
-  "timestamp": "2026-08-27T05:38:47.157990651Z",
+  "timestamp": "2026-08-27T17:28:32.844705473Z",
   "model": "glm-5.3"
 }

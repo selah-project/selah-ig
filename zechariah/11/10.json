@@ -5,42 +5,42 @@
   "book": "zechariah",
   "lang": "ig",
   "chapter": 11,
-  "translation": "M wee were ⟨את⟩ mkpara m, ⟨את⟩ nke a na-akpọ Mmụọ-ọma, m wee gbajie ya, iji kagbuo ⟨את⟩ ọgbụgba-ndụ m nke m dugide na ⟨את⟩ ndị niile nke mba ụwa.",
+  "translation": "M were ⟨את⟩ mkpa m, ⟨את⟩ Noam, ma m gbajiri ⟨את⟩ ya, ka m kagbuo ⟨את⟩ ọgbụgba-ndụ m nke m mere ya na ⟨את⟩ ndị niile.",
   "tokens": [
     {
       "surface": "ואקח",
-      "gloss": "M wee were"
+      "gloss": "m were"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mkpara m"
+      "marks": "mkpa m"
     },
     {
       "surface": "מקלי",
-      "gloss": "mkpara m"
+      "gloss": "mkpa m"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mmụọ-ọma"
+      "marks": "Noam"
     },
     {
       "surface": "נעם",
-      "gloss": "Mmụọ-ọma"
+      "gloss": "Noam (Mma)"
     },
     {
       "surface": "ואגדע",
-      "gloss": "m wee gbajie"
+      "gloss": "m gbajiri"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ya"
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya (mkpa)"
     },
     {
       "surface": "להפיר",
-      "gloss": "iji kagbuo"
+      "gloss": "ka m kagbuo"
     },
     {
       "surface": "את",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "כרתי",
-      "gloss": "m dugide"
+      "gloss": "m mere"
     },
     {
       "surface": "את",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "העמים",
-      "gloss": "mba ụwa"
+      "gloss": "ndị"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.237329935Z",
+  "timestamp": "2026-08-27T17:53:08.970884522Z",
   "model": "glm-5.3"
 }

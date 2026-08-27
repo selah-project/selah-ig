@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Biko, Adonai, ka ntị gị na-ege ntị n'ekpere nke ohu gị na n'ekpere nke ndị ohu gị, bụ́ ndị na-achọ ịtụ egwu ⟨את⟩ aha gị; ka m baara ohu gị uru taa, biko, ma nye ya ebere n'ihu nwoke a. Maka m bụ onye na-eji iko mmanya maka eze.",
+  "translation": "Biko, Adonai, ka ntị gị na-ege ntị n'ekpere ohu gị na n'ekpere ndị ohu gị, ndị na-achọ ịtụ ⟨את⟩ aha gị egwu; ka ohu gị nwee ihe ịga nke ọma taa, biko, ma nye ya ebere n'ihu nwoke a. Mụ onwe m bụ onye na-eje ozi mmanya nye eze ahụ.",
   "tokens": [
     {
       "surface": "אנא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תהי",
-      "gloss": "ka ọ bụ"
+      "gloss": "ka ... di"
     },
     {
       "surface": "נא",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "החפצים",
-      "gloss": "bụ́ ndị na-achọ"
+      "gloss": "ndị na-achọ"
     },
     {
       "surface": "ליראה",
-      "gloss": "ịtụ egwu"
+      "gloss": "ịtụ ... egwu"
     },
     {
       "surface": "את",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "והצליחה",
-      "gloss": "ka ọ nwee ihe ịga nke ọma"
+      "gloss": "ka ... nwee ihe ịga nke ọma"
     },
     {
       "surface": "נא",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "לעבדך",
-      "gloss": "maka ohu gị"
+      "gloss": "ohu gị"
     },
     {
       "surface": "היום",
@@ -109,12 +109,8 @@
       "gloss": "a"
     },
     {
-      "surface": "ו",
-      "gloss": "Maka"
-    },
-    {
       "surface": "ואני",
-      "gloss": "m"
+      "gloss": "ma mụ onwe m"
     },
     {
       "surface": "הייתי",
@@ -122,13 +118,13 @@
     },
     {
       "surface": "משקה",
-      "gloss": "onye na-eji iko mmanya"
+      "gloss": "onye na-eje ozi mmanya"
     },
     {
       "surface": "למלך",
-      "gloss": "maka eze"
+      "gloss": "nye eze ahụ"
     }
   ],
-  "timestamp": "2026-08-27T15:40:00.457848019Z",
+  "timestamp": "2026-08-27T17:58:11.313919845Z",
   "model": "glm-5.3"
 }

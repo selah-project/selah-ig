@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 2,
-  "translation": "Huram kwuru na ọzọ: Ekele dịrị Yahwe, Elohim nke Yisrael, onye mere ⟨את⟩ ⟨the⟩ eluigwe na ⟨את⟩ ⟨the⟩ ụwa, onye nyere David, ⟨the⟩ eze, nwa nwoke nwere amamihe, nke maara nghọta na ịghọta ihe, onye ga-ewu ụlọ maka Yahwe na ụlọ maka alaeze ya.",
+  "translation": "Maka Huram kwuru, sị: Onye a gọziri agọzi bụ Yahwe, Elohim nke Yisrael, onye mere ⟨את⟩ eluigwe na ⟨את⟩ ụwa, onye nyere Davidị, eze ahụ, nwa nke nwere amamihe, maara nlekọta uche na nghọta, onye ga-ewu ụlọ maka Yahwe na ụlọ maka alaeze ya.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ọ sịrị"
+      "gloss": "kwuru, sị"
     },
     {
       "surface": "חורם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "ekele dịrị"
+      "gloss": "Onye a gọziri agọzi"
     },
     {
       "surface": "יהוה",
@@ -42,20 +42,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ eluigwe"
+      "marks": "eluigwe"
     },
     {
       "surface": "השמים",
-      "gloss": "⟨the⟩ eluigwe"
+      "gloss": "eluigwe"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "⟨the⟩ ụwa"
+      "marks": "ụwa"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ụwa"
+      "gloss": "ụwa"
     },
     {
       "surface": "אשר",
@@ -67,31 +67,31 @@
     },
     {
       "surface": "לדויד",
-      "gloss": "David"
+      "gloss": "Davidị"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ eze"
+      "gloss": "eze ahụ"
     },
     {
       "surface": "בן",
-      "gloss": "nwa nwoke"
+      "gloss": "nwa"
     },
     {
       "surface": "חכם",
-      "gloss": "nwere amamihe"
+      "gloss": "nke nwere amamihe"
     },
     {
       "surface": "יודע",
-      "gloss": "nke maara"
+      "gloss": "maara"
     },
     {
       "surface": "שכל",
-      "gloss": "nghọta"
+      "gloss": "nlekọta uche"
     },
     {
       "surface": "ובינה",
-      "gloss": "na ịghọta ihe"
+      "gloss": "na nghọta"
     },
     {
       "surface": "אשר",
@@ -118,6 +118,6 @@
       "gloss": "maka alaeze ya"
     }
   ],
-  "timestamp": "2026-08-27T16:08:33.099559973Z",
+  "timestamp": "2026-08-27T17:58:55.872074235Z",
   "model": "glm-5.3"
 }

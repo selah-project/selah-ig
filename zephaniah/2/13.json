@@ -5,11 +5,11 @@
   "book": "zephaniah",
   "lang": "ig",
   "chapter": 2,
-  "translation": "Ọ ga-etinye aka ya n'elu ugwu, ma bibie ⟨את⟩ Ashshur, ma mee ⟨את⟩ Nineveh ka ọ bụrụ ebe mkpọfu, ala kpọrọ nkụ dịka ⟨the⟩ ọzara.",
+  "translation": "Ọ ga-etinye aka ya n'elu akuku ugwu, ma mebie ⟨את⟩ Ashur, ma mee ⟨את⟩ Nineve ka ọ bụrụ ebe mkpọtụrụ, ala kpọọ nkụ dịka ọzara.",
   "tokens": [
     {
       "surface": "ויט",
-      "gloss": "ọ ga-etinye"
+      "gloss": "ga-etinye"
     },
     {
       "surface": "ידו",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "צפון",
-      "gloss": "ugwu"
+      "gloss": "akuku ugwu"
     },
     {
       "surface": "ויאבד",
-      "gloss": "ma bibie"
+      "gloss": "ma mebie"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ashshur"
+      "marks": "Ashur"
     },
     {
       "surface": "אשור",
-      "gloss": "Ashshur"
+      "gloss": "Ashur"
     },
     {
       "surface": "וישם",
@@ -43,25 +43,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Nineveh"
+      "marks": "Nineve"
     },
     {
       "surface": "נינוה",
-      "gloss": "Nineveh"
+      "gloss": "Nineve"
     },
     {
       "surface": "לשממה",
-      "gloss": "ka ọ bụrụ ebe mkpọfu"
+      "gloss": "ka ọ bụrụ ebe mkpọtụrụ"
     },
     {
       "surface": "ציה",
-      "gloss": "ala kpọrọ nkụ"
+      "gloss": "ala kpọọ nkụ"
     },
     {
       "surface": "כמדבר",
       "gloss": "dịka ọzara"
     }
   ],
-  "timestamp": "2026-08-27T13:00:00.006414825Z",
+  "timestamp": "2026-08-27T18:29:43.637433201Z",
   "model": "glm-5.3"
 }

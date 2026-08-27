@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 39,
-  "translation": "Onyeisi ụlọ mkpọrọ nyere n'aka Yosef ⟨את⟩ ndị mkpọrọ niile ndị nọ n'ụlọ mkpọrọ, nakwa ⟨את⟩ ihe niile ha na-eme n'ebe ahụ — ⟨ọ⟩ bụ ya bụ onye na-eme ya.",
+  "translation": "Onye-isi nke ụlọ mkpọrọ nyere n'aka Yosef ⟨את⟩ ndị mkpọrọ niile nke nọ n'ụlọ mkpọrọ, na ⟨את⟩ ihe niile ha na-eme n'ebe ahụ — bụ ya bụ onye na-eme ya.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שר",
-      "gloss": "onyeisi"
+      "gloss": "onye-isi"
     },
     {
       "surface": "בית",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ndị"
+      "gloss": "nke"
     },
     {
       "surface": "בבית",
@@ -57,13 +57,9 @@
       "gloss": "mkpọrọ"
     },
     {
-      "surface": "ויתן-vav",
-      "gloss": "⟨את⟩"
-    },
-    {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ihe niile"
+      "gloss": "na ⟨את⟩",
+      "marks": "ihe niile ha na-eme"
     },
     {
       "surface": "כל",
@@ -71,7 +67,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ihe"
+      "gloss": "nke"
     },
     {
       "surface": "עשים",
@@ -83,7 +79,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ọ bụ ya"
+      "gloss": "bụ ya"
     },
     {
       "surface": "היה",
@@ -91,9 +87,9 @@
     },
     {
       "surface": "עשה",
-      "gloss": "na-eme"
+      "gloss": "na-eme ya"
     }
   ],
-  "timestamp": "2026-08-27T05:55:06.404058816Z",
+  "timestamp": "2026-08-27T17:29:25.038470901Z",
   "model": "glm-5.3"
 }

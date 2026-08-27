@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 32,
-  "translation": "O nyekwara iwu ⟨את⟩ nke abụọ nakwa ⟨את⟩ nke atọ nakwa ⟨את⟩ ndị niile na-eso ìgwè atụrụ ndị ahụ, ka ha kwuo: Dịka okwu a ka unu ga-ekwu Esav, mgbe unu zutere ⟨אתו⟩ ya.",
+  "translation": "O nyekwara iwu ⟨את⟩ nke abụọ, nakwa ⟨את⟩ nke atọ, nakwa ⟨את⟩ ndị niile na-eso ìgwè ehi, ka ha kwuo sị: Dịka okwu a ka unu ga-ekwu ya na Esav, mgbe unu zutere ⟨את⟩ ya.",
   "tokens": [
     {
       "surface": "ויצו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "kwa"
+      "gloss": "nakwa"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "kwa"
+      "gloss": "nakwa"
     },
     {
       "surface": "את",
@@ -39,16 +39,16 @@
     },
     {
       "surface": "גם",
-      "gloss": "kwa"
+      "gloss": "nakwa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ndị niile"
+      "marks": "ndị niile na-eso"
     },
     {
       "surface": "כל",
-      "gloss": "ndị niile"
+      "gloss": "niile"
     },
     {
       "surface": "ההלכים",
@@ -60,11 +60,11 @@
     },
     {
       "surface": "העדרים",
-      "gloss": "ìgwè atụrụ ndị ahụ"
+      "gloss": "ìgwè ehi"
     },
     {
       "surface": "לאמר",
-      "gloss": "ka ha kwuo"
+      "gloss": "ka ha kwuo sị"
     },
     {
       "surface": "כדבר",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "ya na"
     },
     {
       "surface": "עשו",
@@ -92,10 +92,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ya (Esav)"
+      "gloss": "⟨את⟩ ya"
     }
   ],
-  "timestamp": "2026-08-27T05:49:18.148152798Z",
+  "timestamp": "2026-08-27T17:29:16.155908476Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Site na nwa afọ iri abụọ na ọzọ, onye ọ bụla na-apụta na ndị agha na Yisrael, unu ga-edetu ha ⟨את⟩ ⟨אתם⟩ site na ndị agha ha, gị na Aharon.",
+  "translation": "Site na nwa afọ iri abụọ na gburugburu, onye ọ bụla na-apụ ọsá agha ná Yisrael, unu ga-ede ha ⟨את⟩ maka ọsá agha ha — gị na Aharon.",
   "tokens": [
     {
       "surface": "מבן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ומעלה",
-      "gloss": "na ọzọ"
+      "gloss": "na gburugburu"
     },
     {
       "surface": "כל",
@@ -29,28 +29,28 @@
     },
     {
       "surface": "יצא",
-      "gloss": "na-apụta"
+      "gloss": "na-apụ"
     },
     {
       "surface": "צבא",
-      "gloss": "n'ndị agha"
+      "gloss": "ọsá agha"
     },
     {
       "surface": "בישראל",
-      "gloss": "na Yisrael"
+      "gloss": "ná Yisrael"
     },
     {
       "surface": "תפקדו",
-      "gloss": "unu ga-edetu"
+      "gloss": "unu ga-ede"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "ha"
+      "gloss": "⟨את⟩",
+      "marks": "ha (maka ọsá agha ha)"
     },
     {
       "surface": "לצבאתם",
-      "gloss": "site na ndị agha ha"
+      "gloss": "maka ọsá agha ha"
     },
     {
       "surface": "אתה",
@@ -61,6 +61,6 @@
       "gloss": "na Aharon"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.277893302Z",
+  "timestamp": "2026-08-27T17:33:34.358238137Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "malachi",
   "lang": "ig",
   "chapter": 2,
-  "translation": "Mụ onwe m kwa enyela unu ka a na-ele anya n'ala, ka ndị a na-ele n'ala n'ihu ndị niile nke ⟨the⟩ mmadụ, dịka ụzọ m si dị nke unu na-echebe na nke unu na-ebu ⟨the⟩ ihu n' Torah.",
+  "translation": "Mụkwa onwe m, enyerem m ⟨את⟩ unu ka ndị a na-ele anya n'ala, ka ndị a kpọrọ n'ala, n'ihu ndị niile, n'ihi na unu anaghị echebe ⟨את⟩ ụzọ m, ma na-ebuli ihu n'ihe gbasara Torah.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "kwa"
+      "gloss": "mụkwa"
     },
     {
       "surface": "אני",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "enyela m"
+      "gloss": "enyerem m"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ unu",
+      "gloss": "⟨את⟩",
       "marks": "unu"
     },
     {
@@ -30,15 +30,15 @@
     },
     {
       "surface": "ושפלים",
-      "gloss": "ndị a na-ele n'ala"
+      "gloss": "ka ndị a kpọrọ n'ala"
     },
     {
       "surface": "לכל",
-      "gloss": "n'ihu ndị niile nke"
+      "gloss": "n'ihu ndị niile"
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ mmadụ"
+      "gloss": "ndị"
     },
     {
       "surface": "כפי",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "n'ihi na"
     },
     {
       "surface": "אינכם",
-      "gloss": "ọnaghị"
+      "gloss": "unu anaghị"
     },
     {
       "surface": "שמרים",
-      "gloss": "na-echebe"
+      "gloss": "echebe"
     },
     {
       "surface": "את",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "ונשאים",
-      "gloss": "na-ebu"
+      "gloss": "ma na-ebuli"
     },
     {
       "surface": "פנים",
@@ -75,9 +75,9 @@
     },
     {
       "surface": "בתורה",
-      "gloss": "n' Torah"
+      "gloss": "n'ihe gbasara Torah"
     }
   ],
-  "timestamp": "2026-08-27T13:09:10.005888200Z",
+  "timestamp": "2026-08-27T17:53:36.635011008Z",
   "model": "glm-5.3"
 }

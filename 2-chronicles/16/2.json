@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":2,"ref":"2-chronicles 16:2","book":"2-chronicles","lang":"ig","chapter":16,"translation":"Asa wee pụta ⟨את⟩ ọlaọcha na ọlaedo n'akụ ụlọ Yahwe na nke ụlọ ⟨ה⟩eze, wee zipụ senti Ben-Hadad eze Aram, onye bi na Damask, ka o na-asị:","tokens":[{"surface":"ויצא","gloss":"wee pụta"},{"surface":"אסא","gloss":"Asa"},{"surface":"כסף","gloss":"ọlaọcha"},{"surface":"וזהב","gloss":"na ọlaedo"},{"surface":"מאצרות","gloss":"n'akụ"},{"surface":"בית","gloss":"ụlọ"},{"surface":"יהוה","gloss":"Yahwe"},{"surface":"ובית","gloss":"na ụlọ"},{"surface":"המלך","gloss":"eze"},{"surface":"וישלח","gloss":"wee zipụ"},{"surface":"אל","gloss":"senti"},{"surface":"בן","gloss":"Ben-"},{"surface":"הדד","gloss":"Hadad"},{"surface":"מלך","gloss":"eze"},{"surface":"ארם","gloss":"Aram"},{"surface":"היושב","gloss":"onye bi"},{"surface":"בדרמשק","gloss":"na Damask"},{"surface":"לאמר","gloss":"ka o na-asị"}],"timestamp":"2026-08-27T16:13:52.329538162Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 16:2",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Asa wepụtara ⟨את⟩ ọcha na ⟨את⟩ ọla edo n'ime ụlọ nchekwa nke ụlọ Yahwe na nke ụlọ eze, wee zipụ ya na Ben-Hadad, eze Aram, onye na-anọ na Damaskọs, si:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "weputara"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ọcha (ego ọcha)"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na ọla edo"
+    },
+    {
+      "surface": "מאצרות",
+      "gloss": "site n'ime ụlọ nchekwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na ụlọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wee zipụ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "onye na-anọ"
+    },
+    {
+      "surface": "בדרמשק",
+      "gloss": "na Damaskọs"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "si"
+    }
+  ],
+  "timestamp": "2026-08-27T17:59:41.679010469Z",
+  "model": "glm-5.3"
+}

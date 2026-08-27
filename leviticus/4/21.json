@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 4,
-  "translation": "Ọ ga-ewepụ ⟨את⟩ nwa ehi ahụ gaa mpụga nke ⟨the⟩ ogige ahụ, gọọ ya ọkụ dịka ọ gọrọ ⟨את⟩ nwa ehi mbụ ahụ; ọfọ mmehie nke nzukọ ahụ ka ọ bụ.",
+  "translation": "Ọ ga-ewepụ ⟨את⟩ ehi ahụ gaa n'èzí ogige, wee gbaa ya ọkụ dịka o gbasịrị ⟨את⟩ ehi mbụ ahụ; ọ bụ chụọaja nke mmehie maka nzukọ-ndị mmadụ.",
   "tokens": [
     {
       "surface": "והוציא",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nwa ehi ahụ"
+      "marks": "ehi ahụ"
     },
     {
       "surface": "הפר",
-      "gloss": "nwa ehi ahụ"
+      "gloss": "ehi ahụ"
     },
     {
       "surface": "אל",
@@ -26,20 +26,20 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "mpụga"
+      "gloss": "n'èzí"
     },
     {
       "surface": "למחנה",
-      "gloss": "nke ogige ahụ"
+      "gloss": "ogige"
     },
     {
       "surface": "ושרף",
-      "gloss": "gọọ ya ọkụ"
+      "gloss": "wee gbaa ọkụ"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ ya",
-      "marks": "nwa ehi ahụ"
+      "marks": "ya"
     },
     {
       "surface": "כאשר",
@@ -47,16 +47,16 @@
     },
     {
       "surface": "שרף",
-      "gloss": "ọ gọrọ"
+      "gloss": "gbasịrị ọkụ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nwa ehi mbụ ahụ"
+      "marks": "ehi mbụ ahụ"
     },
     {
       "surface": "הפר",
-      "gloss": "nwa ehi"
+      "gloss": "ehi"
     },
     {
       "surface": "הראשון",
@@ -64,17 +64,17 @@
     },
     {
       "surface": "חטאת",
-      "gloss": "ọfọ mmehie"
+      "gloss": "chụọaja nke mmehie"
     },
     {
       "surface": "הקהל",
-      "gloss": "nke nzukọ ahụ"
+      "gloss": "maka nzukọ-ndị mmadụ"
     },
     {
       "surface": "הוא",
-      "gloss": "ka ọ bụ"
+      "gloss": "ọ bụ"
     }
   ],
-  "timestamp": "2026-08-27T06:46:41.845897121Z",
+  "timestamp": "2026-08-27T17:32:21.052502205Z",
   "model": "glm-5.3"
 }

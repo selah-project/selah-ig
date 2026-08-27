@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 14,
-  "translation": "Yahwe ⟨is⟩ onye na-ewe iwe nwayọọ, ma dị oke chesed, na-ebu ajọ omume na mmehie; mana ọ naghị ekwe ka onye ikpe mara gbanahụ, na-eleta ajọ omume nke ndị nna n'ahụ ụmụ, ruo n'ọgbọ nke atọ na nke anọ.",
+  "translation": "Yahwe ⟨⟨dị⟩⟩ ogologo-iyi, ukwuu chesed, na-ebu ⟨את⟩ ihe-ejọgbu na ⟨את⟩ mmehie, mana ọ gaghị ekpochapụ onye ikpe mara; ọ na-eleta ⟨את⟩ ihe-ejọgbu nke nna n'ụmụ, ruo ụmụ-ụmụ nke atọ na nke anọ.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "ארך",
-      "gloss": "na-ewe iwe nwayọọ"
+      "gloss": "ogologo-iyi"
     },
     {
       "surface": "אפים",
-      "gloss": "iwe"
+      "gloss": "iyi (ọbụ ime imi)"
     },
     {
       "surface": "ורב",
-      "gloss": "ma dị oke"
+      "gloss": "na ukwuu"
     },
     {
       "surface": "חסד",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עון",
-      "gloss": "ajọ omume"
+      "gloss": "ihe-ejọgbu"
     },
     {
       "surface": "ופשע",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "ונקה",
-      "gloss": "na-ekwe ka ... gbanahụ"
+      "gloss": "mana na-ekpochapụ"
     },
     {
       "surface": "לא",
-      "gloss": "naghị"
+      "gloss": "ọ bụghị"
     },
     {
       "surface": "ינקה",
-      "gloss": "gbanahụ"
+      "gloss": "ga-ekpochapụ"
     },
     {
       "surface": "פקד",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "עון",
-      "gloss": "ajọ omume"
+      "gloss": "ihe-ejọgbu"
     },
     {
       "surface": "אבות",
-      "gloss": "ndị nna"
+      "gloss": "nna"
     },
     {
       "surface": "על",
-      "gloss": "n'ahụ"
+      "gloss": "n'elu"
     },
     {
       "surface": "בנים",
@@ -73,21 +73,21 @@
     },
     {
       "surface": "על",
-      "gloss": "ruo n'ọgbọ"
+      "gloss": "ruo"
     },
     {
       "surface": "שלשים",
-      "gloss": "nke atọ"
+      "gloss": "ọgbọ nke atọ"
     },
     {
       "surface": "ועל",
-      "gloss": "na n'ọgbọ"
+      "gloss": "na ruo"
     },
     {
       "surface": "רבעים",
-      "gloss": "nke anọ"
+      "gloss": "ọgbọ nke anọ"
     }
   ],
-  "timestamp": "2026-08-27T16:27:57.543612211Z",
+  "timestamp": "2026-08-27T17:34:03.717753160Z",
   "model": "glm-5.3"
 }

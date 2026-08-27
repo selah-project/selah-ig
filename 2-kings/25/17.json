@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 25,
-  "translation": "Ama iri na asatọ bụ ogologo nke ọdọ ⟨the⟩ mbụ, na okpokolo ya dị n'elu ya bụ ọla kọpa; ogologo nke okpokolo ahụ bụ ama atọ, na nta na udala n'okpokolo ahụ gburugburu — ihe niile bụ ọla kọpa; dị ka ihe ndị a ka ọdọ ⟨the⟩ nke abụọ nwere, ya na ⟨the⟩ nta ya.",
+  "translation": "Aru olunu na asatọ bụ ọdịdị elu nke otu onyuko, ma kọtinet ya n'elu ya bụ ọla kọpa; ma ọdịdị elu nke ⟨את⟩ kọtinet bụ atọ aru, ma akwa-agbụ na pọmigranet n'elu kọtinet gburugburu — ihe niile bụ ọla kọpa; ma dịka ndị a ka ⟨את⟩ onyuko nke abụọ siri dị, ya na akwa-agbụ ahụ.",
   "tokens": [
     {
       "surface": "שמנה",
@@ -13,31 +13,31 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "iri"
+      "gloss": "na-aru"
     },
     {
       "surface": "אמה",
-      "gloss": "ama"
+      "gloss": "olu"
     },
     {
       "surface": "קומת",
-      "gloss": "ogologo nke"
+      "gloss": "ọdịdị elu"
     },
     {
       "surface": "העמוד",
-      "gloss": "ọdọ"
+      "gloss": "onyuko"
     },
     {
       "surface": "האחד",
-      "gloss": "⟨the⟩ mbụ"
+      "gloss": "nke otu"
     },
     {
       "surface": "וכתרת",
-      "gloss": "na okpokolo ya"
+      "gloss": "ma kọtinet"
     },
     {
       "surface": "עליו",
-      "gloss": "dị n'elu ya"
+      "gloss": "n'elu ya"
     },
     {
       "surface": "נחשת",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "וקומת",
-      "gloss": "na ogologo nke"
+      "gloss": "ma ọdịdị elu"
     },
     {
       "surface": "הכתרת",
-      "gloss": "okpokolo"
+      "gloss": "kọtinet"
     },
     {
       "surface": "שלש",
@@ -57,23 +57,23 @@
     },
     {
       "surface": "אמה",
-      "gloss": "ama"
+      "gloss": "aru"
     },
     {
       "surface": "ושבכה",
-      "gloss": "na nta"
+      "gloss": "ma akwa-agbụ"
     },
     {
       "surface": "ורמנים",
-      "gloss": "na udala"
+      "gloss": "na pọmigranet"
     },
     {
       "surface": "על",
-      "gloss": "n'"
+      "gloss": "n'elu"
     },
     {
       "surface": "הכתרת",
-      "gloss": "okpokolo"
+      "gloss": "kọtinet"
     },
     {
       "surface": "סביב",
@@ -89,15 +89,15 @@
     },
     {
       "surface": "וכאלה",
-      "gloss": "dị ka ihe ndị a"
+      "gloss": "ma dịka ndị a"
     },
     {
       "surface": "לעמוד",
-      "gloss": "ka ọdọ"
+      "gloss": "onyuko"
     },
     {
       "surface": "השני",
-      "gloss": "⟨the⟩ nke abụọ"
+      "gloss": "nke abụọ"
     },
     {
       "surface": "על",
@@ -105,9 +105,9 @@
     },
     {
       "surface": "השבכה",
-      "gloss": "⟨the⟩ nta ya"
+      "gloss": "akwa-agbụ ahụ"
     }
   ],
-  "timestamp": "2026-08-27T10:33:23.205114598Z",
+  "timestamp": "2026-08-27T17:44:51.207522096Z",
   "model": "glm-5.3"
 }

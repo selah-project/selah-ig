@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 2,
-  "translation": "Ma ahụ ga-ebu ụlọikwuu nzukọ, ogige ndị Livaị, n'etiti ⟨the⟩ ogige ndị ahụ; dịka ha dina, otu a ka ha ga-apụ, onye ọ bụla n'ọnọdụ ya, n'okpuru ọkọlọtọ ha.",
+  "translation": "Ahụrụkwa anyị na ụlọikwuu nzukọ ga-aga, ogige ndị Livaị, n'etiti ⟨את⟩ ogige ndị ahụ; dịka ha nọdụrụ n'ogige otu ahụ, otu ahụkwa ka ha ga-esi pụọ njem, onye ọ bụla n'ebe ya, n'okpuru ọkọlọtọ ndị ha.",
   "tokens": [
     {
       "surface": "ונסע",
-      "gloss": "ga-ebu"
+      "gloss": "ga-aga njem"
     },
     {
       "surface": "אהל",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "יחנו",
-      "gloss": "ha dina"
+      "gloss": "ha nọdụrụ n'ogige"
     },
     {
       "surface": "כן",
-      "gloss": "otu a"
+      "gloss": "otu ahụkwa"
     },
     {
       "surface": "יסעו",
-      "gloss": "ha ga-apụ"
+      "gloss": "ha ga-esi pụọ njem"
     },
     {
       "surface": "איש",
@@ -57,17 +57,17 @@
     },
     {
       "surface": "על",
-      "gloss": "n'"
+      "gloss": "n'ebe"
     },
     {
       "surface": "ידו",
-      "gloss": "ọnọdụ ya"
+      "gloss": "aka ya"
     },
     {
       "surface": "לדגליהם",
-      "gloss": "n'okpuru ọkọlọtọ ha"
+      "gloss": "n'okpuru ọkọlọtọ ndị ha"
     }
   ],
-  "timestamp": "2026-08-27T07:12:51.536024416Z",
+  "timestamp": "2026-08-27T17:33:16.255032507Z",
   "model": "glm-5.3"
 }

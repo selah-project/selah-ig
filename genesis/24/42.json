@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 24,
-  "translation": "M bịara taa ruo ⟨the⟩ isi mmiri, m wee sị: Yahwe, Elohim nke Adonai m Avraham, ọ bụrụ na ọ dị gị ugbu a, mee ka ụzọ m, nke m na-aga, ga nke ọma.",
+  "translation": "M bịara taa n'olulu mmiri, ma m kwuo, Yahwe, Elohim nke adọni m Avraham, bụrụ na ọ dị gị, biko, ka ị na-eme ka ụzọ m nke m na-aga nke ọma,",
   "tokens": [
     {
       "surface": "ואבא",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "n'olu"
     },
     {
       "surface": "העין",
-      "gloss": "isi mmiri ⟨the⟩"
+      "gloss": "olu mmiri"
     },
     {
       "surface": "ואמר",
-      "gloss": "m wee sị"
+      "gloss": "ma m kwuo"
     },
     {
       "surface": "יהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "Adonai m"
+      "gloss": "adọni m"
     },
     {
       "surface": "אברהם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "ọ bụrụ na"
+      "gloss": "bụrụ na"
     },
     {
       "surface": "ישך",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "נא",
-      "gloss": "ugbu a"
+      "gloss": "biko"
     },
     {
       "surface": "מצליח",
-      "gloss": "na-aga nke ọma"
+      "gloss": "na-eme nke ọma"
     },
     {
       "surface": "דרכי",
@@ -80,6 +80,6 @@
       "gloss": "ya"
     }
   ],
-  "timestamp": "2026-08-27T05:42:25.163610510Z",
+  "timestamp": "2026-08-27T17:29:45.943523317Z",
   "model": "glm-5.3"
 }

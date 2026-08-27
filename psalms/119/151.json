@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 119,
-  "translation": "Ị ⟨is⟩ nso, Yahwe; ma iwu Gị niile bụ eziokwu.",
+  "translation": "Ị dị nso, Yahwe, ma ihe ndị dị n'iwu gị niile bụ eziokwu.",
   "tokens": [
     {
       "surface": "קרוב",
-      "gloss": "nso"
+      "gloss": "dị nso"
     },
     {
       "surface": "אתה",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "מצותיך",
-      "gloss": "iwu Gị"
+      "gloss": "iwu gị \/ ihe ndị dị n'iwu gị"
     },
     {
       "surface": "אמת",
       "gloss": "eziokwu"
     }
   ],
-  "timestamp": "2026-08-27T14:02:36.414323275Z",
+  "timestamp": "2026-08-27T17:54:15.350291238Z",
   "model": "glm-5.3"
 }

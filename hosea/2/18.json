@@ -5,11 +5,11 @@
   "book": "hosea",
   "lang": "ig",
   "chapter": 2,
-  "translation": "Ọ ga-abụ n'ụbọchị ahụ, nkwuwa okwu Yahwe, ị ga-akpọ m Ishi, ị gaghị akpọ m ọzọ Baali.",
+  "translation": "Ọ ga-abụ n'ụbọchị ahụ, okwu Yahwe, ị ga-akpọ m di m, ị gaghịzikwa akpọ m ọzọ onye-nwe-m.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Ọ ga-abụ"
+      "gloss": "ọ ga-abụ"
     },
     {
       "surface": "ביום",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "nkwuwa okwu"
+      "gloss": "okwu"
     },
     {
       "surface": "יהוה",
@@ -33,19 +33,15 @@
     },
     {
       "surface": "אישי",
-      "gloss": "Ishi"
-    },
-    {
-      "surface": "ו",
-      "gloss": "na-akpọ"
+      "gloss": "di m"
     },
     {
       "surface": "ולא",
-      "gloss": "ị gaghị"
+      "gloss": "ma ọ bụghị"
     },
     {
       "surface": "תקראי",
-      "gloss": "akpọ"
+      "gloss": "ị ga-akpọ"
     },
     {
       "surface": "לי",
@@ -57,9 +53,9 @@
     },
     {
       "surface": "בעלי",
-      "gloss": "Baali"
+      "gloss": "onye-nwe-m"
     }
   ],
-  "timestamp": "2026-08-27T12:39:53.915957284Z",
+  "timestamp": "2026-08-27T17:50:44.842967687Z",
   "model": "glm-5.3"
 }

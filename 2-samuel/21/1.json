@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 21,
-  "translation": "Mee agụụ nọ n'ụbọchị Davịd, afọ atọ, afọ n'azụ afọ; Davịd chọrọ ⟨את⟩ ihu Yahwe, ma Yahwe sịrị, Ọ bụ maka Shaụl na maka ⟨the⟩ ụlọ ọbara, n'ihi na o gbuo ⟨את⟩ ndị Gibeọn.",
+  "translation": "Mmekọ nke ụnwụ nri nọ n'ụbọchị Dawid, afọ atọ, afọ n'azụ afọ; Dawid jụrụ ⟨את⟩ ihu Yahwe, Yahwe wee sị, maka Shaúl na maka ụlọ ọbara, n'ihi na o gburu ⟨את⟩ ndị Gibeon.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Mee"
+      "gloss": "mmekọ nke ụnwụ nri nọ"
     },
     {
       "surface": "רעב",
-      "gloss": "agụụ"
+      "gloss": "ụnwụ nri"
     },
     {
       "surface": "בימי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davịd"
+      "gloss": "Dawid"
     },
     {
       "surface": "שלש",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ויבקש",
-      "gloss": "chọrọ"
+      "gloss": "jụrụ"
     },
     {
       "surface": "דוד",
-      "gloss": "Davịd"
+      "gloss": "Dawid"
     },
     {
       "surface": "את",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "sịrị"
+      "gloss": "wee sị"
     },
     {
       "surface": "יהוה",
@@ -74,15 +74,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "gawa"
+      "gloss": "maka"
     },
     {
       "surface": "שאול",
-      "gloss": "Shaụl"
+      "gloss": "Shaúl"
     },
     {
       "surface": "ואל",
-      "gloss": "na gawa"
+      "gloss": "na maka"
     },
     {
       "surface": "בית",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "על",
-      "gloss": "maka"
+      "gloss": "n'ihi na"
     },
     {
       "surface": "אשר",
@@ -102,18 +102,18 @@
     },
     {
       "surface": "המית",
-      "gloss": "ogbuo"
+      "gloss": "ogburu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ndị Gibeọn"
+      "marks": "ndị Gibeon"
     },
     {
       "surface": "הגבענים",
-      "gloss": "ndị Gibeọn"
+      "gloss": "ndị Gibeon"
     }
   ],
-  "timestamp": "2026-08-27T09:45:31.352176343Z",
+  "timestamp": "2026-08-27T17:41:28.222936987Z",
   "model": "glm-5.3"
 }

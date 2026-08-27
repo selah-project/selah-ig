@@ -1,1 +1,117 @@
-{"tier":"glm-5.2","verse":9,"ref":"2-chronicles 12:9","book":"2-chronicles","lang":"ig","chapter":12,"translation":"Shishak, eze Mitsrajim, rịgooro megide Yerushalayim, ma were ⟨את⟩ akụ nke ụlọ Yahwe na ⟨את⟩ akụ nke ụlọ ⟨the⟩ eze; ọ were ⟨את⟩ ihe niile; o weerekwa ⟨את⟩ ọta ọla-edo ndị Shlomom mere.","tokens":[{"surface":"ויעל","gloss":"rịgooro"},{"surface":"שישק","gloss":"Shishak"},{"surface":"מלך","gloss":"eze"},{"surface":"מצרים","gloss":"Mitsrajim"},{"surface":"על","gloss":"megide"},{"surface":"ירושלם","gloss":"Yerushalayim"},{"surface":"ויקח","gloss":"ma were"},{"surface":"את","gloss":"⟨את⟩","marks":"akụ nke ụlọ Yahwe"},{"surface":"אצרות","gloss":"akụ"},{"surface":"בית","gloss":"ụlọ"},{"surface":"יהוה","gloss":"Yahwe"},{"surface":"ואת","gloss":"na ⟨את⟩","marks":"akụ nke ụlọ eze"},{"surface":"אצרות","gloss":"akụ"},{"surface":"בית","gloss":"ụlọ"},{"surface":"המלך","gloss":"eze"},{"surface":"את","gloss":"⟨את⟩","marks":"ihe niile"},{"surface":"הכל","gloss":"ihe niile"},{"surface":"לקח","gloss":"ọ were"},{"surface":"ויקח","gloss":"o weerekwa"},{"surface":"את","gloss":"⟨את⟩","marks":"ọta ọla-edo"},{"surface":"מגני","gloss":"ọta"},{"surface":"הזהב","gloss":"ọla-edo"},{"surface":"אשר","gloss":"ndị"},{"surface":"עשה","gloss":"mere"},{"surface":"שלמה","gloss":"Shlomom"}],"timestamp":"2026-08-27T16:11:31.660091359Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 12:9",
+  "book": "2-chronicles",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Shishak, eze Mitsraim, rịgooro elu megide Yerushalayim, wee were ⟨את⟩ akụ́ nke ụlọ Yahwe na ⟨את⟩ akụ́ nke ụlọ ⟨nke⟩ eze; ⟨את⟩ ihe niile ka o were, o werekwa ⟨את⟩ ọmụma ọlaedo ndị Shlomoh mere.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "rịgooro elu"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "על",
+      "gloss": "megide"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wee were"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akụ́ nke ụlọ Yahwe"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "akụ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akụ́ nke ụlọ eze"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "akụ́"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ụlọ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "eze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ihe niile"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ka o were"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o werekwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọmụma ọlaedo"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ọmụma"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ọlaedo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mere"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    }
+  ],
+  "timestamp": "2026-08-27T17:59:55.537380791Z",
+  "model": "glm-5.3"
+}

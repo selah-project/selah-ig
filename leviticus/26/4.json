@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 26,
-  "translation": "M ga-enye mmiri ozuzo unu n'oge ha, na ⟨⟨ala⟨⟨⟩⟩ ga-enye ihe ọ na-amịpụta, na osisi nke mpaghara ga-enye mkpụrụ ya;",
+  "translation": "M ga-enye gị mmiri ozuzo n'oge ya, ala ga-enye mmepụta ya, osisi nke ubi ga-enye mkpụrụ ya.",
   "tokens": [
     {
       "surface": "ונתתי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "גשמיכם",
-      "gloss": "mmiri ozuzo unu"
+      "gloss": "mmiri ozuzo gị"
     },
     {
       "surface": "בעתם",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ala"
+      "gloss": "⟨ala⟩"
     },
     {
       "surface": "יבולה",
-      "gloss": "ihe ọ na-amịpụta"
+      "gloss": "mmepụta ya"
     },
     {
       "surface": "ועץ",
-      "gloss": "na osisi"
+      "gloss": "osisi"
     },
     {
       "surface": "השדה",
-      "gloss": "nke mpaghara"
+      "gloss": "nke ubi"
     },
     {
       "surface": "יתן",
@@ -48,6 +48,6 @@
       "gloss": "mkpụrụ ya"
     }
   ],
-  "timestamp": "2026-08-27T07:07:19.814338824Z",
+  "timestamp": "2026-08-27T18:00:55.673572404Z",
   "model": "glm-5.3"
 }

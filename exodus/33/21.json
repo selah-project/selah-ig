@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 33,
-  "translation": "Yahwe wee sị: Le, ebe dị nso m, ị ga-adọrọ na nkume ahụ.",
+  "translation": "Yahwe wee sị: Lee, ebe dị n'akụkụ m, ma ị ga-adọrọ na nkume ahụ.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Le"
+      "gloss": "Lee"
     },
     {
       "surface": "מקום",
@@ -25,7 +25,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ nso m"
+      "gloss": "⟨את⟩ n'akụkụ m",
+      "marks": "n'akụkụ m (okwu nke את na-ezo aka)"
     },
     {
       "surface": "ונצבת",
@@ -37,9 +38,9 @@
     },
     {
       "surface": "הצור",
-      "gloss": "nkume ⟨the⟩ ahụ"
+      "gloss": "nkume ahụ"
     }
   ],
-  "timestamp": "2026-08-27T06:34:32.875504609Z",
+  "timestamp": "2026-08-27T17:31:26.316135582Z",
   "model": "glm-5.3"
 }

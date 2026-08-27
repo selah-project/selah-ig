@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 8,
-  "translation": "Hapụ ⟨⟨את⟩⟩-gị ọpụpụ ihe ndụ niile dị ndụ nọ n'akụkụ gị, nke anụ niile — n'ụdị nnụnụ, na anụ ụlọ, na ihe niile na-agba agba n'elu ụwa; ka ha nwekwuo ọtụtụ n'ụwa, ma mụọ, ma bụrụ ọtụtụ n'elu ⟨the⟩ ụwa.",
+  "translation": "Mké nílé nke dị ⟨את⟩ gbalịpụtara n'akụkụ gị, site ná anụ nílé, ná nnụnụ, ná ụmụ anụmanụ, ná ihe na-agbanye ukwu nílé nke na-agbanye ukwu n'elu ụwa — hapụ ha ka ha pụọ ⟨את⟩ gbalịpụtara; ka ha mụọ ọtụtụ n'ime ụwa, ka ha mụọ mkpụrụ, ka ha bụrụ ọtụtụ n'elu ụwa.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "niile"
+      "gloss": "nílé"
     },
     {
       "surface": "החיה",
-      "gloss": "ihe ndụ"
+      "gloss": "mké"
     },
     {
       "surface": "אשר",
@@ -21,36 +21,36 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ gị",
+      "gloss": "⟨את⟩ gbalịpụtara",
       "marks": "n'akụkụ gị"
     },
     {
       "surface": "מכל",
-      "gloss": "nke anụ niile"
+      "gloss": "site ná"
     },
     {
       "surface": "בשר",
-      "gloss": "anụ"
+      "gloss": "anụ nílé"
     },
     {
       "surface": "בעוף",
-      "gloss": "n'ụdị nnụnụ"
+      "gloss": "ná nnụnụ"
     },
     {
       "surface": "ובבהמה",
-      "gloss": "na anụ ụlọ"
+      "gloss": "ná ụmụ anụmanụ"
     },
     {
       "surface": "ובכל",
-      "gloss": "na ihe niile"
+      "gloss": "ná nílé"
     },
     {
       "surface": "הרמש",
-      "gloss": "ihe na-agba agba"
+      "gloss": "ihe na-agbanye ukwu"
     },
     {
       "surface": "הרמש",
-      "gloss": "na-agba agba"
+      "gloss": "nke na-agbanye ukwu"
     },
     {
       "surface": "על",
@@ -62,28 +62,28 @@
     },
     {
       "surface": "הוצא",
-      "gloss": "hapụ ọpụpụ"
+      "gloss": "hapụ ha ka ha pụọ"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ gị",
-      "marks": "n'akụkụ gị"
+      "gloss": "⟨את⟩ gbalịpụtara",
+      "marks": "gbalịpụtara"
     },
     {
       "surface": "ושרצו",
-      "gloss": "ka ha nwekwuo ọtụtụ"
+      "gloss": "ka ha mụọ ọtụtụ"
     },
     {
       "surface": "בארץ",
-      "gloss": "n'ụwa"
+      "gloss": "n'ime ụwa"
     },
     {
       "surface": "ופרו",
-      "gloss": "ma mụọ"
+      "gloss": "ka ha mụọ mkpụrụ"
     },
     {
       "surface": "ורבו",
-      "gloss": "ma bụrụ ọtụtụ"
+      "gloss": "ka ha bụrụ ọtụtụ"
     },
     {
       "surface": "על",
@@ -94,6 +94,6 @@
       "gloss": "ụwa"
     }
   ],
-  "timestamp": "2026-08-27T05:29:28.888760792Z",
+  "timestamp": "2026-08-27T17:28:40.080403046Z",
   "model": "glm-5.3"
 }

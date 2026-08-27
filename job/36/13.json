@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "ig",
   "chapter": 36,
-  "translation": "Ndị-adịghị-okwukwe nke obi na-etinye iwe; ha anaghị akpọku ⟨כי⟩ ⟨ọ⟩ kekọtara ha.",
+  "translation": "Ma ndị ajọ obi na-eku iwe; ha anaghị akpọku mgbe ⟨ọ⟩ na-ejide ha.",
   "tokens": [
     {
       "surface": "וחנפי",
-      "gloss": "ndị-adịghị-okwukwe"
+      "gloss": "ma ndị ajọ"
     },
     {
       "surface": "לב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישימו",
-      "gloss": "na-etinye"
+      "gloss": "na-etinye\/na-eku"
     },
     {
       "surface": "אף",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "כי",
-      "gloss": "⟨כי⟩"
+      "gloss": "mgbe"
     },
     {
       "surface": "אסרם",
-      "gloss": "ọ kekọtara ha"
+      "gloss": "ọ na-ejide ha"
     }
   ],
-  "timestamp": "2026-08-27T14:55:57.281621381Z",
+  "timestamp": "2026-08-27T17:56:35.076663798Z",
   "model": "glm-5.3"
 }

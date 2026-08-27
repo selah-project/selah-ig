@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 33,
-  "translation": "Ọ wee sị: M m ga-eme ka ⟨the⟩ ọma m niile gafee n'ihu gị, m ga-ekwukwa aha Yahwe n'ihu gị; m ga-egrizozọ ⟨את⟩ onye m chere iri grizozọ, ma m ga-enyere ⟨את⟩ onye m chere inyere onyinye.",
+  "translation": "O wee sị: M ga-eme ka ṅọma m niile gafere n'ihu gị, m ga-akpọ okpu Aha Yahwe n'ihu gị, m ga-enye amara onye m ga-enye amara, m ga-ṅụkọta ọmịiko onye m ga-ṅụkọta ọmịiko.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ọ wee sị"
+      "gloss": "O wee sị"
     },
     {
       "surface": "אני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אעביר",
-      "gloss": "m ga-eme ka ọ gafee"
+      "gloss": "ga-eme ka ọ gafere"
     },
     {
       "surface": "כל",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "טובי",
-      "gloss": "ọma m"
+      "gloss": "ṅọma m"
     },
     {
       "surface": "על",
-      "gloss": "n'elu"
+      "gloss": "n'"
     },
     {
       "surface": "פניך",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "וקראתי",
-      "gloss": "m ga-ekwukwa"
+      "gloss": "m ga-akpọ okpu"
     },
     {
       "surface": "בשם",
-      "gloss": "aha"
+      "gloss": "n'Aha"
     },
     {
       "surface": "יהוה",
@@ -53,12 +53,12 @@
     },
     {
       "surface": "וחנתי",
-      "gloss": "m ga-egrizozọ"
+      "gloss": "m ga-enye amara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onye m chere iri grizozọ"
+      "marks": "onye m ga-enye amara"
     },
     {
       "surface": "אשר",
@@ -66,16 +66,16 @@
     },
     {
       "surface": "אחן",
-      "gloss": "m chere iri grizozọ"
+      "gloss": "m ga-enye amara"
     },
     {
       "surface": "ורחמתי",
-      "gloss": "m ga-enyere"
+      "gloss": "m ga-ṅụkọta ọmịiko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "onye m chere inyere onyinye"
+      "marks": "onye m ga-ṅụkọta ọmịiko"
     },
     {
       "surface": "אשר",
@@ -83,9 +83,9 @@
     },
     {
       "surface": "ארחם",
-      "gloss": "m chere inyere onyinye"
+      "gloss": "m ga-ṅụkọta ọmịiko"
     }
   ],
-  "timestamp": "2026-08-27T06:35:38.306034864Z",
+  "timestamp": "2026-08-27T17:31:15.317217712Z",
   "model": "glm-5.3"
 }

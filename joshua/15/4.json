@@ -5,11 +5,19 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 15,
-  "translation": "Ọ gafere Atsmon, ruo mmiri-asọ nke Mitsrajim; ngwụcha nke ókèala ahụ dị n'akụkụ oké osimiri. Nke a ga-abụrị gị ókèala ndịda.",
+  "translation": "Ma gafere ⟨את⟩ Atsmon, wee pụta na mmiri-asọ nke Mitzrajim; mmalite-pụpụ nke ókèala ahụ ga-abụ n'akụkụ oké osimiri. Nke a bụ ókèala ndịda gị.",
   "tokens": [
     {
+      "surface": "ועבר",
+      "gloss": "ma gafere"
+    },
+    {
+      "surface": "עצמונה",
+      "gloss": "Atsmon"
+    },
+    {
       "surface": "ויצא",
-      "gloss": "ruo"
+      "gloss": "wee pụta"
     },
     {
       "surface": "נחל",
@@ -17,31 +25,31 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "nke Mitsrajim"
+      "gloss": "nke Mitzrajim"
     },
     {
       "surface": "והיה",
-      "gloss": "ngwụcha nke"
+      "gloss": "ga-abụ"
     },
     {
       "surface": "תצאות",
-      "gloss": "ókèala ahụ dị"
+      "gloss": "mmalite-pụpụ"
     },
     {
       "surface": "הגבול",
-      "gloss": "n'akụkụ oké osimiri"
+      "gloss": "nke ókèala ahụ"
     },
     {
       "surface": "ימה",
-      "gloss": ""
+      "gloss": "n'akụkụ oké osimiri"
     },
     {
       "surface": "זה",
-      "gloss": "Nke a"
+      "gloss": "nke a"
     },
     {
       "surface": "יהיה",
-      "gloss": "ga-abụrị"
+      "gloss": "ga-abụ"
     },
     {
       "surface": "לכם",
@@ -56,6 +64,6 @@
       "gloss": "ndịda"
     }
   ],
-  "timestamp": "2026-08-27T16:31:42.398736083Z",
+  "timestamp": "2026-08-27T17:38:35.069874941Z",
   "model": "glm-5.3"
 }

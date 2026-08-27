@@ -5,15 +5,15 @@
   "book": "joel",
   "lang": "ig",
   "chapter": 2,
-  "translation": "N'ime ⟨the⟩ obodo ha na-esọ ọsọ; n'elu mgbidi ha na-agba ọsọ; n'ime ụlọ ha na-arịgo; site n'ime windo ha na-abata, dịka onye ohi.",
+  "translation": "N'obodo ha na-agba ọsọ gburugburu; n'elu mgbidi ha na-agba ọsọ; n'ụlọ ha na-arịgo; site na windo ha na-abata dịka onye ohi.",
   "tokens": [
     {
       "surface": "בעיר",
-      "gloss": "n'ime obodo"
+      "gloss": "n'obodo"
     },
     {
       "surface": "ישקו",
-      "gloss": "ha na-esọ ọsọ"
+      "gloss": "ha na-agba ọsọ gburugburu"
     },
     {
       "surface": "בחומה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בבתים",
-      "gloss": "n'ime ụlọ"
+      "gloss": "n'ụlọ"
     },
     {
       "surface": "יעלו",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "בעד",
-      "gloss": "site n'ime"
+      "gloss": "site na"
     },
     {
       "surface": "החלונים",
-      "gloss": "windo"
+      "gloss": "windo ndị ahụ"
     },
     {
       "surface": "יבאו",
@@ -48,6 +48,6 @@
       "gloss": "dịka onye ohi"
     }
   ],
-  "timestamp": "2026-08-27T12:44:46.408277441Z",
+  "timestamp": "2026-08-27T17:52:16.112414117Z",
   "model": "glm-5.3"
 }

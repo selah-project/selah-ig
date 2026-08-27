@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 5,
-  "translation": "Ị maara ⟨את⟩ David, nna m, na o nweghị ike iwu ụlọ maka aha Yahwe, Elohim ya, n'ihi ⟨the⟩ agha ndị gbara ya gburugburu, ruo mgbe Yahwe nyere ⟨את⟩ ⟨אתם⟩ ha n'okpuru ụkwụ ya.",
+  "translation": "Ị maara ⟨את⟩ Dawid nna m, na ọ nweghị ike iwulite ụlọ maka aha Yahwe Elohim ya n'ihi agha ndị gbara ya gburugburu, ruo mgbe Yahwe nyere ⟨את⟩ ha n'okpụ nkwọ ụkwụ m.",
   "tokens": [
     {
       "surface": "אתה",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "David"
+      "marks": "Dawid"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Dawid"
     },
     {
       "surface": "אבי",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "ọ nweghị"
+      "gloss": "ọ dịghị"
     },
     {
       "surface": "יכל",
-      "gloss": "ike"
+      "gloss": "nwere ike"
     },
     {
       "surface": "לבנות",
-      "gloss": "iwu"
+      "gloss": "iwulite"
     },
     {
       "surface": "בית",
@@ -90,22 +90,22 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "ha"
+      "gloss": "⟨את⟩",
+      "marks": "ha (agha ndị iro)"
     },
     {
       "surface": "תחת",
-      "gloss": "n'okpuru"
+      "gloss": "n'okpụ"
     },
     {
       "surface": "כפות",
-      "gloss": "isi"
+      "gloss": "nkwọ"
     },
     {
       "surface": "רגלו",
-      "gloss": "ụkwụ ya"
+      "gloss": "ụkwụ m"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.280194016Z",
+  "timestamp": "2026-08-27T17:42:37.910332831Z",
   "model": "glm-5.3"
 }

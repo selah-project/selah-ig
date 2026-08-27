@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 11,
-  "translation": "Ọ ga-abụrịrị na mgbe Yahwe, Elohim gị, duuru gị bata n'ala ị na-abanye n'ebe ahụ iji weghara ya, ka ị tinye ⟨את⟩ ngọzi n'elu ugwu Gerizim, na ⟨את⟩ narụ ala n'elu ugwu Ebal.",
+  "translation": "Ga-abụ na mgbe Yahwe Elohim gị wetara gị n'ala ị na-abata ya iji nwe ya, ị ga-etinye ⟨את⟩ ngọzi n'ugwu Gerizim, na ⟨את⟩ ọnwụwa n'ugwu Eival.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "ọ ga-abụrịrị na"
+      "gloss": "ga-abụ"
     },
     {
       "surface": "כי",
-      "gloss": "mgbe"
+      "gloss": "na"
     },
     {
       "surface": "יביאך",
-      "gloss": "duuru gị bata"
+      "gloss": "wetara gị"
     },
     {
       "surface": "יהוה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "na"
+      "gloss": "n'"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ala"
+      "gloss": "ala"
     },
     {
       "surface": "אשר",
@@ -41,23 +41,23 @@
     },
     {
       "surface": "אתה",
-      "gloss": "ị"
+      "gloss": "gị"
     },
     {
       "surface": "בא",
-      "gloss": "na-abanye"
+      "gloss": "na-abata"
     },
     {
       "surface": "שמה",
-      "gloss": "n'ebe ahụ"
+      "gloss": "ya ebe ahụ"
     },
     {
       "surface": "לרשתה",
-      "gloss": "iji weghara ya"
+      "gloss": "iji nwe ya"
     },
     {
       "surface": "ונתתה",
-      "gloss": "ka ị tinye"
+      "gloss": "ga-etinye"
     },
     {
       "surface": "את",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "הברכה",
-      "gloss": "⟨the⟩ ngọzi"
+      "gloss": "ngọzi"
     },
     {
       "surface": "על",
-      "gloss": "n'elu"
+      "gloss": "n'"
     },
     {
       "surface": "הר",
@@ -82,16 +82,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "narụ ala"
+      "gloss": "⟨את⟩",
+      "marks": "ọnwụwa"
     },
     {
       "surface": "הקללה",
-      "gloss": "⟨the⟩ narụ ala"
+      "gloss": "ọnwụwa"
     },
     {
       "surface": "על",
-      "gloss": "n'elu"
+      "gloss": "n'"
     },
     {
       "surface": "הר",
@@ -99,9 +99,9 @@
     },
     {
       "surface": "עיבל",
-      "gloss": "Ebal"
+      "gloss": "Eival"
     }
   ],
-  "timestamp": "2026-08-27T07:58:26.624485442Z",
+  "timestamp": "2026-08-27T17:36:54.458130587Z",
   "model": "glm-5.3"
 }

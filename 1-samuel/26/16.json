@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 26,
-  "translation": "Ihe a ị mere adịghị mma. Dịka Yahwe dị ndụ, unu bụ ụmụ nke ọnwụ, n'ihi na unu enyeghị nchebarala banyere onyenwe unu, banyere Mashiach nke Yahwe. Ma ugbu a, hie ebe ube ⟨the⟩ eze nọ, na ⟨את⟩ ite mmiri ahụ nke dị n'isi ya.",
+  "translation": "Okwu a ị mere adịghị mma. Dịka Yahwe dị ndụ, ụmụ ọnwụ ka unọ n'ihi na uny echeghị chemistry adaeze unọ, n'elu Mashiach nke Yahwe. Ugbu a hụ ebe ube nke eze dị na ⟨את⟩ ite mmiri ahụ nke dị n'isi ya.",
   "tokens": [
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "ihe"
+      "gloss": "Okwu"
     },
     {
       "surface": "הזה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "unu"
+      "gloss": "unọ"
     },
     {
       "surface": "אשר",
@@ -61,23 +61,23 @@
     },
     {
       "surface": "לא",
-      "gloss": "ọ dịghị"
+      "gloss": "ọnaghị"
     },
     {
       "surface": "שמרתם",
-      "gloss": "na-echebeghị"
+      "gloss": "uny echeghị"
     },
     {
       "surface": "על",
-      "gloss": "banyere"
+      "gloss": "chemistry"
     },
     {
       "surface": "אדניכם",
-      "gloss": "onyenwe unu"
+      "gloss": "adaeze unọ"
     },
     {
       "surface": "על",
-      "gloss": "banyere"
+      "gloss": "n'elu"
     },
     {
       "surface": "משיח",
@@ -89,11 +89,11 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "ma ugbu a"
+      "gloss": "Ugbu a"
     },
     {
       "surface": "ראה",
-      "gloss": "hie"
+      "gloss": "hụ"
     },
     {
       "surface": "אי",
@@ -110,7 +110,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ite mmiri"
+      "marks": "ite mmiri ahụ"
     },
     {
       "surface": "צפחת",
@@ -129,6 +129,6 @@
       "gloss": "n'isi ya"
     }
   ],
-  "timestamp": "2026-08-27T09:27:05.341767516Z",
+  "timestamp": "2026-08-27T17:40:37.317810919Z",
   "model": "glm-5.3"
 }

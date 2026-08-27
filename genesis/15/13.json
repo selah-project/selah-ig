@@ -5,23 +5,23 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 15,
-  "translation": "O wee sị Avram: Maara nke ọma na mkpụrụ gị ga-abụ onye ọbịa n'ala ⟨the⟩ na-abụghị nke ha; ha ga-jeere ha ozi, ha ga-emekwa ⟨את⟩ ha ihe ọjọọ, afọ narị anọ.",
+  "translation": "O kwuru ⟨את⟩ okwu a nye Avraham: \"Mara nke ọma na mkpụrụ gị ga-abụ ndị ọbịa n'ala ⟨⟩ na-abụghị nke ha, ha ga-je ha ozi, ha ga-emekwa ⟨את⟩ ha ihe ọjọọ, ruo afọ narị anọ.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "O wee sị"
+      "gloss": "O kwuru"
     },
     {
       "surface": "לאברם",
-      "gloss": "Avram"
+      "gloss": "nye Avraham"
     },
     {
       "surface": "ידע",
-      "gloss": "maara"
+      "gloss": "Mara"
     },
     {
       "surface": "תדע",
-      "gloss": "nke ọma"
+      "gloss": "ị ga-mara"
     },
     {
       "surface": "כי",
@@ -45,23 +45,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "na-abụghị"
+      "gloss": "ọ bụghị"
     },
     {
       "surface": "להם",
       "gloss": "nke ha"
     },
     {
-      "surface": "ויאמר",
-      "gloss": ""
-    },
-    {
       "surface": "ועבדום",
-      "gloss": "ha ga-jeere ha ozi"
+      "gloss": "ha ga-je ha ozi"
     },
     {
       "surface": "וענו",
-      "gloss": "⟨את⟩ ha ga-emekwa ihe ọjọọ"
+      "gloss": "ha ga-emekwa ihe ọjọọ"
     },
     {
       "surface": "אתם",
@@ -81,6 +77,6 @@
       "gloss": "afọ"
     }
   ],
-  "timestamp": "2026-08-27T05:34:10.431260353Z",
+  "timestamp": "2026-08-27T17:28:35.208611973Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 19,
-  "translation": "N'ụbọchị ahụ, ga-adị ⟨is⟩ ụzọ ukwu site na Mitzrayim gaa Ashshur; Ashshur ga-abata na Mitzrayim, Mitzrayim na Ashshur, Mitzrayim ga-ejikọ ọrụ ⟨את⟩ Ashshur.",
+  "translation": "N'ụbọchị ahụ, a ga-enwu okporo ụzọ si na Mitzrayim gaa Ashshur, Ashshur ga-abịa na Mitzrayim, Mitzrayim ga-abịa na Ashshur, Mitzrayim ga-enyere Ashshur aka ⟨את⟩.",
   "tokens": [
     {
       "surface": "ביום",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מסלה",
-      "gloss": "ụzọ ukwu"
+      "gloss": "okporo ụzọ"
     },
     {
       "surface": "ממצרים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ובא",
-      "gloss": "ga-abata"
+      "gloss": "ọ ga-abịa"
     },
     {
       "surface": "אשור",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ועבדו",
-      "gloss": "ga-ejikọ ọrụ"
+      "gloss": "ha ga-ejikọ ọrụ"
     },
     {
       "surface": "מצרים",
@@ -69,6 +69,6 @@
       "gloss": "Ashshur"
     }
   ],
-  "timestamp": "2026-08-27T10:42:35.331946751Z",
+  "timestamp": "2026-08-27T17:44:54.459811504Z",
   "model": "glm-5.3"
 }

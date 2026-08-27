@@ -5,15 +5,11 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 3,
-  "translation": "Ma Gi, Yahwe, ⟨ị bụ⟩ mma mkpe gbara m gburugbu, otuto m, na Onye na-ewelite isi m.",
+  "translation": "Ma gị, Yahwe, ⟨⟨i⟩⟩ chi nchebe gbara m gburugbu; nsọ m, na onye na-ebuli isi m elu.",
   "tokens": [
     {
-      "surface": "ו",
-      "gloss": "Ma"
-    },
-    {
-      "surface": "אתה",
-      "gloss": "Gi"
+      "surface": "ואתה",
+      "gloss": "Ma gị"
     },
     {
       "surface": "יהוה",
@@ -21,7 +17,7 @@
     },
     {
       "surface": "מגן",
-      "gloss": "mma mkpe"
+      "gloss": "chi nchebe"
     },
     {
       "surface": "בעדי",
@@ -29,17 +25,17 @@
     },
     {
       "surface": "כבודי",
-      "gloss": "otuto m"
+      "gloss": "nsọ m"
     },
     {
       "surface": "ומרים",
-      "gloss": "na Onye na-ewelite"
+      "gloss": "na onye na-ebuli"
     },
     {
       "surface": "ראשי",
-      "gloss": "isi m"
+      "gloss": "isi m elu"
     }
   ],
-  "timestamp": "2026-08-27T13:10:35.556171463Z",
+  "timestamp": "2026-08-27T17:52:29.500135515Z",
   "model": "glm-5.3"
 }

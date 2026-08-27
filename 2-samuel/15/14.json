@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 15,
-  "translation": "David wee si ndị ohu ya niile ⟨ndị⟩ ⟨את⟩-nọ ya na Yerushalayim: \"Bilie, ka anyị gbapụ, n'ihi na ọ gaghị enye anyị mgbapụ n'ihu Avshalom; mee ngwa i je, ka ọ ghara ime ngwa, ruo anyị, tinye n'elu anyị ⟨את⟩ ihe ọjọọ, ma tie ⟨the⟩ obodo ahụ site n'ọnụ mmaa.\"",
+  "translation": "David wee sị ndị ohu ya niile nọ ya na Yerushalayim: Bilie, ka anyị gbapụ, n'ihi na agaghị enwe mgbapụ anyị n'ihu Avshalom; mee ọsịsa ịga, ka ọ ghara ịma ọsịsa, mee ka anyị, kụọ anyị ihe ọjọ, wee tie obodo ahụ akụkụ mma agha.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wee si"
+      "gloss": "wee sị"
     },
     {
       "surface": "דוד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "ruo ndị niile"
+      "gloss": "sị ndị ... niile"
     },
     {
       "surface": "עבדיו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨ndị⟩"
+      "gloss": "ndị"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩-nọ ya"
+      "gloss": "⟨את⟩ ya"
     },
     {
       "surface": "בירושלם",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ọ gaghị"
+      "gloss": "ghara"
     },
     {
       "surface": "תהיה",
-      "gloss": "enye"
+      "gloss": "enwe"
     },
     {
       "surface": "לנו",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "מהרו",
-      "gloss": "mee ngwa"
+      "gloss": "mee ọsịsa"
     },
     {
       "surface": "ללכת",
-      "gloss": "i je"
+      "gloss": "ịga"
     },
     {
       "surface": "פן",
@@ -85,32 +85,32 @@
     },
     {
       "surface": "ימהר",
-      "gloss": "ime ngwa"
+      "gloss": "ịma ọsịsa"
     },
     {
       "surface": "והשגנו",
-      "gloss": "ruo anyị"
+      "gloss": "mee ka anyị"
     },
     {
       "surface": "והדיח",
-      "gloss": "tinye"
+      "gloss": "kụọ"
     },
     {
       "surface": "עלינו",
-      "gloss": "n'elu anyị"
+      "gloss": "anyị ihe ọjọ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ihe ọjọọ"
+      "marks": "ihe ọjọ ahụ"
     },
     {
       "surface": "הרעה",
-      "gloss": "ihe ọjọọ"
+      "gloss": "ihe ọjọ ahụ"
     },
     {
       "surface": "והכה",
-      "gloss": "ma tie"
+      "gloss": "wee tie ... akụ"
     },
     {
       "surface": "העיר",
@@ -118,13 +118,13 @@
     },
     {
       "surface": "לפי",
-      "gloss": "site n'ọnụ"
+      "gloss": "akụkụ"
     },
     {
       "surface": "חרב",
-      "gloss": "mmaa"
+      "gloss": "mma agha"
     }
   ],
-  "timestamp": "2026-08-27T09:39:16.258111145Z",
+  "timestamp": "2026-08-27T17:41:47.075893825Z",
   "model": "glm-5.3"
 }

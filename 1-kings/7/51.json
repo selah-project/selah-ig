@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 7,
-  "translation": "Ma ⟨the⟩ ọrụ niile nke Eze Shelomoh mere n'ụlọ Yahwe gwụrụ. Shelomoh webatara ihe-nkwenye nke David nna ya — ⟨את⟩ ọla ọcha, ⟨את⟩ ọlaedo, ⟨את⟩ arịa — o nyefere ha n'ụlọ nkwakọba ihe nke ụlọ Yahwe.",
+  "translation": "Mgbe ahụ, mmemme niile nke Eze Shelomoh mere maka ụlọ Yahwe gwụchara; Shelomọ wepụtara ihe nsọ ndị Dawid nna ya raara nye — ⟨את⟩ ọlaọcha na ⟨את⟩ ọlaedo na ⟨את⟩ ihe ọrụ ndị ahụ — tinyere ha n'akpa akụ nke ụlọ Yahwe.",
   "tokens": [
     {
       "surface": "ותשלם",
-      "gloss": "gwụrụ"
+      "gloss": "gwụchara"
     },
     {
       "surface": "כל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "המלאכה",
-      "gloss": "ọrụ"
+      "gloss": "mmemme"
     },
     {
       "surface": "אשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "n'ụlọ"
+      "gloss": "ụlọ"
     },
     {
       "surface": "יהוה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "ma webatara"
+      "gloss": "wepụtara"
     },
     {
       "surface": "שלמה",
@@ -54,15 +54,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ihe-nkwenye nke David"
+      "marks": "ihe nsọ ndị"
     },
     {
       "surface": "קדשי",
-      "gloss": "ihe-nkwenye"
+      "gloss": "ihe nsọ ndị"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Dawid"
     },
     {
       "surface": "אביו",
@@ -71,11 +71,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọla ọcha"
+      "marks": "ọlaọcha"
     },
     {
       "surface": "הכסף",
-      "gloss": "ọla ọcha"
+      "gloss": "ọlaọcha"
     },
     {
       "surface": "ואת",
@@ -89,19 +89,19 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "arịa"
+      "marks": "ihe ọrụ ndị ahụ"
     },
     {
       "surface": "הכלים",
-      "gloss": "arịa"
+      "gloss": "ihe ọrụ ndị ahụ"
     },
     {
       "surface": "נתן",
-      "gloss": "o nyefere"
+      "gloss": "tinyere"
     },
     {
       "surface": "באצרות",
-      "gloss": "n'ụlọ nkwakọba ihe"
+      "gloss": "n'akpa akụ"
     },
     {
       "surface": "בית",
@@ -112,6 +112,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-27T09:53:31.915464822Z",
+  "timestamp": "2026-08-27T17:43:12.165765938Z",
   "model": "glm-5.3"
 }

@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 5,
-  "ref": "psalms 16:5",
-  "book": "psalms",
-  "lang": "ig",
-  "chapter": 16,
-  "translation": "Yahwe bụkwa ⟨את⟩ òké nke m na iko nke m; gee m aka na gọrọl m.",
-  "tokens": [],
-  "timestamp": "2026-08-27T13:18:04.920230820Z",
-  "model": "glm-5.3"
-}
+{"tier": "glm-5.2", "verse": 5, "ref": "psalms 16:5", "book": "psalms", "lang": "ig", "chapter": 16, "translation": "Yahwe ⟨bụ⟩ onu nke òkè m na onu nke iko m; ⟪gị⟫ bụ onye na-akwado ọsọ ndụ m.", "tokens": [{"surface": "יהוה", "gloss": "Yahwe"}, {"surface": "מנת", "gloss": "onu e kesara"}, {"surface": "חלקי", "gloss": "nke òkè m"}, {"surface": "וכוסי", "gloss": "na nke iko m"}, {"surface": "אתה", "gloss": "⟪gị⟫"}, {"surface": "תומיך", "gloss": "na-akwado"}, {"surface": "גורלי", "gloss": "ọsọ ndụ m"}], "timestamp": "2026-08-27T17:52:47.494843886Z", "model": "glm-5.3"}

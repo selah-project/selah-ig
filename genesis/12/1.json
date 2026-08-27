@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":1,"ref":"genesis 12:1","book":"genesis","lang":"ig","chapter":12,"translation":"Ma Yahwe kwuruokwu nye Avraham: \"Gaa, gaa[ya bụ gị] site n'ala gị, site n'ọmụmụ gị, na site n'ụlọ nna gị, gaa n'ala nke m ga-egosi gị.","tokens":[{"surface":"ויאמר","gloss":"Ma ... kwuruokwu"},{"surface":"יהוה","gloss":"Yahwe"},{"surface":"אל","gloss":"nye"},{"surface":"אברם","gloss":"Avraham"},{"surface":"לך","gloss":"Gaa"},{"surface":"לך","gloss":"[ya bụ gị]"},{"surface":"מארצך","gloss":"site n'ala gị"},{"surface":"וממולדתך","gloss":"site n'ọmụmụ gị"},{"surface":"ומבית","gloss":"na site n'ụlọ"},{"surface":"אביך","gloss":"nna gị"},{"surface":"אל","gloss":"gaa"},{"surface":"הארץ","gloss":"n'⟨the⟩ ala"},{"surface":"אשר","gloss":"nke"},{"surface":"אראך","gloss":"m ga-egosi gị"}],"timestamp":"2026-08-27T05:31:24.602247719Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 12,
+  "translation": "Yahwe wee sị Avram: \"Gaa, pụọ n'ala gị, na n'ebe a mụrụ gị, na n'ụlọ nna gị, gaa n'ala m ga-egosi gị.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wee sị"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'aka"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị onwe"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "pụọ n'ala gị"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "na n'ebe a mụrụ gị"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "na n'ụlọ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nna gị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "m ga-egosi gị"
+    }
+  ],
+  "timestamp": "2026-08-27T17:28:05.121280482Z",
+  "model": "glm-5.3"
+}

@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "ig",
   "chapter": 4,
-  "translation": "Nwa Ezrah: Yeter, Mered, Efer, na Yalon; ọ mụrụ ⟨את⟩ Miryam, na ⟨את⟩ Shammay, na ⟨את⟩ Yishbach, nna ⟨the⟩ Eshtemoa.",
+  "translation": "Ụmụ Ezrah bụ Yeter, Mered, Efer na Yalon; ọ mụrụ ⟨את⟩ Miryam, ⟨את⟩ Shammai na ⟨את⟩ Yishbach, nna ⟨nke⟩ Eshtemoa.",
   "tokens": [
     {
       "surface": "ובן",
-      "gloss": "nwa"
+      "gloss": "ụmụ"
     },
     {
       "surface": "עזרה",
@@ -47,11 +47,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Shammay"
+      "marks": "Shammai"
     },
     {
       "surface": "שמי",
-      "gloss": "Shammay"
+      "gloss": "Shammai"
     },
     {
       "surface": "ואת",
@@ -71,6 +71,6 @@
       "gloss": "Eshtemoa"
     }
   ],
-  "timestamp": "2026-08-27T15:53:53.195080868Z",
+  "timestamp": "2026-08-27T18:01:58.829066032Z",
   "model": "glm-5.3"
 }

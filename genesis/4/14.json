@@ -5,20 +5,20 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 4,
-  "translation": "Lee, taa ịchụpụla m ⟨את⟩ n'ihu ⟨the⟩ ala, na site n'ihu gị ka m ga-ezobe; m ga-abụ onye na-agagharị na onye na-atụgharị n'ụwa, mmadụ niile hụrụ m ga-egbu m.",
+  "translation": "Le, ndị ị chụpụla m taa site n'ihu ⟨את⟩ ụwa, na site n'ihu gị m ga-ezo, m ga-abụ onye na-agagharị na onye na-atụgharị n'ụwa, mmadụ ọ bụla hụrụ m ga-egbu m.",
   "tokens": [
     {
       "surface": "הן",
-      "gloss": "Lee"
+      "gloss": "Le"
     },
     {
       "surface": "גרשת",
-      "gloss": "ịchụpụla"
+      "gloss": "chụpụla"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "m (onye a chụgara)"
+      "marks": "m"
     },
     {
       "surface": "היום",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "ala"
+      "gloss": "⟨nke⟩ ụwa"
     },
     {
       "surface": "ומפניך",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אסתר",
-      "gloss": "m ga-ezobe"
+      "gloss": "ga-ezo"
     },
     {
       "surface": "והייתי",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "והיה",
-      "gloss": "ọ ga-adị"
+      "gloss": "mmadụ ọ bụla (ga-eme)"
     },
     {
       "surface": "כל",
-      "gloss": "mmadụ niile"
+      "gloss": "niile"
     },
     {
       "surface": "מצאי",
@@ -77,6 +77,6 @@
       "gloss": "ga-egbu m"
     }
   ],
-  "timestamp": "2026-08-27T16:23:04.842622953Z",
+  "timestamp": "2026-08-27T17:28:03.988325591Z",
   "model": "glm-5.3"
 }

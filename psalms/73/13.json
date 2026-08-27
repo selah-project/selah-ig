@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 73,
-  "translation": "N'ezie, n'efu ka m purification obi m, ma asa aka m n'ịdị ọcha.",
-  "tokens": [],
-  "timestamp": "2026-08-27T13:41:14.312467571Z",
+  "translation": "Achọghị m ikwu — n'ọfụm ka ahụghị m ihe: ekpwocha m obi m ⟨na⟩ ọfụm, ma saa aka m n'ịchọ ọfụm.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ọfụm-dị-otụ"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "n'ọfụm"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "ekpwocha m"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "obi m"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "ma saa m"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "n'ịchọ ọfụm"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "aka m"
+    }
+  ],
+  "timestamp": "2026-08-27T17:53:18.631186062Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 13,
-  "translation": "Ọ bụ mgbe ha nọ n'ụzọ, ka akụkọ ahụ bịara ruo David, na-ekwu, sị: Avshalom akụla ⟨את⟩ ụmụ ⟨the⟩ eze niile, ma ọ dịghị otu n'ime ha fọdụrụ.",
+  "translation": "Mgbe ha nọ n'ụzọ, akụkọ ahụ bịara David, na-ekwu, sị: Avshalom akụla ⟨את⟩ ụmụ eze niile, otu onye anaghị afọdụ n'ime ha.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ọ bụ mgbe"
+      "gloss": "mgbe"
     },
     {
       "surface": "המה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "והשמעה",
-      "gloss": "ka akụkọ ahụ"
+      "gloss": "akụkọ ahụ"
     },
     {
       "surface": "באה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "na-ekwu, sị"
+      "gloss": "na-ekwu"
     },
     {
       "surface": "הכה",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ma ọ dịghị"
+      "gloss": "ma ọ bụghị"
     },
     {
       "surface": "נותר",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "אחד",
-      "gloss": "otu"
+      "gloss": "otu onye"
     }
   ],
-  "timestamp": "2026-08-27T09:37:19.754061982Z",
+  "timestamp": "2026-08-27T17:41:41.548483781Z",
   "model": "glm-5.3"
 }

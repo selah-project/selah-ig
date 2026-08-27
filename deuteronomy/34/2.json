@@ -5,12 +5,12 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 34,
-  "translation": "na ⟨את⟩ Naftali niile, na ⟨את⟩ ala Efrayim na Menashe, na ⟨את⟩ ala Yehuda niile, ruo ⟨the⟩ oké osimiri nke dị n'azụ.",
+  "translation": "yá na ⟨את⟩ ala Naftali niile, na ⟨את⟩ ala Efrayim na Menashe, na ⟨את⟩ ala Yehuda niile, ruo n'oké osimiri ⟨nke dị n'azụ⟩.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "Naftali niile"
+      "marks": "ala Naftali niile"
     },
     {
       "surface": "כל",
@@ -23,7 +23,7 @@
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "ala"
+      "marks": "ala Efrayim"
     },
     {
       "surface": "ארץ",
@@ -60,13 +60,13 @@
     },
     {
       "surface": "הים",
-      "gloss": "oké osimiri"
+      "gloss": "n'oké osimiri"
     },
     {
       "surface": "האחרון",
-      "gloss": "nke dị n'azụ"
+      "gloss": "⟨nke dị n'azụ⟩"
     }
   ],
-  "timestamp": "2026-08-27T08:18:59.515546326Z",
+  "timestamp": "2026-08-27T17:37:19.779999660Z",
   "model": "glm-5.3"
 }

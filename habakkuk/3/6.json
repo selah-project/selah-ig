@@ -5,15 +5,20 @@
   "book": "habakkuk",
   "lang": "ig",
   "chapter": 3,
-  "translation": "O guzoro, wee tụọ ⟨the⟩ ụwa ahụ; o leere anya, wee kụfịa mba ndị ahụ; ugwu ndị nke ruo mgbe ebighị ebi gbajiri, ugwu nta ndị nke oge ochie daara ala; ụzọ nke ruo mgbe ebighị ebi bụ nke ya.",
+  "translation": "O guzosiri ike, wee tụọ ⟨את⟩ ụwa lewere anya, wee kụsasịa mba ndị ahụ; ugwu ndị ebighị ebi gbajiri, ugwu nkụta ndị oge ochie rịara ala; ụzọ oge ochie bụ nke ya.",
   "tokens": [
     {
       "surface": "עמד",
-      "gloss": "o guzoro"
+      "gloss": "guzosiri ike"
     },
     {
       "surface": "וימדד",
-      "gloss": "wee tụọ"
+      "gloss": "tụọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ụwa"
     },
     {
       "surface": "ארץ",
@@ -21,15 +26,15 @@
     },
     {
       "surface": "ראה",
-      "gloss": "o leere anya"
+      "gloss": "lewere anya"
     },
     {
       "surface": "ויתר",
-      "gloss": "wee kụfịa"
+      "gloss": "kụsasịa"
     },
     {
       "surface": "גוים",
-      "gloss": "mba ndị"
+      "gloss": "mba ndị ahụ"
     },
     {
       "surface": "ויתפצצו",
@@ -41,15 +46,15 @@
     },
     {
       "surface": "עד",
-      "gloss": "ruo mgbe ebighị ebi"
+      "gloss": "ebighị ebi"
     },
     {
       "surface": "שחו",
-      "gloss": "daara ala"
+      "gloss": "rịara ala"
     },
     {
       "surface": "גבעות",
-      "gloss": "ugwu nta ndị"
+      "gloss": "ugwu nkụta"
     },
     {
       "surface": "עולם",
@@ -61,13 +66,13 @@
     },
     {
       "surface": "עולם",
-      "gloss": "nke ruo mgbe ebighị ebi"
+      "gloss": "oge ochie"
     },
     {
       "surface": "לו",
-      "gloss": "bụ nke ya"
+      "gloss": "nke ya"
     }
   ],
-  "timestamp": "2026-08-27T13:00:36.437335351Z",
+  "timestamp": "2026-08-27T18:29:33.780959816Z",
   "model": "glm-5.3"
 }

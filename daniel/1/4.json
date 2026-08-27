@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Ndị ntorobịa ndị na-enweghị mperi ọ bụla, mana ndị mara mma n'ọdịdị, na ndị nwere nghọta n'amamihe niile, na ndị maara ihe ọmụma, na ndị na-aghọta ọmụma sayensị, ndị nwere ike n'ime ha iguzo n'⟨the⟩ ụlọikpe eze, ka a wee kuziri ha akwụkwọ na asụsụ ndị Kasdim.",
+  "translation": "Ndị ntorobịa ndị enweghị mmejọ ọ bụla n'ime ha, ma mma n'ọdịdị, ma nwere nkà n'amamihe niile, ma maara ihe ọmụma, ma na-aghọta ọmụma sayensị, ndị nwere ike iguzo n'ụlọọcha ⟨nke⟩ eze, ka e nwee ike ịkụziri ha ⟨את⟩ akwụkwọ na ⟨את⟩ asụsụ ndị Kasdim.",
   "tokens": [
     {
       "surface": "ילדים",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "מאום",
-      "gloss": "mperi"
+      "gloss": "mmejọ"
     },
     {
       "surface": "וטובי",
-      "gloss": "mana ndị mara mma"
+      "gloss": "ma mma"
     },
     {
       "surface": "מראה",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "ומשכילים",
-      "gloss": "na ndị nwere nghọta"
+      "gloss": "ma nwere nkà"
     },
     {
       "surface": "בכל",
-      "gloss": "n'ihe niile"
+      "gloss": "n'"
     },
     {
       "surface": "חכמה",
-      "gloss": "amamihe"
+      "gloss": "amamihe niile"
     },
     {
       "surface": "וידעי",
-      "gloss": "na ndị maara"
+      "gloss": "ma maara"
     },
     {
       "surface": "דעת",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ומביני",
-      "gloss": "na ndị na-aghọta"
+      "gloss": "ma na-aghọta"
     },
     {
       "surface": "מדע",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "na ndị"
+      "gloss": "ndị"
     },
     {
       "surface": "כח",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "בהיכל",
-      "gloss": "n'ụlọikpe"
+      "gloss": "n'ụlọọcha"
     },
     {
       "surface": "המלך",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "וללמדם",
-      "gloss": "ka a wee kuziri ha"
+      "gloss": "ka e nwee ike ịkụziri ha"
     },
     {
       "surface": "ספר",
@@ -101,13 +101,13 @@
     },
     {
       "surface": "ולשון",
-      "gloss": "na asụsụ"
+      "gloss": "asụsụ"
     },
     {
       "surface": "כשדים",
       "gloss": "ndị Kasdim"
     }
   ],
-  "timestamp": "2026-08-27T16:52:58.748022632Z",
+  "timestamp": "2026-08-27T18:31:18.209733007Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Site n'ụbọchị nke m pụtara ⟨את⟩ ndị m n'ala Mitsrayim, ahọrọghị m obodo n'etiti agbụrụ niile nke Yisrael iji wuo ⟨the⟩ ụlọ ka aha m nọrọ ebe ahụ; ma ahọrọghị m onye ka ọ bụrụ onye-isi n'elu ndị m Yisrael.",
+  "translation": "Site n'ụbọchị m si kpọpụ ⟨את⟩ ndị m n'ala Mitzrayim, ahọrọghị m obodo n'ụdị niile nke mkpụrụ Yisrael iji wuo ụlọ ka aha m nwee ike ịdị ebe ahụ; ma ahọrọghị m nwoke ọ bụla ka ọ bụrụ onye-isi n'elu ndị m Yisrael.",
   "tokens": [
     {
       "surface": "מן",
-      "gloss": "Site"
+      "gloss": "site n'"
     },
     {
       "surface": "היום",
-      "gloss": "n'ụbọchị"
+      "gloss": "ụbọchị"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הוצאתי",
-      "gloss": "m pụtara"
+      "gloss": "m si kpọpụ"
     },
     {
       "surface": "את",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Mitzrayim"
     },
     {
       "surface": "לא",
-      "gloss": "ahọrọghị"
+      "gloss": "ọ bụghị"
     },
     {
       "surface": "בחרתי",
-      "gloss": "m"
+      "gloss": "ahọrọghị m"
     },
     {
       "surface": "בעיר",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "מכל",
-      "gloss": "n'etiti ndị niile nke"
+      "gloss": "n'ụdị niile"
     },
     {
       "surface": "שבטי",
-      "gloss": "agbụrụ"
+      "gloss": "nke mkpụrụ"
     },
     {
       "surface": "ישראל",
@@ -86,19 +86,19 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ma ahọrọghị"
+      "gloss": "ma ọ bụghị"
     },
     {
       "surface": "בחרתי",
-      "gloss": "m"
+      "gloss": "ahọrọghị m"
     },
     {
       "surface": "באיש",
-      "gloss": "onye"
+      "gloss": "nwoke ọ bụla"
     },
     {
       "surface": "להיות",
-      "gloss": "ka ọ bụrụ"
+      "gloss": "ka ọ bụ"
     },
     {
       "surface": "נגיד",
@@ -117,6 +117,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-27T16:08:21.571834740Z",
+  "timestamp": "2026-08-27T17:59:16.784131424Z",
   "model": "glm-5.3"
 }

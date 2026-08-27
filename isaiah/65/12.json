@@ -1,1 +1,94 @@
-{"tier":"glm-5.2","verse":12,"ref":"isaiah 65:12","book":"isaiah","lang":"ig","chapter":65,"translation":"M ga-ekenye unu ⟩את⟩ maka mma agha, unu niile ga-agbada maka igbu-egbu; n'ihi na m kpọrọ oku ma unu azaghị, m kwuru okwu ma unu anụghị; kama unu mere ihe ọjọọ n'anya m, ma họrọ ihe nke m enweghị mmasị na ya.","tokens":[{"surface":"ומניתי","gloss":"m ga-ekenye"},{"surface":"אתכם","gloss":"⟨את⟩ unu","marks":"unu"},{"surface":"לחרב","gloss":"maka mma agha"},{"surface":"וכלכם","gloss":"unu niile"},{"surface":"לטבח","gloss":"maka igbu-egbu"},{"surface":"תכרעו","gloss":"ga-agbada"},{"surface":"יען","gloss":"n'ihi na"},{"surface":"קראתי","gloss":"m kpọrọ oku"},{"surface":"ולא","gloss":"ma azaghị"},{"surface":"עניתם","gloss":"unu azaghị"},{"surface":"דברתי","gloss":"m kwuru okwu"},{"surface":"ולא","gloss":"ma anụghị"},{"surface":"שמעתם","gloss":"unu anụghị"},{"surface":"ותעשו","gloss":"unu mere"},{"surface":"הרע","gloss":"ihe ọjọọ"},{"surface":"בעיני","gloss":"n'anya m"},{"surface":"ובאשר","gloss":"ma ihe nke"},{"surface":"לא","gloss":"enweghị"},{"surface":"חפצתי","gloss":"mmasị m"},{"surface":"בחרתם","gloss":"unu họrọ"}],"timestamp":"2026-08-27T11:11:34.472612502Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 65:12",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "M ga-ekenye gị ka mma, ma unu nile ga-atụkwasị ikpere n'aka mmegbu maka na akpọrọ m, unu zughị aziza; m kwuru okwu, unu anụghị; kama unu mere ihe ọjọ n'anya m, ma họrọ ihe nke m chọghị.",
+  "tokens": [
+    {
+      "surface": "ומניתי",
+      "gloss": "m ga-ekenye"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ gị",
+      "marks": "ka mma"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ka mma"
+    },
+    {
+      "surface": "וכלכם",
+      "gloss": "ma unu nile"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "maka mmegbu"
+    },
+    {
+      "surface": "תכרעו",
+      "gloss": "ga-atụkwasị ikpere"
+    },
+    {
+      "surface": "יען",
+      "gloss": "maka na"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "akpọrọ m"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "zughị aziza"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "m kwuru okwu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "unu anụghị"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "unu anụghị"
+    },
+    {
+      "surface": "ותעשו",
+      "gloss": "unu mere"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ihe ọjọ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n'anya m"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "ma họrọ ihe nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "m chọghị"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "họrọ"
+    }
+  ],
+  "timestamp": "2026-08-27T17:46:54.906891864Z",
+  "model": "glm-5.3"
+}

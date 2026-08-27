@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 25,
-  "translation": "N'ihi na yovel ọ ⟨is⟩, ọ ga-adị nsọ nye unu; ihe ọ na-amị n'ubi ⟨ka⟩ unu ga-eri ⟨את⟩.",
+  "translation": "N'ihi na ọ bụ Yovel ka ọ bụ; nsọ ⟨ọ ga-⟩ bụrụ nye unu; site n'ọhịa unu ga-eri ⟨את⟩ mmepụta ya.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יובל",
-      "gloss": "yovel"
+      "gloss": "Yovel"
     },
     {
       "surface": "הוא",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "קדש",
-      "gloss": "ihe dị nsọ"
+      "gloss": "nsọ"
     },
     {
       "surface": "תהיה",
-      "gloss": "ọ ga-adị"
+      "gloss": "ọ ga-bụrụ"
     },
     {
       "surface": "לכם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "השדה",
-      "gloss": "ubi"
+      "gloss": "ọhịa"
     },
     {
       "surface": "תאכלו",
@@ -46,13 +46,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ihe ọ na-amị"
+      "marks": "mmepụta ya"
     },
     {
       "surface": "תבואתה",
-      "gloss": "ihe ọ na-amị"
+      "gloss": "mmepụta ya"
     }
   ],
-  "timestamp": "2026-08-27T07:06:31.048285403Z",
+  "timestamp": "2026-08-27T17:32:54.187258889Z",
   "model": "glm-5.3"
 }

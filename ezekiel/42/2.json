@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 42,
-  "translation": "N'ihu ogologo nke narị kwubiri ọnụ ⟨the⟩ ọnụ ụzọ ugwu, obosara ya bụ́kwu iri ise kwubiri ọnụ.",
+  "translation": "N'ihu ogologo nke otu narị ama, ⟨bụ⟩ ọnụ ụzọ ⟨n'ebe⟩ ugwu; obosara ⟨ya⟩ ama iri ise.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "ruo na"
+      "gloss": "n'ihu"
     },
     {
       "surface": "פני",
-      "gloss": "n'ihu"
+      "gloss": "ihu"
     },
     {
       "surface": "ארך",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אמות",
-      "gloss": "kwubiri ọnụ (ogologo)"
+      "gloss": "ama"
     },
     {
       "surface": "המאה",
-      "gloss": "narị"
+      "gloss": "otu narị"
     },
     {
       "surface": "פתח",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הצפון",
-      "gloss": "ugwu"
+      "gloss": "n'ebe ugwu"
     },
     {
       "surface": "והרחב",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "אמות",
-      "gloss": "kwubiri ọnụ"
+      "gloss": "ama"
     }
   ],
-  "timestamp": "2026-08-27T12:30:46.881524499Z",
+  "timestamp": "2026-08-27T17:51:11.034621858Z",
   "model": "glm-5.3"
 }

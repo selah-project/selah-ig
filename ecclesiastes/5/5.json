@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "ig",
   "chapter": 5,
-  "translation": "Ekwela ka ⟨את⟩ ọnụ gị mee ka ⟨את⟩ anụ gị raa mmehie, ma ekwela n'ihu onye-ozi na ọ ⟨is⟩ mghaghị; gịnị mere ka Elohim wee jiri iwe tie n'olu gị ma mebie ⟨את⟩ ọrụ aka gị?",
+  "translation": "Ekwela ka ọnụ gị mee ka anụ gị mee mmehie, ma ekwela n'ihu onye-ozi na ọ bụ mmejọ ọ bụ; gịnị mere Elohim ga-ewe iwe n'olu gị, ma mebie ⟨את⟩ ọrụ aka gị?",
   "tokens": [
     {
       "surface": "אל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תתן",
-      "gloss": "ka ọnụ gị nyefee"
+      "gloss": "ka ọnụ gị"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "לחטיא",
-      "gloss": "raa mmehie"
+      "gloss": "mee ka ... mee mmehie"
     },
     {
       "surface": "את",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "תאמר",
-      "gloss": "kwuo"
+      "gloss": "ị ga-ekwu"
     },
     {
       "surface": "לפני",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "שגגה",
-      "gloss": "mghaghị"
+      "gloss": "mmejọ"
     },
     {
       "surface": "היא",
-      "gloss": "ọ"
+      "gloss": "ọ bụ"
     },
     {
       "surface": "למה",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "על",
-      "gloss": "n'ihi"
+      "gloss": "n'"
     },
     {
       "surface": "קולך",
@@ -103,6 +103,6 @@
       "gloss": "aka gị"
     }
   ],
-  "timestamp": "2026-08-27T15:16:36.183123750Z",
+  "timestamp": "2026-08-27T17:57:00.359668048Z",
   "model": "glm-5.3"
 }

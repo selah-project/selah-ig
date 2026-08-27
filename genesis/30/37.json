@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 30,
-  "translation": "Yaakov were maka onwe ya osisi livnaa ọhụrụ, na luz, na armon, ma gbuo n'ime ha akpụkpọ ndị ọcha, na-eme ka ọcha ahụ dị n'elu osisi ndị ahụ pụta ìhè.",
+  "translation": "Yaakov wee were ⟨את⟩ onwe ya osisi nke libneh ọhụrụ, na nke luz na nke armon, wee gbapụta n'ime ha akụkụ ndị a gbapụrụ agbapụ, na-eme ka akụkụ ọcha dị na mgbọrọgwụ osisi ndị ahụ pụta ìhè.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "were"
+      "gloss": "wee were"
     },
     {
       "surface": "לו",
-      "gloss": "maka onwe ya"
+      "gloss": "onwe ya"
     },
     {
       "surface": "יעקב",
@@ -25,15 +25,35 @@
     },
     {
       "surface": "לבנה",
-      "gloss": "livnaa"
+      "gloss": "libneh"
     },
     {
       "surface": "לח",
       "gloss": "ọhụrụ"
     },
     {
-      "surface": "ויפצל בהן פצלות לבנות",
-      "gloss": "ma gbuo n'ime ha akpụkpọ ndị ọcha"
+      "surface": "ולוז",
+      "gloss": "na nke luz"
+    },
+    {
+      "surface": "וערמון",
+      "gloss": "na nke armon"
+    },
+    {
+      "surface": "ויפצל",
+      "gloss": "wee gbapụta"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "n'ime ha"
+    },
+    {
+      "surface": "פצלות",
+      "gloss": "akụkụ ndị a gbapụrụ agbapụ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ọcha"
     },
     {
       "surface": "מחשף",
@@ -41,21 +61,21 @@
     },
     {
       "surface": "הלבן",
-      "gloss": "ọcha ahụ"
+      "gloss": "akụkụ ọcha"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "nke dị"
     },
     {
       "surface": "על",
-      "gloss": "dị n'elu"
+      "gloss": "na"
     },
     {
       "surface": "המקלות",
-      "gloss": "osisi ndị ahụ"
+      "gloss": "mgbọrọgwụ osisi ndị ahụ"
     }
   ],
-  "timestamp": "2026-08-27T05:49:23.639219444Z",
+  "timestamp": "2026-08-27T17:29:11.676392911Z",
   "model": "glm-5.3"
 }

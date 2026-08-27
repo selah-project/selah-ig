@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 18,
-  "translation": "Mgbe gị na-abata n'ime ⟨the⟩ ala nke Yahwe, Elohim gị, na-enye gị, ị ghara ịmụta ime dịka ihe-ọjọọ nke mba ndị ahụ.",
+  "translation": "Mgbe ị na-abata n'ala nke Yahwe, Elohim gị, na-enye gị, ị ghara ịmụta ime ihe rụrụ arụ nke mba ndị ahụ dị ka ọ dị.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "gị"
+      "gloss": "ị"
     },
     {
       "surface": "בא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "n'ime"
+      "gloss": "n'"
     },
     {
       "surface": "הארץ",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "ghara"
+      "gloss": "ị ghara"
     },
     {
       "surface": "תלמד",
@@ -61,17 +61,17 @@
     },
     {
       "surface": "כתועבת",
-      "gloss": "dịka ihe-ọjọọ"
+      "gloss": "ihe rụrụ arụ dị ka"
     },
     {
       "surface": "הגוים",
-      "gloss": "nke mba"
+      "gloss": "mba"
     },
     {
       "surface": "ההם",
       "gloss": "ndị ahụ"
     }
   ],
-  "timestamp": "2026-08-27T08:04:31.971526269Z",
+  "timestamp": "2026-08-27T17:36:32.411038757Z",
   "model": "glm-5.3"
 }

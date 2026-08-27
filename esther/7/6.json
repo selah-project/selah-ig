@@ -5,15 +5,11 @@
   "book": "esther",
   "lang": "ig",
   "chapter": 7,
-  "translation": "Ester wee sị, ⟨is⟩ nwa-nsọ na onye iro — Haman ⟨the⟩ ọjọọ a. Haman wee tụọ egwu n'ihu ⟨the⟩ eze na ⟨the⟩ eze-nwanyị.",
+  "translation": "Ester sịrị: Nwoke mkpagbu na onye iro bụ Haman nke ọjọọ a. Ma Haman atụrụ ụjọ n'ihu eze na eze-nwanyị.",
   "tokens": [
     {
-      "surface": "ויאמר",
-      "gloss": ""
-    },
-    {
       "surface": "ותאמר",
-      "gloss": "ọ wee sị"
+      "gloss": "sịrị"
     },
     {
       "surface": "אסתר",
@@ -21,7 +17,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "nwa-nsọ"
+      "gloss": "nwoke"
     },
     {
       "surface": "צר",
@@ -37,11 +33,11 @@
     },
     {
       "surface": "הרע",
-      "gloss": "⟨the⟩ ọjọọ"
+      "gloss": "ọjọọ"
     },
     {
       "surface": "הזה",
-      "gloss": "a"
+      "gloss": "nke a"
     },
     {
       "surface": "והמן",
@@ -49,7 +45,7 @@
     },
     {
       "surface": "נבעת",
-      "gloss": "tụọ egwu"
+      "gloss": "atụrụ ụjọ"
     },
     {
       "surface": "מלפני",
@@ -57,13 +53,13 @@
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ eze"
+      "gloss": "eze"
     },
     {
       "surface": "והמלכה",
-      "gloss": "na ⟨the⟩ eze-nwanyị"
+      "gloss": "na eze-nwanyị"
     }
   ],
-  "timestamp": "2026-08-27T15:23:50.379515509Z",
+  "timestamp": "2026-08-27T17:57:46.596304863Z",
   "model": "glm-5.3"
 }

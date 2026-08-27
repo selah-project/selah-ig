@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 24,
-  "translation": "ọ sịrị m: Gị kwa ṅụọ, m ga-abụkwa mmiri maka kamelụ gị — ọ bụ nwanyị ⟨the⟩ Yahwe kpebiri maka nwa Adonai m.",
+  "translation": "ọ ga-asịkwa m, Ị ṅụọkwa, m ga-ewetekwa kamelụ gị mmiri, ọ bụ nwanyị ahụ ka Yahwe kpebiri maka nwa adọni m;",
   "tokens": [
     {
       "surface": "ואמרה",
-      "gloss": "ọ sịrị"
+      "gloss": "ọ ga-asịkwa"
     },
     {
       "surface": "אלי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "גם",
-      "gloss": "kwa"
+      "gloss": "-kwa"
     },
     {
       "surface": "אתה",
-      "gloss": "gị"
+      "gloss": "ị"
     },
     {
       "surface": "שתה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "ma bụkwa"
+      "gloss": "na ọzọkwa"
     },
     {
       "surface": "לגמליך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אשאב",
-      "gloss": "m ga-ewụ"
+      "gloss": "m ga-ewete mmiri"
     },
     {
       "surface": "הוא",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "האשה",
-      "gloss": "nwanyị ⟨the⟩"
+      "gloss": "nwanyị ahụ"
     },
     {
       "surface": "אשר",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "אדני",
-      "gloss": "Adonai m"
+      "gloss": "adọni m"
     }
   ],
-  "timestamp": "2026-08-27T05:42:25.163962188Z",
+  "timestamp": "2026-08-27T17:29:45.944056903Z",
   "model": "glm-5.3"
 }

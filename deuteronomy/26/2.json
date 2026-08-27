@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 26,
-  "translation": "Were mmalite nke mkpụrụ niile nke ⟨the⟩ ala, nke ị ga-eweta site n'ala gị, nke Yahwe, Elohim gị, na-enye gị, tinye ha n'ime nkata, gaa ebe nke Yahwe, Elohim gị, ga-ahọrọ iji mee ka Aha ya bi n'ebe ahụ:",
+  "translation": "mwere mmalite nke mkpụrụ niile nke ụwa nke ị ga-eweta n'ala gị nke Yahwe, Elohim gị, na-enye gị, tinyekwa ha n'ime nkata, gaa kwa n'ebe ndị Yahwe, Elohim gị, ga-ahọrọ ka Aha Ya bi n'ebe ahụ.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "Were"
+      "gloss": "ma mmere"
     },
     {
       "surface": "מראשית",
-      "gloss": "mmalite nke"
+      "gloss": "mmalite"
     },
     {
       "surface": "כל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "⟨the⟩ ala"
+      "gloss": "nke ụwa"
     },
     {
       "surface": "אשר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ושמת",
-      "gloss": "tinye"
+      "gloss": "ma itinyekwa"
     },
     {
       "surface": "בטנא",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "והלכת",
-      "gloss": "gaa"
+      "gloss": "ma ị gaa"
     },
     {
       "surface": "אל",
-      "gloss": "ebe"
+      "gloss": "na"
     },
     {
       "surface": "המקום",
-      "gloss": "⟨the⟩ ebe"
+      "gloss": "n'ebe"
     },
     {
       "surface": "אשר",
@@ -97,17 +97,17 @@
     },
     {
       "surface": "לשכן",
-      "gloss": "ka ... bi"
+      "gloss": "ka ọ bi"
     },
     {
       "surface": "שמו",
-      "gloss": "Aha ya"
+      "gloss": "Aha Ya"
     },
     {
       "surface": "שם",
       "gloss": "n'ebe ahụ"
     }
   ],
-  "timestamp": "2026-08-27T08:09:31.811646779Z",
+  "timestamp": "2026-08-27T17:37:01.997961398Z",
   "model": "glm-5.3"
 }

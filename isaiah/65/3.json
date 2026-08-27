@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":3,"ref":"isaiah 65:3","book":"isaiah","lang":"ig","chapter":65,"translation":"⟨העם⟩ ndị na-ewe iwe m n'ihu m n'oge niile, na-egbu anụ ọfụma n'olulu ubi, na-esi ite ọṅụ n'elu brik.","tokens":[{"surface":"העם","gloss":"⟨העם⟩ ndị"},{"surface":"המכעיסים","gloss":"na-ewe iwe"},{"surface":"אותי","gloss":"⟨את⟩","marks":"m"},{"surface":"על","gloss":"n'ihu"},{"surface":"פני","gloss":"m"},{"surface":"תמיד","gloss":"n'oge niile"},{"surface":"זבחים","gloss":"na-egbu anụ ọfụma"},{"surface":"בגנות","gloss":"n'olulu ubi"},{"surface":"ומקטרים","gloss":"na-esi ite ọṅụ"},{"surface":"על","gloss":"n'elu"},{"surface":"הלבנים","gloss":"brik"}],"timestamp":"2026-08-27T11:12:08.585937747Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 65,
+  "translation": "Ndị na-akpasị m iwe mgbe niile n'ihu m, ndị na-echu ⟨את⟩ àjà n'ogige, ma na-atụ ụtọ n'elu brik.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "na-akpasị iwe"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ m",
+      "marks": "m (Yahwe onye na-ekwu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mgbe niile"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "na-echu àjà"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "n'ogige"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ma na-atụ ụtọ"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "brik"
+    }
+  ],
+  "timestamp": "2026-08-27T17:46:33.907672645Z",
+  "model": "glm-5.3"
+}

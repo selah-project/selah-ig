@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 10,
-  "translation": "Ma mgbe keruvim na-aga, ngbanaba ahụ na-akpụ ha; mgbe keruvim welitere ⟨את⟩ nku ha ka ha rịgoro elu n'elu ⟨the⟩ ụwa, ngbanaba ndị ahụ anaghị agbagharị agbagharịkwa site n'akụkụ ha.",
+  "translation": "Ma mgbe kerubim ndị ahụ na-aga, wulu ndị ahụ na-aga n'akụkụ ha; ma mgbe kerubim ndị ahụ welitere ⟨את⟩ nku ha ka ha rịgo site n'elu ala ahụ, wulu ndị ahụ anaghị atụgharị, ha onwe ha, site n'akụkụ ha.",
   "tokens": [
     {
       "surface": "ובלכת",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "הכרובים",
-      "gloss": "keruvim"
+      "gloss": "kerubim ndị ahụ"
     },
     {
       "surface": "ילכו",
-      "gloss": "ha na-aga"
+      "gloss": "na-aga"
     },
     {
       "surface": "האופנים",
-      "gloss": "ngbanaba ndị ahụ"
+      "gloss": "wulu ndị ahụ"
     },
     {
       "surface": "אצלם",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ובשאת",
-      "gloss": "ma mgbe ha welitere"
+      "gloss": "ma mgbe ha na-eweli"
     },
     {
       "surface": "הכרובים",
-      "gloss": "keruvim"
+      "gloss": "kerubim ndị ahụ"
     },
     {
       "surface": "את",
@@ -46,31 +46,31 @@
     },
     {
       "surface": "לרום",
-      "gloss": "ka ha rịgoro elu"
+      "gloss": "ka ha rịgo"
     },
     {
       "surface": "מעל",
-      "gloss": "n'elu"
+      "gloss": "site n'elu"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ụwa"
+      "gloss": "ala ahụ"
     },
     {
       "surface": "לא",
-      "gloss": "ọ bụghị"
+      "gloss": "anaghị"
     },
     {
       "surface": "יסבו",
-      "gloss": "ha na-agbagharị"
+      "gloss": "atụgharị"
     },
     {
       "surface": "האופנים",
-      "gloss": "ngbanaba ndị ahụ"
+      "gloss": "wulu ndị ahụ"
     },
     {
       "surface": "גם",
-      "gloss": "kwa"
+      "gloss": "ọbụna"
     },
     {
       "surface": "הם",
@@ -81,6 +81,6 @@
       "gloss": "site n'akụkụ ha"
     }
   ],
-  "timestamp": "2026-08-27T12:02:50.869571106Z",
+  "timestamp": "2026-08-27T17:48:57.051513560Z",
   "model": "glm-5.3"
 }

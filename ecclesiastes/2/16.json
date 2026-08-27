@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "ig",
   "chapter": 2,
-  "translation": "N'ihi na enweghị ncheta maka onye amamihe yana onye nzuzu ruo mgbe ebighị ebi; n'ụbọchị ndị na-abịa n'ọdịnihu, a ga-echefu ⟨the⟩ ihe niile niile, na otu a si adị, gịnị mere onye amamihe ji anwụ yana onye nzuzu?",
+  "translation": "Maka enweghị ncheta maka onye-amamihe, dịka nke onye-nzuzu, ruo mgbe ebighị-ebi; n'ihi na n'ụbọchị ndị na-abịa, a ga-echefu ihe niile; otu otu a ka onye-amamihe na-anwụ, ya na onye-nzuzu.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "n'ihi na"
+      "gloss": "maka"
     },
     {
       "surface": "אין",
@@ -21,31 +21,31 @@
     },
     {
       "surface": "לחכם",
-      "gloss": "maka onye amamihe"
+      "gloss": "maka onye-amamihe"
     },
     {
       "surface": "עם",
-      "gloss": "yana"
+      "gloss": "dịka"
     },
     {
       "surface": "הכסיל",
-      "gloss": "onye nzuzu"
+      "gloss": "onye-nzuzu"
     },
     {
       "surface": "לעולם",
-      "gloss": "ruo mgbe ebighị ebi"
+      "gloss": "ruo mgbe ebighị-ebi"
     },
     {
       "surface": "בשכבר",
-      "gloss": "ọ̀ dịlarị"
+      "gloss": "n'ihi na nke bụla"
     },
     {
       "surface": "הימים",
-      "gloss": "ụbọchị ndị"
+      "gloss": "n'ụbọchị"
     },
     {
       "surface": "הבאים",
-      "gloss": "na-abịa"
+      "gloss": "ndị na-abịa"
     },
     {
       "surface": "הכל",
@@ -57,25 +57,25 @@
     },
     {
       "surface": "ואיך",
-      "gloss": "na otu a si adị"
+      "gloss": "oto otu a ka"
     },
     {
       "surface": "ימות",
-      "gloss": "ji anwụ"
+      "gloss": "na-anwụ"
     },
     {
       "surface": "החכם",
-      "gloss": "onye amamihe"
+      "gloss": "onye-amamihe"
     },
     {
       "surface": "עם",
-      "gloss": "yana"
+      "gloss": "ya na"
     },
     {
       "surface": "הכסיל",
-      "gloss": "onye nzuzu"
+      "gloss": "onye-nzuzu"
     }
   ],
-  "timestamp": "2026-08-27T15:13:32.797938720Z",
+  "timestamp": "2026-08-27T17:57:09.698278689Z",
   "model": "glm-5.3"
 }

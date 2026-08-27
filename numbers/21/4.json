@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 21,
-  "translation": "Ha wee si n'Ugwu Hor pụọ, gaa n'ụzọ Oké Osimiri Aịhụ Ndụ, iji gbagharịrị gburugburu ⟨את⟩ ala Edom; mkpụrụ mmadụ ahụ wee nkitá ná njem ahụ.",
+  "translation": "Ha wee si n'ugwu Hor pụọ, site n'ụzọ Yám Súf, iji gbagharie ⟨את⟩ ala Edom; mkpụrụobi ndị ahụ wee tiwe ike n'ụzọ ahụ.",
   "tokens": [
     {
       "surface": "ויסעו",
-      "gloss": "ha pụọ njem"
+      "gloss": "Ha wee si... pụọ"
     },
     {
       "surface": "מהר",
-      "gloss": "site n'Ugwu"
+      "gloss": "si n'ugwu"
     },
     {
       "surface": "ההר",
@@ -21,15 +21,19 @@
     },
     {
       "surface": "דרך",
-      "gloss": "n'ụzọ"
+      "gloss": "site n'ụzọ"
     },
     {
-      "surface": "ים סוף",
-      "gloss": "Oké Osimiri Aịhụ Ndụ"
+      "surface": "ים",
+      "gloss": "Yám"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Súf"
     },
     {
       "surface": "לסבב",
-      "gloss": "iji gbagharịrị"
+      "gloss": "iji gbagharie"
     },
     {
       "surface": "את",
@@ -38,7 +42,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨את⟩ ala"
+      "gloss": "ala"
     },
     {
       "surface": "אדום",
@@ -46,21 +50,21 @@
     },
     {
       "surface": "ותקצר",
-      "gloss": "nkitá, nche"
+      "gloss": "wee tiwe ike"
     },
     {
       "surface": "נפש",
-      "gloss": "mmadụ, mmụọ ọdịnihu"
+      "gloss": "mkpụrụobi"
     },
     {
       "surface": "העם",
-      "gloss": "ahụ"
+      "gloss": "ndị ahụ"
     },
     {
       "surface": "בדרך",
-      "gloss": "ná njem ahụ"
+      "gloss": "n'ụzọ ahụ"
     }
   ],
-  "timestamp": "2026-08-27T07:31:24.278674257Z",
+  "timestamp": "2026-08-27T17:34:06.641901983Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 35,
-  "translation": "Yoshiyahu welitere nye ụmụ ⟨the⟩ mmadụ anụ ụlọ — atụrụ na ụmụ ewu — ha niile maka ⟨the⟩ Pasikal, maka onye ọ bụla a hụrụ, n'ọnụọgụ iri atọ puku; nakwa ehi atọ puku: ndị a sitere n'akụ ⟨the⟩ eze.",
+  "translation": "Yoshiyahu nyere ụmụ ⟨nke⟩ ndị mmadụ atụrụ — ndị ogbi atụrụ na ogbi ndị ewu — ihe niile maka Paska, maka onye ọ bụla a hụrụ n'ebe ahụ, n'ọnụ ọgụgụ pụkụ iri atọ, nakwa ehi pụkụ atọ: ihe ndị a bụ n'akụ̀ eze.",
   "tokens": [
     {
       "surface": "וירם",
-      "gloss": "welitere"
+      "gloss": "nyere"
     },
     {
       "surface": "יאשיהו",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "לבני",
-      "gloss": "nye ụmụ"
+      "gloss": "ụmụ"
     },
     {
       "surface": "העם",
-      "gloss": "mmadụ"
+      "gloss": "ndị mmadụ"
     },
     {
       "surface": "צאן",
-      "gloss": "anụ ụlọ"
-    },
-    {
-      "surface": "כבשים",
       "gloss": "atụrụ"
     },
     {
+      "surface": "כבשים",
+      "gloss": "ndị ogbi atụrụ"
+    },
+    {
       "surface": "ובני",
-      "gloss": "na ụmụ"
+      "gloss": "na ogbi ndị"
     },
     {
       "surface": "עזים",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "הכל",
-      "gloss": "ha niile"
+      "gloss": "ihe niile"
     },
     {
       "surface": "לפסחים",
-      "gloss": "maka Pasikal"
+      "gloss": "maka Paska"
     },
     {
       "surface": "לכל",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "הנמצא",
-      "gloss": "a hụrụ"
+      "gloss": "a hụrụ n'ebe ahụ"
     },
     {
       "surface": "למספר",
-      "gloss": "n'ọnụọgụ"
+      "gloss": "n'ọnụ ọgụgụ"
     },
     {
       "surface": "שלשים",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אלף",
-      "gloss": "puku"
+      "gloss": "pụkụ"
     },
     {
       "surface": "ובקר",
@@ -77,21 +77,21 @@
     },
     {
       "surface": "אלפים",
-      "gloss": "puku"
+      "gloss": "pụkụ"
     },
     {
       "surface": "אלה",
-      "gloss": "ndị a"
+      "gloss": "ihe ndị a"
     },
     {
       "surface": "מרכוש",
-      "gloss": "akụ"
+      "gloss": "n'akụ̀"
     },
     {
       "surface": "המלך",
       "gloss": "eze"
     }
   ],
-  "timestamp": "2026-08-27T16:21:26.181233394Z",
+  "timestamp": "2026-08-27T18:00:47.640901512Z",
   "model": "glm-5.3"
 }

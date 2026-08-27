@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Adonijah chụrụ nnụ atụrụ na ehi na anụ ọma n'akụkụ nkume Zocheleth nke dị nso na En-Rogel, ma ọ kpọkwara ⟨את⟩ ụmụnne ya niile, ụmụ ⟨the⟩ eze, na mmadụ niile nke Yehuda, ndị ohu eze.",
+  "translation": "Adoniyah chụrụ atụrụ na ehi na anụ ọcha n'akụkụ nkume Zocheleth, nke dị nso na En-Rogel, ma kpọọ ⟨את⟩ ndị nzereọma ya niile, ụmụ eze, na mmadụ niile nke Yehudah, ndị ohu eze.",
   "tokens": [
     {
       "surface": "ויזבח",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "אדניהו",
-      "gloss": "Adonijah"
+      "gloss": "Adoniyah"
     },
     {
       "surface": "צאן",
-      "gloss": "nnụ atụrụ"
+      "gloss": "atụrụ"
     },
     {
       "surface": "ובקר",
-      "gloss": "ehi"
+      "gloss": "na ehi"
     },
     {
       "surface": "ומריא",
-      "gloss": "anụ ọma"
+      "gloss": "na anụ ọcha"
     },
     {
       "surface": "עם",
@@ -57,12 +57,12 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "ọ kpọkwara"
+      "gloss": "ma kpọọ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ụmụnne ya niile"
+      "marks": "ndị nzereọma ya niile"
     },
     {
       "surface": "כל",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "ụmụnne ya"
+      "gloss": "ndị nzereọma ya"
     },
     {
       "surface": "בני",
@@ -82,25 +82,25 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "na niile"
+      "gloss": "na mmadụ niile"
     },
     {
       "surface": "אנשי",
-      "gloss": "mmadụ"
+      "gloss": "nke"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yehudah"
     },
     {
       "surface": "עבדי",
-      "gloss": "ohu"
+      "gloss": "ndị ohu"
     },
     {
       "surface": "המלך",
       "gloss": "eze"
     }
   ],
-  "timestamp": "2026-08-27T09:49:04.165725238Z",
+  "timestamp": "2026-08-27T17:42:30.558213237Z",
   "model": "glm-5.3"
 }

@@ -5,31 +5,31 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Ma ⟨אתכם⟩ ga-abụ ndị ikom, onye ọ bụla maka ebo ya, onye ọ bụla isi nke ụlọ nna nna ya, otu a ka ọ bụ.",
+  "translation": "Ma ndị ga-adị n'akụkụ ⟨את⟩ unu — nwoke ọ bụla maka klanrị ya, nwoke ọ bụla bụ isi ụlọ nna ndị ya, ọ bụ ya.",
   "tokens": [
     {
       "surface": "ואתכם",
-      "gloss": "⟨את⟩ ma ⟨אתכם⟩"
+      "gloss": "ma ⟨את⟩ unu"
     },
     {
       "surface": "יהיו",
-      "gloss": "ga-abụ"
+      "gloss": "ga-adị"
     },
     {
       "surface": "איש",
-      "gloss": "ndị ikom"
+      "gloss": "nwoke ọ bụla"
     },
     {
       "surface": "איש",
-      "gloss": "onye ọ bụla"
+      "gloss": "nwoke ọ bụla"
     },
     {
       "surface": "למטה",
-      "gloss": "maka ebo ya"
+      "gloss": "maka klanrị"
     },
     {
       "surface": "איש",
-      "gloss": "onye ọ bụla"
+      "gloss": "nwoke ọ bụla"
     },
     {
       "surface": "ראש",
@@ -37,17 +37,17 @@
     },
     {
       "surface": "לבית",
-      "gloss": "nke ụlọ"
+      "gloss": "ụlọ"
     },
     {
       "surface": "אבתיו",
-      "gloss": "nna nna ya"
+      "gloss": "nna ndị ya"
     },
     {
       "surface": "הוא",
-      "gloss": "otu a ka ọ bụ"
+      "gloss": "ọ bụ ya"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.278205966Z",
+  "timestamp": "2026-08-27T17:33:34.358475783Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 28,
-  "translation": "Maka ọ gaghị adị ebe ọzọ maka ụlụ Israel, ọgwụgwụ na-ekwu okwu ọjọọ na ụka na-emerụ ahụ, site n'aka ndị gbara ya gburugburu na-akpapụ ya — ⟨את⟩ ndị na-enyo ya anya na ibelata ya; ha ga-amatakwa na m bụ Adonai Yahwe.",
+  "translation": "Maka ọ gaghị adị ọzọ maka ụlọ Yisrael ogwu-ntụte na-ewe iwe na ogwu na-akụ mgbu, n'etiti ndị gbara ya gburugburu niile, ndị na-akparị ya; ha ga-amara na m bụ Adonai Yahwe.",
   "tokens": [
     {
       "surface": "ולא",
@@ -17,27 +17,52 @@
     },
     {
       "surface": "עוד",
-      "gloss": "ebe ọzọ"
+      "gloss": "ọzọ"
     },
     {
       "surface": "לבית",
-      "gloss": "maka ụlụ"
+      "gloss": "maka ụlọ"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Yisrael"
     },
     {
       "surface": "סלון",
-      "gloss": "ọgwụgwụ na-ekwu okwu ọjọọ"
+      "gloss": "ogwu-ntụte"
     },
     {
       "surface": "ממאיר",
-      "gloss": "na-emekatị nkịtị"
+      "gloss": "na-ewe iwe"
+    },
+    {
+      "surface": "וקוץ",
+      "gloss": "na ogwu"
+    },
+    {
+      "surface": "מכאב",
+      "gloss": "na-akụ mgbu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "n'etiti ndị niile"
+    },
+    {
+      "surface": "סביבתם",
+      "gloss": "gbara ha gburugburu"
+    },
+    {
+      "surface": "השאטים",
+      "gloss": "ndị na-akparị"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha (ụlọ Yisrael)"
     },
     {
       "surface": "וידעו",
-      "gloss": "ha ga-amata"
+      "gloss": "ha ga-amara"
     },
     {
       "surface": "כי",
@@ -56,6 +81,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-27T12:20:14.445274148Z",
+  "timestamp": "2026-08-27T17:49:37.530301676Z",
   "model": "glm-5.3"
 }

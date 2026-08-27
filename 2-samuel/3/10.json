@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":10,"ref":"2-samuel 3:10","book":"2-samuel","lang":"ig","chapter":3,"translation":"ịkwafe ⟨the⟩ alaeze ahụ site n'ụlọ Shaul, na idozikwa ⟨את⟩ oche-achị David n'elu Yisrael na n'elu Yehuda, site na Dan ruo Beer-Sheva.","tokens":[{"surface":"להעביר","gloss":"ịkwafe"},{"surface":"הממלכה","gloss":"alaeze ahụ"},{"surface":"מבית","gloss":"site n'ụlọ"},{"surface":"שאול","gloss":"Shaul"},{"surface":"ולהקים","gloss":"na idozikwa"},{"surface":"את","gloss":"⟨את⟩","marks":"oche-achị David"},{"surface":"כסא","gloss":"oche-achị"},{"surface":"דוד","gloss":"David"},{"surface":"על","gloss":"n'elu"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"ועל","gloss":"na n'elu"},{"surface":"יהודה","gloss":"Yehuda"},{"surface":"מדן","gloss":"site na Dan"},{"surface":"ועד","gloss":"ruo"},{"surface":"באר","gloss":"Beer"},{"surface":"שבע","gloss":"Sheva"}],"timestamp":"2026-08-27T09:29:04.369726505Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 3,
+  "translation": "iji bufere oche-achị site n'ụlọ Shaul, na iguzo ⟨את⟩ ocheeze David n'elu Yisrael na n'elu Yehuda, site na Dan ruo Beer-Sheva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "iji bufere"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "oche-achị"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "site n'ụlọ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "na iguzo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ocheeze"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ocheeze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na n'elu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "site na Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na ruo"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    }
+  ],
+  "timestamp": "2026-08-27T17:39:32.904659289Z",
+  "model": "glm-5.3"
+}

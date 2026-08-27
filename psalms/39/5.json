@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 39,
-  "translation": "Mee ka m mata, Yahwe, njedebe m na ⟨the⟩ ogologo ụbọchị m — ihe ọ bụ — ka m mata ihe m dị mkpụmkpụ.",
+  "translation": "Me ka m mata, Yahwe, ⟨את⟩ njedebe m, na oke ụbọchị m — gịnị ka ọ bụ; ka m mata ole m dị mkpụmkpụ.",
   "tokens": [
     {
       "surface": "הודיעני",
-      "gloss": "Mee ka m mata"
+      "gloss": "me ka m mata"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ומדת",
-      "gloss": "na ogologo"
+      "gloss": "na oke"
     },
     {
       "surface": "ימי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "ihe ọ bụ"
+      "gloss": "gịnị"
     },
     {
       "surface": "היא",
-      "gloss": "ọ bụ"
+      "gloss": "ka ọ bụ"
     },
     {
       "surface": "אדעה",
@@ -41,17 +41,17 @@
     },
     {
       "surface": "מה",
-      "gloss": "ihe"
+      "gloss": "ole"
     },
     {
       "surface": "חדל",
-      "gloss": "dị mkpụmkpụ"
+      "gloss": "m dị mkpụmkpụ"
     },
     {
       "surface": "אני",
       "gloss": "m"
     }
   ],
-  "timestamp": "2026-08-27T13:29:13.037552139Z",
+  "timestamp": "2026-08-27T17:53:54.652938315Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 38,
-  "translation": "Ọlaedo niile e ji rụọ ọrụ ahụ, n'ihe niile nke ọrụ nsọ ahụ — ọlaedo nke onyinye ebule ahụ — bụ talentị iri abụọ na itoolu, na shekel narị asaa na iri atọ, dịka shekel nke ebe nsọ.",
+  "translation": "Ọla edo niile e mebere maka ọrụ ahụ, n'ọrụ niile nke e nsọ, bụ́ edo nke ihe a na-atụnye n'elu: talent iri abụọ na itoolu, na shekel narị asaa na iri atọ, dịka shekel nke e nsọ.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,39 +13,39 @@
     },
     {
       "surface": "הזהב",
-      "gloss": "ọlaedo ahụ"
+      "gloss": "ọla edo"
     },
     {
       "surface": "העשוי",
-      "gloss": "e ji rụọ"
+      "gloss": "e mebere"
     },
     {
       "surface": "למלאכה",
-      "gloss": "ọrụ ahụ"
+      "gloss": "maka ọrụ"
     },
     {
       "surface": "בכל",
-      "gloss": "n'ihe niile"
+      "gloss": "n'ọrụ niile"
     },
     {
       "surface": "מלאכת",
-      "gloss": "ọrụ nke"
+      "gloss": "ọrụ"
     },
     {
       "surface": "הקדש",
-      "gloss": "nsọ ahụ"
+      "gloss": "e nsọ"
     },
     {
       "surface": "ויהי",
-      "gloss": "ọ bụ"
+      "gloss": "bụ́"
     },
     {
       "surface": "זהב",
-      "gloss": "ọlaedo"
+      "gloss": "edo"
     },
     {
       "surface": "התנופה",
-      "gloss": "onyinye ebule ahụ"
+      "gloss": "nke ihe a na-atụnye n'elu"
     },
     {
       "surface": "תשע",
@@ -53,31 +53,23 @@
     },
     {
       "surface": "ועשרים",
-      "gloss": "na iri abụọ"
+      "gloss": "iri abụọ na"
     },
     {
       "surface": "ככר",
-      "gloss": "talentị"
+      "gloss": "talent"
     },
     {
       "surface": "ושבע",
-      "gloss": "asaa"
+      "gloss": "na asaa"
     },
     {
       "surface": "מאות",
       "gloss": "narị"
     },
     {
-      "surface": "וושבע",
-      "gloss": ""
-    },
-    {
-      "surface": "מאות",
-      "gloss": ""
-    },
-    {
       "surface": "ושלשים",
-      "gloss": "na iri atọ"
+      "gloss": "iri atọ"
     },
     {
       "surface": "שקל",
@@ -89,9 +81,9 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "ebe nsọ"
+      "gloss": "e nsọ"
     }
   ],
-  "timestamp": "2026-08-27T06:39:08.272907548Z",
+  "timestamp": "2026-08-27T17:32:20.935827945Z",
   "model": "glm-5.3"
 }

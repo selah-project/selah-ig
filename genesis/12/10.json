@@ -5,8 +5,57 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Mkpụrụ Ọnụnwụ; mmadụ isula; anyị kwesịrị ịnọdụ ala ugbu a. Gaa n'ọdịdị okike ịhụnanya ahụ.",
-  "tokens": [],
-  "timestamp": "2026-08-27T16:22:18.603284651Z",
+  "translation": "Mee agụụ n'ala ahụ, Avram wee gaa ala Mitsrajim ka ọ na-ehi n'ebe ahụ, n'ihi na agụụ ahụ siri ike n'ala ahụ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mee"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "agụụ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "gaa ala"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ala Mitsrajim"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "ka ọ na-ehi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "n'ebe ahụ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "siri ike"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "agụụ ahụ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "n'ala"
+    }
+  ],
+  "timestamp": "2026-08-27T17:28:00.881965677Z",
   "model": "glm-5.3"
 }

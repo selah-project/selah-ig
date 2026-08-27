@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 15,
-  "translation": "Akwa ihi-ụra ọ bụla nke ọ na-anọdụ ala n'elu ya, ụbọchị niile nke ịsọ ya, dịka akwa ihi-ụra nke ịhụ nsọ ya ka ọ ga-adị maka ya; na ⟨the⟩ ngwá ọ bụla nke ọ na-anọdụ ala n'elu ya ga-adị ọjọọ, dịka ọjọọ nke ịhụ nsọ ya.",
+  "translation": "Akwa-ala ọ bụla ọ na-anọdọ ala ya n'elu ya, ụbọchị niile nke ọpụpụ ya, ga-abụ maka ya dịka akwa-ala nke oge ịhapụ ya; nakwa ngwaahịa ọ bụla ọ na-anọdọ n'elu ya ga-adị unclean, dịka unclean nke oge ịhapụ ya.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "ọ bụla"
+      "gloss": "ihe niile"
     },
     {
       "surface": "המשכב",
-      "gloss": "akwa ihi-ụra"
+      "gloss": "akwa-ala"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תשכב",
-      "gloss": "ọ na-anọdụ ala"
+      "gloss": "ọ na-anọdọ ala ya"
     },
     {
       "surface": "עליו",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "זובה",
-      "gloss": "nke ịsọ ya"
+      "gloss": "nke ọpụpụ ya"
     },
     {
       "surface": "כמשכב",
-      "gloss": "dịka akwa ihi-ụra"
+      "gloss": "dịka akwa-ala"
     },
     {
       "surface": "נדתה",
-      "gloss": "nke ịhụ nsọ ya"
+      "gloss": "nke oge ịhapụ ya"
     },
     {
       "surface": "יהיה",
-      "gloss": "ọ ga-adị"
+      "gloss": "ga-abụ"
     },
     {
       "surface": "לה",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "na ọ bụla"
+      "gloss": "nakwa ihe niile"
     },
     {
       "surface": "הכלי",
-      "gloss": "ngwá"
+      "gloss": "ngwaahịa"
     },
     {
       "surface": "אשר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "תשב",
-      "gloss": "ọ na-anọdụ ala"
+      "gloss": "ọ na-anọdọ"
     },
     {
       "surface": "עליו",
@@ -77,21 +77,21 @@
     },
     {
       "surface": "טמא",
-      "gloss": "ọjọọ"
+      "gloss": "ga-adị unclean"
     },
     {
       "surface": "יהיה",
-      "gloss": "ga-adị"
+      "gloss": "ọ ga-abụ"
     },
     {
       "surface": "כטמאת",
-      "gloss": "dịka ọjọọ nke"
+      "gloss": "dịka unclean nke"
     },
     {
       "surface": "נדתה",
-      "gloss": "ịhụ nsọ ya"
+      "gloss": "oge ịhapụ ya"
     }
   ],
-  "timestamp": "2026-08-27T06:57:23.812571203Z",
+  "timestamp": "2026-08-27T17:32:57.610836761Z",
   "model": "glm-5.3"
 }

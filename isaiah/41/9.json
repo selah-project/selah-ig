@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":9,"ref":"isaiah 41:9","book":"isaiah","lang":"ig","chapter":41,"translation":"Onye nke m jidere gị site na nsọtụ ⟨the⟩ ụwa, ma site n'akụkụ ya kpọrọ gị, ma m gwara gị: Ọrụnka m bụ gị; m họrọla gị, ma anaghị m ajụ gị.","tokens":[{"surface":"אשר","gloss":"nke"},{"surface":"החזקתיך","gloss":"m jidere gị"},{"surface":"מקצות","gloss":"site na nsọtụ"},{"surface":"הארץ","gloss":"ụwa"},{"surface":"ומאציליה","gloss":"ma site n'akụkụ ya"},{"surface":"קראתיך","gloss":"kpọrọ gị"},{"surface":"ואמר","gloss":"ma m gwara"},{"surface":"לך","gloss":"gị"},{"surface":"עבדי","gloss":"ọrụnka m"},{"surface":"אתה","gloss":"gị"},{"surface":"בחרתיך","gloss":"m họrọla gị"},{"surface":"ולא","gloss":"ma anaghị"},{"surface":"מאסתיך","gloss":"m ajụ gị"}],"timestamp":"2026-08-27T10:56:54.584064627Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 41:9",
+  "book": "isaiah",
+  "lang": "ig",
+  "chapter": 41,
+  "translation": "Onye m jidere site n'isi njedebe nke ⟨ụwa⟩, ma site n'akụkụ ya dị anyụ kpọrọ gị aha, ma m kwuru gị na ọ bụ ohu m ka ị bụ; m họrọla gị, ma achụghị gị n'ala.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "onye"
+    },
+    {
+      "surface": "החזקתיך",
+      "gloss": "m jidere gị"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "site n'isi njedebe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nke ⟨ụwa⟩"
+    },
+    {
+      "surface": "ומאציליה",
+      "gloss": "ma site n'akụkụ ya dị anyụ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "m kpọrọ gị aha"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ma m kwuru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gị"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ohu m"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ị bụ"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "m họrọla gị"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma ọ bụghị"
+    },
+    {
+      "surface": "מאסתיך",
+      "gloss": "m chụpụrụ gị"
+    }
+  ],
+  "timestamp": "2026-08-27T17:46:12.811525204Z",
+  "model": "glm-5.3"
+}

@@ -5,23 +5,23 @@
   "book": "ezra",
   "lang": "ig",
   "chapter": 10,
-  "translation": "Ma n'etiti ndị Lеvị: Yozabad, na Shimi, na Kelayah — ya bụ Kelita — Pethachyah, Yehudah, na Eliezer.",
+  "translation": "Na nke ndị Livi: Yozavad, na Shimʽei, na Kelayah — ya bụ Kelita — Pethachyah, Yehudah, na Eliezer.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "ma n'etiti"
+      "gloss": "na nke ndị"
     },
     {
       "surface": "הלוים",
-      "gloss": "ndị Lеvị"
+      "gloss": "Livi"
     },
     {
       "surface": "יוזבד",
-      "gloss": "Yozabad"
+      "gloss": "Yozavad"
     },
     {
       "surface": "ושמעי",
-      "gloss": "na Shimi"
+      "gloss": "na Shimʽei"
     },
     {
       "surface": "וקליה",
@@ -33,7 +33,8 @@
     },
     {
       "surface": "קליטא",
-      "gloss": "Kelita"
+      "gloss": "Kelita",
+      "marks": "Kelita"
     },
     {
       "surface": "פתחיה",
@@ -48,6 +49,6 @@
       "gloss": "na Eliezer"
     }
   ],
-  "timestamp": "2026-08-27T15:39:50.254957899Z",
+  "timestamp": "2026-08-27T18:16:27.992792102Z",
   "model": "glm-5.3"
 }

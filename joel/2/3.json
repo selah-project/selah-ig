@@ -5,7 +5,7 @@
   "book": "joel",
   "lang": "ig",
   "chapter": 2,
-  "translation": "N'ihu ya ọkụ riri ihe; ma n'azụ ya ọkụ ọzọ na-ere ṅụsị; dị ka ogige Edene ⟨the⟩ ụwa dị n'ihu ya, ma n'azụ ya ọzara mkpọfu; ma ọbụnakwa mgbapụ ọ dịghị maka ya.",
+  "translation": "N'ihu ya, ọkụ riri ihe; n'azụ ya, ọkụ ọzọ na-asọ n'ọkụ ọzọ; dịka ogige Eden ka ala ahụ dị n'ihu ya, mana n'azụ ya ọ bụ ọzara mkpọkpọ; mgbapụtakwa enweghị ya.",
   "tokens": [
     {
       "surface": "לפניו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ואחריו",
-      "gloss": "ma n'azụ ya"
+      "gloss": "n'azụ ya"
     },
     {
       "surface": "תלהט",
-      "gloss": "na-ere ṅụsị"
+      "gloss": "na-asọ n'ọkụ"
     },
     {
       "surface": "להבה",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "כגן",
-      "gloss": "dị ka ogige"
+      "gloss": "dịka ogige"
     },
     {
       "surface": "עדן",
-      "gloss": "Edene"
+      "gloss": "Eden"
     },
     {
       "surface": "הארץ",
-      "gloss": "ụwa"
+      "gloss": "ala ahụ"
     },
     {
       "surface": "לפניו",
-      "gloss": "dị n'ihu ya"
+      "gloss": "n'ihu ya"
     },
     {
       "surface": "ואחריו",
-      "gloss": "ma n'azụ ya"
+      "gloss": "n'azụ ya"
     },
     {
       "surface": "מדבר",
@@ -57,29 +57,29 @@
     },
     {
       "surface": "שממה",
-      "gloss": "mkpọfu"
+      "gloss": "mkpọkpọ"
     },
     {
       "surface": "וגם",
-      "gloss": "ma ọbụnakwa"
+      "gloss": "mgbapụtakwa"
     },
     {
       "surface": "פליטה",
-      "gloss": "mgbapụ"
+      "gloss": "mgbapụta"
     },
     {
       "surface": "לא",
-      "gloss": "ọ dịghị"
+      "gloss": "enweghị"
     },
     {
       "surface": "היתה",
-      "gloss": "adịghị"
+      "gloss": "dị"
     },
     {
       "surface": "לו",
-      "gloss": "maka ya"
+      "gloss": "ya"
     }
   ],
-  "timestamp": "2026-08-27T12:46:30.263799099Z",
+  "timestamp": "2026-08-27T18:01:34.976937708Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 30,
-  "translation": "Mụrụ mee ya ⟦⟨אתו⟩⟧ bụ mmanụ ite mmanụ dị nsọ, ngwakọta nke onye na-akwado ihe na-esi ísì ụtọ mere; ọ bụrụ mmanụ ite mmanụ dị nsọ ka ọ ga-abụ.",
+  "translation": "Ma ị ga-eme ⟨את⟩ ya ka ọ bụrụ mmanụ e-tere-mmanụ dị nsọ, ihe na-esi ísì ụtọ gwakọtara, ọrụaka nke onye na-akwado ihe na-esi ísì ụtọ; mmanụ e-tere-mmanụ dị nsọ ka ọ ⟨ga-⟩ bụrụ.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "Mụrụ mee"
+      "gloss": "ma ị ga-eme"
     },
     {
       "surface": "אתו",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "משחת",
-      "gloss": "ite mmanụ"
+      "gloss": "e-tere-mmanụ"
     },
     {
       "surface": "קדש",
@@ -30,19 +30,19 @@
     },
     {
       "surface": "רקח",
-      "gloss": "ngwakọta"
+      "gloss": "ihe na-esi ísì ụtọ"
     },
     {
       "surface": "מרקחת",
-      "gloss": "nke a na-akwado"
+      "gloss": "gwakọtara"
     },
     {
       "surface": "מעשה",
-      "gloss": "ọrụ"
+      "gloss": "ọrụaka"
     },
     {
       "surface": "רקח",
-      "gloss": "nke onye na-akwado ihe na-esi ísì ụtọ"
+      "gloss": "onye na-akwado ihe na-esi ísì ụtọ"
     },
     {
       "surface": "שמן",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "משחת",
-      "gloss": "ite mmanụ"
+      "gloss": "e-tere-mmanụ"
     },
     {
       "surface": "קדש",
@@ -61,6 +61,6 @@
       "gloss": "ọ ga-abụ"
     }
   ],
-  "timestamp": "2026-08-27T06:32:24.356313306Z",
+  "timestamp": "2026-08-27T17:30:55.138737744Z",
   "model": "glm-5.3"
 }

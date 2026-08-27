@@ -5,15 +5,11 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 39,
-  "translation": "Ọrụ niile nke ebe obibi ⟨the⟩ akwụkwọ-ikpo nke nzukọ mechara, ụmụ Yisraël wee mee ihe niile nke ⟨את⟩ Yahwe nyere Moshe iwu ⟨את⟩ — otu a ka ha mere.",
+  "translation": "Ọrụ niile nke ụlọikwú nnọkọ, ahụikwú nzukọ, gwụchara; ma ndị Israel rụrụ ya dịka ihe nile Yahwe nyere Moshe iwu — ⟨את⟩ Moshe — otu a ka ha mere.",
   "tokens": [
     {
-      "surface": "ויתנו",
-      "gloss": ""
-    },
-    {
       "surface": "ותכל",
-      "gloss": "mechara"
+      "gloss": "gwụchara"
     },
     {
       "surface": "כל",
@@ -25,11 +21,11 @@
     },
     {
       "surface": "משכן",
-      "gloss": "ebe obibi"
+      "gloss": "ụlọikwú nnọkọ"
     },
     {
       "surface": "אהל",
-      "gloss": "akwụkwọ-ikpo"
+      "gloss": "ahụikwú"
     },
     {
       "surface": "מועד",
@@ -37,7 +33,7 @@
     },
     {
       "surface": "ויעשו",
-      "gloss": "Ha wee mee"
+      "gloss": "ha rụrụ"
     },
     {
       "surface": "בני",
@@ -45,11 +41,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraël"
+      "gloss": "Israel"
     },
     {
       "surface": "ככל",
-      "gloss": "ihe niile"
+      "gloss": "dịka ihe nile"
     },
     {
       "surface": "אשר",
@@ -61,7 +57,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "⟨את⟩ Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "את",
@@ -78,9 +74,9 @@
     },
     {
       "surface": "עשו",
-      "gloss": "ka ha mere"
+      "gloss": "ha mere"
     }
   ],
-  "timestamp": "2026-08-27T06:42:33.885062506Z",
+  "timestamp": "2026-08-27T17:32:21.797960776Z",
   "model": "glm-5.3"
 }

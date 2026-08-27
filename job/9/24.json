@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "ig",
   "chapter": 9,
-  "translation": "⟨The⟩ ụwa ka e nyere n'aka onye ajọ omume; ⟨he⟩ na-ekpuchi ⟨את⟩ ihu ndị ikpe ⟨its⟩ ya; ọ bụghị ⟨him⟩, ọ bu onye ọzọ ka ọ bụ?",
+  "translation": "⟨A⟩ ụwa enyerela n'aka onye ajọ omume; ọ na-ekpuchi ⟨ihu⟩ ọkaikpe ya; ọ bụghị Yahwe, ọ dịghị onye ọzọ kama ọ bụ onye ole?",
   "tokens": [
     {
       "surface": "ארץ",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נתנה",
-      "gloss": "ka e nyere"
+      "gloss": "enyerela"
     },
     {
       "surface": "ביד",
@@ -29,33 +29,33 @@
     },
     {
       "surface": "שפטיה",
-      "gloss": "ndị ikpe ya"
+      "gloss": "ọkaikpe ya"
     },
     {
       "surface": "יכסה",
-      "gloss": "na-ekpuchi"
+      "gloss": "ọ na-ekpuchi"
     },
     {
       "surface": "אם",
-      "gloss": "ọ bụrụ na ọ bụghị"
-    },
-    {
-      "surface": "לא",
       "gloss": "ọ bụghị"
     },
     {
+      "surface": "לא",
+      "gloss": "ọ dịghị onye ọzọ"
+    },
+    {
       "surface": "אפוא",
-      "gloss": "ọzọ"
+      "gloss": "kama"
     },
     {
       "surface": "מי",
-      "gloss": "onye"
+      "gloss": "onye ole"
     },
     {
       "surface": "הוא",
-      "gloss": "ọ"
+      "gloss": "ọ bụ"
     }
   ],
-  "timestamp": "2026-08-27T14:40:30.348105542Z",
+  "timestamp": "2026-08-27T17:55:18.840769636Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 20,
-  "translation": "Dawid bata n'ụlọ ya na Yerushalayim; eze were ⟨את⟩ ụmụ nwanyị iri ndị nwunye nke abụọ, ndị ọ hapụrụ ka ha na-elekọta ⟨the⟩ ụlọ ahụ, tinye ha n'ụlọ nche ma na-azụ ha; ma ọ baghị ná ha; ha nọrọ n'ihe mkpọchiri ruo ụbọchị ha nwụrụ, ha bụ́ ndị di ha nwụrụ, ebe di ha dị ndụ.",
+  "translation": "Davide bata n'ụlọ ya na Yerushalayim, eze we were ⟨את⟩ ụmụnwaanyị iri ndị akpa ndị ọzọ, ndị ọ hapụrụ ka ha na-elekọta ụlọ ahụ, o tinyekwara ha n'ụlọ nche, na-elekọta ha, mana ọ baghị ha ọzọ; ha nọkwa n'ọnọdụ mkpọchiri ruo ụbọchị ọnwụ ha, dị ka ndị di ha ka dị ndụ.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "Davide"
     },
     {
       "surface": "אל",
-      "gloss": "na"
+      "gloss": "n'"
     },
     {
       "surface": "ביתו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "were"
+      "gloss": "eze we were"
     },
     {
       "surface": "המלך",
@@ -38,7 +38,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ụmụ nwanyị iri"
+      "marks": "ụmụnwaanyị iri"
     },
     {
       "surface": "עשר",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "נשים",
-      "gloss": "ụmụ nwanyị"
+      "gloss": "ụmụnwaanyị"
     },
     {
       "surface": "פלגשים",
-      "gloss": "ndị nwunye nke abụọ"
+      "gloss": "ndị akpa ndị ọzọ"
     },
     {
       "surface": "אשר",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ויתנם",
-      "gloss": "tinye ha"
+      "gloss": "o tinyekwara ha"
     },
     {
       "surface": "בית",
@@ -82,27 +82,27 @@
     },
     {
       "surface": "ויכלכלם",
-      "gloss": "na-azụ ha"
+      "gloss": "na-elekọta ha"
     },
     {
       "surface": "ואליהם",
-      "gloss": "ná ha"
+      "gloss": "ha"
     },
     {
       "surface": "לא",
-      "gloss": "ọ baghị"
+      "gloss": "mana ... ọ bụghị"
     },
     {
       "surface": "בא",
-      "gloss": "bata"
+      "gloss": "baghị"
     },
     {
       "surface": "ותהיינה",
-      "gloss": "ha nọrọ"
+      "gloss": "ha nọkwa"
     },
     {
       "surface": "צררות",
-      "gloss": "n'ihe mkpọchiri"
+      "gloss": "n'ọnọdụ mkpọchiri"
     },
     {
       "surface": "עד",
@@ -114,17 +114,17 @@
     },
     {
       "surface": "מתן",
-      "gloss": "ha nwụrụ"
+      "gloss": "ọnwụ ha"
     },
     {
       "surface": "אלמנות",
-      "gloss": "ndị di ha nwụrụ"
+      "gloss": "dị ka ndị di ha nwụrụ anwụ"
     },
     {
       "surface": "חיות",
-      "gloss": "ebe di ha dị ndụ"
+      "gloss": "ka dị ndụ"
     }
   ],
-  "timestamp": "2026-08-27T09:46:02.115889790Z",
+  "timestamp": "2026-08-27T18:15:28.590571800Z",
   "model": "glm-5.3"
 }

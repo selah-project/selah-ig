@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 51,
-  "translation": "Mụ onwe m, mụ onwe m, bụ ⟨Onye⟩ na-atụsị gị ụzọ mmanụ; onye ka i bụ na ị ji-atụ ⟨onye⟩ ụjọ — mmadụ nke ga-anwụ, na nwa nke Adama, onye e nyere dịka ahịhịa?",
+  "translation": "Mụ onwe m, mụ onwe m, ⟨bụ⟩ Onye na-atụ anyị mmadụ n'udo gị: onye ka ⟨את⟩ ị bụ na ị na-atụ ụjọ nke enọsh nke ga-anwụ, na nwa nke adam, bụ ahịhịa a ga-eme ka ọ bụrụ?",
   "tokens": [
     {
       "surface": "אנכי",
-      "gloss": "mụ onwe m"
+      "gloss": "Mụ onwe m"
     },
     {
       "surface": "אנכי",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "הוא",
-      "gloss": "bụ ⟨Onye⟩"
+      "gloss": "bụ"
     },
     {
       "surface": "מנחמכם",
-      "gloss": "na-atụsị gị ụzọ mmanụ"
+      "gloss": "Onye na-atụ anyị mmadụ n'udo gị"
     },
     {
       "surface": "מי",
-      "gloss": "onye ka i bụ"
+      "gloss": "onye ka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gị"
+      "marks": "gị — onye ị bụ"
     },
     {
       "surface": "ותיראי",
-      "gloss": "na ị ji-atụ ụjọ"
+      "gloss": "na ị na-atụ ụjọ"
     },
     {
       "surface": "מאנוש",
-      "gloss": "site na mmadụ"
+      "gloss": "nke enọsh"
     },
     {
       "surface": "ימות",
@@ -46,21 +46,21 @@
     },
     {
       "surface": "ומבן",
-      "gloss": "na site na nwa nke"
+      "gloss": "na nwa nke"
     },
     {
       "surface": "אדם",
-      "gloss": "Adama"
+      "gloss": "adam"
     },
     {
       "surface": "חציר",
-      "gloss": "dịka ahịhịa"
+      "gloss": "bụ ahịhịa"
     },
     {
       "surface": "ינתן",
-      "gloss": "e nyere"
+      "gloss": "a ga-eme ka ọ bụrụ"
     }
   ],
-  "timestamp": "2026-08-27T11:04:43.808083932Z",
+  "timestamp": "2026-08-27T17:46:08.828383115Z",
   "model": "glm-5.3"
 }

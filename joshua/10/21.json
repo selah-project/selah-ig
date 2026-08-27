@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 10,
-  "translation": "Mmadụ niile laghachiri n'⟨the⟩ ogige, gaa Yehoshua, na Makeda, n'udo; ọ dịghị mmadụ dọkachiri ⟨את⟩ ire ya n'ụzọ dị nkọ megide ụmụ Yisrael, maka onye ọ bụla.",
+  "translation": "Ma mmadụ niile laghachiri n'ogige agha ruo Yehoshua na Makeda, n'udo; ọ dịghị mmadụ ọ bụla n'etiti ụmụ Yisrael tisasịrị ⟨את⟩ ire ya.",
   "tokens": [
     {
       "surface": "וישבו",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "gaa"
+      "gloss": "ruo"
     },
     {
       "surface": "המחנה",
-      "gloss": "ogige"
+      "gloss": "ogige agha"
     },
     {
       "surface": "אל",
-      "gloss": "gaa"
+      "gloss": "ruo"
     },
     {
       "surface": "יהושע",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "חרץ",
-      "gloss": "dọkachiri n'ụzọ dị nkọ"
+      "gloss": "tisasịrị"
     },
     {
       "surface": "לבני",
-      "gloss": "megide ụmụ"
+      "gloss": "maka ụmụ"
     },
     {
       "surface": "ישראל",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "maka onye ọ bụla"
+      "gloss": "onye ọ bụla"
     },
     {
       "surface": "את",
@@ -73,6 +73,6 @@
       "gloss": "ire ya"
     }
   ],
-  "timestamp": "2026-08-27T08:24:47.626300479Z",
+  "timestamp": "2026-08-27T17:38:04.126123181Z",
   "model": "glm-5.3"
 }

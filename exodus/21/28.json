@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 21,
-  "translation": "Ma ọ bụrụ na ehi mụtara ⟨את⟩ nwoke ma ọ bụ ⟨את⟩ nwanyị, ma ha nwụọ, a ga-emeri ehi ⟨the⟩ ahụ nkume nke ọma, a ga-eri ⟨את⟩ anụ ya; ma onye nwe ehi ahụ, ọ dị nchekwa.",
+  "translation": "Ma ọ bụrụ na ehi gbagbaa ⟨את⟩ nwoke ma ọ bụ ⟨את⟩ nwanyị, ha nwụọ, a ga-ama ehi ahụ nkume ọcha; a gaghị eri ⟨את⟩ anụ ya; mana onye nwe ehi ahụ ga-abụ onye aka ya dị ọcha.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "ma ọ bụrụ na"
+      "gloss": "Ma ọ bụrụ na"
     },
     {
       "surface": "יגח",
-      "gloss": "mụtara"
+      "gloss": "gbagbaa"
     },
     {
       "surface": "שור",
@@ -43,15 +43,15 @@
     },
     {
       "surface": "ומת",
-      "gloss": "ma ha nwụọ"
+      "gloss": "ha nwụọ"
     },
     {
       "surface": "סקול",
-      "gloss": "meri nkume"
+      "gloss": "a ga-ama nkume"
     },
     {
       "surface": "יסקל",
-      "gloss": "a ga-emeri nkume"
+      "gloss": "ọcha"
     },
     {
       "surface": "השור",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "a ga-eri"
+      "gloss": "a gaghị"
     },
     {
       "surface": "יאכל",
-      "gloss": "anụ ya"
+      "gloss": "eri"
     },
     {
       "surface": "את",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "ובעל",
-      "gloss": "ma onye nwe"
+      "gloss": "mana onye nwe"
     },
     {
       "surface": "השור",
@@ -84,9 +84,9 @@
     },
     {
       "surface": "נקי",
-      "gloss": "ọ dị nchekwa"
+      "gloss": "onye aka ya dị ọcha"
     }
   ],
-  "timestamp": "2026-08-27T06:23:31.755466869Z",
+  "timestamp": "2026-08-27T17:30:12.409746822Z",
   "model": "glm-5.3"
 }

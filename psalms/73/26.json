@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 73,
-  "translation": "Anụ ahụ m na obi m na-agbakwụnye ⟨is⟩; nkume nke obi m na òkè m ⟨is⟩ Elohim ruo mgbe ebighị ebi.",
+  "translation": "Anwụọla ahụ m na obi m; nkume obi m na òkè m bụ Elohim ruo mgbe ebighị ebi.",
   "tokens": [
     {
       "surface": "כלה",
-      "gloss": "na-agbakwụnye"
+      "gloss": "anwụọla"
     },
     {
       "surface": "שארי",
-      "gloss": "anụ ahụ m"
+      "gloss": "ahụ m"
     },
     {
       "surface": "ולבבי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לבבי",
-      "gloss": "nke obi m"
+      "gloss": "obi m"
     },
     {
       "surface": "וחלקי",
@@ -40,6 +40,6 @@
       "gloss": "ruo mgbe ebighị ebi"
     }
   ],
-  "timestamp": "2026-08-27T16:49:00.116681424Z",
+  "timestamp": "2026-08-27T17:53:16.811931159Z",
   "model": "glm-5.3"
 }

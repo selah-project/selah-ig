@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "ig",
   "chapter": 4,
-  "translation": "Ụmụ Shela nwa Yehuda: Er, nna Leka, na Laada, nna Maresha, na ezinụlọ nke ⟨ ⟩ ụlọ ọrụ akwa-buuts, n'ụlọ Ashbea.",
+  "translation": "Ụmụ Shelah, nwa Yehudah: Er, nna Lekah, na Laadah, nna Mareshah; nakwa ezinụlọ nke ụlọ nke na-arụ ọrụ ákwà linan dị mma, nke ụlọ Ashbea.",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "Ụmụ"
+      "gloss": "ụmụ"
     },
     {
       "surface": "שלה",
-      "gloss": "Shela"
+      "gloss": "Shelah"
     },
     {
       "surface": "בן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yehudah"
     },
     {
       "surface": "ער",
@@ -33,15 +33,11 @@
     },
     {
       "surface": "לכה",
-      "gloss": "Leka"
+      "gloss": "Lekah"
     },
     {
-      "surface": "ו",
-      "gloss": ""
-    },
-    {
-      "surface": "לעדה",
-      "gloss": "na Laada"
+      "surface": "ולעדה",
+      "gloss": "na Laadah"
     },
     {
       "surface": "אבי",
@@ -49,11 +45,11 @@
     },
     {
       "surface": "מרשה",
-      "gloss": "Maresha"
+      "gloss": "Mareshah"
     },
     {
       "surface": "ומשפחות",
-      "gloss": "na ezinụlọ"
+      "gloss": "nakwa ezinụlọ"
     },
     {
       "surface": "בית",
@@ -65,17 +61,17 @@
     },
     {
       "surface": "הבץ",
-      "gloss": "akwa-buuts"
+      "gloss": "ákwà linan dị mma"
     },
     {
       "surface": "לבית",
-      "gloss": "n'ụlọ"
+      "gloss": "nke ụlọ"
     },
     {
       "surface": "אשבע",
       "gloss": "Ashbea"
     }
   ],
-  "timestamp": "2026-08-27T15:54:09.758442500Z",
+  "timestamp": "2026-08-27T17:58:10.136686394Z",
   "model": "glm-5.3"
 }

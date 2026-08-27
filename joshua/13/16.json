@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":16,"ref":"joshua 13:16","book":"joshua","lang":"ig","chapter":13,"translation":"Ókèala ha bụ site na Aroer, nke dị n'akụkụ osimiri Arnon, na ⟨the⟩ obodo nke dị n'etiti osimiri ahụ, na ala dị larịị niile ruo Medeba.","tokens":[{"surface":"ויהי","gloss":"ọ bụ"},{"surface":"להם","gloss":"ha"},{"surface":"הגבול","gloss":"ókèala"},{"surface":"מערוער","gloss":"site na Aroer"},{"surface":"אשר","gloss":"nke dị"},{"surface":"על","gloss":"n'akụkụ"},{"surface":"שפת","gloss":"akụkụ"},{"surface":"נחל","gloss":"osimiri"},{"surface":"ארנון","gloss":"Arnon"},{"surface":"והעיר","gloss":"na obodo"},{"surface":"אשר","gloss":"nke dị"},{"surface":"בתוך","gloss":"n'etiti"},{"surface":"הנחל","gloss":"osimiri ahụ"},{"surface":"וכל","gloss":"na niile"},{"surface":"המישר","gloss":"ala dị larịị"},{"surface":"על","gloss":"ruo"},{"surface":"מידבא","gloss":"Medeba"}],"timestamp":"2026-08-27T08:29:19.821098874Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 13:16",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 13,
+  "translation": "Ó bụ́kwa ókèala ha site na Aroer nke dị n'ọnụ nsọ mmiri Arnon, na obodo nke dị n'etiti ⟨את⟩ ndagwurugwu ahụ, na ala dị larịị niile ruo Medeba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ọ bụ́kwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "ókèala"
+    },
+    {
+      "surface": "מערוער",
+      "gloss": "site na Aroer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "על",
+      "gloss": "dị na"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ọnụ nsọ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mmiri"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "na obodo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dị n'etiti"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ndagwurugwu ahụ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... niile"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ala dị larịị"
+    },
+    {
+      "surface": "על",
+      "gloss": "ruo"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "Medeba"
+    }
+  ],
+  "timestamp": "2026-08-27T17:37:24.903457742Z",
+  "model": "glm-5.3"
+}

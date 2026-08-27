@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 3,
-  "translation": "Ma aka Yahwe dakwasịrị m n'ebe ahụ, ma Ọ sịrị m, Bilie, pụọ gaa n'ọdọ isi iyi ahụ, na n'ebe ahụ ka m ga-agwa ⟨את⟩ gị okwu.",
+  "translation": "Ma aka Yahwe nọkwasịrị m n'ebe ahụ, O wee sị m: Bilie, pụọ gaa n'olulu mmiri dị larịị, ma n'ebe ahụ ka m ga-ekwurị gị okwu.",
   "tokens": [
     {
       "surface": "ותהי",
-      "gloss": "ma ọ dịrị"
+      "gloss": "Ma ... nọkwasịrị"
     },
     {
       "surface": "עלי",
-      "gloss": "dakwasịrị m"
+      "gloss": "m"
     },
     {
       "surface": "שם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ma Ọ sịrị"
+      "gloss": "O wee sị"
     },
     {
       "surface": "אלי",
@@ -49,21 +49,22 @@
     },
     {
       "surface": "הבקעה",
-      "gloss": "⟨the⟩ ọdọ isi iyi ahụ"
+      "gloss": "n'olulu mmiri dị larịị"
     },
     {
       "surface": "ושם",
-      "gloss": "na n'ebe ahụ"
+      "gloss": "ma n'ebe ahụ"
     },
     {
       "surface": "אדבר",
-      "gloss": "m ga-agwa okwu"
+      "gloss": "ka m ga-ekwurị okwu"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ gị"
+      "gloss": "⟨את⟩",
+      "marks": "gị"
     }
   ],
-  "timestamp": "2026-08-27T11:59:36.492648197Z",
+  "timestamp": "2026-08-27T17:48:26.149624176Z",
   "model": "glm-5.3"
 }

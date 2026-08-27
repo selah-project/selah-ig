@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Elisha wee kwuo ha okwu, sị: Ọ bụghị ụzọ a, ọ bụghịkwa obodo a. Nọrọ m so, m ga-edu ⟨את⟩ ⟨אתכם⟩ gaa n'aka nwoke ahụ ị na-achọ. O wee duru ⟨את⟩ ⟨אתם⟩ ha gaa Shomron.",
+  "translation": "Elisha siri ha: ọ bụghị nke a bụ ụzọ ahụ, ma ọ bụghịkwa nke a bụ ⟨obodo⟩ ahụ; nọrọ mụ so, m ga-eduga ⟨את⟩ unu ruo n'aka nwoke ahụ unu na-achọ. O wee duru ⟨את⟩ ha gaa Shomrona.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ọ wee kwuo okwu"
+      "gloss": "o wee sị"
     },
     {
       "surface": "אלהם",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "זה",
-      "gloss": "a \/ nke a"
+      "gloss": "nke a"
     },
     {
       "surface": "הדרך",
-      "gloss": "ụzọ a"
+      "gloss": "ụzọ ahụ"
     },
     {
       "surface": "ולא",
-      "gloss": "ọ bụghịkwa"
+      "gloss": "ma ọ bụghịkwa"
     },
     {
       "surface": "זה",
-      "gloss": "a \/ nke a"
+      "gloss": "nke a"
     },
     {
       "surface": "העיר",
-      "gloss": "obodo a"
+      "gloss": "obodo ahụ"
     },
     {
       "surface": "לכו",
@@ -49,20 +49,20 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "m so"
+      "gloss": "mụ so"
     },
     {
       "surface": "ואוליכה",
-      "gloss": "m ga-edu"
+      "gloss": "m ga-eduga"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "unu"
     },
     {
       "surface": "אל",
-      "gloss": "gaa n'aka"
+      "gloss": "ruo"
     },
     {
       "surface": "האיש",
@@ -74,22 +74,22 @@
     },
     {
       "surface": "תבקשון",
-      "gloss": "ị na-achọ"
+      "gloss": "unu na-achọ"
     },
     {
       "surface": "וילך",
-      "gloss": "o wee du"
+      "gloss": "o wee duru"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "ha"
     },
     {
       "surface": "שמרונה",
-      "gloss": "Shomron"
+      "gloss": "Shomrona"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.270691464Z",
+  "timestamp": "2026-08-27T17:43:43.555868618Z",
   "model": "glm-5.3"
 }

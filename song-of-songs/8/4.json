@@ -5,20 +5,20 @@
   "book": "song-of-songs",
   "lang": "ig",
   "chapter": 8,
-  "translation": "M rịọrọ unu aka, ndị inyom Yerushalayim: gbochinu ịkpọte maọbụ kụọ ọkụ ⟨את⟩ ⟨the⟩ ịhụnanya, ruo mgbe ọ chọrọ.",
+  "translation": "M gbara unu iyi, ụmụnwaanyị Yerushalayim — unu ekwesịghị ịkpọte ma ọ bụ kpalie ⟨את⟩ ịhụnanya, ruo mgbe ọ chọrọ.",
   "tokens": [
     {
       "surface": "השבעתי",
-      "gloss": "m rịọrọ unu aka"
+      "gloss": "m gbara iyi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "unu, ndị inyom Yerushalayim"
+      "gloss": "⟨את⟩ unu",
+      "marks": "ụmụnwaanyị Yerushalayim"
     },
     {
       "surface": "בנות",
-      "gloss": "ndị inyom"
+      "gloss": "ụmụnwaanyị"
     },
     {
       "surface": "ירושלם",
@@ -26,28 +26,28 @@
     },
     {
       "surface": "מה",
-      "gloss": "n'ihe ọ bụ (gbochinu)"
+      "gloss": "kedu gịnị"
     },
     {
       "surface": "תעירו",
-      "gloss": "na-akpọte"
+      "gloss": "unu ga-akpọte"
     },
     {
       "surface": "ומה",
-      "gloss": "ma n'ihe ọ bụ"
+      "gloss": "na kedu gịnị"
     },
     {
       "surface": "תעררו",
-      "gloss": "na-akụọ ọkụ"
+      "gloss": "unu ga-ekpalite"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ ịhụnanya"
+      "marks": "ịhụnanya"
     },
     {
       "surface": "האהבה",
-      "gloss": "⟨the⟩ ịhụnanya"
+      "gloss": "ịhụnanya"
     },
     {
       "surface": "עד",
@@ -58,6 +58,6 @@
       "gloss": "ọ chọrọ"
     }
   ],
-  "timestamp": "2026-08-27T15:04:32.129079612Z",
+  "timestamp": "2026-08-27T17:56:43.205199025Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 21,
-  "translation": "N'ihi na Cheshbon ⟨is⟩ obodo Sichon, eze HaEmori; ⟨he⟩ lụrụ ọgụ megide eze Moab bụ onye mbụ, were ⟨את⟩ ala ya niile n'aka ya ruo Arnon.",
+  "translation": "N'ihi na Cheshbon bụ obodo Sichọn, eze ndị Emori, ọ bụ́ ya, ma ọ lụsọrọ eze Moab nke mbụ agha, ma were ⟨את⟩ ala ya niile n'aka ya ruo Arnon.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "סיחן",
-      "gloss": "Sichon"
+      "gloss": "Sichọn"
     },
     {
       "surface": "מלך",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "nke HaEmori"
+      "gloss": "ndị Emori"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨is⟩ ọ bụ"
+      "gloss": "ọ bụ́ ya"
     },
     {
       "surface": "והוא",
-      "gloss": "⟨he⟩ ya"
+      "gloss": "ma ọ"
     },
     {
       "surface": "נלחם",
-      "gloss": "lụrụ ọgụ"
+      "gloss": "lụsọrọ agha"
     },
     {
       "surface": "במלך",
-      "gloss": "megide eze"
+      "gloss": "eze"
     },
     {
       "surface": "מואב",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "הראשון",
-      "gloss": "onye mbụ"
+      "gloss": "nke mbụ"
     },
     {
       "surface": "ויקח",
-      "gloss": "were"
+      "gloss": "ma were"
     },
     {
       "surface": "את",
@@ -85,6 +85,6 @@
       "gloss": "Arnon"
     }
   ],
-  "timestamp": "2026-08-27T07:31:10.008888736Z",
+  "timestamp": "2026-08-27T17:34:09.945603096Z",
   "model": "glm-5.3"
 }

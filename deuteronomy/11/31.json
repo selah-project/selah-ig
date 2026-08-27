@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 11,
-  "translation": "N'ihi na unu na-agafe ⟨את⟩ Yarden iji bata weghara ⟨את⟩ ala nke Yahwe, Elohim unu, na-enye unu; unu ga-eweghara ya ma bie na ya.",
+  "translation": "N'ihi na unu na-agafe ⟨את⟩ Jọdan iji bata nweta ⟨את⟩ ala nke Yahwe Elohim unu na-enye unu; unu ga-enwe ya, unu ga-bikwa na ya.",
   "tokens": [
     {
       "surface": "כי",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yarden"
+      "marks": "Jọdan"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yarden"
+      "gloss": "Jọdan"
     },
     {
       "surface": "לבא",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "weghara"
+      "gloss": "nweta"
     },
     {
       "surface": "את",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ala"
+      "gloss": "ala"
     },
     {
       "surface": "אשר",
@@ -67,22 +67,22 @@
     },
     {
       "surface": "וירשתם",
-      "gloss": "unu ga-eweghara"
+      "gloss": "ga-enwe ya"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ ya",
-      "marks": "ya"
+      "gloss": "⟨את⟩",
+      "marks": "ya (ala)"
     },
     {
       "surface": "וישבתם",
-      "gloss": "ma bie"
+      "gloss": "ga-bikwa"
     },
     {
       "surface": "בה",
       "gloss": "na ya"
     }
   ],
-  "timestamp": "2026-08-27T07:58:26.625050289Z",
+  "timestamp": "2026-08-27T17:36:54.458547013Z",
   "model": "glm-5.3"
 }

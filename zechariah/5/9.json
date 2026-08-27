@@ -1,1 +1,94 @@
-{"tier":"glm-5.2","verse":9,"ref":"zechariah 5:9","book":"zechariah","lang":"ig","chapter":5,"translation":"M wee welie anya m, m wee hụ, gịa nke ọma, ụmụ nwanyị abụọ na-apụta, na ikuku n'ime nku ha; ha nwere nku dịka nke nke چacha (חסידה) — dịka nke nke ha; ha welitere ⟨את⟩ ahụ ephah n'etiti ⟨the⟩ ụwa na ⟨the⟩ eluigwe.","tokens":[{"surface":"ואשא","gloss":"m wee welie"},{"surface":"עיני","gloss":"anya m"},{"surface":"וארא","gloss":"m wee hụ"},{"surface":"והנה","gloss":"gịa nke ọma"},{"surface":"שתים","gloss":"abụọ"},{"surface":"נשים","gloss":"ụmụ nwanyị"},{"surface":"יוצאות","gloss":"na-apụta"},{"surface":"ורוח","gloss":"na ikuku"},{"surface":"בכנפיהם","gloss":"n'ime nku ha"},{"surface":"ולהנה","gloss":"ha nwere"},{"surface":"כנפים","gloss":"nku"},{"surface":"ככנפי","gloss":"dịka nku nke"},{"surface":"החסידה","gloss":"چacha (חסידה)"},{"surface":"ותשאנה","gloss":"ha welitere"},{"surface":"את","gloss":"⟨את⟩","marks":"ahụ ephah"},{"surface":"האיפה","gloss":"ahụ ephah"},{"surface":"בין","gloss":"n'etiti"},{"surface":"הארץ","gloss":"ụwa"},{"surface":"ובין","gloss":"na n'etiti"},{"surface":"השמים","gloss":"eluigwe"}],"timestamp":"2026-08-27T13:02:56.162789177Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 5:9",
+  "book": "zechariah",
+  "lang": "ig",
+  "chapter": 5,
+  "translation": "M wee welie anya m, ma lelee, ghee nunu, ụmụ nwanyị abụọ na-apụta, na mmụọ n'ime nku ha; ha nwere nku dịka nku nke nnụnụ HaSidah, wee bulie ⟨את⟩ aiifa ahụ n'etiti ụwa na n'etiti eluigwe.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "m wee welie"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "anya m"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ma lelee"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ghee nunu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ụmụ nwanyị"
+    },
+    {
+      "surface": "יוצאות",
+      "gloss": "na-apụta"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na mmụọ"
+    },
+    {
+      "surface": "בכנפיהם",
+      "gloss": "n'ime nku ha"
+    },
+    {
+      "surface": "ולהנה",
+      "gloss": "ha nwere"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "nku"
+    },
+    {
+      "surface": "ככנפי",
+      "gloss": "dịka nku nke"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "nnụnụ HaSidah"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "wee bulie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aiifa ahụ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "aiifa ahụ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ụwa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na n'etiti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "eluigwe"
+    }
+  ],
+  "timestamp": "2026-08-27T17:52:35.616420233Z",
+  "model": "glm-5.3"
+}

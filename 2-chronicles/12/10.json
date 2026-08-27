@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Eze Rehavam mere ọta kọpa n'ọnọdụ ha, ma nye ha n'aka ndị isi ndị ọsọ na-eche ọnụ ụzọ ụlọ ⟨the⟩ eze.",
+  "translation": "Eze Rehavam mere n'ọnọdụ ha ọmụma nchara, wee nye ndị isi ndị na-agba ọsọ n'ọrụ ha bụ́ ndị na-eche ụzọ ụlọ ⟨nke⟩ eze.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "מגני",
-      "gloss": "ọta"
+      "gloss": "ọmụma"
     },
     {
       "surface": "נחשת",
-      "gloss": "kọpa"
+      "gloss": "nchara"
     },
     {
       "surface": "והפקיד",
-      "gloss": "ma nye ha n'aka"
+      "gloss": "wee nye n'ọrụ"
     },
     {
       "surface": "על",
-      "gloss": "na"
+      "gloss": "n'aka"
     },
     {
       "surface": "יד",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "הרצים",
-      "gloss": "ndị ọsọ"
+      "gloss": "ndị na-agba ọsọ"
     },
     {
       "surface": "השמרים",
-      "gloss": "na-eche"
+      "gloss": "ndị na-eche"
     },
     {
       "surface": "פתח",
-      "gloss": "ọnụ ụzọ"
+      "gloss": "ụzọ mbata"
     },
     {
       "surface": "בית",
@@ -68,6 +68,6 @@
       "gloss": "eze"
     }
   ],
-  "timestamp": "2026-08-27T16:11:31.660363851Z",
+  "timestamp": "2026-08-27T17:59:55.537666681Z",
   "model": "glm-5.3"
 }

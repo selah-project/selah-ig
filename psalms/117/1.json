@@ -5,8 +5,42 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 117,
-  "translation": "Toonu Yahwe, nzuko ⟨את⟩ Yahwe, mba niile; toonu ya, okwu nke ⟨את⟩ umu-nile.",
-  "tokens": [],
-  "timestamp": "2026-08-27T13:59:58.093785948Z",
+  "translation": "Toonu Yahwe, ndị mba niile; toonu ya, ndị agbụrụ niile.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Toonu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndị mba"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "toonu ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "ndị agbụrụ"
+    }
+  ],
+  "timestamp": "2026-08-27T17:54:08.259946225Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 34,
-  "translation": "Ya mere, otu a ka Yahwe kwuru: Unu ekweghị nụrọ m ka unu kpọsaa nnwere onwe, onye ọ bụla maka nwanne ya nwoke, na onye ọ bụla maka onye agbata obi ya; le, m na-akpọsa maka unu nnwere onwe — okwu nke Yahwe — ruo ⟨the⟩ mma agha, ruo ⟨the⟩ ọrịa na-efe, na ruo ⟨the⟩ ụnwụ nri; m ga-enye ⟨את⟩ unu dịka egwu nye ala-eze niile nke ⟨the⟩ ụwa.",
+  "translation": "Ya mere, otu a ka Yahwe siri kwuo: Unu anụghị m ka unu kpọsaa nnwere onye, onye ọ bụla nye nwanne ya, na onye ọ bụla nye enyi ya; le, m na-akpọsaa unu nnwere onye — nkwu Yahwe — nye mma agha, nye ọrịa na-efe efe, na nye ụkọ nri; m ga-enyekwa ⟨את⟩ unu ka unu bụrụ ihe-atụ-egwu nye ala-eze niile nke ụwa.",
   "tokens": [
     {
       "surface": "לכן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "kwuru"
+      "gloss": "siri kwuo"
     },
     {
       "surface": "יהוה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ekweghị"
+      "gloss": "ọ dịghị"
     },
     {
       "surface": "שמעתם",
-      "gloss": "nụrọ"
+      "gloss": "anụghị"
     },
     {
       "surface": "אלי",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "לקרא",
-      "gloss": "ịkpọsa"
+      "gloss": "ka unu kpọsaa"
     },
     {
       "surface": "דרור",
-      "gloss": "nnwere onwe"
+      "gloss": "nnwere onye"
     },
     {
       "surface": "איש",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לאחיו",
-      "gloss": "nwanne ya nwoke"
+      "gloss": "nye nwanne ya"
     },
     {
       "surface": "ואיש",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "לרעהו",
-      "gloss": "onye agbata obi ya"
+      "gloss": "nye enyi ya"
     },
     {
       "surface": "הנני",
@@ -69,19 +69,19 @@
     },
     {
       "surface": "קרא",
-      "gloss": "m na-akpọsa"
+      "gloss": "m na-akpọsaa"
     },
     {
       "surface": "לכם",
-      "gloss": "maka unu"
+      "gloss": "unu"
     },
     {
       "surface": "דרור",
-      "gloss": "nnwere onwe"
+      "gloss": "nnwere onye"
     },
     {
       "surface": "נאם",
-      "gloss": "okwu nke"
+      "gloss": "nkwu"
     },
     {
       "surface": "יהוה",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "nye"
     },
     {
       "surface": "החרב",
@@ -97,36 +97,36 @@
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "nye"
     },
     {
       "surface": "הדבר",
-      "gloss": "ọrịa na-efe"
+      "gloss": "ọrịa na-efe efe"
     },
     {
       "surface": "ואל",
-      "gloss": "na ruo"
+      "gloss": "na nye"
     },
     {
       "surface": "הרעב",
-      "gloss": "ụnwụ nri"
+      "gloss": "ụkọ nri"
     },
     {
       "surface": "ונתתי",
-      "gloss": "m ga-enye"
+      "gloss": "m ga-enyekwa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "unu"
+      "gloss": "⟨את⟩ unu",
+      "marks": "ihe-atụ-egwu"
     },
     {
       "surface": "לזועה",
-      "gloss": "egwu"
+      "gloss": "ka unu bụrụ ihe-atụ-egwu"
     },
     {
       "surface": "לכל",
-      "gloss": "niile"
+      "gloss": "nye niile"
     },
     {
       "surface": "ממלכות",
@@ -137,6 +137,6 @@
       "gloss": "nke ụwa"
     }
   ],
-  "timestamp": "2026-08-27T11:42:32.841179706Z",
+  "timestamp": "2026-08-27T17:47:37.585804170Z",
   "model": "glm-5.3"
 }

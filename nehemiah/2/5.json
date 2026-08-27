@@ -5,11 +5,11 @@
   "book": "nehemiah",
   "lang": "ig",
   "chapter": 2,
-  "translation": "Ma m gwara ⟨the⟩ eze: ọ bụrụ na ọ dị ezi n'aka ⟨the⟩ eze, ma ọ bụrụ na ọ dị mma nye ohu gị n'ihu gị, na ị ga-ezitere mụ na Yehuda, n'obodo nke ili nna nna m, ka m wee rụọ ya.",
+  "translation": "M wee sị eze: Ọ bụrụ na ọ dị mma n'eze, ma ọ bụrụ na ọ dị mma maka ohu gị n'ihu gị, ka ị zitere m Yue, n'obodo ili olili nna nna m, ka m wughachie ya.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "ma m gwara"
+      "gloss": "m wee sị"
     },
     {
       "surface": "למלך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "על",
-      "gloss": "n'aka"
+      "gloss": "maka"
     },
     {
       "surface": "המלך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "ọ dị ezi"
+      "gloss": "ọ dị mma"
     },
     {
       "surface": "ואם",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "אשר",
-      "gloss": "na"
+      "gloss": "ka"
     },
     {
       "surface": "תשלחני",
-      "gloss": "ị ga-ezitere mụ"
+      "gloss": "ị zitere m"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yue"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yue"
     },
     {
       "surface": "אל",
       "gloss": "na"
-    },
-    {
-      "surface": "יהודה",
-      "gloss": "Yehuda"
-    },
-    {
-      "surface": "אל",
-      "gloss": "n'"
     },
     {
       "surface": "עיר",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "קברות",
-      "gloss": "ili"
+      "gloss": "ili olili"
     },
     {
       "surface": "אבתי",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "ואבננה",
-      "gloss": "ka m wee rụọ ya"
+      "gloss": "ka m wughachie ya"
     }
   ],
-  "timestamp": "2026-08-27T15:44:24.940101884Z",
+  "timestamp": "2026-08-27T17:58:20.436012052Z",
   "model": "glm-5.3"
 }

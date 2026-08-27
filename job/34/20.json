@@ -5,8 +5,53 @@
   "book": "job",
   "lang": "ig",
   "chapter": 34,
-  "translation": "N'ọnwụ oge ha ga-anwụ, n'etiti abalị mmadụ ga-ama jijiji, ha ga-agafe; a ga-ewepụ ndị ike ọ bụghị site n'aka mmadụ.",
-  "tokens": [],
-  "timestamp": "2026-08-27T16:51:41.068480648Z",
+  "translation": "N'ịchịm anya ha ga-anwụọ, n'etiti abalị ndị mmadụ ga-atụ egwu ma gafee, ha ga-ewepụkwa onye ike — ọ bụghị n'aka ⟨mmadụ⟩.",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "n'ịchịm anya (oge dị mkpụmkpụ)"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ha ga-anwụ"
+    },
+    {
+      "surface": "וחצות",
+      "gloss": "n'etiti"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "abalị"
+    },
+    {
+      "surface": "יגעשו",
+      "gloss": "a ga-atụ egwu\/agbaji"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ha ga-agafee"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "ha ga-ewepụ"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "onye ike"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ bụghị"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "n'aka"
+    }
+  ],
+  "timestamp": "2026-08-27T17:56:29.017819255Z",
   "model": "glm-5.3"
 }

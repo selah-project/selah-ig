@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 8,
-  "translation": "Elohim chetara ⟨את⟩ Noach, na ⟨את⟩ mkpụrụobi ndị dị ndụ niile, na ⟨את⟩ anụmanụ ụlọ niile nke ⟨את⟩ nọ ya n'ụgbọ mmiri ahụ, Elohim wee mee ka ifufe gafere n'elu ⟨the⟩ ụwa, mmiri ahụ wee dakasị",
+  "translation": "Ya mere Elohim chetara ⟨את⟩ Noach, na ⟨את⟩ mmadụ nile nke ndụ, na ⟨את⟩ anụmanụ nile nke nọ ⟨את⟩ ya n'ụgbọ mmiri; Elohim mere ka ifufe gafee n'elu ⟨את⟩ ụwa, mmiri dakwasịrị azụ.",
   "tokens": [
     {
       "surface": "ויזכר",
@@ -27,28 +27,28 @@
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "mkpụrụobi ndị dị ndụ niile"
+      "marks": "mmadụ nile nke ndụ"
     },
     {
       "surface": "כל",
-      "gloss": "niile"
+      "gloss": "nile"
     },
     {
       "surface": "החיה",
-      "gloss": "mkpụrụobi ndị dị ndụ"
+      "gloss": "mmadụ nile nke ndụ"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "anụmanụ ụlọ niile"
+      "marks": "anụmanụ nile"
     },
     {
       "surface": "כל",
-      "gloss": "niile"
+      "gloss": "nile"
     },
     {
       "surface": "הבהמה",
-      "gloss": "anụmanụ ụlọ"
+      "gloss": "anụmanụ"
     },
     {
       "surface": "אשר",
@@ -56,7 +56,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ nọ ya"
+      "gloss": "⟨את⟩ ya"
     },
     {
       "surface": "בתבה",
@@ -64,7 +64,7 @@
     },
     {
       "surface": "ויעבר",
-      "gloss": "mee ka ọ gafere"
+      "gloss": "mere ka ọ gafee"
     },
     {
       "surface": "אלהים",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "על",
-      "gloss": "n'elu"
+      "gloss": "elu"
     },
     {
       "surface": "הארץ",
@@ -84,13 +84,13 @@
     },
     {
       "surface": "וישכו",
-      "gloss": "dakasị"
+      "gloss": "dakwasịrị azụ"
     },
     {
       "surface": "המים",
       "gloss": "mmiri"
     }
   ],
-  "timestamp": "2026-08-27T05:29:25.794392183Z",
+  "timestamp": "2026-08-27T17:28:18.145779276Z",
   "model": "glm-5.3"
 }

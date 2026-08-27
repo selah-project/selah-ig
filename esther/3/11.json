@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "ig",
   "chapter": 3,
-  "translation": "Eze wee sị Haman, ⟨ה⟩ ọlaọcha ahụ nyere gị, yana ndị ahụ, ka mee ha ihe ọ masịrị gị.",
+  "translation": "Eze wee sị Haman: ọlaọcha enyere gị, yana ⟨את⟩ ndị ahụ, ka ị mee ha ihe dị mma n'anya gị.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "eze"
+      "gloss": "Eze"
     },
     {
       "surface": "להמן",
@@ -21,11 +21,12 @@
     },
     {
       "surface": "הכסף",
-      "gloss": "ọlaọcha ahụ"
+      "gloss": "ọlaọcha",
+      "marks": "ọlaọcha"
     },
     {
       "surface": "נתון",
-      "gloss": "nyere"
+      "gloss": "enyere"
     },
     {
       "surface": "לך",
@@ -33,11 +34,12 @@
     },
     {
       "surface": "והעם",
-      "gloss": "yana ndị ahụ"
+      "gloss": "yana ndị ahụ",
+      "marks": "ndị ahụ"
     },
     {
       "surface": "לעשות",
-      "gloss": "ka mee"
+      "gloss": "ka ị mee"
     },
     {
       "surface": "בו",
@@ -45,13 +47,13 @@
     },
     {
       "surface": "כטוב",
-      "gloss": "ihe ọ masịrị"
+      "gloss": "ihe dị mma"
     },
     {
       "surface": "בעיניך",
-      "gloss": "gị"
+      "gloss": "n'anya gị"
     }
   ],
-  "timestamp": "2026-08-27T15:19:23.386323283Z",
+  "timestamp": "2026-08-27T18:16:27.988077701Z",
   "model": "glm-5.3"
 }

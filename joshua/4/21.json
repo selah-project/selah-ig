@@ -5,23 +5,23 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 4,
-  "translation": "Ọ sịrịkwa ụmụ Yisrael okwu, na-ekwu, mgbe ụmụ unu ga-ajụ ⟨את⟩ nna ha echi, na-ekwu, ihe mere ⟨the⟩ nkume ndị a?",
+  "translation": "Ọ sịkwa ụmụ Yisraël okwu, na-ekwu, mgbe ụmụ unu ga-jụrọ ⟨את⟩ nna ha n'oge na-abịa, na-ekwu, Gịnị ka nkume ndị a pụtara?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ọ sịrịkwa okwu"
+      "gloss": "ọ sịkwa okwu"
     },
     {
       "surface": "אל",
-      "gloss": "rụọ"
-    },
-    {
-      "surface": "בני",
       "gloss": "ụmụ"
     },
     {
+      "surface": "בני",
+      "gloss": "ụmụ Yisraël"
+    },
+    {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisraël"
     },
     {
       "surface": "לאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ישאלון",
-      "gloss": "ga-ajụ"
+      "gloss": "ga-jụrọ"
     },
     {
       "surface": "בניכם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מחר",
-      "gloss": "echi"
+      "gloss": "n'oge na-abịa"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "ihe mere"
+      "gloss": "gịnị ka"
     },
     {
       "surface": "האבנים",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "האלה",
-      "gloss": "a \/ ndị a"
+      "gloss": "a"
     }
   ],
-  "timestamp": "2026-08-27T08:20:57.175540200Z",
+  "timestamp": "2026-08-27T17:37:03.060934632Z",
   "model": "glm-5.3"
 }

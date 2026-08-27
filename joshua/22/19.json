@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 22,
-  "translation": "Ma ọ bụrụ na ala nke akụkụ unu adịghị ọcha, gafee ⟨the⟩ maka unu gaa ala nke akụkụ Yahwe, nke ebe obibi Yahwe nọ, were nwee akụkụ n'etiti anyị; ma megide Yahwe emegideghị, ma megide anyị emegideghị site n'iwulite unu ebe ịchụàjà karịa nke ịchụàjà Yahwe Elohim anyị.",
+  "translation": "Ma ọ bụrụ na ala nke ihe unu nwere ruru unyarị, gafere unu gaa n'ala nke ihe Yahwe nwere, bụ́ ebe ọnọ ụlọikwuu Yahwe nọ, were obi n'etiti anyị; mana ụnụlaghị eme mmeko megide Yahwe, ụnụlaghị eme mmeko megide anyị, site n'iwulite unu n'onwe unu ebe ịchafụọ n'akụkụ ebe ịchafụọ Yahwe Elohim anyị.",
   "tokens": [
     {
       "surface": "ואך",
-      "gloss": "ma"
+      "gloss": "ma ọ dị na"
     },
     {
       "surface": "אם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "טמאה",
-      "gloss": "adịghị ọcha"
+      "gloss": "ruo unyarị"
     },
     {
       "surface": "ארץ",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "אחזתכם",
-      "gloss": "nke akụkụ unu"
+      "gloss": "nke ihe unu nwere"
     },
     {
       "surface": "עברו",
-      "gloss": "gafee"
+      "gloss": "gafere"
     },
     {
       "surface": "לכם",
-      "gloss": "maka unu"
+      "gloss": "unu"
     },
     {
       "surface": "אל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אחזת",
-      "gloss": "nke akụkụ"
+      "gloss": "nke ihe"
     },
     {
       "surface": "יהוה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "nwere"
     },
     {
       "surface": "שכן",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "משכן",
-      "gloss": "ebe obibi"
+      "gloss": "ụlọikwuu"
     },
     {
       "surface": "יהוה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "והאחזו",
-      "gloss": "were nwee akụkụ"
+      "gloss": "were obi"
     },
     {
       "surface": "בתוכנו",
@@ -85,44 +85,43 @@
     },
     {
       "surface": "אל",
-      "gloss": "emegideghị"
+      "gloss": "ụnụlaghị"
     },
     {
       "surface": "תמרדו",
-      "gloss": "megide"
+      "gloss": "eme mmeko"
     },
     {
       "surface": "ואתנו",
-      "gloss": "⟨את⟩ anyị",
-      "marks": "anyị"
+      "gloss": "⟨את⟩ na anyị"
     },
     {
       "surface": "אל",
-      "gloss": "emegideghị"
+      "gloss": "ụnụlaghị"
     },
     {
       "surface": "תמרדו",
-      "gloss": "megide"
+      "gloss": "eme mmeko"
     },
     {
       "surface": "בבנתכם",
-      "gloss": "site n'iwulite unu"
+      "gloss": "site n'iwulite"
     },
     {
       "surface": "לכם",
-      "gloss": "maka unu"
+      "gloss": "unu n'onwe unu"
     },
     {
       "surface": "מזבח",
-      "gloss": "ebe ịchụàjà"
+      "gloss": "ebe ịchafụọ"
     },
     {
       "surface": "מבלעדי",
-      "gloss": "karịa"
+      "gloss": "n'akụkụ"
     },
     {
       "surface": "מזבח",
-      "gloss": "nke ịchụàjà"
+      "gloss": "ebe ịchafụọ"
     },
     {
       "surface": "יהוה",
@@ -133,6 +132,6 @@
       "gloss": "Elohim anyị"
     }
   ],
-  "timestamp": "2026-08-27T08:36:55.714103517Z",
+  "timestamp": "2026-08-27T17:38:55.089034413Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Ụmụ Yehuda wee lụọ Yerushalayim ọgụ, we jide ⟨את⟩ ⟨אתה⟩ ya, wee tie ya mmaā nke mma-agha, ma zigara ⟨את⟩ obodo ahụ n'ọkụ.",
+  "translation": "Ma ụmụ Yehuda lụsoro Yerushalayim ọgụ, we jide ⟨את⟩ ya, wee tie ya mma n'ọnụ mma agha, ma ⟨את⟩ obodo ahụ ha zigara n'ọkụ.",
   "tokens": [
     {
       "surface": "וילחמו",
-      "gloss": "ha lụrụ ọgụ"
+      "gloss": "lụsoro ọgụ"
     },
     {
       "surface": "בני",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "וילכדו",
-      "gloss": "ha jidere"
+      "gloss": "wee jide"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ⟨אתה⟩",
+      "gloss": "⟨את⟩",
       "marks": "ya (Yerushalayim)"
     },
     {
       "surface": "ויכוה",
-      "gloss": "ha tiere mmaā"
+      "gloss": "wee tie"
     },
     {
       "surface": "לפי",
@@ -42,26 +42,26 @@
     },
     {
       "surface": "חרב",
-      "gloss": "mma-agha"
+      "gloss": "mma agha"
     },
     {
       "surface": "ואת",
-      "gloss": "ma ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "obodo ahụ"
     },
     {
       "surface": "העיר",
-      "gloss": "obodo ahụ"
+      "gloss": "obodo"
     },
     {
       "surface": "שלחו",
-      "gloss": "ha zigharịrị"
+      "gloss": "ha zigara"
     },
     {
       "surface": "באש",
       "gloss": "n'ọkụ"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.236084271Z",
+  "timestamp": "2026-08-27T17:37:59.604991712Z",
   "model": "glm-5.3"
 }

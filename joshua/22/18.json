@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 22,
-  "translation": "Ma unu alaghachiri ⟨the⟩ ụbọchị a n'azụ Yahwe, na ⟨is⟩ unu na-emegide ⟨the⟩ ụbọchị a megide Yahwe, na echi ọ ga-iwe megide òtù Yisrael niile?",
+  "translation": "Ma unu na-atụgharị taa site n'azụ Yahwe? Ọ ga-abụ na unu na-eme mmeko taa megide Yahwe, echi ọ ga-iwe megide nzuko Izrel niile.",
   "tokens": [
     {
       "surface": "ואתם",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "תשבו",
-      "gloss": "alaghachiri"
+      "gloss": "na-atụgharị"
     },
     {
       "surface": "היום",
-      "gloss": "ụbọchị"
+      "gloss": "taa"
     },
     {
       "surface": "מאחרי",
-      "gloss": "n'azụ"
+      "gloss": "site n'azụ"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "ga-"
+      "gloss": "ọ ga-abụ na"
     },
     {
       "surface": "אתם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "תמרדו",
-      "gloss": "na-emegide"
+      "gloss": "na-eme mmeko"
     },
     {
       "surface": "היום",
-      "gloss": "ụbọchị"
+      "gloss": "taa"
     },
     {
       "surface": "ביהוה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ומחר",
-      "gloss": "na echi"
+      "gloss": "echi"
     },
     {
       "surface": "אל",
@@ -61,17 +61,17 @@
     },
     {
       "surface": "עדת",
-      "gloss": "òtù"
+      "gloss": "nzuko"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Izrel"
     },
     {
       "surface": "יקצף",
-      "gloss": "ga-iwe"
+      "gloss": "ọ ga-iwe"
     }
   ],
-  "timestamp": "2026-08-27T08:36:55.713909076Z",
+  "timestamp": "2026-08-27T17:38:55.088813119Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 30,
-  "translation": "ya na ⟨את⟩ ndị ya, ndị obi ike nke mba ndị, a ga-ewetebata ha ibibi ⟨the⟩ ala ahụ, ha ga-adọpụta mma agha ha na Mitzrayim, ma jupụta ⟨את⟩ ala ahụ ndị e gburu.",
+  "translation": "Ya na ndị ya ya ⟨את⟩, ndị ike nke mba ndị ọzọ, a ga-ewetara ha ibibi ⟨את⟩ ala ahụ; ha ga-adọrọ mma agha ha na Mitsrayim, ma mejupụta ⟨את⟩ ala ahụ ndị e gburu.",
   "tokens": [
     {
       "surface": "הוא",
-      "gloss": "ya"
+      "gloss": "Ya"
     },
     {
       "surface": "ועמו",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "עריצי",
-      "gloss": "ndị obi ike"
+      "gloss": "ndị ike"
     },
     {
       "surface": "גוים",
-      "gloss": "nke mba ndị"
+      "gloss": "mba ndị ọzọ"
     },
     {
       "surface": "מובאים",
-      "gloss": "a ga-ewetebata ha"
+      "gloss": "a ga-ewetara ha"
     },
     {
       "surface": "לשחת",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ala ahụ"
+      "gloss": "⟨ala⟩ ahụ"
     },
     {
       "surface": "והריקו",
-      "gloss": "ha ga-adọpụta"
+      "gloss": "ha ga-adọrọ"
     },
     {
       "surface": "חרבותם",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitzrayim"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "ומלאו",
-      "gloss": "ma jupụta"
+      "gloss": "ma mejupụta"
     },
     {
       "surface": "את",
@@ -73,6 +73,6 @@
       "gloss": "ndị e gburu"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.263953175Z",
+  "timestamp": "2026-08-27T17:49:33.196933758Z",
   "model": "glm-5.3"
 }

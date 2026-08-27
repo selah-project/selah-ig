@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 50,
-  "translation": "Onye mgbapụta ha siri ike; aha ya bụ Yahwe Tsevaot; Ọ ga-agbachitere ⟨את⟩ ikpe ha nke ọma, ka Ọ wee lie ⟨את⟩ ⟨the⟩ ala iwe, ma mee ka ndị bi na Bavel daa mbà.",
+  "translation": "Onye mgbapụta ha siri ike — Yahwe nke ndị agha ka aha ya bụ; ọ ga-ekpe ikpe ⟨את⟩ ikpe ha nke ọma, iji nyefee ⟨את⟩ ụwa n'udo, ma kụnie nsogbu n'aka ndị bi na Bavel.",
   "tokens": [
     {
       "surface": "גאלם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsevaot"
+      "gloss": "nke ndị agha"
     },
     {
       "surface": "שמו",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ריב",
-      "gloss": "ga-agbachitere"
+      "gloss": "ikpe"
     },
     {
       "surface": "יריב",
-      "gloss": "nke ọma"
+      "gloss": "ga-ekpe ikpe"
     },
     {
       "surface": "את",
@@ -46,34 +46,34 @@
     },
     {
       "surface": "למען",
-      "gloss": "ka Ọ wee"
+      "gloss": "iji"
     },
     {
       "surface": "הרגיע",
-      "gloss": "lie iwe"
+      "gloss": "nyefee n'udo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ala"
+      "marks": "ụwa"
     },
     {
       "surface": "הארץ",
-      "gloss": "ala"
+      "gloss": "ụwa"
     },
     {
       "surface": "והרגיז",
-      "gloss": "ma mee ka ... daa mbà"
+      "gloss": "ma kụnie nsogbu"
     },
     {
       "surface": "לישבי",
-      "gloss": "ndị bi na"
+      "gloss": "n'aka ndị bi na"
     },
     {
       "surface": "בבל",
       "gloss": "Bavel"
     }
   ],
-  "timestamp": "2026-08-27T11:52:41.998393198Z",
+  "timestamp": "2026-08-27T17:47:45.573165713Z",
   "model": "glm-5.3"
 }

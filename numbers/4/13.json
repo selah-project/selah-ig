@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 4,
-  "translation": "Ha ga-ewepụkwa ntụ ahụ n'⟨את⟩ ebe-ọkụ ahụ, ma na-ekpuchie ya uwe nke akpa-mmụọ-ogwu (ארגמן).",
+  "translation": "Ha ga-ewepụ ⟨את⟩ ntụ n'ebe-ọfụfụ ⟨ahụ⟩, ma meghee uwe akpa-odo n'elu ya.",
   "tokens": [
     {
       "surface": "ודשנו",
@@ -14,19 +14,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ebe-ọkụ ahụ"
+      "marks": "ebe-ọfụfụ ⟨ahụ⟩"
     },
     {
       "surface": "המזבח",
-      "gloss": "ebe-ọkụ ahụ"
+      "gloss": "ebe-ọfụfụ ⟨ahụ⟩"
     },
     {
       "surface": "ופרשו",
-      "gloss": "ma na-ekpuchie"
+      "gloss": "ma ha ga-ekesa\/meghee"
     },
     {
       "surface": "עליו",
-      "gloss": "ya"
+      "gloss": "n'elu ya"
     },
     {
       "surface": "בגד",
@@ -34,9 +34,9 @@
     },
     {
       "surface": "ארגמן",
-      "gloss": "akpa-mmụọ-ogwu"
+      "gloss": "akpa-odo"
     }
   ],
-  "timestamp": "2026-08-27T07:14:52.193459659Z",
+  "timestamp": "2026-08-27T17:33:33.945393723Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,28 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Unu ga-agba ⟨את⟩ ⟨the⟩ obodo gburugburu, ụmụ nile nke agha, na-agagharị gburugburu ⟨the⟩ obodo otu ugboro; otu a ka ị ga-eme ụbọchị isii.",
+  "translation": "Unu ga-agagharị ⟨את⟩ obodo ahụ — ndị ikom agha niile — na-agagharị gburugburu ⟨את⟩ obodo ahụ otu ugboro; otua ka ị ga-eme ụbọchị isii.",
   "tokens": [
     {
       "surface": "וסבתם",
-      "gloss": "unu ga-agba gburugburu"
+      "gloss": "unu ga-agagharị gburugburu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ obodo"
+      "marks": "obodo ahụ"
     },
     {
       "surface": "העיר",
-      "gloss": "⟨the⟩ obodo"
+      "gloss": "obodo ahụ"
     },
     {
       "surface": "כל",
-      "gloss": "ndị niile"
+      "gloss": "niile"
     },
     {
       "surface": "אנשי",
-      "gloss": "ụmụ nke"
+      "gloss": "ndị ikom"
     },
     {
       "surface": "המלחמה",
@@ -39,11 +39,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ obodo"
+      "marks": "obodo ahụ"
     },
     {
       "surface": "העיר",
-      "gloss": "⟨the⟩ obodo"
+      "gloss": "obodo ahụ"
     },
     {
       "surface": "פעם",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "otu a ka"
+      "gloss": "otua"
     },
     {
       "surface": "תעשה",
@@ -70,6 +70,6 @@
       "gloss": "ụbọchị"
     }
   ],
-  "timestamp": "2026-08-27T08:22:32.994878523Z",
+  "timestamp": "2026-08-27T17:37:47.366721732Z",
   "model": "glm-5.3"
 }

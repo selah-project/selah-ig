@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 8,
-  "translation": "Naanị na gị agaghị ewu ⟨the⟩ ụlọ ahụ, kama nwa gị, onye ga-apụta site n'afọ gị, ya ga-ewu ⟨the⟩ ụlọ ahụ maka aha m.",
+  "translation": "Naanị na gị agaghị ewuo ụlọ ahụ; kama nwa gị, onye ga-apụta n'afọ gị, ya bụ onye ga-ewuo ụlọ ahụ maka aha m.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "naanị"
+      "gloss": "naanị na"
     },
     {
       "surface": "אתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תבנה",
-      "gloss": "ewu"
+      "gloss": "ewuo"
     },
     {
       "surface": "הבית",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "kama"
+      "gloss": ""
     },
     {
       "surface": "בנך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "מחלציך",
-      "gloss": "site n'afọ gị"
+      "gloss": "n'afọ gị"
     },
     {
       "surface": "הוא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "יבנה",
-      "gloss": "ga-ewu"
+      "gloss": "ga-ewuo"
     },
     {
       "surface": "הבית",
@@ -64,6 +64,6 @@
       "gloss": "maka aha m"
     }
   ],
-  "timestamp": "2026-08-27T09:57:22.266271441Z",
+  "timestamp": "2026-08-27T17:43:17.700280006Z",
   "model": "glm-5.3"
 }

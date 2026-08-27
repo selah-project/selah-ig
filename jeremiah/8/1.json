@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 8,
-  "translation": "N'oge ahụ, okwu Yahwe, ha ga-ewepụ ⟨את⟩ ọkpụkpụ nke ndị eze Yehuda, na ⟨את⟩ ọkpụkpụ ⟨את⟩ nke ndị isi ya, na ⟨את⟩ ọkpụkpụ ⟨את⟩ nke ndị nchụ-aja, na ⟨את⟩ ọkpụkpụ nke ndị amụma, na ⟨את⟩ ọkpụkpụ nke ndị bi na Yerushalayim, n'ili ha.",
+  "translation": "N'oge ahụ, okwu Yahwe, ha ga-ewepụ ⟨את⟩ ọkpụkpụ ndị eze Yehuda, na ⟨את⟩ ọkpụkpụ ndị isi ya, na ⟨את⟩ ọkpụkpụ ndị nchụàjà, na ⟨את⟩ ọkpụkpụ ndị amụma, na ⟨את⟩ ọkpụkpụ ndị bi na Yerushalayim, n'ili ha.",
   "tokens": [
     {
       "surface": "בעת",
-      "gloss": "n'oge"
+      "gloss": "N'oge"
     },
     {
       "surface": "ההיא",
@@ -30,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọkpụkpụ"
+      "marks": "ọkpụkpụ ndị eze Yehuda"
     },
     {
       "surface": "עצמות",
@@ -38,20 +38,16 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "nke ndị eze"
+      "gloss": "ndị eze"
     },
     {
       "surface": "יהודה",
       "gloss": "Yehuda"
     },
     {
-      "surface": "ויציאו",
-      "gloss": "⟨את⟩ na"
-    },
-    {
       "surface": "ואת",
-      "gloss": "⟨את⟩ na",
-      "marks": "ọkpụkpụ"
+      "gloss": "na ⟨את⟩",
+      "marks": "ọkpụkpụ ndị isi ya"
     },
     {
       "surface": "עצמות",
@@ -59,12 +55,12 @@
     },
     {
       "surface": "שריו",
-      "gloss": "⟨את⟩ nke ndị isi ya"
+      "gloss": "ndị isi ya"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ na",
-      "marks": "ọkpụkpụ"
+      "gloss": "na ⟨את⟩",
+      "marks": "ọkpụkpụ ndị nchụàjà"
     },
     {
       "surface": "עצמות",
@@ -72,29 +68,25 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "⟨את⟩ nke ndị nchụ-aja"
-    },
-    {
-      "surface": "ויציאו",
-      "gloss": "na"
+      "gloss": "ndị nchụàjà"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ na",
-      "marks": "ọkpụkpụ"
+      "gloss": "na ⟨את⟩",
+      "marks": "ọkpụkpụ ndị amụma"
     },
     {
       "surface": "עצמות",
-      "gloss": "⟨את⟩ ọkpụkpụ"
+      "gloss": "ọkpụkpụ"
     },
     {
       "surface": "הנביאים",
-      "gloss": "nke ndị amụma"
+      "gloss": "ndị amụma"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ na",
-      "marks": "ọkpụkpụ"
+      "gloss": "na ⟨את⟩",
+      "marks": "ọkpụkpụ ndị bi na Yerushalayim"
     },
     {
       "surface": "עצמות",
@@ -102,7 +94,7 @@
     },
     {
       "surface": "יושבי",
-      "gloss": "nke ndị bi na"
+      "gloss": "ndị bi na"
     },
     {
       "surface": "ירושלם",
@@ -113,6 +105,6 @@
       "gloss": "n'ili ha"
     }
   ],
-  "timestamp": "2026-08-27T11:22:01.249840731Z",
+  "timestamp": "2026-08-27T17:46:57.586326907Z",
   "model": "glm-5.3"
 }

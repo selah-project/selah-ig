@@ -5,23 +5,23 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Ma site n'elu ⟨the⟩ ngọngọ nke dị n'isi ha, dị ka ọdịdị nkume safaya, ka ọdịdị ocheeze; ma n'elu ọdịdị ⟨the⟩ ocheeze ahụ ka ọdịdị dị ka ọdịdị mmadụ, n'elu ya, site n'elu.",
+  "translation": "Ma n'elu mbara igwe nke dị n'elu isi ha, dịka ọdịdị nkume safaya, ⟨bụ⟩ Ọdịdị ocheeze; ma n'elu Ọdịdị ocheeze ahụ, ⟨bụ⟩ Ọdịdị dịka ọdịdị nwa madụ n'elu ya site n'elu.",
   "tokens": [
     {
       "surface": "וממעל",
-      "gloss": "ma site n'elu"
+      "gloss": "Ma n'elu"
     },
     {
       "surface": "לרקיע",
-      "gloss": "ngọngọ"
+      "gloss": "mbara igwe"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "nke dị"
     },
     {
       "surface": "על",
-      "gloss": "elu"
+      "gloss": "n'elu"
     },
     {
       "surface": "ראשם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כמראה",
-      "gloss": "dị ka ọdịdị"
+      "gloss": "dịka ọdịdị"
     },
     {
       "surface": "אבן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "דמות",
-      "gloss": "ọdịdị"
+      "gloss": "Ọdịdị"
     },
     {
       "surface": "כסא",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ועל",
-      "gloss": "ma n'elu"
+      "gloss": "Ma n'elu"
     },
     {
       "surface": "דמות",
-      "gloss": "ọdịdị"
+      "gloss": "Ọdịdị"
     },
     {
       "surface": "הכסא",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "דמות",
-      "gloss": "ọdịdị"
+      "gloss": "Ọdịdị"
     },
     {
       "surface": "כמראה",
-      "gloss": "dị ka ọdịdị"
+      "gloss": "dịka ọdịdị"
     },
     {
       "surface": "אדם",
-      "gloss": "mmadụ"
+      "gloss": "nwa madụ"
     },
     {
       "surface": "עליו",
@@ -80,6 +80,6 @@
       "gloss": "site n'elu"
     }
   ],
-  "timestamp": "2026-08-27T11:58:25.365602654Z",
+  "timestamp": "2026-08-27T17:48:41.924188157Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 19,
-  "translation": "Ka ohu gị laghachi azụ, biko, ka m nwụọ n'obodo m, n'akụkụ ili nna m na nne m; lee, ohu gị Kimham ga-aga ya na Adonai ⟨the⟩ eze; mee ya ⟨את⟩ ihe ndị dị mma n'anya gị.",
+  "translation": "Ka ohu gị laghachi, biko, ka m nwụọ n'obodo m, n'akụkụ ili nna m na nne m; ma le, ohu gị Kimham, ka ọ gafee ya na Adonai, eze; ma mee ya ⟨את⟩ ihe ọma n'anya gị.\"",
   "tokens": [
     {
       "surface": "ישב",
-      "gloss": "laghachi azụ"
+      "gloss": "laghachi"
     },
     {
       "surface": "נא",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "lee"
+      "gloss": "ma le"
     },
     {
       "surface": "עבדך",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "יעבר",
-      "gloss": "ga-aga"
+      "gloss": "ka ọ gafee"
     },
     {
       "surface": "עם",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ eze"
+      "gloss": "eze"
     },
     {
       "surface": "ועשה",
@@ -82,21 +82,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ihe ndị dị mma"
+      "marks": "ihe ọma"
     },
     {
       "surface": "אשר",
-      "gloss": "ndị"
+      "gloss": "ihe"
     },
     {
       "surface": "טוב",
-      "gloss": "dị mma"
+      "gloss": "ọma"
     },
     {
       "surface": "בעיניך",
       "gloss": "n'anya gị"
     }
   ],
-  "timestamp": "2026-08-27T09:44:18.272553292Z",
+  "timestamp": "2026-08-27T17:42:03.640459185Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 11,
-  "translation": "Ma ihe niile na-agba ọsọ, nke na-agba ọsọ n'elu ⟨the⟩ ụwa, ihe jọrọ njọ ka ọ bụ; a gaghị eri ya.",
+  "translation": "Ma ihe na-agba ọsọ ọsọ niile nke na-agba ọsọ n'elu ụwa — ihe jọrọ njọ ọ bụ; a ga-erighị ya.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "Ma ihe niile"
+      "gloss": "Ma ... niile"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ihe na-agba ọsọ"
     },
     {
       "surface": "השרץ",
       "gloss": "nke na-agba ọsọ"
-    },
-    {
-      "surface": "השרץ",
-      "gloss": "na-agba ọsọ"
     },
     {
       "surface": "על",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ụwa"
+      "gloss": "ụwa"
     },
     {
       "surface": "שקץ",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ka ọ bụ"
+      "gloss": "ọ bụ"
     },
     {
       "surface": "לא",
-      "gloss": "gaghị"
+      "gloss": "ga-erighị"
     },
     {
       "surface": "יאכל",
-      "gloss": "eri ya"
+      "gloss": "a ga-erighị ya"
     }
   ],
-  "timestamp": "2026-08-27T06:49:49.922464873Z",
+  "timestamp": "2026-08-27T17:32:42.074795832Z",
   "model": "glm-5.3"
 }

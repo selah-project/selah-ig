@@ -5,16 +5,16 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 40,
-  "translation": "O wee tụọ ⟨את⟩ obosara nke ⟨the⟩ ọnụ ụzọ mbata nke ⟨the⟩ ọnụ ụzọ ahụ, cubit iri; ogologo ⟨the⟩ nke ⟨the⟩ ọnụ ụzọ ahụ, cubit iri na atọ.",
+  "translation": "Ọ̀ tụkwazịrị ⟨את⟩ obosara nke ọnụ ụzọ mbata nke ọnụ ụzọ ahụ, ami iri; ogologo nke ọnụ ụzọ ahụ, ami iri na atọ.",
   "tokens": [
     {
       "surface": "וימד",
-      "gloss": "O wee tụọ"
+      "gloss": "ọ tụkwazịrị"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "obosara"
+      "marks": "obosara nke ọnụ ụzọ mbata nke ọnụ ụzọ ahụ"
     },
     {
       "surface": "רחב",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "פתח",
-      "gloss": "ọnụ ụzọ mbata"
+      "gloss": "nke ọnụ ụzọ mbata"
     },
     {
       "surface": "השער",
-      "gloss": "nke ọnụ ụzọ"
+      "gloss": "nke ọnụ ụzọ ahụ"
     },
     {
       "surface": "עשר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אמות",
-      "gloss": "cubit"
+      "gloss": "ami"
     },
     {
       "surface": "ארך",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "השער",
-      "gloss": "nke ọnụ ụzọ"
+      "gloss": "nke ọnụ ụzọ ahụ"
     },
     {
       "surface": "שלוש",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "iri"
+      "gloss": "iri na"
     },
     {
       "surface": "אמות",
-      "gloss": "cubit"
+      "gloss": "ami"
     }
   ],
-  "timestamp": "2026-08-27T12:29:33.993803723Z",
+  "timestamp": "2026-08-27T17:51:08.326102258Z",
   "model": "glm-5.3"
 }

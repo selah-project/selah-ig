@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 52,
-  "translation": "Site n'⟨the⟩ obodo ahụ, ọ weere otu sarisi nke bụ onye nchịkwa n'elu ụmụ nke agha, na ụmụ nke asaa n'ime ndị na-ahụ ọnụ eze, bụ ndị a hụrụ n'obodo ahụ, yana ⟨את⟩ odeakwụkwọ, onyeisi ndị agha, onye na-agụ ⟨את⟩ ụmụ nke ala ahụ, na ụmụ nke iri isii n'ime ụmụ nke ala ahụ, bụ ndị a hụrụ n'etiti obodo ahụ.",
+  "translation": "Ma site n'obodo ahụ, ọ were otu saris nke ⟨⟨ bụ⟩⟩ onye nlekọta n'elu ndị agha, na ụmụ nwoke asaa n'ime ndị na-ahụ ụzọ eze, ndị a hụrụ n'obodo ahụ, na ⟨את⟩ onye-ede-akwụkwọ, onyeisi ndị agha, onye na-edekọ aha ndị ala ahụ, na ụmụ nwoke iri isii n'ime ndị ala ahụ, ndị a hụrụ n'etiti obodo ahụ.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "site na"
+      "gloss": "ma site na"
     },
     {
       "surface": "העיר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לקח",
-      "gloss": "ọ weere"
+      "gloss": "ọ were"
     },
     {
       "surface": "סריס",
-      "gloss": "sarisi"
+      "gloss": "saris"
     },
     {
       "surface": "אחד",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "היה",
-      "gloss": "bụ"
+      "gloss": "⟨bụ⟩"
     },
     {
       "surface": "פקיד",
-      "gloss": "onye nchịkwa"
+      "gloss": "onye nlekọta"
     },
     {
       "surface": "על",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "ụmụ nke"
+      "gloss": "ndị"
     },
     {
       "surface": "המלחמה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אנשים",
-      "gloss": "ụmụ"
+      "gloss": "ụmụ nwoke"
     },
     {
       "surface": "מראי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "פני",
-      "gloss": "ọnụ"
+      "gloss": "ụzọ \/ ihu"
     },
     {
       "surface": "המלך",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "bụ ndị"
+      "gloss": "ndị"
     },
     {
       "surface": "נמצאו",
@@ -85,12 +85,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "odeakwụkwọ"
+      "gloss": "na ⟨את⟩",
+      "marks": "onye-ede-akwụkwọ"
     },
     {
       "surface": "ספר",
-      "gloss": "odeakwụkwọ"
+      "gloss": "onye-ede-akwụkwọ"
     },
     {
       "surface": "שר",
@@ -102,16 +102,16 @@
     },
     {
       "surface": "המצבא",
-      "gloss": "onye na-agụ"
+      "gloss": "onye na-edekọ aha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ụmụ nke ala ahụ"
+      "marks": "ndị ala ahụ"
     },
     {
       "surface": "עם",
-      "gloss": "ụmụ"
+      "gloss": "ndị"
     },
     {
       "surface": "הארץ",
@@ -123,11 +123,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "ụmụ"
+      "gloss": "ụmụ nwoke"
     },
     {
       "surface": "מעם",
-      "gloss": "n'ime ụmụ"
+      "gloss": "n'ime ndị"
     },
     {
       "surface": "הארץ",
@@ -135,7 +135,7 @@
     },
     {
       "surface": "הנמצאים",
-      "gloss": "bụ ndị a hụrụ"
+      "gloss": "ndị a hụrụ"
     },
     {
       "surface": "בתוך",
@@ -146,6 +146,6 @@
       "gloss": "obodo ahụ"
     }
   ],
-  "timestamp": "2026-08-27T11:58:03.115775361Z",
+  "timestamp": "2026-08-27T17:48:27.516722490Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 33,
-  "translation": "Ma unu kwuru, 'Ụzọ Adonai adịghị ziri ezi.' Dịka ụzọ onye ọ bụla n'ime unu, ka m ga-ekpe ⟨את⟩ ⟨אתכם⟩ ikpe, Ụlọ Yisrael.",
+  "translation": "Ma unu na-ekwu, 'Ụzọ Adonai ezughị ezu.' Dịka ụzọ onye ọ bụla si dị, m ga-ekpe ⟨את⟩ unu ikpe, bụ́ ụlọ Yisrael.",
   "tokens": [
     {
       "surface": "ואמרתם",
-      "gloss": "Ma unu kwuru"
+      "gloss": "ma unu na-ekwu"
     },
     {
       "surface": "לא",
-      "gloss": "adịghị"
+      "gloss": "ọ bụghị"
     },
     {
       "surface": "יתכן",
-      "gloss": "ziri ezi"
+      "gloss": "ezughị ezu"
     },
     {
       "surface": "דרך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כדרכיו",
-      "gloss": "dịka ụzọ ya"
+      "gloss": "dịka ụzọ ya si dị"
     },
     {
       "surface": "אשפוט",
@@ -41,18 +41,18 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "unu, Ụlọ Yisrael"
+      "gloss": "⟨את⟩",
+      "marks": "unu"
     },
     {
       "surface": "בית",
-      "gloss": "Ụlọ"
+      "gloss": "ụlọ"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.264303742Z",
+  "timestamp": "2026-08-27T17:49:10.270724277Z",
   "model": "glm-5.3"
 }

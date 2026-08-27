@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 8,
-  "translation": "Aharon mekwara otu a; n'ihu ⟨the⟩ menora ka o welite ngwangwa ya, dịka Yahwe si nye Moshe iwu ⟨את⟩.",
+  "translation": "Aharon mekwara otu a: ruo n'ihu ⟨את⟩ menorah, o welie ọkụ ya dịka Yahwe nyere ⟨את⟩ Moshe iwu.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "n'ihu"
+      "gloss": "ruo"
     },
     {
       "surface": "מול",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "המנורה",
-      "gloss": "menora"
+      "gloss": "menorah"
     },
     {
       "surface": "העלה",
-      "gloss": "ka o welite"
+      "gloss": "o welie"
     },
     {
       "surface": "נרתיה",
-      "gloss": "ngwangwa ya"
+      "gloss": "ọkụ ya"
     },
     {
       "surface": "כאשר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "si nye iwu"
+      "gloss": "nyere iwu"
     },
     {
       "surface": "יהוה",
@@ -65,6 +65,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-27T16:27:25.799905626Z",
+  "timestamp": "2026-08-27T17:33:03.591095349Z",
   "model": "glm-5.3"
 }

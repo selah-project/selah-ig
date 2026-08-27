@@ -5,23 +5,23 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 3,
-  "translation": "Ma ihe fọdụrụ nke Gilad, na⟨the⟩ niile nke Bashan, alaeze Og, m nyere ọkara nke otu Manashe; mpaghara niile nke Argob, ya na Bashan niile nke ahụ, ka a na-akpọ ya ala ndị Refaim.",
+  "translation": "Na fọdụrụ nke Gilad, na Havoshan niile, alaeze Og, m nyere ọkara nke agbụrụ Menashe; mpaghara Argob niile, ya na Havoshan niile nke ahụ, a na-akpọ ya ala ndị Refaim.",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "Ma ihe fọdụrụ"
+      "gloss": "fọdụrụ nke"
     },
     {
       "surface": "הגלעד",
-      "gloss": "nke Gilad"
+      "gloss": "Gilad"
     },
     {
       "surface": "וכל",
-      "gloss": "na niile nke"
+      "gloss": "na niile"
     },
     {
       "surface": "הבשן",
-      "gloss": "Bashan"
+      "gloss": "Havoshan"
     },
     {
       "surface": "ממלכת",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "לחצי",
-      "gloss": "ọkara nke"
+      "gloss": "maka ọkara"
     },
     {
       "surface": "שבט",
-      "gloss": "otu"
+      "gloss": "agbụrụ"
     },
     {
       "surface": "המנשה",
-      "gloss": "Manashe"
+      "gloss": "Menashe"
     },
     {
       "surface": "כל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "הארגב",
-      "gloss": "nke Argob"
+      "gloss": "Argob"
     },
     {
       "surface": "לכל",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "הבשן",
-      "gloss": "Bashan"
+      "gloss": "Havoshan"
     },
     {
       "surface": "ההוא",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "יקרא",
-      "gloss": "a na-akpọ"
+      "gloss": "a na-akpọ ya"
     },
     {
       "surface": "ארץ",
@@ -84,6 +84,6 @@
       "gloss": "ndị Refaim"
     }
   ],
-  "timestamp": "2026-08-27T07:51:17.528506424Z",
+  "timestamp": "2026-08-27T17:35:09.170873499Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 44,
-  "translation": "Onye kwa dịka m? Ka ọ kpọọ oku, ka ọ gwa ya, ka ọ debe ya n'usoro maka m, kemgbe m ṅụrụ ndị оge ochie dị ka ndị mmadụ? Ihe ndị na-abịa na ndị ga-abịa — ka ha gwa ha.",
+  "translation": "Ma onye kwa yiri m? Ka ọ kpọọ, ka ọ gwa ya, ka ọ hazie ya maka m, kemgbe m guzobere ⟨את⟩ ndị oge ochie; na ihe na-abịa na nke ga-abịa, ka ha gwa ha.",
   "tokens": [
     {
       "surface": "ומי",
-      "gloss": "onye kwa"
+      "gloss": "ma onye kwa"
     },
     {
       "surface": "כמוני",
-      "gloss": "dịka m"
+      "gloss": "yiri m"
     },
     {
       "surface": "יקרא",
-      "gloss": "ka ọ kpọọ oku"
+      "gloss": "ka ọ kpọọ"
     },
     {
       "surface": "ויגידה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויערכה",
-      "gloss": "ka ọ debe ya n'usoro"
+      "gloss": "ka ọ hazie ya"
     },
     {
       "surface": "לי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "משומי",
-      "gloss": "kemgbe m ṅụrụ"
+      "gloss": "kemgbe m guzobere"
     },
     {
       "surface": "עם",
-      "gloss": "ndị mmadụ"
+      "gloss": "ndị"
     },
     {
       "surface": "עולם",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ואתיות",
-      "gloss": "ihe ndị na-abịa"
+      "gloss": "na ihe na-abịa"
     },
     {
       "surface": "ואשר",
-      "gloss": "na ndị ga-abịa"
+      "gloss": "na nke"
     },
     {
       "surface": "תבאנה",
@@ -64,6 +64,6 @@
       "gloss": "ha"
     }
   ],
-  "timestamp": "2026-08-27T10:59:30.453548492Z",
+  "timestamp": "2026-08-27T17:45:57.084392638Z",
   "model": "glm-5.3"
 }

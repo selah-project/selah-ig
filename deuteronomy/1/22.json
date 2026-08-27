@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Unu niile rukwara m ma kwuo: Ka anyị zipụ ndị ikom n'ihu anyị, ka ha nyochaa anyị ⟨את⟩ ⟨the⟩ ala, ma weghachi anyị ⟨את⟩ okwu gbasara ⟨את⟩ ⟨the⟩ ụzọ anyị ga-esi eligo na ya, na ⟨את⟩ ⟨the⟩ obodo ndị anyị ga-abata na ha.",
+  "translation": "Unu niile bịakutere m, unu kwukwara ka anyị zipu ụmụ nwoke n'ihu anyị, ka ha nyochaa anyị ⟨את⟩ ala, ha we were laghachite anyị okwu banyere ⟨את⟩ ụzọ anyị ga-esi elu, na ⟨את⟩ obodo ndị anyị ga-abata na ha.",
   "tokens": [
     {
       "surface": "ותקרבון",
-      "gloss": "Unu rukwara"
+      "gloss": "bịakutere"
     },
     {
       "surface": "אלי",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "כלכם",
-      "gloss": "niile"
+      "gloss": "Unu niile"
     },
     {
       "surface": "ותאמרו",
-      "gloss": "ma kwuo"
+      "gloss": "unu kwukwara"
     },
     {
       "surface": "נשלחה",
-      "gloss": "Ka anyị zipụ"
+      "gloss": "ka anyị zipu"
     },
     {
       "surface": "אנשים",
-      "gloss": "ndị ikom"
+      "gloss": "ụmụ nwoke"
     },
     {
       "surface": "לפנינו",
@@ -46,20 +46,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ ala"
+      "marks": "ala"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ala"
+      "gloss": "ala"
     },
     {
       "surface": "וישבו",
-      "gloss": "ma weghachi"
+      "gloss": "ha we laghachite"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ anyị",
-      "marks": "okwu"
+      "gloss": "⟨את⟩ anyị"
     },
     {
       "surface": "דבר",
@@ -68,19 +67,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ ụzọ"
+      "marks": "ụzọ"
     },
     {
       "surface": "הדרך",
-      "gloss": "⟨the⟩ ụzọ"
+      "gloss": "ụzọ"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "anyị ga-esi"
     },
     {
       "surface": "נעלה",
-      "gloss": "anyị ga-eligo"
+      "gloss": "elu"
     },
     {
       "surface": "בה",
@@ -89,25 +88,25 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ obodo ndị"
+      "marks": "obodo ndị"
     },
     {
       "surface": "הערים",
-      "gloss": "⟨the⟩ obodo ndị"
+      "gloss": "obodo ndị"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "anyị ga-abata"
     },
     {
       "surface": "נבא",
-      "gloss": "anyị ga-abata"
+      "gloss": "abata"
     },
     {
       "surface": "אליהן",
       "gloss": "na ha"
     }
   ],
-  "timestamp": "2026-08-27T07:49:01.243317780Z",
+  "timestamp": "2026-08-27T17:35:34.451385510Z",
   "model": "glm-5.3"
 }

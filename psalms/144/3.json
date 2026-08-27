@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 144,
-  "translation": "Yahwe, gịnị bụ mmadụ ka Ị ma ya? nwa nke enọshị, ka Ị were ya dị mkpa?",
+  "translation": "Yahwe, gịnị bụ adam (mmadụ) ka ị maara ya? Nwa enọsh (mmadụ nwụrụ anwụ) ka ị na-atụle ya?",
   "tokens": [
     {
       "surface": "יהוה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אדם",
-      "gloss": "mmadụ"
+      "gloss": "adam (mmadụ)"
     },
     {
       "surface": "ותדעהו",
-      "gloss": "ka Ị ma ya"
+      "gloss": "ka ị maara ya"
     },
     {
       "surface": "בן",
@@ -29,17 +29,13 @@
     },
     {
       "surface": "אנוש",
-      "gloss": "nke enọshị"
+      "gloss": "enọsh (mmadụ nwụrụ anwụ)"
     },
     {
-      "surface": "וותחשבהו",
-      "gloss": "ka Ị were ya dị mkpa"
-    },
-    {
-      "surface": "",
-      "gloss": ""
+      "surface": "ותחשבהו",
+      "gloss": "ka ị na-atụle ya"
     }
   ],
-  "timestamp": "2026-08-27T14:09:29.665597697Z",
+  "timestamp": "2026-08-27T17:54:54.701006981Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Nke a ⟨is⟩ onye-ọnyụ nke Aharon na ụmụ ya, nke ha ga-enye Yahwe n'ụbọchị a ga-ete ⟨את⟩ ya mmanụ: ọkara nke usoro ef a, ntụ ọka dị ọcha, ka onye-ọnyụ na-adịgide; ọkara ya n'ụtụtụ, na ọkara ya n'abali.",
+  "translation": "Nke a bụ onyinye-ọma Aharon ụmụ ya ga-achịrịrị nye Yahwe n'ụbọchị a ga-ete ya mmanụ: ọkara nke iri nke efa ntụ ọka dị nro dị ka mincha na-adịgide, ọkara nke ya n'ụtụtụ, ọkara nke ya n'anyasị.",
   "tokens": [
     {
       "surface": "זה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "קרבן",
-      "gloss": "onye-ọnyụ"
+      "gloss": "onyinye-ọma"
     },
     {
       "surface": "אהרן",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "na ụmụ ya"
+      "gloss": "ụmụ ya"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "ga-"
     },
     {
       "surface": "יקריבו",
-      "gloss": "ha ga-enye"
+      "gloss": "achịrịrị"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahwe"
+      "gloss": "nye Yahwe"
     },
     {
       "surface": "ביום",
@@ -41,28 +41,28 @@
     },
     {
       "surface": "המשח",
-      "gloss": "a ga-ete mmanụ"
+      "gloss": "a ga-ete ya mmanụ"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ya (Aharon)"
+      "marks": "ya"
     },
     {
       "surface": "עשירת",
-      "gloss": "ọkara nke"
+      "gloss": "ọkara nke iri"
     },
     {
       "surface": "האפה",
-      "gloss": "usoro ef"
+      "gloss": "nke efa"
     },
     {
       "surface": "סלת",
-      "gloss": "ntụ ọka dị ọcha"
+      "gloss": "ntụ ọka dị nro"
     },
     {
       "surface": "מנחה",
-      "gloss": "onye-ọnyụ"
+      "gloss": "mincha"
     },
     {
       "surface": "תמיד",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "מחציתה",
-      "gloss": "ọkara ya"
+      "gloss": "ọkara nke ya"
     },
     {
       "surface": "בבקר",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "ומחציתה",
-      "gloss": "na ọkara ya"
+      "gloss": "ọkara nke ya"
     },
     {
       "surface": "בערב",
-      "gloss": "n'abali"
+      "gloss": "n'anyasị"
     }
   ],
-  "timestamp": "2026-08-27T06:45:16.114851439Z",
+  "timestamp": "2026-08-27T17:32:33.922790260Z",
   "model": "glm-5.3"
 }

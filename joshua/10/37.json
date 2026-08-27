@@ -5,27 +5,23 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 10,
-  "translation": "Ha jidere ya ma kụọ ya ọnụ mma agha, na ⟨את⟩ eze ya, na ⟨את⟩ obodo ya niile, na ⟨את⟩ mmadụ niile nke nọ na ya; ọ dịghị onye fọdụrụ ọ hapụrụ, dịka ihe niile o mere ⟨את⟩ Eglon; o raara ⟨את⟩ ya, na ⟨את⟩ mmadụ niile nke nọ na ya, n'iwu mbibi.",
+  "translation": "Ha weghaara ya, ha gburu ya na ọnụ ⟨את⟩ mma agha, na ⟨את⟩ eze ya, na ⟨את⟩ obodo ya niile, na ⟨את⟩ mmadụ niile ndị nọ na ya; ọ hapụghị onye fọdụrụ, dịka ihe ọ bụla o mere na Eglon; ọ raara ⟨את⟩ ya n'iwu mbibi, na ⟨את⟩ mmadụ niile ndị nọ na ya.",
   "tokens": [
     {
       "surface": "וילכדוה",
-      "gloss": "Ha jidere ya"
+      "gloss": "Ha weghaara ya"
     },
     {
       "surface": "ויכוה",
-      "gloss": "ha kụrụ"
+      "gloss": "ha gburu ya"
     },
     {
       "surface": "לפי",
-      "gloss": "ọnụ"
+      "gloss": "na ọnụ"
     },
     {
       "surface": "חרב",
       "gloss": "mma agha"
-    },
-    {
-      "surface": "ויכוה",
-      "gloss": "⟨את⟩ ha kụrụ"
     },
     {
       "surface": "ואת",
@@ -34,7 +30,7 @@
     },
     {
       "surface": "מלכה",
-      "gloss": "⟨את⟩ eze ya"
+      "gloss": "eze ya"
     },
     {
       "surface": "ואת",
@@ -47,12 +43,12 @@
     },
     {
       "surface": "עריה",
-      "gloss": "⟨את⟩ obodo ya"
+      "gloss": "obodo ya"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "mmadụ niile nke nọ na ya"
+      "marks": "mmadụ niile ndị nọ na ya"
     },
     {
       "surface": "כל",
@@ -64,7 +60,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "ndị"
     },
     {
       "surface": "בה",
@@ -72,11 +68,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ọ dịghị"
+      "gloss": "ọ hapụghị"
     },
     {
       "surface": "השאיר",
-      "gloss": "ọ hapụrụ"
+      "gloss": ""
     },
     {
       "surface": "שריד",
@@ -84,11 +80,11 @@
     },
     {
       "surface": "ככל",
-      "gloss": "dịka ihe niile"
+      "gloss": "dịka ihe ọ bụla"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": ""
     },
     {
       "surface": "עשה",
@@ -96,21 +92,21 @@
     },
     {
       "surface": "לעגלון",
-      "gloss": "Eglon"
+      "gloss": "na Eglon"
     },
     {
       "surface": "ויחרם",
-      "gloss": "⟨את⟩ o raara n'iwu mbibi"
+      "gloss": "ọ raara n'iwu mbibi"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ya",
-      "marks": "ya (Hevron)"
+      "gloss": "⟨את⟩",
+      "marks": "ya"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "mmadụ niile nke nọ na ya"
+      "marks": "mmadụ niile ndị nọ na ya"
     },
     {
       "surface": "כל",
@@ -122,13 +118,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "ndị"
     },
     {
       "surface": "בה",
       "gloss": "nọ na ya"
     }
   ],
-  "timestamp": "2026-08-27T08:30:56.585811929Z",
+  "timestamp": "2026-08-27T17:37:31.797330425Z",
   "model": "glm-5.3"
 }

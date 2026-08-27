@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":3,"ref":"joshua 8:3","book":"joshua","lang":"ig","chapter":8,"translation":"Yehoshua na ndị agha niile bilie iji rịgoro ⟨the⟩ Hai; Yehoshua wee họrọọ pụkụ iri atọ ndị ikome, ndị dike nke agha, wee zitere ha n'abalị.","tokens":[{"surface":"ויקם","gloss":"bilie"},{"surface":"יהושע","gloss":"Yehoshua"},{"surface":"וכל","gloss":"niile"},{"surface":"עם","gloss":"ndị"},{"surface":"המלחמה","gloss":"agha"},{"surface":"לעלות","gloss":"iji rịgoro"},{"surface":"העי","gloss":"Hai"},{"surface":"ויבחר","gloss":"họrọọ"},{"surface":"יהושע","gloss":"Yehoshua"},{"surface":"שלשים","gloss":"iri atọ"},{"surface":"אלף","gloss":"pụkụ"},{"surface":"איש","gloss":"ndị ikome"},{"surface":"גבורי","gloss":"ndị dike"},{"surface":"החיל","gloss":"agha"},{"surface":"וישלחם","gloss":"zitere ha"},{"surface":"לילה","gloss":"n'abalị"}],"timestamp":"2026-08-27T08:27:55.286665951Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 8:3",
+  "book": "joshua",
+  "lang": "ig",
+  "chapter": 8,
+  "translation": "Yehoshua wee bilie, ya na mmadụ niile nke agha, iji rịgoro Hai; Yehoshua wee họrọ ndị ikome pụkụ iri atọ, ndị ike nke ọgụ, o wee zipụ ha n'abalị.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wee bilie"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ya na niile"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmadụ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "nke agha"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "iji rịgoro"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Hai"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "wee họrọ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "iri atọ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "pụkụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndị ikome"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ndị ike"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "nke ọgụ"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "o wee zipụ ha"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "n'abalị"
+    }
+  ],
+  "timestamp": "2026-08-27T17:37:53.364198034Z",
+  "model": "glm-5.3"
+}

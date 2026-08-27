@@ -5,24 +5,23 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 19,
-  "translation": "⟨The⟩ eze wee sị: Kimham ga-afe ⟨את⟩ m; m ga-eme ya ⟨את⟩ ihe dị mma n'anya gị; ihe ọ bụla ị họrọ n'elu m, m ga-eme gị.",
+  "translation": "Eze wee sị: \"Kimham ga-agafe ⟨את⟩ ya na m; m ga-emekwa ya ⟨את⟩ ihe ọma n'anya gị; ihe niile ị họrọ n'elu m, m ga-emekwa gị.\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "wee sị"
+      "gloss": "eze wee sị"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ eze"
+      "gloss": "eze"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "m"
+      "gloss": "⟨את⟩ ya na m"
     },
     {
       "surface": "יעבר",
-      "gloss": "ga-afe"
+      "gloss": "ga-agafe"
     },
     {
       "surface": "כמהם",
@@ -43,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ihe dị mma"
+      "marks": "ihe ọma"
     },
     {
       "surface": "הטוב",
-      "gloss": "ihe dị mma"
+      "gloss": "ihe ọma"
     },
     {
       "surface": "בעיניך",
@@ -55,11 +54,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "ihe ọ bụla"
+      "gloss": "ihe niile"
     },
     {
       "surface": "אשר",
-      "gloss": "ndị"
+      "gloss": "nke"
     },
     {
       "surface": "תבחר",
@@ -71,13 +70,13 @@
     },
     {
       "surface": "אעשה",
-      "gloss": "ga-eme"
+      "gloss": "m ga-emekwa"
     },
     {
       "surface": "לך",
       "gloss": "gị"
     }
   ],
-  "timestamp": "2026-08-27T09:44:18.272751330Z",
+  "timestamp": "2026-08-27T17:42:03.640607115Z",
   "model": "glm-5.3"
 }

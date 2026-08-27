@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 15,
-  "translation": "Ndị ohu ⟨the⟩ eze wee sị ruo ⟨the⟩ eze: \"Dịka ihe niile nke Adonai ⟨the⟩ eze ga-họrọ, le, ohu gị.\"",
+  "translation": "Ndị ohu eze wee sị eze: Dịka ihe ọ bula Adonai eze ahọrọ, le, ndị ohu gị ⟨ndị⟩ ya.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "ohu nke"
+      "gloss": "Ndị ohu"
     },
     {
       "surface": "המלך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "nye"
     },
     {
       "surface": "המלך",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "ככל",
-      "gloss": "dịka ihe niile"
+      "gloss": "Dịka ihe ọ bula"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "ihe"
     },
     {
       "surface": "יבחר",
-      "gloss": "ga-họrọ"
+      "gloss": "ahọrọ"
     },
     {
       "surface": "אדני",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "עבדיך",
-      "gloss": "ohu gị"
+      "gloss": "ndị ohu gị"
     }
   ],
-  "timestamp": "2026-08-27T09:39:16.258252953Z",
+  "timestamp": "2026-08-27T17:41:47.076124797Z",
   "model": "glm-5.3"
 }

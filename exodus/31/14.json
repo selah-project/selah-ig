@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 31,
-  "translation": "Unu ga-edebe ⟨את⟩ ⟨the⟩ Sabbath, n'ihi na ọ bụ ihe dị nsọ nye unu; onye ọ bụla na-emeru ya nsọ ga-anwụ anwụ; n'ihi na onye ọ bụla na-eme ọrụ n'ime ya, a ga-echapụ mmadụ ahụ n'etiti ndị ya.",
+  "translation": "Unu ga-echebari ⟨את⟩ Shabbat, n'ihi na ọ dị nsọ nye unu; onye ọ bụla na-emeru ya nsọ ga-anwụ anwụ, n'ihi na onye ọ bụla na-eme ọrụ na ya, neo mmadụ ahụ ga-echịpụ n'etiti ndi ya.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "Unu ga-edebe"
+      "gloss": "unu ga-echebari"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ Sabbath"
+      "marks": "Shabbat"
     },
     {
       "surface": "השבת",
-      "gloss": "⟨the⟩ Sabbath"
+      "gloss": "Shabbat"
     },
     {
       "surface": "כי",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "קדש",
-      "gloss": "ihe dị nsọ"
+      "gloss": "dị nsọ"
     },
     {
       "surface": "הוא",
-      "gloss": "ọ bụ"
+      "gloss": "ọ"
     },
     {
       "surface": "לכם",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "מחלליה",
-      "gloss": "onye ọ bụla na-emeru ya nsọ"
+      "gloss": "onye na-emeru ya nsọ"
     },
     {
       "surface": "מות",
-      "gloss": "anwụ"
+      "gloss": "ọnwụ"
     },
     {
       "surface": "יומת",
-      "gloss": "ga-anwụ"
+      "gloss": "ga-anwụ anwụ"
     },
     {
       "surface": "כי",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "n'ime ya"
+      "gloss": "na ya"
     },
     {
       "surface": "מלאכה",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "ונכרתה",
-      "gloss": "a ga-echapụ"
+      "gloss": "ga-echịpụ"
     },
     {
       "surface": "הנפש",
-      "gloss": "mmadụ ahụ"
+      "gloss": "mmadụ ahụ (nefesh)"
     },
     {
       "surface": "ההוא",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "עמיה",
-      "gloss": "ndị ya"
+      "gloss": "ndi ya"
     }
   ],
-  "timestamp": "2026-08-27T06:31:29.504190639Z",
+  "timestamp": "2026-08-27T17:31:38.914809582Z",
   "model": "glm-5.3"
 }

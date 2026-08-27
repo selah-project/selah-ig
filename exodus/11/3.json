@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 11,
-  "translation": "Yahwe nyere ⟨את⟩ amara ⟨the⟩ ndị ahụ n'anya ndị Mitzrayim; n'otu aka ahụ, nwoke ahụ bụ Moshe buru ibu nke ukwuu n'ala Mitzrayim, n'anya ohu ndị Paroh na n'anya ndị ahụ.",
+  "translation": "Yahwe nyere ⟨את⟩ amara n'ihu ndị Mitzrayim; onwekwara nwoke ahụ bụ Moshe buru ibu nke ukwuu n'ala Mitzrayim, n'anya ndị ohu Paroh na n'anya ndị ahụ.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "ndị Mitzrayim"
+      "gloss": "Mitzrayim"
     },
     {
       "surface": "גם",
-      "gloss": "n'otu aka ahụ"
+      "gloss": "onwekwara"
     },
     {
       "surface": "האיש",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "ohu ndị"
+      "gloss": "ohu"
     },
     {
       "surface": "פרעה",
@@ -85,6 +85,6 @@
       "gloss": "ndị ahụ"
     }
   ],
-  "timestamp": "2026-08-27T16:24:37.269953681Z",
+  "timestamp": "2026-08-27T17:29:56.087964183Z",
   "model": "glm-5.3"
 }

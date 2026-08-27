@@ -5,33 +5,29 @@
   "book": "esther",
   "lang": "ig",
   "chapter": 9,
-  "translation": "na ⟨את⟩ Porata, na ⟨את⟩ Adalya, na ⟨את⟩ Aridata;",
+  "translation": "⟨את⟩ Porata, ⟨את⟩ Adalya, ⟨את⟩ Aridata —",
   "tokens": [
     {
-      "surface": "ו",
-      "gloss": "⟨את⟩ na"
-    },
-    {
-      "surface": "את",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
       "marks": "Porata"
     },
     {
       "surface": "פורתא",
-      "gloss": "⟨את⟩ Porata"
+      "gloss": "Porata"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Adalya"
     },
     {
       "surface": "אדליא",
-      "gloss": "⟨את⟩ Adalya"
+      "gloss": "Adalya"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Aridata"
     },
     {
@@ -39,6 +35,6 @@
       "gloss": "Aridata"
     }
   ],
-  "timestamp": "2026-08-27T15:21:41.269863646Z",
+  "timestamp": "2026-08-27T17:57:14.647565084Z",
   "model": "glm-5.3"
 }

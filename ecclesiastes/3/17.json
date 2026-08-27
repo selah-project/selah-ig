@@ -5,15 +5,15 @@
   "book": "ecclesiastes",
   "lang": "ig",
   "chapter": 3,
-  "translation": "M kwuru n'obi m: Elohim ga-ekpe ⟨את⟩ nke ziri ezi na ⟨את⟩ onye ajọ ikpe, n'ihi na e nwere ⟨the⟩ oge maka ọchịchọ ọ bụla, na maka ọrụ niile n'ebe ahụ.",
+  "translation": "Aburu m n'obi m, sị: Elohim ga-ekpe ⟨את⟩ onye-ezi-omume na ⟨את⟩ onye-ajo-omume ikpe, maka na ⟨e nwere⟩ oge maka chọọchọọ ọ bụla, na maka ọrụ niile, ebe ahụ.",
   "tokens": [
     {
       "surface": "אמרתי",
-      "gloss": "kwuru"
+      "gloss": "Aburu m"
     },
     {
       "surface": "אני",
-      "gloss": "mụ"
+      "gloss": "m"
     },
     {
       "surface": "בלבי",
@@ -22,24 +22,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nke ziri ezi"
+      "marks": "onye-ezi-omume"
     },
     {
       "surface": "הצדיק",
-      "gloss": "nke ziri ezi"
+      "gloss": "onye-ezi-omume"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "onye ajọ ikpe"
+      "gloss": "na ⟨את⟩",
+      "marks": "onye-ajo-omume"
     },
     {
       "surface": "הרשע",
-      "gloss": "onye ajọ ikpe"
+      "gloss": "onye-ajo-omume"
     },
     {
       "surface": "ישפט",
-      "gloss": "ga-ekpe"
+      "gloss": "ga-ekpe ikpe"
     },
     {
       "surface": "האלהים",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "n'ihi na"
+      "gloss": "maka na"
     },
     {
       "surface": "עת",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "לכל",
-      "gloss": "maka"
+      "gloss": "maka ọ bụla"
     },
     {
       "surface": "חפץ",
-      "gloss": "ọchịchọ"
+      "gloss": "chọọchọọ"
     },
     {
       "surface": "ועל",
@@ -75,9 +75,9 @@
     },
     {
       "surface": "שם",
-      "gloss": "n'ebe ahụ"
+      "gloss": "ebe ahụ"
     }
   ],
-  "timestamp": "2026-08-27T15:13:40.133254330Z",
+  "timestamp": "2026-08-27T17:57:02.921294828Z",
   "model": "glm-5.3"
 }

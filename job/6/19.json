@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Ndị njem nke Tema lelere ⟨the⟩ ụzọ, ndị njem nke Sheba nọrọ chere ⟨את⟩ ha.",
+  "translation": "Ụzọ azụmahịa ndị Tema lerela anya; ìgwè njem ndị Sheba chekwawo ya.",
   "tokens": [
     {
       "surface": "הביטו",
-      "gloss": "lelere"
+      "gloss": "lerela anya"
     },
     {
       "surface": "ארחות",
-      "gloss": "ụzọ ndị njem"
+      "gloss": "ụzọ azụmahịa ndị"
     },
     {
       "surface": "תמא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הליכת",
-      "gloss": "ọgba mbọ"
+      "gloss": "ìgwè njem ndị"
     },
     {
       "surface": "שבא",
@@ -29,13 +29,14 @@
     },
     {
       "surface": "קוו",
-      "gloss": "nọrọ chere"
+      "gloss": "chekwawo"
     },
     {
       "surface": "למו",
-      "gloss": "ha"
+      "gloss": "ya",
+      "marks": "mmiri (nke a na-achọ)"
     }
   ],
-  "timestamp": "2026-08-27T16:51:05.820604480Z",
+  "timestamp": "2026-08-27T18:16:27.990077226Z",
   "model": "glm-5.3"
 }

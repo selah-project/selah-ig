@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 14,
-  "translation": "Shaúl jụrụ Elohim, sị, «M ga-esi n'elu ala banye n'azụ ndị Filistia? Ị ga-enye ha n'aka Israel?» Ma Ọ zughị ya n'ụbọchị ahụ.",
+  "translation": "Shaool jụrụ Elohim, «Ị ga m ada n'azụ ndị Pelishtim? Ị ga-enye ha n'aka Yisra'el?» Ma Ọ zaghịghị ya n'ụbọchị ahụ.",
   "tokens": [
     {
       "surface": "וישאל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Shaúl"
+      "gloss": "Shaool"
     },
     {
       "surface": "באלהים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הארד",
-      "gloss": "M ga-esi n'elu ala banye"
+      "gloss": "Ị ga m ada"
     },
     {
       "surface": "אחרי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "ndị Filistia"
+      "gloss": "ndị Pelishtim"
     },
     {
       "surface": "התתנם",
@@ -41,19 +41,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
-    },
-    {
-      "surface": "ויאמר",
-      "gloss": ""
+      "gloss": "Yisra'el"
     },
     {
       "surface": "ולא",
-      "gloss": "Ma ... ụghị"
+      "gloss": "Ma ... ghịghị"
     },
     {
       "surface": "ענהו",
-      "gloss": "zughị ya"
+      "gloss": "zaghịghị ya"
     },
     {
       "surface": "ביום",
@@ -64,6 +60,6 @@
       "gloss": "ahụ"
     }
   ],
-  "timestamp": "2026-08-27T09:12:27.084998127Z",
+  "timestamp": "2026-08-27T17:38:56.240534466Z",
   "model": "glm-5.3"
 }

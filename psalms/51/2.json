@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 51,
-  "translation": "Mgbe Natan onye-amuma bịara ⟨אל⟩ ya, mgbe ọ banyere ⟨אל⟩ Bat-Sheva.",
+  "translation": "Mgbe Natan onye-amụma bịara ⟨ebe⟩ ọ nọ, ka ọ banyere ná Bat-Sheva.",
   "tokens": [
     {
       "surface": "בבוא",
-      "gloss": "mgbe ọ bịara"
+      "gloss": "Mgbe ... bịara"
     },
     {
       "surface": "אליו",
-      "gloss": "⟨אל⟩ ya"
+      "gloss": "ebe ọ nọ"
     },
     {
       "surface": "נתן",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "onye-amuma"
+      "gloss": "onye-amụma"
     },
     {
       "surface": "כאשר",
-      "gloss": "mgbe"
+      "gloss": "ka"
     },
     {
       "surface": "בא",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨אל⟩"
+      "gloss": "ná"
     },
     {
       "surface": "בת",
-      "gloss": "Bat"
+      "gloss": "Bat-"
     },
     {
       "surface": "שבע",
       "gloss": "Sheva"
     }
   ],
-  "timestamp": "2026-08-27T16:48:01.357231543Z",
+  "timestamp": "2026-08-27T17:53:18.693844392Z",
   "model": "glm-5.3"
 }

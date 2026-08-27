@@ -5,23 +5,23 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 5,
-  "translation": "Ma obi ⟨the⟩ mmadụ, ọ bụrụ na ọ meehi ihe ezighị ezi, ma nụọ ụda nke ọ̀ụ̀ à ṅụ̀, ma ⟨ọ⟩ bụ onye-akaebe, ma无论是 ọ hụrụ ya ma ọ bụ mata ya, ma ọ kọghị ya, ọ ga-ebu ihe ezighị ezi nke ya.",
+  "translation": "Mgbe mmadụ (nefesh) meehi rụrụ, ọ nụrụ ụda nke ikpe-iyi, ma ọ bụ ⟨onye⟩-akaebe, ma ọ bụ hụrụ ya, ma ọ bụ maara ya; ọ bụrụ na ọ kọghị ya, ọ ga-ebu njọ mbụ ya.",
   "tokens": [
     {
       "surface": "ונפש",
-      "gloss": "ma obi ⟨the⟩ mmadụ"
+      "gloss": "ma mmadụ (nefesh)"
     },
     {
       "surface": "כי",
-      "gloss": "ọ bụrụ na"
+      "gloss": "mgbe"
     },
     {
       "surface": "תחטא",
-      "gloss": "ọ meehi ihe ezighị ezi"
+      "gloss": "meehi rụrụ"
     },
     {
       "surface": "ושמעה",
-      "gloss": "ma nụọ"
+      "gloss": "ọ nụrụ"
     },
     {
       "surface": "קול",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אלה",
-      "gloss": "nke à ṅụ̀"
+      "gloss": "nke ikpe-iyi"
     },
     {
       "surface": "והוא",
-      "gloss": "ma ⟨ọ⟩"
+      "gloss": "ma ọ ⟨onye⟩"
     },
     {
       "surface": "עד",
-      "gloss": "bụ onye-akaebe"
+      "gloss": "akaebe"
     },
     {
       "surface": "או",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ראה",
-      "gloss": "ọ hụrụ ya"
+      "gloss": "hụrụ"
     },
     {
       "surface": "או",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "ידע",
-      "gloss": "ọ mata ya"
+      "gloss": "maara"
     },
     {
       "surface": "אם",
-      "gloss": "ma ọ bụghị"
+      "gloss": "ọ bụrụ na"
     },
     {
       "surface": "לוא",
-      "gloss": "ọ̀"
+      "gloss": "ọ bụghị"
     },
     {
       "surface": "יגיד",
-      "gloss": "kọọ ya"
+      "gloss": "ọ kọghị"
     },
     {
       "surface": "ונשא",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "עונו",
-      "gloss": "ihe ezighị ezi nke ya"
+      "gloss": "njọ mbụ ya"
     }
   ],
-  "timestamp": "2026-08-27T06:47:29.062341702Z",
+  "timestamp": "2026-08-27T17:32:28.440886062Z",
   "model": "glm-5.3"
 }

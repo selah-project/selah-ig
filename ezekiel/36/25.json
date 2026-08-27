@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 36,
-  "translation": "M ga ṅụrịsa gị mmiri dị ọcha, gịkwa ga-adị ọcha; site na unyi niile gị na site n'arụsị gị niile ka m ga-eme ka gị dị ọcha ⟨אתכם⟩.",
+  "translation": "M ga ṅụchasịa gị mmiri dị ọcha, unu ga-adị ọcha; site n'ụmụnile na-emerụ unu unsi na site n'ịchụtoala unu niile, m ga-eme ka unu dị ọcha ⟨את⟩.",
   "tokens": [
     {
       "surface": "וזרקתי",
-      "gloss": "m ga ṅụrịsa"
+      "gloss": "m ga ṅụchasịa gị"
     },
     {
       "surface": "עליכם",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "וטהרתם",
-      "gloss": "gịkwa ga-adị ọcha"
+      "gloss": "unu ga-adị ọcha"
     },
     {
       "surface": "מכל",
-      "gloss": "site na niile"
+      "gloss": "site n'ụmụnile"
     },
     {
       "surface": "טמאותיכם",
-      "gloss": "unyi gị"
+      "gloss": "na-emerụ unu unsi"
     },
     {
       "surface": "ומכל",
-      "gloss": "na site na niile"
+      "gloss": "na site n'ịchụtoala"
     },
     {
       "surface": "גלוליכם",
-      "gloss": "arụsị gị"
+      "gloss": "unu niile"
     },
     {
       "surface": "אטהר",
@@ -50,9 +50,9 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "gị"
+      "marks": "unu"
     }
   ],
-  "timestamp": "2026-08-27T12:25:29.114828226Z",
+  "timestamp": "2026-08-27T17:50:26.295269570Z",
   "model": "glm-5.3"
 }

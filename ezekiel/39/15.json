@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 39,
-  "translation": "Ndị na-agafe ga-agafekwa n'⟨the⟩ ala, onye ọ bụla hụrụ ọkpụkpụ mmadụ, o ga-ewukwa akara nso ya, ruo mgbe ndị na-eli ozu ga-eli ⟨את⟩ ya na ndịda nke Hamon-Gog.",
+  "translation": "Ndị na-agafe ga-agafe n'ala, ma onye hụrụ ọkpụkpụ mmadụ, ga-ewu akara nso ya, ruo mgbe ndị na-eli ozu eliri ⟨את⟩ ya na ndagwurugwu Hamon-Gog.",
   "tokens": [
     {
       "surface": "ועברו",
-      "gloss": "ga-agafekwa"
+      "gloss": "ga-agafe"
     },
     {
       "surface": "העברים",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "n'⟨the⟩ ala"
+      "gloss": "n'ala"
     },
     {
       "surface": "וראה",
-      "gloss": "hụrụ"
+      "gloss": "ọ hụrụ"
     },
     {
       "surface": "עצם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ובנה",
-      "gloss": "o ga-ewukwa"
+      "gloss": "ga-ewu"
     },
     {
       "surface": "אצלו",
@@ -49,12 +49,12 @@
     },
     {
       "surface": "קברו",
-      "gloss": "ga-eli ozu"
+      "gloss": "eliri"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ya"
+      "gloss": "⟨את⟩ ya",
+      "marks": "ọkpụkpụ mmadụ"
     },
     {
       "surface": "המקברים",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "גיא",
-      "gloss": "ndịda"
+      "gloss": "ndagwurugwu"
     },
     {
       "surface": "המון",
@@ -77,6 +77,6 @@
       "gloss": "Gog"
     }
   ],
-  "timestamp": "2026-08-27T12:26:48.338360141Z",
+  "timestamp": "2026-08-27T17:51:14.509859006Z",
   "model": "glm-5.3"
 }

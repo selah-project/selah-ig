@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":13,"ref":"leviticus 23:13","book":"leviticus","lang":"ig","chapter":23,"translation":"Na onyinye-ọka nke ya ⟨ga-abụ⟩ akụkụ-iri abụọ nke ntụ ọka dị mma, nke a gwakọtara na mmanụ — ọkụ-onyinye nye Yahwe, ọsịsa dị mma; na mmiri-ọṅụṅụ nke ya ⟨ga-abụ⟩ mmanya, akụkụ-nke-anọ nke ⟨the⟩ hin.","tokens":[{"surface":"ומנחתו","gloss":"na onyinye-ọka nke ya"},{"surface":"שני","gloss":"abụọ"},{"surface":"עשרנים","gloss":"akụkụ-iri"},{"surface":"סלת","gloss":"ntụ ọka dị mma"},{"surface":"בלולה","gloss":"nke a gwakọtara"},{"surface":"בשמן","gloss":"na mmanụ"},{"surface":"אשה","gloss":"ọkụ-onyinye"},{"surface":"ליהוה","gloss":"nye Yahwe"},{"surface":"ריח","gloss":"ọsịsa"},{"surface":"ניחח","gloss":"dị mma"},{"surface":"ונסכה","gloss":"na mmiri-ọṅụṅụ nke ya"},{"surface":"יין","gloss":"mmanya"},{"surface":"רביעת","gloss":"akụkụ-nke-anọ"},{"surface":"ההין","gloss":"nke hin"}],"timestamp":"2026-08-27T07:05:17.875308636Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 23:13",
+  "book": "leviticus",
+  "lang": "ig",
+  "chapter": 23,
+  "translation": "Na ntinye-ọfferinya ya ga-abụ elekere abụọ nke iri nke ntụ ọka a gwakọtara na mmanụ, ọfferinya ọkụ maka Yahwe, isi ụtọ na-atọ ụtọ; na mmiri-ọfferinya ga-abụ mmanya, ụzọ nke anọ nke hin.",
+  "tokens": [
+    {
+      "surface": "ומנחתו",
+      "gloss": "na ntinye-ọfferinya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "nke iri (elekere iri)"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ntụ ọka"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "a gwakọtara"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mmanụ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ọfferinya ọkụ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "isi"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ụtọ na-atọ ụtọ"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "na mmiri-ọfferinya"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mmanya"
+    },
+    {
+      "surface": "רביעת",
+      "gloss": "ụzọ nke anọ"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "nke hin"
+    }
+  ],
+  "timestamp": "2026-08-27T17:33:06.570847792Z",
+  "model": "glm-5.3"
+}

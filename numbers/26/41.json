@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 26,
-  "translation": "Ndị a bụ ụmụ Binyamin dịka ezinụlọ ha si dị; ndị e dere ha bụ́ ndị a gụrụ bụ narị anọ na ise na puku iri anọ na ise.",
+  "translation": "Ndị a bụ ụmụ Binyamin dịka ezinụlọ ha si dị; ndị a ka a gụrụ n'ime ha ⟨⟩ ruru pụkụ iri anọ na ise na narị isii.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "ndị a"
+      "gloss": "Ndị a"
     },
     {
       "surface": "בני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ופקדיהם",
-      "gloss": "ndị e dere ha bụ́ ndị a gụrụ"
+      "gloss": "ndị a ka a gụrụ n'ime ha"
     },
     {
       "surface": "חמשה",
@@ -37,13 +37,17 @@
     },
     {
       "surface": "אלף",
-      "gloss": "puku"
+      "gloss": "pụkụ"
     },
     {
       "surface": "ושש",
-      "gloss": "na narị isii"
+      "gloss": "na isii"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "narị isii"
     }
   ],
-  "timestamp": "2026-08-27T07:37:51.199428729Z",
+  "timestamp": "2026-08-27T17:34:19.262293763Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 13,
-  "translation": "Ha hụrụ ihe efu na ịgba-amụnsi ụgha, bụ́ ndị na-ekwu, 'Nkwu Yahwe,' ma Yahwe ezitereghị ha; ha na-echekwa ka ha kwado ⟨the⟩ okwu.",
+  "translation": "Ha hụrụ ⟨את⟩ ihe efu na mmaja asị, ndị na-ekwu, 'Nkwu Yahwe,' ma Yahwe eziteghị ha, ha na-eche ka okwu ahụ mezue.",
   "tokens": [
     {
       "surface": "חזו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "וקסם",
-      "gloss": "na ịgba-amụnsi"
+      "gloss": "na mmaja"
     },
     {
       "surface": "כזב",
-      "gloss": "ụgha"
+      "gloss": "asị"
     },
     {
       "surface": "האמרים",
@@ -41,25 +41,25 @@
     },
     {
       "surface": "לא",
-      "gloss": "ọ bụghị"
+      "gloss": "eziteghị (ọ bụghị)"
     },
     {
       "surface": "שלחם",
-      "gloss": "ezitereghị ha"
+      "gloss": "ha (zitere ha)"
     },
     {
       "surface": "ויחלו",
-      "gloss": "ha na-echekwa"
+      "gloss": "ha na-eche"
     },
     {
       "surface": "לקים",
-      "gloss": "ka ha kwado"
+      "gloss": "ka ... mezue"
     },
     {
       "surface": "דבר",
       "gloss": "okwu"
     }
   ],
-  "timestamp": "2026-08-27T12:04:50.184650899Z",
+  "timestamp": "2026-08-27T17:48:17.574429137Z",
   "model": "glm-5.3"
 }

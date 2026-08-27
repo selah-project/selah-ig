@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 13,
-  "translation": "Gịnịkwa bụ ⟨the⟩ ala nke ha bi na ya — ọ dị mma ka ọ ⟨is⟩, ma ọ bụ ọ dị njọ? Gịnịkwa bụ ⟨the⟩ obodo ndị ha bi na ha — n'ogige mbo ka ha ⟨is⟩, ma ọ bụ n'obodo e gbochiri gbochiri?",
+  "translation": "Gịnịkwa ọnọdụ ala ahụ nke ha bi na ya — ọ dị mma ma ọ dị ajọ? Gịnịkwa ọnọdụ obodo ndị ahụ nke ha bi na ha — n'ogige a na-agbasa, ma n'ebe e wusiri ike?",
   "tokens": [
     {
       "surface": "ומה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הטובה",
-      "gloss": "ọ dị mma"
+      "gloss": "dị mma"
     },
     {
       "surface": "הוא",
-      "gloss": "ka ọ"
+      "gloss": "ọ dị"
     },
     {
       "surface": "אם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "רעה",
-      "gloss": "ọ dị njọ"
+      "gloss": "ajọ"
     },
     {
       "surface": "ומה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "הבמחנים",
-      "gloss": "n'ogige mbo"
+      "gloss": "n'ogige a na-agbasa"
     },
     {
       "surface": "אם",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "במבצרים",
-      "gloss": "n'obodo e gbochiri gbochiri"
+      "gloss": "n'ebe e wusiri ike"
     }
   ],
-  "timestamp": "2026-08-27T07:25:34.185718408Z",
+  "timestamp": "2026-08-27T17:34:52.673090737Z",
   "model": "glm-5.3"
 }

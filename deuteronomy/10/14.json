@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 10,
-  "translation": "Le, nke Yahwe, Elohim gị, bụ ⟨the⟩ eluigwe na eluigwe nke ⟨the⟩ eluigwe, ⟨the⟩ ụwa na ihe niile dị na ya.",
+  "translation": "Leenu, nke Yahwe, Elohim gị, bụ ⟨את⟩ eluigwe na ⟨את⟩ eluigwe nke eluigwe, ⟨את⟩ ụwa na ihe niile dị na ya.",
   "tokens": [
     {
       "surface": "הן",
-      "gloss": "Le"
+      "gloss": "Leenu"
     },
     {
       "surface": "ליהוה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ושמי",
-      "gloss": "na eluigwe nke"
+      "gloss": "na eluigwe"
     },
     {
       "surface": "השמים",
-      "gloss": "eluigwe"
+      "gloss": "nke eluigwe"
     },
     {
       "surface": "הארץ",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "nke dị"
     },
     {
       "surface": "בה",
-      "gloss": "dị na ya"
+      "gloss": "na ya"
     }
   ],
-  "timestamp": "2026-08-27T07:55:27.863113180Z",
+  "timestamp": "2026-08-27T17:35:07.609895047Z",
   "model": "glm-5.3"
 }

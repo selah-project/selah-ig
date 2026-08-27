@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "ig",
   "chapter": 8,
-  "translation": "Ọ sịrị ka Yeter, nwa mbụ ya: Bilie, gbuo ⟨את⟩ ha. Ma nwa okorobịa ahụ teghị mmaa ya n'ọmaọgụ, n'ihi na ọ tụrụ egwu, n'ihi na ọ ka bụ nwa okorobịa.",
+  "translation": "Ọ sịkwa Yeter, nwa mbụ ya: Bilie, gbuo ⟨את⟩ ha. Ma nwa okorobịa ahụ ewepụtaghị mmaa ya, n'ihi na ọ na-atụ egwu, n'ihi na ọ ka bụ nwa okorobịa.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ọ sịrị ka"
+      "gloss": "ọ sịkwa"
     },
     {
       "surface": "ליתר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "קום",
-      "gloss": "Bilie"
+      "gloss": "bilie"
     },
     {
       "surface": "הרג",
@@ -29,20 +29,16 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ha",
+      "gloss": "⟨את⟩",
       "marks": "ha"
     },
     {
-      "surface": "ו",
-      "gloss": "Ma"
-    },
-    {
-      "surface": "לא",
-      "gloss": "teghị"
+      "surface": "ולא",
+      "gloss": "ma ... ewepụtaghị"
     },
     {
       "surface": "שלף",
-      "gloss": "dọrọ"
+      "gloss": "wepụta"
     },
     {
       "surface": "הנער",
@@ -58,7 +54,7 @@
     },
     {
       "surface": "ירא",
-      "gloss": "ọ tụrụ egwu"
+      "gloss": "ọ na-atụ egwu"
     },
     {
       "surface": "כי",
@@ -73,6 +69,6 @@
       "gloss": "nwa okorobịa"
     }
   ],
-  "timestamp": "2026-08-27T16:32:00.872747145Z",
+  "timestamp": "2026-08-27T17:37:43.544519380Z",
   "model": "glm-5.3"
 }

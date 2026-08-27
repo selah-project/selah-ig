@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 4,
-  "translation": "Ha ga-etinyekwa n'elu ya ⟨את⟩ ngwaọrụ ya niile nke ha na-ejere ya ozi n'ime ha: ⟨את⟩ ọkụ-itinye-aka, ⟨את⟩ mkpọ-ọnya, na ⟨את⟩ nkata-ekpocha, na ⟨את⟩ ite-ọṅụṅụ — ngwaọrụ niile nke ebe-ọkụ ahụ; ha ga-ekpuchikwa ya akpụkpọ anụ nke תחש, ma tinye mkpọgị ya (n'ọnụ ya).",
+  "translation": "Ha ga-etinye n'elu ya ⟨את⟩ ngwá ya niile, ndị a na-ejere ya ozi n'ime ha: ⟨את⟩ ite-ọkụ, ⟨את⟩ nné-anọ, ⟨את⟩ mkpụrụ-ụrọ, na ⟨את⟩ ite-mmiri — ngwá ebe-ọfụfụ niile; ha ga-ekesa mkpuchi akpụkpọ-anụ takhash n'elu ya, ma tinye osisi ndị a na-ebu ya.",
   "tokens": [
     {
       "surface": "ונתנו",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ngwaọrụ ya niile"
+      "marks": "ngwá ya niile"
     },
     {
       "surface": "כל",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "כליו",
-      "gloss": "ngwaọrụ ya"
+      "gloss": "ngwá ya"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "ndị"
     },
     {
       "surface": "ישרתו",
-      "gloss": "ha na-ejere ozi"
+      "gloss": "a na-ejere ya ozi"
     },
     {
       "surface": "עליו",
@@ -47,38 +47,38 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọkụ-itinye-aka"
+      "marks": "ite-ọkụ"
     },
     {
       "surface": "המחתת",
-      "gloss": "ọkụ-itinye-aka"
+      "gloss": "ite-ọkụ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mkpọ-ọnya"
+      "marks": "nné-anọ"
     },
     {
       "surface": "המזלגת",
-      "gloss": "mkpọ-ọnya"
+      "gloss": "nné-anọ"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "nkata-ekpocha"
+      "marks": "mkpụrụ-ụrọ"
     },
     {
       "surface": "היעים",
-      "gloss": "nkata-ekpocha"
+      "gloss": "mkpụrụ-ụrọ"
     },
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "ite-ọṅụṅụ"
+      "marks": "ite-mmiri"
     },
     {
       "surface": "המזרקת",
-      "gloss": "ite-ọṅụṅụ"
+      "gloss": "ite-mmiri"
     },
     {
       "surface": "כל",
@@ -86,19 +86,19 @@
     },
     {
       "surface": "כלי",
-      "gloss": "ngwaọrụ"
+      "gloss": "ngwá"
     },
     {
       "surface": "המזבח",
-      "gloss": "ebe-ọkụ ahụ"
+      "gloss": "ebe-ọfụfụ"
     },
     {
       "surface": "ופרשו",
-      "gloss": "ha ga-ekpuchikwa"
+      "gloss": "ha ga-ekesa"
     },
     {
       "surface": "עליו",
-      "gloss": "ya"
+      "gloss": "n'elu ya"
     },
     {
       "surface": "כסוי",
@@ -106,21 +106,21 @@
     },
     {
       "surface": "עור",
-      "gloss": "akpụkpọ anụ"
+      "gloss": "akpụkpọ-anụ"
     },
     {
       "surface": "תחש",
-      "gloss": "תחש"
+      "gloss": "takhash"
     },
     {
       "surface": "ושמו",
-      "gloss": "ma tinye"
+      "gloss": "ma ha ga-etinye"
     },
     {
       "surface": "בדיו",
-      "gloss": "mkpọgị ya"
+      "gloss": "osisi ndị a na-ebu ya"
     }
   ],
-  "timestamp": "2026-08-27T07:14:52.193780116Z",
+  "timestamp": "2026-08-27T17:33:33.945710053Z",
   "model": "glm-5.3"
 }

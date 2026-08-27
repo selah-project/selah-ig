@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 34,
-  "translation": "Moshe nyere ụmụ Yisrael iwu, sị: Nke a bụ ⟨the⟩ ala nke unu ga-eketa ⟨את⟩ ya site na lọtrọ, nke Yahwe nyere iwu ka a nye maka ụlọọrụ itoolu na ọkara nke ụlọọrụ ahụ.",
+  "translation": "Mose nyere ụmụ Yaakọb a na-akpọ Isrel iwu, sị: Nke a bụ ala nke unu ga-eketa ⟨את⟩ ya site n'ọdụmọrụ, nke Yahwe nyere iwu ka e nyee ụmụnne ndị fọdụrụ, ndị mkpụrụ itoolu na ọkara nke ndị mkpụrụ.",
   "tokens": [
     {
       "surface": "ויצו",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "Mose"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ụmụ Yisrael"
+      "marks": "ụmụ Yaakọb"
     },
     {
       "surface": "בני",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yaakọb a na-akpọ Isrel"
     },
     {
       "surface": "לאמר",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "זאת",
-      "gloss": "nke a"
+      "gloss": "Nke a"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ala"
+      "gloss": "ala"
     },
     {
       "surface": "אשר",
@@ -50,12 +50,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "ya (ala ahụ)"
+      "gloss": "⟨את⟩ ya"
     },
     {
       "surface": "בגורל",
-      "gloss": "site na lọtrọ"
+      "gloss": "site n'ọdụmọrụ"
     },
     {
       "surface": "אשר",
@@ -71,25 +70,25 @@
     },
     {
       "surface": "לתת",
-      "gloss": "ka a nye"
+      "gloss": "ka e nyee"
     },
     {
       "surface": "לתשעת",
-      "gloss": "maka ụlọọrụ itoolu"
+      "gloss": "ndị mkpụrụ itoolu"
     },
     {
       "surface": "המטות",
-      "gloss": ""
+      "gloss": "nke ndị mkpụrụ"
     },
     {
       "surface": "וחצי",
-      "gloss": "na ọkara"
+      "gloss": "na ọkara nke"
     },
     {
       "surface": "המטה",
-      "gloss": "nke ụlọọrụ ahụ"
+      "gloss": "ndị mkpūrū"
     }
   ],
-  "timestamp": "2026-08-27T16:29:16.738077379Z",
+  "timestamp": "2026-08-27T17:35:14.704619715Z",
   "model": "glm-5.3"
 }

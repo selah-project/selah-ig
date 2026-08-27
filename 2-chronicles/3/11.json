@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 3,
-  "translation": "Nku nke kerubim ndị ahụ, ogologo ha ⟨is⟩ ama iri abụọ; nku nke mbụ ⟨is⟩ ama ise, na-emetụ mgbidi nke ụlọ ahụ; ma nku nke ọzọ ⟨is⟩ ama ise, na-eru nku nke kerubim nke ọzọ.",
+  "translation": "Nku nke kerubim ndị ahụ, ogologo ha bụ ama iri abụọ; nku nke otu — ama ise, na-erute mgbidi nke ụlọ ahụ; nku nke ọzọkwa — ama ise, na-eru nku nke kerub nke ọzọ.",
   "tokens": [
     {
       "surface": "וכנפי",
-      "gloss": "ma nku ndị"
+      "gloss": "nku nke"
     },
     {
       "surface": "הכרובים",
-      "gloss": "nke kerubim ndị ahụ"
+      "gloss": "kerubim ndị ahụ"
     },
     {
       "surface": "ארכם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "האחד",
-      "gloss": "nke mbụ"
+      "gloss": "nke otu"
     },
     {
       "surface": "לאמות",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "מגעת",
-      "gloss": "na-emetụ"
+      "gloss": "na-erute"
     },
     {
       "surface": "לקיר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "והכנף",
-      "gloss": "ma nku"
+      "gloss": "nku nke ọzọkwa"
     },
     {
       "surface": "האחרת",
@@ -81,13 +81,13 @@
     },
     {
       "surface": "הכרוב",
-      "gloss": "nke kerubim"
+      "gloss": "kerub"
     },
     {
       "surface": "האחר",
       "gloss": "nke ọzọ"
     }
   ],
-  "timestamp": "2026-08-27T16:07:59.922379831Z",
+  "timestamp": "2026-08-27T17:59:32.484716725Z",
   "model": "glm-5.3"
 }

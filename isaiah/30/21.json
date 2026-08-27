@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 30,
-  "translation": "Ma ntị gị ga-anụ okwu n'azụ gị, na-asị: Nke a bụ ⟨the⟩ ụzọ, na-ga na ya, mgbe ị na-atụgharị n'aka nri, na mgbe ị na-atụgharị n'aka ekpe.",
+  "translation": "nti gị ga-anụ okwu n'azụ gị, na-ekwu, Nke a bụ ụzọ ahụ, na-aga ya; mgbe ị na-atụgharị n'aka nri, ma mgbe ị na-atụgharị n'aka ekpe.",
   "tokens": [
     {
       "surface": "ואזניך",
-      "gloss": "ma ntị gị"
+      "gloss": "nti gị"
     },
     {
       "surface": "תשמענה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "na-asị"
+      "gloss": "na-ekwu"
     },
     {
       "surface": "זה",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "הדרך",
-      "gloss": "⟨the⟩ ụzọ"
+      "gloss": "ụzọ ahụ"
     },
     {
       "surface": "לכו",
-      "gloss": "na-ga"
+      "gloss": "na-aga"
     },
     {
       "surface": "בו",
-      "gloss": "na ya"
+      "gloss": "ya"
     },
     {
       "surface": "כי",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "וכי",
-      "gloss": "na mgbe"
+      "gloss": "ma mgbe"
     },
     {
       "surface": "תשמאילו",
       "gloss": "ị na-atụgharị n'aka ekpe"
     }
   ],
-  "timestamp": "2026-08-27T10:51:54.312245373Z",
+  "timestamp": "2026-08-27T17:45:45.913845898Z",
   "model": "glm-5.3"
 }

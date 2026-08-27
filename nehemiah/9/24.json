@@ -5,11 +5,11 @@
   "book": "nehemiah",
   "lang": "ig",
   "chapter": 9,
-  "translation": "Ya mere ụmụ ahụ batarakwa ketara ⟨את⟩ ⟨the⟩ ala; Ị kwaturu ha mgbe ha nọ n'ihu ha, ⟨את⟩ ndị bi n'ala, ndị Kenaan; Ị nyere ha n'aka ha, ⟨את⟩ ndị eze ha na ⟨את⟩ ndị mba nke ala, ka ha wee mee ha ihe dịka obi ha chọrụ.",
+  "translation": "Ma ụmụ ahụ bata ma nwe ⟨את⟩ ala ahụ, ma Ị na-eme ka ndị bi n'ala ahụ, ndị Kenaan, dị ala n'ihu ha, ma Ị na-enye ha n'aka ha, ⟨את⟩ ndị eze ha na ⟨את⟩ ndị ala ahụ, iji me ha ihe dịka obi ha chọrọ.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "batarakwa"
+      "gloss": "ma ha bata"
     },
     {
       "surface": "הבנים",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "ויירשו",
-      "gloss": "ketara"
+      "gloss": "ma ha nwe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ala"
+      "marks": "ala ahụ"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ala"
+      "gloss": "ala ahụ"
     },
     {
       "surface": "ותכנע",
-      "gloss": "Ị kwaturu ha"
+      "gloss": "ma Ị na-eme ka ha dị ala"
     },
     {
       "surface": "לפניהם",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "ותתנם",
-      "gloss": "Ị nyere ha"
+      "gloss": "ma Ị na-enye ha"
     },
     {
       "surface": "בידם",
@@ -73,19 +73,19 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ndị mba nke ala"
+      "marks": "ndị ala ahụ"
     },
     {
       "surface": "עממי",
-      "gloss": "ndị mba"
+      "gloss": "ndị"
     },
     {
       "surface": "הארץ",
-      "gloss": "nke ala"
+      "gloss": "ala ahụ"
     },
     {
       "surface": "לעשות",
-      "gloss": "ka ha wee mee"
+      "gloss": "iji me"
     },
     {
       "surface": "בהם",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "כרצונם",
-      "gloss": "dịka obi ha chọrụ"
+      "gloss": "dịka obi ha chọrọ"
     }
   ],
-  "timestamp": "2026-08-27T15:45:50.536008082Z",
+  "timestamp": "2026-08-27T17:58:15.911055563Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 8,
-  "translation": "obi gị ebuli elu, ma ị chefuo ⟨את⟩ Yahwe, Elohim gị, Onye mere ka ọ pụọ gị n'ala Mitzrayim, n'⟨the⟩ ụlọ ndị ohu;",
+  "translation": "ma obi gị bulie elu, ma ị chefuo Yahwe, Elohim gị, Onye na-ewepụta gị n'ala Mitzrayim, n'ụlọ ndị ohu.",
   "tokens": [
     {
       "surface": "ורם",
-      "gloss": "ebuli elu"
+      "gloss": "ma obi gị bulie elu"
     },
     {
       "surface": "לבבך",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahwe, Elohim gị"
+      "marks": "Yahwe"
     },
     {
       "surface": "יהוה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "המוציאך",
-      "gloss": "Onye mere ka ọ pụọ gị"
+      "gloss": "Onye na-ewepụta gị"
     },
     {
       "surface": "מארץ",
@@ -53,6 +53,6 @@
       "gloss": "ndị ohu"
     }
   ],
-  "timestamp": "2026-08-27T07:56:27.670724285Z",
+  "timestamp": "2026-08-27T17:35:15.207694914Z",
   "model": "glm-5.3"
 }

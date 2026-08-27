@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":42,"ref":"numbers 31:42","book":"numbers","lang":"ig","chapter":31,"translation":"Ma site na ọkara nke ụmụ Yisrael, nke Moshe kewara site n'aka ⟨the⟩ ndị ikom na-alụ agha,","tokens":[{"surface":"וממחצית","gloss":"ma site na ọkara nke"},{"surface":"בני","gloss":"ụmụ"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"אשר","gloss":"nke"},{"surface":"חצה","gloss":"kewara na abụọ"},{"surface":"משה","gloss":"Moshe"},{"surface":"מן","gloss":"site n'aka"},{"surface":"האנשים","gloss":"ndị ikom"},{"surface":"הצבאים","gloss":"na-alụ agha"}],"timestamp":"2026-08-27T16:28:41.116655410Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ma si n'ọkara nke ụmụ Yisrael, nke Moshe kewapụrụ n'aka ụmụ nwoke ndị agha agha, ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "Ma si n'ọkara nke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "kewapụrụ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si na"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "aka ụmụ nwoke ndị"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "agha agha"
+    }
+  ],
+  "timestamp": "2026-08-27T17:34:58.813086150Z",
+  "model": "glm-5.3"
+}

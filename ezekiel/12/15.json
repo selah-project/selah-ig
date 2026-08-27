@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Ha ga-amata na m bụ Yahwe, mgbe m kisasịrị ⟨אתם⟩ ha n'etiti mba ndị ọzọ, mgbe m gasasịrịkwa ⟨אתם⟩ ha n'ala ndị ọzọ.",
+  "translation": "Ha ga-amata na m bụ Yahwe, mgbe m na-ekesa ha n'etiti ndị mba ọzọ, ma na-mkpọsa ha n'ala ndị ọzọ.",
   "tokens": [
     {
       "surface": "וידעו",
@@ -25,24 +25,24 @@
     },
     {
       "surface": "בהפיצי",
-      "gloss": "mgbe m kisasịrị"
+      "gloss": "mgbe m na-ekesa"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "ha"
     },
     {
       "surface": "בגוים",
-      "gloss": "n'etiti mba ndị ọzọ"
+      "gloss": "n'etiti ndị mba ọzọ"
     },
     {
       "surface": "וזריתי",
-      "gloss": "mgbe m gasasịrịkwa"
+      "gloss": "ma na-mkpọsa"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "ha"
     },
     {
@@ -50,6 +50,6 @@
       "gloss": "n'ala ndị ọzọ"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.266431446Z",
+  "timestamp": "2026-08-27T17:48:11.651408366Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Ọ na-ewepụ obi isi ndị nke ⟨the⟩ ụwa, ma na-eme ka ha gafedo n'ihe efu na-enweghị ụzọ.",
+  "translation": "Ọ na-ewepụ obi nke ndị isi nke ndị ⟨nke⟩ ụwa, ma na-eduga ha n'ọgba agha, ebe enweghị ụzọ.",
   "tokens": [
     {
       "surface": "מסיר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ראשי",
-      "gloss": "isi"
+      "gloss": "ndị isi"
     },
     {
       "surface": "עם",
@@ -25,25 +25,25 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "nke ụwa"
+      "gloss": "ụwa"
     },
     {
       "surface": "ויתעם",
-      "gloss": "ma na-eme ka ha gafedo"
+      "gloss": "ma na-eduga ha n'ọgba agha"
     },
     {
       "surface": "בתהו",
-      "gloss": "n'ihe efu"
+      "gloss": "n'ọgba agha"
     },
     {
       "surface": "לא",
-      "gloss": "na-enweghị"
+      "gloss": "enweghị"
     },
     {
       "surface": "דרך",
       "gloss": "ụzọ"
     }
   ],
-  "timestamp": "2026-08-27T14:41:34.165418109Z",
+  "timestamp": "2026-08-27T17:55:16.958965205Z",
   "model": "glm-5.3"
 }

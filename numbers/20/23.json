@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 20,
-  "translation": "Yahwe wee soro Moshe na Aharon kwuo okwu n'ugwu Hor, n'ókèala ⟨the⟩ ala Edom, na-ekwu:",
+  "translation": "Yahwe wee soro Moshe na Aharon okwu na ugwu Hor, n'ókè ala Edom, ka o kwuru,",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "kwuo okwu wee"
+      "gloss": "Yahwe wee... soro... okwu"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "na soro"
+      "gloss": "na"
     },
     {
       "surface": "אהרן",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "בהר",
-      "gloss": "n'ugwu"
+      "gloss": "na ugwu"
     },
     {
       "surface": "ההר",
-      "gloss": "ugwu ahụ"
+      "gloss": "Hor ⟨ahụ⟩"
     },
     {
       "surface": "על",
-      "gloss": "n'ókèala"
+      "gloss": "n'ókè"
     },
     {
       "surface": "גבול",
-      "gloss": "ókèala"
+      "gloss": "n'ókè ala"
     },
     {
       "surface": "ארץ",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "na-ekwu"
+      "gloss": "ka o kwuru"
     }
   ],
-  "timestamp": "2026-08-27T07:31:42.944865472Z",
+  "timestamp": "2026-08-27T17:34:20.295609247Z",
   "model": "glm-5.3"
 }

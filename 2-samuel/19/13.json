@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 19,
-  "translation": "Ụmụnne m unu bụ, ọkpụkpụ m na anụ m unu bụ; ma gịnị mere na unu ga-abụ ndị ikpeazụ iji weghachite ⟨את⟩ ⟨the⟩ eze?",
+  "translation": "Ụmụnne m ka unọ, ọkpụkpụ m na anụ m ka unọ; gịnị mere na unọ ga-abụ ndị ikpeazụ n'ịkpọghachi ⟨את⟩ eze?",
   "tokens": [
     {
       "surface": "אחי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "unu"
+      "gloss": "unọ"
     },
     {
       "surface": "עצמי",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "אתם",
-      "gloss": "unu"
+      "gloss": "unọ"
     },
     {
       "surface": "ולמה",
-      "gloss": "ma gịnị mere"
+      "gloss": "ma gịnị mere na"
     },
     {
       "surface": "תהיו",
-      "gloss": "unu ga-abụ"
+      "gloss": "unọ ga-abụ"
     },
     {
       "surface": "אחרנים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "להשיב",
-      "gloss": "ị weghachi"
+      "gloss": "n'ịkpọghachi"
     },
     {
       "surface": "את",
@@ -53,6 +53,6 @@
       "gloss": "eze"
     }
   ],
-  "timestamp": "2026-08-27T16:36:38.196010499Z",
+  "timestamp": "2026-08-27T17:41:00.206757527Z",
   "model": "glm-5.3"
 }

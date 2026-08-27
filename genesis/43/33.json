@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":33,"ref":"genesis 43:33","book":"genesis","lang":"ig","chapter":43,"translation":"Ha nọdụrụ n'ihu ya: ⟨the⟩ nwa mbụ dịka oke mbụ ya, ma nwa ọdụdụ dịka obere afọ ya; ndị ikom ahụ mereghere anya, otu onye na onye ibe ya.","tokens":[{"surface":"וישבו","gloss":"nọdụrụ"},{"surface":"לפניו","gloss":"n'ihu ya"},{"surface":"הבכר","gloss":"nwa mbụ"},{"surface":"כבכרתו","gloss":"dịka oke mbụ ya"},{"surface":"והצעיר","gloss":"ma nwa ọdụdụ"},{"surface":"כצערתו","gloss":"dịka obere afọ ya"},{"surface":"ויתמהו","gloss":"mereghere anya (dị nwụrụ iheọhụ)"},{"surface":"האנשים","gloss":"ndị ikom ahụ"},{"surface":"איש","gloss":"otu onye"},{"surface":"אל","gloss":"ruo"},{"surface":"רעהו","gloss":"onye ibe ya"}],"timestamp":"2026-08-27T05:57:53.928868420Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 43:33",
+  "book": "genesis",
+  "lang": "ig",
+  "chapter": 43,
+  "translation": "Ha nọkwasịrị n'ihu ya, nwa mbụ dịka oke ụmụ ya dị, obere nwa dịka obere ụmụ ya dị, ndị ikom ahụ wee jụọ onwe ha ajụjụ, onye ọ bụla na-ele onye ya na ya dịkọrọ.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Ha nọkwasịrị"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "n'ihu ya"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "nwa mbụ"
+    },
+    {
+      "surface": "כבכרתו",
+      "gloss": "dịka oke ụmụ ya dị"
+    },
+    {
+      "surface": "והצעיר",
+      "gloss": "obere nwa"
+    },
+    {
+      "surface": "כצערתו",
+      "gloss": "dịka obere ụmụ ya dị"
+    },
+    {
+      "surface": "ויתמהו",
+      "gloss": "wee jụọ onwe ha ajụjụ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ndị ikom ahụ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "onye ọ bụla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na-ele"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "onye ya na ya dịkọrọ"
+    }
+  ],
+  "timestamp": "2026-08-27T17:29:22.565894705Z",
+  "model": "glm-5.3"
+}

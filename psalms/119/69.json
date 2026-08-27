@@ -5,28 +5,23 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 119,
-  "translation": "Tinyere n'elu m ⟨⟨את⟩⟩ ụgha ndị ukwu-nganga; m na-echebe iwu gị n'obi niile.",
+  "translation": "Ndị nzọ mbọ na-etinyere m asịgbu okwu ụgha; m na-ejide iwum Ị nyere iwu na mkpụrụ obi m niile.",
   "tokens": [
     {
       "surface": "טפלו",
-      "gloss": "tinyere"
+      "gloss": "ha-etinyere"
     },
     {
       "surface": "עלי",
-      "gloss": "n'elu m"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ụgha"
+      "gloss": "m"
     },
     {
       "surface": "שקר",
-      "gloss": "ụgha"
+      "gloss": "okwu ụgha"
     },
     {
       "surface": "זדים",
-      "gloss": "ndị ukwu-nganga"
+      "gloss": "ndị nzọ mbọ"
     },
     {
       "surface": "אני",
@@ -34,21 +29,21 @@
     },
     {
       "surface": "בכל",
-      "gloss": "n'...niile"
+      "gloss": "na … niile"
     },
     {
       "surface": "לב",
-      "gloss": "obi"
+      "gloss": "mkpụrụ obi"
     },
     {
       "surface": "אצר",
-      "gloss": "na-echebe"
+      "gloss": "na-ejide"
     },
     {
       "surface": "פקודיך",
-      "gloss": "iwu gị"
+      "gloss": "iwum Ị nyere iwu"
     }
   ],
-  "timestamp": "2026-08-27T14:03:35.197760200Z",
+  "timestamp": "2026-08-27T18:20:41.644083626Z",
   "model": "glm-5.3"
 }

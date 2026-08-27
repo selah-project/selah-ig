@@ -5,32 +5,32 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Ha anaghị agụọ akwụkwọ ⟨את⟩ ụmụ nwoke ndị a na-enye ⟨את⟩ ego n'aka ha iji nye ndị na-eme ọrụ ahụ, n'ihi na ha na-eme ya n'eziokwu.",
+  "translation": "Ma a naghị ede-ọnụ maka ⟨את⟩ ndị ikom ahụ a na-enyefe ⟨את⟩ ego n'aka ha iji nyere ndị na-eme ọrụ ya, n'ihi na ha na-eme ya n'eziokwu.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ha anaghị"
+      "gloss": "ma a naghị"
     },
     {
       "surface": "יחשבו",
-      "gloss": "agụọ akwụkwọ"
+      "gloss": "ede-ọnụ maka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ụmụ nwoke"
+      "marks": "ndị ikom ahụ"
     },
     {
       "surface": "האנשים",
-      "gloss": "⟨the⟩ ụmụ nwoke"
+      "gloss": "ndị ikom ahụ"
     },
     {
       "surface": "אשר",
-      "gloss": "ndị"
+      "gloss": "nke"
     },
     {
       "surface": "יתנו",
-      "gloss": "a na-enye"
+      "gloss": "a na-enyefe"
     },
     {
       "surface": "את",
@@ -39,19 +39,19 @@
     },
     {
       "surface": "הכסף",
-      "gloss": "⟨the⟩ ego"
+      "gloss": "ego"
     },
     {
       "surface": "על",
-      "gloss": "n'aka"
+      "gloss": "n'"
     },
     {
       "surface": "ידם",
-      "gloss": "ha"
+      "gloss": "aka ha"
     },
     {
       "surface": "לתת",
-      "gloss": "iji nye"
+      "gloss": "iji nyere"
     },
     {
       "surface": "לעשי",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "המלאכה",
-      "gloss": "⟨the⟩ ọrụ ahụ"
+      "gloss": "ọrụ"
     },
     {
       "surface": "כי",
@@ -78,6 +78,6 @@
       "gloss": "na-eme"
     }
   ],
-  "timestamp": "2026-08-27T10:21:08.341826667Z",
+  "timestamp": "2026-08-27T17:44:28.174376636Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,16 @@
   "book": "nehemiah",
   "lang": "ig",
   "chapter": 12,
-  "translation": "M mere ka ⟨את⟩ ndị isi Yehuda rịgoro n'elu mgbidi ahụ, ma guzobe ìgwè abụọ ukwu nke ekele na ndị na-aga ngagharị n'aka nri n'elu mgbidi ahụ ruo ọnụ ụzọ ámá unyi.",
+  "translation": "Mụ wee bulie ⟨את⟩ ndị isi Yehuda elu n'elu mgbidi ahụ, wee guzobe otu abụọ na-ekele ukwu ukwu, na ngagharị n'aka nri n'elu mgbidi ahụ ruo n'ọnụ ụzọ unyahụ.",
   "tokens": [
     {
-      "surface": "וילך",
-      "gloss": "Ọ gara"
+      "surface": "ואעלה",
+      "gloss": "mụ wee bulie elu"
     },
     {
-      "surface": "אחריהם",
-      "gloss": "⟨את⟩ n'azụ ha"
-    },
-    {
-      "surface": "הושעיה",
-      "gloss": "Hoshaya"
-    },
-    {
-      "surface": "וחצי",
-      "gloss": "na ọkara"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị isi Yehuda"
     },
     {
       "surface": "שרי",
@@ -30,8 +23,56 @@
     {
       "surface": "יהודה",
       "gloss": "Yehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "elu"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "n'elu mgbidi ahụ"
+    },
+    {
+      "surface": "ואעמידה",
+      "gloss": "mụ wee guzobe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abụọ"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "na-ekele"
+    },
+    {
+      "surface": "גדולת",
+      "gloss": "ukwu ukwu"
+    },
+    {
+      "surface": "ותהלכת",
+      "gloss": "na ngagharị"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "n'aka nri"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "elu"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "mgbidi ahụ"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "ruo ọnụ ụzọ"
+    },
+    {
+      "surface": "האשפת",
+      "gloss": "unyahụ"
     }
   ],
-  "timestamp": "2026-08-27T15:48:54.266863743Z",
+  "timestamp": "2026-08-27T17:58:25.173888188Z",
   "model": "glm-5.3"
 }

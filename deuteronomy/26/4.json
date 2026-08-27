@@ -5,27 +5,27 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 26,
-  "translation": "Onye-nchu-aja ga-ewere ⟨the⟩ nkata aka gị, tinye ya n'ihu ebe-ịchụ-aja nke Yahwe, Elohim gị.",
+  "translation": "Onye nchu aga ga-ewerekwa nkata ahụ n'aka gị, tinyekwa ya n'ihu ebe ịchụàjà Yahwe, Elohim gị.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "ga-ewere"
+      "gloss": "ga-ewerekwa"
     },
     {
       "surface": "הכהן",
-      "gloss": "⟨the⟩ onye-nchu-aja"
+      "gloss": "onye nchu aga"
     },
     {
       "surface": "הטנא",
-      "gloss": "⟨the⟩ nkata"
+      "gloss": "nkata ahụ"
     },
     {
       "surface": "מידך",
-      "gloss": "aka gị"
+      "gloss": "n'aka gị"
     },
     {
       "surface": "והניחו",
-      "gloss": "tinye ya"
+      "gloss": "ga-etinyekwa ya"
     },
     {
       "surface": "לפני",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מזבח",
-      "gloss": "ebe-ịchụ-aja"
+      "gloss": "ebe ịchụàjà"
     },
     {
       "surface": "יהוה",
@@ -44,6 +44,6 @@
       "gloss": "Elohim gị"
     }
   ],
-  "timestamp": "2026-08-27T08:09:31.811979279Z",
+  "timestamp": "2026-08-27T17:37:01.998267318Z",
   "model": "glm-5.3"
 }

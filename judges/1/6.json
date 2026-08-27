@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Adoni-Bezek gbapụrụ, ha jụsịrị ya ọsọ, jidekwa ⟨את⟩ ⟨אתו⟩ ya, wee bepụ ⟨את⟩ mkpọmkpọ ụkwụ aka ya na nke ukwu ya.",
+  "translation": "Adoni-Bezek gbapụrụ, ha chụkwara ya, jidekwa ⟨את⟩ ya, ma bepụ ⟨את⟩ mkpịsị ụkwụ aka ya na mkpịsị ụkwụ ụkwụ ya.",
   "tokens": [
     {
       "surface": "וינס",
@@ -21,33 +21,33 @@
     },
     {
       "surface": "וירדפו",
-      "gloss": "ha jụsịrị ọsọ"
+      "gloss": "chụkwara"
     },
     {
       "surface": "אחריו",
-      "gloss": "n'azụ ya"
+      "gloss": "ya"
     },
     {
       "surface": "ויאחזו",
-      "gloss": "ha jidere"
+      "gloss": "jidekwa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ya (Adoni-Bezek)"
+      "gloss": "⟨את⟩ ya",
+      "marks": "ya"
     },
     {
       "surface": "ויקצצו",
-      "gloss": "ha bepụrụ"
+      "gloss": "bepụ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mkpọmkpọ ụkwụ aka na ukwu"
+      "marks": "mkpịsị ụkwụ aka ya na mkpịsị ụkwụ ụkwụ ya"
     },
     {
       "surface": "בהנות",
-      "gloss": "mkpọmkpọ ụkwụ (aka\/ukwu)"
+      "gloss": "mkpịsị ụkwụ"
     },
     {
       "surface": "ידיו",
@@ -55,9 +55,9 @@
     },
     {
       "surface": "ורגליו",
-      "gloss": "ukwu ya"
+      "gloss": "ụkwụ ya"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.235744144Z",
+  "timestamp": "2026-08-27T17:37:54.562108172Z",
   "model": "glm-5.3"
 }

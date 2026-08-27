@@ -5,33 +5,34 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 103,
-  "translation": "Onye na-emeju gị ⟨the⟩ ezigbo ihe, ⟨the⟩ ihe ịchọ mma gị; ndụ gị na-emị ọhụrụ dịka nụrụ, ntọala obi ndị ntorobịa gị.",
+  "translation": "Onye na-emeju afọ gị na ihe ọma — ejiji mma gị; na-eme ka ọ dị ọhụrụ dịka nwamba ugo, ndụ ntorobịa gị.",
   "tokens": [
     {
       "surface": "המשביע",
-      "gloss": "Onye na-emeju gị"
+      "gloss": "Onye na-emeju afọ gị"
     },
     {
       "surface": "בטוב",
-      "gloss": "ezigbo ihe"
+      "gloss": "na ihe ọma"
     },
     {
       "surface": "עדיך",
-      "gloss": "ihe ịchọ mma gị"
+      "gloss": "ejiji mma gị",
+      "marks": "ejiji mma gị"
     },
     {
       "surface": "תתחדש",
-      "gloss": "na-emị ọhụrụ"
+      "gloss": "na-eme ka ọ dị ọhụrụ"
     },
     {
       "surface": "כנשר",
-      "gloss": "dịka nụrụ"
+      "gloss": "dịka nwamba ugo"
     },
     {
       "surface": "נעוריכי",
-      "gloss": "ntọala obi ndị ntorobịa gị"
+      "gloss": "ndụ ntorobịa gị"
     }
   ],
-  "timestamp": "2026-08-27T13:53:01.528202415Z",
+  "timestamp": "2026-08-27T18:16:27.989194107Z",
   "model": "glm-5.3"
 }

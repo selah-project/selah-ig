@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "2-kings 24:18",
-  "book": "2-kings",
-  "lang": "ig",
-  "chapter": 24,
-  "translation": "בן nke afọ iri abụọ na otu צדקיהו במלכו",
-  "tokens": [],
-  "timestamp": "2026-08-27T10:31:09.780026676Z",
-  "model": "glm-5.3"
-}
+{"tier": "glm-5.2", "verse": 18, "ref": "2-kings 24:18", "book": "2-kings", "lang": "ig", "chapter": 24, "translation": "Nwa afọ iri abụọ na otu afọ Tsidkiyahu n'ọchịchị ya, ma otu afọ nke iri ọchịchịrị na Yerushalayim; aha nne ya bụ Chamutal, nwa nwanyị Yirmeyahu nke Livna.", "tokens": [{"surface": "בן", "gloss": "nwa"}, {"surface": "עשרים", "gloss": "iri abụọ"}, {"surface": "ואחת", "gloss": "na otu"}, {"surface": "שנה", "gloss": "afọ"}, {"surface": "צדקיהו", "gloss": "Tsidkiyahu"}, {"surface": "במלכו", "gloss": "n'ọchịchị ya"}, {"surface": "ואחת", "gloss": "ma otu"}, {"surface": "עשרה", "gloss": "iri"}, {"surface": "שנה", "gloss": "afọ"}, {"surface": "מלך", "gloss": "ọchịchịrị"}, {"surface": "בירושלם", "gloss": "na Yerushalayim"}, {"surface": "ושם", "gloss": "ma aha"}, {"surface": "אמו", "gloss": "nne ya"}, {"surface": "חמיטל", "gloss": "Chamutal"}, {"surface": "בת", "gloss": "nwa nwanyị"}, {"surface": "ירמיהו", "gloss": "Yirmeyahu"}, {"surface": "מלבנה", "gloss": "nke Livna"}], "timestamp": "2026-08-27T18:28:49.374130461Z", "model": "glm-5.3"}

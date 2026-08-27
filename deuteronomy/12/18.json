@@ -5,11 +5,15 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Kama n'ihu Yahwe Elohim gị ka  ga-eri ya, n'ebe Yahwe Elohim gị ga-họrọ, gị na nwa gị nwoke na nwa gị nwaanyị, na ohu gị na odibo gị, na Onye-Levi nke dị n'ọnụ ụzọ gị; ma  ga-enwe ọṅụ n'ihu Yahwe Elohim gị na ihe niile ị na-etinye aka gị.",
+  "translation": "kama n'ihu Yahwe, Elohim gị, ka ọ ga-eri ya, n'ebe Yahwe, Elohim gị, ga-ahọrọ, gị n'onwe gị, na nwa gị nwoke, na nwa gị nwaanyị, na ohu gị nwoke, na ohu gị nwaanyị, na onye-Levi nke dị n'ime ọnụ ụzọ́ gị; ma ị ga-anụ ụtọ n'ihu Yahwe, Elohim gị, na ihe niile ị na-atụ aka gị n'ime:",
   "tokens": [
     {
-      "surface": "כי אם",
-      "gloss": "Kama"
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kama"
     },
     {
       "surface": "לפני",
@@ -25,7 +29,7 @@
     },
     {
       "surface": "תאכלנו",
-      "gloss": " ka  ga-eri ya"
+      "gloss": "ọ ga-eri ya"
     },
     {
       "surface": "במקום",
@@ -33,11 +37,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ndị"
+      "gloss": "nke"
     },
     {
       "surface": "יבחר",
-      "gloss": " ga-họrọ"
+      "gloss": "ọ ga-ahọrọ"
     },
     {
       "surface": "יהוה",
@@ -53,7 +57,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "gị"
+      "gloss": "gị n'onwe gị"
     },
     {
       "surface": "ובנך",
@@ -65,27 +69,27 @@
     },
     {
       "surface": "ועבדך",
-      "gloss": "na ohu gị"
+      "gloss": "na ohu gị nwoke"
     },
     {
       "surface": "ואמתך",
-      "gloss": "na odibo gị"
+      "gloss": "na ohu gị nwaanyị"
     },
     {
       "surface": "והלוי",
-      "gloss": "na Onye-Levi"
+      "gloss": "na onye-Levi"
     },
     {
       "surface": "אשר",
-      "gloss": "nke dị"
+      "gloss": "nke"
     },
     {
       "surface": "בשעריך",
-      "gloss": "n'ọnụ ụzọ gị"
+      "gloss": "n'ime ọnụ ụzọ́ gị"
     },
     {
       "surface": "ושמחת",
-      "gloss": " ga-enwe ọṅụ"
+      "gloss": "ma ị ga-anụ ụtọ"
     },
     {
       "surface": "לפני",
@@ -105,13 +109,13 @@
     },
     {
       "surface": "משלח",
-      "gloss": "ị na-etinye"
+      "gloss": "ị na-atụ"
     },
     {
       "surface": "ידך",
       "gloss": "aka gị"
     }
   ],
-  "timestamp": "2026-08-27T08:01:29.044101153Z",
+  "timestamp": "2026-08-27T17:36:50.327415205Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 10,
-  "translation": "Naanị mmehie Yarovam, nwa Nevat, nke o ji mee ka ⟨את⟩ Yisraelayị meehie, Yehu apụghị ịhapụ ha — ụmụ ehi ⟨the⟩ ọlaedo ndị dị na Bet-El na ndị dị na Dan.",
+  "translation": "Naanị mmehie Yarovam nwa Nevat, nke o mere ka Israel meehie ⟨את⟩, Yehu apụghị n'azụ ha — ndị ehi ọlaedo ndị dị na Veit-El na ndị dị na Dan.",
   "tokens": [
     {
       "surface": "רק",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "החטיא",
-      "gloss": "mee ka... meehie"
+      "gloss": "mere ka ... meehie"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisraelayị"
+      "marks": "Israel"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraelayị"
+      "gloss": "Israel"
     },
     {
       "surface": "לא",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "סר",
-      "gloss": "hapụ"
+      "gloss": "pụghị"
     },
     {
       "surface": "יהוא",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "מאחריהם",
-      "gloss": "ha"
+      "gloss": "n'azụ ha"
     },
     {
       "surface": "עגלי",
-      "gloss": "ụmụ ehi"
+      "gloss": "ndị ehi"
     },
     {
       "surface": "הזהב",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bet"
+      "gloss": "Veit-El"
     },
     {
       "surface": "אל",
@@ -89,6 +89,6 @@
       "gloss": "Dan"
     }
   ],
-  "timestamp": "2026-08-27T16:38:44.360320100Z",
+  "timestamp": "2026-08-27T17:43:26.628135570Z",
   "model": "glm-5.3"
 }

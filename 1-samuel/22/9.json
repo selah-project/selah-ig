@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 22,
-  "translation": "Doeg the Edomite answered, and he standing over the servants of Shaʼul, and he said: I saw ⟨את⟩ the son of Yishai come to Nobe, to Achimelech the son of Achituv.",
+  "translation": "Ma Doeg onye Edom zara, n'ihi na ⟨ọ⟩ guzoro n'elu ndị ohu Shaül, ma sị: M hụrụ ⟨את⟩ nwa Yishai na-aga Nob, gara Ahimelekh nwa Ahitub.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "ọ zaghịrị"
+      "gloss": "ma zara"
     },
     {
       "surface": "דאג",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "והוא",
-      "gloss": "ọ bụ ezie na ọ"
+      "gloss": "⟨ọ⟩"
     },
     {
       "surface": "נצב",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "על",
-      "gloss": "elu"
+      "gloss": "n'elu"
     },
     {
       "surface": "עבדי",
-      "gloss": "ọrụ nke"
+      "gloss": "ndị ohu"
     },
     {
       "surface": "שאול",
-      "gloss": "Shaʼul"
+      "gloss": "Shaül"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ọ sịrị"
+      "gloss": "ma sị"
     },
     {
       "surface": "ראיתי",
@@ -50,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nwa nke Yishai"
+      "marks": "nwa Yishai"
     },
     {
       "surface": "בן",
@@ -62,19 +62,19 @@
     },
     {
       "surface": "בא",
-      "gloss": "na-abịa"
+      "gloss": "na-aga"
     },
     {
       "surface": "נבה",
-      "gloss": "Nobe"
+      "gloss": "Nob"
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "gara"
     },
     {
       "surface": "אחימלך",
-      "gloss": "Achimelech"
+      "gloss": "Ahimelekh"
     },
     {
       "surface": "בן",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "אחטוב",
-      "gloss": "Achituv"
+      "gloss": "Ahitub"
     }
   ],
-  "timestamp": "2026-08-27T09:18:56.453918522Z",
+  "timestamp": "2026-08-27T17:39:48.322755053Z",
   "model": "glm-5.3"
 }

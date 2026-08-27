@@ -5,23 +5,23 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Ka ọ ka na-ekwurịta okwu ⟨na⟩ ha, le, onye-ozi ahụ na-adakwasịrị ya ruo n'ala, ma o sị, Le, nsogbu a ⟨is⟩ ⟨את⟩ nke si n'aka Yahwe; mụ onwem, gịnị ka m ga-ejere Yahwe chere ọzọ?",
+  "translation": "Ka ọ ka na-ekwurịta okwu ha, gụnụa, onye-ozi ahụ na-ada bịara ya, o wee sị: Gụnụa, nsogbu a bụ nke ⟨את⟩ Yahwe; gịnị ka m ga-echebe Yahwe ọzọ?",
   "tokens": [
     {
       "surface": "עודנו",
-      "gloss": "ka ọ ka"
+      "gloss": "ka ọ ka na-"
     },
     {
       "surface": "מדבר",
-      "gloss": "na-ekwurịta okwu"
+      "gloss": "ekwurịta okwu"
     },
     {
       "surface": "עמם",
-      "gloss": "⟨na⟩ ha"
+      "gloss": "ha"
     },
     {
       "surface": "והנה",
-      "gloss": "ma le"
+      "gloss": "gụnụa"
     },
     {
       "surface": "המלאך",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "ירד",
-      "gloss": "na-adakwasịrị"
+      "gloss": "na-ada"
     },
     {
       "surface": "אליו",
-      "gloss": "ya ruo n'ala"
+      "gloss": "bịara ya"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ma o sị"
+      "gloss": "o wee sị"
     },
     {
       "surface": "הנה",
-      "gloss": "le"
+      "gloss": "gụnụa"
     },
     {
       "surface": "זאת",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ nke si n'aka",
+      "gloss": "⟨את⟩",
       "marks": "Yahwe"
     },
     {
@@ -62,11 +62,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "mụ onwem, gịnị ka"
+      "gloss": "gịnị"
     },
     {
       "surface": "אוחיל",
-      "gloss": "m ga-ejere chere"
+      "gloss": "ga-echebe"
     },
     {
       "surface": "ליהוה",
@@ -77,6 +77,6 @@
       "gloss": "ọzọ"
     }
   ],
-  "timestamp": "2026-08-27T10:12:58.316105942Z",
+  "timestamp": "2026-08-27T17:43:42.441779461Z",
   "model": "glm-5.3"
 }

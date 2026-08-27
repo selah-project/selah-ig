@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "ig",
   "chapter": 14,
-  "translation": "Ma Davịd jụrụ Elohim, sị, M ga-erule n'elu ndị Filistia, ị ga-enye ha n'aka m? Ma Yahwe sị ya, Ruo, m ga-enye ha n'aka gị.",
+  "translation": "David wee jụọ Elohim, sị, M ga-elu megide ndị Pelishtiyim, ma nye ha n'aka m? Yahwe wee sị ya, Elu, m ga-enye ha n'aka gị.",
   "tokens": [
     {
       "surface": "וישאל",
-      "gloss": "ma Davịd jụrụ"
+      "gloss": "jụọ"
     },
     {
       "surface": "דויד",
-      "gloss": "Davịd"
+      "gloss": "David"
     },
     {
       "surface": "באלהים",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "האעלה",
-      "gloss": "m ga-erule"
+      "gloss": "M ga-elu"
     },
     {
       "surface": "על",
-      "gloss": "n'elu"
+      "gloss": "megide"
     },
     {
       "surface": "פלשתיים",
-      "gloss": "ndị Filistia"
+      "gloss": "ndị Pelishtiyim"
     },
     {
       "surface": "ונתתם",
-      "gloss": "ị ga-enye ha"
+      "gloss": "ma nye ha"
     },
     {
       "surface": "בידי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ma Yahwe sị"
+      "gloss": "sị"
     },
     {
       "surface": "לו",
@@ -57,11 +57,7 @@
     },
     {
       "surface": "עלה",
-      "gloss": "ruo"
-    },
-    {
-      "surface": "וונתתים",
-      "gloss": ""
+      "gloss": "Elu"
     },
     {
       "surface": "ונתתים",
@@ -72,6 +68,6 @@
       "gloss": "n'aka gị"
     }
   ],
-  "timestamp": "2026-08-27T16:00:04.975891318Z",
+  "timestamp": "2026-08-27T17:58:40.739539339Z",
   "model": "glm-5.3"
 }

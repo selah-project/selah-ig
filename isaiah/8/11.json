@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 8,
-  "translation": "N'ihi na otu a ka Yahwe siri gwuo m, n'ike nke ⟨the⟩ aka, na-ezọ m ihe mgbaàmà na m na-esoghị n'⟨the⟩ ụzọ nke ⟨the⟩ ama a, na-asị:",
+  "translation": "N'ihi na Yahwe siri m n'ụzọ a, ka ike nke ⟨aka⟩ siri dị, ma ọ dọrọ m ndụ ka m ghara ịga n'ụzọ ndị a ka, na-asị:",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "otu a"
+      "gloss": "n'ụzọ a"
     },
     {
       "surface": "אמר",
-      "gloss": "si gwuo"
+      "gloss": "siri"
     },
     {
       "surface": "יהוה",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "כחזקת",
-      "gloss": "n'ike nke"
+      "gloss": "ka ike siri dị"
     },
     {
       "surface": "היד",
-      "gloss": "aka"
+      "gloss": "⟨aka⟩"
     },
     {
       "surface": "ויסרני",
-      "gloss": "na-ezọ m ihe mgbaàmà"
+      "gloss": "ma ọ dọrọ m ndụ"
     },
     {
       "surface": "מלכת",
-      "gloss": "na m na-esoghị"
+      "gloss": "ka m ghara ịga"
     },
     {
       "surface": "בדרך",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "nke ama"
+      "gloss": "ndị a ka"
     },
     {
       "surface": "הזה",
@@ -60,6 +60,6 @@
       "gloss": "na-asị"
     }
   ],
-  "timestamp": "2026-08-27T10:36:03.827213561Z",
+  "timestamp": "2026-08-27T17:44:34.673406733Z",
   "model": "glm-5.3"
 }

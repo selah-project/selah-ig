@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 27,
-  "translation": "Ga-abụ na n'ụbọchị ahụ, Yahwe ga-akụ ya site n'ọkpụlọkpụ nke ⟨the⟩ osimiri ahụ ruo n'osimara Mitzrayim, ma unu, ụmụ Israel, a ga-achịkọta unu otu n'otu.",
+  "translation": "Ọ ga-abụ n'ụbọchị ahụ, Yahwe ga-akụ̄ ⟨את⟩ mkpụrụ site n'ọwa nke osimiri ruo n'olulu mmiri nke Mitsrajim; unu ga-elekọta onye ọ bụla n'otu n'otu, ụmụ Israel.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "ga-abụ na"
+      "gloss": "ọ ga-abụ"
     },
     {
       "surface": "ביום",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יחבט",
-      "gloss": "ga-akụ"
+      "gloss": "ga-akụ̄"
     },
     {
       "surface": "יהוה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "משבלת",
-      "gloss": "site n'ọkpụlọkpụ"
+      "gloss": "site n'ọwa"
     },
     {
       "surface": "הנהר",
-      "gloss": "nke osimiri ahụ"
+      "gloss": "nke osimiri"
     },
     {
       "surface": "עד",
@@ -41,23 +41,23 @@
     },
     {
       "surface": "נחל",
-      "gloss": "osimara"
+      "gloss": "olulu mmiri"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitzrayim"
+      "gloss": "nke Mitzrajim"
     },
     {
       "surface": "ואתם",
-      "gloss": "ma unu"
+      "gloss": "unu"
     },
     {
       "surface": "תלקטו",
-      "gloss": "a ga-achịkọta unu"
+      "gloss": "ga-elekọta"
     },
     {
       "surface": "לאחד",
-      "gloss": "otu"
+      "gloss": "n'otu"
     },
     {
       "surface": "אחד",
@@ -72,6 +72,6 @@
       "gloss": "Israel"
     }
   ],
-  "timestamp": "2026-08-27T10:46:53.103951729Z",
+  "timestamp": "2026-08-27T17:45:27.456986149Z",
   "model": "glm-5.3"
 }

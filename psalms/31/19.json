@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":19,"ref":"psalms 31:19","book":"psalms","lang":"ig","chapter":31,"translation":"Ka mkpụrụ ọnụ asị ịghara ikwu okwu — ⟨דɓị na-ekwu okwu megide onye ezi omume⟩ ihe mkparị, n'obi ọgaranya na nlelị.","tokens":[{"surface":"תאלמנה","gloss":"ka ha ịghara ikwu okwu"},{"surface":"שפתי","gloss":"mkpụrụ ọnụ"},{"surface":"שקר","gloss":"asị"},{"surface":"הדברות","gloss":"ndị na-ekwu okwu"},{"surface":"על","gloss":"megide"},{"surface":"צדיק","gloss":"onye ezi omume"},{"surface":"עתק","gloss":"ihe mkparị"},{"surface":"בגאוה","gloss":"n'obi ọgaranya"},{"surface":"ובוז","gloss":"na nlelị"}],"timestamp":"2026-08-27T13:23:27.101848290Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "ig",
+  "chapter": 31,
+  "translation": "Ka egbochi mkpụrụ ọnụ nke ụgha — ⟨ndị⟩ na-ekwu okwu mkparị n'elu onye ezi omume, ihe nzọ nwụnaanwụ, na mpako na nlelina anya.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "Ka egbochi (ụmụ ọnụ)"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mkpụrụ ọnụ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nke ụgha"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "na-ekwu okwu mkparị"
+    },
+    {
+      "surface": "על",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "onye ezi omume"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ihe nzọ nwụnaanwụ"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "na mpako"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "na nlelina anya"
+    }
+  ],
+  "timestamp": "2026-08-27T17:53:27.370314432Z",
+  "model": "glm-5.3"
+}

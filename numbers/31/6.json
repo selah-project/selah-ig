@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 31,
-  "translation": "Moshe zitere ⟨אתם⟩ — otu puku maka ime obodo ọ bụla — maka agha: ⟨אתם⟩ na ⟨את⟩ Phinchas nwa Elazar onye nchuaja, maka agha; na ngwa ⟨the⟩ nsọ na ụgbọ ndị mkpu Ọ na aka ya.",
+  "translation": "Moshe zitere ⟨את⟩ ha — otu puku maka agbụrụ ọ bụla, maka agha — ⟨את⟩ ha na ⟨את⟩ Pinehas nwa Elazar onye nchuaja, maka agha, na ihe ndị dị nsọ na ọkpọkọ nke mkpu n'aka ya.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ọ zitere"
+      "gloss": "zitere"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "ha (ndị agha ahụ)"
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha (otu puku ahụ)"
     },
     {
       "surface": "משה",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "למטה",
-      "gloss": "maka ime obodo ọ bụla"
+      "gloss": "maka agbụrụ ọ bụla"
     },
     {
       "surface": "לצבא",
@@ -34,17 +34,17 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩ ha",
       "marks": "ha"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Phinchas"
+      "gloss": "⟨את⟩ na",
+      "marks": "Pinehas"
     },
     {
       "surface": "פינחס",
-      "gloss": "Phinchas"
+      "gloss": "Pinehas"
     },
     {
       "surface": "בן",
@@ -64,25 +64,25 @@
     },
     {
       "surface": "וכלי",
-      "gloss": "na ngwa"
+      "gloss": "na ihe ndị"
     },
     {
       "surface": "הקדש",
-      "gloss": "nsọ"
+      "gloss": "dị nsọ"
     },
     {
       "surface": "וחצצרות",
-      "gloss": "na ụgbọ ndị"
+      "gloss": "na ọkpọkọ"
     },
     {
       "surface": "התרועה",
-      "gloss": "mkpu"
+      "gloss": "nke mkpu"
     },
     {
       "surface": "בידו",
       "gloss": "n'aka ya"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.279164727Z",
+  "timestamp": "2026-08-27T17:35:18.468301522Z",
   "model": "glm-5.3"
 }

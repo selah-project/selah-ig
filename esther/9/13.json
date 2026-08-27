@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "ig",
   "chapter": 9,
-  "translation": "Ester we kwuru, sị: Ọ bụrụ na ọ dị mma n'ebe ⟨the⟩ eze nọ, ka e nyekwa ndị Yehudi ndị nọ na Shushan echi ka ha mee dịka iwu ụbọchị taa si dị, ma ka ha kwụsie ⟨את⟩ ụmụ nwoke iri nke Haman n'osisi.",
+  "translation": "Ester wee sị: Ọ bụrụ na ọ dị eze mma, ka e nye ndị Yehuda nke nọ na Shushan nzọụkwụ echi ka ha mee dịka iwu ụbọchị taa, ma ka mmadụ nọrọ ụmụ Haman iri n'elu osisi.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "we kwuru"
+      "gloss": "wee sị"
     },
     {
       "surface": "אסתר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "על",
-      "gloss": "n'ebe"
+      "gloss": "na"
     },
     {
       "surface": "המלך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ינתן",
-      "gloss": "ka e nyekwa"
+      "gloss": "ka e nye"
     },
     {
       "surface": "גם",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "מחר",
-      "gloss": "echi"
+      "gloss": "nzọụkwụ echi"
     },
     {
       "surface": "ליהודים",
-      "gloss": "ndị Yehudi"
+      "gloss": "ndị Yehuda"
     },
     {
       "surface": "אשר",
-      "gloss": "ndị"
+      "gloss": "nke"
     },
     {
       "surface": "בשושן",
-      "gloss": "na Shushan"
+      "gloss": "nọ na Shushan"
     },
     {
       "surface": "לעשות",
@@ -70,7 +70,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ụmụ nwoke iri"
+      "marks": "ụmụ Haman iri"
     },
     {
       "surface": "עשרת",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "ụmụ nwoke"
+      "gloss": "ụmụ"
     },
     {
       "surface": "המן",
@@ -86,17 +86,17 @@
     },
     {
       "surface": "יתלו",
-      "gloss": "ha kwụsie"
+      "gloss": "ka a nọrọ"
     },
     {
       "surface": "על",
-      "gloss": "n'"
+      "gloss": "n'elu"
     },
     {
       "surface": "העץ",
       "gloss": "osisi"
     }
   ],
-  "timestamp": "2026-08-27T15:23:18.447843655Z",
+  "timestamp": "2026-08-27T17:57:31.925713682Z",
   "model": "glm-5.3"
 }

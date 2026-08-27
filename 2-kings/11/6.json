@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 11,
-  "translation": "na otu n'ime ụzọ atọ n'ọnụ ụzọ Sur, na otu n'ime ụzọ atọ n'ọnụ ụzọ dị n'azụ ndị na-agba ọsọ; unu ga-elekọta ⟨את⟩ nche nke ⟨the⟩ ụlọ, dịka mgbochi.",
+  "translation": "Nkeji atọ n'ọnụ ụzọ Sur, nakwa nkeji atọ n'ọnụ ụzọ n'azụ ndị na-agba ọsọ; unu ga-eche ⟨את⟩ nche nke ụlọ ahụ dịka mgbidi.",
   "tokens": [
     {
       "surface": "והשלשית",
-      "gloss": "na otu n'ime ụzọ atọ"
+      "gloss": "nkeji atọ"
     },
     {
       "surface": "בשער",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "והשלשית",
-      "gloss": "na otu n'ime ụzọ atọ"
+      "gloss": "nakwa nkeji atọ"
     },
     {
       "surface": "בשער",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "ושמרתם",
-      "gloss": "unu ga-elekọta"
+      "gloss": "unu ga-eche"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nche"
+      "marks": "nche nke ụlọ ahụ"
     },
     {
       "surface": "משמרת",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "הבית",
-      "gloss": "ụlọ"
+      "gloss": "nke ụlọ ahụ"
     },
     {
       "surface": "מסח",
-      "gloss": "mgbochi"
+      "gloss": "dịka mgbidi"
     }
   ],
-  "timestamp": "2026-08-27T10:16:48.866601867Z",
+  "timestamp": "2026-08-27T17:43:25.774036418Z",
   "model": "glm-5.3"
 }

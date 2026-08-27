@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 20,
-  "translation": "Ndị a bụ obodo ⟨nke e kenyere⟩ maka ụmụ niile nke Yisrael, nakwa maka onye ọbịa nke na-ebi n'etiti ha, ka onye ọ bụla na-akụ ⟨את⟩ mmadụ n'ọnwụ na-amaghị ihe nwere ike ịgbapụ ebe ahụ, ma ọ gaghị anwụ n'aka onye mgbapụta ọbara ruo mgbe ọ guzosiri n'ihu nzukọ ahụ.",
+  "translation": "Ndị a bụ obodo ndị a họpụtara maka ụmụ Yisrael niile, yana maka onye ọbịa bi n'etiti ha, ka onye ọ bụla na-akụ onye nwụrụ anwụ n'amaghị ama nwee ike ịgbaba ebe ahụ, ma ghara ịnwụ n'aka onye mgbapụta ọbara, ruo mgbe ọ guzosiri n'ihu nnọkọ ahụ.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "ndị a"
+      "gloss": "Ndị a"
     },
     {
       "surface": "היו",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "המועדה",
-      "gloss": "⟨nke e kenyere⟩"
+      "gloss": "ndị a họpụtara"
     },
     {
       "surface": "לכל",
-      "gloss": "maka ụmụ niile"
+      "gloss": "maka niile"
     },
     {
       "surface": "בני",
-      "gloss": "nke"
+      "gloss": "ụmụ"
     },
     {
       "surface": "ישראל",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ולגר",
-      "gloss": "nakwa maka onye ọbịa"
+      "gloss": "yana maka onye ọbịa"
     },
     {
       "surface": "הגר",
-      "gloss": "nke na-ebi"
+      "gloss": "onye bi n'ala ọzọ"
     },
     {
       "surface": "בתוכם",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לנוס",
-      "gloss": "ka ọ gbapụ"
+      "gloss": "ka ọ gbaba"
     },
     {
       "surface": "שמה",
@@ -64,25 +64,20 @@
       "gloss": "na-akụ"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "mmadụ n'ọnwụ"
-    },
-    {
       "surface": "נפש",
-      "gloss": "mmadụ n'ọnwụ"
+      "gloss": "onye nwụrụ anwụ"
     },
     {
       "surface": "בשגגה",
-      "gloss": "na-amaghị ihe"
+      "gloss": "n'amaghị ama"
     },
     {
       "surface": "ולא",
-      "gloss": "ma ọ gaghị"
+      "gloss": "ma ghara"
     },
     {
       "surface": "ימות",
-      "gloss": "anwụ"
+      "gloss": "ịnwụ"
     },
     {
       "surface": "ביד",
@@ -110,9 +105,9 @@
     },
     {
       "surface": "העדה",
-      "gloss": "nzukọ ahụ"
+      "gloss": "nnọkọ ahụ"
     }
   ],
-  "timestamp": "2026-08-27T08:34:25.860421206Z",
+  "timestamp": "2026-08-27T17:38:16.826755560Z",
   "model": "glm-5.3"
 }

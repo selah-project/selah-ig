@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 14,
-  "translation": "⟨את⟩ ọkwá nkume nke mbụ na-eguzo n'akuku ugwu, n'ihu Mikmash, ma nke ọzọ n'akuku ndịda, n'ihu Geba. (Mkpebi: nsonso mkpụrụ okwu: השן = crag ọkwá nkume, האחד = nke mbụ, מצוק = כּוֹבֶץ flat raised crag, מול = directly opposite n'ihu \/ מול.)",
+  "translation": "⟨isi⟩ nke ⟨nkume⟩ nke mbụ guzosiri n'akuku ugwu n'ihu Mikmash, nke ọzọ n'akuku ndịda n'ihu Geva.",
   "tokens": [
     {
       "surface": "השן",
-      "gloss": "ọkwá nkume"
+      "gloss": "⟨isi⟩"
     },
     {
       "surface": "האחד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מצוק",
-      "gloss": "na-eguzo elu"
+      "gloss": "⟨nkume⟩ dị mkpụmkpụ"
     },
     {
       "surface": "מצפון",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "גבע",
-      "gloss": "Geba"
+      "gloss": "Geva"
     }
   ],
-  "timestamp": "2026-08-27T09:08:09.680111923Z",
+  "timestamp": "2026-08-27T17:38:53.252799300Z",
   "model": "glm-5.3"
 }

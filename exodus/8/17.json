@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 8,
-  "translation": "Ma ọ bụrụ na ị na-ezughị ⟨את⟩ ndị m, lee, m na-ezitere n'ahụ gị, na n'ọrụ gị, na n'ahụ gị, na n'ụlọ gị ⟨את⟩ mwumba; ụlọ ndị Mitzrayim ga-ejupụta na mwumba, nakwa ⟨the⟩ ala ha nọ na ya.",
+  "translation": "N'ihi na ọ bụrụ na ị na-ezipụghị ⟨את⟩ ndị m, lee, m na-eziga n'ahụ gị, na n'ahụ ndị ohu gị, na n'ahụ ndị gị, na n'ime ụlọ gị ⟨את⟩ anwụnta; ụlọ ndị Mitzrayim ga-ejupụta na ⟨את⟩ anwụnta, nakwa ala ahụ ha nọkwa ya.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ma"
+      "gloss": "n'ihi na"
     },
     {
       "surface": "אם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אינך",
-      "gloss": "ị na-ezughị"
+      "gloss": "ị na-...-ghị"
     },
     {
       "surface": "משלח",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "הנני",
-      "gloss": "lee m"
+      "gloss": "lee"
     },
     {
       "surface": "משליח",
-      "gloss": "na-ezitere"
+      "gloss": "m na-eziza"
     },
     {
       "surface": "בך",
@@ -46,24 +46,24 @@
     },
     {
       "surface": "ובעבדיך",
-      "gloss": "na n'ọrụ gị"
+      "gloss": "na n'ahụ ndị ohu gị"
     },
     {
       "surface": "ובעמך",
-      "gloss": "na n'ahụ gị"
+      "gloss": "na n'ahụ ndị gị"
     },
     {
       "surface": "ובבתיך",
-      "gloss": "na n'ụlọ gị"
+      "gloss": "na n'ime ụlọ gị"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mwumba"
+      "marks": "anwụnta"
     },
     {
       "surface": "הערב",
-      "gloss": "mwumba"
+      "gloss": "anwụnta"
     },
     {
       "surface": "ומלאו",
@@ -75,16 +75,16 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitzrayim"
+      "gloss": "ndị Mitzrayim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mwumba"
+      "marks": "anwụnta"
     },
     {
       "surface": "הערב",
-      "gloss": "mwumba"
+      "gloss": "anwụnta"
     },
     {
       "surface": "וגם",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "ahụ"
     },
     {
       "surface": "הם",
@@ -104,9 +104,9 @@
     },
     {
       "surface": "עליה",
-      "gloss": "ha nọ na ya"
+      "gloss": "nọkwa ya"
     }
   ],
-  "timestamp": "2026-08-27T06:12:23.431907017Z",
+  "timestamp": "2026-08-27T17:30:45.690666812Z",
   "model": "glm-5.3"
 }

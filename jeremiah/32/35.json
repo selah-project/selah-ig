@@ -5,20 +5,20 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 32,
-  "translation": "Ha rụrụ ⟨את⟩ ebe dị elu nke Baal, nke dị n'ime ndidi Ben-Hinnom, iji gafee ⟨את⟩ ụmụ nwoke ha na ⟨את⟩ ụmụ nwanyị ha nye Molech, nke m nyeghị ha iwu, ọ dịghịkwa elu n'obi m ime ⟨the⟩ ihe jọrọ njọ a, iji mee ka Yehuda meehi ihe.",
+  "translation": "Ma ha wùrụ ⟨את⟩ ebe ofufe ndị dị elu nke Baal, nke dị n'ọdọ dị na Ben-Hinom, iji gafena ⟨את⟩ ụmụ ha nke nwoke na ⟨את⟩ ụmụ ha nke nwanyị nye Molek, nke m wetaghị ha iwu, ọ dịghịkwa nke biliri n'obi m ịrụ ihe jọrọ njọ a, iji mee ka Yehuda rụọ njọ.",
   "tokens": [
     {
       "surface": "ויבנו",
-      "gloss": "Ha rụrụ"
+      "gloss": "Ma ha wùrụ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ebe dị elu nke Baal"
+      "marks": "ebe ofufe ndị dị elu nke Baal"
     },
     {
       "surface": "במות",
-      "gloss": "ebe dị elu"
+      "gloss": "ebe ofufe ndị dị elu"
     },
     {
       "surface": "הבעל",
@@ -26,45 +26,45 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nke dị"
+      "gloss": "nke"
     },
     {
       "surface": "בגיא",
-      "gloss": "n'ime ndidi"
+      "gloss": "dị n'ọdọ"
     },
     {
       "surface": "בן",
-      "gloss": "Ben"
+      "gloss": "nke nwa"
     },
     {
       "surface": "הנם",
-      "gloss": "Hinnom"
+      "gloss": "Hinom"
     },
     {
       "surface": "להעביר",
-      "gloss": "iji gafee"
+      "gloss": "iji gafena"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ụmụ nwoke ha"
+      "marks": "ụmụ ha nke nwoke"
     },
     {
       "surface": "בניהם",
-      "gloss": "ụmụ nwoke ha"
+      "gloss": "ụmụ ha nke nwoke"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ụmụ nwanyị ha"
+      "gloss": "na ⟨את⟩",
+      "marks": "ụmụ ha nke nwanyị"
     },
     {
       "surface": "בנותיהם",
-      "gloss": "ụmụ nwanyị ha"
+      "gloss": "ụmụ ha nke nwanyị"
     },
     {
       "surface": "למלך",
-      "gloss": "nye Molech"
+      "gloss": "nye Molek"
     },
     {
       "surface": "אשר",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "צויתים",
-      "gloss": "m nyeghị ha iwu"
+      "gloss": "m wetaghị ha iwu"
     },
     {
       "surface": "ולא",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "עלתה",
-      "gloss": "elụghị"
+      "gloss": "nke biliri"
     },
     {
       "surface": "על",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "ime"
+      "gloss": "ịrụ"
     },
     {
       "surface": "התועבה",
@@ -112,7 +112,7 @@
     },
     {
       "surface": "החטי",
-      "gloss": "mee hi ihe"
+      "gloss": "rụọ njọ"
     },
     {
       "surface": "את",
@@ -124,6 +124,6 @@
       "gloss": "Yehuda"
     }
   ],
-  "timestamp": "2026-08-27T16:43:23.787367769Z",
+  "timestamp": "2026-08-27T17:47:31.280697132Z",
   "model": "glm-5.3"
 }

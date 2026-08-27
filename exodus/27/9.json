@@ -5,24 +5,24 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 27,
-  "translation": "Ị ga-eme ⟨את⟩ ogige nke ụlọikwuu: maka akụkụ ndịda, n'aka nri ndịda, a ga-ekwu Ọ ga-abụ ogologo mmiri nke ⟨the⟩ ogige ahụ — shesh nke a na-agbakọ, otu narị kuubitụ ogologo, maka otu akụkụ.",
+  "translation": "Ị ga-eme ⟨את⟩ ọdọ nke HaMishkan; maka akụkụ ndịda, na-ekwu ndịda: ihe mkpuchi maka ⟨את⟩ ọdọ, linen nke a gbagọrọ agbagọ, otu narị ụkwụ n'ogologo, maka otu akụkụ.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "Ị ga-eme"
+      "gloss": "ị ga-eme"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ogige nke ụlọikwuu"
+      "marks": "ọdọ nke HaMishkan"
     },
     {
       "surface": "חצר",
-      "gloss": "ogige"
+      "gloss": "ọdọ"
     },
     {
       "surface": "המשכן",
-      "gloss": "nke ụlọikwuu"
+      "gloss": "HaMishkan"
     },
     {
       "surface": "לפאת",
@@ -34,23 +34,23 @@
     },
     {
       "surface": "תימנה",
-      "gloss": "n'aka nri ndịda"
+      "gloss": "na-ekwu ndịda"
     },
     {
       "surface": "קלעים",
-      "gloss": "ogologo mmiri"
+      "gloss": "ihe mkpuchi"
     },
     {
       "surface": "לחצר",
-      "gloss": "nke ⟨the⟩ ogige ahụ"
+      "gloss": "maka ọdọ"
     },
     {
       "surface": "שש",
-      "gloss": "shesh"
+      "gloss": "linen"
     },
     {
       "surface": "משזר",
-      "gloss": "nke a na-agbakọ"
+      "gloss": "nke a gbagọrọ agbagọ"
     },
     {
       "surface": "מאה",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "באמה",
-      "gloss": "kuubitụ"
+      "gloss": "ụkwụ"
     },
     {
       "surface": "ארך",
-      "gloss": "ogologo"
+      "gloss": "n'ogologo"
     },
     {
       "surface": "לפאה",
@@ -73,6 +73,6 @@
       "gloss": "otu"
     }
   ],
-  "timestamp": "2026-08-27T06:28:46.987939384Z",
+  "timestamp": "2026-08-27T17:31:24.539167029Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 47,
-  "translation": "Ha wetara ⟨את⟩ anụ ụlọ ha nye Yosef, Yosef nyere ha nri maka ụmụ mbụ, na maka anụ ụlọ ⟨the⟩ atụrụ, na maka anụ ụlọ ⟨the⟩ ehi, na maka òkụtala; o jiri nri chịkwaa ha maka anụ ụlọ ha niile n'afọ ahụ.",
+  "translation": "Ha wee webata ⟨את⟩ anụmanụ ha nye Yosef, Yosef wee nye ha nri maka ịnyinya, na maka anụmanụ atụrụ, na maka anụmanụ ehi, na maka ịnyịnya ibu; o wee na-edozi ha nri maka anụmanụ ha niile n'afọ ahụ.",
   "tokens": [
     {
       "surface": "ויביאו",
-      "gloss": "Ha wetara"
+      "gloss": "ha wee webata"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "anụ ụlọ ha"
+      "marks": "anụmanụ ha"
     },
     {
       "surface": "מקניהם",
-      "gloss": "anụ ụlọ ha"
+      "gloss": "anụmanụ ha"
     },
     {
       "surface": "אל",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "nyere"
+      "gloss": "o wee nye"
     },
     {
       "surface": "להם",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "בסוסים",
-      "gloss": "maka ụmụ mbụ"
+      "gloss": "maka ịnyinya"
     },
     {
       "surface": "ובמקנה",
-      "gloss": "na maka anụ ụlọ"
+      "gloss": "na maka anụmanụ"
     },
     {
       "surface": "הצאן",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ובמקנה",
-      "gloss": "na maka anụ ụlọ"
+      "gloss": "na maka anụmanụ"
     },
     {
       "surface": "הבקר",
@@ -66,23 +66,23 @@
     },
     {
       "surface": "ובחמרים",
-      "gloss": "na maka òkụtala"
+      "gloss": "na maka ịnyịnya ibu"
     },
     {
       "surface": "וינהלם",
-      "gloss": "chịkwaa ha"
+      "gloss": "o wee na-edozi ha"
     },
     {
       "surface": "בלחם",
-      "gloss": "jiri nri"
+      "gloss": "nri"
     },
     {
       "surface": "בכל",
-      "gloss": "maka niile"
+      "gloss": "maka ... niile"
     },
     {
       "surface": "מקנהם",
-      "gloss": "anụ ụlọ ha"
+      "gloss": "anụmanụ ha"
     },
     {
       "surface": "בשנה",
@@ -93,6 +93,6 @@
       "gloss": "ahụ"
     }
   ],
-  "timestamp": "2026-08-27T06:04:40.936958710Z",
+  "timestamp": "2026-08-27T17:29:07.950335090Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "ig",
   "chapter": 11,
-  "translation": "Yoel nwa Zikri, onye nlekọta n'elu ha; Yehuda nwa Hasenua ⟨ bụ ⟩ nke abụọ n'elu ⟨ obodo ⟨ the ⟩ ahụ.",
+  "translation": "Yoel nwa Zikri bụ onye nlekọta ha; Yehuda nwa HaSenua bụ onye nke abụọ n'obodo ⟨ahụ⟩.",
   "tokens": [
     {
       "surface": "ויואל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "n'elu ha"
+      "gloss": "ha"
     },
     {
       "surface": "ויהודה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הסנואה",
-      "gloss": "Hasenua"
+      "gloss": "HaSenua"
     },
     {
       "surface": "על",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "העיר",
-      "gloss": "obodo ahụ"
+      "gloss": "obodo"
     },
     {
       "surface": "משנה",
-      "gloss": "nke abụọ"
+      "gloss": "onye nke abụọ"
     }
   ],
-  "timestamp": "2026-08-27T15:47:39.567230106Z",
+  "timestamp": "2026-08-27T17:58:01.445486680Z",
   "model": "glm-5.3"
 }

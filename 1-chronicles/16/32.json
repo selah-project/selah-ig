@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":32,"ref":"1-chronicles 16:32","book":"1-chronicles","lang":"ig","chapter":16,"translation":"Oké osimiri ka ọ na-agbaji mkpụrụ, na ihe jupụtara ya; ubi ahụ jụkwa ṅụrụ ọṅụ, ⟨ya〕 na ihe niile dị na ya.","tokens":[{"surface":"ירעם","gloss":"ka ọ na-agbaji mkpụrụ"},{"surface":"הים","gloss":"Oké osimiri"},{"surface":"ומלואו","gloss":"na ihe jupụtara ya"},{"surface":"יעלץ","gloss":"jụkwa ṅụrụ ọṅụ"},{"surface":"השדה","gloss":"ubi ahụ"},{"surface":"וכל","gloss":"na ihe niile"},{"surface":"אשר","gloss":"⟨nke⟩"},{"surface":"בו","gloss":"dị na ya"}],"timestamp":"2026-08-27T16:01:27.754347112Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 16:32",
+  "book": "1-chronicles",
+  "lang": "ig",
+  "chapter": 16,
+  "translation": "Oké osimiri ga-ajụ ọnwụ na ⟨את⟩ ihe jupụtara ya; ubi ga-esụọ ọṅụ, na ihe niile dị na ya.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "ga-ajụ ọnwụ (dị ka igwe ojuju)"
+    },
+    {
+      "surface": "הים",
+      "gloss": "oké osimiri"
+    },
+    {
+      "surface": "ומלואו",
+      "gloss": "na ihe jupụtara ya"
+    },
+    {
+      "surface": "יעלץ",
+      "gloss": "ga-esụọ ọṅụ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ihe niile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dị na ya"
+    }
+  ],
+  "timestamp": "2026-08-27T17:58:39.786331756Z",
+  "model": "glm-5.3"
+}

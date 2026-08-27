@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 14,
-  "translation": "Avshalom wee sị Joav: Lee, m zipụrụ gị, na-ekwu, Bịa ebe a, ka m zipu ⟨את⟩ gị n'aka ⟨the⟩ eze, ka ọ gwara: Maka gịnị mere m si Geshur bịara? Ọ dị mma m ka m nọ ebe ahụ. Ugbu a, ka m hụ ihu ⟨the⟩ eze; ma ọ bụrụ na ihe njọ dị n'ime m, ka ọ gbuo m.",
+  "translation": "Avshalom wee sị Jọav: Lee, zitere m gị ka ị bịa ebe a, ka m tinye gị n'aka eze, ka ị kwuo: Maka gịnị ka m si na Geshur bịa? Ka m nọ ebe ahụ ka mma. Ugbu a, ka m hụ ⟨את⟩ ihu eze; ma ọ bụrụ na e nwere mmehie n'ime m, ka o gbuo m.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "na"
+      "gloss": "ruo"
     },
     {
       "surface": "יואב",
-      "gloss": "Joav"
+      "gloss": "Jọav"
     },
     {
       "surface": "הנה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שלחתי",
-      "gloss": "m zipụrụ"
+      "gloss": "zitere m"
     },
     {
       "surface": "אליך",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "na-ekwu"
+      "gloss": "ka ị kwuo"
     },
     {
       "surface": "בא",
-      "gloss": "Bịa"
+      "gloss": "bịa"
     },
     {
       "surface": "הנה",
@@ -49,16 +49,16 @@
     },
     {
       "surface": "ואשלחה",
-      "gloss": "ka m zipu"
+      "gloss": "ka m tinye gị n'aka"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩ gị",
-      "marks": "gị"
+      "marks": "gị (onye a na-eziga)"
     },
     {
       "surface": "אל",
-      "gloss": "n'aka"
+      "gloss": "ruo"
     },
     {
       "surface": "המלך",
@@ -66,31 +66,31 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "ka ọ gwara"
+      "gloss": "ka ị kwuo"
     },
     {
       "surface": "למה",
-      "gloss": "maka gịnị mere"
+      "gloss": "maka gịnị"
     },
     {
       "surface": "באתי",
-      "gloss": "m bịara"
+      "gloss": "ka m bịara"
     },
     {
       "surface": "מגשור",
-      "gloss": "si Geshur"
+      "gloss": "site na Geshur"
     },
     {
       "surface": "טוב",
-      "gloss": "Ọ dị mma"
+      "gloss": "ka mma"
     },
     {
       "surface": "לי",
-      "gloss": "m"
+      "gloss": "maka m"
     },
     {
       "surface": "עד",
-      "gloss": "ka"
+      "gloss": "ka m na"
     },
     {
       "surface": "אני",
@@ -98,11 +98,11 @@
     },
     {
       "surface": "שם",
-      "gloss": "nọ ebe ahụ"
+      "gloss": "ebe ahụ"
     },
     {
       "surface": "ועתה",
-      "gloss": "Ugbu a"
+      "gloss": "ugbu a"
     },
     {
       "surface": "אראה",
@@ -118,11 +118,11 @@
     },
     {
       "surface": "ואם",
-      "gloss": "ma ọ bụrụ"
+      "gloss": "ma ọ bụrụ na"
     },
     {
       "surface": "יש",
-      "gloss": "dị"
+      "gloss": "e nwere"
     },
     {
       "surface": "בי",
@@ -130,13 +130,13 @@
     },
     {
       "surface": "עון",
-      "gloss": "ihe njọ"
+      "gloss": "mmehie"
     },
     {
       "surface": "והמתני",
-      "gloss": "ka ọ gbuo m"
+      "gloss": "ka o gbuo m"
     }
   ],
-  "timestamp": "2026-08-27T16:35:04.765866018Z",
+  "timestamp": "2026-08-27T17:41:11.361022545Z",
   "model": "glm-5.3"
 }

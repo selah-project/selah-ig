@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 26,
-  "translation": "Shaul wee mata ⟨את⟩ olu David, o wee sị, Olu gị ka a bụ, nwa m David? David wee sị, Olu m, Adonai ⟨the⟩ eze.",
+  "translation": "Ma Shaul mata ⟨את⟩ olu David, ma kwuo, Olu gị kpara nke a, nwa m David? Ma David kwuru, Olu m, adaezɛ m, eze.",
   "tokens": [
     {
       "surface": "ויכר",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olu"
+      "marks": "olu David"
     },
     {
       "surface": "קול",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "o wee sị"
+      "gloss": "ma kwuo"
     },
     {
       "surface": "הקולך",
-      "gloss": "olu gị"
+      "gloss": "Olu gị"
     },
     {
       "surface": "זה",
-      "gloss": "a bụ"
+      "gloss": "nke a"
     },
     {
       "surface": "בני",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "o wee sị"
+      "gloss": "kwuru"
     },
     {
       "surface": "דוד",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "קולי",
-      "gloss": "olu m"
+      "gloss": "Olu m"
     },
     {
       "surface": "אדני",
-      "gloss": "Adonai"
+      "gloss": "adaezɛ m"
     },
     {
       "surface": "המלך",
       "gloss": "eze"
     }
   ],
-  "timestamp": "2026-08-27T09:23:49.517066427Z",
+  "timestamp": "2026-08-27T17:40:37.317956364Z",
   "model": "glm-5.3"
 }

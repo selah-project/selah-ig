@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 8,
-  "translation": "N'ọnụ ụzọ ⟨the⟩ ahụ nzukọ ka unu ga-anọ, ehihie na abalị, ụbọchị asaa, unu ga-echebe ⟨את⟩ nchebe Yahwe, ka ọ ghara nwụọ; n'ihi na otu a ka e nyere m iwu.",
+  "translation": "N'ọnụ ụzọ ⟨nke⟩ ahụ́ nnọkọ pụrụ nsọ, unu ga-anọdụ awụ́ na abalị, ụbọchị asaa, ma unu ga-echebe ⟨את⟩ nche nke Yahwe, ka ọ ghara ọnwụ; n'ihi na otu a ka a nyere m iwu.",
   "tokens": [
     {
       "surface": "ופתח",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "אהל",
-      "gloss": "ahụ"
+      "gloss": "ahụ́"
     },
     {
       "surface": "מועד",
-      "gloss": "nzukọ"
+      "gloss": "nnọkọ pụrụ nsọ"
     },
     {
       "surface": "תשבו",
-      "gloss": "unu ga-anọ"
+      "gloss": "unu ga-anọdụ"
     },
     {
       "surface": "יומם",
-      "gloss": "ehihie"
+      "gloss": "awụ́"
     },
     {
       "surface": "ולילה",
@@ -33,24 +33,24 @@
     },
     {
       "surface": "שבעת",
-      "gloss": "ụbọchị asaa"
+      "gloss": "asaa"
     },
     {
       "surface": "ימים",
-      "gloss": ""
+      "gloss": "ụbọchị"
     },
     {
       "surface": "ושמרתם",
-      "gloss": "unu ga-echebe"
+      "gloss": "ma unu ga-echebe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nchebe"
+      "marks": "nche nke Yahwe"
     },
     {
       "surface": "משמרת",
-      "gloss": "nchebe"
+      "gloss": "nche"
     },
     {
       "surface": "יהוה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "תמותו",
-      "gloss": "nwụọ"
+      "gloss": "ịnwụ"
     },
     {
       "surface": "כי",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "e nyere m iwu"
+      "gloss": "a nyere m iwu"
     }
   ],
-  "timestamp": "2026-08-27T06:49:02.853396493Z",
+  "timestamp": "2026-08-27T17:32:28.500974228Z",
   "model": "glm-5.3"
 }

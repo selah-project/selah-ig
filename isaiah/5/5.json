@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 5,
-  "translation": "Ma ugbu a, ka m gosi unu ihe m na-eme maka ubi mmanya m: M ga-ewepụ ⟨את⟩ mgbidi-ogwu ya, ọ ga-abụ ⟨is⟩ nke a ga-eri; m ga-emebi ⟨את⟩ mgbidi nkume ya, ọ ga-abụ ⟨is⟩ ebe a na-azọ ụkwụ.",
+  "translation": "Na ugbu a, m ga-agwa ⟨את⟩ gịunụ, biko, ihe m na-eme maka ubi vaịn m: M ga-ewepụ ⟨את⟩ mgbidi nche ya, ọ ga-adị nke a: a ga-eri ya; m ga-emebi ⟨את⟩ mgbide ya, ọ ga-adị ebe a na-akụ ụkwụ.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "ma ugbu a"
+      "gloss": "na ugbu a"
     },
     {
       "surface": "אודיעה",
-      "gloss": "ka m gosi"
+      "gloss": "m ga-agwa"
     },
     {
       "surface": "נא",
@@ -21,17 +21,16 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ unu",
-      "marks": "unu"
+      "gloss": "⟨את⟩ gịunụ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ihe m na-eme"
+      "marks": "ihe"
     },
     {
       "surface": "אשר",
-      "gloss": "ihe"
+      "gloss": "nke"
     },
     {
       "surface": "אני",
@@ -43,7 +42,7 @@
     },
     {
       "surface": "לכרמי",
-      "gloss": "maka ubi mmanya m"
+      "gloss": "maka ubi vaịn m"
     },
     {
       "surface": "הסר",
@@ -51,15 +50,15 @@
     },
     {
       "surface": "משוכתו",
-      "gloss": "mgbidi-ogwu ya"
+      "gloss": "mgbidi nche ya"
     },
     {
       "surface": "והיה",
-      "gloss": "ọ ga-abụ"
+      "gloss": "ọ ga-adị"
     },
     {
       "surface": "לבער",
-      "gloss": "nke a ga-eri"
+      "gloss": "ka a rie ya"
     },
     {
       "surface": "פרץ",
@@ -67,17 +66,17 @@
     },
     {
       "surface": "גדרו",
-      "gloss": "mgbidi nkume ya"
+      "gloss": "mgbide ya"
     },
     {
       "surface": "והיה",
-      "gloss": "ọ ga-abụ"
+      "gloss": "ọ ga-adị"
     },
     {
       "surface": "למרמס",
-      "gloss": "ebe a na-azọ ụkwụ"
+      "gloss": "ebe a na-akụ ụkwụ"
     }
   ],
-  "timestamp": "2026-08-27T16:39:01.680243555Z",
+  "timestamp": "2026-08-27T18:01:20.158967464Z",
   "model": "glm-5.3"
 }

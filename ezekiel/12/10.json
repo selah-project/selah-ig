@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Sọ ha okwu, si: Otú a ka Adonai Yahwe sị: Onye-isi, oke ibu a, dị na Yerushalayim, na ⟨the⟩ ụlọ Yisrael niile ndị nọ n'etiti ha.",
+  "translation": "Sọ ha okwu, si otu a ka Adonai Yahwe kwuru: onye-isi a na-ibu ibu a dị na Yerushalayim, na ụlọ Yisrael nile ndị nọ n'etiti ha.",
   "tokens": [
     {
       "surface": "אמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "Otú a"
+      "gloss": "otu a"
     },
     {
       "surface": "אמר",
-      "gloss": "sị"
+      "gloss": "kwuru"
     },
     {
       "surface": "אדני",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הנשיא",
-      "gloss": "Onye-isi"
+      "gloss": "onye-isi"
     },
     {
       "surface": "המשא",
-      "gloss": "oke ibu"
+      "gloss": "na-ibu ibu"
     },
     {
       "surface": "הזה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "na niile"
+      "gloss": "na nile"
     },
     {
       "surface": "בית",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "בתוכם",
-      "gloss": "nọ n'etiti ha"
+      "gloss": "nọ n'etiti"
     }
   ],
-  "timestamp": "2026-08-27T12:02:49.001231698Z",
+  "timestamp": "2026-08-27T17:48:27.129488247Z",
   "model": "glm-5.3"
 }

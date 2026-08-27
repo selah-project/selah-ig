@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 4,
-  "translation": "Gị na ị ga-agwa ya okwu, gịkwa na ị ga-etinye ⟨את⟩ okwu ndị ahụ n'ọnụ ya; mụ onwem ga-adị na ọnụ gị na na ọnụ ya, mụkwa ga-agụziri ⟨את⟩ ⟨אתכם⟩ ⟨את⟩ ihe unu ga-eme.",
+  "translation": "Ị ga-ekwu ya okwu, ma gọnye okwu ndị ahụ n'ọnụ ya; mụ onwe m ga-adị na ọnụ gị na na ọnụ ya, ma m ga-eduzi unu ⟨את⟩ ihe unu ga-eme.",
   "tokens": [
     {
       "surface": "ודברת",
-      "gloss": "ị ga-agwa"
+      "gloss": "ị ga-ekwu"
     },
     {
       "surface": "אליו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ושמת",
-      "gloss": "ị ga-etinye"
+      "gloss": "ma gọnye"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ואנכי",
-      "gloss": "ma mụ onwem"
+      "gloss": "mụ onwe m"
     },
     {
       "surface": "אהיה",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "והוריתי",
-      "gloss": "ga-agụziri"
+      "gloss": "ma m ga-eduzi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "unu"
     },
     {
@@ -72,13 +72,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ihe"
+      "gloss": "nke"
     },
     {
       "surface": "תעשון",
-      "gloss": "unu ga-eme"
+      "gloss": "ga-eme"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.252046877Z",
+  "timestamp": "2026-08-27T17:30:34.772182625Z",
   "model": "glm-5.3"
 }

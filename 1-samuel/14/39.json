@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 14,
-  "translation": "N'ihi na, dịka Yahwe dị ndụ, Onye na-azọpụta ⟨את⟩ Israel — ọ bụrụ na ọ dị na Yonatanan, nwa m, maka ọ ga-anwụ anwụ; ma ọ dịghị onye zara ya n'etiti ndị ahụ niile.",
+  "translation": "N'ihi na Yahwe dị ndụ, Onye na-nzọpụta ⟨את⟩ Israel, ma ọ bụrụ na ihe ahụ dị na Yonatan nwa m, mmadụ ga-anwụ anwụ; mana ọ dịghị onye n'etiti ndị mmadụ niile zara ya.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "N'ihi na"
+      "gloss": "n'ihi na"
     },
     {
       "surface": "חי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "המושיע",
-      "gloss": "Onye na-azọpụta"
+      "gloss": "Onye na-nzọpụta"
     },
     {
       "surface": "את",
@@ -33,7 +33,11 @@
       "gloss": "Israel"
     },
     {
-      "surface": "כי אם",
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
       "gloss": "ọ bụrụ na"
     },
     {
@@ -42,7 +46,7 @@
     },
     {
       "surface": "ביונתן",
-      "gloss": "na Yonatanan"
+      "gloss": "na Yonatan"
     },
     {
       "surface": "בני",
@@ -50,11 +54,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "maka"
+      "gloss": "ọ ga-"
     },
     {
       "surface": "מות",
-      "gloss": "ga-anwụ"
+      "gloss": "anwụ"
     },
     {
       "surface": "ימות",
@@ -62,7 +66,7 @@
     },
     {
       "surface": "ואין",
-      "gloss": "ma ọ dịghị onye"
+      "gloss": "mana ọ dịghị"
     },
     {
       "surface": "ענהו",
@@ -70,13 +74,13 @@
     },
     {
       "surface": "מכל",
-      "gloss": "n'etiti ... niile"
+      "gloss": "onye n'etiti ndị niile"
     },
     {
       "surface": "העם",
-      "gloss": "nke ndị ahụ"
+      "gloss": "ndị mmadụ"
     }
   ],
-  "timestamp": "2026-08-27T09:12:27.085394181Z",
+  "timestamp": "2026-08-27T17:38:57.198684950Z",
   "model": "glm-5.3"
 }

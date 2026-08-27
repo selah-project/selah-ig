@@ -5,43 +5,39 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 22,
-  "translation": "Ndị na-ebu asịrị nọgidere n'ime gị ka ha wụsie ọbara, ma n'elu ugwu ha riri n'ime gị; ihe ọjọ ha mere n'etiti gị.",
+  "translation": "Ndị nke akụkọ-ọjọọ nọ ná gị maka ịwụsa ọbara, ma n'elu ugwu ha riri n'ime gị, ihe nzuzu ha mere n'etiti gị.",
   "tokens": [
     {
       "surface": "אנשי",
-      "gloss": "ndị"
+      "gloss": "ndị nke"
     },
     {
       "surface": "רכיל",
-      "gloss": "na-ebu asịrị"
+      "gloss": "akụkọ-ọjọọ"
     },
     {
       "surface": "היו",
-      "gloss": "nọgidere"
+      "gloss": "nọ"
     },
     {
       "surface": "בך",
-      "gloss": "n'ime gị"
+      "gloss": "ná gị"
     },
     {
       "surface": "למען",
-      "gloss": "ka ha"
+      "gloss": "maka"
     },
     {
       "surface": "שפך",
-      "gloss": "wụsie"
+      "gloss": "ịwụsa"
     },
     {
       "surface": "דם",
       "gloss": "ọbara"
     },
     {
-      "surface": "ו",
-      "gloss": "ma"
-    },
-    {
-      "surface": "אל",
-      "gloss": "n'elu"
+      "surface": "ואל",
+      "gloss": "ma n'elu"
     },
     {
       "surface": "ההרים",
@@ -57,7 +53,7 @@
     },
     {
       "surface": "זמה",
-      "gloss": "ihe ọjọ"
+      "gloss": "ihe nzuzu"
     },
     {
       "surface": "עשו",
@@ -68,6 +64,6 @@
       "gloss": "n'etiti gị"
     }
   ],
-  "timestamp": "2026-08-27T12:15:22.411648743Z",
+  "timestamp": "2026-08-27T17:49:11.935749293Z",
   "model": "glm-5.3"
 }

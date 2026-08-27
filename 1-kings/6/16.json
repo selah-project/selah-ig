@@ -5,16 +5,16 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Ọ wee rụọ ⟨את⟩ narị abụọ na iri abụọ n'azụ ⟨the⟩ ụlọ ahụ site na mpịsị osisi cedar, site n'ala ruo ⟨the⟩ mgbidi; o wee rụọ ya n'ime ya maka Debir, maka ebe nsọ nke nsọ ndị ahụ.",
+  "translation": "O wee rụọ ⟨את⟩ ama iri abụọ n'azụ ụlọ ahụ, na mbọkọ osisi cedar, site n'ala ruo na mgbidi; o wee rụọ ya n'ime ya maka debir, maka ebe nsọ nke nsọ ndị ahụ.",
   "tokens": [
     {
       "surface": "ויבן",
-      "gloss": "Ọ wee rụọ"
+      "gloss": "rụọ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ogologo iri abụọ"
+      "marks": "ama iri abụọ"
     },
     {
       "surface": "עשרים",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "אמה",
-      "gloss": "amah (ogologo)"
+      "gloss": "ama"
     },
     {
       "surface": "מירכותי",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "בצלעות",
-      "gloss": "site na mpịsị"
+      "gloss": "na mbọkọ"
     },
     {
       "surface": "ארזים",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "מן",
-      "gloss": "site na"
+      "gloss": "site"
     },
     {
       "surface": "הקרקע",
-      "gloss": "ala ahụ"
+      "gloss": "n'ala"
     },
     {
       "surface": "עד",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "הקירות",
-      "gloss": "mgbidi ahụ"
+      "gloss": "mgbidi"
     },
     {
       "surface": "ויבן",
-      "gloss": "o wee rụọ"
+      "gloss": "o rụọ"
     },
     {
       "surface": "לו",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "לדביר",
-      "gloss": "maka Debir"
+      "gloss": "maka debir"
     },
     {
       "surface": "לקדש",
@@ -81,6 +81,6 @@
       "gloss": "nke nsọ ndị ahụ"
     }
   ],
-  "timestamp": "2026-08-27T09:54:26.001448628Z",
+  "timestamp": "2026-08-27T17:43:04.934688094Z",
   "model": "glm-5.3"
 }

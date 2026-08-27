@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 75,
-  "translation": "N'ihi na iko dị n'aka Yahwe, na mmanya na-acha ọbara-ọbara, jupụtara na ⟨the⟩ ngwakọta; ọ na-awụfu si na ya; mana mmiri ara ya, ndị ọjọọ niile n'ụwa ga-atọgbọ ha ma ṅụọ ha.",
+  "translation": "N'ihi na iko dị n'aka Yahwe, na mmanya na-agbapụ ụfụ, jupụtara na ngwakọta; ọ na-adọ ya; mana mmiri mkpụrụ ya, ndị ọjọọ niile n'ụwa ga-amịkọta ha ṅụọ.",
   "tokens": [
     {
       "surface": "כי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "חמר",
-      "gloss": "na-acha ọbara-ọbara"
+      "gloss": "na-agbapụ ụfụ"
     },
     {
       "surface": "מלא",
@@ -41,27 +41,27 @@
     },
     {
       "surface": "ויגר",
-      "gloss": "ọ na-awụfu"
+      "gloss": "ọ na-adọ"
     },
     {
       "surface": "מזה",
-      "gloss": "si na ya"
+      "gloss": "ya"
     },
     {
       "surface": "אך",
-      "gloss": "mana"
+      "gloss": "mana naanị"
     },
     {
       "surface": "שמריה",
-      "gloss": "mmiri ara ya"
+      "gloss": "mmiri mkpụrụ ya"
     },
     {
       "surface": "ימצו",
-      "gloss": "ga-atọgbọ"
+      "gloss": "ha ga-amịkọta"
     },
     {
       "surface": "ישתו",
-      "gloss": "ga-aṅụọ"
+      "gloss": "ha ga-aṅụọ"
     },
     {
       "surface": "כל",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "n'ụwa"
+      "gloss": "nke ụwa"
     }
   ],
-  "timestamp": "2026-08-27T13:41:26.343567105Z",
+  "timestamp": "2026-08-27T18:30:18.137001449Z",
   "model": "glm-5.3"
 }

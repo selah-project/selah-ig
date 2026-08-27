@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 26,
-  "translation": "Ma ha ga-abụ ndị ejikọtara abụọ n'okpuru, ha ga-ejikọ ọnụ ruo n'elu isi ya, gaa na ⟨the⟩ otu mgbanaka; otu a ka ọ ga-adị maka ha abụọ; ha ga-abụ maka akụkụ nkụchi abụọ ahụ.",
+  "translation": "Ha ga-abụkwa ndị ejikọtara ọnụ n'okpuru, ma jikọrọ ọnụ ha ga-adị zuuru oke ruo n'isi ya, ruo n'ime mgbanaka ⟨ahụ⟩ otu; otu a ka ọ ga-adị maka ha abụọ, maka ⟨akụkụ⟩ nkuku abụọ ka ha ga-abụ.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "Ma ha ga-abụ"
+      "gloss": "ha ga-abụkwa"
     },
     {
       "surface": "תאמים",
-      "gloss": "ndị ejikọtara abụọ"
+      "gloss": "ndị ejikọtara ọnụ"
     },
     {
       "surface": "מלמטה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "ויחדו",
-      "gloss": "ha ga-ejikọ ọnụ"
+      "gloss": "ma jikọrọ ọnụ"
     },
     {
       "surface": "יהיו",
-      "gloss": "ha ga-abụ"
+      "gloss": "ha ga-adị"
     },
     {
       "surface": "תמים",
-      "gloss": "ndị zuru oke"
+      "gloss": "zuuru oke"
     },
     {
       "surface": "על",
-      "gloss": "ruo n'elu"
+      "gloss": "ruo elu"
     },
     {
       "surface": "ראשו",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "gaa na"
+      "gloss": "ruo"
     },
     {
       "surface": "הטבעת",
-      "gloss": "mgbanaka"
+      "gloss": "mgbanaka ⟨ahụ⟩"
     },
     {
       "surface": "האחת",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "otu a ka"
+      "gloss": "otu a"
     },
     {
       "surface": "יהיה",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "המקצעת",
-      "gloss": "akụkụ nkụchi"
+      "gloss": "nkuku"
     },
     {
       "surface": "יהיו",
       "gloss": "ha ga-abụ"
     }
   ],
-  "timestamp": "2026-08-27T06:27:58.251826214Z",
+  "timestamp": "2026-08-27T17:31:57.956700657Z",
   "model": "glm-5.3"
 }

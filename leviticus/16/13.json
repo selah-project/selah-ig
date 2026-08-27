@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 16,
-  "translation": "Ma ọ ga-etinye ⟨את⟩ nsi-isi ụtọ n'elu ⟨the⟩ ọkụ n'ihu Yahwe, ka igwe ojii nke nsi-isi ahụ wee kpuchie ⟨את⟩ Kapporet nke dị n'elu Ọgbọba Ọgba-ndekọ, ka ọ ghara ịnwụ.",
+  "translation": "Ọ ga-etinye ⟨את⟩ ihe na-esi ísì ụtọ n'elu ọkụ n'ihu Yahwe, ka urukpube nke ihe na-esi ísì ụtọ wee kpuchie ⟨את⟩ ekpere- mgbapụta nke dị n'elu ⟨את⟩ ihe ndekọ aka, ka ọ ghara ịnwụ.",
   "tokens": [
     {
       "surface": "ונתן",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nsi-isi ụtọ"
+      "marks": "ihe na-esi ísì ụtọ"
     },
     {
       "surface": "הקטרת",
-      "gloss": "nsi-isi ụtọ"
+      "gloss": "ihe na-esi ísì ụtọ"
     },
     {
       "surface": "על",
@@ -38,24 +38,24 @@
     },
     {
       "surface": "וכסה",
-      "gloss": "ga-ekpuchie"
+      "gloss": "ọ ga-ekpuchie"
     },
     {
       "surface": "ענן",
-      "gloss": "igwe ojii"
+      "gloss": "urukpube"
     },
     {
       "surface": "הקטרת",
-      "gloss": "nke nsi-isi"
+      "gloss": "nke ihe na-esi ísì ụtọ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Kapporet"
+      "marks": "ekpere-mgbapụta"
     },
     {
       "surface": "הכפרת",
-      "gloss": "Kapporet"
+      "gloss": "ekpere-mgbapụta"
     },
     {
       "surface": "אשר",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "העדות",
-      "gloss": "Ọgbọba Ọgba-ndekọ"
+      "gloss": "ihe ndekọ aka"
     },
     {
       "surface": "ולא",
@@ -78,6 +78,6 @@
       "gloss": "ịnwụ"
     }
   ],
-  "timestamp": "2026-08-27T06:58:17.985472521Z",
+  "timestamp": "2026-08-27T17:32:57.760001508Z",
   "model": "glm-5.3"
 }

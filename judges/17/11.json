@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "ig",
   "chapter": 17,
-  "translation": "Onye Levai kwenyere ibi ⟨את⟩ ⟨the⟩ nwoke ahụ; nwa okorobịa ahụ were bụrụ ya dịka otu n'ime ụmụ ya.",
+  "translation": "Ma Levite ahụ kwenyere ịnọ ⟨את⟩ nwoke ahụ; ma nwa okorobịa ahụ bụ ⟨n'aka⟩ ya dịka otu n'ime ụmụ ya.",
   "tokens": [
     {
       "surface": "ויואל",
@@ -13,24 +13,24 @@
     },
     {
       "surface": "הלוי",
-      "gloss": "Onye Levai"
+      "gloss": "Levite ahụ"
     },
     {
       "surface": "לשבת",
-      "gloss": "ibi"
+      "gloss": "ịnọ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ nwoke ahụ"
+      "marks": "nwoke ahụ"
     },
     {
       "surface": "האיש",
-      "gloss": "⟨the⟩ nwoke ahụ"
+      "gloss": "nwoke ahụ"
     },
     {
       "surface": "ויהי",
-      "gloss": "were bụrụ"
+      "gloss": "ma ... bụ"
     },
     {
       "surface": "הנער",
@@ -49,6 +49,6 @@
       "gloss": "n'ime ụmụ ya"
     }
   ],
-  "timestamp": "2026-08-27T08:54:11.500654132Z",
+  "timestamp": "2026-08-27T17:38:42.402960408Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "ig",
   "chapter": 9,
-  "translation": "Ọ ga-esikwuo ike n'ọgbụgba-ndụ maka ọtụtụ mmadụ otu izu; n'ọkara nke izu ahụ ọ ga-akwụsị ⟨את⟩ ichu àjà na ⟨את⟩ ihe-nnya-àjà; nakwa n'ọdụ nke ihe jọrọ njọ na-akpasu iwe, onye na-eme mkpọmkpọ; ruo na mmegbu na ihe kpebiri, ihe ga-dịkwasị n'elu onye na-eme mkpọmkpọ.",
+  "translation": "O mekwara ka ọgbụgba-ndụ sikwuo ike maka ọtụtụ mmadụ otu izu; na ọkara nke izu ahụ, ọ ga-akwụsị ịchụ àjà na inye offue; na n'elu nku nke ihe arụrụala na-akparị, ga-abụ onye na-eme mkpọmkpọ; ruo na mmezu na ihe kpebisiri ike, a ga-atụ ya n'elu onye na-eme mkpọmkpọ.",
   "tokens": [
     {
       "surface": "והגביר",
-      "gloss": "ọ ga-esikwuo ike"
+      "gloss": "ọ mekwara ka ọ sikwuo ike"
     },
     {
       "surface": "ברית",
@@ -29,44 +29,39 @@
     },
     {
       "surface": "וחצי",
-      "gloss": "nakwa n'ọkara"
+      "gloss": "na ọkara nke"
     },
     {
       "surface": "השבוע",
-      "gloss": "nke izu ahụ"
+      "gloss": "izu ahụ"
     },
     {
       "surface": "ישבית",
       "gloss": "ọ ga-akwụsị"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ichu àjà"
-    },
-    {
       "surface": "זבח",
-      "gloss": "ichu àjà"
+      "gloss": "ịchụ àjà"
     },
     {
       "surface": "ומנחה",
-      "gloss": "nakwa ihe-nnya-àjà"
+      "gloss": "na inye offue"
     },
     {
       "surface": "ועל",
-      "gloss": "nakwa n'elu"
+      "gloss": "na n'elu"
     },
     {
       "surface": "כנף",
-      "gloss": "ọdụ\/nku"
+      "gloss": "nkụ"
     },
     {
       "surface": "שקוצים",
-      "gloss": "ihe jọrọ njọ"
+      "gloss": "ihe arụrụala na-akparị"
     },
     {
       "surface": "משמם",
-      "gloss": "na-akpasu iwe \/ na-eme mkpọmkpọ"
+      "gloss": "onye na-eme mkpọmkpọ"
     },
     {
       "surface": "ועד",
@@ -74,15 +69,15 @@
     },
     {
       "surface": "כלה",
-      "gloss": "mmegbu\/mmechu"
+      "gloss": "mmezu"
     },
     {
       "surface": "ונחרצה",
-      "gloss": "ihe kpebiri"
+      "gloss": "na ihe kpebisiri ike"
     },
     {
       "surface": "תתך",
-      "gloss": "ga-dịkwasị (dịkasị)"
+      "gloss": "a ga-atụ ya"
     },
     {
       "surface": "על",
@@ -93,6 +88,6 @@
       "gloss": "onye na-eme mkpọmkpọ"
     }
   ],
-  "timestamp": "2026-08-27T16:52:56.948678741Z",
+  "timestamp": "2026-08-27T18:31:45.726185765Z",
   "model": "glm-5.3"
 }

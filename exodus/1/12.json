@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":12,"ref":"exodus 1:12","book":"exodus","lang":"ig","chapter":1,"translation":"Ma ka ha si emenye ha ahụhụ, otu a ka ha na-aba ụba, otu a ka na-esa mkpụrụ; ha wee jụọ ichere n'ihi ⟨את⟩ ụmụ Yisraël.","tokens":[{"surface":"וכאשר","gloss":"ha wee jụọ ichere"},{"surface":"יענו","gloss":"n'ihi"},{"surface":"אתו","gloss":"⟨את⟩ ụmụ"},{"surface":"כן","gloss":"Yisraël"},{"surface":"ירבה","gloss":"Ma ka ha si"},{"surface":"וכן","gloss":"emenye ha ahụhụ"},{"surface":"יפרץ","gloss":"⟨את⟩","marks":"ha"},{"surface":"ויקצו","gloss":"otu a ka"},{"surface":"מפני","gloss":"ha na-aba ụba"},{"surface":"בני","gloss":"otu a ka"},{"surface":"ישראל","gloss":"na-esa mkpụrụ"}],"timestamp":"2026-08-27T06:05:45.941466503Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ma ka ọ bụla ha na-emenye ⟨את⟩ ha mkpa, otu a ka ha na-ebunikwa; otu a ka ha na-agbasa; ndị Ijipụt were iwe n'ihi ụmụ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "ma ka ọ bụla"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ha na-emenye mkpa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ha na-ebunikwa"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "otu a ka"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "ha na-agbasa"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "ha were iwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "n'ihi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-27T17:30:00.992499763Z",
+  "model": "glm-5.3"
+}

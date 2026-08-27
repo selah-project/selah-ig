@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 37,
-  "ref": "exodus 26:37",
-  "book": "exodus",
-  "lang": "ig",
-  "chapter": 26,
-  "translation": "Ma ị ga-eme maka nnukwu mkpuchi ahụgidere five steepụ nke osisi shittim, ọ ga-ekwe omume ⟨the⟩",
-  "tokens": [],
-  "timestamp": "2026-08-27T06:27:01.813629717Z",
-  "model": "glm-5.3"
-}
+{"tier": "glm-5.2", "verse": 37, "ref": "exodus 26:37", "book": "exodus", "lang": "ig", "chapter": 26, "translation": "Ma ị ga-eme maka mgharị ahụ ogidi ise nke osisi shittim, ma ị ga-ekpuchiba ha ⟨את⟩ ọla edo, mkpọmite ha ga-abụ ọla edo, ma ị ga-atụ maka ha ɔkwá ise nke ọla kọpa.", "tokens": [{"surface": "ועשית", "gloss": "ma ị ga-eme"}, {"surface": "למסך", "gloss": "maka mgharị"}, {"surface": "חמשה", "gloss": "ise"}, {"surface": "עמודי", "gloss": "ogidi"}, {"surface": "שטים", "gloss": "osisi shittim"}, {"surface": "וצפית", "gloss": "ma ị ga-ekpuchiba"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "ha"}, {"surface": "זהב", "gloss": "ọla edo"}, {"surface": "וויהם", "gloss": "mkpọmite ha"}, {"surface": "זהב", "gloss": "ọla edo"}, {"surface": "ויצקת", "gloss": "ma ị ga-atụ"}, {"surface": "להם", "gloss": "maka ha"}, {"surface": "חמשה", "gloss": "ise"}, {"surface": "אדני", "gloss": "ɔkwá"}, {"surface": "נחשת", "gloss": "ọla kọpa"}], "timestamp": "2026-08-27T17:31:03.495363406Z", "model": "glm-5.3"}

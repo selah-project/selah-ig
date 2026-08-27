@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 8,
-  "translation": "N'ụbọchị ahụ, eze dịrị ⟨את⟩ etiti ⟨the⟩ ogige ahụ dị n'ihu ụlọ Yahwe nsọ, n'ihi na o mere n'ebe ahụ ⟨את⟩ ọkụ-àjà na ⟨את⟩ onyinye ntụ ọka na ⟨את⟩ abụba nke ụdo-àjà; n'ihi na ebe ịchụàjà ọla nchara nke dị n'ihu Yahwe nọ obere iji nwee ⟨את⟩ ọkụ-àjà na ⟨את⟩ onyinye ntụ ọka na ⟨את⟩ abụba nke ụdo-àjà.",
+  "translation": "N'ụbọchị ahụ, eze dere ⟨את⟩ etiti ⟨nke⟩ okporo ụzọ nke dị n'ihu ụlọ Yahwe, n'ihi na o mere ebe ahụ ⟨את⟩ ọụtụmma-ọkụ na ⟨את⟩ onyinye ihe oriri na ⟨את⟩ abụba nke ọụtụmma-udo, n'ihi na ebe-ichu-aja nke ọla nchara nke dị n'ihu Yahwe nta igosi ⟨את⟩ ọụtụmma-ọkụ na ⟨את⟩ onyinye ihe oriri na ⟨את⟩ abụba nke ọụtụmma-udo.",
   "tokens": [
     {
       "surface": "ביום",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "קדש",
-      "gloss": "dịrị...nsọ"
+      "gloss": "dere dị nsọ"
     },
     {
       "surface": "המלך",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "etiti ogige"
+      "marks": "etiti okporo ụzọ"
     },
     {
       "surface": "תוך",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "החצר",
-      "gloss": "ogige ahụ"
+      "gloss": "okporo ụzọ"
     },
     {
       "surface": "אשר",
@@ -62,30 +62,30 @@
     },
     {
       "surface": "שם",
-      "gloss": "n'ebe ahụ"
+      "gloss": "ebe ahụ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọkụ-àjà"
+      "marks": "ọụtụmma-ọkụ"
     },
     {
       "surface": "העלה",
-      "gloss": "ọkụ-àjà"
+      "gloss": "ọụtụmma-ọkụ"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "onyinye ntụ ọka"
+      "gloss": "na ⟨את⟩",
+      "marks": "onyinye ihe oriri"
     },
     {
       "surface": "המנחה",
-      "gloss": "onyinye ntụ ọka"
+      "gloss": "onyinye ihe oriri"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "abụba"
+      "gloss": "na ⟨את⟩",
+      "marks": "abụba nke ọụtụmma-udo"
     },
     {
       "surface": "חלבי",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "nke ụdo-àjà"
+      "gloss": "nke ọụtụmma-udo"
     },
     {
       "surface": "כי",
@@ -101,11 +101,11 @@
     },
     {
       "surface": "מזבח",
-      "gloss": "ebe ịchụàjà"
+      "gloss": "ebe-ichu-aja"
     },
     {
       "surface": "הנחשת",
-      "gloss": "ọla nchara"
+      "gloss": "nke ọla nchara"
     },
     {
       "surface": "אשר",
@@ -121,34 +121,34 @@
     },
     {
       "surface": "קטן",
-      "gloss": "nọ obere"
+      "gloss": "nta"
     },
     {
       "surface": "מהכיל",
-      "gloss": "iji nwee"
+      "gloss": "igosi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọkụ-àjà"
+      "marks": "ọụtụmma-ọkụ"
     },
     {
       "surface": "העלה",
-      "gloss": "ọkụ-àjà"
+      "gloss": "ọụtụmma-ọkụ"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "onyinye ntụ ọka"
+      "gloss": "na ⟨את⟩",
+      "marks": "onyinye ihe oriri"
     },
     {
       "surface": "המנחה",
-      "gloss": "onyinye ntụ ọka"
+      "gloss": "onyinye ihe oriri"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "abụba"
+      "gloss": "na ⟨את⟩",
+      "marks": "abụba nke ọụtụmma-udo"
     },
     {
       "surface": "חלבי",
@@ -156,9 +156,9 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "nke ụdo-àjà"
+      "gloss": "nke ọụtụmma-udo"
     }
   ],
-  "timestamp": "2026-08-27T09:57:44.799366626Z",
+  "timestamp": "2026-08-27T17:42:42.936938691Z",
   "model": "glm-5.3"
 }

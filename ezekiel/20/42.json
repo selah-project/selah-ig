@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 20,
-  "translation": "Ị ga-amara na m bụ Yahwe mgbe m na-ewebata ⟨את⟩ ⟨אתכם⟩ n'ala Yisrael, n'ala nke m welitere ⟨את⟩ aka m iji nye ya ndị nna unu.",
+  "translation": "Unu ga-amara na m bụ Yahwe, mgbe m na-ewetara unu n'ala Yisrael, n'ala nke m welitere aka m nye ya nye nna nna unu.",
   "tokens": [
     {
       "surface": "וידעתם",
-      "gloss": "ị ga-amara"
+      "gloss": "unu ga-amara"
     },
     {
       "surface": "כי",
@@ -25,16 +25,15 @@
     },
     {
       "surface": "בהביאי",
-      "gloss": "mgbe m na-ewebata"
+      "gloss": "mgbe m na-ewetara"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "unu"
+      "gloss": "⟨את⟩ unu"
     },
     {
       "surface": "אל",
-      "gloss": "n'"
+      "gloss": "ruo na"
     },
     {
       "surface": "אדמת",
@@ -46,7 +45,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "n'"
+      "gloss": "ruo na"
     },
     {
       "surface": "הארץ",
@@ -75,14 +74,13 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ⟨אותה⟩",
-      "marks": "ya"
+      "gloss": "⟨את⟩ ya"
     },
     {
       "surface": "לאבותיכם",
-      "gloss": "ndị nna unu"
+      "gloss": "nye nna nna unu"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.265028715Z",
+  "timestamp": "2026-08-27T17:49:52.708401297Z",
   "model": "glm-5.3"
 }

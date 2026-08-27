@@ -5,7 +5,7 @@
   "book": "nahum",
   "lang": "ig",
   "chapter": 2,
-  "translation": "Lee, n'elu ⟨the⟩ ugwu ndị ahụ ụkwụ nke onye na-eweta ozi ọma, na-akụ amamihe udo: mee emume, Yehuda, emume gị; mezuo nduru gị; n'ihi na ọ dighịkwa na ọ ga-agafe gị ọzọ onye na-enweghị uru; a ga-ebipụ ya kpamkpam.",
+  "translation": "Lee, n'elu ⟨את⟩ ugwu ndị ahụ, ụkwụ nke onye na-ebu ozi-ọma, onye na-eme ka ⟨את⟩ udo pụta ìhè. Me emume gị, Yehuda; mezuo ⟨את⟩ nduru gị; n'ihi na ọ gaghị agafe gị ọzọ onye-enweghị-uru; a kpụchawolarị ya kpamkpam.",
   "tokens": [
     {
       "surface": "הנה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "רגלי",
-      "gloss": "ụkwụ"
+      "gloss": "ụkwụ nke"
     },
     {
       "surface": "מבשר",
-      "gloss": "nke onye na-eweta ozi ọma"
+      "gloss": "onye na-ebu ozi-ọma"
     },
     {
       "surface": "משמיע",
-      "gloss": "na-akụ amamihe"
+      "gloss": "onye na-eme ka pụta ìhè"
     },
     {
       "surface": "שלום",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "חגי",
-      "gloss": "mee emume"
+      "gloss": "Me emume"
     },
     {
       "surface": "יהודה",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ọ dighị"
+      "gloss": "ọ gaghị"
     },
     {
       "surface": "יוסיף",
-      "gloss": "ọ ga-agafe ọzọ"
+      "gloss": "agafe... ọzọ"
     },
     {
       "surface": "עוד",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "לעבור",
-      "gloss": "igafe"
+      "gloss": "agafe"
     },
     {
       "surface": "בך",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "בליעל",
-      "gloss": "onye na-enweghị uru"
+      "gloss": "onye-enweghị-uru"
     },
     {
       "surface": "כלה",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "נכרת",
-      "gloss": "a ga-ebipụ ya"
+      "gloss": "a kpụchawolarị"
     }
   ],
-  "timestamp": "2026-08-27T12:58:48.145514960Z",
+  "timestamp": "2026-08-27T17:51:51.173063776Z",
   "model": "glm-5.3"
 }

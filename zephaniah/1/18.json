@@ -1,1 +1,110 @@
-{"tier":"glm-5.2","verse":18,"ref":"zephaniah 1:18","book":"zephaniah","lang":"ig","chapter":1,"translation":"Ọbụna ego ọcha ha, ọbụna ego edo ha, agaghị enwe ike ịzọpụta ha n'ụbọchị iwe Yahwe; na n'ọkụ mkpasu iwe ya, a ga-eripụ ⟨the⟩ ala niile, n'ihi na ọ ga-eme ngwụsị — ọ dị ngwa — nke ⟨את⟩ ndị niile bi n'ala.","tokens":[{"surface":"גם","gloss":"ọbụna"},{"surface":"כספם","gloss":"ego ọcha ha"},{"surface":"גם","gloss":"ọbụna"},{"surface":"זהבם","gloss":"ego edo ha"},{"surface":"לא","gloss":"agaghị"},{"surface":"יוכל","gloss":"enwe ike"},{"surface":"להצילם","gloss":"ịzọpụta ha"},{"surface":"ביום","gloss":"n'ụbọchị"},{"surface":"עברת","gloss":"iwe"},{"surface":"יהוה","gloss":"Yahwe"},{"surface":"ובאש","gloss":"na n'ọkụ"},{"surface":"קנאתו","gloss":"mkpasu iwe ya"},{"surface":"תאכל","gloss":"a ga-eripụ"},{"surface":"כל","gloss":"niile"},{"surface":"הארץ","gloss":"⟨the⟩ ala"},{"surface":"כי","gloss":"n'ihi na"},{"surface":"כלה","gloss":"ngwụsị"},{"surface":"אך","gloss":"ọ dị ngwa"},{"surface":"נבהלה","gloss":"nke a na-eme ngwa ngwa"},{"surface":"יעשה","gloss":"ọ ga-eme"},{"surface":"את","gloss":"⟨את⟩","marks":"ndị niile bi n'ala"},{"surface":"כל","gloss":"niile"},{"surface":"ישבי","gloss":"ndị bi"},{"surface":"הארץ","gloss":"n'ala"}],"timestamp":"2026-08-27T12:59:33.243417028Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "zephaniah 1:18",
+  "book": "zephaniah",
+  "lang": "ig",
+  "chapter": 1,
+  "translation": "Ọbụnakwa ọlaọcha ha, ọbụnakwa ọlaedo ha agaghị enwe ike izọpụta ha n'ụbọchị iwe Yahwe; ma n'ọkụọchịchọ ya ka a ga-eripụ ⟨את⟩ ala niile; n'ihi na ngwụcha nzuzu ka ọ ga-eme ⟨את⟩ ndị niile na-ebi n'ala ahụ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ọbụnakwa"
+    },
+    {
+      "surface": "כספם",
+      "gloss": "ọlaọcha ha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọbụnakwa"
+    },
+    {
+      "surface": "זהבם",
+      "gloss": "ọlaedo ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agaghị"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "enwe ike"
+    },
+    {
+      "surface": "להצילם",
+      "gloss": "izọpụta ha"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "n'ụbọchị"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "ma n'ọkụ"
+    },
+    {
+      "surface": "קנאתו",
+      "gloss": "ọchịchọ ya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "a ga-eripụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ngwụcha"
+    },
+    {
+      "surface": "אך",
+      "gloss": "naanị"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "nzuzu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ọ ga-eme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndị niile na-ebi n'ala ahụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ndị na-ebi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ala ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T17:51:37.367726352Z",
+  "model": "glm-5.3"
+}

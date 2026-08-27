@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 34,
-  "translation": "Gaa, jụọ Yahwe maka m, ma maka ndị fọdere na Yisrael na na Yehuda, gbasara okwu ⟨the⟩ akwụkwọ a chọtara, n'ihi na ukwu bụ iwe Yahwe nke a wụsara n'elu anyị, n'ihi na nna nna anyị ejideghị ⟨את⟩ okwu Yahwe iji mee dịka ihe niile e dere n'elu ⟨the⟩ akwụkwọ a.",
+  "translation": "Gaa, jụọ Yahwe maka m, maka ndị fọdụrụ na Yisrael na Yehuda, banyere okwu nke akwụkwọ ahụ a hụrụ; n'ihi na iwe Yahwe dị ukwuu, nke a wụsara n'elu anyị, n'ihi na nna nna anyị ejedebeghị ⟨את⟩ okwu Yahwe iji mee ihe niile e dere n'akwụkwọ a.",
   "tokens": [
     {
       "surface": "לכו",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "ובעד",
-      "gloss": "ma maka"
+      "gloss": "maka"
     },
     {
       "surface": "הנשאר",
-      "gloss": "ndị fọdere"
+      "gloss": "ndị fọdụrụ"
     },
     {
       "surface": "בישראל",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "וביהודה",
-      "gloss": "na na Yehuda"
+      "gloss": "na Yehuda"
     },
     {
       "surface": "על",
-      "gloss": "gbasara"
+      "gloss": "banyere"
     },
     {
       "surface": "דברי",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "הספר",
-      "gloss": "⟨the⟩ akwụkwọ"
+      "gloss": "nke akwụkwọ ahụ"
     },
     {
       "surface": "אשר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "נמצא",
-      "gloss": "a chọtara"
+      "gloss": "a hụrụ"
     },
     {
       "surface": "כי",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "גדולה",
-      "gloss": "ukwu"
+      "gloss": "dị ukwuu"
     },
     {
       "surface": "חמת",
@@ -102,11 +102,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "-ghị"
+      "gloss": "ejedebeghị"
     },
     {
       "surface": "שמרו",
-      "gloss": "ejide"
+      "gloss": "edebe"
     },
     {
       "surface": "אבותינו",
@@ -131,7 +131,7 @@
     },
     {
       "surface": "ככל",
-      "gloss": "dịka ihe niile"
+      "gloss": "ihe niile"
     },
     {
       "surface": "הכתוב",
@@ -139,17 +139,17 @@
     },
     {
       "surface": "על",
-      "gloss": "n'elu"
+      "gloss": "n'"
     },
     {
       "surface": "הספר",
-      "gloss": "⟨the⟩ akwụkwọ"
+      "gloss": "akwụkwọ"
     },
     {
       "surface": "הזה",
       "gloss": "a"
     }
   ],
-  "timestamp": "2026-08-27T16:21:29.175861118Z",
+  "timestamp": "2026-08-27T18:00:27.886749322Z",
   "model": "glm-5.3"
 }

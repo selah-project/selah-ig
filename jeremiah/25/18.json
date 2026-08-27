@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 25,
-  "translation": "⟨את⟩ Yerushalayim na ⟨את⟩ obodo ndị Yehudah na ⟨את⟩ eze ndị ha ⟨את⟩ ndị isi ha, iji nyefee ⟨את⟩ ⟨אתם⟩ n'ọzara, n'ihe ịtụnanya, n'iji ọnụ ọchị na-akwa, na n'ekwé; dịka ụbọchị a si dị.",
+  "translation": "⟨את⟩ Yerushalayim na ⟨את⟩ obodo ndị Yehudah na ⟨את⟩ ndị eze ya, ⟨את⟩ ndị isi ya, iji nye ha mkpọtụrụ, iji mee ka ha bụrụ ihe iju anya, ihe a na-akụ ụkwụ n'ọnụ, na ihe a na-ekụta ọnụ, dịka ụbọchị a si dị.",
   "tokens": [
     {
       "surface": "את",
@@ -32,45 +32,44 @@
     {
       "surface": "ואת",
       "gloss": "na ⟨את⟩",
-      "marks": "eze ndị ha"
+      "marks": "ndị eze ya"
     },
     {
       "surface": "מלכיה",
-      "gloss": "eze ndị ha"
+      "gloss": "ndị eze ya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ndị isi ha"
+      "marks": "ndị isi ya"
     },
     {
       "surface": "שריה",
-      "gloss": "ndị isi ha"
+      "gloss": "ndị isi ya"
     },
     {
       "surface": "לתת",
-      "gloss": "iji nyefee"
+      "gloss": "iji nye"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "ha"
+      "gloss": "⟨את⟩ ha"
     },
     {
       "surface": "לחרבה",
-      "gloss": "n'ọzara"
+      "gloss": "mkpọtụrụ"
     },
     {
       "surface": "לשמה",
-      "gloss": "n'ihe ịtụnanya"
+      "gloss": "ihe iju anya"
     },
     {
       "surface": "לשרקה",
-      "gloss": "n'iji ọnụ ọchị na-akwa"
+      "gloss": "ihe a na-akụ ụkwụ n'ọnụ"
     },
     {
       "surface": "ולקללה",
-      "gloss": "na n'ekwé"
+      "gloss": "na ihe a na-ekụta ọnụ"
     },
     {
       "surface": "כיום",
@@ -81,6 +80,6 @@
       "gloss": "a"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.242225680Z",
+  "timestamp": "2026-08-27T17:46:55.573067797Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 72,
-  "translation": "Eze Tarshish na ⟨ה⟩agwaetiti ga-atụgharị ⟨את⟩ ihe ọtụtụ; eze Sheba na Sba ga-edọta ⟨את⟩ onyinye ọnụahịa.",
+  "translation": "Eze ndị Tarshish na ⟨את⟩ agwaetiti ndị ga-ewetara onyinye; eze ndị Sheba na Sva ga-edozi onyinye-nleta.",
   "tokens": [
     {
       "surface": "מלכי",
-      "gloss": "eze"
+      "gloss": "eze ndị"
     },
     {
       "surface": "תרשיש",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "ואיים",
-      "gloss": "na agwaetiti"
+      "gloss": "na agwaetiti ndị"
     },
     {
       "surface": "מנחה",
-      "gloss": "ihe ọtụtụ"
+      "gloss": "onyinye-nleta"
     },
     {
       "surface": "ישיבו",
-      "gloss": "ga-atụgharị"
+      "gloss": "ga-edozi"
     },
     {
       "surface": "מלכי",
-      "gloss": "eze"
+      "gloss": "eze ndị"
     },
     {
       "surface": "שבא",
@@ -37,17 +37,17 @@
     },
     {
       "surface": "וסבא",
-      "gloss": "na Sba"
+      "gloss": "na Sva"
     },
     {
       "surface": "אשכר",
-      "gloss": "onyinye ọnụahịa"
+      "gloss": "onyinye"
     },
     {
       "surface": "יקריבו",
-      "gloss": "ga-edọta"
+      "gloss": "ga-ewetara"
     }
   ],
-  "timestamp": "2026-08-27T13:39:18.980250725Z",
+  "timestamp": "2026-08-27T17:53:49.265077377Z",
   "model": "glm-5.3"
 }

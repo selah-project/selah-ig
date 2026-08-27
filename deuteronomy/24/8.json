@@ -5,23 +5,23 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 24,
-  "translation": "Kpachara anya n'ọrịa ajọ akpụ, iji chekwaa nke ọma ma mee ihe dịka ihe niile ndị nchụàjà ndị Lẹvi ga-akụziri unו; dịka m si nye ha iwu, ka unו ga-echebe ime.",
+  "translation": "Chekwaa onwe gị n'ihe gbasara ọrịa akpụ n'ahụ, ka ị lebara anya nke ọma ma mee ihe dịka ihe niile ndị nchụàja ndị Levi ga-akuziri gị ⟨את⟩; dịka m nyere ha iwu, ka unu na-eleba anya ime ya.",
   "tokens": [
     {
       "surface": "השמר",
-      "gloss": "kpachara anya"
+      "gloss": "Chekwaa onwe gị"
     },
     {
       "surface": "בנגע",
-      "gloss": "n'ọrịa"
+      "gloss": "n'ihe gbasara ọrịa akpụ"
     },
     {
       "surface": "הצרעת",
-      "gloss": "ajọ akpụ"
+      "gloss": "n'ahụ"
     },
     {
       "surface": "לשמר",
-      "gloss": "iji chekwaa"
+      "gloss": "ka ị lebara anya"
     },
     {
       "surface": "מאד",
@@ -41,19 +41,20 @@
     },
     {
       "surface": "יורו",
-      "gloss": "ga-akụziri"
+      "gloss": "ga-akuziri"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ unו"
+      "gloss": "⟨את⟩ gị",
+      "marks": "gị"
     },
     {
       "surface": "הכהנים",
-      "gloss": "ndị nchụàjà"
+      "gloss": "ndị nchụàja"
     },
     {
       "surface": "הלוים",
-      "gloss": "ndị Lẹvi"
+      "gloss": "ndị Levi"
     },
     {
       "surface": "כאשר",
@@ -61,17 +62,17 @@
     },
     {
       "surface": "צויתם",
-      "gloss": "m si nye ha iwu"
+      "gloss": "m nyere ha iwu"
     },
     {
       "surface": "תשמרו",
-      "gloss": "unו ga-echebe"
+      "gloss": "ka unu na-eleba anya"
     },
     {
       "surface": "לעשות",
-      "gloss": "ime"
+      "gloss": "ime ya"
     }
   ],
-  "timestamp": "2026-08-27T08:09:49.194076550Z",
+  "timestamp": "2026-08-27T17:36:27.541840256Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 17,
-  "translation": "Ma Eliab nwanne ya nke okenye nụrụ ka ọ na-ekwu okwu ⟨the⟩ ndị ikom; ma iwe Eliab wee malite ọkụ n'ihi Devid, o wee sị, Maka gịnị ka i si bịa nke a? ma nye onye ka i hapụrụ obere ⟨the⟩ atụrụ ndị a n'ọzara? M mara ⟨את⟩ obi ike nzuzu gị na ⟨את⟩ ajọ omume nke obi gị; n'ihi na ọ bụ ka ị hụ ⟨the⟩ agha ka i bịara.",
+  "translation": "Eliab, nwanne ya nwoke tọrọ ya, nụrụ ka ọ na-ekwu okwu ⟨ruo⟩ ndị ikom ahụ; iwe Eliab wee were Dawid, o wee si: Maka gịnị ka i si n'ala bịa? nye onye ka ị hapụrụ atụrụ ndị ole na ole ndị a n'ọzara? M mara ⟨את⟩ ile ọnya gị na ⟨את⟩ ajọkpọrọ obi gị; n'ihi na ịchọrọ ịhụ agha ka i si n'ala bịa.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "nwanne ya"
+      "gloss": "nwanne ya nwoke"
     },
     {
       "surface": "הגדול",
-      "gloss": "nke okenye"
+      "gloss": "tọrọ ya"
     },
     {
       "surface": "בדברו",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨ruo⟩"
     },
     {
       "surface": "האנשים",
-      "gloss": "⟨the⟩ ndị ikom"
+      "gloss": "ndị ikom ahụ"
     },
     {
       "surface": "ויחר",
-      "gloss": "iwe wee malite"
+      "gloss": "iwe were"
     },
     {
       "surface": "אף",
-      "gloss": "ọkụ"
+      "gloss": "iwe"
     },
     {
       "surface": "אליאב",
@@ -49,27 +49,27 @@
     },
     {
       "surface": "בדוד",
-      "gloss": "n'ihi Devid"
+      "gloss": "Dawid"
     },
     {
       "surface": "ויאמר",
-      "gloss": "o wee sị"
+      "gloss": "o wee si"
     },
     {
       "surface": "למה",
-      "gloss": "maka gịnị"
+      "gloss": "Maka gịnị"
     },
     {
       "surface": "זה",
-      "gloss": "nke a"
+      "gloss": "a"
     },
     {
       "surface": "ירדת",
-      "gloss": "i si bịa"
+      "gloss": "i si n'ala bịa"
     },
     {
       "surface": "ועל",
-      "gloss": "ma nye"
+      "gloss": "nye"
     },
     {
       "surface": "מי",
@@ -77,19 +77,19 @@
     },
     {
       "surface": "נטשת",
-      "gloss": "i hapụrụ"
+      "gloss": "ị hapụrụ"
     },
     {
       "surface": "מעט",
-      "gloss": "obere"
+      "gloss": "ole na ole"
     },
     {
       "surface": "הצאן",
-      "gloss": "⟨the⟩ atụrụ"
+      "gloss": "atụrụ"
     },
     {
       "surface": "ההנה",
-      "gloss": "ndị a"
+      "gloss": "ndị ahụ"
     },
     {
       "surface": "במדבר",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "m"
+      "gloss": "M"
     },
     {
       "surface": "ידעתי",
@@ -106,24 +106,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "obi ike nzuzu gị"
+      "marks": "ile ọnya gị"
     },
     {
       "surface": "זדנך",
-      "gloss": "obi ike nzuzu gị"
+      "gloss": "ile ọnya gị"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ajọ omume nke obi gị"
+      "marks": "ajọkpọrọ obi gị"
     },
     {
       "surface": "רע",
-      "gloss": "ajọ omume"
+      "gloss": "ajọkpọrọ"
     },
     {
       "surface": "לבבך",
-      "gloss": "nke obi gị"
+      "gloss": "obi gị"
     },
     {
       "surface": "כי",
@@ -131,21 +131,21 @@
     },
     {
       "surface": "למען",
-      "gloss": "ka"
+      "gloss": "ịchọrọ"
     },
     {
       "surface": "ראות",
-      "gloss": "ị hụ"
+      "gloss": "ịhụ"
     },
     {
       "surface": "המלחמה",
-      "gloss": "⟨the⟩ agha"
+      "gloss": "agha"
     },
     {
       "surface": "ירדת",
-      "gloss": "i bịara"
+      "gloss": "i si n'ala bịa"
     }
   ],
-  "timestamp": "2026-08-27T09:16:17.105562955Z",
+  "timestamp": "2026-08-27T17:40:53.989345350Z",
   "model": "glm-5.3"
 }

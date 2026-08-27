@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 11,
-  "translation": "Ma ziri-ezi ga-abụ ⟨the⟩ eriri úkwù ya, na okwukwe ⟨the⟩ eriri úkwù dị n'akụkụ ya.",
+  "translation": "Ma ikpe-ziri-ezi ga-abụ ⟨את⟩ eriri úkwù ya, ma okwukwe ga-abụ ⟨את⟩ eriri nke ọdụdụ ya.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "ma ga-abụ"
+      "gloss": "ma ọ ga-abụ"
     },
     {
       "surface": "צדק",
-      "gloss": "ziri-ezi"
+      "gloss": "ikpe-ziri-ezi"
     },
     {
       "surface": "אזור",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "והאמונה",
-      "gloss": "na okwukwe"
+      "gloss": "ma okwukwe"
     },
     {
       "surface": "אזור",
-      "gloss": "eriri úkwù"
+      "gloss": "eriri"
     },
     {
       "surface": "חלציו",
-      "gloss": "akụkụ úkwù ya"
+      "gloss": "ọdụdụ ya"
     }
   ],
-  "timestamp": "2026-08-27T16:38:31.544840141Z",
+  "timestamp": "2026-08-27T17:44:23.602023822Z",
   "model": "glm-5.3"
 }

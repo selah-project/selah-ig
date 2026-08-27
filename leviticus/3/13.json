@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 3,
-  "translation": "ọ ga-etinye ⟨את⟩ aka ya n'isi ya, ma gbuo ⟨את⟩ ya n'ihu ụlọ nzukọ, ma ụmụ Aharon ga-ṅụfụ ⟨את⟩ ọbara ya n'elu ⟨the⟩ ebe ịchụàjà gburugburu.",
+  "translation": "ọ wee were aka ya tinye n'isi ya, wee chụọ ya n'ala n'ihu ụlọikwu nzukọ, ụmụ Aharon wee ZIPU ⟨את⟩ ọbara ya n'elu ebe ịchụàjà gburugburu.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "ọ ga-etinye"
+      "gloss": "ọ wee tinye aka"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "על",
-      "gloss": "n'"
+      "gloss": "n'elu"
     },
     {
       "surface": "ראשו",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "ושחט",
-      "gloss": "ma gbuo"
+      "gloss": "wee chụọ ya n'ala"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ya",
-      "marks": "ya (nwụrụ anwụ — atụ gaa n'ihu okwu)"
+      "gloss": "⟨את⟩",
+      "marks": "ya (ewe n'ịchụàjà)"
     },
     {
       "surface": "לפני",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "אהל",
-      "gloss": "ụlọ"
+      "gloss": "ụlọikwu"
     },
     {
       "surface": "מועד",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "וזרקו",
-      "gloss": "ma ha ga-atụfụ"
+      "gloss": "ha wee zipuo"
     },
     {
       "surface": "בני",
@@ -83,6 +83,6 @@
       "gloss": "gburugburu"
     }
   ],
-  "timestamp": "2026-08-27T16:25:51.742987364Z",
+  "timestamp": "2026-08-27T17:32:07.294080993Z",
   "model": "glm-5.3"
 }

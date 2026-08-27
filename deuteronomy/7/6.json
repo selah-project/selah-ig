@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 7,
-  "translation": "N'ihi na unu bụ ndị dị nsọ nye Yahwe Elohim gị; Yahwe Elohim gị họọrọ unu ka unu bụrụ ya ndị akụ nzuzo, n'ime ⟨the⟩ ndị niile nọ n'ihu ⟨the⟩ ala.",
+  "translation": "N'ihi na ị bụ nnọọ otu dị nsọ nye Yahwe, Elohim gị; na gị Yahwe, Elohim gị họpụtara, ka ị bụrụ ya maka-ndị-akụ-na-uba-pụrụ-iche, n'etiti ndị niile dị n'elu ihu ⟨ala⟩.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "ndị"
+      "gloss": "otu"
     },
     {
       "surface": "קדוש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "unu bụ"
+      "gloss": "ị"
     },
     {
       "surface": "ליהוה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "בך",
-      "gloss": "unu"
+      "gloss": "na gị"
     },
     {
       "surface": "בחר",
-      "gloss": "họọrọ"
+      "gloss": "họpụtara"
     },
     {
       "surface": "יהוה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "להיות",
-      "gloss": "ka unu bụrụ"
+      "gloss": "ka ị bụrụ"
     },
     {
       "surface": "לו",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "לעם",
-      "gloss": "ndị"
+      "gloss": "maka-ndị"
     },
     {
       "surface": "סגלה",
-      "gloss": "akụ nzuzo"
+      "gloss": "akụ-na-uba-pụrụ-iche"
     },
     {
       "surface": "מכל",
-      "gloss": "n'ime niile"
+      "gloss": "n'etiti niile"
     },
     {
       "surface": "העמים",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nọ"
+      "gloss": "dị"
     },
     {
       "surface": "על",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "ala"
+      "gloss": "⟨ala⟩"
     }
   ],
-  "timestamp": "2026-08-27T07:55:19.729862141Z",
+  "timestamp": "2026-08-27T17:35:24.839194948Z",
   "model": "glm-5.3"
 }

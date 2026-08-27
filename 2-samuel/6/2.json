@@ -1,1 +1,106 @@
-{"tier":"glm-5.2","verse":2,"ref":"2-samuel 6:2","book":"2-samuel","lang":"ig","chapter":6,"translation":"Dawid bilie wee gaa, ya na ndị niile ndị ya nọ, site na Baale-Yehudah, i bulie site n'ebe ahụ ⟨את⟩ igbe nke Elohim, nke a na-akpọ Aha ya — Aha Yahwe Tsevaot, Onye nọdụrụ n'elu ⟨the⟩ kerub, ya.","tokens":[{"surface":"ויקם","gloss":"bilie"},{"surface":"וילך","gloss":"gaa"},{"surface":"דוד","gloss":"Dawid"},{"surface":"וכל","gloss":"ya na ndị niile"},{"surface":"העם","gloss":"ndị"},{"surface":"אשר","gloss":"ndị"},{"surface":"אתו","gloss":"⟨את⟩ ya nọ","marks":"ya"},{"surface":"מבעלי","gloss":"site na Baale"},{"surface":"יהודה","gloss":"Yehudah"},{"surface":"להעלות","gloss":"i bulie"},{"surface":"משם","gloss":"site n'ebe ahụ"},{"surface":"את","gloss":"⟨את⟩","marks":"igbe nke Elohim"},{"surface":"ארון","gloss":"igbe"},{"surface":"האלהים","gloss":"nke Elohim"},{"surface":"אשר","gloss":"nke"},{"surface":"נקרא","gloss":"a na-akpọ"},{"surface":"שם","gloss":"Aha"},{"surface":"שם","gloss":"Aha"},{"surface":"יהוה","gloss":"Yahwe"},{"surface":"צבאות","gloss":"Tsevaot"},{"surface":"ישב","gloss":"Onye nọdụrụ"},{"surface":"הכרבים","gloss":"n'elu ⟨the⟩ kerub"},{"surface":"עליו","gloss":"ya"}],"timestamp":"2026-08-27T09:33:53.483231821Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 6:2",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ọ bụkwa ka David bilie wee gaa, ya na ndị mmadụ niile ndị nọ ⟨את⟩ ya, site na Baale-Yehuda, i bulite site n'ebe ahụ ⟨את⟩ ọgba mmiri nke Elohim, nke a na-akpọ Aha ya — Aha Yahwe nke ndị agha eluigwe, Onye nọdụrụ n'elu kerubim, n'elu ya.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "birie"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wee gaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ya na niile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndị mmadụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndị"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ya"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "site na Baale"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "i bulite"
+    },
+    {
+      "surface": "משם",
+      "gloss": "site n'ebe ahụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ọgba mmiri nke Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ọgba mmiri"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "a na-akpọ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "nke ndị agha eluigwe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "Onye nọdụrụ"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "n'elu kerubim"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "n'elu ya"
+    }
+  ],
+  "timestamp": "2026-08-27T17:39:39.795214408Z",
+  "model": "glm-5.3"
+}

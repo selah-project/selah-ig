@@ -5,23 +5,24 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 14,
-  "translation": "Ya, Yowab zipụtara ⟨ndị⟩ Tikowa, wee were n'ebe ahụ nwaanyị amamihi, wee soro ya: Bịanye uche iru uju, biko, yee yiri uwe iru uju, biko, ọnọdụ ọ ga-esi bụrụ ka nwaanyị a na-eru uju ọtụtụ ụbọchị maka onye nwụrụ anwụ, ma ọ bụṅ̄ mmiri ose.",
+  "translation": "Jọab zipụkwara Tekoa, wee were n'ebe ahụ nwanyị nke nwere amamihe, wee sọ ya: Ṅụọ m arịrịọ, yie onye na-eru uju, yie uwe iru-uju, esoghị mmanụ ala; ọ gwụla ma ị ga-adị ka nwanyị nke ruoro ọtụtụ ụbọchị uju n'elu onye nwụrụ anwụ.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ya, o zipụtara"
+      "gloss": "zipụkwara"
     },
     {
       "surface": "יואב",
-      "gloss": "Yowab"
+      "gloss": "Jọab"
     },
     {
       "surface": "תקועה",
-      "gloss": "Tikowa"
+      "gloss": "Tekoa",
+      "marks": "Tekoa"
     },
     {
       "surface": "ויקח",
-      "gloss": "o were"
+      "gloss": "wee were"
     },
     {
       "surface": "משם",
@@ -29,15 +30,15 @@
     },
     {
       "surface": "אשה",
-      "gloss": "nwaanyị"
+      "gloss": "nwanyị"
     },
     {
       "surface": "חכמה",
-      "gloss": "amamihi"
+      "gloss": "nke nwere amamihe"
     },
     {
       "surface": "ויאמר",
-      "gloss": "o soro ya"
+      "gloss": "wee sọ"
     },
     {
       "surface": "אליה",
@@ -45,23 +46,19 @@
     },
     {
       "surface": "התאבלי",
-      "gloss": "bịanye uche iru uju"
+      "gloss": "yie onye na-eru uju"
     },
     {
       "surface": "נא",
-      "gloss": "biko"
-    },
-    {
-      "surface": "ויאמר",
-      "gloss": ""
+      "gloss": "Ṅụọ m arịrịọ"
     },
     {
       "surface": "ולבשי",
-      "gloss": "yee yiri"
+      "gloss": "yie"
     },
     {
       "surface": "נא",
-      "gloss": "biko"
+      "gloss": "arịrịọ"
     },
     {
       "surface": "בגדי",
@@ -69,35 +66,35 @@
     },
     {
       "surface": "אבל",
-      "gloss": "iru uju"
+      "gloss": "iru-uju"
     },
     {
       "surface": "ואל",
-      "gloss": "ma ọ bụ"
+      "gloss": "esoghị"
     },
     {
       "surface": "תסוכי",
-      "gloss": "ọ ga-esi"
+      "gloss": "te"
     },
     {
       "surface": "שמן",
-      "gloss": "mmiri ose"
+      "gloss": "mmanụ ala"
     },
     {
       "surface": "והיית",
-      "gloss": "ọnọdụ ọ ga-adị"
+      "gloss": "ọ gwụla ma ị ga-adị"
     },
     {
       "surface": "כאשה",
-      "gloss": "ka nwaanyị"
+      "gloss": "ka nwanyị"
     },
     {
       "surface": "זה",
-      "gloss": "a"
+      "gloss": "nke a"
     },
     {
       "surface": "ימים",
-      "gloss": "ọtụtụ ụbọchị"
+      "gloss": "ụbọchị"
     },
     {
       "surface": "רבים",
@@ -105,17 +102,17 @@
     },
     {
       "surface": "מתאבלת",
-      "gloss": "na-eru uju"
+      "gloss": "ruoro uju"
     },
     {
       "surface": "על",
-      "gloss": "maka"
+      "gloss": "n'elu"
     },
     {
       "surface": "מת",
       "gloss": "onye nwụrụ anwụ"
     }
   ],
-  "timestamp": "2026-08-27T09:37:39.415255137Z",
+  "timestamp": "2026-08-27T18:16:27.986967637Z",
   "model": "glm-5.3"
 }

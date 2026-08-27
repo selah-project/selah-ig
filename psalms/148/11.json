@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 148,
-  "translation": "Eze ⟨the⟩ ụwa, na mba niile; ndị isi, na ndị ikpe niile nke ụwa,",
+  "translation": "Eze ⟨nke⟩ ụwa na ndị agbụrụ niile; ndị isi na ndị ikpe niile nke ụwa,",
   "tokens": [
     {
       "surface": "מלכי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לאמים",
-      "gloss": "mba"
+      "gloss": "ndị agbụrụ"
     },
     {
       "surface": "שרים",
@@ -40,6 +40,6 @@
       "gloss": "ụwa"
     }
   ],
-  "timestamp": "2026-08-27T14:10:03.767713471Z",
+  "timestamp": "2026-08-27T17:54:45.110413659Z",
   "model": "glm-5.3"
 }

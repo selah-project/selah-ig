@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 7,
-  "translation": "Israel emeela mmehie, ha gafekwara ⟨את⟩ ọgbụgba-ndụ m nke m nyere ha iwu; ha wekwara ihe n'ihe e kpenduru, ha zuru, ha ghaara, ha tinyekwara n'ihe ha.",
+  "translation": "Israel rehie, ha mekwara ⟨את⟩ ọgbụgba-ndụ m nke m nyere iwu, ha wekwara ihe site n'ọọchị Herem, ha zuokwara ohi, ha gha ekwu eziokwu, ha tinyekwara ha n'ọụgbọ ndị ha.",
   "tokens": [
     {
       "surface": "חטא",
-      "gloss": "emeela mmehie"
+      "gloss": "rehie"
     },
     {
       "surface": "ישראל",
@@ -17,7 +17,11 @@
     },
     {
       "surface": "וגם",
-      "gloss": "ha gafekwara"
+      "gloss": "ha mekwara"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "mehie"
     },
     {
       "surface": "את",
@@ -26,7 +30,7 @@
     },
     {
       "surface": "בריתי",
-      "gloss": "⟨את⟩ ọgbụgba-ndụ m"
+      "gloss": "ọgbụgba-ndụ m"
     },
     {
       "surface": "אשר",
@@ -38,53 +42,53 @@
     },
     {
       "surface": "אותם",
-      "gloss": "ha"
+      "gloss": "⟨את⟩ ha"
     },
     {
       "surface": "וגם",
-      "gloss": "⟨את⟩ kwa"
+      "gloss": "ha wekwara"
     },
     {
       "surface": "לקחו",
-      "gloss": "ha were"
+      "gloss": "ihe"
     },
     {
       "surface": "מן",
-      "gloss": "n'ihe"
+      "gloss": "site na"
     },
     {
       "surface": "החרם",
-      "gloss": "ihe e kpenduru"
+      "gloss": "ọọchị Herem"
     },
     {
       "surface": "וגם",
-      "gloss": "kwa"
+      "gloss": "ha zuokwara"
     },
     {
       "surface": "גנבו",
-      "gloss": "ha zuru"
+      "gloss": "ohi"
     },
     {
       "surface": "וגם",
-      "gloss": "kwa"
+      "gloss": "ha gha ekwu kwara"
     },
     {
       "surface": "כחשו",
-      "gloss": "ha ghaara"
+      "gloss": "eziokwu"
     },
     {
       "surface": "וגם",
-      "gloss": "kwa"
+      "gloss": "ha tinyekwara"
     },
     {
       "surface": "שמו",
-      "gloss": "ha tinyere"
+      "gloss": "ha"
     },
     {
       "surface": "בכליהם",
-      "gloss": "n'ihe ha"
+      "gloss": "n'ọụgbọ ndị ha"
     }
   ],
-  "timestamp": "2026-08-27T16:31:27.200374491Z",
+  "timestamp": "2026-08-27T17:37:07.960110726Z",
   "model": "glm-5.3"
 }

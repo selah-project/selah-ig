@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 28,
-  "translation": "Yahwe ga-eme ka ⟨את⟩ ọrịa na-efe efe ratakọọ n'ahụ gị, ruo mgbe ọ ga-eri gị ichie n'elu ⟨the⟩ ala nke ị na-abanye n'ebe ahụ iji nweta ya.",
+  "translation": "Yahwe ga-adọrọ ⟨את⟩ ọrịa na-efe na gị, ruo mgbe ọ gwụchara gị n'elu ⟨את⟩ ala nke ị na-abanye n'ebe ahụ iji weghara ⟨את⟩ ya.",
   "tokens": [
     {
       "surface": "ידבק",
-      "gloss": "ga-eme ka ... ratakọọ"
+      "gloss": "ga-adọrọ"
     },
     {
       "surface": "יהוה",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "בך",
-      "gloss": "n'ahụ gị"
+      "gloss": "na gị"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọrịa na-efe efe"
+      "marks": "ọrịa na-efe"
     },
     {
       "surface": "הדבר",
-      "gloss": "ọrịa na-efe efe"
+      "gloss": "ọrịa na-efe"
     },
     {
       "surface": "עד",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "כלתו",
-      "gloss": "ọ ga-eri gị ichie"
+      "gloss": "ọ gwụchara"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ gi"
+      "gloss": "⟨את⟩ gị"
     },
     {
       "surface": "מעל",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "iji nweta ya"
+      "gloss": "iji weghara ya"
     }
   ],
-  "timestamp": "2026-08-27T08:13:51.913246556Z",
+  "timestamp": "2026-08-27T18:16:27.991334688Z",
   "model": "glm-5.3"
 }

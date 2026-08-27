@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Ma ndị okenye nke ụlọ ya biliri n'akụkụ ya iji bulie ya elu site n'⟨the⟩ ala, ma ọ jụrụ, ọ jụkwọ iri ⟨את⟩ ha nri.",
+  "translation": "Ndị okenye nke ụlọ ya biliri n'elu ya, ka ha wee bulie ya elu site n'ụwa, ma ọ chịrị ọjị, ma ọ sọghị ⟨את⟩ nnọkọ ha ri achịcha.",
   "tokens": [
     {
       "surface": "ויקמו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "עליו",
-      "gloss": "n'akụkụ ya"
+      "gloss": "n'elu ya"
     },
     {
       "surface": "להקימו",
-      "gloss": "iji bulie ya elu"
+      "gloss": "ka ha wee bulie ya elu"
     },
     {
       "surface": "מן",
@@ -33,34 +33,34 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ala"
+      "gloss": "ụwa"
     },
     {
       "surface": "ולא",
-      "gloss": "ma ọ jụrụ"
+      "gloss": "ma ọ chịrị ọjị na"
     },
     {
       "surface": "אבה",
-      "gloss": "jụrụ"
+      "gloss": "ọjị"
     },
     {
       "surface": "ולא",
-      "gloss": "ọ jụkwọ"
+      "gloss": "ma ọ sọghị"
     },
     {
       "surface": "ברא",
-      "gloss": "iri"
+      "gloss": "ri"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ha"
+      "marks": "nnọkọ ha (n'akụkụ ha)"
     },
     {
       "surface": "לחם",
-      "gloss": "nri"
+      "gloss": "achịcha"
     }
   ],
-  "timestamp": "2026-08-27T09:35:09.329603771Z",
+  "timestamp": "2026-08-27T18:21:44.688336620Z",
   "model": "glm-5.3"
 }

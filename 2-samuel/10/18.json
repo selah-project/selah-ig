@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 10,
-  "translation": "Aram gbara ọsọ n'ihu Yisrael; Dawid gburu n'Aram ndị narị asaa nke ụgbọ agha, na puku anọ nke ndị na-agba יענya ịnyịnya agha, ma kụọ ⟨את⟩ Shobak onyeisi ndị agha ya, ọ nwụkwara n'ebe ahụ.",
+  "translation": "Aram gbapụrụ n'ihu Yisrael; ma Dawid gburu n'Aram ndị ọgụụ nke ụgbọ ịnyịnya asaa nke narị, na ndị agha ịnyịnya pụkụ anọ; ma ọ kụrụ ⟨את⟩ Shovakh, onyeisi ndị agha ya, ma ọ nwụrụ n'ebe ahụ.",
   "tokens": [
     {
       "surface": "וינס",
-      "gloss": "gbara ọsọ"
+      "gloss": "gbapụrụ"
     },
     {
       "surface": "ארם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויהרג",
-      "gloss": "gburu"
+      "gloss": "ma gburu"
     },
     {
       "surface": "דוד",
@@ -45,28 +45,28 @@
     },
     {
       "surface": "רכב",
-      "gloss": "ụgbọ agha"
+      "gloss": "ụgbọ ịnyịnya"
     },
     {
       "surface": "וארבעים",
-      "gloss": "anọ"
+      "gloss": "na anọ"
     },
     {
       "surface": "אלף",
-      "gloss": "puku"
+      "gloss": "pụkụ"
     },
     {
       "surface": "פרשים",
-      "gloss": "ndị na-agba ịnyịnya"
+      "gloss": "ndị agha ịnyịnya"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Shobak"
+      "marks": "Shovakh"
     },
     {
       "surface": "שובך",
-      "gloss": "Shobak"
+      "gloss": "Shovakh"
     },
     {
       "surface": "שר",
@@ -78,17 +78,17 @@
     },
     {
       "surface": "הכה",
-      "gloss": "kụọrọ"
+      "gloss": "kụrụ"
     },
     {
       "surface": "וימת",
-      "gloss": "nwụrụ"
+      "gloss": "ma nwụrụ"
     },
     {
       "surface": "שם",
       "gloss": "n'ebe ahụ"
     }
   ],
-  "timestamp": "2026-08-27T09:35:10.408432416Z",
+  "timestamp": "2026-08-27T18:01:10.957397069Z",
   "model": "glm-5.3"
 }

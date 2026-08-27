@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 32,
-  "translation": "Ọ wee bụrụ na mgbe ọ gbatara nso n'ogige ahụ, ọ hụrụ ⟨את⟩ nwa ehi ahụ na ịgba egwu; iwe Moshe gbasiri ọkụ, o wee tụfuо n'aka ya ⟨את⟩ tebụl ahụ ndị ahụ, ma mebie ha n'okpuru ugwu ahụ.",
+  "translation": "Ọ bụkwa na mgbe ọ gbagara nso n'ogige ahụ, ọ hụrụ ⟨את⟩ nwa ehi ahụ na ịgba egwu, wee bụọ na iwe Moshe riri ya, o tụfuru n'aka ya ⟨את⟩ tebụl ndị ahụ, wee bụgbasịa ha n'okpuru ugwu ahụ.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ọ wee bụrụ"
+      "gloss": "Ọ bụkwa na"
     },
     {
       "surface": "כאשר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "קרב",
-      "gloss": "ọ gbatara nso"
+      "gloss": "ọ gbagara nso"
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "n'"
     },
     {
       "surface": "המחנה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ויחר",
-      "gloss": "gbasiri ọkụ"
+      "gloss": "wee bụọ na iwe riri ya"
     },
     {
       "surface": "אף",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "וישלך",
-      "gloss": "o wee tụfuо"
+      "gloss": "o tụfuru"
     },
     {
       "surface": "מידו",
@@ -67,20 +67,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tebụl ahụ"
+      "marks": "tebụl ndị ahụ"
     },
     {
       "surface": "הלחת",
-      "gloss": "tebụl ahụ"
+      "gloss": "tebụl ndị ahụ"
     },
     {
       "surface": "וישבר",
-      "gloss": "ma mebie"
+      "gloss": "wee bụgbasịa"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ha"
+      "marks": "ha (tebụl ndị ahụ)"
     },
     {
       "surface": "תחת",
@@ -91,6 +91,6 @@
       "gloss": "ugwu ahụ"
     }
   ],
-  "timestamp": "2026-08-27T06:36:49.913046927Z",
+  "timestamp": "2026-08-27T17:31:14.077724344Z",
   "model": "glm-5.3"
 }

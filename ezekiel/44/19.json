@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 44,
-  "translation": "Mgbe ha na-apụ gaa n'ogige ⟨the⟩ mpụga, ruo n'ogige ⟨the⟩ mpụga, n'etiti ndị mmadụ, ha ga-eyipụ ⟨את⟩ uwe ha nke ha na-ejere ozi n'ime ya, tinyekwa ha n'ime ụlọ nsọ, yeyekwa uwe ndị ọzọ; ha gaghị ido nsọ ⟨את⟩ ndị mmadụ site na uwe ha.",
+  "translation": "Mgbe ha na-apụ gaa n'ogige mpụga, n'ogige mpụga, ruo n'ebe ndị mmadụ nọ, ha ga-eyipụ ⟨את⟩ uwe ha nke ha na-ejere ozi n'ime ya, ha ga-edebe ha n'ime ụlọ nsọ, ha ga-eyi uwe ndị ọzọ; ha ga-ekwesịghị ime ka ⟨את⟩ ndị mmadụ bụrụ nsọ site n'uwe ha.",
   "tokens": [
     {
       "surface": "ובצאתם",
@@ -17,7 +17,19 @@
     },
     {
       "surface": "החצר",
-      "gloss": "ogige"
+      "gloss": "n'ogige"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "mpụga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "n'ogige"
     },
     {
       "surface": "החיצונה",
@@ -26,18 +38,6 @@
     {
       "surface": "אל",
       "gloss": "ruo"
-    },
-    {
-      "surface": "החצר",
-      "gloss": "ogige"
-    },
-    {
-      "surface": "החיצונה",
-      "gloss": "mpụga"
-    },
-    {
-      "surface": "אל",
-      "gloss": "n'etiti"
     },
     {
       "surface": "העם",
@@ -74,12 +74,12 @@
     },
     {
       "surface": "והניחו",
-      "gloss": "tinyekwa"
+      "gloss": "ha ga-edebe"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "ụlọ nsọ"
+      "gloss": "⟨את⟩ ha",
+      "marks": "ha (uwe ahụ)"
     },
     {
       "surface": "בלשכת",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "ולבשו",
-      "gloss": "yeyekwa"
+      "gloss": "ha ga-eyi"
     },
     {
       "surface": "בגדים",
@@ -103,11 +103,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ha gaghị"
+      "gloss": "ha ga-ekwesịghị"
     },
     {
       "surface": "יקדשו",
-      "gloss": "ido nsọ"
+      "gloss": "ime ka...bụrụ nsọ"
     },
     {
       "surface": "את",
@@ -120,9 +120,9 @@
     },
     {
       "surface": "בבגדיהם",
-      "gloss": "site na uwe ha"
+      "gloss": "site n'uwe ha"
     }
   ],
-  "timestamp": "2026-08-27T16:45:03.134861683Z",
+  "timestamp": "2026-08-27T17:50:29.343136643Z",
   "model": "glm-5.3"
 }

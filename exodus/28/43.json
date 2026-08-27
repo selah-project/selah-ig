@@ -1,1 +1,109 @@
-{"tier":"glm-5.2","verse":43,"ref":"exodus 28:43","book":"exodus","lang":"ig","chapter":28,"translation":"Ha ga-adị n'Aharon na n'ụmụ ya, mgbe ha na-abanye n'⟨the⟩ ụlọikwu nzukọ, ma ọ bụ mgbe ha na-eru nso n'⟨the⟩ èbù ahụ ije ozi n'ebe nsọ, ka ha ebughị ikpe na-agha na-anwụ; ọ bụ iwu ruo mgbe ebighị ebi maka ya na maka mkpụrụ ya ndị ga-abịa mgbe ya.","tokens":[{"surface":"והיו","gloss":"ha ga-adị"},{"surface":"על","gloss":"na (elu)"},{"surface":"אהרן","gloss":"Aharon"},{"surface":"ועל","gloss":"na"},{"surface":"בניו","gloss":"ụmụ ya"},{"surface":"בבאם","gloss":"mgbe ha na-abanye"},{"surface":"אל","gloss":"na"},{"surface":"אהל","gloss":"ụlọikwu"},{"surface":"מועד","gloss":"nzukọ (mo'ed)"},{"surface":"או","gloss":"ma ọ bụ"},{"surface":"בגשתם","gloss":"mgbe ha na-eru nso"},{"surface":"אל","gloss":"na"},{"surface":"המזבח","gloss":"èbù ahụ"},{"surface":"לשרת","gloss":"ije ozi"},{"surface":"בקדש","gloss":"n'ebe nsọ"},{"surface":"ולא","gloss":"ka ha e-"},{"surface":"ישאו","gloss":"bughị"},{"surface":"עון","gloss":"ikpe na-agha"},{"surface":"ומתו","gloss":"na-anwụ"},{"surface":"חקת","gloss":"iwu"},{"surface":"עולם","gloss":"ruo mgbe ebighị ebi"},{"surface":"לו","gloss":"maka ya"},{"surface":"ולזרעו","gloss":"na maka mkpụrụ ya"},{"surface":"אחריו","gloss":"ndị ga-abịa mgbe ya"}],"timestamp":"2026-08-27T06:32:45.427348717Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 28:43",
+  "book": "exodus",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ha ga-adịrị na Aharon na ụmụ ya, mgbe ha na-abata n'ụlọikwu nzukọ, ma ọ bụ mgbe ha na-eru nso n'èkwè nsọ iji na-eje ozi n'ebe dị nsọ, ka ha ebugharịghị ikpe na-ezighị ezi, wee nwụọ; ọ ga-abụ iwu ebighị ebi maka ya na maka mmiri ya ndị ga-abịa n'azụ ya.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ha ga-adịrị"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na maka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ụmụ ya"
+    },
+    {
+      "surface": "בבאם",
+      "gloss": "mgbe ha na-abata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ụlọikwu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nzukọ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ma ọ bụ"
+    },
+    {
+      "surface": "בגשתם",
+      "gloss": "mgbe ha na-eru nso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "èkwè nsọ"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "iji na-eje ozi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "n'ebe dị nsọ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka ha ebugharịghị"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ebugharị"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ikpe na-ezighị ezi"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "wee nwụọ"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "iwu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ebighị ebi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maka ya"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "na maka mmiri ya"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ndị ga-abịa n'azụ ya"
+    }
+  ],
+  "timestamp": "2026-08-27T17:31:06.582795291Z",
+  "model": "glm-5.3"
+}

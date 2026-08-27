@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 18,
-  "translation": "Shaul tụpụrụ ⟨את⟩ mma agha ahụ, n'ihi na ọ sị, M ga-eti David ruo n'olulu mgbidi; David wee gbapụ n'ihu ya ugboro abụọ.",
+  "translation": "Shaul tụbara ⟨את⟩ ube, wee sị, M ga-akụ David ruo na mgbidi; David zere ihu ya ugboro abụọ.",
   "tokens": [
     {
       "surface": "ויטל",
-      "gloss": "tụpụrụ"
+      "gloss": "tụbara"
     },
     {
       "surface": "שאול",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mma agha ahụ"
+      "marks": "ube"
     },
     {
       "surface": "החנית",
-      "gloss": "mma agha ahụ"
+      "gloss": "ube"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ọ sị"
+      "gloss": "wee sị"
     },
     {
       "surface": "אכה",
-      "gloss": "M ga-eti"
+      "gloss": "m ga-akụ"
     },
     {
       "surface": "בדוד",
@@ -38,15 +38,11 @@
     },
     {
       "surface": "ובקיר",
-      "gloss": "ruo mgbidi"
-    },
-    {
-      "surface": "ובקיר",
-      "gloss": "olu mgbidi"
+      "gloss": "ruo na mgbidi"
     },
     {
       "surface": "ויסב",
-      "gloss": "gbapụrụ"
+      "gloss": "zere"
     },
     {
       "surface": "דוד",
@@ -54,13 +50,13 @@
     },
     {
       "surface": "מפניו",
-      "gloss": "n'ihu ya"
+      "gloss": "ihu ya"
     },
     {
       "surface": "פעמים",
       "gloss": "ugboro abụọ"
     }
   ],
-  "timestamp": "2026-08-27T09:14:17.245450058Z",
+  "timestamp": "2026-08-27T17:39:48.384936596Z",
   "model": "glm-5.3"
 }

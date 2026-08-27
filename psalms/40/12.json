@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 40,
-  "translation": "Gịnị na Onyenwe anyị — ịghara ime ya: Yahwe, ịaghara ikuchi ⟨את⟩ mmetụta-ọmịiko gị n'ebe m nọ; chesed gị na eziokwu gị ga-echebe m mgbe niile.",
+  "translation": "Gị, Yahwe, echekwala mmetụta obi gị mgbu m; chesed gị na eziokwu gị na-echebe m mgbe niile.",
   "tokens": [
     {
       "surface": "אתה",
-      "gloss": "Gịnị"
+      "gloss": "Gị"
     },
     {
       "surface": "יהוה",
@@ -17,31 +17,27 @@
     },
     {
       "surface": "לא",
-      "gloss": "ịaghara"
+      "gloss": "ala"
     },
     {
       "surface": "תכלא",
-      "gloss": "ikuchi"
+      "gloss": "echekwala"
     },
     {
       "surface": "רחמיך",
-      "gloss": "mmetụta-ọmịiko gị"
+      "gloss": "mmetụta obi gị"
     },
     {
       "surface": "ממני",
-      "gloss": "n'ebe m nọ"
+      "gloss": "mgbu m"
     },
     {
       "surface": "חסדך",
       "gloss": "chesed gị"
     },
     {
-      "surface": "ו",
-      "gloss": "na"
-    },
-    {
-      "surface": "אמתך",
-      "gloss": "eziokwu gị"
+      "surface": "ואמתך",
+      "gloss": "na eziokwu gị"
     },
     {
       "surface": "תמיד",
@@ -49,9 +45,9 @@
     },
     {
       "surface": "יצרוני",
-      "gloss": "ga-echebe m"
+      "gloss": "na-echebe m"
     }
   ],
-  "timestamp": "2026-08-27T17:20:37.362425208Z",
+  "timestamp": "2026-08-27T17:53:46.247435160Z",
   "model": "glm-5.3"
 }

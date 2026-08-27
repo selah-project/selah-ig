@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 100,
-  "translation": "N'ihi na Yahwe ⟨is⟩ onye dị mma; ịhụnanya ọgbụgba-ndụ ya na-adị ruo mgbe ebighị ebi, na eziokwu ya ruo ọgbọ na ọgbọ.",
+  "translation": "N'ihi na Yahwe ⟨⟨⟩⟩ di mma; chesed Ya diri ruo mgbe ebighị ebi, ma iguzosi ike Ya ruo ọgbọ na ọgbọ.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "dị mma"
+      "gloss": "di mma"
     },
     {
       "surface": "יהוה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "חסדו",
-      "gloss": "ịhụnanya ọgbụgba-ndụ ya"
+      "gloss": "chesed Ya"
     },
     {
       "surface": "ועד",
-      "gloss": "na ruo"
+      "gloss": "ma ruo"
     },
     {
       "surface": "דר",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "אמונתו",
-      "gloss": "eziokwu ya"
+      "gloss": "iguzosi ike Ya"
     }
   ],
-  "timestamp": "2026-08-27T13:52:29.376805898Z",
+  "timestamp": "2026-08-27T17:54:21.219542857Z",
   "model": "glm-5.3"
 }

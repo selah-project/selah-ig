@@ -5,8 +5,45 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Ahụ m gwụrụ n'ọkwụm m; anya mmiri juru כלל àg Banana ume ọjọọ.\n",
-  "tokens": [],
-  "timestamp": "2026-08-27T13:10:22.151167259Z",
+  "translation": "Amụbaala m na mkpu m; site n'abalị niile, mmiri na-eri akwa m, na anya mmiri m, akwa m na-azọ.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "amụbaala m"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "na mkpu m"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "mmiri na-eri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "site n'abalị niile"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "abalị"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "akwa m"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "na anya mmiri m"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "akwa m"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "na-azọ"
+    }
+  ],
+  "timestamp": "2026-08-27T17:52:26.613255918Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "ig",
   "chapter": 33,
-  "translation": "Ọ na-ele anya n'elu ⟨the⟩ ndị mmadụ, ma na-ekwu: Amehie m, ma mebisiri ihe ziri ezi, ma ọ dịghị uru dịtara nye m.",
+  "translation": "Ọ na-ele ndị mmadụ anya, ma sị: M mehiere, ma m gbagoro ihe ziri ezi, ma ọ dịghị uru ọ bụla nye m.",
   "tokens": [
     {
       "surface": "ישר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "על",
-      "gloss": "n'elu"
+      "gloss": "elu"
     },
     {
       "surface": "אנשים",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ma na-ekwu"
+      "gloss": "ma sị"
     },
     {
       "surface": "חטאתי",
-      "gloss": "amehie m"
+      "gloss": "m mehiere"
     },
     {
       "surface": "וישר",
@@ -33,12 +33,7 @@
     },
     {
       "surface": "העויתי",
-      "gloss": "m mebisiri"
-    },
-    {
-      "surface": "וית",
-      "gloss": "",
-      "note": "not present"
+      "gloss": "m gbagoro"
     },
     {
       "surface": "ולא",
@@ -46,13 +41,13 @@
     },
     {
       "surface": "שוה",
-      "gloss": "uru dịtara"
+      "gloss": "uru"
     },
     {
       "surface": "לי",
       "gloss": "nye m"
     }
   ],
-  "timestamp": "2026-08-27T16:51:44.029191895Z",
+  "timestamp": "2026-08-27T17:56:40.459630597Z",
   "model": "glm-5.3"
 }

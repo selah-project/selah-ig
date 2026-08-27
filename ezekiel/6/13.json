@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Ya na unu ga-amata na m bụ Yahwe, mgbe ndị e gburu na-anọgide n'etiti arụsị ha, gburugburu ebe ịchụàjà ha, n'elu ugwu ọ bụla dị elu, n'isi ⟨the⟩ ugwu niile, n'okpuru osisi ọ bụla na-amị mkpụrụ, na n'okpuru nkpo ọ bụla ji alịgbo alịgbo, ebe ha nyere ebe ahụ isi ụtọ na-atọ ụtọ nye arụsị ha niile.",
+  "translation": "Ị ga-amata na m bụ Yahwe, mgbe ndị e gburu ha nọ n'etiti chi ndị ha, gburugburu ebe ịchafụọ ha, n'akụkụ ugwu nta ọ bụla dị elu, n'isi niile nke ugwu ndị ahụ, ma n'okpuru osisi ọ bụla na-acha akwụkwọ ndụ, ma n'okpuru okwu ọ bụla dị oke, ebe ha nyere n'ebe ahụ isi na-esi ụtọ nye chi ndị ha niile.",
   "tokens": [
     {
       "surface": "וידעתם",
-      "gloss": "unu ga-amata"
+      "gloss": "Ị ga-amata"
     },
     {
       "surface": "כי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בהיות",
-      "gloss": "mgbe"
+      "gloss": "mgbe...dị"
     },
     {
       "surface": "חלליהם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "גלוליהם",
-      "gloss": "arụsị ha"
+      "gloss": "chi ndị ha"
     },
     {
       "surface": "סביבות",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "מזבחותיהם",
-      "gloss": "ebe ịchụàjà ha"
+      "gloss": "ebe ịchafụọ ha"
     },
     {
       "surface": "אל",
-      "gloss": "ruo na"
+      "gloss": "n'akụkụ"
     },
     {
       "surface": "כל",
-      "gloss": "niile"
+      "gloss": "ọ bụla"
     },
     {
       "surface": "גבעה",
-      "gloss": "ugwu"
+      "gloss": "ugwu nta"
     },
     {
       "surface": "רמה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "n'"
+      "gloss": "n'ala niile"
     },
     {
       "surface": "ראשי",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "ההרים",
-      "gloss": "ugwu niile"
+      "gloss": "ugwu ndị ahụ"
     },
     {
       "surface": "ותחת",
-      "gloss": "na n'okpuru"
+      "gloss": "ma n'okpuru"
     },
     {
       "surface": "כל",
@@ -89,11 +89,11 @@
     },
     {
       "surface": "רענן",
-      "gloss": "na-amị mkpụrụ"
+      "gloss": "na-acha akwụkwọ ndụ"
     },
     {
       "surface": "ותחת",
-      "gloss": "na n'okpuru"
+      "gloss": "ma n'okpuru"
     },
     {
       "surface": "כל",
@@ -101,11 +101,11 @@
     },
     {
       "surface": "אלה",
-      "gloss": "nkpo"
+      "gloss": "okwu"
     },
     {
       "surface": "עבתה",
-      "gloss": "ji alịgbo alịgbo"
+      "gloss": "dị oke"
     },
     {
       "surface": "מקום",
@@ -113,7 +113,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ebe"
+      "gloss": "nke"
     },
     {
       "surface": "נתנו",
@@ -121,25 +121,25 @@
     },
     {
       "surface": "שם",
-      "gloss": "ebe ahụ"
+      "gloss": "n'ebe ahụ"
     },
     {
       "surface": "ריח",
-      "gloss": "isi ụtọ"
+      "gloss": "isi"
     },
     {
       "surface": "ניחח",
-      "gloss": "na-atọ ụtọ"
+      "gloss": "na-esi ụtọ"
     },
     {
       "surface": "לכל",
-      "gloss": " nye"
+      "gloss": "nye chi ndị ha niile"
     },
     {
       "surface": "גלוליהם",
-      "gloss": "arụsị ha niile"
+      "gloss": "chi ndị ha"
     }
   ],
-  "timestamp": "2026-08-27T11:58:41.825509082Z",
+  "timestamp": "2026-08-27T17:48:42.154014552Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 20,
-  "translation": "bepụla kwa chesed gị n'ụlọ m ruo mgbe ebighị ebi, ọbụnadị mgbe Yahwe bepụsịrị ⟨את⟩ ndị iro Dọvid, nwoke ọ bụla n'elu ihu ⟨the⟩ ụwa.",
+  "translation": "ọ dịghịkwa ka ị ga-ebipụ ⟨את⟩ chesed gị n'ụlọ m ruo ruo mgbe ebighị ebi, ọ dịghịkwa mgbe Yahwe ga-ebipụ ⟨את⟩ ndị iro Dọvid, nke ọ bụla n'ihu ⟨nke⟩ ụwa.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "bepụla kwa"
+      "gloss": "ọ dịghịkwa"
     },
     {
       "surface": "תכרת",
-      "gloss": "ị bepụ"
+      "gloss": "ị ga-ebipụ"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "מעם",
-      "gloss": "n'aka"
+      "gloss": "site na"
     },
     {
       "surface": "ביתי",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ọbụnadị"
+      "gloss": "ọ dịghịkwa"
     },
     {
       "surface": "בהכרת",
-      "gloss": "mgbe ... bepụsịrị"
+      "gloss": "mgbe ... ga-ebipụ"
     },
     {
       "surface": "יהוה",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "nwoke ọ bụla"
+      "gloss": "nke ọ bụla"
     },
     {
       "surface": "מעל",
-      "gloss": "n'elu"
+      "gloss": "site na"
     },
     {
       "surface": "פני",
@@ -82,6 +82,6 @@
       "gloss": "ụwa"
     }
   ],
-  "timestamp": "2026-08-27T09:17:28.679649364Z",
+  "timestamp": "2026-08-27T17:39:34.487298552Z",
   "model": "glm-5.3"
 }

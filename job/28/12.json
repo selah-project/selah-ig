@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":12,"ref":"job 28:12","book":"job","lang":"ig","chapter":28,"translation":"Ma amamihe — ebee ka a na-ahụ ya? Ma ebee ka ⟨is⟩ ebe nghọta dị?","tokens":[{"surface":"והחכמה","gloss":"ma amamihe"},{"surface":"מאין","gloss":"ebee ka"},{"surface":"תמצא","gloss":"a na-ahụ ya"},{"surface":"ואי","gloss":"ma ebee ka"},{"surface":"זה","gloss":"nke a"},{"surface":"מקום","gloss":"ebe"},{"surface":"בינה","gloss":"nghọta"}],"timestamp":"2026-08-27T14:50:17.397059720Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "ig",
+  "chapter": 28,
+  "translation": "Ma amamihe — site n’ebe a na-ahụ ya? Ma ebee ka ⟨ọ bụ⟩ ebe nghọta dị?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "Ma amamihe"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "site n’ebe a na-ahụ ya"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "a na-ahụ"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "Ma ebee ka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ọ bụ⟩"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ebe"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "nghọta"
+    }
+  ],
+  "timestamp": "2026-08-27T18:01:30.784927941Z",
+  "model": "glm-5.3"
+}

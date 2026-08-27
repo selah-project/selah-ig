@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 60,
-  "translation": "N'ihi na, le, Ọchịchịrị ga-ekpuchi ⟨⟨the⟩⟩ ụwa, na mwụli chirichi ⟨⟨the⟩⟩ mba ndị; ma n'elu gị Yahwe ga-ewepụta ìhè, na ukwu Ya ga-apụta ñdene n'elu gị.",
+  "translation": "N'ihi na le, ọchịchịrị ga-ekpuchi ⟨את⟩ ụwa, na igwe ojii oyi n'elu ọha ndị mba ọzọ; mana Yahwe ga-apụta ìhè n'elu gị, na ukè ya ga-apụta ìhè n'elu gị.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "N'ihi na"
+      "gloss": "n'ihi na"
     },
     {
       "surface": "הנה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "החשך",
-      "gloss": "Ọchịchịrị"
+      "gloss": "ọchịchịrị"
     },
     {
       "surface": "יכסה",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "וערפל",
-      "gloss": "na mwụli chirichi"
+      "gloss": "na igwe ojii oyi"
     },
     {
       "surface": "לאמים",
-      "gloss": "mba ndị"
+      "gloss": "ọha ndị mba ọzọ"
     },
     {
       "surface": "ועליך",
-      "gloss": "ma n'elu gị"
+      "gloss": "mana n'elu gị"
     },
     {
       "surface": "יזרח",
-      "gloss": "ga-ewepụta ìhè"
+      "gloss": "ga-apụta ìhè"
     },
     {
       "surface": "יהוה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "וכבודו",
-      "gloss": "na ukwu Ya"
+      "gloss": "na ukè ya"
     },
     {
       "surface": "עליך",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "יראה",
-      "gloss": "ga-apụta ñdene"
+      "gloss": "ga-apụta ìhè"
     }
   ],
-  "timestamp": "2026-08-27T11:09:37.079697956Z",
+  "timestamp": "2026-08-27T17:46:20.031810266Z",
   "model": "glm-5.3"
 }

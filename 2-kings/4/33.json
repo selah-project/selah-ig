@@ -5,19 +5,20 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 4,
-  "translation": "Ọ banyere, mechiri ⟨the⟩ ụzọ ụlọ n'azụ ha abụọ, wee gbapụta okwu ruo Yahwe.",
+  "translation": "Ọ banyere wee mechie ụzọ ụlọ n'azụ ha abụọ, wee gbapu ekpere nye Yahwe.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Ọ banyere"
+      "gloss": "ọ banyere"
     },
     {
       "surface": "ויסגר",
-      "gloss": "mechiri"
+      "gloss": "wee mechie"
     },
     {
       "surface": "הדלת",
-      "gloss": "ụzọ ụlọ"
+      "gloss": "ụzọ ụlọ",
+      "marks": "ụzọ ụlọ"
     },
     {
       "surface": "בעד",
@@ -29,17 +30,17 @@
     },
     {
       "surface": "ויתפלל",
-      "gloss": "wee gbapụta okwu"
+      "gloss": "wee gbapu ekpere"
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "nye"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-27T10:13:45.082685925Z",
+  "timestamp": "2026-08-27T18:16:27.993239318Z",
   "model": "glm-5.3"
 }

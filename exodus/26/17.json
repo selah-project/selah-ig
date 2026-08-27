@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 26,
-  "translation": "Aka abụọ ka bọọdụ ⟨the⟩ otu ga-enwe, jikọtara otu ruo nwanne ya nwanyị; otua ka ị ga-eme maka bọọdụ niile nke ⟨the⟩ ụlọikuku.",
+  "translation": "Aka abụọ maka otu bọọdụ, ejikọtara nke ọ bụla n'ụzọ ziri ezi, otu n'ebe nke ọzọ nọ; otu a ka ị ga-eme maka bọọdụ niile nke ụlọikwu.",
   "tokens": [
     {
       "surface": "שתי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ידות",
-      "gloss": "aka"
+      "gloss": "aka abụọ (mkpọmkpọ osisi)"
     },
     {
       "surface": "לקרש",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "משלבת",
-      "gloss": "jikọtara"
+      "gloss": "ejikọtara nke ọ bụla n'ụzọ ziri ezi"
     },
     {
       "surface": "אשה",
-      "gloss": "otu"
+      "gloss": "otu (n'ụzọ ọnwụnwa, 'nwaanyị')"
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "n'ebe"
     },
     {
       "surface": "אחתה",
-      "gloss": "nwanne ya nwanyị"
+      "gloss": "nke ọzọ (nwanne ya nwanyị)"
     },
     {
       "surface": "כן",
-      "gloss": "otua"
+      "gloss": "otu a"
     },
     {
       "surface": "תעשה",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "nke ụlọikuku"
+      "gloss": "nke ụlọikwu"
     }
   ],
-  "timestamp": "2026-08-27T06:28:59.179429955Z",
+  "timestamp": "2026-08-27T17:31:17.624073008Z",
   "model": "glm-5.3"
 }

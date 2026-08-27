@@ -5,24 +5,24 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 25,
-  "translation": "Ma a gọziri ntụle gị, ma a gọziri ⟨את⟩ gị, onye gbochiri m ụbọchị taa a ka m ghara ịbata n'ọbara, ma chebe aka m maka m.",
+  "translation": "Ma gọziri mkpebi gị, ma gọziri gị, onye kwụsịrị m n'ụbọchị a ka m ghara ịbata n'ọmụma-ọbara, ma merere aka m nchekwa ka m ghara ịbọ ọbọ n'onwe m.",
   "tokens": [
     {
       "surface": "וברוך",
-      "gloss": "ma a gọziri"
+      "gloss": "Ma gọziri"
     },
     {
       "surface": "טעמך",
-      "gloss": "ntụle gị"
+      "gloss": "mkpebi gị"
     },
     {
       "surface": "וברוכה",
-      "gloss": "ma a gọziri"
+      "gloss": "ma gọziri"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "gị"
+      "gloss": "gị",
+      "marks": "nke kwụsịrị m"
     },
     {
       "surface": "אשר",
@@ -30,27 +30,27 @@
     },
     {
       "surface": "כלתני",
-      "gloss": "gbochiri m"
+      "gloss": "kwụsịrị m"
     },
     {
       "surface": "היום",
-      "gloss": "ụbọchị"
+      "gloss": "n'ụbọchị"
     },
     {
       "surface": "הזה",
-      "gloss": "taa a"
+      "gloss": "a"
     },
     {
       "surface": "מבוא",
-      "gloss": "ịbata"
+      "gloss": "ka m ghara ịbata"
     },
     {
       "surface": "בדמים",
-      "gloss": "n'ọbara"
+      "gloss": "n'ọmụma-ọbara"
     },
     {
       "surface": "והשע",
-      "gloss": "ma chebe"
+      "gloss": "ma merere nchekwa"
     },
     {
       "surface": "ידי",
@@ -61,6 +61,6 @@
       "gloss": "maka m"
     }
   ],
-  "timestamp": "2026-08-27T09:24:10.158775447Z",
+  "timestamp": "2026-08-27T17:39:37.864566140Z",
   "model": "glm-5.3"
 }

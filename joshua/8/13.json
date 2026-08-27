@@ -5,20 +5,20 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 8,
-  "translation": "Ha debere ⟨את⟩ ogige niile nke dị n'ebe ugwu nke obodo ahụ, na ⟨את⟩ ndị na-eche azụ ya n'ebe ọdịda anyanwụ nke obodo ahụ; ma Yehoshua gara n'abalị ahụ n'etiti ⟨the⟩ ndagwurugwu ahụ.",
+  "translation": "Ha wee deba ⟨את⟩ ogbe niile nke dị n'ebe ugwu nke obodo ahụ, na ⟨את⟩ nzọ azụ ya n'ebe ọdịda anyanwụ nke obodo ahụ; Yehoshua wee jị n'abalị ahụ gaa n'etiti ndagwurugwu ahụ.",
   "tokens": [
     {
       "surface": "וישימו",
-      "gloss": "ha debere"
+      "gloss": "ha wee deba"
     },
     {
       "surface": "העם",
-      "gloss": "ndị ahụ"
+      "gloss": "(ndị ahụ)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ogige niile"
+      "marks": "ogbe niile"
     },
     {
       "surface": "כל",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "המחנה",
-      "gloss": "ogige"
+      "gloss": "ogbe"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "nke dị"
     },
     {
       "surface": "מצפון",
@@ -42,12 +42,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "ndị na-eche azụ ya"
+      "gloss": "⟨את⟩",
+      "marks": "nzọ azụ ya"
     },
     {
       "surface": "עקבו",
-      "gloss": "ndị na-eche azụ ya"
+      "gloss": "nzọ azụ ya"
     },
     {
       "surface": "מים",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "וילך",
-      "gloss": "ma gara"
+      "gloss": "ọ wee gaa"
     },
     {
       "surface": "יהושע",
@@ -82,6 +82,6 @@
       "gloss": "ndagwurugwu ahụ"
     }
   ],
-  "timestamp": "2026-08-27T08:26:20.727465745Z",
+  "timestamp": "2026-08-27T17:37:54.735246370Z",
   "model": "glm-5.3"
 }

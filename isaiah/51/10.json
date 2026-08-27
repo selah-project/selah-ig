@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 51,
-  "translation": "Ọ̀ bụghị gị bụ ⟨onye⟩ ahụ kpọrọ mmiriụsà ahụ nkụ, mmiri nke omimi ukwu; onye mere omimi nke mmiriụsà ụzọ ka ndị a gbapụrụ n'aka ga-agafe?",
+  "translation": "Ọ̀ bụghị ⟨את⟩ gị bụ onye kpọrọ oké osimiri asa, mmiri nke omimi ukwu, onye mere omimi nke oké osimiri bụ ụzọ ka ndị a gbapụtara ga-agafe?",
   "tokens": [
     {
       "surface": "הלוא",
-      "gloss": "ọ̀ bụghị"
+      "gloss": "Ọ̀ bụghị"
     },
     {
       "surface": "את",
@@ -18,19 +18,19 @@
     },
     {
       "surface": "היא",
-      "gloss": "bụ ⟨onye⟩ ahụ"
+      "gloss": "gị"
     },
     {
       "surface": "המחרבת",
-      "gloss": "kpọrọ nkụ"
+      "gloss": "onye kpọrọ asa"
     },
     {
       "surface": "ים",
-      "gloss": "mmiriụsà ahụ"
+      "gloss": "oké osimiri"
     },
     {
       "surface": "מי",
-      "gloss": "mmiri nke"
+      "gloss": "mmiri"
     },
     {
       "surface": "תהום",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "מעמקי",
-      "gloss": "omimi nke"
+      "gloss": "omimi"
     },
     {
       "surface": "ים",
-      "gloss": "mmiriụsà"
+      "gloss": "oké osimiri"
     },
     {
       "surface": "דרך",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "לעבר",
-      "gloss": "ka ha ga-agafe"
+      "gloss": "ka ... ga-agafe"
     },
     {
       "surface": "גאולים",
-      "gloss": "ndị a gbapụrụ n'aka"
+      "gloss": "ndị a gbapụtara"
     }
   ],
-  "timestamp": "2026-08-27T11:04:43.807479424Z",
+  "timestamp": "2026-08-27T17:46:16.992079610Z",
   "model": "glm-5.3"
 }

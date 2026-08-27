@@ -5,28 +5,28 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 10,
-  "translation": "Ha mere otu a, ha wee si n'⟨the⟩ ọgba ahụ wepụta ⟨את⟩ eze ise ndị a nye ya: ⟨את⟩ eze Yerushalayim, ⟨את⟩ eze Chevron, ⟨את⟩ eze Yarmut, ⟨את⟩ eze Lakish, ⟨את⟩ eze Eglon.",
+  "translation": "Ha mekwara otu a, ma hapụta ya ⟨את⟩ ndị eze ise a site n'olulu ahụ: ⟨את⟩ eze Yerushalayim, ⟨את⟩ eze Chevron, ⟨את⟩ eze Yarmut, ⟨את⟩ eze Lakhish, ⟨את⟩ eze Eglon.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "ha mere"
+      "gloss": "Ha mekwara"
     },
     {
       "surface": "כן",
-      "gloss": "otụ a"
+      "gloss": "otú a"
     },
     {
       "surface": "ויציאו",
-      "gloss": "ha wee wepụta"
+      "gloss": "ma hapụta"
     },
     {
       "surface": "אליו",
-      "gloss": "nye ya"
+      "gloss": "ya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eze ise ndị a"
+      "marks": "ndị eze ise a"
     },
     {
       "surface": "חמשת",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "המלכים",
-      "gloss": "eze"
+      "gloss": "ndị eze"
     },
     {
       "surface": "האלה",
-      "gloss": "ndị a"
+      "gloss": "a"
     },
     {
       "surface": "מן",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "המערה",
-      "gloss": "ọgba ahụ"
+      "gloss": "olulu ahụ"
     },
     {
       "surface": "את",
@@ -90,7 +90,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eze Lakish"
+      "marks": "eze Lakhish"
     },
     {
       "surface": "מלך",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "לכיש",
-      "gloss": "Lakish"
+      "gloss": "Lakhish"
     },
     {
       "surface": "את",
@@ -114,6 +114,6 @@
       "gloss": "Eglon"
     }
   ],
-  "timestamp": "2026-08-27T08:24:47.626689140Z",
+  "timestamp": "2026-08-27T17:38:04.126497876Z",
   "model": "glm-5.3"
 }

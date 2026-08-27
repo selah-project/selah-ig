@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 11,
-  "translation": "Na le anya, Shaul bịara n'azụ ⟨the⟩ ehi si n'ọhịa; Shaul wee sị, «Gini mere ⟨the⟩ ndị ahụ, na ha na-ebe akwa?» Ha wee kọọ ya ⟨את⟩ okwu ndị Yavesh.",
+  "translation": "Lee, Shaul bịara n'azụ ehi ahụ si n'ọhịa; Shaul wee sị, \"Gini n-eme ndị mmadụ, na ha na-ebe ákwá?\" Ha wee kọọrọ ya ⟨את⟩ okwu ndị ikom Yavesh.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "na le anya"
+      "gloss": "Lee"
     },
     {
       "surface": "שאול",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "bịara"
+      "gloss": "ọ bịara"
     },
     {
       "surface": "אחרי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הבקר",
-      "gloss": "ehi"
+      "gloss": "ehi ahụ"
     },
     {
       "surface": "מן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "wee sị"
+      "gloss": "ọ wee sị"
     },
     {
       "surface": "שאול",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "gini mere"
+      "gloss": "gịnị"
     },
     {
       "surface": "לעם",
-      "gloss": "ndị ahụ"
+      "gloss": "maka ndị mmadụ"
     },
     {
       "surface": "כי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "יבכו",
-      "gloss": "ha na-ebe akwa"
+      "gloss": "ha na-ebe ákwá"
     },
     {
       "surface": "ויספרו",
@@ -70,7 +70,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "okwu ndị Yavesh"
+      "marks": "okwu ndị ikom Yavesh"
     },
     {
       "surface": "דברי",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "ndị"
+      "gloss": "ndị ikom"
     },
     {
       "surface": "יביש",
       "gloss": "Yavesh"
     }
   ],
-  "timestamp": "2026-08-27T09:08:09.658515905Z",
+  "timestamp": "2026-08-27T17:39:04.252812933Z",
   "model": "glm-5.3"
 }

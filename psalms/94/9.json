@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 94,
-  "translation": "Onye kụrụ ⟨the⟩ ntị, kwa ọ gaghị anụ? Ma onye kere anya, kwa ọ gaghị ele?",
+  "translation": "Onye kụrụ ⟨את⟩ ntị, ô ga-anụghị ihe? Onye kere ⟨את⟩ anya, ô ga-adịghị ile anya?",
   "tokens": [
     {
       "surface": "הנטע",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "הלא",
-      "gloss": "kwa"
+      "gloss": "ô ga-anụghị ihe?"
     },
     {
       "surface": "ישמע",
-      "gloss": "ọ na-anụ"
+      "gloss": ""
     },
     {
       "surface": "אם",
-      "gloss": "ma"
+      "gloss": ""
     },
     {
       "surface": "יצר",
-      "gloss": "onye kere"
+      "gloss": "Onye kere"
     },
     {
       "surface": "עין",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "הלא",
-      "gloss": "kwa"
+      "gloss": "ô ga-adịghị"
     },
     {
       "surface": "יביט",
-      "gloss": "ọ na-ele"
+      "gloss": "ile anya?"
     }
   ],
-  "timestamp": "2026-08-27T13:52:03.555501709Z",
+  "timestamp": "2026-08-27T17:54:15.653796176Z",
   "model": "glm-5.3"
 }

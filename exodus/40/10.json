@@ -5,29 +5,29 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 40,
-  "translation": "Were tee ⟨את⟩ ebe-ịchụàjà-ọkụ na ⟨את⟩ ngwá ya niile, dọkwa ⟨את⟩ ebe-ịchụàjà ahụ nsọ, ebe-ịchụàjà ahụ ga-abụ ⟨is⟩ nsọ karịsịa nsọ.",
+  "translation": "Ma tee ⟨את⟩ ebe-ichu-àjà nke ọkụ-àjà na ⟨את⟩ ngwaọrụ ya niile, ma dọọ ⟨את⟩ ebe-ichu-àjà ahụ́ nsọ; ebe-ichu-àjà ahụ́ ga-abụ nsọ nke ukwuu.",
   "tokens": [
     {
       "surface": "ומשחת",
-      "gloss": "tee-mmanụ"
+      "gloss": "ma ị ga-ete"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ebe-ịchụàjà-ọkụ"
+      "marks": "ebe-ichu-àjà"
     },
     {
       "surface": "מזבח",
-      "gloss": "ebe-ịchụàjà"
+      "gloss": "ebe-ichu-àjà"
     },
     {
       "surface": "העלה",
-      "gloss": "ọkụ-ọffering"
+      "gloss": "nke ọkụ-àjà"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ngwá ya niile"
+      "gloss": "na ⟨את⟩",
+      "marks": "ngwaọrụ ya niile"
     },
     {
       "surface": "כל",
@@ -35,28 +35,28 @@
     },
     {
       "surface": "כליו",
-      "gloss": "ngwá ya"
+      "gloss": "ngwaọrụ ya"
     },
     {
       "surface": "וקדשת",
-      "gloss": "dọkwa nsọ"
+      "gloss": "ma ị ga-adọọ nsọ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ebe-ịchụàjà ahụ"
+      "marks": "ebe-ichu-àjà ahụ́"
     },
     {
       "surface": "המזבח",
-      "gloss": "ebe-ịchụàjà ahụ"
+      "gloss": "ebe-ichu-àjà ahụ́"
     },
     {
       "surface": "והיה",
-      "gloss": "ga-abụ"
+      "gloss": "ma ọ ga-abụ"
     },
     {
       "surface": "המזבח",
-      "gloss": "ebe-ịchụàjà ahụ"
+      "gloss": "ebe-ichu-àjà ahụ́"
     },
     {
       "surface": "קדש",
@@ -64,9 +64,9 @@
     },
     {
       "surface": "קדשים",
-      "gloss": "karịsịa nsọ"
+      "gloss": "nke ukwuu (nsọ nke nsọ)"
     }
   ],
-  "timestamp": "2026-08-27T06:43:11.610508587Z",
+  "timestamp": "2026-08-27T17:32:39.927049135Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 27,
-  "translation": "Gịnị mere na unu ga-anwụ, gị na ⟨ndị⟩ gị, site n'mma, site n'agụụ, na site n'ọrịa na-efe, dịka Yahwe kwuru banyere ⟨the⟩ mba ahụ nke na-eje ozighị ⟨את⟩ eze Babilon?",
+  "translation": "Gịnị mere gị na ndị gị na-anwụ site na mma, site na ụkọ nri, na site na ọrịa na-efe efe, dịka Yahwe kwuru maka ⟨ahụ⟩ mba nke na-ejeghị ⟨את⟩ eze Bavel ozi?",
   "tokens": [
     {
       "surface": "למה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תמותו",
-      "gloss": "na unu ga-anwụ"
+      "gloss": "na-anwụ"
     },
     {
       "surface": "אתה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "ועמך",
-      "gloss": "na ⟨ndị⟩ gị"
+      "gloss": "na ndị gị"
     },
     {
       "surface": "בחרב",
-      "gloss": "site n'mma"
+      "gloss": "site na mma"
     },
     {
       "surface": "ברעב",
-      "gloss": "site n'agụụ"
+      "gloss": "site na ụkọ nri"
     },
     {
       "surface": "ובדבר",
-      "gloss": "na site n'ọrịa na-efe"
+      "gloss": "na site na ọrịa na-efe efe"
     },
     {
       "surface": "כאשר",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "banyere"
+      "gloss": "maka"
     },
     {
       "surface": "הגוי",
-      "gloss": "⟨the⟩ mba ahụ"
+      "gloss": "mba ⟨ahụ⟩"
     },
     {
       "surface": "אשר",
@@ -61,16 +61,16 @@
     },
     {
       "surface": "לא",
-      "gloss": "na-…ghị"
+      "gloss": "na-ejeghị"
     },
     {
       "surface": "יעבד",
-      "gloss": "na-eje ozi"
+      "gloss": "ozi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eze Babilon"
+      "marks": "eze Bavel"
     },
     {
       "surface": "מלך",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babilon"
+      "gloss": "Bavel"
     }
   ],
-  "timestamp": "2026-08-27T11:35:04.871025233Z",
+  "timestamp": "2026-08-27T17:47:24.690768824Z",
   "model": "glm-5.3"
 }

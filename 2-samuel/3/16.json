@@ -5,15 +5,16 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 3,
-  "translation": "Di ya gara ⟨את⟩ ⟨אתה⟩ ya, na-aga ma na-ebe ákwá n'azụ ya ruo Bachurim; Abnere wee sị ya: Gaa, laghachi; ọ wee laghachi.",
+  "translation": "Di ya wee ṅụ ⟨את⟩ ya, na-aga ma na-ebe ákwá n'azụ ya ruo Bachurim; Abner wee sị ya, Gaa, laghachi; ọ wee laghachi.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "gara"
+      "gloss": "wee ṅụ"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ ⟨אתה⟩ ya"
+      "gloss": "⟨את⟩",
+      "marks": "ya"
     },
     {
       "surface": "אישה",
@@ -49,11 +50,11 @@
     },
     {
       "surface": "אבנר",
-      "gloss": "Abnere"
+      "gloss": "Abner"
     },
     {
       "surface": "לך",
-      "gloss": "gaa"
+      "gloss": "Gaa"
     },
     {
       "surface": "שוב",
@@ -64,6 +65,6 @@
       "gloss": "ọ wee laghachi"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.225214056Z",
+  "timestamp": "2026-08-27T17:39:46.731883279Z",
   "model": "glm-5.3"
 }

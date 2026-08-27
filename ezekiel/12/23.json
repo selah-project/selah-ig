@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Ya mere, soro ha: otu a ka Adonai Yahwe siri kwuo — Ejirila nzụha okwu a akwụsị, ha ga-akwụsịkwa iji ya mee nzụha okwu na Yisrael; kama soro ha: ụbọchị ahụ adilarị anya, yana okwu ọ bụla nke ọhụụ.",
+  "translation": "Ya mere, gwa ha, sị: Otú a ka Adonai Yahwe si kwuo: M kwụsịrị ⟨את⟩ ilu a, a gaghị eji ya mee ilu ọzọ na Yisraël; kama gwa ha, sị: Ụbọchị ndị ahụ adọtaala, yana okwu nke mmụọ ọhụụ ọ bụla.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "soro"
+      "gloss": "gwa"
     },
     {
       "surface": "אליהם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "otu a ka"
+      "gloss": "otú a"
     },
     {
       "surface": "אמר",
-      "gloss": "siri kwuo"
+      "gloss": "si kwuo"
     },
     {
       "surface": "אדני",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "השבתי",
-      "gloss": "ejirila... akwụsị"
+      "gloss": "m kwụsịrị"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nzụha okwu a"
+      "marks": "ilu a"
     },
     {
       "surface": "המשל",
-      "gloss": "nzụha okwu ⟨the⟩"
+      "gloss": "ilu"
     },
     {
       "surface": "הזה",
@@ -54,16 +54,16 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ha ga-akwụsịkwa"
+      "gloss": "a gaghị"
     },
     {
       "surface": "ימשלו",
-      "gloss": "iji ya mee nzụha okwu"
+      "gloss": "eji ya mee ilu"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ ya",
-      "marks": "ya (nzụha okwu ahụ)"
+      "marks": "ya"
     },
     {
       "surface": "עוד",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "na Yisrael"
+      "gloss": "na Yisraël"
     },
     {
       "surface": "כי",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "(mmegide)"
+      "gloss": "sị"
     },
     {
       "surface": "דבר",
-      "gloss": "soro"
+      "gloss": "gwa"
     },
     {
       "surface": "אליהם",
@@ -91,11 +91,11 @@
     },
     {
       "surface": "קרבו",
-      "gloss": "adilarị anya"
+      "gloss": "adọtaala"
     },
     {
       "surface": "הימים",
-      "gloss": "ụbọchị ⟨the⟩"
+      "gloss": "ụbọchị ndị ahụ"
     },
     {
       "surface": "ודבר",
@@ -103,13 +103,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "ọ bụla"
+      "gloss": "nke ọ bụla"
     },
     {
       "surface": "חזון",
-      "gloss": "nke ọhụụ"
+      "gloss": "mmụọ ọhụụ"
     }
   ],
-  "timestamp": "2026-08-27T12:03:39.154645136Z",
+  "timestamp": "2026-08-27T17:48:48.924754857Z",
   "model": "glm-5.3"
 }

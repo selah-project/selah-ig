@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 21,
-  "translation": "mgbe ahụ Adonai ya ga-eweta ya n'ihu ⟨the⟩ Elohim, ma were ya bịa n'ụzọ ụzọ ma ọ bụ n'akụkụ ọnụ ụzọ; Adonai ya ga-adọpụta ⟨את⟩ ntị ya na mkpa, ọ ga-ejere ya ozi ruo mgbe ebighị ebi.",
+  "translation": "Ndị nna ukwu ya ga-eweta ya n'ihu ⟨את⟩ Elohim; ọ ga-edukwa ya ⟨את⟩ ọnụ ụzọ ma ọ bụ ⟨את⟩ ogwe ọnụ ụzọ; nna ukwu ya ga-agbaji ⟨את⟩ ntị ya mmarụga, ọ ga-ejere ya ozi ruo mgbe ebighị ebi.",
   "tokens": [
     {
       "surface": "והגישו",
-      "gloss": "ga-eweta ya"
+      "gloss": "ga-eweta"
     },
     {
       "surface": "אדניו",
-      "gloss": "Adonai ya"
+      "gloss": "nna ukwu ya"
     },
     {
       "surface": "אל",
-      "gloss": "n'ihu"
+      "gloss": "ruo"
     },
     {
       "surface": "האלהים",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "והגישו",
-      "gloss": "ma were ya bịa"
+      "gloss": "ga-edukwa"
     },
     {
       "surface": "אל",
-      "gloss": "n'"
+      "gloss": "ruo"
     },
     {
       "surface": "הדלת",
-      "gloss": "ụzọ ụzọ"
+      "gloss": "ọnụ ụzọ"
     },
     {
       "surface": "או",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "n'akụkụ"
+      "gloss": "ruo"
     },
     {
       "surface": "המזוזה",
-      "gloss": "ọnụ ụzọ"
+      "gloss": "ogwe ọnụ ụzọ"
     },
     {
       "surface": "ורצע",
-      "gloss": "ga-adọpụta"
+      "gloss": "ga-agbaji"
     },
     {
       "surface": "אדניו",
-      "gloss": "Adonai ya"
+      "gloss": "nna ukwu ya"
     },
     {
       "surface": "את",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "במרצע",
-      "gloss": "na mkpa"
+      "gloss": "mmarụga"
     },
     {
       "surface": "ועבדו",
@@ -77,6 +77,6 @@
       "gloss": "ruo mgbe ebighị ebi"
     }
   ],
-  "timestamp": "2026-08-27T06:23:25.383399297Z",
+  "timestamp": "2026-08-27T17:30:08.514929811Z",
   "model": "glm-5.3"
 }

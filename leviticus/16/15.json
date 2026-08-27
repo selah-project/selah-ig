@@ -5,36 +5,36 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 16,
-  "translation": "Ma ọ ga-egbu ⟨את⟩ mbe nke onyinye mmehie, nke bụ maka ndị mmadụ, ma tinye ⟨את⟩ ọbara ya n'ime akwa mkpuchi, ma mee ihe banyere ⟨את⟩ ọbara ya dịka ọ mere maka ọbara nke ehụmme, ma fesa ⟨את⟩ ⟨אתו⟩ ya n'elu Kapporet na n'ihu Kapporet.",
+  "translation": "Ọ ga-egbukwa ⟨את⟩ ewu nkwenye nke ndị ahụ, wee were ọbara ya bata n'ime paroket, ma mee ihe banyere ọbara ya dịka o mere maka ọbara ehi ahụ, wee gbasasa ⟨את⟩ ya elu na kapporet na n'ihu kapporet.",
   "tokens": [
     {
       "surface": "ושחט",
-      "gloss": "ọ ga-egbu"
+      "gloss": "ọ ga-egbukwa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mbe"
+      "marks": "ewu nkwenye"
     },
     {
       "surface": "שעיר",
-      "gloss": "mbe"
+      "gloss": "ewu"
     },
     {
       "surface": "החטאת",
-      "gloss": "nke onyinye mmehie"
+      "gloss": "nkwenye"
     },
     {
       "surface": "אשר",
-      "gloss": "nke bụ"
+      "gloss": "nke"
     },
     {
       "surface": "לעם",
-      "gloss": "maka ndị mmadụ"
+      "gloss": "ndị ahụ"
     },
     {
       "surface": "והביא",
-      "gloss": "ma tinye"
+      "gloss": "ọ ga-eweta"
     },
     {
       "surface": "את",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "לפרכת",
-      "gloss": "akwa mkpuchi"
+      "gloss": "paroket (mgbidi uche)"
     },
     {
       "surface": "ועשה",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "ọ mere"
+      "gloss": "o mere"
     },
     {
       "surface": "לדם",
@@ -84,24 +84,24 @@
     },
     {
       "surface": "הפר",
-      "gloss": "nke ehụmme"
+      "gloss": "ehi ahụ"
     },
     {
       "surface": "והזה",
-      "gloss": "ma fesa"
+      "gloss": "ma gbasasa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩ ya",
-      "marks": "ọbara (mbe)"
+      "gloss": "⟨את⟩",
+      "marks": "ya (ọbara)"
     },
     {
       "surface": "על",
-      "gloss": "n'elu"
+      "gloss": "elu"
     },
     {
       "surface": "הכפרת",
-      "gloss": "Kapporet"
+      "gloss": "kapporet"
     },
     {
       "surface": "ולפני",
@@ -109,9 +109,9 @@
     },
     {
       "surface": "הכפרת",
-      "gloss": "Kapporet"
+      "gloss": "kapporet"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.272119124Z",
+  "timestamp": "2026-08-27T17:33:43.346565796Z",
   "model": "glm-5.3"
 }

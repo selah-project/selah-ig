@@ -5,12 +5,12 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 25,
-  "translation": "na ⟨את⟩ ndị eze ugwu niile, ndị nso na ndị anya, onye ọ bụla na onye agbataọbi ya; na ⟨את⟩ alaeze ụwa niile ndị nọ n'elu ⟨the⟩ ihu ala, na eze Sheshach ga-aṅụọ ha mgbe ha gachara",
+  "translation": "Na ⟨את⟩ ndị eze niile nke ⟨ezigbo⟩ ugwu, ndị dị nso na ndị dị anya, nke ọ bụla n'akụkụ nwanne ya, na ⟨את⟩ alaeze niile nke ụwa ndị dị n'elu ihu ⟨ezigbo⟩ ala; ma eze Sheshak ga-aṅụọ ha azụ.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "niile"
+      "marks": "ndị eze niile nke ugwu"
     },
     {
       "surface": "כל",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "הקרבים",
-      "gloss": "ndị nso"
+      "gloss": "ndị dị nso"
     },
     {
       "surface": "והרחקים",
-      "gloss": "na ndị anya"
+      "gloss": "na ndị dị anya"
     },
     {
       "surface": "איש",
@@ -38,16 +38,16 @@
     },
     {
       "surface": "אל",
-      "gloss": "na"
+      "gloss": "n'akụkụ"
     },
     {
       "surface": "אחיו",
-      "gloss": "onye agbataọbi ya"
+      "gloss": "nwanne ya"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "niile"
+      "marks": "alaeze niile nke ụwa"
     },
     {
       "surface": "כל",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "ומלך",
-      "gloss": "na eze"
+      "gloss": "ma eze"
     },
     {
       "surface": "ששך",
-      "gloss": "Sheshach"
+      "gloss": "Sheshak"
     },
     {
       "surface": "ישתה",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "אחריהם",
-      "gloss": "ha mgbe ha gachara"
+      "gloss": "ha azụ"
     }
   ],
-  "timestamp": "2026-08-27T16:43:16.180640560Z",
+  "timestamp": "2026-08-27T17:47:22.842838042Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,36 @@
   "book": "esther",
   "lang": "ig",
   "chapter": 9,
-  "translation": "na ⟨את⟩ Parshandata, na ⟨את⟩ Dalpon, na ⟨את⟩ Aspata;",
+  "translation": "⟨את⟩ Parshandata, ⟨את⟩ Dalphon, ⟨את⟩ Aspatha —",
   "tokens": [
     {
-      "surface": "ו",
-      "gloss": "⟨את⟩ na"
-    },
-    {
-      "surface": "את",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
       "marks": "Parshandata"
     },
     {
       "surface": "פרשנדתא",
-      "gloss": "⟨את⟩ Parshandata"
+      "gloss": "Parshandata"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "Dalpon"
+      "gloss": "⟨את⟩",
+      "marks": "Dalphon"
     },
     {
       "surface": "דלפון",
-      "gloss": "⟨את⟩ Dalpon"
+      "gloss": "Dalphon"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "Aspata"
+      "gloss": "⟨את⟩",
+      "marks": "Aspatha"
     },
     {
       "surface": "אספתא",
-      "gloss": "Aspata"
+      "gloss": "Aspatha"
     }
   ],
-  "timestamp": "2026-08-27T15:21:41.269740295Z",
+  "timestamp": "2026-08-27T17:57:14.647439989Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "ig",
   "chapter": 30,
-  "translation": "Ọgbọ — mma ọgụgụ bụ ezé ha, na anụ anụ nke mkpịsị ọnụ ha, iji rie ndị ogbenye n'⟨the⟩ ụwa, na ndị nwere nsogbu n'etiti ụmụ mmadụ.",
+  "translation": "Ọgbọ ⟨nke⟩ ynụ ha bụ mma-agha, na ezé ukwu ha bụ mma-emenri, iji rie ndị ogbenye ⟨kụọ⟩ n'ụwa, na ndị nọ ná mkpa n'etiti ụmụ mmadụ.",
   "tokens": [
     {
       "surface": "דור",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "חרבות",
-      "gloss": "mma ọgụgụ"
+      "gloss": "mma-agha"
     },
     {
       "surface": "שניו",
-      "gloss": "ezé ha"
+      "gloss": "ezé ya"
     },
     {
       "surface": "ומאכלות",
-      "gloss": "na anụ anụ"
+      "gloss": "na mma-emenri"
     },
     {
       "surface": "מתלעתיו",
-      "gloss": "nke mkpịsị ọnụ ha"
+      "gloss": "ezé ukwu ya"
     },
     {
       "surface": "לאכל",
-      "gloss": "iji rie"
+      "gloss": "iri"
     },
     {
       "surface": "עניים",
@@ -37,17 +37,17 @@
     },
     {
       "surface": "מארץ",
-      "gloss": "n'ụwa"
+      "gloss": "site n'ụwa"
     },
     {
       "surface": "ואביונים",
-      "gloss": "na ndị nwere nsogbu"
+      "gloss": "na ndị nọ ná mkpa"
     },
     {
       "surface": "מאדם",
-      "gloss": "n'etiti ụmụ mmadụ"
+      "gloss": "site n'etiti mmadụ"
     }
   ],
-  "timestamp": "2026-08-27T14:33:43.083816088Z",
+  "timestamp": "2026-08-27T17:55:31.608254872Z",
   "model": "glm-5.3"
 }

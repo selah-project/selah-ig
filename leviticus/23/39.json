@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 23,
-  "translation": "Ma n'ụbọchị nke iri na ise nke ọnwa nke asaa, mgbe unu na-echịkọta ⟨את⟩ mmepụta nke ⟨the⟩ ala, unu ga-eme ⟨את⟩ emume nke Yahwe ụbọchị asaa; n'ụbọchị nke mbụ ⟨is⟩ izu-ike-nsọ, ma n'ụbọchị nke asatọ izu-ike-nsọ.",
+  "translation": "Mana n'ụbọchị nke iri na ise nke ọnwa nke asaa, mgbe unu nakọtara ⟨את⟩ ihe ubi nke ala ahụ, unu ga-eme ⟨את⟩ emume Yahwe ụbọchị asaa; n'ụbọchị mbụ ga-abụ ezumike-dị-nsọ, nakwa n'ụbọchị nke asatọ ezumike-dị-nsọ.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Ma"
+      "gloss": "mana"
     },
     {
       "surface": "בחמשה",
-      "gloss": "n'ụbọchị nke iri na ise"
+      "gloss": "n'ụbọchị nke ise"
     },
     {
       "surface": "עשר",
-      "gloss": "iri (na ise)"
+      "gloss": "(gbara) iri"
     },
     {
       "surface": "יום",
@@ -33,20 +33,20 @@
     },
     {
       "surface": "באספכם",
-      "gloss": "mgbe unu na-echịkọta"
+      "gloss": "mgbe unu nakọtara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mmepụta nke ala"
+      "marks": "ihe ubi nke ala ahụ"
     },
     {
       "surface": "תבואת",
-      "gloss": "mmepụta"
+      "gloss": "ihe ubi"
     },
     {
       "surface": "הארץ",
-      "gloss": "nke ala"
+      "gloss": "nke ala ahụ"
     },
     {
       "surface": "תחגו",
@@ -55,7 +55,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "emume nke Yahwe"
+      "marks": "emume Yahwe"
     },
     {
       "surface": "חג",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "שבעת",
-      "gloss": "asaa"
+      "gloss": "(ruo) asaa"
     },
     {
       "surface": "ימים",
@@ -79,15 +79,15 @@
     },
     {
       "surface": "הראשון",
-      "gloss": "nke mbụ"
+      "gloss": "mbụ"
     },
     {
       "surface": "שבתון",
-      "gloss": "izu-ike-nsọ"
+      "gloss": "ezumike-dị-nsọ"
     },
     {
       "surface": "וביום",
-      "gloss": "ma n'ụbọchị"
+      "gloss": "nakwa n'ụbọchị"
     },
     {
       "surface": "השמיני",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "שבתון",
-      "gloss": "izu-ike-nsọ"
+      "gloss": "ezumike-dị-nsọ"
     }
   ],
-  "timestamp": "2026-08-27T07:05:38.213550487Z",
+  "timestamp": "2026-08-27T17:32:57.807056700Z",
   "model": "glm-5.3"
 }

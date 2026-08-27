@@ -5,35 +5,35 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 3,
-  "translation": "O sịrị: Ọ dị mma; m ga-ekupụ ⟨אתך⟩ ndọrọ na gị; mana otu okwu ka m na-aju ⟨את⟩ site ⟨אתך⟩ gị, na-asị: Ị gaghị ahụ ⟨את⟩ ihu m ma ọ bụghị tupu ị ewetala Mikal nwa Saụl; mgbe ị na-abata ịhụ ⟨את⟩ ihu m.",
+  "translation": "Ọ sịrị, Ọ dị mma; mụ ga-ekpe ⟨את⟩ gị ọgbụgba-ndụ; naanị otu okwu ka m na-ajụ gị, na-asị, Ị gaghị ahụ ⟨את⟩ ihu m, ma e wezụga tupu ị ewetaghị Mikal, nwa nwanyị Shaul, mgbe ị na-abịa ịhụ ⟨את⟩ ihu m.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "o sịrị"
+      "gloss": "Ọ sịrị"
     },
     {
       "surface": "טוב",
-      "gloss": "ọ dị mma"
+      "gloss": "Ọ dị mma"
     },
     {
       "surface": "אני",
-      "gloss": "m"
+      "gloss": "mụ"
     },
     {
       "surface": "אכרת",
-      "gloss": "ga-ekupụ"
+      "gloss": "ga-ekpe"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩ na gị"
+      "gloss": "⟨את⟩ gị"
     },
     {
       "surface": "ברית",
-      "gloss": "ndọrọ"
+      "gloss": "ọgbụgba-ndụ"
     },
     {
       "surface": "אך",
-      "gloss": "mana"
+      "gloss": "naanị"
     },
     {
       "surface": "דבר",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "ka m"
+      "gloss": "m"
     },
     {
       "surface": "שאל",
-      "gloss": "na-aju"
+      "gloss": "na-ajụ"
     },
     {
       "surface": "מאתך",
-      "gloss": "⟨את⟩ site ⟨אתך⟩ gị"
+      "gloss": "⟨את⟩ gị"
     },
     {
       "surface": "לאמר",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ọ gaghị"
+      "gloss": "gaghị"
     },
     {
       "surface": "תראה",
-      "gloss": "ahụ"
+      "gloss": "Ị ahụ"
     },
     {
       "surface": "את",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "ma ọ bụghị"
+      "gloss": "ma e wezụga"
     },
     {
       "surface": "אם",
-      "gloss": "ma ọ bụ"
+      "gloss": "ma ọ bụrụ na"
     },
     {
       "surface": "לפני",
@@ -90,12 +90,12 @@
     },
     {
       "surface": "הביאך",
-      "gloss": "ị ewetala"
+      "gloss": "ị ewetaghị"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mikal"
+      "marks": "Mikal, nwa nwanyị Shaul"
     },
     {
       "surface": "מיכל",
@@ -103,15 +103,15 @@
     },
     {
       "surface": "בת",
-      "gloss": "nwa"
+      "gloss": "nwa nwanyị"
     },
     {
       "surface": "שאול",
-      "gloss": "Saụl"
+      "gloss": "Shaul"
     },
     {
       "surface": "בבאך",
-      "gloss": "mgbe ị na-abata"
+      "gloss": "mgbe ị na-abịa"
     },
     {
       "surface": "לראות",
@@ -127,6 +127,6 @@
       "gloss": "ihu m"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.225972194Z",
+  "timestamp": "2026-08-27T17:40:19.128915611Z",
   "model": "glm-5.3"
 }

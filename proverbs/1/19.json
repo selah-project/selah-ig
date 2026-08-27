@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Ndị a bụ ⟨the⟩ ụzọ nke onye ọ bụla na-achọ iwepụ ihe n'aka ndị ọzọ; mwepu ihe na-ewere ⟨את⟩ ndụ nke ndị nwe ya.",
+  "translation": "Otu n'ụzọ a ka ụzọ onye ọ bụla na-emega ihe nwunyere dị; ọ na-ewe ⟨את⟩ ndụ nke ndị nwe ya.",
   "tokens": [
     {
       "surface": "כן",
-      "gloss": "ndị a bụ"
+      "gloss": "otu n'ụzọ a ka"
     },
     {
       "surface": "ארחות",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "nke onye ọ bụla"
+      "gloss": "onye ọ bụla"
     },
     {
       "surface": "בצע",
-      "gloss": "na-achọ iwepụ ihe n'aka ndị ọzọ"
+      "gloss": "na-emega ihe nwunyere"
     },
     {
       "surface": "בצע",
-      "gloss": "mwepụ ihe"
+      "gloss": "ihe nwunyere"
     },
     {
       "surface": "את",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "יקח",
-      "gloss": "na-ewere"
+      "gloss": "ọ na-ewe"
     }
   ],
-  "timestamp": "2026-08-27T16:50:48.331720569Z",
+  "timestamp": "2026-08-27T17:54:41.571659355Z",
   "model": "glm-5.3"
 }

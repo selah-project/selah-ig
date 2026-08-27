@@ -5,23 +5,19 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 42,
-  "translation": "Ma n'ihu ụlọ-nsọ ndị ahụ, okporo ụzọ nke obosara ama iri ⟨the⟩ ruo n'akụkụ ime, ụzọ nke otu ama; ọnụ ụzọ ha gbatịrị gaa ugwu.",
+  "translation": "Ma n'ihu ọnụ ụlọ ndị ahụ, e nwere ⟨e⟩ ụzọ ije nke ama iri n'obosara, banye n'ime, ụzọ nke otu ama; ọnụ ụzọ ha na-eche ⟨ehu⟩ ugwu.",
   "tokens": [
     {
-      "surface": "ו",
-      "gloss": "ma"
-    },
-    {
-      "surface": "לפני",
-      "gloss": "n'ihu"
+      "surface": "ולפני",
+      "gloss": "ma n'ihu"
     },
     {
       "surface": "הלשכות",
-      "gloss": "ụlọ-nsọ ndị"
+      "gloss": "ọnụ ụlọ ndị ahụ"
     },
     {
       "surface": "מהלך",
-      "gloss": "okporo ụzọ"
+      "gloss": "ụzọ ije"
     },
     {
       "surface": "עשר",
@@ -37,11 +33,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "ruo na"
+      "gloss": "banye"
     },
     {
       "surface": "הפנימית",
-      "gloss": "akụkụ ime"
+      "gloss": "n'ime"
     },
     {
       "surface": "דרך",
@@ -61,9 +57,9 @@
     },
     {
       "surface": "לצפון",
-      "gloss": "gaa ugwu"
+      "gloss": "na-eche ugwu"
     }
   ],
-  "timestamp": "2026-08-27T12:30:46.881947837Z",
+  "timestamp": "2026-08-27T17:51:11.035087138Z",
   "model": "glm-5.3"
 }

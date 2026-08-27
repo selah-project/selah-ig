@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 13,
-  "translation": "Ma o nyere mgbaàmà n'ụbọchị ahụ, na-asị: Nke a bụ ⟨the⟩ mgbaàmà nke Yahwe kwuru; le, ebe-ọkụ-ọnwụ ⟨the⟩ a ga-akụ, na ntụ nke dị n'elu ya ga-agbapụ.",
+  "translation": "O nyere akara n'ụbọchị ahụ, sị: Nke a bụ akara nke Yahwe kwuru, kwuru: Le, ⟨àjà⟩ ahụ ga-akwa, na ntụ nke dị n'elu ya ga-ezo.",
   "tokens": [
     {
       "surface": "ונתן",
-      "gloss": "ma o nyere"
+      "gloss": "O nyere"
     },
     {
       "surface": "ביום",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "מופת",
-      "gloss": "mgbaàmà"
+      "gloss": "akara"
     },
     {
       "surface": "לאמר",
-      "gloss": "na-asị"
+      "gloss": "sị"
     },
     {
       "surface": "זה",
-      "gloss": "nke a"
+      "gloss": "Nke a"
     },
     {
       "surface": "המופת",
-      "gloss": "⟨the⟩ mgbaàmà"
+      "gloss": "akara ahụ"
     },
     {
       "surface": "אשר",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "הנה",
-      "gloss": "le"
+      "gloss": "Le"
     },
     {
       "surface": "המזבח",
-      "gloss": "ebe-ọkụ-ọnwụ ⟨the⟩ a"
+      "gloss": "⟨àjà⟩ ahụ"
     },
     {
       "surface": "נקרע",
-      "gloss": "ga-akụ"
+      "gloss": "ga-akwa"
     },
     {
       "surface": "ונשפך",
-      "gloss": "ma ga-agbapụ"
+      "gloss": "ga-ezo"
     },
     {
       "surface": "הדשן",
@@ -76,6 +76,6 @@
       "gloss": "dị n'elu ya"
     }
   ],
-  "timestamp": "2026-08-27T16:37:03.577425737Z",
+  "timestamp": "2026-08-27T17:42:41.721220195Z",
   "model": "glm-5.3"
 }

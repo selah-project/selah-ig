@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":4,"ref":"2-samuel 6:4","book":"2-samuel","lang":"ig","chapter":6,"translation":"Ha wee buru ya site n'ụlọ Avinadav nke dị na Giv'ah, ya na igbe nke Elohim; Achyo na-aga n'ihu ⟨the⟩ igbe ahụ.","tokens":[{"surface":"וישאהו","gloss":"ha wee buru ya"},{"surface":"מבית","gloss":"site n'ụlọ"},{"surface":"אבינדב","gloss":"Avinadav"},{"surface":"אשר","gloss":"nke dị"},{"surface":"בגבעה","gloss":"na Giv'ah"},{"surface":"עם","gloss":"ya na"},{"surface":"ארון","gloss":"igbe"},{"surface":"האלהים","gloss":"nke Elohim"},{"surface":"ואחיו","gloss":"Achyo"},{"surface":"הלך","gloss":"na-aga"},{"surface":"לפני","gloss":"n'ihu"},{"surface":"הארון","gloss":"⟨the⟩ igbe ahụ"}],"timestamp":"2026-08-27T09:33:53.483549443Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 6:4",
+  "book": "2-samuel",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ha buuru ya n'ụlọ Avinadav nke dị na Gibea, ya na ark nke Elohim, ma Ahyo na-aga n'ihu arkn.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "ha buuru ya"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "site n'ụlọ"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nke dị"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "na Gibea"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya na"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "nke Elohim"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ma Ahyo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "na-aga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ark ahụ"
+    }
+  ],
+  "timestamp": "2026-08-27T17:40:22.236535596Z",
+  "model": "glm-5.3"
+}

@@ -5,19 +5,19 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 9,
-  "translation": "Nakwa ọta narị atọ nke ọla edo a kụrụ akụ; shekel narị atọ nke ọla edo na-aga n'otu ⟨the⟩ ọta; ⟨the⟩ eze tinyekwara ha n'⟨the⟩ ụlọ nke ọhịa Lebanọn.",
+  "translation": "Nakwa mkpudi narị atọ nke ọla edo a kụrụ akụ; shekel ọla edo narị atọ na-arịgo n'elu mkpudi ọ bụla; eze tinyekwara ha n'ụlọ ọhịa Lebanon.",
   "tokens": [
     {
       "surface": "ושלש",
-      "gloss": "na atọ"
+      "gloss": "nakwa ... atọ"
     },
     {
       "surface": "מאות",
-      "gloss": "narị"
+      "gloss": "narị atọ"
     },
     {
       "surface": "מגנים",
-      "gloss": "ọta"
+      "gloss": "mkpudi"
     },
     {
       "surface": "זהב",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מאות",
-      "gloss": "narị"
+      "gloss": "narị atọ"
     },
     {
       "surface": "זהב",
@@ -41,27 +41,27 @@
     },
     {
       "surface": "יעלה",
-      "gloss": "na-aga"
+      "gloss": "na-arịgo"
     },
     {
       "surface": "על",
-      "gloss": "n'"
+      "gloss": "n'elu"
     },
     {
       "surface": "המגן",
-      "gloss": "⟨the⟩ ọta"
+      "gloss": "mkpudi ⟨ahụ⟩"
     },
     {
       "surface": "האחת",
-      "gloss": "⟨the⟩ otu"
+      "gloss": "ọ bụla (otu)"
     },
     {
       "surface": "ויתנם",
-      "gloss": "ma tinye ha"
+      "gloss": "tinyekwara ha"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ eze"
+      "gloss": "eze"
     },
     {
       "surface": "בבית",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "הלבנון",
-      "gloss": "⟨the⟩ Lebanọn"
+      "gloss": "Lebanon"
     }
   ],
-  "timestamp": "2026-08-27T16:10:24.011297885Z",
+  "timestamp": "2026-08-27T17:59:44.062798013Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 26,
-  "translation": "Ha ga-abụ osisi asatọ, na ntụala ha nke ọlaọcha, ntụala iri na isii; ntụala abụọ n'okpuru osisi ⟨the⟩ nke ọma, na ntụala abụọ n'okpuru osisi ⟨the⟩ nke ọma.",
+  "translation": "Ga-abụkwa bọd asatọ, na isi ntọ ha nke ọlaọcha, isi ntọ iri na isii: isi ntọ abụọ n'okpuru bọd otu, na isi ntọ abụọ n'okpuru bọd ⟨nke ọzọ⟩ otu.",
   "tokens": [
     {
       "surface": "והיו",
-      "gloss": "ha ga-abụ"
+      "gloss": "ga-abụkwa"
     },
     {
       "surface": "שמנה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "קרשים",
-      "gloss": "osisi"
+      "gloss": "bọd"
     },
     {
       "surface": "ואדניהם",
-      "gloss": "na ntụala ha"
+      "gloss": "na isi ntọ ha"
     },
     {
       "surface": "כסף",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "ששה",
-      "gloss": "isii"
+      "gloss": "iri"
     },
     {
       "surface": "עשר",
-      "gloss": "iri (na)"
+      "gloss": "na isii"
     },
     {
       "surface": "אדנים",
-      "gloss": "ntụala"
+      "gloss": "isi ntọ"
     },
     {
       "surface": "שני",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אדנים",
-      "gloss": "ntụala"
+      "gloss": "isi ntọ"
     },
     {
       "surface": "תחת",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "הקרש",
-      "gloss": "osisi ⟨the⟩"
+      "gloss": "bọd ⟨ahụ⟩"
     },
     {
       "surface": "האחד",
-      "gloss": "nke ọma"
+      "gloss": "otu"
     },
     {
       "surface": "ושני",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אדנים",
-      "gloss": "ntụala"
+      "gloss": "isi ntọ"
     },
     {
       "surface": "תחת",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "הקרש",
-      "gloss": "osisi ⟨the⟩"
+      "gloss": "bọd ⟨ahụ⟩"
     },
     {
       "surface": "האחד",
-      "gloss": "nke ọma"
+      "gloss": "otu"
     }
   ],
-  "timestamp": "2026-08-27T06:27:36.426354569Z",
+  "timestamp": "2026-08-27T17:31:57.957166801Z",
   "model": "glm-5.3"
 }

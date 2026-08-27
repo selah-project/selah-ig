@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 27,
-  "translation": "A ṅụọ ya onye na-ehi ụra ya na anụmanụ ọ bụla; ma obodo niile ga-ekwu, Amen.",
+  "translation": "A rọọrọ onye na-ehi ụra ya na anụmanụ ọ bụla; mmadụ niile ga-ekwu, Amen.",
   "tokens": [
     {
       "surface": "ארור",
-      "gloss": "A ṅụọ ya"
+      "gloss": "a rọọrọ"
     },
     {
       "surface": "שכב",
-      "gloss": "onye na-ehi ụra ya"
+      "gloss": "onye na-ehi ụra"
     },
     {
       "surface": "עם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "ma ... ga-ekwu"
+      "gloss": "ga-ekwu"
     },
     {
       "surface": "כל",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "העם",
-      "gloss": "obodo ⟨the⟩"
+      "gloss": "mmadụ"
     },
     {
       "surface": "אמן",
       "gloss": "Amen"
     }
   ],
-  "timestamp": "2026-08-27T08:11:27.983211636Z",
+  "timestamp": "2026-08-27T17:36:50.943322517Z",
   "model": "glm-5.3"
 }

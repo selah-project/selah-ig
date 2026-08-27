@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 28,
-  "translation": "Yahwe ga-ewelite megide gị mba site n'ebe dị anya, site na njedebe nke ⟨the⟩ ụwa, dịka ugo na-efe ngwa ngwa si efe; mba nke asụsụ ya ị̀ agaghị anụ.",
+  "translation": "Yahwe ga-ebuli megide gị mba sitere n'ebe dị anya, site n'ọgwụgwụ ⟨nke⟩ ụwa, dịka nnụnụ na-efe ọsọ si adaa; mba nke asụsụ ya ị gaghị aghọta.",
   "tokens": [
     {
       "surface": "ישא",
-      "gloss": "ga-ewelite"
+      "gloss": "ga-ebuli"
     },
     {
       "surface": "יהוה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "מקצה",
-      "gloss": "site na njedebe"
+      "gloss": "site n'ọgwụgwụ"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ụwa"
+      "gloss": "ụwa"
     },
     {
       "surface": "כאשר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ידאה",
-      "gloss": "na-efe ngwa ngwa"
+      "gloss": "na-efe ọsọ si adaa"
     },
     {
       "surface": "הנשר",
-      "gloss": "ugo"
+      "gloss": "nnụnụ"
     },
     {
       "surface": "גוי",
@@ -57,17 +57,17 @@
     },
     {
       "surface": "לא",
-      "gloss": "agaghị"
+      "gloss": "aghị"
     },
     {
       "surface": "תשמע",
-      "gloss": "ị ga-anụ"
+      "gloss": "ị gaghị aghọta"
     },
     {
       "surface": "לשנו",
       "gloss": "asụsụ ya"
     }
   ],
-  "timestamp": "2026-08-27T08:13:42.107223820Z",
+  "timestamp": "2026-08-27T17:36:24.005553497Z",
   "model": "glm-5.3"
 }

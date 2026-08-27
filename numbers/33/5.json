@@ -5,8 +5,33 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 33,
-  "translation": "Nwa Yaakov — ụmụ nke Yisra'el si Ra'meses pụọ, ma nwee ọdụ n'Ilé-Sukkot.",
-  "tokens": [],
-  "timestamp": "2026-08-27T07:46:14.813455856Z",
+  "translation": "Ma ụmụ Yaakov a na-akpọ Yisrael ji wee si Raamses pụọ, wee nọrọ n'ụlọikwu na Sukkot.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ji wee pụọ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "si Raamses"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wee nọrọ n'ụlọikwu"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "na Sukkot"
+    }
+  ],
+  "timestamp": "2026-08-27T17:35:03.469334636Z",
   "model": "glm-5.3"
 }

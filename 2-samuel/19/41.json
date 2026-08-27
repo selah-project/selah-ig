@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 19,
-  "translation": "Eze gafere ⟨the⟩ Gilgal, ma Kimham gafere ya; mmadụ niile nke Yehuda duuru ⟨את⟩ eze gafee, nakwa ọkara nke mmadụ nke Izrel.",
+  "translation": "Eze gafere na HaGilgala, ma Kimham gafere ya; ma ndị niile nke mmadụ Yehuda gafere ⟨את⟩ eze, ma ọkara nke mmadụ Yisraél.",
   "tokens": [
     {
       "surface": "ויעבר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הגלגלה",
-      "gloss": "Gilgal"
+      "gloss": "HaGilgala"
     },
     {
       "surface": "וכמהן",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "ma mmadụ niile"
+      "gloss": "ma ndị niile nke"
     },
     {
       "surface": "עם",
-      "gloss": "nke"
+      "gloss": "mmadụ"
     },
     {
       "surface": "יהודה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ויעברו",
-      "gloss": "duuru gafee"
+      "gloss": "gafere"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "nakwa"
+      "gloss": "ma"
     },
     {
       "surface": "חצי",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "nke mmadụ"
+      "gloss": "mmadụ"
     },
     {
       "surface": "ישראל",
-      "gloss": "Izrel"
+      "gloss": "Yisraél"
     }
   ],
-  "timestamp": "2026-08-27T09:46:32.586601250Z",
+  "timestamp": "2026-08-27T17:41:13.232347957Z",
   "model": "glm-5.3"
 }

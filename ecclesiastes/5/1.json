@@ -5,15 +5,15 @@
   "book": "ecclesiastes",
   "lang": "ig",
   "chapter": 5,
-  "translation": "Ela ka ọnụ gị mee ngwa ngwa, ma obi gị ela ngwa iwepụ okwu n'ihu ⟨the⟩ Elohim, n'ihi na Elohim nọ n'eluigwe ma ị nọ n'⟨the⟩ ụwa; ya mere okwu gị ga-adị obere ole na ole.",
+  "translation": "Egbula ahụ n'ọnụ gị, ma obi gị egbula ịma ọsọ ịpụta okwu n'ihu Elohim, n'ihi na Elohim dị n'eluigwe ma ị nọ n'ụwa; ya mere, okwu gị ga-adị ntakịrị.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "ela"
+      "gloss": "egbula"
     },
     {
       "surface": "תבהל",
-      "gloss": "mee ngwa ngwa"
+      "gloss": "ahụ n'ahụ"
     },
     {
       "surface": "על",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ela"
+      "gloss": "egbula"
     },
     {
       "surface": "ימהר",
-      "gloss": "gbawa ngwa"
+      "gloss": "gba ọsọ"
     },
     {
       "surface": "להוציא",
-      "gloss": "iwepụ"
+      "gloss": "ịpụta"
     },
     {
       "surface": "דבר",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "על",
-      "gloss": "n'ihi"
+      "gloss": "ya mere"
     },
     {
       "surface": "כן",
-      "gloss": "ya mere"
+      "gloss": "(n'ihi ya)"
     },
     {
       "surface": "יהיו",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "מעטים",
-      "gloss": "obere ole na ole"
+      "gloss": "ntakịrị"
     }
   ],
-  "timestamp": "2026-08-27T15:14:04.367940180Z",
+  "timestamp": "2026-08-27T17:56:52.588420658Z",
   "model": "glm-5.3"
 }

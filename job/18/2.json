@@ -5,19 +5,19 @@
   "book": "job",
   "lang": "ig",
   "chapter": 18,
-  "translation": "Ruo mgbe ole ka unu ga-edebe njedebe maka ⟨the⟩ okwu? Ghọtara nke ọma, mgbe ahụ ka anyị ga-asụ.",
+  "translation": "Ruo mgbe ka ị ga-etinye njedebe ⟨n'⟩ okwu? Chere echiche, mgbe ahụ ka anyị ga-ekwu okwu.",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "ruo"
+      "gloss": "ruo mgbe"
     },
     {
       "surface": "אנה",
-      "gloss": "mgbe ole"
+      "gloss": "ka"
     },
     {
       "surface": "תשימון",
-      "gloss": "unu ga-edebe"
+      "gloss": "ị ga-etinye"
     },
     {
       "surface": "קנצי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "למלין",
-      "gloss": "maka okwu"
+      "gloss": "okwu"
     },
     {
       "surface": "תבינו",
-      "gloss": "ghọtara"
+      "gloss": "chere echiche"
     },
     {
       "surface": "ואחר",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "נדבר",
-      "gloss": "anyị ga-asụ"
+      "gloss": "anyị ga-ekwu okwu"
     }
   ],
-  "timestamp": "2026-08-27T14:45:12.989292620Z",
+  "timestamp": "2026-08-27T17:56:12.680543162Z",
   "model": "glm-5.3"
 }

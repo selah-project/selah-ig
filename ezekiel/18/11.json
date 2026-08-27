@@ -1,1 +1,75 @@
-{"tier":"glm-5.2","verse":11,"ref":"ezekiel 18:11","book":"ezekiel","lang":"ig","chapter":18,"translation":"ma ⟨הוא⟩ onwe ya emeghị ⟨את⟩ ihe ndị a niile, n'ihi na ọ riri nri n'elu ugwu ndị ahụ, ma mekwuo ⟨את⟩ nwunye onye agbata obi ya ka ọ rụọ.","tokens":[{"surface":"והוא","gloss":"ma onwe ya"},{"surface":"את","gloss":"⟨את⟩","marks":"ihe ndị a niile"},{"surface":"כל","gloss":"niile"},{"surface":"אלה","gloss":"ihe ndị a"},{"surface":"לא","gloss":"ọ emeghị"},{"surface":"עשה","gloss":"ime"},{"surface":"כי","gloss":"n'ihi na"},{"surface":"גם","gloss":"ọ riri n'elu"},{"surface":"אל","gloss":"riri nri n'elu"},{"surface":"ההרים","gloss":"ugwu ndị ahụ"},{"surface":"אכל","gloss":"ọ riri"},{"surface":"ואת","gloss":"⟨את⟩","marks":"nwunye onye agbata obi ya"},{"surface":"אשת","gloss":"nwunye"},{"surface":"רעהו","gloss":"onye agbata obi ya"},{"surface":"טמא","gloss":"ọ rụọ"}],"timestamp":"2026-08-27T12:08:33.479461327Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "ig",
+  "chapter": 18,
+  "translation": "ma ⟨⟨את⟩⟩ ihe niile ndị a ọ emeghị, n'ihi na ọbụnadị n'elu ugwu ndị ahụ riri, ma ⟨את⟩ nwunye onye agbata obi ya rụrọ arụ.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ma ọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihe niile ndị a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ndị a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ọ emeghị"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ọbụnadị"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'elu"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ugwu ndị ahụ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "riri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma ⟨את⟩",
+      "marks": "nwunye onye agbata obi ya"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nwunye"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "onye agbata obi ya"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "rụrọ arụ"
+    }
+  ],
+  "timestamp": "2026-08-27T17:49:22.182979881Z",
+  "model": "glm-5.3"
+}

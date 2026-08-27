@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ig",
   "chapter": 4,
-  "translation": "Nwunye ya ⟨the⟩ Yehudiyah mụrụ ⟨את⟩ Yered nna Gedor, na ⟨את⟩ Chever nna Sokho, na ⟨את⟩ Yekuthiel nna Zanoach; ndị a bụ ụmụ Bityah, nwa Faroh, onye Mered Were.",
+  "translation": "Nwunye ya, nwanyị Yuda, mụrụ ⟨את⟩ Yered nna Gedor, ⟨את⟩ Cheber nna Sokho, na ⟨את⟩ Yekuthiel nna Zanoach; ndị a bụ ụmụ Bityah, nwa Paroh, nke Mered were.",
   "tokens": [
     {
       "surface": "ואשתו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "היהדיה",
-      "gloss": "Yehudiyah"
+      "gloss": "nwanyị Yuda"
     },
     {
       "surface": "ילדה",
@@ -39,11 +39,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Chever"
+      "marks": "Cheber"
     },
     {
       "surface": "חבר",
-      "gloss": "Chever"
+      "gloss": "Cheber"
     },
     {
       "surface": "אבי",
@@ -88,21 +88,21 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Faroh"
+      "gloss": "Paroh"
     },
     {
       "surface": "אשר",
-      "gloss": "onye"
+      "gloss": "nke"
     },
     {
       "surface": "לקח",
-      "gloss": "Were"
+      "gloss": "were"
     },
     {
       "surface": "מרד",
       "gloss": "Mered"
     }
   ],
-  "timestamp": "2026-08-27T15:53:53.195344144Z",
+  "timestamp": "2026-08-27T18:01:58.829335900Z",
   "model": "glm-5.3"
 }

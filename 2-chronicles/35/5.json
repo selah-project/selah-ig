@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 35,
-  "translation": "Guzo n'ebe dị nsọ, dịka nkewa nke ụlọ ndị nna nke ụmụnne unu, ụmụ ⟨the⟩ mmadụ, na ⟨the⟩ nkewa nke ụlọ nna nke ndị Levi.",
+  "translation": "Guzo n'ebe nsọ dịka nkewa nke ụlọ ndị nna nke ụmụnne unu, ụmụ ⟨nke⟩ ndị mmadụ, ma bụrụkwa òtù nke ụlọ nna maka ndị Lévì.",
   "tokens": [
     {
       "surface": "ועמדו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בקדש",
-      "gloss": "n'ebe dị nsọ"
+      "gloss": "n'ebe nsọ"
     },
     {
       "surface": "לפלגות",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "ụlọ"
+      "gloss": "nke ụlọ"
     },
     {
       "surface": "האבות",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "mmadụ"
+      "gloss": "ndị mmadụ"
     },
     {
       "surface": "וחלקת",
-      "gloss": "na nkewa"
+      "gloss": "ma bụrụkwa òtù"
     },
     {
       "surface": "בית",
-      "gloss": "ụlọ"
+      "gloss": "nke ụlọ"
     },
     {
       "surface": "אב",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "ללוים",
-      "gloss": "nke ndị Levi"
+      "gloss": "maka ndị Lévì"
     }
   ],
-  "timestamp": "2026-08-27T16:21:26.180795969Z",
+  "timestamp": "2026-08-27T18:00:47.640370313Z",
   "model": "glm-5.3"
 }

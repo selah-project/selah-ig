@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "ig",
   "chapter": 11,
-  "translation": "Yiftach onye Gilad bụ ⟨the⟩ dike nke agha, ma ⟨ọ⟩ bụ nwa nke nwanyị akwụna; Gilad amụọla ⟨את⟩ Yiftach.",
+  "translation": "Yiftach onye Gilad ⟨⟨ara⟩⟩ bụ ⟨⟨onye⟩⟩ dị ike n'ike, ma ọ ⟨⟻ bụ⟩⟩ nwa nke nwanyị akwụna; ma Gilad mụrụ ⟨את⟩ Yiftach.",
   "tokens": [
     {
       "surface": "ויפתח",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "גבור",
-      "gloss": "dike"
+      "gloss": "onye dị ike"
     },
     {
       "surface": "חיל",
-      "gloss": "nke agha"
+      "gloss": "n'ike"
     },
     {
       "surface": "והוא",
-      "gloss": "ma ọ bụ"
+      "gloss": "ma ọ"
     },
     {
       "surface": "בן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אשה",
-      "gloss": "nke nwanyị"
+      "gloss": "nwanyị"
     },
     {
       "surface": "זונה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ויולד",
-      "gloss": "amụọla"
+      "gloss": "ma ... mụrụ"
     },
     {
       "surface": "גלעד",
@@ -61,6 +61,6 @@
       "gloss": "Yiftach"
     }
   ],
-  "timestamp": "2026-08-27T16:32:59.948990525Z",
+  "timestamp": "2026-08-27T17:37:43.561942413Z",
   "model": "glm-5.3"
 }

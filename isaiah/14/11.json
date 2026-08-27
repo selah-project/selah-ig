@@ -5,8 +5,49 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 14,
-  "translation": "A kụrụla ala Sheol ibu ihere gị, na ụda nke ngwa egwu gị; n'okpuru gị ka e jiri akwụrụ akwụ kwụsị, ma ule gị bụ ọkwọ.",
-  "tokens": null,
-  "timestamp": "2026-08-27T17:16:25.715365595Z",
+  "translation": "A dakwasiri Sheol ini mmegharị gị, ụda nke ngwa egwu gị; a tọgbọrọ ṅdụ n'okpuru gị, ma ule kpuchie gị.",
+  "tokens": [
+    {
+      "surface": "הורד",
+      "gloss": "a dakwasiri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "ini mmegharị gị"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ụda"
+    },
+    {
+      "surface": "נבליך",
+      "gloss": "nke ngwa egwu gị"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "n'okpuru gị"
+    },
+    {
+      "surface": "יצע",
+      "gloss": "a tọgbọrọ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ṅdụ"
+    },
+    {
+      "surface": "ומכסיך",
+      "gloss": "ma ule kpuchie gị"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "ule"
+    }
+  ],
+  "timestamp": "2026-08-27T17:44:25.584882314Z",
   "model": "glm-5.3"
 }

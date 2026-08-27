@@ -5,19 +5,23 @@
   "book": "nehemiah",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Ma ndị nchuja na ndị Levi doro onwe ha ọcha, ha wee dọọ ⟨את⟩ ndị ahụ, ⟨את⟩ ọnụ ụzọ ámá na ⟨את⟩ mgbidi ahụ ọcha.",
+  "translation": "Ma ndị nchuaja na ndị Lẹvi dịrị ⟨את⟩ onwe ha ọcha, ha wee dọrị ⟨את⟩ ndị ahụ, na ⟨את⟩ ọnụ ụzọ ámá ndị ahụ, na ⟨את⟩ mgbidi ahụ ọcha.",
   "tokens": [
     {
       "surface": "ויטהרו",
-      "gloss": "ma ha doro ọcha"
+      "gloss": "ha wee dịrị ọcha"
     },
     {
       "surface": "הכהנים",
-      "gloss": "ndị nchuja"
+      "gloss": "ndị nchuaja"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "na ndị Lẹvi"
     },
     {
       "surface": "ויטהרו",
-      "gloss": "ha wee dọọ ọcha"
+      "gloss": "ha wee dọrị ọcha"
     },
     {
       "surface": "את",
@@ -26,16 +30,16 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨את⟩ ndị ahụ"
+      "gloss": "ndị ahụ"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ọnụ ụzọ ámá"
+      "marks": "ọnụ ụzọ ámá ndị ahụ"
     },
     {
       "surface": "השערים",
-      "gloss": "⟨את⟩ ọnụ ụzọ ámá"
+      "gloss": "ọnụ ụzọ ámá ndị ahụ"
     },
     {
       "surface": "ואת",
@@ -44,9 +48,9 @@
     },
     {
       "surface": "החומה",
-      "gloss": "⟨את⟩ mgbidi ahụ"
+      "gloss": "mgbidi ahụ"
     }
   ],
-  "timestamp": "2026-08-27T15:48:54.266630477Z",
+  "timestamp": "2026-08-27T17:58:25.173604693Z",
   "model": "glm-5.3"
 }

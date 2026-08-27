@@ -5,15 +5,15 @@
   "book": "hosea",
   "lang": "ig",
   "chapter": 10,
-  "translation": "Efrayim ⟨is⟩ nwa efi a zụrụ azụ, n'ahụ ịkụ ọka n'anya; mụ onwe m ga-agafe n'elu mma olu ya; m ga-eme ka a nyụrụ Efrayim igwe, Yehuda ga-agụgba, Yaakov ga-akụrụ ala ya mkpụrụ.",
+  "translation": "Efraim ⟨ bụ⟩ nwa-efi a zụrụ azụ, na-ahụ ịkụ ọka n'anya; m wee gafee n'elu ọma olu ya; m ga-ekwu ka Efraim duga ibu — Yehuda ga-akụ ihe, Yaakov ga-agbanye ụkwụ ala ya.",
   "tokens": [
     {
       "surface": "ואפרים",
-      "gloss": "Efrayim"
+      "gloss": "Efraim"
     },
     {
       "surface": "עגלה",
-      "gloss": "nwa efi"
+      "gloss": "nwa-efi"
     },
     {
       "surface": "מלמדה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אהבתי",
-      "gloss": "n'ahụ ịkụ ọka n'anya"
+      "gloss": "na-ahụ n'anya"
     },
     {
       "surface": "לדוש",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ואני",
-      "gloss": "mụ onwe m"
+      "gloss": "m"
     },
     {
       "surface": "עברתי",
-      "gloss": "ga-agafe"
+      "gloss": "m wee gafee"
     },
     {
       "surface": "על",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "mma"
+      "gloss": "ọma"
     },
     {
       "surface": "צוארה",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "ארכיב",
-      "gloss": "m ga-eme ka a nyụrụ igwe"
+      "gloss": "m ga-ekwu ka ọ duga ibu"
     },
     {
       "surface": "אפרים",
-      "gloss": "Efrayim"
+      "gloss": "Efraim"
     },
     {
       "surface": "יחרוש",
-      "gloss": "ga-agụgba"
+      "gloss": "ga-akụ ihe"
     },
     {
       "surface": "יהודה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ישדד",
-      "gloss": "ga-akụrụ mkpụrụ"
+      "gloss": "ga-agbanye ụkwụ ala"
     },
     {
       "surface": "לו",
@@ -76,6 +76,6 @@
       "gloss": "Yaakov"
     }
   ],
-  "timestamp": "2026-08-27T17:19:56.168988776Z",
+  "timestamp": "2026-08-27T17:51:26.932643281Z",
   "model": "glm-5.3"
 }

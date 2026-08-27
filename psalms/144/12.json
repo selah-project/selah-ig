@@ -5,8 +5,49 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 144,
-  "translation": "Na ụmụ anyị dịka osisi a kụrụ n'ọdụ, etolite n'oge ha na-agba ọsọ; ụmụ nwanyị anyị dịka nkuku e ji ihe atụ nke ụlọ ukwu chọọ mma, e gwuru egwu n'ụdị ọnụ ụlọ nsọ.",
-  "tokens": null,
-  "timestamp": "2026-08-27T17:21:04.199785854Z",
+  "translation": "Ndị na-ụmụ anyị dị ka osisi a kụrụ, ka e tolitere n'oge ntorobịa ha; ụmụ nwanyị anyị dị ka nkume akụ n'akụkụ, ka e see n'ụdị ụlọ eze.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ndị na-"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "ụmụ anyị"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "dị ka osisi a kụrụ"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "ka e tolitere"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "n'oge ntorobịa ha"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "ụmụ nwanyị anyị"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "dị ka nkume akụ n'akụkụ"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "ka e see"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "n'ụdị"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ụlọ eze"
+    }
+  ],
+  "timestamp": "2026-08-27T17:54:42.156256348Z",
   "model": "glm-5.3"
 }

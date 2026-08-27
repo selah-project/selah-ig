@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 8,
-  "translation": "Ala nke ị ga-eri nri n'ime ya na-enweghị ụkọ, ị gaghị ezughị ihe ọ bụla n'ime ya; ala nke nkume ya bụ ígwè, na site n'ugwu ya ị ga-egwu ⟨the⟩ ọla nchara.",
+  "translation": "Ala ⟨nke⟩ ị ga-eri nri n'enweghị ụkọ, ị gaghị enweta ihe ọ bụla na-enweghị ya; ala ⟨nke⟩ nkume ya bụ ígwè, ma site n'ugwu ya ị ga-egbupụta ọla kọpa.",
   "tokens": [
     {
       "surface": "ארץ",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "⟨nke⟩"
     },
     {
       "surface": "לא",
-      "gloss": "ọ bụghị"
+      "gloss": "ị ga-eri nri n'enweghị ụkọ"
     },
     {
       "surface": "במסכנת",
-      "gloss": "n'ụkọ"
+      "gloss": "n'enweghị ụkọ"
     },
     {
       "surface": "תאכל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "n'ime ya"
+      "gloss": "nri"
     },
     {
       "surface": "לחם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ị gaghị"
+      "gloss": "ọ bụghị"
     },
     {
       "surface": "תחסר",
-      "gloss": "ezughị"
+      "gloss": "ị gaghị enweta ihe ọ bụla na-enweghị ya"
     },
     {
       "surface": "כל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "n'ime ya"
+      "gloss": "ya"
     },
     {
       "surface": "ארץ",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "⟨nke⟩"
     },
     {
       "surface": "אבניה",
@@ -69,17 +69,17 @@
     },
     {
       "surface": "ומהרריה",
-      "gloss": "na ugwu ya"
+      "gloss": "site n'ugwu ya"
     },
     {
       "surface": "תחצב",
-      "gloss": "ị ga-egwu"
+      "gloss": "ị ga-egbupụta"
     },
     {
       "surface": "נחשת",
-      "gloss": "ọla nchara"
+      "gloss": "ọla kọpa"
     }
   ],
-  "timestamp": "2026-08-27T07:55:54.920089758Z",
+  "timestamp": "2026-08-27T17:35:39.932764131Z",
   "model": "glm-5.3"
 }

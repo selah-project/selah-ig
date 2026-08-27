@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 25,
-  "translation": "Ma mee kerub otu n'otu nsọtụ, site n'akụkụ a, na kerub otu n'otu nsọtụ, site n'akụkụ nke ọzọ; site na ⟨the⟩ ebe-ndozi-ebere ka a ga-eme ⟨את⟩ ndị kerub, n'elu nsọtụ abụọ ya.",
+  "translation": "Ma mee kerub otu site n'otu nsatọ nke a, na kerub otu site n'otu nsatọ nke ahụ; site na ekpere-mpụ ka a ga-eme ⟨את⟩ ndị kerub, n'elu nsatọ abụọ ya.",
   "tokens": [
     {
       "surface": "ועשה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מקצה",
-      "gloss": "n'otu nsọtụ"
+      "gloss": "site na nsatọ"
     },
     {
       "surface": "מזה",
-      "gloss": "site n'akụkụ a"
+      "gloss": "nke a"
     },
     {
       "surface": "וכרוב",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "מקצה",
-      "gloss": "n'otu nsọtụ"
+      "gloss": "site na nsatọ"
     },
     {
       "surface": "מזה",
-      "gloss": "site n'akụkụ nke ọzọ"
+      "gloss": "nke ahụ"
     },
     {
       "surface": "מן",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "הכפרת",
-      "gloss": "ebe-ndozi-ebere"
+      "gloss": "ekpere-mpụ"
     },
     {
       "surface": "תעשו",
-      "gloss": "ka a ga-eme"
+      "gloss": "a ga-eme"
     },
     {
       "surface": "את",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "קצותיו",
-      "gloss": "nsọtụ ya"
+      "gloss": "nsatọ ya"
     }
   ],
-  "timestamp": "2026-08-27T16:25:02.151508160Z",
+  "timestamp": "2026-08-27T17:31:01.926009733Z",
   "model": "glm-5.3"
 }

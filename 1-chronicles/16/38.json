@@ -5,15 +5,19 @@
   "book": "1-chronicles",
   "lang": "ig",
   "chapter": 16,
-  "translation": "na Oved-Edom na ụmụnne ha, iri isii na asatọ, na Oved-Edom nwa Yedutun na Hosha ka ndị nche ọnụ ụzọ.",
+  "translation": "ya na Obed-Edom na ụmụnne ya, iri isii na asatọ; Obed-Edom nwa Yedutun na Hosa ka ọ bụrụ ⟨ndị⟩ na-eche ụzọ ámá",
   "tokens": [
     {
-      "surface": "ועבד אדם",
-      "gloss": "na Oved-Edom"
+      "surface": "ועבד",
+      "gloss": "ya na Obed-Edom"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Obed-Edom"
     },
     {
       "surface": "ואחיהם",
-      "gloss": "ụmụnne ha"
+      "gloss": "na ụmụnne ya"
     },
     {
       "surface": "ששים",
@@ -24,8 +28,12 @@
       "gloss": "na asatọ"
     },
     {
-      "surface": "ועבד אדם",
-      "gloss": "na Oved-Edom"
+      "surface": "ועבד",
+      "gloss": "Obed-Edom"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Obed-Edom"
     },
     {
       "surface": "בן",
@@ -37,13 +45,13 @@
     },
     {
       "surface": "וחסה",
-      "gloss": "na Hosha"
+      "gloss": "na Hosa"
     },
     {
       "surface": "לשערים",
-      "gloss": "ka ndị nche ọnụ ụzọ"
+      "gloss": "ka ọ bụrụ ⟨ndị⟩ na-eche ụzọ ámá"
     }
   ],
-  "timestamp": "2026-08-27T16:01:53.304233009Z",
+  "timestamp": "2026-08-27T17:58:44.422837038Z",
   "model": "glm-5.3"
 }

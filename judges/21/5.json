@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "ig",
   "chapter": 21,
-  "translation": "Ma ụmụ Yisrael kwuru, Ònye n'etiti ⟨ihe niile nke⟩ chi ndị Yisrael bụ onye rịgoghị n'ìgwè nzukọ ruo Yahwe? N'ihi na ṅụ̀ ward siri ike, mmadụ ga-anwụ anwụ. Agbaala mmachibido ike dịrị onye ọ bụla nke rịgoghị ruo Yahwe na HaMitspa,",
+  "translation": "Nwa-ụmụ Yisraɛl wee sị: Onye n'etiti ụmụ agbụrụ niile nke Yisraɛl bụ onye bịaghị elu n'ụka ahụ ruo Yahwe? N'ihi na mmekọrịta-aha kasịnụ ka e mere maka onye ọ bụla nke bịaghị elu ruo Yahwe na Mitzpah, ka a sị: Ọnụ ọnwụ ka a ga-egbu ya.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Ma ha kwuru"
+      "gloss": "wee sị"
     },
     {
       "surface": "בני",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisraɛl"
     },
     {
       "surface": "מי",
-      "gloss": "Ònye"
+      "gloss": "onye"
     },
     {
       "surface": "אשר",
-      "gloss": "onye bụ"
+      "gloss": "nke"
     },
     {
       "surface": "לא",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "עלה",
-      "gloss": "rịgoolu"
+      "gloss": "bịaghị elu"
     },
     {
       "surface": "בקהל",
-      "gloss": "n'ìgwè nzukọ"
+      "gloss": "n'ụka"
     },
     {
       "surface": "מכל",
-      "gloss": "site na chi niile"
+      "gloss": "niile"
     },
     {
       "surface": "שבטי",
-      "gloss": "chi ndị"
+      "gloss": "agbụrụ"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisraɛl"
     },
     {
       "surface": "אל",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "השבועה",
-      "gloss": "mmachibido aṅụ ṅụ̀"
+      "gloss": "mmekọrịta-aha"
     },
     {
       "surface": "הגדולה",
-      "gloss": "ike"
+      "gloss": "kasịnụ"
     },
     {
       "surface": "היתה",
-      "gloss": "dị"
+      "gloss": "ọ bụ"
     },
     {
       "surface": "לאשר",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "עלה",
-      "gloss": "rịgoolu"
+      "gloss": "bịaghị elu"
     },
     {
       "surface": "אל",
@@ -97,17 +97,21 @@
     },
     {
       "surface": "המצפה",
-      "gloss": "HaMitspa"
+      "gloss": "Mitzpah"
     },
     {
       "surface": "לאמר",
-      "gloss": "na-ekwu"
+      "gloss": "ka a sị"
     },
     {
       "surface": "מות",
       "gloss": "ọnwụ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a ga-egbu ya"
     }
   ],
-  "timestamp": "2026-08-27T08:59:22.120987238Z",
+  "timestamp": "2026-08-27T17:39:01.579665407Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 9,
-  "translation": "Ha weere ⟨את⟩ ihe nke Moshe nyere iwu, ruo n'ihu ⟨the⟩ akwa nzukọ ahụ; ndị nzukọ niile ruru nso, ha wee guzo n'ihu Yahwe.",
+  "translation": "Ha weere ⟨את⟩ ihe nke Moshe nyere iwu, ruo n'ihu ụlọikpere nke nzukọ, yana mgbakọ niile gbagakwuru, ha guzoro n'ihu Yahwe.",
   "tokens": [
     {
       "surface": "ויקחו",
@@ -14,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ihe nke Moshe nyere iwu"
+      "marks": "ihe"
     },
     {
       "surface": "אשר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אהל",
-      "gloss": "akwa"
+      "gloss": "ụlọikpere"
     },
     {
       "surface": "מועד",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ויקרבו",
-      "gloss": "ha ruru nso"
+      "gloss": "gbagakwuru"
     },
     {
       "surface": "כל",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "העדה",
-      "gloss": "ndị nzukọ ahụ"
+      "gloss": "mgbakọ"
     },
     {
       "surface": "ויעמדו",
-      "gloss": "ha wee guzo"
+      "gloss": "ha guzoro"
     },
     {
       "surface": "לפני",
@@ -69,6 +69,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-27T06:51:18.522200561Z",
+  "timestamp": "2026-08-27T17:32:36.862384379Z",
   "model": "glm-5.3"
 }

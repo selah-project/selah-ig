@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 2,
-  "translation": "Ha gafesịrị, Eliyahu wee sị ya Elisha: Jụọ m ihe m ga-eme maka gị, tupu m ewepụ ya n'aka gị. Elisha wee sị: Ka ọ bụrụ, biko, na ⟨the⟩ ọnụ́ nke ugboro abụọ nke mmụọ gị dịrị n'ebe m nọ.",
+  "translation": "Mgbe ha gafesịrị, Eliyahu kwuru ⟨eji⟩ Elisha: Bịanye m jụọ ihe m ga-eme gị tupu a ewere m n'aka gị. Elisha wee sị: Biko, ka ọnụ nke okpukpu abụọ nke mmụọ gị dịrị m.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ọ bịara"
+      "gloss": "mgbe ọ dara"
     },
     {
       "surface": "כעברם",
-      "gloss": "ha gafesịrị"
+      "gloss": "mgbe ha gafesịrị"
     },
     {
       "surface": "ואליהו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אמר",
-      "gloss": "ọ sị"
+      "gloss": "kwuru"
     },
     {
       "surface": "אל",
-      "gloss": "ya"
+      "gloss": "eji"
     },
     {
       "surface": "אלישע",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "שאל",
-      "gloss": "jụọ"
+      "gloss": "bịanye jụọ"
     },
     {
       "surface": "מה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "maka gị"
+      "gloss": "gị"
     },
     {
       "surface": "בטרם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אלקח",
-      "gloss": "a ga-ewepụ m"
+      "gloss": "a ewere m"
     },
     {
       "surface": "מעמך",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ọ wee sị"
+      "gloss": "wee sị"
     },
     {
       "surface": "אלישע",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "ka ọ bụrụ"
+      "gloss": "ka ọ dị"
     },
     {
       "surface": "נא",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "פי",
-      "gloss": "ọnụ́"
+      "gloss": "ọnụ"
     },
     {
       "surface": "שנים",
-      "gloss": "nke ugboro abụọ"
+      "gloss": "nke okpukpu abụọ"
     },
     {
       "surface": "ברוחך",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "אלי",
-      "gloss": "n'ebe m nọ"
+      "gloss": "dịrị m"
     }
   ],
-  "timestamp": "2026-08-27T10:10:43.460931390Z",
+  "timestamp": "2026-08-27T17:43:43.705886356Z",
   "model": "glm-5.3"
 }

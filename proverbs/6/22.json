@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Mgbe ị na-eje, ⟨הוא⟩ ga-eduzi gị; mgbe ị na-ehi ụra, ⟨הוא⟩ ga-echebe gị; mgbe ị tetara, ⟨הוא⟩ ga-agwa gị okwu.",
+  "translation": "Nke mgbe ị na-eje ije, ⟨ọ⟩ ga-eduzi gị ⟨את⟩; nke mgbe ị na-ehi ụra, ⟨ọ⟩ ga-echebe gị; ma mgbe ị tetara, ⟨ọ⟩ ga-agwa gị okwu.",
   "tokens": [
     {
       "surface": "בהתהלכך",
-      "gloss": "Mgbe ị na-eje"
+      "gloss": "mgbe ị na-eje ije"
     },
     {
       "surface": "תנחה",
-      "gloss": "ga-eduzi"
+      "gloss": "ọ ga-eduzi"
     },
     {
       "surface": "אתך",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "תשמר",
-      "gloss": "ga-echebe"
+      "gloss": "ọ ga-echebe"
     },
     {
       "surface": "עליך",
@@ -34,17 +34,17 @@
     },
     {
       "surface": "והקיצות",
-      "gloss": "mgbe ị tetara"
+      "gloss": "ma mgbe ị tetara"
     },
     {
       "surface": "היא",
-      "gloss": "⟨הוא⟩"
+      "gloss": "⟨ọ⟩"
     },
     {
       "surface": "תשיחך",
-      "gloss": "ga-agwa gị okwu"
+      "gloss": "ọ ga-agwa gị okwu"
     }
   ],
-  "timestamp": "2026-08-27T14:17:45.178062639Z",
+  "timestamp": "2026-08-27T17:55:01.359400717Z",
   "model": "glm-5.3"
 }

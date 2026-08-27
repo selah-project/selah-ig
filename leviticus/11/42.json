@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 11,
-  "translation": "Ihe ọ bụla na-aga n'afọ ya, na ihe ọ bụla na-aga na ụkwụ anọ, ruo ihe ọ bụla nwere ọtụtụ ụkwụ, n'ihe niile na-agba ọsọ nke na-agba ọsọ n'elu ⟨the⟩ ụwa — unu gaghị eri ha, n'ihi na ihe jọrọ njọ ha bụ.",
+  "translation": "Ihe ọ bụla na-aga n'afọ ya, na ihe ọ bụla na-aga n'ụkwụ anọ, ruo na ihe ọ bụla nwere ọtụtụ ụkwụ — n'ihe na-agba ọsọ niile nke na-agba ọsọ n'elu ụwa — unu erighị ha, n'ihi na ihe jọrọ njọ ha bụ.",
   "tokens": [
     {
       "surface": "כל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "על",
-      "gloss": "na"
+      "gloss": "n'"
     },
     {
       "surface": "ארבע",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "ruo"
+      "gloss": "ruo na"
     },
     {
       "surface": "כל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "n'ihe niile"
+      "gloss": "n'ihe ... niile"
     },
     {
       "surface": "השרץ",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "השרץ",
-      "gloss": "na-agba ọsọ"
+      "gloss": "nke na-agba ọsọ"
     },
     {
       "surface": "על",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ụwa"
+      "gloss": "ụwa"
     },
     {
       "surface": "לא",
-      "gloss": "gaghị"
+      "gloss": "erighị"
     },
     {
       "surface": "תאכלום",
-      "gloss": "eri ha"
+      "gloss": "unu erighị ha"
     },
     {
       "surface": "כי",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "הם",
-      "gloss": "ha"
+      "gloss": "ha bụ"
     }
   ],
-  "timestamp": "2026-08-27T06:49:49.922745442Z",
+  "timestamp": "2026-08-27T17:32:42.075026333Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,65 @@
   "book": "job",
   "lang": "ig",
   "chapter": 34,
-  "translation": "Onye na-anabataghị ọnụ ndị isi, ma na-amata onye ukwu karịa onye ogbenye n'ihu ya; maka nzuzu ha niile bụ ọrụ aka Ya.",
-  "tokens": [],
-  "timestamp": "2026-08-27T16:51:41.068236390Z",
+  "translation": "Onye na-anabataghị ọnụ ndị isi, ma na-amataghị onye aghụghọ karịa onye ogbenye n'ihu ya; n'ihi na ha niile bụ ọrụ aka ya.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Onye nke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anaghị"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "na-ebuli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ihu\/ọnụ"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ndị isi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma na-anaghị"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "na-amata"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "onye aghụghọ\/onye ukwu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "n'ihu"
+    },
+    {
+      "surface": "דל",
+      "gloss": "onye ogbenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ọrụ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "aka ya"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ha niile"
+    }
+  ],
+  "timestamp": "2026-08-27T17:56:29.017485392Z",
   "model": "glm-5.3"
 }

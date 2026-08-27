@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "ig",
   "chapter": 3,
-  "translation": "N'ihi nke a, n'oge ahụ, mgbe ndị mmadụ niile nọnụrụ ụda mpi, ọja, kitheros, sabka, psanterin na ụdị egwu niile, ndị mmadụ niile, mba niile na asụsụ niile dara ala ma na-efe ⟨את⟩ onyinyo ọla-edo nke Nevukadnesar, ⟨the⟩ eze, guzobere.",
+  "translation": "N'ihi ya, n'oge ahụ, ozugbo ndị agbụrụ niile nụrụ ụda nke mpi, nke ọjà, nke lyre, nke sambuka, nke psanterin, na ụdị egwu niile, ndị agbụrụ niile, mba niile na asụsụ niile dara ala, na-efe ⟨את⟩ ihe oyiyi ọla edo nke Nevukadnetstsar, eze, guzosiri.",
   "tokens": [
     {
       "surface": "כל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "n'"
+      "gloss": "n'oge"
     },
     {
       "surface": "זמנא",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "כדי",
-      "gloss": "mgbe"
+      "gloss": "ozugbo"
     },
     {
       "surface": "שמעין",
-      "gloss": "nọnụrụ"
+      "gloss": "nụrụ"
     },
     {
       "surface": "כל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "עממיא",
-      "gloss": "ndị mmadụ"
+      "gloss": "ndị agbụrụ"
     },
     {
       "surface": "קל",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "משרוקיתא",
-      "gloss": "ọja"
+      "gloss": "ọjà"
     },
     {
       "surface": "קיתרס",
-      "gloss": "kitheros"
+      "gloss": "lyre"
     },
     {
       "surface": "שבכא",
-      "gloss": "sabka"
+      "gloss": "sambuka"
     },
     {
       "surface": "פסנטרין",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "na ... niile"
+      "gloss": "na ụdị niile"
     },
     {
       "surface": "זני",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "עממיא",
-      "gloss": "ndị mmadụ"
+      "gloss": "ndị agbụrụ"
     },
     {
       "surface": "אמיא",
@@ -105,11 +105,12 @@
     },
     {
       "surface": "לצלם",
-      "gloss": "onyinyo"
+      "gloss": "ihe oyiyi",
+      "marks": "ihe oyiyi ọla edo"
     },
     {
       "surface": "דהבא",
-      "gloss": "ọla-edo"
+      "gloss": "ọla edo"
     },
     {
       "surface": "די",
@@ -117,17 +118,17 @@
     },
     {
       "surface": "הקים",
-      "gloss": "guzobere"
+      "gloss": "guzosiri"
     },
     {
       "surface": "נבוכדנצר",
-      "gloss": "Nevukadnesar"
+      "gloss": "Nevukadnetstsar"
     },
     {
       "surface": "מלכא",
       "gloss": "eze"
     }
   ],
-  "timestamp": "2026-08-27T15:26:14.571261755Z",
+  "timestamp": "2026-08-27T17:57:24.172869346Z",
   "model": "glm-5.3"
 }

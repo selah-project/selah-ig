@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 37,
-  "translation": "Gwa ha okwu: Nke a ka Adonai Yahwe si: Le, m na-ewe ụmụ Yisrael site n'etiti mba ndị ahụ ka ha gаrа ebe ahụ, ma m na-ịchikọta ha ⟨את⟩ site gburugburu, ma m na-eduga ha ⟨את⟩ n'ala ha.",
+  "translation": "Ma gwa ha, otú a ka Adonai Yahwe siri: Le, m na-ewe ⟨את⟩ ụmụ Yisrael n'etiti ⟨nke⟩ mba ndị, ebe ha gara ebe ahụ, ma m na-ewekọta ha ⟨את⟩ gburugburu, ma m na-ewetara ha ⟨את⟩ n'ala ha.",
   "tokens": [
     {
       "surface": "ודבר",
-      "gloss": "gwa okwu"
+      "gloss": "ma gwa"
     },
     {
       "surface": "אליהם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "nke a"
+      "gloss": "otú a"
     },
     {
       "surface": "אמר",
-      "gloss": "si"
+      "gloss": "siri"
     },
     {
       "surface": "אדני",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "le"
+      "gloss": "Le"
     },
     {
       "surface": "אני",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "מבין",
-      "gloss": "site n'etiti"
+      "gloss": "n'etiti"
     },
     {
       "surface": "הגוים",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ndị"
+      "gloss": "ebe"
     },
     {
       "surface": "הלכו",
-      "gloss": "ga"
+      "gloss": "ha gara"
     },
     {
       "surface": "שם",
@@ -78,12 +78,11 @@
     },
     {
       "surface": "וקבצתי",
-      "gloss": "ma m na-ịchikọta"
+      "gloss": "ma m na-ewekọta"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ha",
-      "marks": "ha"
+      "gloss": "⟨את⟩ ha"
     },
     {
       "surface": "מסביב",
@@ -91,22 +90,21 @@
     },
     {
       "surface": "והבאתי",
-      "gloss": "ma m na-eduga"
+      "gloss": "ma m na-ewetara"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ha",
-      "marks": "ha"
+      "gloss": "⟨את⟩ ha"
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "n'"
     },
     {
       "surface": "אדמתם",
       "gloss": "ala ha"
     }
   ],
-  "timestamp": "2026-08-27T12:27:55.451868654Z",
+  "timestamp": "2026-08-27T17:50:27.029205224Z",
   "model": "glm-5.3"
 }

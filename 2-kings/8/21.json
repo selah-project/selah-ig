@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 8,
-  "translation": "Ya bụ Joram gafere gaa Tsair, ya na nrịgo ịnyịnya ya niile; otu ohere ọ teta n'abalị, wee kụọ ⟨את⟩ Edom, ndị gbara ya gburugburu, na ⟨את⟩ ndị isi nrịgo ịnyịnya; ndị ahụ gbagara n'ụlọikwe ha.",
+  "translation": "Joram gafere Saịrị, ya na ndị ịnyịnya-agha niile; otu o sila dị, ọ bilie n'abalị, tie ⟨את⟩ Edom ndị gbara ya gburugburu, na ⟨את⟩ ndị isi ịnyịnya-agha; mgbe ahụ, ndị ahụ gbagara n'ụlọikwuu ha.",
   "tokens": [
     {
       "surface": "ויעבר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "צעירה",
-      "gloss": "Tsair"
+      "gloss": "Saịrị"
     },
     {
       "surface": "וכל",
-      "gloss": "ya na ... niile"
+      "gloss": "ya na ndị … niile"
     },
     {
       "surface": "הרכב",
-      "gloss": "nrịgo ịnyịnya"
+      "gloss": "ịnyịnya-agha"
     },
     {
       "surface": "עמו",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "ọ teta"
+      "gloss": "otu o sila dị"
     },
     {
       "surface": "הוא",
-      "gloss": "ya onwe"
+      "gloss": "ọ"
     },
     {
       "surface": "קם",
-      "gloss": "kwụọlite"
+      "gloss": "bilie"
     },
     {
       "surface": "לילה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ויכה",
-      "gloss": "wee kụọ"
+      "gloss": "tie"
     },
     {
       "surface": "את",
@@ -66,12 +66,12 @@
     },
     {
       "surface": "אליו",
-      "gloss": "ruo ya"
+      "gloss": "ya"
     },
     {
       "surface": "ואת",
-      "gloss": "na ⟨את⟩",
-      "marks": "ndị isi nrịgo ịnyịnya"
+      "gloss": "⟨את⟩",
+      "marks": "ndị isi ịnyịnya-agha"
     },
     {
       "surface": "שרי",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "הרכב",
-      "gloss": "nrịgo ịnyיץnya"
+      "gloss": "ịnyịnya-agha"
     },
     {
       "surface": "וינס",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "לאהליו",
-      "gloss": "n'ụlọikwe ha"
+      "gloss": "n'ụlọikwuu ha"
     }
   ],
-  "timestamp": "2026-08-27T10:16:36.341766051Z",
+  "timestamp": "2026-08-27T17:43:40.975110482Z",
   "model": "glm-5.3"
 }

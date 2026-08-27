@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 26,
-  "translation": "Ma aka nke Akikam nwa Shafan ⟨is⟩ dịkọrọ Yirmeya, ka etinyeghị ⟨את⟩ ya n'aka ndị mmadụ igbu ya.",
+  "translation": "Mana aka nke Aḥikam nwa Shafan nọrọ ⟨את⟩ ⟨na⟩ Yirmeyahu, ⟨nke mere⟩ na a naghị enye ya n'aka ndị mmadụ ka ha gbuo ya.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Ma"
+      "gloss": "Mana"
     },
     {
       "surface": "יד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אחיקם",
-      "gloss": "Akikam"
+      "gloss": "nke Aḥikam"
     },
     {
       "surface": "בן",
@@ -29,24 +29,23 @@
     },
     {
       "surface": "היתה",
-      "gloss": "⟨is⟩ dịkọrọ"
+      "gloss": "nọrọ"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "Yirmeya"
+      "gloss": "⟨את⟩ ⟨na⟩"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmeya"
+      "gloss": "Yirmeyahu"
     },
     {
       "surface": "לבלתי",
-      "gloss": "ka ... ghara"
+      "gloss": "ka a ghara inye"
     },
     {
       "surface": "תת",
-      "gloss": "etinyeghị"
+      "gloss": "inye"
     },
     {
       "surface": "אתו",
@@ -62,9 +61,9 @@
     },
     {
       "surface": "להמיתו",
-      "gloss": "igbu ya"
+      "gloss": "ka ha gbuo ya"
     }
   ],
-  "timestamp": "2026-08-27T11:32:19.204228836Z",
+  "timestamp": "2026-08-27T17:48:01.564860266Z",
   "model": "glm-5.3"
 }

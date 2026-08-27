@@ -5,49 +5,49 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 39,
-  "translation": "Ha ga-ewepụkwa ndị na-arụ ọrụ mgbe niile na-aga gafee ⟨the⟩ ala, na-eli ndị na-aga gafee ⟨את⟩ ile ⟨את⟩ ihe fọdụrụ n'elu ihu ⟨the⟩ ala, ka ha mee ka ọ dị ọcha: na njedebe nke ọnwa asaa ha ga-enyocha.",
+  "translation": "Ha ga-ekewapụ ụmụ nwoke ndị na-arụ ọrụ mgbe niile, na-agafe n'ala, na-eli ozu ⟨את⟩ ndị na-agafe, ⟨את⟩ ndị fọdụrụ n'ihu ala, iji sacara ya; na njedebe nke ọnwa asaa ha ga-echọ.",
   "tokens": [
     {
       "surface": "ואנשי",
-      "gloss": "ndị"
+      "gloss": "ụmụ nwoke"
     },
     {
       "surface": "תמיד",
-      "gloss": "na-arụ ọrụ mgbe niile"
+      "gloss": "mgbe niile"
     },
     {
       "surface": "יבדילו",
-      "gloss": "ha ga-ewepụkwa"
+      "gloss": "ha ga-ekewapụ"
     },
     {
       "surface": "עברים",
-      "gloss": "na-aga gafee"
+      "gloss": "na-agafe"
     },
     {
       "surface": "בארץ",
-      "gloss": "n'⟨the⟩ ala"
+      "gloss": "n'ala"
     },
     {
       "surface": "מקברים",
-      "gloss": "na-eli"
+      "gloss": "na-eli ozu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ile"
+      "marks": "ndị na-agafe"
     },
     {
       "surface": "העברים",
-      "gloss": "ndị na-aga gafee"
+      "gloss": "ndị na-agafe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ihe fọdụrụ n'elu ihu ala"
+      "marks": "ndị fọdụrụ"
     },
     {
       "surface": "הנותרים",
-      "gloss": "ihe fọdụrụ"
+      "gloss": "ndị fọdụrụ"
     },
     {
       "surface": "על",
@@ -59,15 +59,15 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ ala"
+      "gloss": "ala"
     },
     {
       "surface": "לטהרה",
-      "gloss": "ka ha mee ka ọ dị ọcha"
+      "gloss": "iji sacara ya"
     },
     {
       "surface": "מקצה",
-      "gloss": "na njedebe nke"
+      "gloss": "njedebe"
     },
     {
       "surface": "שבעה",
@@ -79,9 +79,9 @@
     },
     {
       "surface": "יחקרו",
-      "gloss": "ha ga-enyocha"
+      "gloss": "ha ga-echọ"
     }
   ],
-  "timestamp": "2026-08-27T12:26:48.338102627Z",
+  "timestamp": "2026-08-27T17:51:14.509643404Z",
   "model": "glm-5.3"
 }

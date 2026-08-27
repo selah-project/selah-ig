@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Ma nwoke ọ bụla n'akụkụ ihu ya ga-aga; ebe mmụọ ⟨the⟩ nọ iji gaa, ha ga-aga; ha anaghị atụgharị n'ịga ha.",
+  "translation": "Na nke ọ bụla n'ime ha na-aga n'akụkụ ihu ya; ebe mmụọ ahụ ga-aga, ha na-aga, ha anaghị atụgharị mgbe ha na-aga.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "Ma nwoke ọ bụla"
+      "gloss": "na nke ọ bụla n'ime ha"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ילכו",
-      "gloss": "ga-aga"
+      "gloss": "ha na-aga"
     },
     {
       "surface": "אל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "nọ"
+      "gloss": "ga-abụ"
     },
     {
       "surface": "שמה",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "הרוח",
-      "gloss": "mmụọ"
+      "gloss": "mmụọ ahụ"
     },
     {
       "surface": "ללכת",
-      "gloss": "iji gaa"
+      "gloss": "iga"
     },
     {
       "surface": "ילכו",
-      "gloss": "ha ga-aga"
+      "gloss": "ha na-aga"
     },
     {
       "surface": "לא",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "בלכתן",
-      "gloss": "n'ịga ha"
+      "gloss": "mgbe ha na-aga"
     }
   ],
-  "timestamp": "2026-08-27T11:56:10.653707164Z",
+  "timestamp": "2026-08-27T17:48:14.755483468Z",
   "model": "glm-5.3"
 }

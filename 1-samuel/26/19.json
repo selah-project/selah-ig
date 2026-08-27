@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 26,
-  "translation": "Ugbu a, biko, ka Adonai ⟨the⟩ eze nụ ⟨את⟩ okwu ohu ya: ọ bụrụ na Yahwe kpalitere gị megide m, ka ọ nụ isi ọfụra-aja; ma ọ bụrụ na ọ bụ ụmụ mmadụ, ngọrọ ga-adịrị ha n'ihu Yahwe, n'ihi na ha chụpụrụ m taa ka m ghara ịsọrọ n'ihe nketa Yahwe, na-ekwu, Gaa, jee ozi chi ndị ọzọ.",
+  "translation": "Ma ugbu a, biko, ka Adonai m, ⟨eze⟩, nụọ ⟨את⟩ okwu nke ohu ya. Ọ bụrụ na Yahwe kpalitere gị megide m, ka ọ nọrọ ọṅụ na isi nke offere; ma ọ bụrụ na ọ bụ ụmụ mmadụ, ndị a rụrụ ala ka ha bụ n'ihu Yahwe, n'ihi na ha chụpụrụ m n'ụbọchị a ka m ghara iso na nketa nke Yahwe, na-asị: Gaa, jeere chi ndị ọzọ ozi.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "ugbu a"
+      "gloss": "ma ugbu a"
     },
     {
       "surface": "ישמע",
-      "gloss": "ka ọ nụ"
+      "gloss": "nụọ"
     },
     {
       "surface": "נא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "Adonai"
+      "gloss": "Adonai m"
     },
     {
       "surface": "המלך",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "ohu ya"
+      "gloss": "nke ohu ya"
     },
     {
       "surface": "אם",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "ירח",
-      "gloss": "nụ isi"
+      "gloss": "nọrọ ọṅụ na isi"
     },
     {
       "surface": "מנחה",
-      "gloss": "ọfụra-aja"
+      "gloss": "offere"
     },
     {
       "surface": "ואם",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "ארורים",
-      "gloss": "ngọrọ"
+      "gloss": "ndị a rụrụ ala"
     },
     {
       "surface": "הם",
-      "gloss": "ha"
+      "gloss": "ha bụ"
     },
     {
       "surface": "לפני",
@@ -98,27 +98,27 @@
     },
     {
       "surface": "גרשוני",
-      "gloss": "ha chụpụrụ m"
+      "gloss": "chụpụrụ m"
     },
     {
       "surface": "היום",
-      "gloss": "taa"
+      "gloss": "n'ụbọchị a"
     },
     {
       "surface": "מהסתפח",
-      "gloss": "ka m ghara ịsọrọ"
+      "gloss": "iso na"
     },
     {
       "surface": "בנחלת",
-      "gloss": "n'ihe nketa"
+      "gloss": "na nketa"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahwe"
+      "gloss": "nke Yahwe"
     },
     {
       "surface": "לאמר",
-      "gloss": "na-ekwu"
+      "gloss": "na-asị"
     },
     {
       "surface": "לך",
@@ -126,7 +126,7 @@
     },
     {
       "surface": "עבד",
-      "gloss": "jee ozi"
+      "gloss": "jeere ozi"
     },
     {
       "surface": "אלהים",
@@ -137,6 +137,6 @@
       "gloss": "ndị ọzọ"
     }
   ],
-  "timestamp": "2026-08-27T09:23:49.517513123Z",
+  "timestamp": "2026-08-27T17:40:13.965979056Z",
   "model": "glm-5.3"
 }

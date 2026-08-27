@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 8,
-  "translation": "Ha mekwara otu a: Aharon nọrọ aka ya na mkpọ ya, tie ájá ⟨ה⟩ ụwa, nke ọ bụla ụkwara n'ime mmadụ na n'ime anụ ụlọ; ájá nile nke ⟨ה⟩ ụwa ghọrọ ụkwara n'ala nile nke Mitzrajim.",
+  "translation": "Ha me ihe ahu: Aharon nwegoro aka ya na mkpa ya, tie ⟨את⟩ uzuzu ala, ma ikim na-ada n'umu mmadu na anunu; uzuzu nile nke ala ghọrọ ikim n'ala nile nke Mitzrajim.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "ha mekwara"
+      "gloss": "Ha me ihe ahu"
     },
     {
       "surface": "כן",
-      "gloss": "otu a"
+      "gloss": "ihe ahu"
     },
     {
       "surface": "ויט",
-      "gloss": "nọrọ"
+      "gloss": "nwegoro"
     },
     {
       "surface": "אהרן",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "במטהו",
-      "gloss": "na mkpọ ya"
+      "gloss": "na mkpa ya"
     },
     {
       "surface": "ויך",
@@ -43,31 +43,31 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ájá"
+      "marks": "uzuzu nke ala"
     },
     {
       "surface": "עפר",
-      "gloss": "ájá"
+      "gloss": "uzuzu"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨ה⟩ ụwa"
+      "gloss": "nke ala"
     },
     {
       "surface": "ותהי",
-      "gloss": "nke ọ bụla"
+      "gloss": "ma ikim na-ada"
     },
     {
       "surface": "הכנם",
-      "gloss": "ụkwara"
+      "gloss": "ikim"
     },
     {
       "surface": "באדם",
-      "gloss": "n'ime mmadụ"
+      "gloss": "n'umu mmadu"
     },
     {
       "surface": "ובבהמה",
-      "gloss": "na n'ime anụ ụlọ"
+      "gloss": "ma na anunu"
     },
     {
       "surface": "כל",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "עפר",
-      "gloss": "ájá"
+      "gloss": "uzuzu"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨ה⟩ ụwa"
+      "gloss": "nke ala"
     },
     {
       "surface": "היה",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "כנים",
-      "gloss": "ụkwara"
+      "gloss": "ikim"
     },
     {
       "surface": "בכל",
@@ -102,6 +102,6 @@
       "gloss": "Mitzrajim"
     }
   ],
-  "timestamp": "2026-08-27T06:13:26.789875060Z",
+  "timestamp": "2026-08-27T17:30:13.595282277Z",
   "model": "glm-5.3"
 }

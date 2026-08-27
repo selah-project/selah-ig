@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 21,
-  "translation": "N'ihi na eze Babilọn guzoro n'ebe a kewara ⟨the⟩ ụzọ, n'isi ⟨the⟩ ụzọ abụọ ahụ, ka ọ gụọ ⟨the⟩ afa: ọ kụkụrịsịrị ⟨the⟩ akụ, ọ jụrụ ⟨the⟩ terafim ajụjụ, ọ lepụrụ anya n'ime ⟨the⟩ imeju.",
+  "translation": "N'ihi na eze Babilọn guzoro n'ọnụ ụzọ kewara, n'isi ụzọ abụọ ahụ, iji tie afa: ọ na-akụgharị ụta ajụjụ, na-ajụ terafim, na-ele imeju.",
   "tokens": [
     {
       "surface": "כי",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "n'ebe"
+      "gloss": "n'ọnụ"
     },
     {
       "surface": "אם",
-      "gloss": "isi-mbụ (akụkụ)"
+      "gloss": "nke kewara"
     },
     {
       "surface": "הדרך",
-      "gloss": "ụzọ ahụ"
+      "gloss": "ụzọ"
     },
     {
       "surface": "בראש",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "הדרכים",
-      "gloss": "ụzọ abụọ ahụ"
+      "gloss": "ụzọ ndị ahụ"
     },
     {
       "surface": "לקסם",
-      "gloss": "ka ọ gụọ afa"
+      "gloss": "iji tie"
     },
     {
       "surface": "קסם",
@@ -57,29 +57,29 @@
     },
     {
       "surface": "קלקל",
-      "gloss": "ọ kụkụrịsịrị"
+      "gloss": "na-akụgharị"
     },
     {
       "surface": "בחצים",
-      "gloss": "n'akụ"
+      "gloss": "n'ụta"
     },
     {
       "surface": "שאל",
-      "gloss": "ọ jụrụ ajụjụ"
+      "gloss": "na-ajụ"
     },
     {
       "surface": "בתרפים",
-      "gloss": "n'terafim"
+      "gloss": "terafim"
     },
     {
       "surface": "ראה",
-      "gloss": "ọ lepụrụ anya"
+      "gloss": "na-ele"
     },
     {
       "surface": "בכבד",
-      "gloss": "n'imeju"
+      "gloss": "imeju"
     }
   ],
-  "timestamp": "2026-08-27T12:11:52.580431597Z",
+  "timestamp": "2026-08-27T17:50:13.549014128Z",
   "model": "glm-5.3"
 }

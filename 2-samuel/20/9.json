@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 20,
-  "translation": "Yoav wee sị Amasa: Kedu ka ọ dị gị, nwanne m? Ma aka nri Yoav jidere ntedo Amasa iji sọọ ya ọnụ.",
+  "translation": "Jọab wee sị Amasa: Kedu ka ị dị, nwanne m? Ma aka nri Jọab jidere agbà Amasa iji suo ya ọnụ.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יואב",
-      "gloss": "Yoav"
+      "gloss": "Jọab"
     },
     {
       "surface": "לעמשא",
@@ -21,19 +21,15 @@
     },
     {
       "surface": "השלום",
-      "gloss": "Kedu ka ọ dị"
+      "gloss": "Kedu ka ị dị"
     },
     {
       "surface": "אתה",
-      "gloss": "gị"
+      "gloss": "ị"
     },
     {
       "surface": "אחי",
       "gloss": "nwanne m"
-    },
-    {
-      "surface": "ויאמר",
-      "gloss": ""
     },
     {
       "surface": "ותחז",
@@ -49,11 +45,11 @@
     },
     {
       "surface": "יואב",
-      "gloss": "Yoav"
+      "gloss": "Jọab"
     },
     {
       "surface": "בזקן",
-      "gloss": "ntedo"
+      "gloss": "agbà"
     },
     {
       "surface": "עמשא",
@@ -61,13 +57,13 @@
     },
     {
       "surface": "לנשק",
-      "gloss": "iji sọọ ya ọnụ"
+      "gloss": "iji suo ọnụ"
     },
     {
       "surface": "לו",
       "gloss": "ya"
     }
   ],
-  "timestamp": "2026-08-27T16:36:21.834412321Z",
+  "timestamp": "2026-08-27T17:41:00.945332837Z",
   "model": "glm-5.3"
 }

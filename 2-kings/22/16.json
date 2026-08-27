@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 22,
-  "translation": "Otú a ka Yahwe si: Le, m na-eweta ihe ọjọọ n'ebe ⟨the⟩ a na ndị bi na ya, ⟨את⟩ okwu niile nke ⟨the⟩ akwụkwọ nke eze Yehuda gụrụ.",
+  "translation": "Nke a ka Yahwe si: Lee, m na-ebute ⟨את⟩ ọjọọ n'elu ebe a na ndị bi na ya, okwu niile nke akwụkwọ ahụ nke eze Juda gụrụ.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Otú a"
+      "gloss": "Nke a ka"
     },
     {
       "surface": "אמר",
-      "gloss": "si"
+      "gloss": "si:"
     },
     {
       "surface": "יהוה",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Le, m"
+      "gloss": "Lee, m"
     },
     {
       "surface": "מביא",
-      "gloss": "na-eweta"
+      "gloss": "na-ebute"
     },
     {
       "surface": "רעה",
-      "gloss": "ihe ọjọọ"
+      "gloss": "ọjọọ"
     },
     {
       "surface": "אל",
-      "gloss": "n'"
+      "gloss": "n'elu"
     },
     {
       "surface": "המקום",
-      "gloss": "⟨the⟩ ebe"
+      "gloss": "ebe"
     },
     {
       "surface": "הזה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "na na"
+      "gloss": "na"
     },
     {
       "surface": "ישביו",
@@ -54,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "okwu niile"
+      "marks": "okwu niile nke akwụkwọ ahụ"
     },
     {
       "surface": "כל",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "דברי",
-      "gloss": "okwu"
+      "gloss": "okwu nke"
     },
     {
       "surface": "הספר",
-      "gloss": "⟨the⟩ akwụkwọ"
+      "gloss": "akwụkwọ"
     },
     {
       "surface": "אשר",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Juda"
     }
   ],
-  "timestamp": "2026-08-27T10:30:04.280177306Z",
+  "timestamp": "2026-08-27T17:44:17.172347475Z",
   "model": "glm-5.3"
 }

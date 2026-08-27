@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Ọ wee wuo n'elu mgbidi ⟨the⟩ ụlọ ahụ ụlọ-mgbakwunye gburugburu, ⟨את⟩ mgbidi ⟨the⟩ ụlọ ahụ gburugburu, maka ⟨the⟩ Hekal na maka ⟨the⟩ Debir; ọ wee mee ọnụ ụlọ ndị dị n'akụkụ gburugburu.",
+  "translation": "Ọ rụrụ n'elu mgbidi nke ⟨את⟩ụlọ ahụ — ọnụ ụlọ ndị dị n'akụkụ gburugburu, ⟨את⟩ mgbidi nke ụlọ ahụ gburugburu, maka ⟨את⟩ ebe nsọ ahụ na maka ⟨את⟩ ọnụ ụlọ dị nsọ ahụ; o wee mee ọnụ ụlọ ndị dị n'akụkụ gburugburu.",
   "tokens": [
     {
       "surface": "ויבן",
-      "gloss": "ọ wee wuo"
+      "gloss": "ọ rụrụ"
     },
     {
       "surface": "על",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יצוע",
-      "gloss": "ụlọ-mgbakwunye"
+      "gloss": "ọnụ ụlọ ndị dị n'akụkụ"
     },
     {
       "surface": "סביב",
@@ -34,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mgbidi ụlọ ahụ"
+      "marks": "mgbidi nke ụlọ ahụ"
     },
     {
       "surface": "קירות",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "להיכל",
-      "gloss": "maka Hekal"
+      "gloss": "maka ebe nsọ"
     },
     {
       "surface": "ולדביר",
-      "gloss": "na maka Debir"
+      "gloss": "na maka ọnụ ụlọ dị nsọ"
     },
     {
       "surface": "ויעש",
-      "gloss": "ọ wee mee"
+      "gloss": "o wee mee"
     },
     {
       "surface": "צלעות",
@@ -69,6 +69,6 @@
       "gloss": "gburugburu"
     }
   ],
-  "timestamp": "2026-08-27T09:54:52.118276915Z",
+  "timestamp": "2026-08-27T17:43:18.646102190Z",
   "model": "glm-5.3"
 }

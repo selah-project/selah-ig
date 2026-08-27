@@ -5,8 +5,45 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 90,
-  "translation": "N'ihi na ụbọchị anyị niile gafere n'iwe gị, anyị gwụchara afọ anyị dị ka mkpọtụ ọchị",
-  "tokens": [],
-  "timestamp": "2026-08-27T13:49:57.984542360Z",
+  "translation": "N'ihi na ụbọchị anyị niile gbafuru n'iwe gị; anyị mechara afọ anyị dịka mgbamgba ume.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "n'ihi na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ụbọchị anyị"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "gbafuru"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "n'iwe gị"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "anyị mechara"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "afọ anyị"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dịka"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "mgbamgba ume"
+    }
+  ],
+  "timestamp": "2026-08-27T17:54:18.266273658Z",
   "model": "glm-5.3"
 }

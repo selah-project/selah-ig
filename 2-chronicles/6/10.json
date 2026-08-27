@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Yahwe rụziri ⟨את⟩ okwu ya n'ọrụ, nke ọ gwara; m biliri n'ebe Dawid nna m, nọrọkwa n'oche-eze Yisrael, dịka Yahwe si kwuo; m wee wuo ⟨the⟩ ụlọ ahụ maka aha Yahwe, Elohim nke Yisrael.",
+  "translation": "Yahwe wee guzobe ⟨את⟩ okwu ya nke ọ gwara; m biliri n'ọnọdụ David nna m, wee nọdụ n'ocheeze Yisrael, dịka Yahwe gwara, m wee wuo ⟨את⟩ ụlọ ahụ maka aha Yahwe, Elohim nke Yisrael.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "rụziri n'ọrụ"
+      "gloss": "guzobere"
     },
     {
       "surface": "יהוה",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "תחת",
-      "gloss": "n'ebe"
+      "gloss": "n'ọnọdụ"
     },
     {
       "surface": "דויד",
-      "gloss": "Dawid"
+      "gloss": "David"
     },
     {
       "surface": "אבי",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "ואשב",
-      "gloss": "nọrọkwa"
+      "gloss": "wee nọdụ"
     },
     {
       "surface": "על",
-      "gloss": "n'"
+      "gloss": "n'ocheeze"
     },
     {
       "surface": "כסא",
-      "gloss": "oche-eze"
+      "gloss": "n'ocheeze"
     },
     {
       "surface": "ישראל",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "si kwuo"
+      "gloss": "gwara"
     },
     {
       "surface": "יהוה",
@@ -101,6 +101,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-27T16:08:32.713600232Z",
+  "timestamp": "2026-08-27T17:59:41.162104878Z",
   "model": "glm-5.3"
 }

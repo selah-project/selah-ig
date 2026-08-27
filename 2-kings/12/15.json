@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 12,
-  "translation": "N'ihi na a na-enye ndị na-eme ọrụ ahụ ya, ha wee jiri ya mee ka ụlọ Yahwe sikwuo ike ⟨את⟩.",
+  "translation": "N'ihi na a na-enyere ndị na-eme ọrụ ya, ma ha mekwara ⟨את⟩ ụlọ Yahwe sikwoo ike site na ya.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,28 +13,28 @@
     },
     {
       "surface": "לעשי",
-      "gloss": "ndị na-eme"
+      "gloss": "maka ndị na-eme"
     },
     {
       "surface": "המלאכה",
-      "gloss": "⟨the⟩ ọrụ ahụ"
+      "gloss": "ọrụ"
     },
     {
       "surface": "יתנהו",
-      "gloss": "a na-enye ya"
+      "gloss": "a na-enyere … ya"
     },
     {
       "surface": "וחזקו",
-      "gloss": "ha wee ... sikwuo ike"
+      "gloss": "ma ha mekwara … sikwoo ike"
     },
     {
       "surface": "בו",
-      "gloss": "jiri ya"
+      "gloss": "site na ya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ụlọ Yahwe"
+      "marks": "ụlọ"
     },
     {
       "surface": "בית",
@@ -45,6 +45,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-08-27T10:21:08.341664219Z",
+  "timestamp": "2026-08-27T17:44:28.174218246Z",
   "model": "glm-5.3"
 }

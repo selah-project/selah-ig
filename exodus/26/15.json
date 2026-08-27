@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 26,
-  "translation": "Ma ị ga-eme ⟨את⟩ ⟨the⟩ bọọdụ ndị ahụ maka ⟨the⟩ ebe obibi ahụ — osisi shittim, na-eguzo ọtọ.",
+  "translation": "Ma ị ga-eme ⟨את⟩ bọọdụ ndị ahụ maka nzukọ-ụlọ, osisi shittim na-eguzo.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -14,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ bọọdụ ndị ahụ"
+      "marks": "bọọdụ ndị ahụ"
     },
     {
       "surface": "הקרשים",
-      "gloss": "⟨the⟩ bọọdụ ndị ahụ"
+      "gloss": "bọọdụ ndị ahụ"
     },
     {
       "surface": "למשכן",
-      "gloss": "maka ⟨the⟩ ebe obibi ahụ"
+      "gloss": "maka nzukọ-ụlọ"
     },
     {
       "surface": "עצי",
@@ -34,9 +34,9 @@
     },
     {
       "surface": "עמדים",
-      "gloss": "na-eguzo ọtọ"
+      "gloss": "na-eguzo"
     }
   ],
-  "timestamp": "2026-08-27T06:29:10.473952118Z",
+  "timestamp": "2026-08-27T17:31:42.723452946Z",
   "model": "glm-5.3"
 }

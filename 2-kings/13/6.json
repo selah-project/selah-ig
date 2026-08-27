@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 13,
-  "translation": "N'agbanyeghị, ha ebughị azụ na mmehie nke ụlọ Yarovam nke o duere ⟨את⟩ Yisrael ime; ha gara n'ime ya; nakwa ⟨the⟩ Ashera guzoro na Shomron.",
+  "translation": "Agbanyeghị, ha apụghị̄ n' mmehie nke ụlọ Yaarovam, nke o mere ka Yisrael mejọọ site na ya ⟨את⟩; ha nọrọ na-iyi ya; nakwa na Ashera ka dina-echere na Shomron.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "n'agbanyeghị"
+      "gloss": "Agbanyeghị"
     },
     {
       "surface": "לא",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "סרו",
-      "gloss": "ha ebughị azụ"
+      "gloss": "ha pụrụ"
     },
     {
       "surface": "מחטאות",
-      "gloss": "na mmehie"
+      "gloss": "n' mmehie"
     },
     {
       "surface": "בית",
-      "gloss": "ụlọ"
+      "gloss": "nke ụlọ"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yarovam"
+      "gloss": "Yaarovam"
     },
     {
       "surface": "אשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "החטי",
-      "gloss": "o duere ime"
+      "gloss": "o mere ka...mejọọ"
     },
     {
       "surface": "את",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "בה",
-      "gloss": "n'ime ya"
+      "gloss": "site na ya"
     },
     {
       "surface": "הלך",
-      "gloss": "ha gara"
+      "gloss": "ha yi"
     },
     {
       "surface": "וגם",
-      "gloss": "nakwa"
+      "gloss": "nakwa na"
     },
     {
       "surface": "האשרה",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "עמדה",
-      "gloss": "guzoro"
+      "gloss": "dina-echere"
     },
     {
       "surface": "בשמרון",
       "gloss": "na Shomron"
     }
   ],
-  "timestamp": "2026-08-27T10:22:19.487386328Z",
+  "timestamp": "2026-08-27T17:43:52.122572536Z",
   "model": "glm-5.3"
 }

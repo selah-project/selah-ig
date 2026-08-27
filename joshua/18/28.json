@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 18,
-  "translation": "na Tzela, ⟨the⟩ Elef, na ⟨the⟩ Yevusi — ⟨ọ⟩ bụ Yerushalayim — Givat, Kiryat: obodo iri na anọ na obodo nta ha; nke a bụ ihe nketa ụmụ Binyamin, dịka ezinụlọ ha.",
+  "translation": "na Tzela, HaEleph, na ⟨את⟩ Yevusi — ⟨ọ bụ⟩ Yerushalayim — Gibea, Kiryat: obodo iri na anọ na obodo nta ha; nke a bụ ihe nketa ụmụ Binyamin, dịka ezinụlọ ha.",
   "tokens": [
     {
       "surface": "וצלע",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "האלף",
-      "gloss": "⟨the⟩ Elef"
+      "gloss": "HaEleph"
     },
     {
       "surface": "והיבוסי",
-      "gloss": "na ⟨the⟩ Yevusi"
+      "gloss": "na Yevusi"
     },
     {
       "surface": "היא",
-      "gloss": "⟨ọ⟩ bụ"
+      "gloss": "⟨ọ bụ⟩"
     },
     {
       "surface": "ירושלם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "גבעת",
-      "gloss": "Givat"
+      "gloss": "Gibea"
     },
     {
       "surface": "קרית",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ארבע",
-      "gloss": "iri na"
+      "gloss": "iri"
     },
     {
       "surface": "עשרה",
-      "gloss": "anọ"
+      "gloss": "na anọ"
     },
     {
       "surface": "וחצריהן",
@@ -72,6 +72,6 @@
       "gloss": "dịka ezinụlọ ha"
     }
   ],
-  "timestamp": "2026-08-27T08:32:42.882037690Z",
+  "timestamp": "2026-08-27T17:38:00.647788495Z",
   "model": "glm-5.3"
 }

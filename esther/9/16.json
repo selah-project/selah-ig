@@ -5,15 +5,15 @@
   "book": "esther",
   "lang": "ig",
   "chapter": 9,
-  "translation": "Ndị Yehudi ndị fọdụrụ n'ala ọchịchị ⟨the⟩ eze haziri onwe ha, guzoro maka ndụ ha, ma nwee ezumike site n'aka ndị iro ha, ha gburu ndị kpọrọ ha asọ narị asaa na iri ise nke puku ukwu — ụmụ nwoke puku iri asaa na ise ise na narị ise — ma na mbụrụ ha etinyeghị ⟨את⟩ aka ha.",
+  "translation": "Ma ndị fọdụrụ n'ime ndị Yehuda ndị nọ n'ógbè eze nzukọ, guzo ⟨maka⟩ ndụ ha, ma zuo ike site n'aka ndị iro ha, ma gbuo ụfọdụ n'ime ndị kpọrọ ha asị — puku asaa na iri asaa na ise; ma n'ihe ndị ha nwetara n'iyi ha anaghị ezinye ⟨את⟩ aka ha.",
   "tokens": [
     {
       "surface": "ושאר",
-      "gloss": "ndị fọdụrụ"
+      "gloss": "ma ndị fọdụrụ"
     },
     {
       "surface": "היהודים",
-      "gloss": "Ndị Yehudi"
+      "gloss": "n'ime ndị Yehuda"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "במדינות",
-      "gloss": "n'ala ọchịchị"
+      "gloss": "n'ógbè"
     },
     {
       "surface": "המלך",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "נקהלו",
-      "gloss": "haziri onwe ha"
+      "gloss": "nzukọ"
     },
     {
       "surface": "ועמד",
-      "gloss": "guzoro"
+      "gloss": "guzo"
     },
     {
       "surface": "על",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ונוח",
-      "gloss": "wee nwee ezumike"
+      "gloss": "ma zuo ike"
     },
     {
       "surface": "מאיביהם",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "והרג",
-      "gloss": "ha gburu"
+      "gloss": "ma gbuo"
     },
     {
       "surface": "בשנאיהם",
-      "gloss": "ndị kpọrọ ha asọ"
+      "gloss": "n'ime ndị kpọrọ ha asị"
     },
     {
       "surface": "חמשה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ושבעים",
-      "gloss": "iri asaa"
+      "gloss": "na iri asaa"
     },
     {
       "surface": "אלף",
@@ -73,15 +73,15 @@
     },
     {
       "surface": "ובבזה",
-      "gloss": "ma na mbụrụ"
+      "gloss": "ma n'ihe ndị ha nwetara n'iyi"
     },
     {
       "surface": "לא",
-      "gloss": "etinyeghị"
+      "gloss": "anaghị"
     },
     {
       "surface": "שלחו",
-      "gloss": "ha etinye"
+      "gloss": "ezinye"
     },
     {
       "surface": "את",
@@ -93,6 +93,6 @@
       "gloss": "aka ha"
     }
   ],
-  "timestamp": "2026-08-27T15:23:18.448370697Z",
+  "timestamp": "2026-08-27T18:01:46.559942761Z",
   "model": "glm-5.3"
 }

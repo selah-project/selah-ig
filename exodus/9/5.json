@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 9,
-  "translation": "Yahwe wee guzobe oge a kara aka, na-asị: Echi ka Yahwe ga-eme okwu a n'ala ⟨the⟩.",
+  "translation": "Yahwe wee setọ oge a kpara isi, sị: Echi ka Yahwe ga-eme ⟨את⟩ okwu a n'ala.",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "wee guzobe"
+      "gloss": "wee setọ"
     },
     {
       "surface": "יהוה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "מועד",
-      "gloss": "oge a kara aka"
+      "gloss": "oge a kpara isi"
     },
     {
       "surface": "לאמר",
-      "gloss": "na-asị"
+      "gloss": "sị"
     },
     {
       "surface": "מחר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "okwu a"
+      "gloss": "okwu"
     },
     {
       "surface": "הזה",
@@ -48,6 +48,6 @@
       "gloss": "n'ala"
     }
   ],
-  "timestamp": "2026-08-27T06:11:44.802800443Z",
+  "timestamp": "2026-08-27T17:29:52.986333158Z",
   "model": "glm-5.3"
 }

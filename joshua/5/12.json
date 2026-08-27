@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 5,
-  "translation": "Manna wee kwụsị n'echi ya, ha risịrị mmepụta nke ala ahụ; o enweghịzi Manna maka ụmụ Yisrael, ha wee rie ihe ọkụkụ nke ala Kenaan n'afọ ahụ.",
+  "translation": "Mman kwụsịrị n'echi ya, mgbe ha na-eri ngwaahịa nke ⟨את⟩ ala ahụ, ọ dịghịkwa mman ọzọ maka ụmụ Yiserael, ha ririkwa ihe ubi nke ala Kenan n'afọ ahụ.",
   "tokens": [
     {
       "surface": "וישבת",
-      "gloss": "kwụsị"
+      "gloss": "kwụsịrị"
     },
     {
       "surface": "המן",
-      "gloss": "Manna"
+      "gloss": "mman"
     },
     {
       "surface": "ממחרת",
@@ -21,51 +21,47 @@
     },
     {
       "surface": "באכלם",
-      "gloss": "ha risịrị"
+      "gloss": "mgbe ha na-eri"
     },
     {
       "surface": "מעבור",
-      "gloss": "mmepụta"
+      "gloss": "ngwaahịa"
     },
     {
       "surface": "הארץ",
       "gloss": "ala ahụ"
     },
     {
-      "surface": "וילא",
-      "gloss": "o enweghịzi"
-    },
-    {
       "surface": "ולא",
-      "gloss": "o enweghịzi"
+      "gloss": "ọ dịghịkwa"
     },
     {
       "surface": "היה",
-      "gloss": ""
+      "gloss": "dị"
     },
     {
       "surface": "עוד",
-      "gloss": "maka"
+      "gloss": "ọzọ"
     },
     {
       "surface": "לבני",
-      "gloss": "ụmụ"
+      "gloss": "maka ụmụ"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yiserael"
     },
     {
       "surface": "מן",
-      "gloss": "Manna"
+      "gloss": "mman"
     },
     {
       "surface": "ויאכלו",
-      "gloss": "Ha wee rie"
+      "gloss": "ha ririkwa"
     },
     {
       "surface": "מתבואת",
-      "gloss": "ihe ọkụkụ"
+      "gloss": "ihe ubi nke"
     },
     {
       "surface": "ארץ",
@@ -73,7 +69,7 @@
     },
     {
       "surface": "כנען",
-      "gloss": "Kenaan"
+      "gloss": "Kenan"
     },
     {
       "surface": "בשנה",
@@ -84,6 +80,6 @@
       "gloss": "ahụ"
     }
   ],
-  "timestamp": "2026-08-27T08:21:15.959575882Z",
+  "timestamp": "2026-08-27T17:37:18.940458145Z",
   "model": "glm-5.3"
 }

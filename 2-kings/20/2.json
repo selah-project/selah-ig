@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 20,
-  "translation": "Mgbe ahụ ọ tụgharịrị ⟨את⟩ ihu ya gaa n'ukwu mgbidi, ma wee fee Yahwe ekpere, sị:",
+  "translation": "O wee tụgharịa ⟨את⟩ ihu ya gaa n'akụkụ mgbidi, wee nye Yahwe ekpere, sị:",
   "tokens": [
     {
       "surface": "ויסב",
-      "gloss": "ma ọ tụgharịrị"
+      "gloss": "O wee tụgharịa"
     },
     {
       "surface": "את",
@@ -22,19 +22,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "gaa"
+      "gloss": "gaa n'akụkụ"
     },
     {
       "surface": "הקיר",
-      "gloss": "⟨the⟩ ukwu mgbidi"
+      "gloss": "mgbidi"
     },
     {
       "surface": "ויתפלל",
-      "gloss": "ma wee fee ekpere"
+      "gloss": "wee nye ekpere"
     },
     {
       "surface": "אל",
-      "gloss": "ruo"
+      "gloss": "gaa"
     },
     {
       "surface": "יהוה",
@@ -45,6 +45,6 @@
       "gloss": "sị"
     }
   ],
-  "timestamp": "2026-08-27T10:28:09.438022822Z",
+  "timestamp": "2026-08-27T17:43:24.762715851Z",
   "model": "glm-5.3"
 }

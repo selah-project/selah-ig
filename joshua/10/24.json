@@ -5,32 +5,32 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 10,
-  "translation": "Ma mgbe ha na-ewepụta ⟨את⟩ eze ndị a bịara Yehoshua, Yehoshua kpọrọ mmadụ niile nke Yisrael, o wee sị ndị isi nke ndị agha, ndị na-aga ⟨את⟩ ya: Bịaru nso; tinye ⟨את⟩ ukwu unu n'⟨the⟩ olu nke eze ndị a. Ha bịarutere, ha wee tinye ⟨את⟩ ukwu ha n'⟨the⟩ olu ha.",
+  "translation": "Mgbe ha hapụtasịrị ⟨את⟩ ndị eze a ruo Yehoshua, Yehoshua kpọrọ mmadụ niile nke Yisrael oku, o wee sị ndị isi ndị ikom agha ndị gara ⟨את⟩ ya: Nọmba nso, tinye ⟨את⟩ ụkwụ unu n'olu ndị eze a. Ha nọkwara nso, ha wee tinye ⟨את⟩ ụkwụ ha n'olu ha.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ma mgbe"
+      "gloss": "Mgbe ... ọ dinara"
     },
     {
       "surface": "כהוציאם",
-      "gloss": "ha na-ewepụta ha"
+      "gloss": "ha hapụtasịrị"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eze ndị a"
+      "marks": "ndị eze a"
     },
     {
       "surface": "המלכים",
-      "gloss": "eze"
+      "gloss": "ndị eze"
     },
     {
       "surface": "האלה",
-      "gloss": "ndị a"
+      "gloss": "a"
     },
     {
       "surface": "אל",
-      "gloss": "bịara"
+      "gloss": "ruo"
     },
     {
       "surface": "יהושע",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "o kpọrọ"
+      "gloss": "o kpọrọ oku"
     },
     {
       "surface": "יהושע",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "madụ"
+      "gloss": "nwoke ọ bụla"
     },
     {
       "surface": "ישראל",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "ndị"
+      "gloss": "ndị ikom"
     },
     {
       "surface": "המלחמה",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ההלכוא",
-      "gloss": "ndị na-aga"
+      "gloss": "ndị gara"
     },
     {
       "surface": "אתו",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "קרבו",
-      "gloss": "bịaru nso"
+      "gloss": "Nọmba nso"
     },
     {
       "surface": "שימו",
@@ -99,15 +99,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ukwu unu"
+      "marks": "ụkwụ unu"
     },
     {
       "surface": "רגליכם",
-      "gloss": "ukwu unu"
+      "gloss": "ụkwụ unu"
     },
     {
       "surface": "על",
-      "gloss": "n'elu"
+      "gloss": "n'olu"
     },
     {
       "surface": "צוארי",
@@ -115,15 +115,15 @@
     },
     {
       "surface": "המלכים",
-      "gloss": "eze"
+      "gloss": "ndị eze"
     },
     {
       "surface": "האלה",
-      "gloss": "ndị a"
+      "gloss": "a"
     },
     {
       "surface": "ויקרבו",
-      "gloss": "ha bịarutere"
+      "gloss": "Ha nọkwara nso"
     },
     {
       "surface": "וישימו",
@@ -132,21 +132,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ukwu ha"
+      "marks": "ụkwụ ha"
     },
     {
       "surface": "רגליהם",
-      "gloss": "ukwu ha"
+      "gloss": "ụkwụ ha"
     },
     {
       "surface": "על",
-      "gloss": "n'elu"
+      "gloss": "n'olu"
     },
     {
       "surface": "צואריהם",
       "gloss": "olu ha"
     }
   ],
-  "timestamp": "2026-08-27T08:24:47.626903550Z",
+  "timestamp": "2026-08-27T17:38:04.126709360Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 23,
-  "translation": "Ọ ga-abụ na njedebe nke afọ iri asaa, Yahwe ga-eleta ⟨את⟩ Tso, ọ ga-alaghachi n'ụgwọ ọrụ ya, ọ ga-arara onwe ya nye alaeze niile nke ⟨ה⟩ ụwa n'ihu ⟨ה⟩ ala.",
+  "translation": "Ọ ga-abụ na njedebe nke afọ iri asaa, Yahwe ga-eleta ⟨את⟩ Tsor, ọ ga-alaghachi n'ụgwọ ọrụ ya, ma na-akwa iko ya na ⟨את⟩ alaeze niile n'ụwa n'ihu ụwa.",
   "tokens": [
     {
       "surface": "והיה",
@@ -34,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tso"
+      "marks": "Tsor"
     },
     {
       "surface": "צר",
-      "gloss": "Tso"
+      "gloss": "Tsor"
     },
     {
       "surface": "ושבה",
@@ -50,12 +50,12 @@
     },
     {
       "surface": "וזנתה",
-      "gloss": "ọ ga-arara onwe ya nye"
+      "gloss": "na-akwa iko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "alaeze niile"
+      "marks": "alaeze niile n'ụwa"
     },
     {
       "surface": "כל",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ụwa"
+      "gloss": "n'ụwa"
     },
     {
       "surface": "על",
-      "gloss": "n'ihu"
+      "gloss": "n'elu"
     },
     {
       "surface": "פני",
@@ -82,6 +82,6 @@
       "gloss": "ala"
     }
   ],
-  "timestamp": "2026-08-27T10:45:15.888961340Z",
+  "timestamp": "2026-08-27T17:44:37.397051392Z",
   "model": "glm-5.3"
 }

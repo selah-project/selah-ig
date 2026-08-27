@@ -5,16 +5,11 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 31,
-  "translation": "⟨את⟩ Hụnụ n'ịhụnanya ⟨את⟩ Yahwe, ndị nsọ Ya niile; Yahwe na-echebe ndị kwesịrị ntụkwasị obi, ma na-akwụ ọtọ onye na-eme ihe site n'ibu ike.",
+  "translation": "Hụnụ Yahwe n'anya, mmadụ niile nke ndị nsọ ya: n'ihi na Yahwe na-echebe ⟨את⟩ ndị kwesịrị ntụkwasị obi, ma na-akwụ ọtụtụ onye na-eme ihe anyaukwu.",
   "tokens": [
     {
-      "surface": "אהבuo",
-      "gloss": "Hụnụ n'ịhụnanya",
-      "marks": ""
-    },
-    {
       "surface": "אהבו",
-      "gloss": "⟨את⟩ Hụnụ n'ịhụnanya"
+      "gloss": "Hụnụ n'anya"
     },
     {
       "surface": "את",
@@ -31,7 +26,7 @@
     },
     {
       "surface": "חסידיו",
-      "gloss": "ndị nsọ Ya"
+      "gloss": "ndị nsọ ya"
     },
     {
       "surface": "אמונים",
@@ -47,15 +42,15 @@
     },
     {
       "surface": "ומשלם",
-      "gloss": "ma na-akwụ ọtọ"
+      "gloss": "ma na-akwụ"
     },
     {
       "surface": "על",
-      "gloss": "site"
+      "gloss": "ọtụtụ"
     },
     {
       "surface": "יתר",
-      "gloss": "nke karịrị"
+      "gloss": "karịsịa"
     },
     {
       "surface": "עשה",
@@ -63,9 +58,9 @@
     },
     {
       "surface": "גאוה",
-      "gloss": "ibu ike"
+      "gloss": "anyaukwu"
     }
   ],
-  "timestamp": "2026-08-27T13:25:03.788092961Z",
+  "timestamp": "2026-08-27T17:53:34.391683816Z",
   "model": "glm-5.3"
 }

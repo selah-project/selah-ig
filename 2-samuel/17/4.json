@@ -5,17 +5,41 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 17,
-  "translation": "Okwu ahụ dịrị mma n'anya Avshalom na n'anya ndị okenye niile nke Yisrael.",
+  "translation": "Okwu ahụ dịrị mma n'anya Avshalom, na n'anya ndị okenye niile nke Yisrael.",
   "tokens": [
     {
-      "surface": "ואבשלם-placeholder",
-      "gloss": ""
+      "surface": "ויישר",
+      "gloss": "dịrị mma"
     },
     {
-      "surface": "ובעיני-placeholder",
-      "gloss": ""
+      "surface": "הדבר",
+      "gloss": "okwu ahụ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "n'anya"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "na n'anya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "niile"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ndị okenye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-27T16:34:47.253930899Z",
+  "timestamp": "2026-08-27T17:40:59.645964400Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 35,
-  "translation": "na okwu ya, nke mbụ na nke ikpeazụ, le, ha dere ha n'akwụkwọ nke ndị eze Izrel na Yehuda.",
+  "translation": "na okwu ya, ndị mbụ na ndị ikpeazụ, lee, ha edereola n'akwụkwọ nke ndị eze Yisrael na Yehuda.",
   "tokens": [
     {
       "surface": "ודבריו",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "הראשנים",
-      "gloss": "⟨the⟩ nke mbụ"
+      "gloss": "ndị mbụ"
     },
     {
       "surface": "והאחרנים",
-      "gloss": "na ⟨the⟩ nke ikpeazụ"
+      "gloss": "na ndị ikpeazụ"
     },
     {
       "surface": "הנם",
-      "gloss": "le"
+      "gloss": "lee, ha"
     },
     {
       "surface": "כתובים",
-      "gloss": "ha dere"
+      "gloss": "edereola"
     },
     {
       "surface": "על",
-      "gloss": "n'akwụkwọ"
+      "gloss": "n'"
     },
     {
       "surface": "ספר",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Izrel"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ויהודה",
       "gloss": "na Yehuda"
     }
   ],
-  "timestamp": "2026-08-27T16:20:36.830852379Z",
+  "timestamp": "2026-08-27T18:00:21.055509983Z",
   "model": "glm-5.3"
 }

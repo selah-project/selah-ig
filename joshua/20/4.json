@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "ig",
   "chapter": 20,
-  "translation": "Ọ ga-agba ọsọ gaa n'otu n'ime obodo ndị a, guzo n'ọnụ ụzọ ⟨ה⟩ama obodo ahụ, ma kwuo n'abam nke ndị okenye nke obodo ahụ ⟨את⟩ okwu ya; ha ga-ewe ya n'obodo ahụ n'etiti ha, wee nye ya ebe obibi, o wee bi ha. (Ọ ga-agba ọsọ gaa n'otu n'ime obodo ndị a, guzo n'ọnụ ụzọ ámá obodo ahụ, kọwaa ihe mere ya n'abam ndị okenye nke obodo ahụ; ha ga-ewe ya n'obodo, nye ya ebe obibi, o wee bi ha.)",
+  "translation": "Ọ gbagara n'otu n'ime obodo ndị a, guzọ n'ọnụ ụzọ ⟨nke⟩ obodo ahụ, gwuo n'okwu ya n'ntị ndị okenye nke obodo ahụ, ⟨את⟩ okwu ya; ha na-anakọta ⟨את⟩ ya n'ime obodo ahụ nye ha, ha na-enye ya ebe, ọ nọkwasịrị na ha.",
   "tokens": [
     {
       "surface": "ונס",
-      "gloss": "ọ ga-agba ọsọ"
+      "gloss": "ọ gbagara"
     },
     {
       "surface": "אל",
-      "gloss": "gaa na"
+      "gloss": "n'ime"
     },
     {
       "surface": "אחת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מהערים",
-      "gloss": "n'ime obodo ndị"
+      "gloss": "n'obodo ndị"
     },
     {
       "surface": "האלה",
@@ -29,27 +29,27 @@
     },
     {
       "surface": "ועמד",
-      "gloss": "guzo"
+      "gloss": "guzọ"
     },
     {
       "surface": "פתח",
-      "gloss": "ọnụ ụzọ"
+      "gloss": "n'ọnụ ụzọ"
     },
     {
       "surface": "שער",
-      "gloss": "ámá"
+      "gloss": "ụzọ mbata"
     },
     {
       "surface": "העיר",
-      "gloss": "obodo"
+      "gloss": "nke obodo"
     },
     {
       "surface": "ודבר",
-      "gloss": "kwuo"
+      "gloss": "gwuo"
     },
     {
       "surface": "באזני",
-      "gloss": "n'abam"
+      "gloss": "n'ntị"
     },
     {
       "surface": "זקני",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "העיר",
-      "gloss": "obodo"
+      "gloss": "nke obodo"
     },
     {
       "surface": "ההיא",
@@ -74,24 +74,24 @@
     },
     {
       "surface": "ואספו",
-      "gloss": "ha ga-ewe"
+      "gloss": "ha na-anakọta"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ya",
-      "marks": "ya (onye ahụ)"
+      "gloss": "⟨את⟩",
+      "marks": "ya"
     },
     {
       "surface": "העירה",
-      "gloss": "n'obodo"
+      "gloss": "n'ime obodo ahụ"
     },
     {
       "surface": "אליהם",
-      "gloss": "n'etiti ha"
+      "gloss": "nye ha"
     },
     {
       "surface": "ונתנו",
-      "gloss": "wee nye"
+      "gloss": "ha na-enye"
     },
     {
       "surface": "לו",
@@ -99,17 +99,17 @@
     },
     {
       "surface": "מקום",
-      "gloss": "ebe obibi"
+      "gloss": "ebe"
     },
     {
       "surface": "וישב",
-      "gloss": "o wee bi"
+      "gloss": "ọ nọkwasịrị"
     },
     {
       "surface": "עמם",
-      "gloss": "ha"
+      "gloss": "na ha"
     }
   ],
-  "timestamp": "2026-08-27T08:35:46.412760311Z",
+  "timestamp": "2026-08-27T18:01:05.071253621Z",
   "model": "glm-5.3"
 }

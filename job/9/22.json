@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "ig",
   "chapter": 9,
-  "translation": "Ihe ⟨is⟩ otu, ya mere ka m kwuru: ⟨את⟩ onye zuru okè na ⟨את⟩ onye ajọ omume, ⟨he⟩ na-ebibi.",
+  "translation": "Ọ dị otu ihe; n'ihi ya ka m kwuru, sị: Ọ na-ebibi onye izizi na onye ọjọọ.",
   "tokens": [
     {
       "surface": "אחת",
-      "gloss": "otu"
+      "gloss": "otu ihe"
     },
     {
       "surface": "היא",
-      "gloss": "ọ bụ"
+      "gloss": "ọ dị"
     },
     {
       "surface": "על",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "כן",
-      "gloss": "ya mere"
+      "gloss": "ya"
     },
     {
       "surface": "אמרתי",
-      "gloss": "ka m kwuru"
+      "gloss": "ka m kwuru, sị"
     },
     {
       "surface": "תם",
-      "gloss": "onye zuru okè"
+      "gloss": "onye izizi"
     },
     {
       "surface": "ורשע",
-      "gloss": "na onye ajọ omume"
+      "gloss": "na onye ọjọọ"
     },
     {
       "surface": "הוא",
@@ -44,6 +44,6 @@
       "gloss": "na-ebibi"
     }
   ],
-  "timestamp": "2026-08-27T14:40:30.347839902Z",
+  "timestamp": "2026-08-27T17:55:25.247916570Z",
   "model": "glm-5.3"
 }

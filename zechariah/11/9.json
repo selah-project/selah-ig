@@ -5,28 +5,28 @@
   "book": "zechariah",
   "lang": "ig",
   "chapter": 11,
-  "translation": "M wee sị, M gaghị elekọta ⟨את⟩ ⟨אתכם⟩ unu: onye na-anwụ, ka ọ nwụọ; one a na-ehichapụ, ka a hapụ ya ka ọ laa; ma ndị fọdụrụ, onye ọ bụla ha rie ⟨את⟩ anụ nke onye ya na ya na-ezukọ.",
+  "translation": "Ma m kwuru: M gaghị zụọ ⟨את⟩ unu ọzọ; onye nwụrụ anwụ, ka ọ nwụọ; onye a ghaara ichu, ka a ghaa ichu; ndị fọdụrị — nwaanyị ọ bụla ga-eri ⟨את⟩ anụ onye ya nke nwere.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "M wee sị"
+      "gloss": "ma m kwuru"
     },
     {
       "surface": "לא",
-      "gloss": "aghaghịghị"
+      "gloss": "ghaghị"
     },
     {
       "surface": "ארעה",
-      "gloss": "elekọta"
+      "gloss": "zụọ"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩ unu",
       "marks": "unu"
     },
     {
       "surface": "המתה",
-      "gloss": "onye na-anwụ"
+      "gloss": "onye nwụrụ anwụ"
     },
     {
       "surface": "תמות",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "והנכחדת",
-      "gloss": "ma one a na-ehichapụ"
+      "gloss": "onye a ghaara ichu"
     },
     {
       "surface": "תכחד",
-      "gloss": "ka a hapụ ya ka ọ laa"
+      "gloss": "ka a ghaa ichu"
     },
     {
       "surface": "והנשארות",
-      "gloss": "ma ndị fọdụrụ"
+      "gloss": "ndị fọdụrị"
     },
     {
       "surface": "תאכלנה",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אשה",
-      "gloss": "onye ọ bụla"
+      "gloss": "nwaanyị ọ bụla"
     },
     {
       "surface": "את",
@@ -63,9 +63,9 @@
     },
     {
       "surface": "רעותה",
-      "gloss": "nke onye ya na ya na-ezukọ"
+      "gloss": "onye ya nke nwere"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.236985199Z",
+  "timestamp": "2026-08-27T17:53:08.970531381Z",
   "model": "glm-5.3"
 }

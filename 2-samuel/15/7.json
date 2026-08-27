@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 15,
-  "translation": "Ọ dịkwa mere na njedebe nke afọ iri anọ, Avshalom wee sị ⟨the⟩ eze, ka m jee biko, ka m kwụọ ⟨את⟩ ekwèlite m nke m kwere Yahwe na Chevron.",
+  "translation": "Ọ dịkwa na njedebe nke afọ iri anọ, Avshalom wee sị eze: Kperem m ga, biko, ka m kwụọ ⟨את⟩ nkwa m nke m kwere Yahwe na Chevron.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ọ dịkwa mere"
+      "gloss": "Ọ dịkwa"
     },
     {
       "surface": "מקץ",
-      "gloss": "na njedebe nke"
+      "gloss": "na njedebe"
     },
     {
       "surface": "ארבעים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "gaa"
+      "gloss": "sị"
     },
     {
       "surface": "המלך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אלכה",
-      "gloss": "ka m jee"
+      "gloss": "m ga"
     },
     {
       "surface": "נא",
@@ -54,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ekwèlite m"
+      "marks": "nkwa m"
     },
     {
       "surface": "נדרי",
-      "gloss": "ekwèlite m"
+      "gloss": "nkwa m"
     },
     {
       "surface": "אשר",
@@ -77,6 +77,6 @@
       "gloss": "na Chevron"
     }
   ],
-  "timestamp": "2026-08-27T16:34:51.810192449Z",
+  "timestamp": "2026-08-27T17:41:03.515337087Z",
   "model": "glm-5.3"
 }

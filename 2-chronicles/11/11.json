@@ -5,24 +5,24 @@
   "book": "2-chronicles",
   "lang": "ig",
   "chapter": 11,
-  "translation": "Ọ wee sie ⟨את⟩ ⟨the⟩ mgbidi nche ike, o wee tinye n'ime ha ndị isi, na ebe nchekwa nri na mmanụ na mmanya",
+  "translation": "Ọ wee mee ka ⟨את⟩ ebe ndị e wusiri ike sie ike, wee tinye n'ime ha ndị isi, na ebe nchekwa nri, na mmanụ, na mmanya.",
   "tokens": [
     {
       "surface": "ויחזק",
-      "gloss": "Ọ wee sie ike"
+      "gloss": "Ọ wee mee ka ... sie ike"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mgbidi nche"
+      "marks": "ebe ndị e wusiri ike"
     },
     {
       "surface": "המצרות",
-      "gloss": "⟨the⟩ mgbidi nche"
+      "gloss": "ebe ndị e wusiri ike"
     },
     {
       "surface": "ויתן",
-      "gloss": "o wee tinye"
+      "gloss": "wee tinye"
     },
     {
       "surface": "בהם",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ואצרות",
-      "gloss": "na ebe nchekwa"
+      "gloss": "ebe nchekwa"
     },
     {
       "surface": "מאכל",
@@ -42,13 +42,13 @@
     },
     {
       "surface": "ושמן",
-      "gloss": "na mmanụ"
+      "gloss": "mmanụ"
     },
     {
       "surface": "ויין",
-      "gloss": "na mmanya"
+      "gloss": "mmanya"
     }
   ],
-  "timestamp": "2026-08-27T16:09:42.105833808Z",
+  "timestamp": "2026-08-27T17:59:51.423731835Z",
   "model": "glm-5.3"
 }

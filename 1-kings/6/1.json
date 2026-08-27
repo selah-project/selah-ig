@@ -1,1 +1,114 @@
-{"tier":"glm-5.2","verse":1,"ref":"1-kings 6:1","book":"1-kings","lang":"ig","chapter":6,"translation":"Ọ dịkwa na afọ narị anọ na iri asatọ mgbe ụmụ Yisrael pụtara n'ala Mitsrayim, n'afọ nke anọ, n'ọnwa Ziv — ọ bụ ọnwa nke abụọ — n'oge ọchịchị Shelomoh n'elu Yisrael, ka o wuru ⟨the⟩ ụlọ ahụ maka Yahwe.","tokens":[{"surface":"ויהי","gloss":"Ọ dịkwa"},{"surface":"בשמונים","gloss":"iri asatọ"},{"surface":"שנה","gloss":"afọ"},{"surface":"וארבע","gloss":"na anọ"},{"surface":"מאות","gloss":"narị"},{"surface":"שנה","gloss":"afọ"},{"surface":"לצאת","gloss":"mgbe ... pụtara"},{"surface":"בני","gloss":"ụmụ"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"מארץ","gloss":"n'ala"},{"surface":"מצרים","gloss":"Mitsrayim"},{"surface":"בשנה","gloss":"n'afọ"},{"surface":"הרביעית","gloss":"nke anọ"},{"surface":"בחדש","gloss":"n'ọnwa"},{"surface":"זו","gloss":"Ziv"},{"surface":"הוא","gloss":"ọ bụ"},{"surface":"החדש","gloss":"ọnwa"},{"surface":"השני","gloss":"nke abụọ"},{"surface":"למלך","gloss":"n'ịchị"},{"surface":"שלמה","gloss":"Shelomoh"},{"surface":"על","gloss":"n'elu"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"ויבן","gloss":"o wuru"},{"surface":"הבית","gloss":"ụlọ ahụ"},{"surface":"ליהוה","gloss":"maka Yahwe"}],"timestamp":"2026-08-27T09:53:55.520429094Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 6:1",
+  "book": "1-kings",
+  "lang": "ig",
+  "chapter": 6,
+  "translation": "Ọ bụ n'afọ nke iri asatọ na nke anọ n'otu narị afọ, mgbe ụmụ Yisrael pụtara n'ala Mitsrayim, n'afọ nke anọ, n'ọnwa Ziv — ọ bụ ọnwa nke abụọ — n'oge Shelomoh na-achị Yisrael, ka o wuru ụlọ ahụ maka Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ọ bụ"
+    },
+    {
+      "surface": "בשמונים",
+      "gloss": "n'afọ nke iri asatọ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na nke anọ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n'otu narị"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "afọ"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "mgbe ha pụtara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ụmụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "n'ala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "n'afọ"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "nke anọ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "n'ọnwa"
+    },
+    {
+      "surface": "זו",
+      "gloss": "Ziv"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ọ bụ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ọnwa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nke abụọ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "n'oge ọchịchị"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "על",
+      "gloss": "na-achị"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ka o wuru"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ụlọ ahụ",
+      "marks": "ụlọ ahụ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "maka Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-27T18:16:27.996607853Z",
+  "model": "glm-5.3"
+}

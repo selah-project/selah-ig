@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 119,
-  "translation": "Mgbe ahụ, agaghị m ihere mgbe m na-ele ⟨את⟩ njirimara ⟨the⟩ iwu gị niile.",
+  "translation": "Mgbe ahụ, agaghị m ihere, mgbe m na-ele ⟨את⟩ ndị iwu nzuzo gị niile anya.",
   "tokens": [
     {
       "surface": "אז",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בהביטי",
-      "gloss": "mgbe m na-ele"
+      "gloss": "mgbe m na-ele anya"
     },
     {
       "surface": "אל",
-      "gloss": "⟨the⟩"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "כל",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "מצותיך",
-      "gloss": "iwu gị"
+      "gloss": "ndị iwu nzuzo gị"
     }
   ],
-  "timestamp": "2026-08-27T14:00:53.923507502Z",
+  "timestamp": "2026-08-27T17:54:08.093042684Z",
   "model": "glm-5.3"
 }

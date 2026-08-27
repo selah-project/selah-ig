@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "ig",
   "chapter": 25,
-  "translation": "Yitschak na Yishmael ụmụ ya bara ya ⟨את⟩ ⟨אתו⟩ n'olulu nkume nke Machpela, n'ọhịa Efron nwa Tsohar nke Heti, nke dị n'ihu Mamre.",
+  "translation": "Ma Yitschak na Yishmael, ụmụ ya, liere ya ⟨את⟩ n'olulu nkume nke HaMachpelah, n'ubi Efron nwa Tsochar onye Heti, nke dị n'ihu Mamre.",
   "tokens": [
     {
       "surface": "ויקברו",
-      "gloss": "bara"
+      "gloss": "liere"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ya (Avraham)"
+      "gloss": "⟨את⟩",
+      "marks": "ya"
     },
     {
       "surface": "יצחק",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "וישמעאל",
-      "gloss": "Yishmael"
+      "gloss": "na Yishmael"
     },
     {
       "surface": "בניו",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "מערת",
-      "gloss": "olulu nkume"
+      "gloss": "olulu nkume nke"
     },
     {
       "surface": "המכפלה",
-      "gloss": "Machpela"
+      "gloss": "HaMachpelah"
     },
     {
       "surface": "אל",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "שדה",
-      "gloss": "ọhịa"
+      "gloss": "ubi"
     },
     {
       "surface": "עפרן",
@@ -58,19 +58,19 @@
     },
     {
       "surface": "צחר",
-      "gloss": "Tsohar"
+      "gloss": "Tsochar"
     },
     {
       "surface": "החתי",
-      "gloss": "nke Heti"
+      "gloss": "onye Heti"
     },
     {
       "surface": "אשר",
-      "gloss": "nke"
+      "gloss": "nke dị"
     },
     {
       "surface": "על",
-      "gloss": "n'ihu"
+      "gloss": "n'"
     },
     {
       "surface": "פני",
@@ -81,6 +81,6 @@
       "gloss": "Mamre"
     }
   ],
-  "timestamp": "2026-08-27T17:27:02.230564944Z",
+  "timestamp": "2026-08-27T18:01:09.376280830Z",
   "model": "glm-5.3"
 }

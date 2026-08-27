@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 4,
-  "translation": "Ọ ga-etinye ⟨את⟩ aka ya n'elu isi nke ⟨the⟩ onyinye-mmehie, ma gbuo ⟨את⟩ ya dịka onyinye-mmehie n'ebe nke a na-egbu ⟨את⟩ onyinye-ọkụ.",
+  "translation": "Ọ ga-etinye aka ya n'isi onyinye-ehụ, ma gbuo ⟨את⟩ ya dịka onyinye-ehụ n'ebe a na-egbu ⟨את⟩ onyinye-ọkụ.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "Ọ ga-etinye"
+      "gloss": "ọ ga-etinye"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "החטאת",
-      "gloss": "onyinye-mmehie"
+      "gloss": "onyinye-ehụ"
     },
     {
       "surface": "ושחט",
@@ -39,11 +39,11 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ya"
+      "marks": "ya (onyinye-ehụ)"
     },
     {
       "surface": "לחטאת",
-      "gloss": "dịka onyinye-mmehie"
+      "gloss": "dịka onyinye-ehụ"
     },
     {
       "surface": "במקום",
@@ -67,6 +67,6 @@
       "gloss": "onyinye-ọkụ"
     }
   ],
-  "timestamp": "2026-08-27T06:46:19.953779298Z",
+  "timestamp": "2026-08-27T17:32:20.647043129Z",
   "model": "glm-5.3"
 }

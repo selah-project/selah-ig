@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 15,
-  "translation": "Menachem wepụtara ⟨את⟩ ọlaọcha ahụ n'elu Yisrael, n'elu ndị dike niile nke ike, iji nye eze Ashshur shekel iri ise nke ọlaọcha maka nwoke ọ bụla; eze Ashshur we laghachi, ma ọ nọghị ebe ahụ n'ala ahụ.",
+  "translation": "Menachem wepụtara ⟨את⟩ ọlaọcha aha n'Izrel, n'aka mmadụ niile nwere ike na akụ, iji nye eze Ashur — shekel ọlaọcha iri ise maka onye ọ bụla; eze Ashụr we laghachighị, ọ nọghịkwa n'ebe ahụ n'ala ahụ.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -18,23 +18,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ọlaọcha ahụ"
+      "marks": "ọlaọcha"
     },
     {
       "surface": "הכסף",
-      "gloss": "ọlaọcha ahụ"
+      "gloss": "ọlaọcha"
     },
     {
       "surface": "על",
-      "gloss": "n'elu"
+      "gloss": "na"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Izrel"
     },
     {
       "surface": "על",
-      "gloss": "n'elu"
+      "gloss": "n'aka"
     },
     {
       "surface": "כל",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "גבורי",
-      "gloss": "ndị dike"
+      "gloss": "mmadụ nwere ike"
     },
     {
       "surface": "החיל",
-      "gloss": "nke ike"
+      "gloss": "na akụ"
     },
     {
       "surface": "לתת",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ashshur"
+      "gloss": "Ashur"
     },
     {
       "surface": "חמשים",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "maka nwoke"
+      "gloss": "maka onye"
     },
     {
       "surface": "אחד",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "laghachi"
+      "gloss": "laghachiri"
     },
     {
       "surface": "מלך",
@@ -90,37 +90,25 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ashshur"
-    },
-    {
-      "surface": "וישב",
-      "gloss": "ma... nọghị"
-    },
-    {
-      "surface": "מלך",
-      "gloss": "eze"
-    },
-    {
-      "surface": "אשור",
-      "gloss": "Ashshur"
+      "gloss": "Ashur"
     },
     {
       "surface": "ולא",
-      "gloss": "ọ nọghị"
+      "gloss": "ọ nọghịkwa"
     },
     {
       "surface": "עמד",
-      "gloss": "nọghị"
+      "gloss": "nọrọ"
     },
     {
       "surface": "שם",
-      "gloss": "ebe ahụ"
+      "gloss": "n'ebe ahụ"
     },
     {
       "surface": "בארץ",
-      "gloss": "n'ala ahụ"
+      "gloss": "n'ala"
     }
   ],
-  "timestamp": "2026-08-27T10:23:08.307810857Z",
+  "timestamp": "2026-08-27T17:43:56.685417844Z",
   "model": "glm-5.3"
 }

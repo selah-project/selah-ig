@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 7,
-  "translation": "Ma anya m agaghị enyo mmadụ, mụkwa agaghị achere; dịka ⟨the⟩ ụzọ gị si dị ka m na-atụnye gị, ma ihe jọrọ njọ gị ga-adị n'etiti gị; unu ga-amata na m bụ Yahwe, Onye na-akụ.",
+  "translation": "Ma anya m agaghị ⟨enye mgbaka⟩, m ga-agbakwaghị ọmịiko; dịka ụzọ gị si dị ka m na-ewetakwa gị, na ihe rụrụ arụ gị ga-adị n'etiti gị; ụnụ ga-amata na m bụ Yahwe, ⟨onye na-eti ihe⟩.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ma ... agaghị"
+      "gloss": "ma ọ bụghị"
     },
     {
       "surface": "תחוס",
-      "gloss": "enyo mmadụ"
+      "gloss": "ga-enye mgbaka"
     },
     {
       "surface": "עיני",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "mụkwa agaghị"
+      "gloss": "ọ bụghịkwa"
     },
     {
       "surface": "אחמול",
-      "gloss": "achere"
+      "gloss": "ga-agba ọmịiko"
     },
     {
       "surface": "כדרכיך",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אתן",
-      "gloss": "ka m na-atụnye"
+      "gloss": "m na-eweta"
     },
     {
       "surface": "ותועבותיך",
-      "gloss": "ma ihe jọrọ njọ gị"
+      "gloss": "na ihe rụrụ arụ gị"
     },
     {
       "surface": "בתוכך",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "וידעתם",
-      "gloss": "unu ga-amata"
+      "gloss": "ụnụ ga-amata"
     },
     {
       "surface": "כי",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "מכה",
-      "gloss": "Onye na-akụ"
+      "gloss": "onye na-eti ihe"
     }
   ],
-  "timestamp": "2026-08-27T11:59:14.908963401Z",
+  "timestamp": "2026-08-27T17:49:00.392901271Z",
   "model": "glm-5.3"
 }

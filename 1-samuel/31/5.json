@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "ig",
   "chapter": 31,
-  "translation": "Onye na-ebu ngwá agha ya hụrụ na Shaul anwụọla, o dakwara ya — ya onwe ya — n'elu mma agha ya, wee nwụọ ya.",
+  "translation": "Onye na-ebu ngwá agha ya hụrụ na Shaul anwụọla, o dakwara — ya onwe ya — n'ibu mma agha ya, wee nwụọ ya na ya.",
   "tokens": [
     {
       "surface": "וירא",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ויפל",
-      "gloss": "dakwara"
+      "gloss": "o dakwara"
     },
     {
       "surface": "גם",
-      "gloss": "kwа"
+      "gloss": "— ya onwe ya —"
     },
     {
       "surface": "הוא",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "עמו",
-      "gloss": "ya"
+      "gloss": "ya na ya"
     }
   ],
-  "timestamp": "2026-08-27T09:28:57.614399195Z",
+  "timestamp": "2026-08-27T18:27:53.617834753Z",
   "model": "glm-5.3"
 }

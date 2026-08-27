@@ -5,32 +5,28 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 21,
-  "translation": "O wie iwe kwutọrọ ⟨את⟩ Israel, Jehonatan nwa Shimea, nwanne Dawid, gbuo ya.",
+  "translation": "Ọ bụ ezie na ọ tara Yaakov mmeghari omume ⟨את⟩ Yisrael, Yehonatan nwa Shimei, nwanne David, wee tie ya.",
   "tokens": [
     {
-      "surface": "ויכהו",
-      "gloss": ""
-    },
-    {
       "surface": "ויחרף",
-      "gloss": "⟨את⟩ o wie iwe kwutọrọ"
+      "gloss": "ọ tara mmeghari omume"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Israel"
+      "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ויכהו",
-      "gloss": "gbuo ya"
+      "gloss": "ọ wee tie ya"
     },
     {
       "surface": "יהונתן",
-      "gloss": "Jehonatan"
+      "gloss": "Yehonatan"
     },
     {
       "surface": "בן",
@@ -38,7 +34,7 @@
     },
     {
       "surface": "שמעי",
-      "gloss": "Shimea"
+      "gloss": "Shimei"
     },
     {
       "surface": "אחי",
@@ -46,9 +42,9 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "David"
     }
   ],
-  "timestamp": "2026-08-27T09:42:17.756954357Z",
+  "timestamp": "2026-08-27T17:41:19.862547937Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,28 @@
   "book": "zechariah",
   "lang": "ig",
   "chapter": 11,
-  "translation": "M wee na-ezighi ⟨את⟩ ìgwè atụrụ a ga-egbu, ndị ogbenye nke ⟨the⟩ ìgwè atụrụ ahụ; m were maka m onwe m mkpọkọ abụọ; otu m kpọrọ Noam, nke ọzọ m kpọrọ Họvlim; m wee na-ezighi ⟨את⟩ ìgwè atụrụ ahụ.",
+  "translation": "M na-azụ ⟨את⟩ atụrụ ndị a ga-egbu, ya bụ ndị ogbenye n'ime ìgwè atụrụ; m were maka onwe m mkpọkara abụọ; nke mbụ m kpọrọ aha Noam (Ede mara mma), nke nke ọzọ m kpọrọ aha Chovlim (Unyi). M na-azụ ⟨את⟩ ìgwè atụrụ ahụ.",
   "tokens": [
     {
       "surface": "וארעה",
-      "gloss": "m wee na-ezighi"
+      "gloss": "m na-azụ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ìgwè atụrụ"
+      "marks": "atụrụ"
     },
     {
       "surface": "צאן",
-      "gloss": "ìgwè atụrụ"
+      "gloss": "atụrụ"
     },
     {
       "surface": "ההרגה",
-      "gloss": "a ga-egbu"
+      "gloss": "ndị a ga-egbu"
     },
     {
       "surface": "לכן",
-      "gloss": "ya mere"
+      "gloss": "ya bụ"
     },
     {
       "surface": "עניי",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "הצאן",
-      "gloss": "nke ìgwè atụrụ ahụ"
+      "gloss": "n'ime ìgwè atụrụ"
     },
     {
       "surface": "ואקח",
-      "gloss": "m wee were"
+      "gloss": "m were"
     },
     {
       "surface": "לי",
-      "gloss": "maka m onwe m"
+      "gloss": "maka onwe m"
     },
     {
       "surface": "שני",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "מקלות",
-      "gloss": "mkpọkọ"
+      "gloss": "mkpọkara"
     },
     {
       "surface": "לאחד",
-      "gloss": "otu"
+      "gloss": "nke mbụ"
     },
     {
       "surface": "קראתי",
-      "gloss": "m kpọrọ"
+      "gloss": "m kpọrọ aha"
     },
     {
       "surface": "נעם",
@@ -66,19 +66,19 @@
     },
     {
       "surface": "ולאחד",
-      "gloss": "nke ọzọ"
+      "gloss": "nke nke ọzọ"
     },
     {
       "surface": "קראתי",
-      "gloss": "m kpọrọ"
+      "gloss": "m kpọrọ aha"
     },
     {
       "surface": "חבלים",
-      "gloss": "Họvlim"
+      "gloss": "Chovlim"
     },
     {
       "surface": "וארעה",
-      "gloss": "m wee na-ezighi"
+      "gloss": "m na-azụ"
     },
     {
       "surface": "את",
@@ -90,6 +90,6 @@
       "gloss": "ìgwè atụrụ ahụ"
     }
   ],
-  "timestamp": "2026-08-27T13:08:52.140489469Z",
+  "timestamp": "2026-08-27T17:53:04.606072402Z",
   "model": "glm-5.3"
 }

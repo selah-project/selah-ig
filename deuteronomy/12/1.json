@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 12,
-  "translation": "Ihe ndị a bụ ⟨the⟩ iwu ndị na ⟨the⟩ ikpe ndị nke unu ga-edebe iji mee ha n'⟨the⟩ ala nke Yahwe, Elohim nke nna nna unu, nyere unu iji nwee ya, ụbọchị niile nke unu na-adị ndụ n'⟨the⟩ ala.",
+  "translation": "Nke a ka bụ ihe ndị e nyere iwu na ikpe ndị a na-ekpe, nke unu ga-echebe iji mee n'ala nke Yahwe, Elohim nke ndị nna gị, nyere gị ka iji ketara ya, ụbọchị niile nke unu na-adị ndụ n'elu ⟨ala⟩.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Ihe ndị a"
+      "gloss": "Nke a ka bụ"
     },
     {
       "surface": "החקים",
-      "gloss": "iwu ndị"
+      "gloss": "ihe ndị e nyere iwu"
     },
     {
       "surface": "והמשפטים",
-      "gloss": "na ikpe ndị"
+      "gloss": "na ikpe ndị a na-ekpe"
     },
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "תשמרון",
-      "gloss": "unu ga-edebe"
+      "gloss": "unu ga-echebe"
     },
     {
       "surface": "לעשות",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohim nke"
     },
     {
       "surface": "אבתיך",
-      "gloss": "nke nna nna gị"
+      "gloss": "ndị nna gị"
     },
     {
       "surface": "לך",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "iji nwee ya"
+      "gloss": "ka iji ketara ya"
     },
     {
       "surface": "כל",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "ala"
+      "gloss": "⟨ala⟩"
     }
   ],
-  "timestamp": "2026-08-27T08:02:22.898577324Z",
+  "timestamp": "2026-08-27T18:00:58.984104927Z",
   "model": "glm-5.3"
 }
