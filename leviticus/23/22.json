@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 23,
-  "translation": "Mgbe unu na-ewe ⟨את⟩ owuwe ala unu, ị ghara ịme ka ọ gwụcha n'akụkụ ubi gị n'oge owuwe gị, mkpụkọta owuwe gịkwa ị ghara ịnakọta; maka onye ogbenye na onye ọbịa ga-ahapụ ⟨אתם⟩ ha; m bụ Yahwe, Elohim unu.",
+  "translation": "Mgbe unu na-ewe ⟨את⟩ owuwe ala unu, ị ghara ịme ka ọ gwụcha n'akụkụ ubi gị n'oge owuwe gị, mkpụkọta owuwe gịkwa ị ghara ịnakọta; maka onye ogbenye na onye ọbịa ga-ahapụ ⟨את⟩ ⟨אתם⟩ ha; m bụ Yahwe, Elohim unu.",
   "tokens": [
     {
       "surface": "ובקצרכם",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ha (onye ogbenye na onye ọbịa)"
     },
     {
@@ -90,6 +90,6 @@
       "gloss": "Elohim unu"
     }
   ],
-  "timestamp": "2026-08-27T07:06:01.499472097Z",
+  "timestamp": "2026-08-27T17:27:02.271760301Z",
   "model": "glm-5.3"
 }

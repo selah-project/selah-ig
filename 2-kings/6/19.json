@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "ig",
   "chapter": 6,
-  "translation": "Elisha wee kwuo ha okwu, sị: Ọ bụghị ụzọ a, ọ bụghịkwa obodo a. Nọrọ m so, m ga-edu ⟨אתכם⟩ gaa n'aka nwoke ahụ ị na-achọ. O wee duru ⟨אתם⟩ ha gaa Shomron.",
+  "translation": "Elisha wee kwuo ha okwu, sị: Ọ bụghị ụzọ a, ọ bụghịkwa obodo a. Nọrọ m so, m ga-edu ⟨את⟩ ⟨אתכם⟩ gaa n'aka nwoke ahụ ị na-achọ. O wee duru ⟨את⟩ ⟨אתם⟩ ha gaa Shomron.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "unu"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ha"
     },
     {
@@ -90,6 +90,6 @@
       "gloss": "Shomron"
     }
   ],
-  "timestamp": "2026-08-27T10:15:48.668135942Z",
+  "timestamp": "2026-08-27T17:27:02.270691464Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 31,
-  "translation": "Yahwe ga-emekwa ha ihe dịka o mere Sihọn na Og, ndị eze ndị Amọrịa, na ala ha — bụ́ ndị O mebiri ⟨אתם⟩.",
+  "translation": "Yahwe ga-emekwa ha ihe dịka o mere Sihọn na Og, ndị eze ndị Amọrịa, na ala ha — bụ́ ndị O mebiri ⟨את⟩ ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ועשה",
@@ -57,10 +57,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ha"
     }
   ],
-  "timestamp": "2026-08-27T08:17:53.550592671Z",
+  "timestamp": "2026-08-27T17:27:02.263501268Z",
   "model": "glm-5.3"
 }

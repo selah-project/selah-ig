@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 146,
-  "translation": "M ga-atọ Yahwe n'oge ndụ m; m ga-agụ ⟨את⟩ abụ ⟨את⟩ Elohim m mgbe m ka dị.",
+  "translation": "M ga-atọ Yahwe n'oge ndụ m; m ga-agụ ⟨את⟩ abụ Elohim m mgbe m ka dị.",
   "tokens": [
     {
       "surface": "אהללה",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "לאלהי",
-      "gloss": "⟨את⟩ Elohim m"
+      "gloss": "Elohim m"
     },
     {
       "surface": "בעודי",
       "gloss": "mgbe m ka dị"
     }
   ],
-  "timestamp": "2026-08-27T14:10:32.901395856Z",
+  "timestamp": "2026-08-27T17:27:02.243539287Z",
   "model": "glm-5.3"
 }

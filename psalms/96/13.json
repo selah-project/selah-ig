@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 96,
-  "translation": "N'ihu Yahwe, n'ihi na ọ bịara, n'ihi na ọ bịara ikpe ⟨את⟩ ụwa; ọ ga-ekpe ⟨את⟩ tevel n'ụzọ ziri ezi, ma ⟨את⟩ ndị agbụrụ n'eziokwu ya.",
+  "translation": "N'ihu Yahwe, n'ihi na ọ bịara, n'ihi na ọ bịara ikpe ụwa; ọ ga-ekpe tevel n'ụzọ ziri ezi, ma ⟨את⟩ ndị agbụrụ n'eziokwu ya.",
   "tokens": [
     {
       "surface": "לפני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨את⟩ ụwa"
+      "gloss": "ụwa"
     },
     {
       "surface": "ישפט",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "תבל",
-      "gloss": "⟨את⟩ tevel"
+      "gloss": "tevel"
     },
     {
       "surface": "בצדק",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "ועמים",
-      "gloss": "ma ⟨את⟩ ndị agbụrụ"
+      "gloss": "ma ndị agbụrụ"
     },
     {
       "surface": "באמונתו",
       "gloss": "n'eziokwu ya"
     }
   ],
-  "timestamp": "2026-08-27T13:49:38.405874474Z",
+  "timestamp": "2026-08-27T17:27:02.248322250Z",
   "model": "glm-5.3"
 }

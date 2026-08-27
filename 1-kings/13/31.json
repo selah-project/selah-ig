@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 13,
-  "translation": "Ọ bịara mgbe ọ liechara ⟨אתו⟩ ya, ọ gwara ụmụ ya okwu, na-asị, sị: Mgbe m nwụsịrị, unu ga-eli m n'ili ahụ nwoke nke Elohim a lielu n'ime ya; n'akụkụ ọkpụkpụ ya ka unu ga-etinye ⟨את⟩ ọkpụkpụ m.",
+  "translation": "Ọ bịara mgbe ọ liechara ⟨את⟩ ⟨אתו⟩ ya, ọ gwara ụmụ ya okwu, na-asị, sị: Mgbe m nwụsịrị, unu ga-eli m n'ili ahụ nwoke nke Elohim a lielu n'ime ya; n'akụkụ ọkpụkpụ ya ka unu ga-etinye ⟨את⟩ ọkpụkpụ m.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ya"
     },
     {
@@ -99,6 +99,6 @@
       "gloss": "ọkpụkpụ m"
     }
   ],
-  "timestamp": "2026-08-27T10:02:42.147108051Z",
+  "timestamp": "2026-08-27T17:27:02.281229968Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 20,
-  "translation": "Ị ga-amara na m bụ Yahwe mgbe m na-ewebata ⟨אתכם⟩ n'ala Yisrael, n'ala nke m welitere ⟨את⟩ aka m iji nye ya ndị nna unu.",
+  "translation": "Ị ga-amara na m bụ Yahwe mgbe m na-ewebata ⟨את⟩ ⟨אתכם⟩ n'ala Yisrael, n'ala nke m welitere ⟨את⟩ aka m iji nye ya ndị nna unu.",
   "tokens": [
     {
       "surface": "וידעתם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "unu"
     },
     {
@@ -83,6 +83,6 @@
       "gloss": "ndị nna unu"
     }
   ],
-  "timestamp": "2026-08-27T12:11:55.524608834Z",
+  "timestamp": "2026-08-27T17:27:02.265028715Z",
   "model": "glm-5.3"
 }

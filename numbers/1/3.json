@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Site na nwa afọ iri abụọ na ọzọ, onye ọ bụla na-apụta na ndị agha na Yisrael, unu ga-edetu ha ⟨אתם⟩ site na ndị agha ha, gị na Aharon.",
+  "translation": "Site na nwa afọ iri abụọ na ọzọ, onye ọ bụla na-apụta na ndị agha na Yisrael, unu ga-edetu ha ⟨את⟩ ⟨אתם⟩ site na ndị agha ha, gị na Aharon.",
   "tokens": [
     {
       "surface": "מבן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ha"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "na Aharon"
     }
   ],
-  "timestamp": "2026-08-27T07:10:50.809463124Z",
+  "timestamp": "2026-08-27T17:27:02.277893302Z",
   "model": "glm-5.3"
 }

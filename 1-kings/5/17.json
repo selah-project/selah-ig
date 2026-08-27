@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "ig",
   "chapter": 5,
-  "translation": "Ị maara ⟨את⟩ David, nna m, na o nweghị ike iwu ụlọ maka aha Yahwe, Elohim ya, n'ihi ⟨the⟩ agha ndị gbara ya gburugburu, ruo mgbe Yahwe nyere ⟨אתם⟩ ha n'okpuru ụkwụ ya.",
+  "translation": "Ị maara ⟨את⟩ David, nna m, na o nweghị ike iwu ụlọ maka aha Yahwe, Elohim ya, n'ihi ⟨the⟩ agha ndị gbara ya gburugburu, ruo mgbe Yahwe nyere ⟨את⟩ ⟨אתם⟩ ha n'okpuru ụkwụ ya.",
   "tokens": [
     {
       "surface": "אתה",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ha"
     },
     {
@@ -106,6 +106,6 @@
       "gloss": "ụkwụ ya"
     }
   ],
-  "timestamp": "2026-08-27T09:55:48.850968147Z",
+  "timestamp": "2026-08-27T17:27:02.280194016Z",
   "model": "glm-5.3"
 }

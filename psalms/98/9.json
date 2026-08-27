@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 98,
-  "translation": "N'ihu Yahwe, n'ihi na ọ bịọla ikpe ⟨את⟩ ụwa; ọ ga-ikpe ⟨את⟩ tevel n'ụgwụ ziri ezi, na ⟨את⟩ mba ndị n'ịkwụwa ụkwụ.",
+  "translation": "N'ihu Yahwe, n'ihi na ọ bịọla ikpe ụwa; ọ ga-ikpe tevel n'ụgwụ ziri ezi, na ⟨את⟩ mba ndị n'ịkwụwa ụkwụ.",
   "tokens": [
     {
       "surface": "לפני",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨את⟩ ụwa",
+      "gloss": "ụwa",
       "marks": "ụwa"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "surface": "תבל",
-      "gloss": "⟨את⟩ tevel",
+      "gloss": "tevel",
       "marks": "tevel"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "surface": "ועמים",
-      "gloss": "na ⟨את⟩ mba ndị",
+      "gloss": "na mba ndị",
       "marks": "mba ndị"
     },
     {
@@ -55,6 +55,6 @@
       "gloss": "n'ịkwụwa ụkwụ"
     }
   ],
-  "timestamp": "2026-08-27T13:52:34.948627090Z",
+  "timestamp": "2026-08-27T17:27:02.249042994Z",
   "model": "glm-5.3"
 }

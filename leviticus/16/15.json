@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ig",
   "chapter": 16,
-  "translation": "Ma ọ ga-egbu ⟨את⟩ mbe nke onyinye mmehie, nke bụ maka ndị mmadụ, ma tinye ⟨את⟩ ọbara ya n'ime akwa mkpuchi, ma mee ihe banyere ⟨את⟩ ọbara ya dịka ọ mere maka ọbara nke ehụmme, ma fesa ⟨אתו⟩ ya n'elu Kapporet na n'ihu Kapporet.",
+  "translation": "Ma ọ ga-egbu ⟨את⟩ mbe nke onyinye mmehie, nke bụ maka ndị mmadụ, ma tinye ⟨את⟩ ọbara ya n'ime akwa mkpuchi, ma mee ihe banyere ⟨את⟩ ọbara ya dịka ọ mere maka ọbara nke ehụmme, ma fesa ⟨את⟩ ⟨אתו⟩ ya n'elu Kapporet na n'ihu Kapporet.",
   "tokens": [
     {
       "surface": "ושחט",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩ ya",
+      "gloss": "⟨את⟩ ⟨אתו⟩ ya",
       "marks": "ọbara (mbe)"
     },
     {
@@ -112,6 +112,6 @@
       "gloss": "Kapporet"
     }
   ],
-  "timestamp": "2026-08-27T06:58:17.985919769Z",
+  "timestamp": "2026-08-27T17:27:02.272119124Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "ig",
   "chapter": 33,
-  "translation": "Ma unu kwuru, 'Ụzọ Adonai adịghị ziri ezi.' Dịka ụzọ onye ọ bụla n'ime unu, ka m ga-ekpe ⟨אתכם⟩ ikpe, Ụlọ Yisrael.",
+  "translation": "Ma unu kwuru, 'Ụzọ Adonai adịghị ziri ezi.' Dịka ụzọ onye ọ bụla n'ime unu, ka m ga-ekpe ⟨את⟩ ⟨אתכם⟩ ikpe, Ụlọ Yisrael.",
   "tokens": [
     {
       "surface": "ואמרתם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "unu, Ụlọ Yisrael"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-27T16:44:38.198959620Z",
+  "timestamp": "2026-08-27T17:27:02.264303742Z",
   "model": "glm-5.3"
 }

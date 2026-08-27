@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "ig",
   "chapter": 1,
-  "translation": "Ha kwuru ya: N'ihi na anyị ⟨אתך⟩ ga-alaghachi, gaa ná mmadụ gị.",
+  "translation": "Ha kwuru ya: N'ihi na anyị ⟨את⟩ ⟨אתך⟩ ga-alaghachi, gaa ná mmadụ gị.",
   "tokens": [
     {
       "surface": "ותאמרנה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩"
+      "gloss": "⟨את⟩ ⟨אתך⟩"
     },
     {
       "surface": "נשוב",
@@ -32,6 +32,6 @@
       "gloss": "gaa ná mmadụ gị"
     }
   ],
-  "timestamp": "2026-08-27T15:04:30.461796461Z",
+  "timestamp": "2026-08-27T17:27:02.255446446Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 20,
-  "translation": "Ha ga-ekwu okwu, ndị isi ahụ, nye ⟨את⟩ ndị ahụ, ka ha kwuo: Onye nwoke nke wuwo ụlọ ọhụrụ ma chụkwasa ya àjà mmeghe, ka ọ gaa ma laghachi n'ụlọ ya, ka o meghị na ọ nwụọ n'agha, ma onye nwoke ọzọ chụọ ya àjà mmeghe.",
+  "translation": "Ha ga-ekwu okwu, ndị isi ahụ, nye ndị ahụ, ka ha kwuo: Onye nwoke nke wuwo ụlọ ọhụrụ ma chụkwasa ya àjà mmeghe, ka ọ gaa ma laghachi n'ụlọ ya, ka o meghị na ọ nwụọ n'agha, ma onye nwoke ọzọ chụọ ya àjà mmeghe.",
   "tokens": [
     {
       "surface": "ודברו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨את⟩ ndị ahụ"
+      "gloss": "ndị ahụ"
     },
     {
       "surface": "לאמר",
@@ -96,6 +96,6 @@
       "gloss": "chụọ ya àjà mmeghe"
     }
   ],
-  "timestamp": "2026-08-27T08:06:08.446064219Z",
+  "timestamp": "2026-08-27T17:27:02.262812156Z",
   "model": "glm-5.3"
 }

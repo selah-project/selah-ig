@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "ig",
   "chapter": 11,
-  "translation": "M wee sị, M gaghị elekọta ⟨אתכם⟩ unu: onye na-anwụ, ka ọ nwụọ; one a na-ehichapụ, ka a hapụ ya ka ọ laa; ma ndị fọdụrụ, onye ọ bụla ha rie ⟨את⟩ anụ nke onye ya na ya na-ezukọ.",
+  "translation": "M wee sị, M gaghị elekọta ⟨את⟩ ⟨אתכם⟩ unu: onye na-anwụ, ka ọ nwụọ; one a na-ehichapụ, ka a hapụ ya ka ọ laa; ma ndị fọdụrụ, onye ọ bụla ha rie ⟨את⟩ anụ nke onye ya na ya na-ezukọ.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "unu"
     },
     {
@@ -66,6 +66,6 @@
       "gloss": "nke onye ya na ya na-ezukọ"
     }
   ],
-  "timestamp": "2026-08-27T13:06:57.908137836Z",
+  "timestamp": "2026-08-27T17:27:02.236985199Z",
   "model": "glm-5.3"
 }

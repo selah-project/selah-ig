@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ig",
   "chapter": 4,
-  "translation": "Gị na ị ga-agwa ya okwu, gịkwa na ị ga-etinye ⟨את⟩ okwu ndị ahụ n'ọnụ ya; mụ onwem ga-adị na ọnụ gị na na ọnụ ya, mụkwa ga-agụziri ⟨אתכם⟩ ⟨את⟩ ihe unu ga-eme.",
+  "translation": "Gị na ị ga-agwa ya okwu, gịkwa na ị ga-etinye ⟨את⟩ okwu ndị ahụ n'ọnụ ya; mụ onwem ga-adị na ọnụ gị na na ọnụ ya, mụkwa ga-agụziri ⟨את⟩ ⟨אתכם⟩ ⟨את⟩ ihe unu ga-eme.",
   "tokens": [
     {
       "surface": "ודברת",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "unu"
     },
     {
@@ -79,6 +79,6 @@
       "gloss": "unu ga-eme"
     }
   ],
-  "timestamp": "2026-08-27T06:08:41.877416492Z",
+  "timestamp": "2026-08-27T17:27:02.252046877Z",
   "model": "glm-5.3"
 }

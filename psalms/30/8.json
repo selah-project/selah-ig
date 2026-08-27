@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ig",
   "chapter": 30,
-  "translation": "Yahwe, n'ọnọdụ ọchịchị gị, i na-edozi ⟨את⟩ ugwu m ⟨dịka⟩ ike; zoro ⟨את⟩ ihu gị, amụbaam ahụ.",
+  "translation": "Yahwe, n'ọnọdụ ọchịchị gị, i na-edozi ugwu m ⟨dịka⟩ ike; zoro ihu gị, amụbaam ahụ.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "להררי",
-      "gloss": "⟨את⟩ ugwu m"
+      "gloss": "ugwu m"
     },
     {
       "surface": "עז",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "פניך",
-      "gloss": "⟨את⟩ ihu gị"
+      "gloss": "ihu gị"
     },
     {
       "surface": "הייתי",
@@ -44,6 +44,6 @@
       "gloss": "ahụ"
     }
   ],
-  "timestamp": "2026-08-27T13:23:29.426868262Z",
+  "timestamp": "2026-08-27T17:27:02.244521604Z",
   "model": "glm-5.3"
 }

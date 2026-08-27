@@ -5,14 +5,14 @@
   "book": "numbers",
   "lang": "ig",
   "chapter": 26,
-  "translation": "Moshe na Elazar onye-nchu-aja gbara ⟨אתם⟩ okwu n'ala dị larịị nke Moab, n'akụkụ Osimiri Yarden, n'ebe Yeriko, sị:",
+  "translation": "Moshe na Elazar onye-nchu-aja gbara ⟨את⟩ ⟨אתם⟩ okwu n'ala dị larịị nke Moab, n'akụkụ Osimiri Yarden, n'ebe Yeriko, sị:",
   "tokens": [
     {
       "surface": "וידבר",
       "gloss": "gbaara...okwu"
     },
     {
-      "surface": "מֹשֶׁה",
+      "surface": "משה",
       "gloss": "Moshe"
     },
     {
@@ -25,27 +25,27 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ha (ndị Israel)"
     },
     {
-      "surface": "בְּעַרְבֹת",
+      "surface": "בערבת",
       "gloss": "n'ala dị larịị"
     },
     {
-      "surface": "מוֹאָב",
+      "surface": "מואב",
       "gloss": "Moab"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "n'akụkụ"
     },
     {
-      "surface": "יַרְדֵּן",
+      "surface": "ירדן",
       "gloss": "Osimiri Yarden"
     },
     {
-      "surface": "יְרֵחוֹ",
+      "surface": "ירחו",
       "gloss": "Yeriko"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "sị"
     }
   ],
-  "timestamp": "2026-08-27T07:36:21.955296401Z",
+  "timestamp": "2026-08-27T17:27:02.277195333Z",
   "model": "glm-5.3"
 }

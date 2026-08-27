@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "ig",
   "chapter": 8,
-  "translation": "nke eze nyere ndị Juu nọ n'obodo ọ bụla ka ha gbakọọ ọnụ ma guzo maka ndụ ha, ibibi, igbu, na ime ka ṅkwaa ⟨את⟩ ike niile nke mme na nke mpaghara ndị na-emetụta ha aka ike ⟨אתם⟩ ụmụaka na ụmụ nwanyị, na iwere ihe ha dị ka ihe mwakpo.",
+  "translation": "nke eze nyere ndị Juu nọ n'obodo ọ bụla ka ha gbakọọ ọnụ ma guzo maka ndụ ha, ibibi, igbu, na ime ka ṅkwaa ⟨את⟩ ike niile nke mme na nke mpaghara ndị na-emetụta ha aka ike ⟨את⟩ ⟨אתם⟩ ụmụaka na ụmụ nwanyị, na iwere ihe ha dị ka ihe mwakpo.",
   "tokens": [
     {
       "surface": "אשר",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ụmụaka"
     },
     {
@@ -114,6 +114,6 @@
       "gloss": "di ka ihe mwakpo"
     }
   ],
-  "timestamp": "2026-08-27T15:23:59.785764607Z",
+  "timestamp": "2026-08-27T17:27:02.231340665Z",
   "model": "glm-5.3"
 }

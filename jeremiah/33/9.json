@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "ig",
   "chapter": 33,
-  "translation": "Ọ ga-abụrị m maka aha ọṅụ, maka otuto na maka nsọpụrụ, nye mba niile nke ⟨ụwa⟩, ndị ga-anụ ⟨את⟩ ọma niile nke m na-eme ⟨אתם⟩ ha; ha ga-atụ egwu ma na-ama jijiji n'ihi ọma niile na udo niile nke m na-eme ya.",
+  "translation": "Ọ ga-abụrị m maka aha ọṅụ, maka otuto na maka nsọpụrụ, nye mba niile nke ⟨ụwa⟩, ndị ga-anụ ⟨את⟩ ọma niile nke m na-eme ⟨את⟩ ⟨אתם⟩ ha; ha ga-atụ egwu ma na-ama jijiji n'ihi ọma niile na udo niile nke m na-eme ya.",
   "tokens": [
     {
       "surface": "והיתה",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ha"
     },
     {
@@ -130,6 +130,6 @@
       "gloss": "ya"
     }
   ],
-  "timestamp": "2026-08-27T11:40:56.989910082Z",
+  "timestamp": "2026-08-27T17:27:02.238741384Z",
   "model": "glm-5.3"
 }

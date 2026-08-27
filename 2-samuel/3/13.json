@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "ig",
   "chapter": 3,
-  "translation": "O sịrị: Ọ dị mma; m ga-ekupụ ⟨אתך⟩ ndọrọ na gị; mana otu okwu ka m na-aju site ⟨אתך⟩ gị, na-asị: Ị gaghị ahụ ⟨את⟩ ihu m ma ọ bụghị tupu ị ewetala Mikal nwa Saụl; mgbe ị na-abata ịhụ ⟨את⟩ ihu m.",
+  "translation": "O sịrị: Ọ dị mma; m ga-ekupụ ⟨אתך⟩ ndọrọ na gị; mana otu okwu ka m na-aju ⟨את⟩ site ⟨אתך⟩ gị, na-asị: Ị gaghị ahụ ⟨את⟩ ihu m ma ọ bụghị tupu ị ewetala Mikal nwa Saụl; mgbe ị na-abata ịhụ ⟨את⟩ ihu m.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩ na gị"
+      "gloss": "⟨את⟩ ⟨אתך⟩ na gị"
     },
     {
       "surface": "ברית",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "site ⟨אתך⟩ gị"
+      "gloss": "⟨את⟩ site ⟨אתך⟩ gị"
     },
     {
       "surface": "לאמר",
@@ -127,6 +127,6 @@
       "gloss": "ihu m"
     }
   ],
-  "timestamp": "2026-08-27T09:30:06.096480813Z",
+  "timestamp": "2026-08-27T17:27:02.225972194Z",
   "model": "glm-5.3"
 }

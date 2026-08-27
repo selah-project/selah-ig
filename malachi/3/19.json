@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "ig",
   "chapter": 3,
-  "translation": "N'ihi na le, ụbọchị ahụ na-abịa, na-ere ọkụ dịka ite ọkụ; mmadụ niile ndị okwu mkparị na mmadụ niile na-eme ihe ọjọ ga-abụ ahịhịa kpọrọ nkụ, ma ọkụ ga-ere ha ⟨אתם⟩ ahụ — ụbọchị ahụ na-abịa, ka Yahwe nke ndị agha kwuru — nke agaghị ahapụ ha mgbọrọgwụ ma ọ bụ alaka.",
+  "translation": "N'ihi na le, ụbọchị ahụ na-abịa, na-ere ọkụ dịka ite ọkụ; mmadụ niile ndị okwu mkparị na mmadụ niile na-eme ihe ọjọ ga-abụ ahịhịa kpọrọ nkụ, ma ọkụ ga-ere ha ⟨את⟩ ⟨אתם⟩ ahụ — ụbọchị ahụ na-abịa, ka Yahwe nke ndị agha kwuru — nke agaghị ahapụ ha mgbọrọgwụ ma ọ bụ alaka.",
   "tokens": [
     {
       "surface": "כי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ha"
     },
     {
@@ -113,6 +113,6 @@
       "gloss": "ma ọ bụ alaka"
     }
   ],
-  "timestamp": "2026-08-27T13:12:07.712867812Z",
+  "timestamp": "2026-08-27T17:27:02.256916881Z",
   "model": "glm-5.3"
 }

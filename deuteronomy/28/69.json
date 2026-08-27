@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 28,
-  "translation": "Ndị a bụ okwu nke ọgbụgba-ndụ nke Yahwe nyere iwu ka o mee ⟨את⟩ Moshe ka o kee ⟨את⟩ ya na ụmụ Yisrael, n'ala Moab, n'ezighị ezi n'ọgbụgba-ndụ ọzọ nke o kwere ⟨אתם⟩ na ha na Horev.",
+  "translation": "Ndị a bụ okwu nke ọgbụgba-ndụ nke Yahwe nyere iwu ka o mee ⟨את⟩ Moshe ka o kee ⟨את⟩ ya na ụmụ Yisrael, n'ala Moab, n'ezighị ezi n'ọgbụgba-ndụ ọzọ nke o kwere ⟨את⟩ ⟨אתם⟩ na ha na Horev.",
   "tokens": [
     {
       "surface": "אלה",
@@ -83,13 +83,13 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩"
+      "gloss": "⟨את⟩ ⟨אתם⟩"
     },
     {
       "surface": "בחרב",
       "gloss": "na Horev"
     }
   ],
-  "timestamp": "2026-08-27T08:11:19.884197939Z",
+  "timestamp": "2026-08-27T17:27:02.262116682Z",
   "model": "glm-5.3"
 }

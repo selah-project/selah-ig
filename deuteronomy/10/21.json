@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ig",
   "chapter": 10,
-  "translation": "Ya ⟨onwe⟩ ⟨n'⟩ọ̀ nke otuto gị; o ⟨bụ⟩ Elohim gị, onye mere ⟨אתכם⟩ gịnile ⟨את⟩ ihe ukwu ndị a na ⟨את⟩ ihe na-atụ ụjụ ndị a, nke anya gị hụrụ.",
+  "translation": "Ya ⟨onwe⟩ ⟨n'⟩ọ̀ nke otuto gị; o ⟨bụ⟩ Elohim gị, onye mere ⟨את⟩ ⟨אתכם⟩ gịnile ⟨את⟩ ihe ukwu ndị a na ⟨את⟩ ihe na-atụ ụjụ ndị a, nke anya gị hụrụ.",
   "tokens": [
     {
       "surface": "הוא",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתכם⟩ gịnile"
+      "gloss": "⟨את⟩ ⟨אתכם⟩ gịnile"
     },
     {
       "surface": "את",
@@ -70,6 +70,6 @@
       "gloss": "anya gị"
     }
   ],
-  "timestamp": "2026-08-27T07:55:11.598820487Z",
+  "timestamp": "2026-08-27T17:27:02.261410466Z",
   "model": "glm-5.3"
 }

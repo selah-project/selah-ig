@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "ig",
   "chapter": 30,
-  "translation": "Ugbu a, bịa, dee ya n'elu bọọdụ ⟨אתם⟩, were dee ya n'akwụkwọ, ka ọ wee bụrụ maka ụbọchị ikpeazụ, maka àkàngà ruo mgbe ebighị ebi.",
+  "translation": "Ugbu a, bịa, dee ya n'elu bọọdụ ⟨את⟩ ⟨אתם⟩, were dee ya n'akwụkwọ, ka ọ wee bụrụ maka ụbọchị ikpeazụ, maka àkàngà ruo mgbe ebighị ebi.",
   "tokens": [
     {
       "surface": "עתה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ha \/ n'ihu ha"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "mgbe ebighị ebi"
     }
   ],
-  "timestamp": "2026-08-27T10:51:48.153346504Z",
+  "timestamp": "2026-08-27T17:27:02.273525443Z",
   "model": "glm-5.3"
 }
