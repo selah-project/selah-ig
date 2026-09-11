@@ -67,3 +67,8 @@ Hibru, site n'iwu ndị ahụ, site n'isi mmalite na site na
 ndakọrịta — ha nwere ike ịnabata, isoro gị mezie, ichere ihe
 akaebe ọzọ, ma ọ bụ jụ ya ma gosi ihe kpatara ya. Ihe a na-atule
 bụ okwu — ọ bụghị mmadụ.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
