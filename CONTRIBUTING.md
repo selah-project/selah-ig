@@ -13,7 +13,7 @@ karịa, dịkwa Igbo nso karịa. Ọ dịghị mkpa ịbụ ọkà mmụta: kw
 - Ọ bụrụ na mmejọ na mmezi abụọ doro anya — mepee **Pull
   request**.
 - Maka okwu sọftụwia ma ọ bụ nchekwa/akaụntụ/nzuzo —
-  [Selah Support](https://selahproject.com/support).
+  [Selah Support](https://s33k3r.com/learn/support).
 
 ## Ihe ọ bara uru itinye
 

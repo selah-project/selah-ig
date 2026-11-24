@@ -76,7 +76,7 @@ bụla n'ihu okwu Igbo ya.
 Nsụgharị a ghere oghe n'okpuru ikike CC BY-SA 4.0. Ọ bụrụ na ọrụ
 a bara gị uru, ị chọọkwa ịkwado nsụgharị, nyocha, mbipụta na
 mmepe — lee:
-[selahproject.com/support](https://selahproject.com/support)
+[s33k3r.com/learn/support](https://s33k3r.com/learn/support)
 
 ## Sonye na nyocha
 
@@ -86,6 +86,6 @@ aro mmezi, gụọ [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Selah
 
-- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
-- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
-- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
+- The languages of Selah — every chair, native name and status: https://s33k3r.com/learn/languages/index
+- How the renderings are made — the process, the discipline, the receipts: https://s33k3r.com/learn/data-sources/selah-renderings
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://s33k3r.com/learn/data-sources/oshb-wlc
